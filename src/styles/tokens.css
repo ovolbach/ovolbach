@@ -1,0 +1,15 @@
+:root {
+  --color-page: #f7f6f2;
+  --color-surface: #ffffff;
+  --color-text: #1d2933;
+  --color-muted: #52616b;
+  --color-border: #d4d8da;
+  --color-accent: #245b78;
+  --color-accent-dark: #153f56;
+  --shadow-subtle: 0 1px 2px rgb(29 41 51 / 8%);
+  --measure: 48rem;
+  --space-1: 0.5rem;
+  --space-2: 1rem;
+  --space-3: 1.5rem;
+  --space-4: 2.5rem;
+}

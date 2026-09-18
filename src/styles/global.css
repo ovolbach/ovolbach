@@ -1,0 +1,396 @@
+@import './tokens.css';
+
+* {
+  box-sizing: border-box;
+}
+
+[hidden] { display: none !important; }
+
+button, input, select { font: inherit; max-width: 100%; }
+button, select, .compare-choice { min-height: 2.75rem; }
+button:focus-visible, input:focus-visible, select:focus-visible, [tabindex="0"]:focus-visible {
+  outline: 3px solid var(--color-accent);
+  outline-offset: 3px;
+}
+.election-selector { display: grid; gap: var(--space-1); }
+.election-selector select { width: 100%; }
+.compare-choice { display: flex; align-items: center; gap: var(--space-1); margin-top: var(--space-2); }
+.comparison-selection { border: 1px solid var(--color-border); padding: var(--space-2); margin-block: var(--space-2); }
+.comparison-selection a, .comparison-selection button { display: inline-block; margin: 0 var(--space-2) var(--space-1) 0; }
+.snapshot-date { margin-block: var(--space-2) 0; color: var(--color-muted); }
+.candidate-card, .comparison-card, .polling-station { overflow-wrap: anywhere; }
+
+html {
+  background: var(--color-page);
+  color: var(--color-text);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.6;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: var(--color-accent-dark);
+  text-decoration-thickness: 0.1em;
+  text-underline-offset: 0.14em;
+}
+
+a:hover {
+  color: var(--color-accent);
+}
+
+a:focus-visible,
+[tabindex="-1"]:focus-visible {
+  outline: 3px solid var(--color-accent);
+  outline-offset: 3px;
+}
+
+.shell,
+main {
+  width: min(calc(100% - 2rem), var(--measure));
+  margin-inline: auto;
+}
+
+main {
+  padding-block: var(--space-4);
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+.skip-link {
+  position: fixed;
+  top: var(--space-1);
+  left: var(--space-1);
+  z-index: 1;
+  padding: var(--space-1) var(--space-2);
+  background: var(--color-accent-dark);
+  color: var(--color-surface);
+  transform: translateY(-150%);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+.site-header {
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-subtle);
+}
+
+.site-header__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-1) var(--space-2);
+  padding-block: var(--space-2);
+}
+
+.site-title {
+  color: var(--color-text);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem var(--space-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.site-nav a {
+  display: inline-block;
+  padding: 0.25rem 0;
+}
+
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+
+.legal-notice {
+  padding-block: var(--space-3);
+  color: var(--color-muted);
+  font-size: 0.9375rem;
+}
+
+.legal-notice p {
+  margin: 0;
+}
+
+.legal-notice p + p {
+  margin-top: var(--space-1);
+}
+
+.site-search {
+  padding-block: var(--space-2);
+}
+
+.site-search form {
+  display: grid;
+  gap: var(--space-1);
+}
+
+.site-search input {
+  width: min(100%, 32rem);
+  padding: var(--space-1);
+  border: 1px solid var(--color-border);
+  border-radius: 0;
+  font: inherit;
+}
+
+.search-status,
+.search-results {
+  margin: 0;
+}
+
+.search-results {
+  display: grid;
+  gap: var(--space-1);
+  padding-inline-start: var(--space-3);
+}
+
+.search-results p {
+  margin: 0;
+}
+
+.district-selector {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: var(--space-1);
+  margin-block: var(--space-3) var(--space-1);
+}
+
+.district-selector label,
+.district-selector select,
+.district-selector button {
+  font: inherit;
+}
+
+.district-selector label {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.district-results > section,
+.candidate-catalogue > section,
+.ballot-section {
+  margin-block: var(--space-4);
+}
+
+[data-district] {
+  display: none;
+}
+
+[data-district]:target {
+  display: block;
+}
+
+.district-selection-ready [data-district] {
+  display: none;
+}
+
+.district-selection-ready [data-district][data-selected] {
+  display: block;
+}
+
+.district-selector__fallback {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1);
+}
+
+.district-selection-ready .district-selector__fallback {
+  display: none;
+}
+
+.candidate-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: var(--space-2);
+}
+
+.candidate-card {
+  padding: var(--space-2);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+
+.candidate-card h3 {
+  margin-top: 0;
+}
+
+.candidate-card dl,
+.candidate-card dd {
+  margin: 0;
+}
+
+.candidate-card dl {
+  display: grid;
+  gap: var(--space-1);
+}
+
+.candidate-card dt {
+  color: var(--color-muted);
+  font-size: 0.875rem;
+}
+
+.candidate-profile > header,
+.candidate-profile > section,
+.claim-section,
+.source-register > li {
+  margin-block: var(--space-4);
+}
+
+.candidacy,
+.claim,
+.source-register article {
+  margin-block: var(--space-2);
+  padding: var(--space-2);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+
+.candidacy dl,
+.source-register dl,
+.candidacy dd,
+.source-register dd {
+  margin: 0;
+}
+
+.candidacy dl,
+.source-register dl {
+  display: grid;
+  gap: var(--space-1);
+}
+
+.candidacy dt,
+.source-register dt,
+.claim__kind,
+.claim__period,
+.source-link__metadata {
+  color: var(--color-muted);
+  font-size: 0.875rem;
+}
+
+.source-link {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-inline-start: var(--space-1);
+}
+
+.claim--quote blockquote {
+  margin-inline: 0;
+  padding-inline-start: var(--space-2);
+  border-inline-start: 0.25rem solid var(--color-border);
+}
+
+.source-register {
+  padding-inline-start: var(--space-3);
+}
+
+.comparison-table-wrap {
+  overflow-x: auto;
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.comparison-table th,
+.comparison-table td {
+  min-width: 15rem;
+  padding: var(--space-2);
+  border: 1px solid var(--color-border);
+  vertical-align: top;
+  text-align: left;
+}
+
+.comparison-table thead th {
+  background: var(--color-surface);
+}
+
+.comparison-table caption {
+  margin-block-end: var(--space-2);
+  text-align: left;
+}
+
+.comparison-table .claim {
+  margin: 0 0 var(--space-1);
+}
+
+.comparison-table .claim:last-child {
+  margin-block-end: 0;
+}
+
+.comparison-mobile {
+  display: none;
+}
+
+.voting-guide li {
+  margin-block: var(--space-3);
+}
+
+@media (max-width: 42rem) {
+  .comparison-table {
+    display: none;
+  }
+
+  .comparison-mobile {
+    display: block;
+  }
+
+  .comparison-card {
+    margin-block: var(--space-2);
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+  }
+
+  .comparison-card h2,
+  .comparison-card dl {
+    margin: 0;
+    padding: var(--space-2);
+  }
+
+  .comparison-card dl + dl {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .comparison-card h2 {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .comparison-card dt {
+    color: var(--color-muted);
+    font-size: 0.875rem;
+    font-weight: 700;
+  }
+
+  .comparison-card dd {
+    margin: 0 0 var(--space-2);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

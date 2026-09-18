@@ -1,0 +1,997 @@
+[
+  {
+    "id": "candidate-1",
+    "slug": "jan-blchacing-phd",
+    "displayName": "Ján BLCHÁČ, Ing., PhD.",
+    "givenName": "Ján",
+    "familyName": "BLCHÁČ",
+    "titlesAfter": "Ing., PhD.",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "lm-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-2",
+    "slug": "katarina-capovamgr",
+    "displayName": "Katarína ČÁPOVÁ, Mgr.",
+    "givenName": "Katarína",
+    "familyName": "ČÁPOVÁ",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-3",
+    "slug": "oldrich-drahovzalmudr",
+    "displayName": "Oldřich DRAHOVZAL, MUDr.",
+    "givenName": "Oldřich",
+    "familyName": "DRAHOVZAL",
+    "titlesAfter": "MUDr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-4",
+    "slug": "matej-geciing",
+    "displayName": "Matej GÉCI, Ing.",
+    "givenName": "Matej",
+    "familyName": "GÉCI",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-5",
+    "slug": "peter-hrabcak",
+    "displayName": "Peter HRABČÁK",
+    "givenName": "Peter",
+    "familyName": "HRABČÁK",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-6",
+    "slug": "michal-kotianrsdr",
+    "displayName": "Michal KOTIAN, RSDr.",
+    "givenName": "Michal",
+    "familyName": "KOTIAN",
+    "titlesAfter": "RSDr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-7",
+    "slug": "vincent-kultanmgr",
+    "displayName": "Vincent KULTAN, Mgr.",
+    "givenName": "Vincent",
+    "familyName": "KULTAN",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-8",
+    "slug": "branislav-lauko",
+    "displayName": "Branislav LAUKO",
+    "givenName": "Branislav",
+    "familyName": "LAUKO",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-9",
+    "slug": "peter-navratilmgr",
+    "displayName": "Peter NAVRÁTIL, Mgr.",
+    "givenName": "Peter",
+    "familyName": "NAVRÁTIL",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-10",
+    "slug": "ladislav-pardelmgr",
+    "displayName": "Ladislav PARDEL, Mgr.",
+    "givenName": "Ladislav",
+    "familyName": "PARDEL",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-11",
+    "slug": "lubomir-rasiing",
+    "displayName": "Ľubomír RAŠI, Ing.",
+    "givenName": "Ľubomír",
+    "familyName": "RAŠI",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-12",
+    "slug": "ivan-rusina",
+    "displayName": "Ivan RUSINA",
+    "givenName": "Ivan",
+    "familyName": "RUSINA",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-13",
+    "slug": "tana-sufliarskamgr",
+    "displayName": "Táňa ŠUFLIARSKÁ, Mgr.",
+    "givenName": "Táňa",
+    "familyName": "ŠUFLIARSKÁ",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "lm-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-14",
+    "slug": "martina-veselovska",
+    "displayName": "Martina VESELOVSKÁ",
+    "givenName": "Martina",
+    "familyName": "VESELOVSKÁ",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-15",
+    "slug": "matej-blanaring",
+    "displayName": "Matej BLAŇAR, Ing.",
+    "givenName": "Matej",
+    "familyName": "BLAŇAR",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-16",
+    "slug": "tomas-bobrovcan",
+    "displayName": "Tomáš BOBROVČAN",
+    "givenName": "Tomáš",
+    "familyName": "BOBROVČAN",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-17",
+    "slug": "lucia-cukerovaing",
+    "displayName": "Lucia CUKEROVÁ, Ing.",
+    "givenName": "Lucia",
+    "familyName": "CUKEROVÁ",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-18",
+    "slug": "dana-guranovaphdr",
+    "displayName": "Dana GURÁŇOVÁ, PhDr.",
+    "givenName": "Dana",
+    "familyName": "GURÁŇOVÁ",
+    "titlesAfter": "PhDr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-19",
+    "slug": "peter-hutaning",
+    "displayName": "Peter HUŤAN, Ing.",
+    "givenName": "Peter",
+    "familyName": "HUŤAN",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-20",
+    "slug": "peter-hyriaking-mba",
+    "displayName": "Peter HYRIAK, Ing., MBA",
+    "givenName": "Peter",
+    "familyName": "HYRIAK",
+    "titlesAfter": "Ing., MBA",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-21",
+    "slug": "renata-iglarova",
+    "displayName": "Renata IGĽÁROVÁ",
+    "givenName": "Renata",
+    "familyName": "IGĽÁROVÁ",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-22",
+    "slug": "martin-lichardusing-arch",
+    "displayName": "Martin LICHARDUS, Ing. arch.",
+    "givenName": "Martin",
+    "familyName": "LICHARDUS",
+    "titlesAfter": "Ing. arch.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-23",
+    "slug": "roman-malek",
+    "displayName": "Roman MÁLEK",
+    "givenName": "Roman",
+    "familyName": "MÁLEK",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-24",
+    "slug": "tomas-medveding",
+    "displayName": "Tomáš MEDVEĎ, Ing.",
+    "givenName": "Tomáš",
+    "familyName": "MEDVEĎ",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-25",
+    "slug": "miroslav-nesetmgr",
+    "displayName": "Miroslav NESET, Mgr.",
+    "givenName": "Miroslav",
+    "familyName": "NESET",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-26",
+    "slug": "andrej-ohradaning",
+    "displayName": "Andrej OHRAĎAN, Ing.",
+    "givenName": "Andrej",
+    "familyName": "OHRAĎAN",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-27",
+    "slug": "marcela-pavkovcekovamgr",
+    "displayName": "Marcela PAVKOVČEKOVÁ, Mgr.",
+    "givenName": "Marcela",
+    "familyName": "PAVKOVČEKOVÁ",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-28",
+    "slug": "gabriel-slavkovsky",
+    "displayName": "Gabriel SLAVKOVSKÝ",
+    "givenName": "Gabriel",
+    "familyName": "SLAVKOVSKÝ",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-29",
+    "slug": "jan-smieskomgr",
+    "displayName": "Ján SMIEŠKO, Mgr.",
+    "givenName": "Ján",
+    "familyName": "SMIEŠKO",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-30",
+    "slug": "blanka-soukopova",
+    "displayName": "Blanka SOUKOPOVÁ",
+    "givenName": "Blanka",
+    "familyName": "SOUKOPOVÁ",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-31",
+    "slug": "stanislav-svandamgr",
+    "displayName": "Stanislav ŠVANDA, Mgr.",
+    "givenName": "Stanislav",
+    "familyName": "ŠVANDA",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-32",
+    "slug": "andrea-zidekovamudr",
+    "displayName": "Andrea ŽIDEKOVÁ, MUDr.",
+    "givenName": "Andrea",
+    "familyName": "ŽIDEKOVÁ",
+    "titlesAfter": "MUDr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-33",
+    "slug": "jaroslav-barokmudr",
+    "displayName": "Jaroslav BAROK, MUDr.",
+    "givenName": "Jaroslav",
+    "familyName": "BAROK",
+    "titlesAfter": "MUDr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-34",
+    "slug": "miroslav-bodamudr",
+    "displayName": "Miroslav BOĎA, MUDr.",
+    "givenName": "Miroslav",
+    "familyName": "BOĎA",
+    "titlesAfter": "MUDr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-35",
+    "slug": "ivan-celenga",
+    "displayName": "Ivan CELENGA",
+    "givenName": "Ivan",
+    "familyName": "CELENGA",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-36",
+    "slug": "jaroslav-cefoing-mba",
+    "displayName": "Jaroslav ČEFO, Ing., MBA",
+    "givenName": "Jaroslav",
+    "familyName": "ČEFO",
+    "titlesAfter": "Ing., MBA",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-37",
+    "slug": "anna-dvorscakovamgr-mba",
+    "displayName": "Anna DVORŠČÁKOVÁ, Mgr., MBA",
+    "givenName": "Anna",
+    "familyName": "DVORŠČÁKOVÁ",
+    "titlesAfter": "Mgr., MBA",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-38",
+    "slug": "jakub-haluskaing",
+    "displayName": "Jakub HALUŠKA, Ing.",
+    "givenName": "Jakub",
+    "familyName": "HALUŠKA",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-39",
+    "slug": "martin-chrapciaking",
+    "displayName": "Martin CHRAPČIAK, Ing.",
+    "givenName": "Martin",
+    "familyName": "CHRAPČIAK",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-40",
+    "slug": "jana-junasova-klimovamgr",
+    "displayName": "Jana JUNASOVÁ KLÍMOVÁ, Mgr.",
+    "givenName": "Jana JUNASOVÁ",
+    "familyName": "KLÍMOVÁ",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-41",
+    "slug": "lukas-kelo",
+    "displayName": "Lukáš KELO",
+    "givenName": "Lukáš",
+    "familyName": "KELO",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-42",
+    "slug": "lubomir-klobusiaking",
+    "displayName": "Ľubomír KLOBUŠIAK, Ing.",
+    "givenName": "Ľubomír",
+    "familyName": "KLOBUŠIAK",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-43",
+    "slug": "miroslav-parobekmgr",
+    "displayName": "Miroslav PAROBEK, Mgr.",
+    "givenName": "Miroslav",
+    "familyName": "PAROBEK",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-44",
+    "slug": "juraj-paska",
+    "displayName": "Juraj PAŠKA",
+    "givenName": "Juraj",
+    "familyName": "PAŠKA",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "lm-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-45",
+    "slug": "michal-paska",
+    "displayName": "Michal PAŠKA",
+    "givenName": "Michal",
+    "familyName": "PAŠKA",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-46",
+    "slug": "lubica-staronovamgr",
+    "displayName": "Ľubica STAROŇOVÁ, Mgr.",
+    "givenName": "Ľubica",
+    "familyName": "STAROŇOVÁ",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-47",
+    "slug": "rudolf-urbanovicing",
+    "displayName": "Rudolf URBANOVIČ, Ing.",
+    "givenName": "Rudolf",
+    "familyName": "URBANOVIČ",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-48",
+    "slug": "rudolf-urbanovicm-a",
+    "displayName": "Rudolf URBANOVIČ, M. A.",
+    "givenName": "Rudolf",
+    "familyName": "URBANOVIČ",
+    "titlesAfter": "M. A.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-49",
+    "slug": "peter-bonkobc",
+    "displayName": "Peter BONKO, Bc.",
+    "givenName": "Peter",
+    "familyName": "BONKO",
+    "titlesAfter": "Bc.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-50",
+    "slug": "simon-cupraing",
+    "displayName": "Šimon CUPRA, Ing.",
+    "givenName": "Šimon",
+    "familyName": "CUPRA",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-51",
+    "slug": "jaroslav-greso",
+    "displayName": "Jaroslav GREŠO",
+    "givenName": "Jaroslav",
+    "familyName": "GREŠO",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-52",
+    "slug": "marian-matejka",
+    "displayName": "Marian MATEJKA",
+    "givenName": "Marian",
+    "familyName": "MATEJKA",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-53",
+    "slug": "jozef-repaskybc",
+    "displayName": "Jozef REPASKÝ, Bc.",
+    "givenName": "Jozef",
+    "familyName": "REPASKÝ",
+    "titlesAfter": "Bc.",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-54",
+    "slug": "peter-gartnering",
+    "displayName": "Peter GÄRTNER, Ing.",
+    "givenName": "Peter",
+    "familyName": "GÄRTNER",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-55",
+    "slug": "juraj-kolesarmgr",
+    "displayName": "Juraj KOLESÁR, Mgr.",
+    "givenName": "Juraj",
+    "familyName": "KOLESÁR",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-56",
+    "slug": "marta-jancusova",
+    "displayName": "Marta JANČUŠOVÁ",
+    "givenName": "Marta",
+    "familyName": "JANČUŠOVÁ",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-57",
+    "slug": "alena-matejovie",
+    "displayName": "Alena MATEJOVIE",
+    "givenName": "Alena",
+    "familyName": "MATEJOVIE",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-58",
+    "slug": "milota-nahalkovamgr",
+    "displayName": "Milota NAHÁLKOVÁ, Mgr.",
+    "givenName": "Milota",
+    "familyName": "NAHÁLKOVÁ",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-59",
+    "slug": "lucia-zahorskaing-mgr",
+    "displayName": "Lucia ZÁHORSKÁ, Ing. Mgr.",
+    "givenName": "Lucia",
+    "familyName": "ZÁHORSKÁ",
+    "titlesAfter": "Ing. Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-60",
+    "slug": "andrea-barkovcimgr",
+    "displayName": "Andrea BARKOVCI, Mgr.",
+    "givenName": "Andrea",
+    "familyName": "BARKOVCI",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-61",
+    "slug": "michal-lunicekmudr",
+    "displayName": "Michal LUNÍČEK, MUDr.",
+    "givenName": "Michal",
+    "familyName": "LUNÍČEK",
+    "titlesAfter": "MUDr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-62",
+    "slug": "tomas-martausjudr-phd",
+    "displayName": "Tomáš MARTAUS, JUDr., PhD.",
+    "givenName": "Tomáš",
+    "familyName": "MARTAUS",
+    "titlesAfter": "JUDr., PhD.",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-63",
+    "slug": "petra-mudronova",
+    "displayName": "Petra MUDROŇOVÁ",
+    "givenName": "Petra",
+    "familyName": "MUDROŇOVÁ",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-64",
+    "slug": "marek-nemecbc",
+    "displayName": "Marek NEMEC, Bc.",
+    "givenName": "Marek",
+    "familyName": "NEMEC",
+    "titlesAfter": "Bc.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-65",
+    "slug": "juraj-piatkabc",
+    "displayName": "Juraj PIATKA, Bc.",
+    "givenName": "Juraj",
+    "familyName": "PIATKA",
+    "titlesAfter": "Bc.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-66",
+    "slug": "martina-rusek-trnovskajudr",
+    "displayName": "Martina RUSEK TRNOVSKÁ, JUDr.",
+    "givenName": "Martina RUSEK",
+    "familyName": "TRNOVSKÁ",
+    "titlesAfter": "JUDr.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-67",
+    "slug": "jan-vysnying",
+    "displayName": "Ján VYŠNÝ, Ing.",
+    "givenName": "Ján",
+    "familyName": "VYŠNÝ",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-68",
+    "slug": "jana-kozmonovamgr-phd",
+    "displayName": "Jana KOZMONOVÁ, Mgr., PhD.",
+    "givenName": "Jana",
+    "familyName": "KOZMONOVÁ",
+    "titlesAfter": "Mgr., PhD.",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-69",
+    "slug": "lubos-trizna",
+    "displayName": "Ľuboš TRIZNA",
+    "givenName": "Ľuboš",
+    "familyName": "TRIZNA",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-70",
+    "slug": "vladimir-conka",
+    "displayName": "Vladimír ČONKA",
+    "givenName": "Vladimír",
+    "familyName": "ČONKA",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-71",
+    "slug": "monika-crepova",
+    "displayName": "Monika ČREPOVÁ",
+    "givenName": "Monika",
+    "familyName": "ČREPOVÁ",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-72",
+    "slug": "erik-gemzickying-phd-mba",
+    "displayName": "Erik GEMZICKÝ, Ing., PhD., MBA",
+    "givenName": "Erik",
+    "familyName": "GEMZICKÝ",
+    "titlesAfter": "Ing., PhD., MBA",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-73",
+    "slug": "jan-chebening",
+    "displayName": "Ján CHEBEN, Ing.",
+    "givenName": "Ján",
+    "familyName": "CHEBEN",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-74",
+    "slug": "lubos-chovaning",
+    "displayName": "Ľuboš CHOVAN, Ing.",
+    "givenName": "Ľuboš",
+    "familyName": "CHOVAN",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-75",
+    "slug": "dominik-imriching",
+    "displayName": "Dominik IMRICH, Ing.",
+    "givenName": "Dominik",
+    "familyName": "IMRICH",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-76",
+    "slug": "marian-jancuskajudr",
+    "displayName": "Marián JANČUŠKA, JUDr.",
+    "givenName": "Marián",
+    "familyName": "JANČUŠKA",
+    "titlesAfter": "JUDr.",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-77",
+    "slug": "jaroslav-jurco",
+    "displayName": "Jaroslav JURČO",
+    "givenName": "Jaroslav",
+    "familyName": "JURČO",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-78",
+    "slug": "michal-kovac",
+    "displayName": "Michal KOVÁČ",
+    "givenName": "Michal",
+    "familyName": "KOVÁČ",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-79",
+    "slug": "pavol-milo",
+    "displayName": "Pavol MILO",
+    "givenName": "Pavol",
+    "familyName": "MILO",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-80",
+    "slug": "milan-nahlikmgr",
+    "displayName": "Milan NÁHLIK, Mgr.",
+    "givenName": "Milan",
+    "familyName": "NÁHLIK",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-81",
+    "slug": "miroslav-podhoranying",
+    "displayName": "Miroslav PODHORÁNY, Ing.",
+    "givenName": "Miroslav",
+    "familyName": "PODHORÁNY",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-82",
+    "slug": "lubos-rackojudr-phd-ll-m",
+    "displayName": "Ľuboš RACKO, JUDr., PhD., LL.M",
+    "givenName": "Ľuboš",
+    "familyName": "RACKO",
+    "titlesAfter": "JUDr., PhD., LL.M",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-83",
+    "slug": "branislav-tregermgr-phd",
+    "displayName": "Branislav TRÉGER, Mgr., PhD.",
+    "givenName": "Branislav",
+    "familyName": "TRÉGER",
+    "titlesAfter": "Mgr., PhD.",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-84",
+    "slug": "marian-vozarikbc",
+    "displayName": "Marián VOZÁRIK, Bc.",
+    "givenName": "Marián",
+    "familyName": "VOZÁRIK",
+    "titlesAfter": "Bc.",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-85",
+    "slug": "anna-belousovovarndr",
+    "displayName": "Anna BELOUSOVOVÁ, RNDr.",
+    "givenName": "Anna",
+    "familyName": "BELOUSOVOVÁ",
+    "titlesAfter": "RNDr.",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-86",
+    "slug": "jana-chlustinovamgr",
+    "displayName": "Jana CHLUSTINOVÁ, Mgr.",
+    "givenName": "Jana",
+    "familyName": "CHLUSTINOVÁ",
+    "titlesAfter": "Mgr.",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-87",
+    "slug": "igor-chomaing",
+    "displayName": "Igor CHOMA, Ing.",
+    "givenName": "Igor",
+    "familyName": "CHOMA",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-88",
+    "slug": "erika-jurinovaing",
+    "displayName": "Erika JURINOVÁ, Ing.",
+    "givenName": "Erika",
+    "familyName": "JURINOVÁ",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-89",
+    "slug": "martin-kapituliking",
+    "displayName": "Martin KAPITULÍK, Ing.",
+    "givenName": "Martin",
+    "familyName": "KAPITULÍK",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-90",
+    "slug": "adam-lucanskying",
+    "displayName": "Adam LUČANSKÝ, Ing.",
+    "givenName": "Adam",
+    "familyName": "LUČANSKÝ",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "candidate-91",
+    "slug": "milan-pova-ing",
+    "displayName": "Milan POVA, Ing.",
+    "givenName": "Milan",
+    "familyName": "POVA",
+    "titlesAfter": "Ing.",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  }
+]

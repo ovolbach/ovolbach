@@ -1,0 +1,32 @@
+---
+import CandidateCard from './CandidateCard.astro';
+import type { BallotView } from '../lib/selectors';
+import SourceLink from './SourceLink.astro';
+import type { Source } from '../lib/schemas';
+
+interface Props {
+  ballot: BallotView;
+  districtSeats: number;
+  sources: Source[];
+  headingLevel?: 'h2' | 'h3';
+}
+
+const { ballot, districtSeats, sources } = Astro.props;
+const Heading = Astro.props.headingLevel ?? 'h3';
+const limit = ballot.election.maxSelections === 'district_seats' ? districtSeats : ballot.election.maxSelections;
+---
+
+<section class="ballot-section" data-ballot-section data-ballot-id={ballot.election.id} data-election={ballot.election.id}>
+  <Heading>{ballot.election.title.sk}</Heading>
+  <p data-ballot-limit>
+    {ballot.district?.kind === 'region' && <>{ballot.district.name}: {ballot.district.areas.join(' ')}<br /></>}
+    Najviac označených kandidátov: {limit}.
+    <SourceLink recordId={ballot.election.id} sourceIds={ballot.election.sourceIds} sources={sources} />
+    {ballot.district && <SourceLink recordId={ballot.district.id} sourceIds={ballot.district.sourceIds} sources={sources} />}
+  </p>
+  {ballot.candidates.length > 0 ? (
+    <div class="candidate-list">
+      {ballot.candidates.map((record) => <CandidateCard record={record} sources={sources} />)}
+    </div>
+  ) : <p>V oficiálnom zozname nie je žiadny kandidát.</p>}
+</section>

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mayor",
+    "title": {
+      "sk": "Voľby primátora mesta Liptovský Mikuláš"
+    },
+    "level": "city",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "lm-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "city-council",
+    "title": {
+      "sk": "Voľby do Mestského zastupiteľstva mesta Liptovský Mikuláš"
+    },
+    "level": "city",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "region-chair",
+    "title": {
+      "sk": "Voľby predsedu Žilinského samosprávneho kraja"
+    },
+    "level": "region",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "region-council",
+    "title": {
+      "sk": "Voľby poslancov do zastupiteľstva Žilinského samosprávneho kraja"
+    },
+    "level": "region",
+    "maxSelections": 6,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ]
+  }
+]

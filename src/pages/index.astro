@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BallotSection from '../components/BallotSection.astro';
+import DistrictSelector from '../components/DistrictSelector.astro';
+import SourceLink from '../components/SourceLink.astro';
+import ComparisonSelection from '../components/ComparisonSelection.astro';
+import { SITE_TITLE } from '../config/site';
+import { loadGuideData } from '../lib/load-guide-data';
+import { getBallotsForDistrict } from '../lib/selectors';
+import { getCityDistrictUrlMappings } from '../lib/district-url';
+
+const data = await loadGuideData();
+const districtMappings = getCityDistrictUrlMappings(data.districts);
+const districtsById = new Map(data.districts.map((district) => [district.id, district]));
+---
+
+<BaseLayout
+  title={SITE_TITLE}
+  description="Nezávislý sprievodca komunálnymi voľbami v Liptovskom Mikuláši."
+>
+  <h1>{SITE_TITLE}</h1>
+  <p>Oficiálne zoznamy kandidátov pre voľby 24. októbra 2026.<SourceLink recordId="home-election-date" sourceIds={[...new Set(data.elections.flatMap((election) => election.sourceIds))]} sources={data.sources} /></p>
+  <DistrictSelector mappings={districtMappings} action="/" />
+  <ComparisonSelection />
+  <div class="district-results">
+    {districtMappings.map((mapping) => {
+      const district = districtsById.get(mapping.internalId)!;
+      return <section id={mapping.publicId} data-district={mapping.internalId}>
+        <header data-district-facts>
+          <h2>{district.name}: {district.areas.join(', ')}</h2>
+          <p>Počet mandátov: {district.seats}. <SourceLink recordId={district.id} sourceIds={district.sourceIds} sources={data.sources} /></p>
+        </header>
+        {getBallotsForDistrict(data, district.id).map((ballot) => <BallotSection ballot={ballot} districtSeats={district.seats} sources={data.sources} />)}
+      </section>
+    })}
+  </div>
+  <script>
+    import '../scripts/district-selection';
+  </script>
+</BaseLayout>

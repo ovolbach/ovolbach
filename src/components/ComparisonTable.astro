@@ -1,0 +1,18 @@
+---
+import { createComparisonPayload } from '../lib/comparison-payload';
+import type { GuideData } from '../lib/schemas';
+
+interface Props {
+  data: GuideData;
+}
+
+const { data } = Astro.props;
+const payload = createComparisonPayload(data);
+const serializedPayload = JSON.stringify(payload).replace(/</g, '\\u003c');
+---
+
+<section class="comparison" data-comparison>
+  <p data-comparison-status role="status">Vyberte 2 až 4 kandidátov na porovnanie.</p>
+  <div data-comparison-output></div>
+</section>
+<script id="comparison-data" type="application/json" set:html={serializedPayload}></script>

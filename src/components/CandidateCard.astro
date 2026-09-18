@@ -1,0 +1,28 @@
+---
+import type { BallotCandidate } from '../lib/selectors';
+import type { Source } from '../lib/schemas';
+import { affiliationLabel } from '../lib/official-facts';
+import { resolveRecordSources } from '../lib/source-links';
+import SourceLink from './SourceLink.astro';
+import ComparisonSelection from './ComparisonSelection.astro';
+
+interface Props {
+  record: BallotCandidate;
+  sources: Source[];
+}
+
+const { record, sources } = Astro.props;
+const linkedSources = resolveRecordSources([record, record.candidacy], sources);
+---
+
+<article class="candidate-card" data-candidate-card data-candidate-id={record.id}>
+  <h3><a href={`/kandidat/${record.slug}/`}>{record.displayName}</a></h3>
+  <dl>
+    <div><dt>Číslo na hlasovacom lístku</dt><dd data-ballot-number>{record.candidacy.ballotNumber}</dd></div>
+    <div><dt>Vek</dt><dd>{record.candidacy.ageAtElection} rokov</dd></div>
+    <div><dt>Povolanie</dt><dd>{record.candidacy.occupationOfficial}</dd></div>
+    {affiliationLabel(record.candidacy) && <div><dt>Navrhujúci subjekt / postavenie</dt><dd>{affiliationLabel(record.candidacy)}</dd></div>}
+  </dl>
+  <SourceLink recordId={record.candidacy.id} sourceIds={linkedSources.map((source) => source.id)} sources={linkedSources} />
+  <ComparisonSelection candidateId={record.id} candidateName={record.displayName} />
+</article>

@@ -1,0 +1,6872 @@
+[
+  {
+    "id": "coverage-candidate-1-basic",
+    "candidateId": "candidate-1",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "lm-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-1-employment_business",
+    "candidateId": "candidate-1",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-mayor-roster-2026",
+      "rpvs-region-liptov-2025"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-1-public_office",
+    "candidateId": "candidate-1",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-mayor-profile",
+      "nrsr-blchac-term-9"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-1-previous_elections",
+    "candidateId": "candidate-1",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "statistics-municipal-candidates-2018",
+      "statistics-mayor-votes-2022",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-1-programme_statements",
+    "candidateId": "candidate-1",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-campaign-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-1-asset_declarations",
+    "candidateId": "candidate-1",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "nrsr-blchac-declaration-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-1-media",
+    "candidateId": "candidate-1",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "droppa-mayor-interview-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-1-controversies",
+    "candidateId": "candidate-1",
+    "category": "controversies",
+    "status": "found",
+    "sourceIds": [
+      "tasr-blchac-heliport-2018"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-2-basic",
+    "candidateId": "candidate-2",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-2-employment_business",
+    "candidateId": "candidate-2",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-2-public_office",
+    "candidateId": "candidate-2",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-2-previous_elections",
+    "candidateId": "candidate-2",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-2-programme_statements",
+    "candidateId": "candidate-2",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-2-asset_declarations",
+    "candidateId": "candidate-2",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-2-media",
+    "candidateId": "candidate-2",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-2-controversies",
+    "candidateId": "candidate-2",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-3-basic",
+    "candidateId": "candidate-3",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-3-employment_business",
+    "candidateId": "candidate-3",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "nsplm-drahovzal-department",
+      "blchac-team-drahovzal-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-3-public_office",
+    "candidateId": "candidate-3",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-candidate-3-previous_elections",
+    "candidateId": "candidate-3",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-3-programme_statements",
+    "candidateId": "candidate-3",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "blchac-team-drahovzal-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-3-asset_declarations",
+    "candidateId": "candidate-3",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-3-media",
+    "candidateId": "candidate-3",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "stvr-drahovzal-maternity-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-3-controversies",
+    "candidateId": "candidate-3",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-4-basic",
+    "candidateId": "candidate-4",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-4-employment_business",
+    "candidateId": "candidate-4",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "blchac-team-geci-2026",
+      "rpvs-lvs-5446"
+    ]
+  },
+  {
+    "id": "coverage-candidate-4-public_office",
+    "candidateId": "candidate-4",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-council-members-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-4-previous_elections",
+    "candidateId": "candidate-4",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-4-programme_statements",
+    "candidateId": "candidate-4",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "blchac-team-geci-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-4-asset_declarations",
+    "candidateId": "candidate-4",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-4-media",
+    "candidateId": "candidate-4",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "stvr-geci-sewer-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-4-controversies",
+    "candidateId": "candidate-4",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-5-basic",
+    "candidateId": "candidate-5",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-5-employment_business",
+    "candidateId": "candidate-5",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-5-public_office",
+    "candidateId": "candidate-5",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-5-previous_elections",
+    "candidateId": "candidate-5",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-5-programme_statements",
+    "candidateId": "candidate-5",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-5-asset_declarations",
+    "candidateId": "candidate-5",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-5-media",
+    "candidateId": "candidate-5",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-5-controversies",
+    "candidateId": "candidate-5",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-6-basic",
+    "candidateId": "candidate-6",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-6-employment_business",
+    "candidateId": "candidate-6",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "nrsr-kotian-declaration-2024",
+      "lm-jds-kotian-2024",
+      "nrsr-kotian-nomination-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-6-public_office",
+    "candidateId": "candidate-6",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "nrsr-kotian-declaration-2024",
+      "justice-kotian-government-council-2025"
+    ]
+  },
+  {
+    "id": "coverage-candidate-6-previous_elections",
+    "candidateId": "candidate-6",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-6-programme_statements",
+    "candidateId": "candidate-6",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-6-asset_declarations",
+    "candidateId": "candidate-6",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "nrsr-kotian-declaration-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-6-media",
+    "candidateId": "candidate-6",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-6-controversies",
+    "candidateId": "candidate-6",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-7-basic",
+    "candidateId": "candidate-7",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-7-employment_business",
+    "candidateId": "candidate-7",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-7-public_office",
+    "candidateId": "candidate-7",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-council-members-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-7-previous_elections",
+    "candidateId": "candidate-7",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022",
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-7-programme_statements",
+    "candidateId": "candidate-7",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-7-asset_declarations",
+    "candidateId": "candidate-7",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-7-media",
+    "candidateId": "candidate-7",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "aktuality-kultan-council-dispute-2021"
+    ]
+  },
+  {
+    "id": "coverage-candidate-7-controversies",
+    "candidateId": "candidate-7",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-8-basic",
+    "candidateId": "candidate-8",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-8-employment_business",
+    "candidateId": "candidate-8",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-8-public_office",
+    "candidateId": "candidate-8",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-8-previous_elections",
+    "candidateId": "candidate-8",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-8-programme_statements",
+    "candidateId": "candidate-8",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-8-asset_declarations",
+    "candidateId": "candidate-8",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-8-media",
+    "candidateId": "candidate-8",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-8-controversies",
+    "candidateId": "candidate-8",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-9-basic",
+    "candidateId": "candidate-9",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-9-employment_business",
+    "candidateId": "candidate-9",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "blchac-team-navratil-2026",
+      "szkb-navratil-committee",
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-9-public_office",
+    "candidateId": "candidate-9",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-9-previous_elections",
+    "candidateId": "candidate-9",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-9-programme_statements",
+    "candidateId": "candidate-9",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-9-asset_declarations",
+    "candidateId": "candidate-9",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-9-media",
+    "candidateId": "candidate-9",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-9-controversies",
+    "candidateId": "candidate-9",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-10-basic",
+    "candidateId": "candidate-10",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-10-employment_business",
+    "candidateId": "candidate-10",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "lm-city-council-roster-2026",
+      "srzlm-pardel-committee"
+    ]
+  },
+  {
+    "id": "coverage-candidate-10-public_office",
+    "candidateId": "candidate-10",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-10-previous_elections",
+    "candidateId": "candidate-10",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-10-programme_statements",
+    "candidateId": "candidate-10",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-10-asset_declarations",
+    "candidateId": "candidate-10",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-10-media",
+    "candidateId": "candidate-10",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-10-controversies",
+    "candidateId": "candidate-10",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-11-basic",
+    "candidateId": "candidate-11",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-11-employment_business",
+    "candidateId": "candidate-11",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-11-public_office",
+    "candidateId": "candidate-11",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-council-members-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-11-previous_elections",
+    "candidateId": "candidate-11",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-11-programme_statements",
+    "candidateId": "candidate-11",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-11-asset_declarations",
+    "candidateId": "candidate-11",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-11-media",
+    "candidateId": "candidate-11",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-11-controversies",
+    "candidateId": "candidate-11",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-12-basic",
+    "candidateId": "candidate-12",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-12-employment_business",
+    "candidateId": "candidate-12",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "lm-city-council-roster-2026",
+      "ov-ivanove-minutky-2017",
+      "ranajkaren-u-mna-rusina"
+    ]
+  },
+  {
+    "id": "coverage-candidate-12-public_office",
+    "candidateId": "candidate-12",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-12-previous_elections",
+    "candidateId": "candidate-12",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-12-programme_statements",
+    "candidateId": "candidate-12",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-12-asset_declarations",
+    "candidateId": "candidate-12",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-12-media",
+    "candidateId": "candidate-12",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-12-controversies",
+    "candidateId": "candidate-12",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-13-basic",
+    "candidateId": "candidate-13",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "lm-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-13-employment_business",
+    "candidateId": "candidate-13",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-sufliarska-declaration-2023",
+      "orsr-estel-36747513"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-13-public_office",
+    "candidateId": "candidate-13",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-sufliarska-oath-2018",
+      "lm-sufliarska-declaration-2023"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-13-previous_elections",
+    "candidateId": "candidate-13",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "lm-sufliarska-oath-2018",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-13-programme_statements",
+    "candidateId": "candidate-13",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "sufliarska-campaign-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-13-asset_declarations",
+    "candidateId": "candidate-13",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-sufliarska-declaration-2023"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-13-media",
+    "candidateId": "candidate-13",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "tasr-sufliarska-candidacy-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-13-controversies",
+    "candidateId": "candidate-13",
+    "category": "controversies",
+    "status": "found",
+    "sourceIds": [
+      "rtvs-lm-newspaper-dispute-2023"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-14-basic",
+    "candidateId": "candidate-14",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-14-employment_business",
+    "candidateId": "candidate-14",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-14-public_office",
+    "candidateId": "candidate-14",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-14-previous_elections",
+    "candidateId": "candidate-14",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-14-programme_statements",
+    "candidateId": "candidate-14",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-14-asset_declarations",
+    "candidateId": "candidate-14",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-14-media",
+    "candidateId": "candidate-14",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-14-controversies",
+    "candidateId": "candidate-14",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-15-basic",
+    "candidateId": "candidate-15",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-15-employment_business",
+    "candidateId": "candidate-15",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-15-public_office",
+    "candidateId": "candidate-15",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-commission-business-tourism-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-15-previous_elections",
+    "candidateId": "candidate-15",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-15-programme_statements",
+    "candidateId": "candidate-15",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-15-asset_declarations",
+    "candidateId": "candidate-15",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-15-media",
+    "candidateId": "candidate-15",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-15-controversies",
+    "candidateId": "candidate-15",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-16-basic",
+    "candidateId": "candidate-16",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-16-employment_business",
+    "candidateId": "candidate-16",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-16-public_office",
+    "candidateId": "candidate-16",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-16-previous_elections",
+    "candidateId": "candidate-16",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-16-programme_statements",
+    "candidateId": "candidate-16",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-16-asset_declarations",
+    "candidateId": "candidate-16",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-16-media",
+    "candidateId": "candidate-16",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-16-controversies",
+    "candidateId": "candidate-16",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-17-basic",
+    "candidateId": "candidate-17",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-17-employment_business",
+    "candidateId": "candidate-17",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-17-public_office",
+    "candidateId": "candidate-17",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-council-members-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-17-previous_elections",
+    "candidateId": "candidate-17",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022",
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-17-programme_statements",
+    "candidateId": "candidate-17",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-17-asset_declarations",
+    "candidateId": "candidate-17",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-declarations-2024-page-2"
+    ]
+  },
+  {
+    "id": "coverage-candidate-17-media",
+    "candidateId": "candidate-17",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-17-controversies",
+    "candidateId": "candidate-17",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-18-basic",
+    "candidateId": "candidate-18",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-18-employment_business",
+    "candidateId": "candidate-18",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "lm-city-council-minutes-2018-12-20",
+      "lm-commission-culture-2015-2018",
+      "lm-council-minutes-2025-02-27"
+    ]
+  },
+  {
+    "id": "coverage-candidate-18-public_office",
+    "candidateId": "candidate-18",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-18-previous_elections",
+    "candidateId": "candidate-18",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-18-programme_statements",
+    "candidateId": "candidate-18",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-18-asset_declarations",
+    "candidateId": "candidate-18",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-18-media",
+    "candidateId": "candidate-18",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-18-controversies",
+    "candidateId": "candidate-18",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-19-basic",
+    "candidateId": "candidate-19",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-19-employment_business",
+    "candidateId": "candidate-19",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-19-public_office",
+    "candidateId": "candidate-19",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-19-previous_elections",
+    "candidateId": "candidate-19",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-19-programme_statements",
+    "candidateId": "candidate-19",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "blchac-team-hutan-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-19-asset_declarations",
+    "candidateId": "candidate-19",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-19-media",
+    "candidateId": "candidate-19",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-19-controversies",
+    "candidateId": "candidate-19",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-20-basic",
+    "candidateId": "candidate-20",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-20-employment_business",
+    "candidateId": "candidate-20",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "upsvar-lm-call-1-2023"
+    ]
+  },
+  {
+    "id": "coverage-candidate-20-public_office",
+    "candidateId": "candidate-20",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-20-previous_elections",
+    "candidateId": "candidate-20",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-20-programme_statements",
+    "candidateId": "candidate-20",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-20-asset_declarations",
+    "candidateId": "candidate-20",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-20-media",
+    "candidateId": "candidate-20",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-20-controversies",
+    "candidateId": "candidate-20",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-21-basic",
+    "candidateId": "candidate-21",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-21-employment_business",
+    "candidateId": "candidate-21",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-21-public_office",
+    "candidateId": "candidate-21",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-21-previous_elections",
+    "candidateId": "candidate-21",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-21-programme_statements",
+    "candidateId": "candidate-21",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-21-asset_declarations",
+    "candidateId": "candidate-21",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-21-media",
+    "candidateId": "candidate-21",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-21-controversies",
+    "candidateId": "candidate-21",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-22-basic",
+    "candidateId": "candidate-22",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-22-employment_business",
+    "candidateId": "candidate-22",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-22-public_office",
+    "candidateId": "candidate-22",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-commission-spatial-development-2022-2026",
+      "lm-city-board-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-22-previous_elections",
+    "candidateId": "candidate-22",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-22-programme_statements",
+    "candidateId": "candidate-22",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "blchac-team-lichardus-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-22-asset_declarations",
+    "candidateId": "candidate-22",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-22-media",
+    "candidateId": "candidate-22",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-22-controversies",
+    "candidateId": "candidate-22",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-23-basic",
+    "candidateId": "candidate-23",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-23-employment_business",
+    "candidateId": "candidate-23",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-23-public_office",
+    "candidateId": "candidate-23",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-23-previous_elections",
+    "candidateId": "candidate-23",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-23-programme_statements",
+    "candidateId": "candidate-23",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "blchac-team-malek-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-23-asset_declarations",
+    "candidateId": "candidate-23",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-23-media",
+    "candidateId": "candidate-23",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-23-controversies",
+    "candidateId": "candidate-23",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-24-basic",
+    "candidateId": "candidate-24",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-24-employment_business",
+    "candidateId": "candidate-24",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-24-public_office",
+    "candidateId": "candidate-24",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-commission-public-order-2022-2026",
+      "lm-commission-transport-environment-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-24-previous_elections",
+    "candidateId": "candidate-24",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-24-programme_statements",
+    "candidateId": "candidate-24",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "blchac-team-medved-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-24-asset_declarations",
+    "candidateId": "candidate-24",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-24-media",
+    "candidateId": "candidate-24",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-24-controversies",
+    "candidateId": "candidate-24",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-25-basic",
+    "candidateId": "candidate-25",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-25-employment_business",
+    "candidateId": "candidate-25",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-25-public_office",
+    "candidateId": "candidate-25",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-commission-social-health-housing-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-25-previous_elections",
+    "candidateId": "candidate-25",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022",
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-25-programme_statements",
+    "candidateId": "candidate-25",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "blchac-team-neset-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-25-asset_declarations",
+    "candidateId": "candidate-25",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-25-media",
+    "candidateId": "candidate-25",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-25-controversies",
+    "candidateId": "candidate-25",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-26-basic",
+    "candidateId": "candidate-26",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-26-employment_business",
+    "candidateId": "candidate-26",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-26-public_office",
+    "candidateId": "candidate-26",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-26-previous_elections",
+    "candidateId": "candidate-26",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-26-programme_statements",
+    "candidateId": "candidate-26",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-26-asset_declarations",
+    "candidateId": "candidate-26",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-26-media",
+    "candidateId": "candidate-26",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-26-controversies",
+    "candidateId": "candidate-26",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-27-basic",
+    "candidateId": "candidate-27",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-27-employment_business",
+    "candidateId": "candidate-27",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-27-public_office",
+    "candidateId": "candidate-27",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-commission-sport-public-health-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-27-previous_elections",
+    "candidateId": "candidate-27",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-27-programme_statements",
+    "candidateId": "candidate-27",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "blchac-team-pavkovcekova-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-27-asset_declarations",
+    "candidateId": "candidate-27",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-27-media",
+    "candidateId": "candidate-27",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-27-controversies",
+    "candidateId": "candidate-27",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-28-basic",
+    "candidateId": "candidate-28",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-28-employment_business",
+    "candidateId": "candidate-28",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "obchodny-vestnik-hs-reality-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-28-public_office",
+    "candidateId": "candidate-28",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-28-previous_elections",
+    "candidateId": "candidate-28",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-28-programme_statements",
+    "candidateId": "candidate-28",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-28-asset_declarations",
+    "candidateId": "candidate-28",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-28-media",
+    "candidateId": "candidate-28",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-28-controversies",
+    "candidateId": "candidate-28",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-29-basic",
+    "candidateId": "candidate-29",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-29-employment_business",
+    "candidateId": "candidate-29",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-29-public_office",
+    "candidateId": "candidate-29",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-commission-sport-public-health-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-29-previous_elections",
+    "candidateId": "candidate-29",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-29-programme_statements",
+    "candidateId": "candidate-29",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-29-asset_declarations",
+    "candidateId": "candidate-29",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-29-media",
+    "candidateId": "candidate-29",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-29-controversies",
+    "candidateId": "candidate-29",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-30-basic",
+    "candidateId": "candidate-30",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-30-employment_business",
+    "candidateId": "candidate-30",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-30-public_office",
+    "candidateId": "candidate-30",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-30-previous_elections",
+    "candidateId": "candidate-30",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-30-programme_statements",
+    "candidateId": "candidate-30",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "blchac-team-soukopova-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-30-asset_declarations",
+    "candidateId": "candidate-30",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-30-media",
+    "candidateId": "candidate-30",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-30-controversies",
+    "candidateId": "candidate-30",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-31-basic",
+    "candidateId": "candidate-31",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-31-employment_business",
+    "candidateId": "candidate-31",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-31-public_office",
+    "candidateId": "candidate-31",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-31-previous_elections",
+    "candidateId": "candidate-31",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-31-programme_statements",
+    "candidateId": "candidate-31",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-31-asset_declarations",
+    "candidateId": "candidate-31",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-31-media",
+    "candidateId": "candidate-31",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-31-controversies",
+    "candidateId": "candidate-31",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-32-basic",
+    "candidateId": "candidate-32",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-32-employment_business",
+    "candidateId": "candidate-32",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-32-public_office",
+    "candidateId": "candidate-32",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-commission-sport-public-health-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-32-previous_elections",
+    "candidateId": "candidate-32",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-32-programme_statements",
+    "candidateId": "candidate-32",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-32-asset_declarations",
+    "candidateId": "candidate-32",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-declarations-2024-page-2"
+    ]
+  },
+  {
+    "id": "coverage-candidate-32-media",
+    "candidateId": "candidate-32",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-32-controversies",
+    "candidateId": "candidate-32",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-33-basic",
+    "candidateId": "candidate-33",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-33-employment_business",
+    "candidateId": "candidate-33",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "evuc-barok-clinic"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-33-public_office",
+    "candidateId": "candidate-33",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-city-board-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-33-previous_elections",
+    "candidateId": "candidate-33",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "lm-candidate-roster-2018",
+      "statistics-municipal-candidates-2018",
+      "statistics-regional-results-2022",
+      "statistics-regional-results-2017"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-33-programme_statements",
+    "candidateId": "candidate-33",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-33-asset_declarations",
+    "candidateId": "candidate-33",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-declarations-2024-page-2"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-33-media",
+    "candidateId": "candidate-33",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "tasr-lm-awards-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-33-controversies",
+    "candidateId": "candidate-33",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-34-basic",
+    "candidateId": "candidate-34",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-34-employment_business",
+    "candidateId": "candidate-34",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "ov-boda-gynebo-2025"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-34-public_office",
+    "candidateId": "candidate-34",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-city-board-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-34-previous_elections",
+    "candidateId": "candidate-34",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "lm-candidate-roster-2018",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-34-programme_statements",
+    "candidateId": "candidate-34",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-boda-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-34-asset_declarations",
+    "candidateId": "candidate-34",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-34-media",
+    "candidateId": "candidate-34",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-34-controversies",
+    "candidateId": "candidate-34",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-35-basic",
+    "candidateId": "candidate-35",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-35-employment_business",
+    "candidateId": "candidate-35",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "blchac-team-celenga-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-35-public_office",
+    "candidateId": "candidate-35",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-35-previous_elections",
+    "candidateId": "candidate-35",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-35-programme_statements",
+    "candidateId": "candidate-35",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-celenga-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-35-asset_declarations",
+    "candidateId": "candidate-35",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-35-media",
+    "candidateId": "candidate-35",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-35-controversies",
+    "candidateId": "candidate-35",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-36-basic",
+    "candidateId": "candidate-36",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-36-employment_business",
+    "candidateId": "candidate-36",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-36-public_office",
+    "candidateId": "candidate-36",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-36-previous_elections",
+    "candidateId": "candidate-36",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "lm-candidate-roster-2018",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014",
+      "statistics-mayor-results-2014",
+      "teraz-cefo-mayor-result-2014",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-36-programme_statements",
+    "candidateId": "candidate-36",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "teraz-cefo-programme-2014"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-36-asset_declarations",
+    "candidateId": "candidate-36",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-36-media",
+    "candidateId": "candidate-36",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "teraz-cefo-programme-2014"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-36-controversies",
+    "candidateId": "candidate-36",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-37-basic",
+    "candidateId": "candidate-37",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-37-employment_business",
+    "candidateId": "candidate-37",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "ssi-dvorscakova-school-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-37-public_office",
+    "candidateId": "candidate-37",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-youth-education-commission-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-37-previous_elections",
+    "candidateId": "candidate-37",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "lm-candidate-roster-2018",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014",
+      "statistics-regional-results-2022",
+      "statistics-regional-results-2017"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-37-programme_statements",
+    "candidateId": "candidate-37",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-37-asset_declarations",
+    "candidateId": "candidate-37",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-37-media",
+    "candidateId": "candidate-37",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "noviny-dvorscakova-2020"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-37-controversies",
+    "candidateId": "candidate-37",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-38-basic",
+    "candidateId": "candidate-38",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-38-employment_business",
+    "candidateId": "candidate-38",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "lm-haluska-district-office-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-38-public_office",
+    "candidateId": "candidate-38",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-haluska-district-office-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-38-previous_elections",
+    "candidateId": "candidate-38",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-38-programme_statements",
+    "candidateId": "candidate-38",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-haluska-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-38-asset_declarations",
+    "candidateId": "candidate-38",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-38-media",
+    "candidateId": "candidate-38",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-38-controversies",
+    "candidateId": "candidate-38",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-39-basic",
+    "candidateId": "candidate-39",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-39-employment_business",
+    "candidateId": "candidate-39",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "aos-chrapciak-report"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-39-public_office",
+    "candidateId": "candidate-39",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-39-previous_elections",
+    "candidateId": "candidate-39",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "lm-candidate-roster-2018",
+      "statistics-municipal-2018-tables"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-39-programme_statements",
+    "candidateId": "candidate-39",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-39-asset_declarations",
+    "candidateId": "candidate-39",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-39-media",
+    "candidateId": "candidate-39",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "stvr-chrapciak-water-2025"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-39-controversies",
+    "candidateId": "candidate-39",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-40-basic",
+    "candidateId": "candidate-40",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-40-employment_business",
+    "candidateId": "candidate-40",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "caritas-junasova-tsp",
+      "blchac-team-junasova-klimova-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-40-public_office",
+    "candidateId": "candidate-40",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-40-previous_elections",
+    "candidateId": "candidate-40",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-40-programme_statements",
+    "candidateId": "candidate-40",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-junasova-klimova-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-40-asset_declarations",
+    "candidateId": "candidate-40",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-40-media",
+    "candidateId": "candidate-40",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-40-controversies",
+    "candidateId": "candidate-40",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-41-basic",
+    "candidateId": "candidate-41",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-41-employment_business",
+    "candidateId": "candidate-41",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-41-public_office",
+    "candidateId": "candidate-41",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-41-previous_elections",
+    "candidateId": "candidate-41",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-41-programme_statements",
+    "candidateId": "candidate-41",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-41-asset_declarations",
+    "candidateId": "candidate-41",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-41-media",
+    "candidateId": "candidate-41",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-41-controversies",
+    "candidateId": "candidate-41",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-42-basic",
+    "candidateId": "candidate-42",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-42-employment_business",
+    "candidateId": "candidate-42",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "blchac-team-klobusiak-2026",
+      "ov-klobusiak-aa-plus"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-42-public_office",
+    "candidateId": "candidate-42",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-42-previous_elections",
+    "candidateId": "candidate-42",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-42-programme_statements",
+    "candidateId": "candidate-42",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-klobusiak-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-42-asset_declarations",
+    "candidateId": "candidate-42",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-42-media",
+    "candidateId": "candidate-42",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-42-controversies",
+    "candidateId": "candidate-42",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-43-basic",
+    "candidateId": "candidate-43",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-43-employment_business",
+    "candidateId": "candidate-43",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "ruzomberok-parobek-minutes-2024",
+      "pravda-parobek-tatralandia-2009"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-43-public_office",
+    "candidateId": "candidate-43",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-chronicle-2002"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-43-previous_elections",
+    "candidateId": "candidate-43",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "lm-chronicle-2002"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-43-programme_statements",
+    "candidateId": "candidate-43",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-43-asset_declarations",
+    "candidateId": "candidate-43",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-43-media",
+    "candidateId": "candidate-43",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "pravda-parobek-tatralandia-2009"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-43-controversies",
+    "candidateId": "candidate-43",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-44-basic",
+    "candidateId": "candidate-44",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "lm-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-44-employment_business",
+    "candidateId": "candidate-44",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-mayor-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-44-public_office",
+    "candidateId": "candidate-44",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "szs-lm-school-council-2022",
+      "droppa-mayor-interview-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-44-previous_elections",
+    "candidateId": "candidate-44",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-44-programme_statements",
+    "candidateId": "candidate-44",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "droppa-mayor-interview-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-44-asset_declarations",
+    "candidateId": "candidate-44",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-44-media",
+    "candidateId": "candidate-44",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "droppa-mayor-interview-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-44-controversies",
+    "candidateId": "candidate-44",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-45-basic",
+    "candidateId": "candidate-45",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-45-employment_business",
+    "candidateId": "candidate-45",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "lm-candidate-roster-2018"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-45-public_office",
+    "candidateId": "candidate-45",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-commission-public-order-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-45-previous_elections",
+    "candidateId": "candidate-45",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "lm-candidate-roster-2018",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-45-programme_statements",
+    "candidateId": "candidate-45",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "paska-programme-2018"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-45-asset_declarations",
+    "candidateId": "candidate-45",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-45-media",
+    "candidateId": "candidate-45",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-45-controversies",
+    "candidateId": "candidate-45",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-46-basic",
+    "candidateId": "candidate-46",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-46-employment_business",
+    "candidateId": "candidate-46",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "sita-staronova-maternity-2017"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-46-public_office",
+    "candidateId": "candidate-46",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-commission-social-health-housing-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-46-previous_elections",
+    "candidateId": "candidate-46",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "lm-candidate-roster-2018",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-46-programme_statements",
+    "candidateId": "candidate-46",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-46-asset_declarations",
+    "candidateId": "candidate-46",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-46-media",
+    "candidateId": "candidate-46",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "sita-staronova-maternity-2017"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-46-controversies",
+    "candidateId": "candidate-46",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-47-basic",
+    "candidateId": "candidate-47",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-47-employment_business",
+    "candidateId": "candidate-47",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-47-public_office",
+    "candidateId": "candidate-47",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-city-board-2022-2026",
+      "lm-deputy-mayors-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-47-previous_elections",
+    "candidateId": "candidate-47",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "lm-candidate-roster-2018",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014",
+      "statistics-regional-results-2022",
+      "statistics-regional-results-2017"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-47-programme_statements",
+    "candidateId": "candidate-47",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-urbanovic-st-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-47-asset_declarations",
+    "candidateId": "candidate-47",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-declarations-2024-page-2"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-47-media",
+    "candidateId": "candidate-47",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "aktuality-urbanovic-zupny-dom"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-47-controversies",
+    "candidateId": "candidate-47",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-48-basic",
+    "candidateId": "candidate-48",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-48-employment_business",
+    "candidateId": "candidate-48",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "nrsr-urbanovic-junior-declaration-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-48-public_office",
+    "candidateId": "candidate-48",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-commission-public-order-2022-2026",
+      "lm-commission-business-tourism-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-48-previous_elections",
+    "candidateId": "candidate-48",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-48-programme_statements",
+    "candidateId": "candidate-48",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-urbanovic-ml-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-48-asset_declarations",
+    "candidateId": "candidate-48",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "nrsr-urbanovic-junior-declaration-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-48-media",
+    "candidateId": "candidate-48",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-48-controversies",
+    "candidateId": "candidate-48",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-49-basic",
+    "candidateId": "candidate-49",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-49-employment_business",
+    "candidateId": "candidate-49",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "ov-bonko-hockey-2023"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-49-public_office",
+    "candidateId": "candidate-49",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-commission-transport-environment-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-49-previous_elections",
+    "candidateId": "candidate-49",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-49-programme_statements",
+    "candidateId": "candidate-49",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-49-asset_declarations",
+    "candidateId": "candidate-49",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-49-media",
+    "candidateId": "candidate-49",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-49-controversies",
+    "candidateId": "candidate-49",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-50-basic",
+    "candidateId": "candidate-50",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-50-employment_business",
+    "candidateId": "candidate-50",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-50-public_office",
+    "candidateId": "candidate-50",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-50-previous_elections",
+    "candidateId": "candidate-50",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-50-programme_statements",
+    "candidateId": "candidate-50",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-50-asset_declarations",
+    "candidateId": "candidate-50",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-50-media",
+    "candidateId": "candidate-50",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-50-controversies",
+    "candidateId": "candidate-50",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-51-basic",
+    "candidateId": "candidate-51",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-51-employment_business",
+    "candidateId": "candidate-51",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "jiscd-greso-asge",
+      "blchac-team-greso-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-51-public_office",
+    "candidateId": "candidate-51",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-city-board-2022-2026",
+      "lm-commission-transport-environment-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-51-previous_elections",
+    "candidateId": "candidate-51",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "lm-candidate-roster-2018",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014",
+      "statistics-regional-results-2005"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-51-programme_statements",
+    "candidateId": "candidate-51",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-greso-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-51-asset_declarations",
+    "candidateId": "candidate-51",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-51-media",
+    "candidateId": "candidate-51",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "noviny-greso-autoskola-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-51-controversies",
+    "candidateId": "candidate-51",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-52-basic",
+    "candidateId": "candidate-52",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-52-employment_business",
+    "candidateId": "candidate-52",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "galileo-matejka-consultant-2026",
+      "ov-matejka-marvex-2025"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-52-public_office",
+    "candidateId": "candidate-52",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-52-previous_elections",
+    "candidateId": "candidate-52",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-52-programme_statements",
+    "candidateId": "candidate-52",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-52-asset_declarations",
+    "candidateId": "candidate-52",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-52-media",
+    "candidateId": "candidate-52",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-52-controversies",
+    "candidateId": "candidate-52",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-53-basic",
+    "candidateId": "candidate-53",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-53-employment_business",
+    "candidateId": "candidate-53",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-53-public_office",
+    "candidateId": "candidate-53",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-53-previous_elections",
+    "candidateId": "candidate-53",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-53-programme_statements",
+    "candidateId": "candidate-53",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-53-asset_declarations",
+    "candidateId": "candidate-53",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-53-media",
+    "candidateId": "candidate-53",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-53-controversies",
+    "candidateId": "candidate-53",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-54-basic",
+    "candidateId": "candidate-54",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-54-employment_business",
+    "candidateId": "candidate-54",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "tranoscius-gartner-contacts"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-54-public_office",
+    "candidateId": "candidate-54",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-54-previous_elections",
+    "candidateId": "candidate-54",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-54-programme_statements",
+    "candidateId": "candidate-54",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-gartner-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-54-asset_declarations",
+    "candidateId": "candidate-54",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-54-media",
+    "candidateId": "candidate-54",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "vdecav-tranoscius-results-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-54-controversies",
+    "candidateId": "candidate-54",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-55-basic",
+    "candidateId": "candidate-55",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-55-employment_business",
+    "candidateId": "candidate-55",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "ov-koli-kolesar-2020"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-55-public_office",
+    "candidateId": "candidate-55",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-55-previous_elections",
+    "candidateId": "candidate-55",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-55-programme_statements",
+    "candidateId": "candidate-55",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-55-asset_declarations",
+    "candidateId": "candidate-55",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-55-media",
+    "candidateId": "candidate-55",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "youtube-luzifcak-kolesar-2026",
+      "indicia-kolesar-profile"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-55-controversies",
+    "candidateId": "candidate-55",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-56-basic",
+    "candidateId": "candidate-56",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-56-employment_business",
+    "candidateId": "candidate-56",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "ov-zuma-agro-jancusova-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-56-public_office",
+    "candidateId": "candidate-56",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "lm-commission-social-health-housing-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-56-previous_elections",
+    "candidateId": "candidate-56",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-56-programme_statements",
+    "candidateId": "candidate-56",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-56-asset_declarations",
+    "candidateId": "candidate-56",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-jancusova-declaration-2021"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-56-media",
+    "candidateId": "candidate-56",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-56-controversies",
+    "candidateId": "candidate-56",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-57-basic",
+    "candidateId": "candidate-57",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-57-employment_business",
+    "candidateId": "candidate-57",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-57-public_office",
+    "candidateId": "candidate-57",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-57-previous_elections",
+    "candidateId": "candidate-57",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-57-programme_statements",
+    "candidateId": "candidate-57",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-57-asset_declarations",
+    "candidateId": "candidate-57",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-57-media",
+    "candidateId": "candidate-57",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-57-controversies",
+    "candidateId": "candidate-57",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-58-basic",
+    "candidateId": "candidate-58",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-58-employment_business",
+    "candidateId": "candidate-58",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "lm-tv-liptov-contacts"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-58-public_office",
+    "candidateId": "candidate-58",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-youth-education-commission-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-58-previous_elections",
+    "candidateId": "candidate-58",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-58-programme_statements",
+    "candidateId": "candidate-58",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-nahalkova-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-58-asset_declarations",
+    "candidateId": "candidate-58",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-58-media",
+    "candidateId": "candidate-58",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "lm-monthly-tv-liptov-2025-11"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-58-controversies",
+    "candidateId": "candidate-58",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-59-basic",
+    "candidateId": "candidate-59",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-59-employment_business",
+    "candidateId": "candidate-59",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "ov-travelfun-zahorska-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-59-public_office",
+    "candidateId": "candidate-59",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-commission-sport-public-health-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-59-previous_elections",
+    "candidateId": "candidate-59",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-59-programme_statements",
+    "candidateId": "candidate-59",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-59-asset_declarations",
+    "candidateId": "candidate-59",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-59-media",
+    "candidateId": "candidate-59",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-59-controversies",
+    "candidateId": "candidate-59",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-60-basic",
+    "candidateId": "candidate-60",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-60-employment_business",
+    "candidateId": "candidate-60",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "blchac-team-barkovci-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-60-public_office",
+    "candidateId": "candidate-60",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-60-previous_elections",
+    "candidateId": "candidate-60",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-60-programme_statements",
+    "candidateId": "candidate-60",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-barkovci-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-60-asset_declarations",
+    "candidateId": "candidate-60",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-60-media",
+    "candidateId": "candidate-60",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "scenicka-zatva-barkovci-2024",
+      "blchac-team-barkovci-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-60-controversies",
+    "candidateId": "candidate-60",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-61-basic",
+    "candidateId": "candidate-61",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-61-employment_business",
+    "candidateId": "candidate-61",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "dnes24-lunicek-interview-2017"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-61-public_office",
+    "candidateId": "candidate-61",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-minutes-2021-06-10",
+      "statistics-municipal-candidates-2018"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-61-previous_elections",
+    "candidateId": "candidate-61",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-61-programme_statements",
+    "candidateId": "candidate-61",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-61-asset_declarations",
+    "candidateId": "candidate-61",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-lunicek-declaration-2021"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-61-media",
+    "candidateId": "candidate-61",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "dnes24-lunicek-interview-2017"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-61-controversies",
+    "candidateId": "candidate-61",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-62-basic",
+    "candidateId": "candidate-62",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-62-employment_business",
+    "candidateId": "candidate-62",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "aos-martaus-staff-2023"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-62-public_office",
+    "candidateId": "candidate-62",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "statistics-regional-results-2022",
+      "lm-city-board-2022-2026",
+      "lm-commission-spatial-development-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-62-previous_elections",
+    "candidateId": "candidate-62",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022",
+      "statistics-mayor-votes-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-62-programme_statements",
+    "candidateId": "candidate-62",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-62-asset_declarations",
+    "candidateId": "candidate-62",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-62-media",
+    "candidateId": "candidate-62",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "stvr-martaus-concrete-plant-2025",
+      "lm-council-members-2022-2026",
+      "lm-commission-spatial-development-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-62-controversies",
+    "candidateId": "candidate-62",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-63-basic",
+    "candidateId": "candidate-63",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-63-employment_business",
+    "candidateId": "candidate-63",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-63-public_office",
+    "candidateId": "candidate-63",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-63-previous_elections",
+    "candidateId": "candidate-63",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-63-programme_statements",
+    "candidateId": "candidate-63",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-63-asset_declarations",
+    "candidateId": "candidate-63",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-63-media",
+    "candidateId": "candidate-63",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-63-controversies",
+    "candidateId": "candidate-63",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-64-basic",
+    "candidateId": "candidate-64",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-64-employment_business",
+    "candidateId": "candidate-64",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "snn-nemec-interview-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-64-public_office",
+    "candidateId": "candidate-64",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-64-previous_elections",
+    "candidateId": "candidate-64",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-municipal-elected-2014",
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-64-programme_statements",
+    "candidateId": "candidate-64",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-nemec-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-64-asset_declarations",
+    "candidateId": "candidate-64",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-64-media",
+    "candidateId": "candidate-64",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "snn-nemec-interview-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-64-controversies",
+    "candidateId": "candidate-64",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-65-basic",
+    "candidateId": "candidate-65",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-65-employment_business",
+    "candidateId": "candidate-65",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "ov-explor-media-piatka-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-65-public_office",
+    "candidateId": "candidate-65",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-65-previous_elections",
+    "candidateId": "candidate-65",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-65-programme_statements",
+    "candidateId": "candidate-65",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-65-asset_declarations",
+    "candidateId": "candidate-65",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-65-media",
+    "candidateId": "candidate-65",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-65-controversies",
+    "candidateId": "candidate-65",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-66-basic",
+    "candidateId": "candidate-66",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-66-employment_business",
+    "candidateId": "candidate-66",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "rmno-rusek-trnovska-school-ngo"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-66-public_office",
+    "candidateId": "candidate-66",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-66-previous_elections",
+    "candidateId": "candidate-66",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-66-programme_statements",
+    "candidateId": "candidate-66",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-66-asset_declarations",
+    "candidateId": "candidate-66",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-66-media",
+    "candidateId": "candidate-66",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-66-controversies",
+    "candidateId": "candidate-66",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-67-basic",
+    "candidateId": "candidate-67",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-67-employment_business",
+    "candidateId": "candidate-67",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "blchac-team-vysny-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-67-public_office",
+    "candidateId": "candidate-67",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-67-previous_elections",
+    "candidateId": "candidate-67",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-67-programme_statements",
+    "candidateId": "candidate-67",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-vysny-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-67-asset_declarations",
+    "candidateId": "candidate-67",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-67-media",
+    "candidateId": "candidate-67",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-67-controversies",
+    "candidateId": "candidate-67",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-68-basic",
+    "candidateId": "candidate-68",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-68-employment_business",
+    "candidateId": "candidate-68",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "recyklator-paradysio-kozmonova"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-68-public_office",
+    "candidateId": "candidate-68",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-68-previous_elections",
+    "candidateId": "candidate-68",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-68-programme_statements",
+    "candidateId": "candidate-68",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-68-asset_declarations",
+    "candidateId": "candidate-68",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-68-media",
+    "candidateId": "candidate-68",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-68-controversies",
+    "candidateId": "candidate-68",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-69-basic",
+    "candidateId": "candidate-69",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-69-employment_business",
+    "candidateId": "candidate-69",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-69-public_office",
+    "candidateId": "candidate-69",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lm-council-members-2022-2026",
+      "lm-deputy-mayors-2022-2026",
+      "lm-commission-business-tourism-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-69-previous_elections",
+    "candidateId": "candidate-69",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-municipal-elected-2014",
+      "statistics-municipal-candidates-2018",
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-69-programme_statements",
+    "candidateId": "candidate-69",
+    "category": "programme_statements",
+    "status": "found",
+    "sourceIds": [
+      "blchac-team-trizna-2026",
+      "radiozilina-trizna-boat-ramp-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-69-asset_declarations",
+    "candidateId": "candidate-69",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lm-city-declarations-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-69-media",
+    "candidateId": "candidate-69",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "radiozilina-trizna-boat-ramp-2026",
+      "lm-deputy-mayors-2022-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-69-controversies",
+    "candidateId": "candidate-69",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-70-basic",
+    "candidateId": "candidate-70",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-70-employment_business",
+    "candidateId": "candidate-70",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "registeruz-conka-1808184"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-70-public_office",
+    "candidateId": "candidate-70",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-70-previous_elections",
+    "candidateId": "candidate-70",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "minv-regional-candidates-2022-d5",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-70-programme_statements",
+    "candidateId": "candidate-70",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-70-asset_declarations",
+    "candidateId": "candidate-70",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-70-media",
+    "candidateId": "candidate-70",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-70-controversies",
+    "candidateId": "candidate-70",
+    "category": "controversies",
+    "status": "found",
+    "sourceIds": [
+      "justice-execution-conka-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-71-basic",
+    "candidateId": "candidate-71",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-71-employment_business",
+    "candidateId": "candidate-71",
+    "category": "employment_business",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-71-public_office",
+    "candidateId": "candidate-71",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-71-previous_elections",
+    "candidateId": "candidate-71",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-71-programme_statements",
+    "candidateId": "candidate-71",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-71-asset_declarations",
+    "candidateId": "candidate-71",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-71-media",
+    "candidateId": "candidate-71",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-71-controversies",
+    "candidateId": "candidate-71",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-72-basic",
+    "candidateId": "candidate-72",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-72-employment_business",
+    "candidateId": "candidate-72",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "lubela-mayor-gemzicky"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-72-public_office",
+    "candidateId": "candidate-72",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lubela-mayor-gemzicky",
+      "zsk-council-current-gemzicky"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-72-previous_elections",
+    "candidateId": "candidate-72",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "pravda-zsk-results-2017",
+      "statistics-municipal-2018-tables",
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017",
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022",
+      "aktuality-lubela-mayor-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-72-programme_statements",
+    "candidateId": "candidate-72",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-72-asset_declarations",
+    "candidateId": "candidate-72",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lubela-declaration-gemzicky-2023"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-72-media",
+    "candidateId": "candidate-72",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "stvr-school-merger-2025"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-72-controversies",
+    "candidateId": "candidate-72",
+    "category": "controversies",
+    "status": "found",
+    "sourceIds": [
+      "stvr-school-merger-2025"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-73-basic",
+    "candidateId": "candidate-73",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-73-employment_business",
+    "candidateId": "candidate-73",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "registeruz-cheben-576023"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-73-public_office",
+    "candidateId": "candidate-73",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-73-previous_elections",
+    "candidateId": "candidate-73",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-73-programme_statements",
+    "candidateId": "candidate-73",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-73-asset_declarations",
+    "candidateId": "candidate-73",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-73-media",
+    "candidateId": "candidate-73",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-73-controversies",
+    "candidateId": "candidate-73",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-74-basic",
+    "candidateId": "candidate-74",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-74-employment_business",
+    "candidateId": "candidate-74",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-74-public_office",
+    "candidateId": "candidate-74",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-74-previous_elections",
+    "candidateId": "candidate-74",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-74-programme_statements",
+    "candidateId": "candidate-74",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-74-asset_declarations",
+    "candidateId": "candidate-74",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-74-media",
+    "candidateId": "candidate-74",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-74-controversies",
+    "candidateId": "candidate-74",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-75-basic",
+    "candidateId": "candidate-75",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-75-employment_business",
+    "candidateId": "candidate-75",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "euba-imrich-profile",
+      "zsk-district-5-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-75-public_office",
+    "candidateId": "candidate-75",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lhr-poslanci-history"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-75-previous_elections",
+    "candidateId": "candidate-75",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "pravda-local-results-2018-lhr",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-75-programme_statements",
+    "candidateId": "candidate-75",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-75-asset_declarations",
+    "candidateId": "candidate-75",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lhr-declarations"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-75-media",
+    "candidateId": "candidate-75",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "euba-imrich-profile"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-75-controversies",
+    "candidateId": "candidate-75",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-76-basic",
+    "candidateId": "candidate-76",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-76-employment_business",
+    "candidateId": "candidate-76",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "demanovska-municipal-police"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-76-public_office",
+    "candidateId": "candidate-76",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "demanovska-municipal-police"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-76-previous_elections",
+    "candidateId": "candidate-76",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-76-programme_statements",
+    "candidateId": "candidate-76",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-76-asset_declarations",
+    "candidateId": "candidate-76",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-76-media",
+    "candidateId": "candidate-76",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "tnlive-demanovska-parking-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-76-controversies",
+    "candidateId": "candidate-76",
+    "category": "controversies",
+    "status": "found",
+    "sourceIds": [
+      "tnlive-demanovska-parking-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-77-basic",
+    "candidateId": "candidate-77",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-77-employment_business",
+    "candidateId": "candidate-77",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "justice-jarkoj-jurco-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-77-public_office",
+    "candidateId": "candidate-77",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-77-previous_elections",
+    "candidateId": "candidate-77",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "statistics-municipal-candidates-2018",
+      "teraz-lhr-mayor-2018",
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-77-programme_statements",
+    "candidateId": "candidate-77",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-77-asset_declarations",
+    "candidateId": "candidate-77",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-77-media",
+    "candidateId": "candidate-77",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-77-controversies",
+    "candidateId": "candidate-77",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-78-basic",
+    "candidateId": "candidate-78",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-78-employment_business",
+    "candidateId": "candidate-78",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "sportnet-kovac-veterna"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-78-public_office",
+    "candidateId": "candidate-78",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-78-previous_elections",
+    "candidateId": "candidate-78",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-78-programme_statements",
+    "candidateId": "candidate-78",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-78-asset_declarations",
+    "candidateId": "candidate-78",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-78-media",
+    "candidateId": "candidate-78",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-78-controversies",
+    "candidateId": "candidate-78",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-79-basic",
+    "candidateId": "candidate-79",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-79-employment_business",
+    "candidateId": "candidate-79",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-79-public_office",
+    "candidateId": "candidate-79",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-79-previous_elections",
+    "candidateId": "candidate-79",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-79-programme_statements",
+    "candidateId": "candidate-79",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-79-asset_declarations",
+    "candidateId": "candidate-79",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-79-media",
+    "candidateId": "candidate-79",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-79-controversies",
+    "candidateId": "candidate-79",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-80-basic",
+    "candidateId": "candidate-80",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-80-employment_business",
+    "candidateId": "candidate-80",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "stvr-nahlik-profile-2024",
+      "zsk-district-5-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-80-public_office",
+    "candidateId": "candidate-80",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "vlasteneckyblok-leadership"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-80-previous_elections",
+    "candidateId": "candidate-80",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "minv-nrsr-candidates-2020",
+      "stvr-nahlik-profile-2024",
+      "statistics-presidential-results-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-80-programme_statements",
+    "candidateId": "candidate-80",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-80-asset_declarations",
+    "candidateId": "candidate-80",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-80-media",
+    "candidateId": "candidate-80",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "joj-nahlik-profile-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-80-controversies",
+    "candidateId": "candidate-80",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-81-basic",
+    "candidateId": "candidate-81",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-81-employment_business",
+    "candidateId": "candidate-81",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "justice-podhorany-2023"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-81-public_office",
+    "candidateId": "candidate-81",
+    "category": "public_office",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-81-previous_elections",
+    "candidateId": "candidate-81",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-81-programme_statements",
+    "candidateId": "candidate-81",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-81-asset_declarations",
+    "candidateId": "candidate-81",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-81-media",
+    "candidateId": "candidate-81",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-81-controversies",
+    "candidateId": "candidate-81",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-82-basic",
+    "candidateId": "candidate-82",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-82-employment_business",
+    "candidateId": "candidate-82",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "justice-racko-plus-2023"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-82-public_office",
+    "candidateId": "candidate-82",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "liptovskyjan-commission-2007"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-82-previous_elections",
+    "candidateId": "candidate-82",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "liptovskyjan-candidates-2018",
+      "minv-nrsr-results-2023"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-82-programme_statements",
+    "candidateId": "candidate-82",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-82-asset_declarations",
+    "candidateId": "candidate-82",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-82-media",
+    "candidateId": "candidate-82",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-82-controversies",
+    "candidateId": "candidate-82",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-83-basic",
+    "candidateId": "candidate-83",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-83-employment_business",
+    "candidateId": "candidate-83",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-83-public_office",
+    "candidateId": "candidate-83",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "lhr-treger-official-profile"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-83-previous_elections",
+    "candidateId": "candidate-83",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017",
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022",
+      "aktuality-treger-mayor-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-83-programme_statements",
+    "candidateId": "candidate-83",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-83-asset_declarations",
+    "candidateId": "candidate-83",
+    "category": "asset_declarations",
+    "status": "found",
+    "sourceIds": [
+      "lhr-declarations"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-83-media",
+    "candidateId": "candidate-83",
+    "category": "media",
+    "status": "found",
+    "sourceIds": [
+      "aktuality-treger-mayor-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-83-controversies",
+    "candidateId": "candidate-83",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-84-basic",
+    "candidateId": "candidate-84",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-84-employment_business",
+    "candidateId": "candidate-84",
+    "category": "employment_business",
+    "status": "found",
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-84-public_office",
+    "candidateId": "candidate-84",
+    "category": "public_office",
+    "status": "found",
+    "sourceIds": [
+      "pavcina-public-meeting-2024"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-84-previous_elections",
+    "candidateId": "candidate-84",
+    "category": "previous_elections",
+    "status": "found",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "pavcina-results-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-84-programme_statements",
+    "candidateId": "candidate-84",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-84-asset_declarations",
+    "candidateId": "candidate-84",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-84-media",
+    "candidateId": "candidate-84",
+    "category": "media",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-84-controversies",
+    "candidateId": "candidate-84",
+    "category": "controversies",
+    "status": "searched_none",
+    "sourceIds": [],
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "coverage-candidate-85-basic",
+    "candidateId": "candidate-85",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-85-employment_business",
+    "candidateId": "candidate-85",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "zsk-chair-roster-2026",
+      "cadca-deputy-mayors-2022-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-85-public_office",
+    "candidateId": "candidate-85",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "cadca-deputy-mayors-2022-2026",
+      "cadca-councillors-current",
+      "nrsr-belousovova-term5"
+    ]
+  },
+  {
+    "id": "coverage-candidate-85-previous_elections",
+    "candidateId": "candidate-85",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-regional-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-85-programme_statements",
+    "candidateId": "candidate-85",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "aktuality-belousovova-candidacy-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-85-asset_declarations",
+    "candidateId": "candidate-85",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-85-media",
+    "candidateId": "candidate-85",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "aktuality-belousovova-candidacy-2026",
+      "hlavnespravy-belousovova-rizman-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-85-controversies",
+    "candidateId": "candidate-85",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "hlavnespravy-belousovova-rizman-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-86-basic",
+    "candidateId": "candidate-86",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-86-employment_business",
+    "candidateId": "candidate-86",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-86-public_office",
+    "candidateId": "candidate-86",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-86-previous_elections",
+    "candidateId": "candidate-86",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-86-programme_statements",
+    "candidateId": "candidate-86",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-86-asset_declarations",
+    "candidateId": "candidate-86",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-86-media",
+    "candidateId": "candidate-86",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-86-controversies",
+    "candidateId": "candidate-86",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-87-basic",
+    "candidateId": "candidate-87",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-87-employment_business",
+    "candidateId": "candidate-87",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "mindop-choma-profile"
+    ]
+  },
+  {
+    "id": "coverage-candidate-87-public_office",
+    "candidateId": "candidate-87",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "mindop-choma-profile",
+      "zilina-choma-profile"
+    ]
+  },
+  {
+    "id": "coverage-candidate-87-previous_elections",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017",
+      "statistics-zsk-chair-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-87-programme_statements",
+    "candidateId": "candidate-87",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "choma-campaign-programme-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-87-asset_declarations",
+    "candidateId": "candidate-87",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "zilina-choma-profile"
+    ]
+  },
+  {
+    "id": "coverage-candidate-87-media",
+    "candidateId": "candidate-87",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "asb-choma-interview-2025"
+    ]
+  },
+  {
+    "id": "coverage-candidate-87-controversies",
+    "candidateId": "candidate-87",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "aktuality-choma-office-rent-2015"
+    ]
+  },
+  {
+    "id": "coverage-candidate-88-basic",
+    "candidateId": "candidate-88",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-88-employment_business",
+    "candidateId": "candidate-88",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "nrsr-jurinova-declaration-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-88-public_office",
+    "candidateId": "candidate-88",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "zsk-jurinova-profile",
+      "nrsr-jurinova-vicechair-term6"
+    ]
+  },
+  {
+    "id": "coverage-candidate-88-previous_elections",
+    "candidateId": "candidate-88",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-zsk-chair-results-2017",
+      "statistics-zsk-chair-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-88-programme_statements",
+    "candidateId": "candidate-88",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "jurinova-campaign-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-88-asset_declarations",
+    "candidateId": "candidate-88",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "nrsr-jurinova-declaration-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-88-media",
+    "candidateId": "candidate-88",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "radiozilina-jurinova-candidacy-2026",
+      "sp21-zsk-chair-debate-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-88-controversies",
+    "candidateId": "candidate-88",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "aktuality-jurinova-kovacic-dismissal-2025"
+    ]
+  },
+  {
+    "id": "coverage-candidate-89-basic",
+    "candidateId": "candidate-89",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-89-employment_business",
+    "candidateId": "candidate-89",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "zilina-kapitulik-vice-mayor-2023"
+    ]
+  },
+  {
+    "id": "coverage-candidate-89-public_office",
+    "candidateId": "candidate-89",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "zilina-kapitulik-profile",
+      "zilina-kapitulik-vice-mayor-2023",
+      "zilina-kapitulik-dismissal-official-2025"
+    ]
+  },
+  {
+    "id": "coverage-candidate-89-previous_elections",
+    "candidateId": "candidate-89",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "statistics-municipal-candidates-2018",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-regional-results-2017",
+      "statistics-regional-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-candidate-89-programme_statements",
+    "candidateId": "candidate-89",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "kapitulik-campaign-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-89-asset_declarations",
+    "candidateId": "candidate-89",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "zilina-kapitulik-profile"
+    ]
+  },
+  {
+    "id": "coverage-candidate-89-media",
+    "candidateId": "candidate-89",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "sp21-zsk-chair-debate-2026",
+      "zilinskyvecernik-kapitulik-dismissal-2025"
+    ]
+  },
+  {
+    "id": "coverage-candidate-89-controversies",
+    "candidateId": "candidate-89",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "zilina-kapitulik-dismissal-official-2025",
+      "zilinskyvecernik-kapitulik-dismissal-2025"
+    ]
+  },
+  {
+    "id": "coverage-candidate-90-basic",
+    "candidateId": "candidate-90",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-90-employment_business",
+    "candidateId": "candidate-90",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "nrsr-lucansky-declaration-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-90-public_office",
+    "candidateId": "candidate-90",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "nrsr-lucansky-term9",
+      "nrsr-lucansky-declaration-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-90-previous_elections",
+    "candidateId": "candidate-90",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022",
+      "statistics-nrsr-preference-2023",
+      "nrsr-lucansky-substitute-2023"
+    ]
+  },
+  {
+    "id": "coverage-candidate-90-programme_statements",
+    "candidateId": "candidate-90",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "tasr-lucansky-candidacy-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-90-asset_declarations",
+    "candidateId": "candidate-90",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "nrsr-lucansky-declaration-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-90-media",
+    "candidateId": "candidate-90",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "tasr-lucansky-candidacy-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-90-controversies",
+    "candidateId": "candidate-90",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "echr-lucansky-notification-2025"
+    ]
+  },
+  {
+    "id": "coverage-candidate-91-basic",
+    "candidateId": "candidate-91",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-09-17",
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-91-employment_business",
+    "candidateId": "candidate-91",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "zsk-chair-roster-2026",
+      "minv-kss-eu-candidates-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-91-public_office",
+    "candidateId": "candidate-91",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-91-previous_elections",
+    "candidateId": "candidate-91",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "statistics-nrsr-preference-2023",
+      "minv-kss-eu-candidates-2024"
+    ]
+  },
+  {
+    "id": "coverage-candidate-91-programme_statements",
+    "candidateId": "candidate-91",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "kss-pova-analysis-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-91-asset_declarations",
+    "candidateId": "candidate-91",
+    "category": "asset_declarations",
+    "status": "not_applicable",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-candidate-91-media",
+    "candidateId": "candidate-91",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-09-18",
+    "sourceIds": [
+      "tasr-zsk-chair-registration-2026"
+    ]
+  },
+  {
+    "id": "coverage-candidate-91-controversies",
+    "candidateId": "candidate-91",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-09-18",
+    "sourceIds": []
+  }
+]

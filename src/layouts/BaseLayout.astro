@@ -1,0 +1,37 @@
+---
+import LegalNotice from '../components/LegalNotice.astro';
+import Search from '../components/Search.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import { DATA_SNAPSHOT_DATE } from '../config/site';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<!doctype html>
+<html lang="sk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Preskočiť na obsah</a>
+    <SiteHeader />
+    <p class="shell snapshot-date" data-snapshot-date data-pagefind-ignore>Údaje overené k <time datetime={DATA_SNAPSHOT_DATE}>{DATA_SNAPSHOT_DATE}</time>.</p>
+    <Search />
+    <main id="main-content" tabindex="-1" data-pagefind-body>
+      <slot />
+    </main>
+    <LegalNotice />
+    <script>
+      import '../scripts/comparison-selection';
+    </script>
+  </body>
+</html>

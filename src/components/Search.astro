@@ -1,0 +1,21 @@
+<section class="site-search shell" aria-label="Vyhľadávanie na stránke" data-pagefind-ignore>
+  <form role="search" data-search-form>
+    <label for="site-search-input">Hľadať na ovolbach.sk</label>
+    <input
+      id="site-search-input"
+      name="q"
+      type="search"
+      autocomplete="off"
+      enterkeyhint="search"
+      aria-controls="site-search-results"
+      data-search-input
+    />
+    <p class="search-status" aria-live="polite" data-search-status>Začnite písať hľadaný výraz.</p>
+    <ol id="site-search-results" class="search-results" data-search-results></ol>
+  </form>
+  <noscript><p>Vyhľadávanie na stránke vyžaduje JavaScript.</p></noscript>
+</section>
+
+<script>
+  import '../scripts/search';
+</script>

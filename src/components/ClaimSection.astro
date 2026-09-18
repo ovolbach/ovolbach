@@ -1,0 +1,45 @@
+---
+import SourceLink from './SourceLink.astro';
+import { claimKindLabel, coverageMessage } from '../lib/profile-content';
+import type { Claim, ResearchCoverage, Source } from '../lib/schemas';
+
+interface Props {
+  title: string;
+  claims: Claim[];
+  coverage: ResearchCoverage | undefined;
+  sources: Source[];
+}
+
+const { title, claims, coverage, sources } = Astro.props;
+---
+
+<section class="claim-section" aria-labelledby={`section-${coverage?.category ?? title}`}>
+  <h2 id={`section-${coverage?.category ?? title}`}>{title}</h2>
+  {claims.map((claim) => {
+    const kindLabel = claimKindLabel(claim.kind);
+    return claim.kind === 'quote' ? (
+      <figure class="claim claim--quote" data-claim>
+        {kindLabel && <p class="claim__kind">{kindLabel}</p>}
+        <blockquote><p data-sourced-text={claim.id}>{claim.text.sk}</p></blockquote>
+        <figcaption>
+          {claim.label.sk}{claim.period ? ` (${claim.period})` : ''}
+          <SourceLink recordId={claim.id} sourceIds={claim.sourceIds} sources={sources} />
+        </figcaption>
+      </figure>
+    ) : (
+      <article class="claim" data-claim>
+        {kindLabel && <p class="claim__kind">{kindLabel}</p>}
+        <h3>{claim.label.sk}</h3>
+        {claim.period && <p class="claim__period">{claim.period}</p>}
+        <p data-sourced-text={claim.id}>{claim.text.sk}</p>
+        <SourceLink recordId={claim.id} sourceIds={claim.sourceIds} sources={sources} />
+      </article>
+    );
+  })}
+  {claims.length === 0 && coverage && coverage.status !== 'found' && (
+    <p class="coverage-status" data-coverage-status={coverage.status}>
+      {coverageMessage(coverage.status)}
+      {coverage.sourceIds.length > 0 && <SourceLink recordId={coverage.id} sourceIds={coverage.sourceIds} sources={sources} />}
+    </p>
+  )}
+</section>
