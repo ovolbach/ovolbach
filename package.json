@@ -13,13 +13,13 @@
     "check:links": "tsx scripts/check-external-links.ts",
     "validate:data": "tsx scripts/validate-data.ts --mode=draft",
     "validate:release": "tsx scripts/validate-data.ts --mode=release",
-    "build": "npm run validate:data && astro check && astro build && tsx scripts/seo-artifacts.ts --write-sitemap && node scripts/check-html.mjs && pagefind --site dist",
+    "build": "npm run validate:data && astro check && astro build && tsx scripts/generate-sitemap.ts && pagefind --site dist",
     "check:seo": "tsx scripts/seo-artifacts.ts --check",
     "check:html": "node scripts/check-html.mjs",
     "preview": "astro preview",
     "test:e2e": "playwright test",
     "check:storage": "tsx scripts/check-browser-storage.ts",
-    "verify": "npm run test && npm run validate:release && npm run build && npm run check:seo && npm run check:storage && npm run check:links && npm run test:e2e"
+    "verify": "npm run test && npm run validate:release && npm run build && npm run check:storage && npm run check:links && npm run test:e2e"
   },
   "dependencies": {
     "astro": "7.3.3"

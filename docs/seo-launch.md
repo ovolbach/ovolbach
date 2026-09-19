@@ -2,7 +2,7 @@
 
 Stav k 19. 9. 2026: web ešte nie je verejne nasadený. Produkčné HTTP odpovede, kompresiu, cache, indexáciu a Core Web Vitals treba overiť po nasadení.
 
-## Kontrola pred nasadením
+## Jednorazová kontrola pred prvým nasadením
 
 ```text
 npm test
@@ -18,7 +18,7 @@ npm run test:e2e
 git diff --check
 ```
 
-`npm run build` vytvára `/sitemap.xml` priamo z hotových stránok s platným canonical. `npm run check:seo` kontroluje 99 indexovateľných stránok, ich jedinečné titulky a popisy, jeden H1, slovenský jazyk, OG/Twitter a JSON-LD. `404.html` musí byť mimo sitemap, bez canonical a s `noindex`. Parametre výberu v URL nemenia canonical; v sitemap sú iba základné adresy stránok. `npm run check:html` používa oficiálny W3C Nu Html Checker a ukladá aj upozornenia do `test-results/html-validation.json`.
+Z pohľadu SEO `npm run build` iba vytvára `/sitemap.xml` z indexovateľných statických trás; nespúšťa SEO ani HTML audit. `npm run check:seo` sa spúšťa ručne a kontroluje 99 indexovateľných stránok, ich jedinečné titulky a popisy, jeden H1, slovenský jazyk, OG/Twitter a JSON-LD. `404.html` musí byť mimo sitemap, bez canonical a s `noindex`. Parametre výberu v URL nemenia canonical; v sitemap sú iba základné adresy stránok. Ručný `npm run check:html` používa oficiálny W3C Nu Html Checker a ukladá aj upozornenia do `test-results/html-validation.json`.
 
 ## Elestio a Nginx
 

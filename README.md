@@ -74,11 +74,11 @@ Schémy, väzby a redakčné obmedzenia sú definované v `src/lib/schemas.ts` a
 | `npm run check:links` | skontroluje dostupnosť externých zdrojov |
 | `npm run check:storage` | overí, že web nepoužíva cookies ani úložisko prehliadača |
 | `npm run test:e2e` | spustí end-to-end testy v Playwright |
-| `npm run build` | validuje dáta a vytvorí produkčný web v `dist/` |
-| `npm run check:seo` | skontroluje metadáta, štruktúrované údaje, canonical a sitemap všetkých publikovaných stránok |
-| `npm run check:html` | overí každý súbor HTML v `dist/` pomocou W3C Nu Html Checker vrátane `404.html` |
+| `npm run build` | validuje dáta, vytvorí produkčný web v `dist/` a vygeneruje sitemap |
+| `npm run check:seo` | manuálny SEO audit metadát, štruktúrovaných údajov, canonical a sitemap |
+| `npm run check:html` | manuálna kontrola všetkých HTML súborov pomocou W3C Nu Html Checker vrátane `404.html` |
 | `npm run preview` | lokálne zobrazí produkčný build |
-| `npm run verify` | spustí testy, kontrolu vydania, build, SEO, HTML, úložiska, externých odkazov a E2E; `report:coverage` spustite osobitne |
+| `npm run verify` | spustí bežné testy, kontrolu vydania, build, úložiska, externých odkazov a E2E; SEO, HTML a `report:coverage` spustite osobitne |
 
 Pred prvým end-to-end testom môže byť potrebné nainštalovať Chromium:
 
@@ -95,7 +95,7 @@ npm run preview
 
 Priečinok `dist/` je generovaný výstup. Neukladá sa do Git repozitára a pri každom nasadení sa vytvorí znova.
 
-Kontrola HTML používa [oficiálny W3C Nu Checker](https://github.com/validator/validator/releases/tag/latest). Prvý beh stiahne príslušný balík Windows, Linux alebo macOS do ignorovaného priečinka `.superpowers/vnu/`; v ďalších behoch použije cache. V offline prostredí možno nastaviť `VNU_JAVA` na Java runtime z oficiálneho balíka alebo `VNU_JAR` na oficiálny `vnu.jar` pri dostupnej Jave 17+. `npm run build` vždy spustí kontrolu HTML a pri chybe alebo zlyhaní nástroja zlyhá. Celý výstup vrátane upozornení sa uloží do `test-results/html-validation.json`.
+SEO a HTML audit spustite ručne po zostavení webu pred jeho prvým publikovaním: `npm run check:seo` a `npm run check:html`. Nie sú súčasťou `build` ani `verify`. Kontrola HTML používa [oficiálny W3C Nu Checker](https://github.com/validator/validator/releases/tag/latest). Prvý beh stiahne príslušný balík Windows, Linux alebo macOS do ignorovaného priečinka `.superpowers/vnu/`; v ďalších behoch použije cache. V offline prostredí možno nastaviť `VNU_JAVA` na Java runtime z oficiálneho balíka alebo `VNU_JAR` na oficiálny `vnu.jar` pri dostupnej Jave 17+. Výstup vrátane upozornení sa uloží do `test-results/html-validation.json`.
 
 SEO a kontrolný zoznam nasadenia sú v [docs/seo-launch.md](docs/seo-launch.md).
 

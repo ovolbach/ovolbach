@@ -1,4 +1,4 @@
-import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { readdir, readFile } from 'node:fs/promises';
 import { join, relative, resolve, sep } from 'node:path';
 import { SITE_URL } from '../src/config/site';
 
@@ -44,13 +44,8 @@ function routeFor(file: string): string {
   return path === 'index.html' ? '/' : `/${path.replace(/index\.html$/u, '')}`;
 }
 
-function xmlEscape(value: string): string {
-  return value.replace(/&/gu, '&amp;').replace(/</gu, '&lt;').replace(/>/gu, '&gt;').replace(/"/gu, '&quot;').replace(/'/gu, '&apos;');
-}
-
 async function main(): Promise<void> {
-  const mode = process.argv[2] ?? '--check';
-  if (!['--check', '--write-sitemap'].includes(mode)) throw new Error(`Unknown mode: ${mode}`);
+  if (process.argv[2] && process.argv[2] !== '--check') throw new Error(`Unknown mode: ${process.argv[2]}`);
   const files = await htmlFiles(outputDir);
   const titles = new Map<string, string>();
   const descriptions = new Map<string, string>();
@@ -137,14 +132,9 @@ async function main(): Promise<void> {
   }
 
   const sitemapPath = join(outputDir, 'sitemap.xml');
-  if (mode === '--write-sitemap') {
-    const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((url) => `  <url><loc>${xmlEscape(url)}</loc></url>`).join('\n')}\n</urlset>\n`;
-    await writeFile(sitemapPath, sitemap);
-  } else {
-    const sitemap = await readFile(sitemapPath, 'utf8').catch(() => '');
-    const found = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/gu)].map((match) => match[1]);
-    if (found.length !== urls.length || found.some((url, index) => url !== urls[index])) throw new Error('sitemap.xml does not match indexable canonical HTML pages');
-  }
+  const sitemap = await readFile(sitemapPath, 'utf8').catch(() => '');
+  const found = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/gu)].map((match) => match[1]);
+  if (found.length !== urls.length || found.some((url, index) => url !== urls[index])) throw new Error('sitemap.xml does not match indexable canonical HTML pages');
   console.log(`SEO audit passed: ${urls.length} canonical indexable pages, 1 noindex 404`);
 }
 
