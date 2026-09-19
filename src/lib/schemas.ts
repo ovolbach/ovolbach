@@ -12,6 +12,21 @@ export type ClaimCategory =
   | 'asset_declarations'
   | 'media'
   | 'controversies';
+export type ElectionHistoryOffice =
+  | 'mayor'
+  | 'municipal_council'
+  | 'regional_chair'
+  | 'regional_council'
+  | 'national_council'
+  | 'european_parliament'
+  | 'president';
+export type ElectionHistoryOutcome = 'elected' | 'not_elected' | 'substitute' | 'withdrawn';
+
+export interface ElectionHistoryRecord {
+  contestId: string;
+  office: ElectionHistoryOffice;
+  outcome: ElectionHistoryOutcome;
+}
 
 export interface Candidate {
   id: string;
@@ -36,6 +51,7 @@ export interface Candidacy {
   id: string;
   candidateId: string;
   electionId: ElectionId;
+  contestId: string;
   districtId?: string;
   ballotNumber: number;
   ageAtElection: number;
@@ -53,6 +69,7 @@ export interface Claim {
   label: LocalizedText;
   text: LocalizedText;
   period?: string;
+  election?: ElectionHistoryRecord;
   sourceIds: string[];
   checkedAt: string;
 }
@@ -62,8 +79,8 @@ export interface Source {
   url: string;
   title: string;
   publisher: string;
-  author?: string;
-  publishedAt?: string;
+  author?: string | undefined;
+  publishedAt?: string | undefined;
   checkedAt: string;
   language: 'sk' | 'cs' | 'en';
   type: 'official' | 'candidate' | 'media';
@@ -82,6 +99,7 @@ export interface District {
 
 export interface Election {
   id: ElectionId;
+  contestId: string;
   title: LocalizedText;
   level: 'city' | 'region';
   maxSelections: number | 'district_seats';
@@ -115,7 +133,7 @@ export interface ValidationIssue {
 }
 
 const requiredString = z.string().trim().min(1);
-const isoDate = requiredString.refine(
+export const isoDate = requiredString.refine(
   (value) => {
     const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(value);
     if (!match) return false;
@@ -145,6 +163,20 @@ export const localizedTextSchema = z.object({
   en: requiredString.optional(),
 }).strict();
 
+export const electionHistoryRecordSchema = z.object({
+  contestId: id,
+  office: z.enum([
+    'mayor',
+    'municipal_council',
+    'regional_chair',
+    'regional_council',
+    'national_council',
+    'european_parliament',
+    'president',
+  ]),
+  outcome: z.enum(['elected', 'not_elected', 'substitute', 'withdrawn']),
+}).strict();
+
 export const candidateSchema = z.object({
   id,
   slug: requiredString,
@@ -161,6 +193,7 @@ export const candidacySchema = z.object({
   id,
   candidateId: id,
   electionId: z.enum(['mayor', 'city-council', 'region-chair', 'region-council']),
+  contestId: id,
   districtId: id.optional(),
   ballotNumber: z.number().int().positive(),
   ageAtElection: z.number().int().nonnegative(),
@@ -178,13 +211,14 @@ export const claimSchema = z.object({
   label: localizedTextSchema,
   text: localizedTextSchema,
   period: requiredString.optional(),
+  election: electionHistoryRecordSchema.optional(),
   sourceIds,
   checkedAt: isoDate,
 }).strict();
 
 export const sourceSchema = z.object({
   id,
-  url: requiredString.refine(isSafeOutboundSourceUrl, 'Expected absolute HTTP or HTTPS URL without credentials'),
+  url: requiredString.refine((value) => isSafeOutboundSourceUrl(value) && new URL(value).protocol === 'https:', 'Expected absolute HTTPS URL without credentials'),
   title: requiredString,
   publisher: requiredString,
   author: requiredString.optional(),
@@ -212,6 +246,7 @@ export const districtSchema = z.object({
 
 export const electionSchema = z.object({
   id: z.enum(['mayor', 'city-council', 'region-chair', 'region-council']),
+  contestId: id,
   title: localizedTextSchema,
   level: z.enum(['city', 'region']),
   maxSelections: z.union([z.number().int().positive(), z.literal('district_seats')]),

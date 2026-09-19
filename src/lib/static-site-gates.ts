@@ -135,7 +135,7 @@ function isAttributedText(value: unknown, sources: Source[]): boolean {
 
 function attributedEditorialText(path: string, value: string, context: EditorialContext, issues: Set<string>): string {
   const sources = validatedSources(context.sources);
-  if (path === 'src/data/sources.json' || path === 'src/data/claims.json') {
+  if (path === 'src/data/sources.json' || path === 'src/data/claims.json' || /src\/data\/elections\/\d{4}\/[a-z0-9-]+\/claims\.json$/u.test(path)) {
     try {
       const json: unknown = JSON.parse(value);
       if (path === 'src/data/sources.json') {

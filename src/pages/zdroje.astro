@@ -1,33 +1,17 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { loadGuideData } from '../lib/load-guide-data';
+import SourceRegister from '../components/SourceRegister.astro';
+import allSources from '../data/sources.json';
 import { getSourceRegister } from '../lib/selectors';
+import { sourceSchema } from '../lib/schemas';
 import { assertSafeOutboundSourceUrl } from '../lib/source-url';
-import { SOURCE_TYPE_LABELS } from '../lib/source-links';
 
-const data = await loadGuideData();
-const sources = getSourceRegister(data);
+const sources = getSourceRegister(sourceSchema.array().parse(allSources));
 sources.forEach((source) => assertSafeOutboundSourceUrl(source.id, source.url));
 ---
 
 <BaseLayout title="Zdroje | ovolbach.sk" description="Register verejne dostupných zdrojov použitých na ovolbach.sk.">
   <h1>Zdroje</h1>
   <p>Register verejne dostupných zdrojov použitých pri uvádzaných údajoch.</p>
-  <ol class="source-register">
-    {sources.map((source) => (
-      <li data-source-register>
-        <article>
-          <h2 data-source-id={source.id} data-source-field="title">{source.title}</h2>
-          <dl>
-            <div><dt>Vydavateľ:</dt><dd data-source-id={source.id} data-source-field="publisher">{source.publisher}</dd></div>
-            {source.author && <div><dt>Autor:</dt><dd data-source-id={source.id} data-source-field="author">{source.author}</dd></div>}
-            {source.publishedAt && <div><dt>Dátum vydania:</dt><dd>{source.publishedAt}</dd></div>}
-            <div><dt>Overené:</dt><dd>{source.checkedAt}</dd></div>
-            <div><dt>Typ dokumentu:</dt><dd>{SOURCE_TYPE_LABELS[source.type]}</dd></div>
-          </dl>
-          <a aria-label={`Zdroj: ${source.title} (otvorí sa v novom okne)`} href={source.url} rel="noopener noreferrer" target="_blank">Zdroj</a>
-        </article>
-      </li>
-    ))}
-  </ol>
+  <SourceRegister sources={sources} />
 </BaseLayout>

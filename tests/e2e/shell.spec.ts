@@ -11,7 +11,7 @@ test('renders Slovak metadata, navigation, and legal notice', async ({ page }) =
   await expect(page).toHaveTitle(SITE_TITLE);
   await expect(page.locator('meta[name="description"]')).toHaveAttribute(
     'content',
-    'Nezávislý sprievodca komunálnymi voľbami v Liptovskom Mikuláši.',
+    'Katalóg komunálnych a krajských volieb podľa mesta a roku.',
   );
   await expect(page.getByRole('banner')).toBeVisible();
   await expect(page.getByRole('navigation', { name: 'Hlavná navigácia' })).toBeVisible();

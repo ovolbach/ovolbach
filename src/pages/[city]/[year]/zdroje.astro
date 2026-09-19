@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SourceRegister from '../../../components/SourceRegister.astro';
+import { listPublishedElectionContexts, type ElectionContext } from '../../../lib/load-guide-data';
+import { getSourceRegister } from '../../../lib/selectors';
+
+export async function getStaticPaths() {
+  return (await listPublishedElectionContexts()).map((context) => ({
+    params: { city: context.citySlug, year: String(context.year) }, props: { context },
+  }));
+}
+
+const context = Astro.props.context as ElectionContext;
+const sources = getSourceRegister(context.data);
+---
+
+<BaseLayout title={`Zdroje | ${context.cityName} ${context.year} | ovolbach.sk`} description={`Zdroje údajov pre voľby v meste ${context.cityName} v roku ${context.year}.`} context={context}>
+  <h1>Zdroje — {context.cityName} {context.year}</h1>
+  <p>Zdroje použité pri údajoch v tomto meste a roku.</p>
+  <SourceRegister sources={sources} />
+</BaseLayout>

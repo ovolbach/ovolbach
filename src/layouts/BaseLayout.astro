@@ -2,15 +2,20 @@
 import LegalNotice from '../components/LegalNotice.astro';
 import Search from '../components/Search.astro';
 import SiteHeader from '../components/SiteHeader.astro';
-import { DATA_SNAPSHOT_DATE } from '../config/site';
+import { listElectionContextConfigs, type ElectionContext } from '../lib/load-guide-data';
 import '../styles/global.css';
 
 interface Props {
   title: string;
   description: string;
+  context?: ElectionContext;
+  snapshotDate?: string;
 }
 
-const { title, description } = Astro.props;
+const { title, description, context, snapshotDate } = Astro.props;
+const shownSnapshotDate = context?.snapshotDate ?? snapshotDate ?? (await listElectionContextConfigs())
+  .filter((item) => item.status === 'published').map((item) => item.snapshotDate).sort().at(-1);
+if (!shownSnapshotDate) throw new Error('No published snapshot date');
 ---
 
 <!doctype html>
@@ -19,13 +24,15 @@ const { title, description } = Astro.props;
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <meta name="description" content={description} />
+    {context && <meta data-pagefind-filter="city[content]" content={context.citySlug} />}
+    {context && <meta data-pagefind-filter="year[content]" content={String(context.year)} />}
     <title>{title}</title>
   </head>
-  <body>
+  <body data-context-base={context?.basePath ?? ''}>
     <a class="skip-link" href="#main-content">Preskočiť na obsah</a>
-    <SiteHeader />
-    <p class="shell snapshot-date" data-snapshot-date data-pagefind-ignore>Údaje overené k <time datetime={DATA_SNAPSHOT_DATE}>{DATA_SNAPSHOT_DATE}</time>.</p>
-    <Search />
+    <SiteHeader context={context} />
+    <p class="shell snapshot-date" data-snapshot-date data-pagefind-ignore>Údaje overené k <time datetime={shownSnapshotDate}>{shownSnapshotDate}</time>.</p>
+    <Search context={context} />
     <main id="main-content" tabindex="-1" data-pagefind-body>
       <slot />
     </main>

@@ -1,7 +1,7 @@
 import { checkExternalLinks } from '../src/lib/check-external-links';
-import { loadGuideData } from '../src/lib/load-guide-data';
+import { loadGlobalSources } from '../src/lib/load-guide-data';
 
-const results = await checkExternalLinks((await loadGuideData()).sources, fetch);
+const results = await checkExternalLinks(await loadGlobalSources(), fetch);
 console.table(results.map((result) => ({
   status: result.status ?? 'transport error',
   reachable: result.reachable,

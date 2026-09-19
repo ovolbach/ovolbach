@@ -99,7 +99,12 @@
     "sourceIds": [
       "statistics-municipal-2018-tables"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2018",
+      "office": "mayor",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-blchac-mayor-result-2022",
@@ -116,7 +121,12 @@
     "sourceIds": [
       "statistics-mayor-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2022",
+      "office": "mayor",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-blchac-housing-2026",
@@ -375,7 +385,12 @@
       "statistics-municipal-candidates-2018",
       "lm-sufliarska-oath-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-13-council-result-2022",
@@ -392,7 +407,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-13-programme-hiring-2026",
@@ -632,7 +652,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-drahovzal-hospital-head",
@@ -683,7 +708,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-drahovzal-council-2022",
@@ -700,7 +730,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-drahovzal-programme-healthcare-2026",
@@ -787,7 +822,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-geci-council-2022",
@@ -804,7 +844,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-geci-programme-development-2026",
@@ -1012,7 +1057,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-kultan-council-2022",
@@ -1029,7 +1079,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-kultan-declaration-published-2024",
@@ -1166,7 +1221,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-rasi-occupation-2022-2026",
@@ -1218,7 +1278,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-rasi-council-2022",
@@ -1235,7 +1300,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-rasi-declaration-published-2024",
@@ -1321,7 +1391,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-veselovska-occupation-2026",
@@ -1985,7 +2060,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-neset-election-2018",
@@ -2002,7 +2082,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-smiesko-election-2018",
@@ -2019,7 +2104,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-zidekova-election-2018",
@@ -2036,7 +2126,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-blanar-election-2022",
@@ -2053,7 +2148,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-cukerova-election-2022",
@@ -2070,7 +2170,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-hyriak-election-2022",
@@ -2087,7 +2192,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-iglarova-election-2022",
@@ -2104,7 +2214,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-lichardus-election-2022",
@@ -2121,7 +2236,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-medved-election-2022",
@@ -2138,7 +2258,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-neset-election-2022",
@@ -2155,7 +2280,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-ohradan-election-2022",
@@ -2172,7 +2302,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-pavkovcekova-election-2022",
@@ -2189,7 +2324,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-smiesko-election-2022",
@@ -2206,7 +2346,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-svanda-election-2022",
@@ -2223,7 +2368,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-zidekova-election-2022",
@@ -2240,7 +2390,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-cukerova-declaration-2024",
@@ -3517,7 +3672,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-34-city-election-2022",
@@ -3535,7 +3695,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-36-city-election-2022",
@@ -3553,7 +3718,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-37-city-election-2022",
@@ -3571,7 +3741,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-38-city-election-2022",
@@ -3589,7 +3764,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-41-city-election-2022",
@@ -3607,7 +3787,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-45-city-election-2022",
@@ -3625,7 +3810,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-46-city-election-2022",
@@ -3643,7 +3833,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-47-city-election-2022",
@@ -3661,7 +3856,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-49-city-election-2022",
@@ -3679,7 +3879,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-51-city-election-2022",
@@ -3697,7 +3902,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-33-city-election-2018",
@@ -3715,7 +3925,12 @@
       "lm-candidate-roster-2018",
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-34-city-election-2018",
@@ -3733,7 +3948,12 @@
       "lm-candidate-roster-2018",
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-36-city-election-2018",
@@ -3751,7 +3971,12 @@
       "lm-candidate-roster-2018",
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-37-city-election-2018",
@@ -3769,7 +3994,12 @@
       "lm-candidate-roster-2018",
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-45-city-election-2018",
@@ -3787,7 +4017,12 @@
       "lm-candidate-roster-2018",
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-46-city-election-2018",
@@ -3805,7 +4040,12 @@
       "lm-candidate-roster-2018",
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-47-city-election-2018",
@@ -3823,7 +4063,12 @@
       "lm-candidate-roster-2018",
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-51-city-election-2018",
@@ -3841,7 +4086,12 @@
       "lm-candidate-roster-2018",
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-34-city-election-2014",
@@ -3858,7 +4108,12 @@
     "sourceIds": [
       "statistics-municipal-elected-2014"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-36-city-election-2014",
@@ -3875,7 +4130,12 @@
     "sourceIds": [
       "statistics-municipal-elected-2014"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-37-city-election-2014",
@@ -3892,7 +4152,12 @@
     "sourceIds": [
       "statistics-municipal-elected-2014"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-45-city-election-2014",
@@ -3909,7 +4174,12 @@
     "sourceIds": [
       "statistics-municipal-elected-2014"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-46-city-election-2014",
@@ -3926,7 +4196,12 @@
     "sourceIds": [
       "statistics-municipal-elected-2014"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-47-city-election-2014",
@@ -3943,7 +4218,12 @@
     "sourceIds": [
       "statistics-municipal-elected-2014"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-51-city-election-2014",
@@ -3960,7 +4240,12 @@
     "sourceIds": [
       "statistics-municipal-elected-2014"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-36-mayor-election-2014",
@@ -3978,7 +4263,12 @@
       "statistics-mayor-results-2014",
       "teraz-cefo-mayor-result-2014"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2014",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-39-mayor-election-2018",
@@ -3996,7 +4286,12 @@
       "lm-candidate-roster-2018",
       "statistics-municipal-2018-tables"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2018",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-43-city-election-2002",
@@ -4013,7 +4308,12 @@
     "sourceIds": [
       "lm-chronicle-2002"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2002",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-33-regional-election-2022",
@@ -4030,7 +4330,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-34-regional-election-2022",
@@ -4047,7 +4352,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-36-regional-election-2022",
@@ -4064,7 +4374,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-37-regional-election-2022",
@@ -4081,7 +4396,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-45-regional-election-2022",
@@ -4098,7 +4418,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-46-regional-election-2022",
@@ -4115,7 +4440,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-47-regional-election-2022",
@@ -4132,7 +4462,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-33-regional-election-2017",
@@ -4149,7 +4484,12 @@
     "sourceIds": [
       "statistics-regional-results-2017"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-37-regional-election-2017",
@@ -4166,7 +4506,12 @@
     "sourceIds": [
       "statistics-regional-results-2017"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-47-regional-election-2017",
@@ -4183,7 +4528,12 @@
     "sourceIds": [
       "statistics-regional-results-2017"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-51-regional-election-2005",
@@ -4200,7 +4550,12 @@
     "sourceIds": [
       "statistics-regional-results-2005"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2005",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-34-programme-2026",
@@ -4898,7 +5253,12 @@
     "sourceIds": [
       "statistics-municipal-2018-tables"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-56-city-election-2022",
@@ -4916,7 +5276,12 @@
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-56-declaration-2021",
@@ -5121,7 +5486,12 @@
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-59-declaration-2024",
@@ -5242,7 +5612,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-61-city-council-2022",
@@ -5260,7 +5635,12 @@
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-61-declaration-2021",
@@ -5415,7 +5795,12 @@
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-62-mayor-2022",
@@ -5432,7 +5817,12 @@
     "sourceIds": [
       "statistics-mayor-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-62-region-council-2022",
@@ -5449,7 +5839,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-62-declaration-2024",
@@ -5570,7 +5965,12 @@
     "sourceIds": [
       "statistics-municipal-elected-2014"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-64-city-council-2018",
@@ -5587,7 +5987,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-64-city-council-2022",
@@ -5605,7 +6010,12 @@
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-64-programme-2026",
@@ -5708,7 +6118,12 @@
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-66-occupation-2026",
@@ -5912,7 +6327,12 @@
     "sourceIds": [
       "statistics-municipal-elected-2014"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-69-city-council-2018",
@@ -5929,7 +6349,12 @@
     "sourceIds": [
       "statistics-municipal-candidates-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-69-city-council-2022",
@@ -5947,7 +6372,12 @@
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-69-programme-2026",
@@ -6086,7 +6516,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-85-programme-formation-2026",
@@ -6256,7 +6691,12 @@
     "sourceIds": [
       "statistics-zsk-chair-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-chair-2022",
+      "office": "regional_chair",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-87-programme-transport-2026",
@@ -6409,7 +6849,12 @@
     "sourceIds": [
       "statistics-zsk-chair-results-2017"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-chair-2017",
+      "office": "regional_chair",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-88-zsk-chair-2022",
@@ -6426,7 +6871,12 @@
     "sourceIds": [
       "statistics-zsk-chair-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-chair-2022",
+      "office": "regional_chair",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-88-programme-slogan-2026",
@@ -6597,7 +7047,12 @@
     "sourceIds": [
       "statistics-regional-results-2017"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-89-zsk-council-2022",
@@ -6614,7 +7069,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-89-programme-housing-2026",
@@ -6785,7 +7245,12 @@
       "statistics-nrsr-preference-2023",
       "nrsr-lucansky-substitute-2023"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-90-nrsr-substitute-2023",
@@ -6955,7 +7420,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-91-nrsr-2023",
@@ -6966,30 +7436,42 @@
       "sk": "Voľby do NR SR 2023"
     },
     "text": {
-      "sk": "Milan Pova získal vo voľbách do NR SR 1 061 prednostných hlasov."
+      "sk": "Oficiálne výsledky uvádzajú pri Milanovi Povovi 1 061 prednostných hlasov; výsledok: nezvolený."
     },
     "period": "2023-09-30",
     "sourceIds": [
+      "statistics-nrsr-candidates-2023",
       "statistics-nrsr-preference-2023"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-91-eu-candidacy-2024",
     "candidateId": "candidate-91",
     "category": "previous_elections",
-    "kind": "fact",
+    "kind": "election_result",
     "label": {
-      "sk": "Kandidatúra do Európskeho parlamentu 2024"
+      "sk": "Voľby do Európskeho parlamentu 2024"
     },
     "text": {
-      "sk": "Ministerstvo vnútra uvádza Milana Povu na kandidátnej listine KSS pre voľby do Európskeho parlamentu v roku 2024."
+      "sk": "Milan Pova získal 187 prednostných hlasov; výsledok: nezvolený."
     },
     "period": "2024",
     "sourceIds": [
-      "minv-kss-eu-candidates-2024"
+      "statistics-ep-candidates-2024",
+      "statistics-ep-results-2024"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "ep-2024",
+      "office": "european_parliament",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-91-programme-economy-2026",
@@ -7094,7 +7576,12 @@
       "statistics-regional-results-2017",
       "pravda-zsk-results-2017"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-72-mayor-result-2022",
@@ -7113,7 +7600,12 @@
       "statistics-mayor-votes-2022",
       "aktuality-lubela-mayor-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2022",
+      "office": "mayor",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-72-declaration-2023",
@@ -7251,7 +7743,12 @@
       "statistics-municipal-candidates-2018",
       "pravda-local-results-2018-lhr"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-76-police-chief",
@@ -7371,7 +7868,12 @@
       "statistics-municipal-2018-tables",
       "teraz-lhr-mayor-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2018",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-78-football-roles",
@@ -7446,18 +7948,24 @@
     "id": "claim-candidate-80-nrsr-candidacy-2020",
     "candidateId": "candidate-80",
     "category": "previous_elections",
-    "kind": "fact",
+    "kind": "election_result",
     "label": {
-      "sk": "Kandidatúra do NR SR 2020"
+      "sk": "Voľby do NR SR 2020"
     },
     "text": {
-      "sk": "Oficiálny zoznam kandidátov uvádza Milana Náhlika na kandidátnej listine HLAS ĽUDU pre voľby do NR SR 2020."
+      "sk": "Milan Náhlik získal 184 prednostných hlasov; výsledok: nezvolený."
     },
     "period": "2020",
     "sourceIds": [
-      "minv-nrsr-candidates-2020"
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-80-presidential-candidacy-2024",
@@ -7549,18 +8057,24 @@
     "id": "claim-candidate-82-local-candidacy-2018",
     "candidateId": "candidate-82",
     "category": "previous_elections",
-    "kind": "fact",
+    "kind": "election_result",
     "label": {
-      "sk": "Komunálna kandidatúra 2018"
+      "sk": "Voľby do obecného zastupiteľstva 2018"
     },
     "text": {
-      "sk": "Oficiálny zoznam Obce Liptovský Ján uvádza Ľuboša Racka ako kandidáta na poslanca obecného zastupiteľstva."
+      "sk": "Ľuboš Racko získal v obci Liptovský Ján 69 hlasov; výsledok: nezvolený."
     },
     "period": "2018",
     "sourceIds": [
-      "liptovskyjan-candidates-2018"
+      "statistics-municipal-candidates-2018",
+      "liptovsky-jan-results-2018"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-83-official-occupation",
@@ -7613,7 +8127,12 @@
       "statistics-mayor-votes-2022",
       "aktuality-treger-mayor-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2022",
+      "office": "mayor",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-83-regional-result-2022",
@@ -7630,7 +8149,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-83-declaration-publication",
@@ -7699,7 +8223,12 @@
       "statistics-council-votes-2022",
       "pavcina-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-72-official-occupation",
@@ -7768,7 +8297,12 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-74-official-occupation",
@@ -7819,7 +8353,12 @@
     "sourceIds": [
       "statistics-council-votes-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-75-declaration-2025",
@@ -7853,7 +8392,12 @@
     "sourceIds": [
       "statistics-presidential-results-2024"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "prez-2024",
+      "office": "president",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-82-nrsr-result-2023",
@@ -7864,13 +8408,19 @@
       "sk": "Voľby do NR SR 2023"
     },
     "text": {
-      "sk": "Zápisnica Štátnej komisie k voľbám konaným 30. septembra 2023 uvádza pri Ľubošovi Rackovi 1 480 prednostných hlasov."
+      "sk": "Oficiálne výsledky uvádzajú pri Ľubošovi Rackovi 1 480 prednostných hlasov (0,21 %); výsledok: náhradník."
     },
     "period": "2023",
     "sourceIds": [
-      "minv-nrsr-results-2023"
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-84-regional-result-2022",
@@ -7887,391 +8437,2644 @@
     "sourceIds": [
       "statistics-regional-results-2022"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-83-mayor-result-2018",
     "candidateId": "candidate-83",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby primátora 2018" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Branislava Trégera vo voľbách primátora Liptovského Hrádku s 2 831 hlasmi (96,16 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby primátora 2018"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Branislava Trégera vo voľbách primátora Liptovského Hrádku s 2 831 hlasmi (96,16 %); výsledok: zvolený."
+    },
     "period": "2018",
-    "sourceIds": ["statistics-municipal-2018-tables"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2018",
+      "office": "mayor",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-7-mayor-result-2018",
     "candidateId": "candidate-7",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby primátora 2018" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Vincenta Kultana vo voľbách primátora Liptovského Mikuláša so 4 759 hlasmi (42,07 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby primátora 2018"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Vincenta Kultana vo voľbách primátora Liptovského Mikuláša so 4 759 hlasmi (42,07 %); výsledok: nezvolený."
+    },
     "period": "2018",
-    "sourceIds": ["statistics-municipal-2018-tables"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2018",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-72-mayor-result-2018",
     "candidateId": "candidate-72",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby starostu 2018" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Erika Gemzického vo voľbách starostu Ľubele so 463 hlasmi (100,00 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby starostu 2018"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Erika Gemzického vo voľbách starostu Ľubele so 463 hlasmi (100,00 %); výsledok: zvolený."
+    },
     "period": "2018",
-    "sourceIds": ["statistics-municipal-2018-tables"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2018",
+      "office": "mayor",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-89-mayor-result-2018",
     "candidateId": "candidate-89",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby primátora 2018" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Martina Kapitulíka vo voľbách primátora Žiliny s 3 754 hlasmi (13,00 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby primátora 2018"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Martina Kapitulíka vo voľbách primátora Žiliny s 3 754 hlasmi (13,00 %); výsledok: nezvolený."
+    },
     "period": "2018",
-    "sourceIds": ["statistics-municipal-2018-tables"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2018",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-85-city-result-2018",
     "candidateId": "candidate-85",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do mestského zastupiteľstva 2018" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Annu Belousovovú vo volebnom obvode č. 4 v Čadci so 606 hlasmi (2,66 %); výsledok: zvolená." },
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2018"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Annu Belousovovú vo volebnom obvode č. 4 v Čadci so 606 hlasmi (2,66 %); výsledok: zvolená."
+    },
     "period": "2018",
-    "sourceIds": ["statistics-municipal-candidates-2018"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-municipal-candidates-2018"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-77-city-result-2018",
     "candidateId": "candidate-77",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do mestského zastupiteľstva 2018" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Jaroslava Jurča vo volebnom obvode č. 1 v Liptovskom Hrádku s 32 hlasmi (3,78 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2018"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Jaroslava Jurča vo volebnom obvode č. 1 v Liptovskom Hrádku s 32 hlasmi (3,78 %); výsledok: nezvolený."
+    },
     "period": "2018",
-    "sourceIds": ["statistics-municipal-candidates-2018"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-municipal-candidates-2018"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-1-city-result-2018",
     "candidateId": "candidate-1",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do mestského zastupiteľstva 2018" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Jána Blcháča vo volebnom obvode č. 2 v Liptovskom Mikuláši s 1 163 hlasmi (8,17 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2018"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Jána Blcháča vo volebnom obvode č. 2 v Liptovskom Mikuláši s 1 163 hlasmi (8,17 %); výsledok: zvolený."
+    },
     "period": "2018",
-    "sourceIds": ["statistics-municipal-candidates-2018"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-municipal-candidates-2018"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-87-city-result-2018",
     "candidateId": "candidate-87",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do mestského zastupiteľstva 2018" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 1 v Žiline s 844 hlasmi (4,97 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2018"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 1 v Žiline s 844 hlasmi (4,97 %); výsledok: nezvolený."
+    },
     "period": "2018",
-    "sourceIds": ["statistics-municipal-candidates-2018"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-municipal-candidates-2018"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-89-city-result-2018",
     "candidateId": "candidate-89",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do mestského zastupiteľstva 2018" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Martina Kapitulíka vo volebnom obvode č. 3 v Žiline s 1 131 hlasmi (6,78 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2018"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Martina Kapitulíka vo volebnom obvode č. 3 v Žiline s 1 131 hlasmi (6,78 %); výsledok: zvolený."
+    },
     "period": "2018",
-    "sourceIds": ["statistics-municipal-candidates-2018"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-municipal-candidates-2018"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-1-regional-result-2017",
     "candidateId": "candidate-1",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2017" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Jána Blcháča vo volebnom obvode Liptovský Mikuláš so 6 020 hlasmi (7,54 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2017"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Jána Blcháča vo volebnom obvode Liptovský Mikuláš so 6 020 hlasmi (7,54 %); výsledok: zvolený."
+    },
     "period": "2017",
-    "sourceIds": ["statistics-regional-candidates-2017", "statistics-regional-results-2017"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-77-regional-result-2017",
     "candidateId": "candidate-77",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2017" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Jaroslava Jurča vo volebnom obvode Liptovský Mikuláš s 1 171 hlasmi (1,46 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2017"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Jaroslava Jurča vo volebnom obvode Liptovský Mikuláš s 1 171 hlasmi (1,46 %); výsledok: nezvolený."
+    },
     "period": "2017",
-    "sourceIds": ["statistics-regional-candidates-2017", "statistics-regional-results-2017"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-7-regional-result-2017",
     "candidateId": "candidate-7",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2017" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Vincenta Kultana vo volebnom obvode Liptovský Mikuláš s 3 505 hlasmi (4,39 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2017"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Vincenta Kultana vo volebnom obvode Liptovský Mikuláš s 3 505 hlasmi (4,39 %); výsledok: nezvolený."
+    },
     "period": "2017",
-    "sourceIds": ["statistics-regional-candidates-2017", "statistics-regional-results-2017"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-25-regional-result-2017",
     "candidateId": "candidate-25",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2017" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Miroslava Neseta vo volebnom obvode Liptovský Mikuláš s 1 531 hlasmi (1,91 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2017"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Miroslava Neseta vo volebnom obvode Liptovský Mikuláš s 1 531 hlasmi (1,91 %); výsledok: nezvolený."
+    },
     "period": "2017",
-    "sourceIds": ["statistics-regional-candidates-2017", "statistics-regional-results-2017"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-83-regional-result-2017",
     "candidateId": "candidate-83",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2017" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Branislava Trégera vo volebnom obvode Liptovský Mikuláš so 7 738 hlasmi (9,69 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2017"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Branislava Trégera vo volebnom obvode Liptovský Mikuláš so 7 738 hlasmi (9,69 %); výsledok: zvolený."
+    },
     "period": "2017",
-    "sourceIds": ["statistics-regional-candidates-2017", "statistics-regional-results-2017"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-87-regional-result-2017",
     "candidateId": "candidate-87",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Krajské voľby 2017" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 11 so 6 064 hlasmi (1,84 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Krajské voľby 2017"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 11 so 6 064 hlasmi (1,84 %); výsledok: nezvolený."
+    },
     "period": "2017",
-    "sourceIds": ["statistics-regional-candidates-2017", "statistics-regional-results-2017"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2017",
+      "statistics-regional-results-2017"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2017",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-17-mayor-result-2022",
     "candidateId": "candidate-17",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby primátora 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Luciu Cukerovú vo voľbách primátora Liptovského Mikuláša s 1 070 hlasmi (9,51 %); výsledok: nezvolená." },
+    "label": {
+      "sk": "Voľby primátora 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Luciu Cukerovú vo voľbách primátora Liptovského Mikuláša s 1 070 hlasmi (9,51 %); výsledok: nezvolená."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-mayor-candidates-2022", "statistics-mayor-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-78-mayor-result-2022",
     "candidateId": "candidate-78",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby starostu 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Michala Kováča vo voľbách starostu Veternej Poruby so 48 hlasmi (23,76 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby starostu 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Michala Kováča vo voľbách starostu Veternej Poruby so 48 hlasmi (23,76 %); výsledok: nezvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-mayor-candidates-2022", "statistics-mayor-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-85-city-result-2022",
     "candidateId": "candidate-85",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do mestského zastupiteľstva 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Annu Belousovovú vo volebnom obvode č. 4 v Čadci s 889 hlasmi (4,27 %); výsledok: zvolená." },
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Annu Belousovovú vo volebnom obvode č. 4 v Čadci s 889 hlasmi (4,27 %); výsledok: zvolená."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-council-candidates-2022", "statistics-council-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-76-city-result-2022",
     "candidateId": "candidate-76",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do obecného zastupiteľstva 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Mariána Jančušku vo volebnom obvode č. 1 v Jakubovanoch s 57 hlasmi (5,75 %); výsledok: náhradník." },
+    "label": {
+      "sk": "Voľby do obecného zastupiteľstva 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Mariána Jančušku vo volebnom obvode č. 1 v Jakubovanoch s 57 hlasmi (5,75 %); výsledok: náhradník."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-council-candidates-2022", "statistics-council-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-1-city-result-2022",
     "candidateId": "candidate-1",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do mestského zastupiteľstva 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Jána Blcháča vo volebnom obvode č. 1 v Liptovskom Mikuláši so 706 hlasmi (10,26 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Jána Blcháča vo volebnom obvode č. 1 v Liptovskom Mikuláši so 706 hlasmi (10,26 %); výsledok: zvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-council-candidates-2022", "statistics-council-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-70-city-result-2022",
     "candidateId": "candidate-70",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do mestského zastupiteľstva 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Vladimíra Čonku vo volebnom obvode č. 2 v Liptovskom Mikuláši so 192 hlasmi (1,43 %); výsledok: náhradník." },
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Vladimíra Čonku vo volebnom obvode č. 2 v Liptovskom Mikuláši so 192 hlasmi (1,43 %); výsledok: náhradník."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-council-candidates-2022", "statistics-council-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-71-city-result-2022",
     "candidateId": "candidate-71",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do obecného zastupiteľstva 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Moniku Črepovú vo volebnom obvode č. 1 vo Veternej Porube s 54 hlasmi (5,92 %); výsledok: náhradníčka." },
+    "label": {
+      "sk": "Voľby do obecného zastupiteľstva 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Moniku Črepovú vo volebnom obvode č. 1 vo Veternej Porube s 54 hlasmi (5,92 %); výsledok: náhradníčka."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-council-candidates-2022", "statistics-council-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-78-city-result-2022",
     "candidateId": "candidate-78",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do obecného zastupiteľstva 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Michala Kováča vo volebnom obvode č. 1 vo Veternej Porube so 70 hlasmi (7,67 %); výsledok: náhradník." },
+    "label": {
+      "sk": "Voľby do obecného zastupiteľstva 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Michala Kováča vo volebnom obvode č. 1 vo Veternej Porube so 70 hlasmi (7,67 %); výsledok: náhradník."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-council-candidates-2022", "statistics-council-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
   },
   {
     "id": "claim-candidate-90-city-result-2022",
     "candidateId": "candidate-90",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do obecného zastupiteľstva 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Adama Lučanského vo volebnom obvode č. 1 v Bystričke s 367 hlasmi (10,04 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby do obecného zastupiteľstva 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Adama Lučanského vo volebnom obvode č. 1 v Bystričke s 367 hlasmi (10,04 %); výsledok: zvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-council-candidates-2022", "statistics-council-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-87-city-result-2022",
     "candidateId": "candidate-87",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do mestského zastupiteľstva 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 1 v Žiline s 1 050 hlasmi (7,71 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 1 v Žiline s 1 050 hlasmi (7,71 %); výsledok: zvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-council-candidates-2022", "statistics-council-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-89-city-result-2022",
     "candidateId": "candidate-89",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do mestského zastupiteľstva 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Martina Kapitulíka vo volebnom obvode č. 3 v Žiline s 967 hlasmi (6,76 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Martina Kapitulíka vo volebnom obvode č. 3 v Žiline s 967 hlasmi (6,76 %); výsledok: zvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-council-candidates-2022", "statistics-council-votes-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-60-regional-result-2022",
     "candidateId": "candidate-60",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Andreu Barkovci vo volebnom obvode Liptovský Mikuláš s 2 238 hlasmi (2,03 %); výsledok: nezvolená." },
+    "label": {
+      "sk": "Voľby do ŽSK 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Andreu Barkovci vo volebnom obvode Liptovský Mikuláš s 2 238 hlasmi (2,03 %); výsledok: nezvolená."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-regional-candidates-2022", "statistics-regional-results-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-1-regional-result-2022",
     "candidateId": "candidate-1",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Jána Blcháča vo volebnom obvode Liptovský Mikuláš s 8 812 hlasmi (8,02 %); výsledok: zvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Jána Blcháča vo volebnom obvode Liptovský Mikuláš s 8 812 hlasmi (8,02 %); výsledok: zvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-regional-candidates-2022", "statistics-regional-results-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
   },
   {
     "id": "claim-candidate-70-regional-result-2022",
     "candidateId": "candidate-70",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Vladimíra Čonku vo volebnom obvode Liptovský Mikuláš s 1 116 hlasmi (1,01 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Vladimíra Čonku vo volebnom obvode Liptovský Mikuláš s 1 116 hlasmi (1,01 %); výsledok: nezvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-regional-candidates-2022", "statistics-regional-results-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-7-regional-result-2022",
     "candidateId": "candidate-7",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Vincenta Kultana vo volebnom obvode Liptovský Mikuláš s 3 566 hlasmi (3,24 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Vincenta Kultana vo volebnom obvode Liptovský Mikuláš s 3 566 hlasmi (3,24 %); výsledok: nezvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-regional-candidates-2022", "statistics-regional-results-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-64-regional-result-2022",
     "candidateId": "candidate-64",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Mareka Nemca vo volebnom obvode Liptovský Mikuláš s 3 100 hlasmi (2,82 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Mareka Nemca vo volebnom obvode Liptovský Mikuláš s 3 100 hlasmi (2,82 %); výsledok: nezvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-regional-candidates-2022", "statistics-regional-results-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-25-regional-result-2022",
     "candidateId": "candidate-25",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Miroslava Neseta vo volebnom obvode Liptovský Mikuláš s 2 070 hlasmi (1,88 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Miroslava Neseta vo volebnom obvode Liptovský Mikuláš s 2 070 hlasmi (1,88 %); výsledok: nezvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-regional-candidates-2022", "statistics-regional-results-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-11-regional-result-2022",
     "candidateId": "candidate-11",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Ľubomíra Rašiho vo volebnom obvode Liptovský Mikuláš s 3 229 hlasmi (2,94 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Ľubomíra Rašiho vo volebnom obvode Liptovský Mikuláš s 3 229 hlasmi (2,94 %); výsledok: nezvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-regional-candidates-2022", "statistics-regional-results-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-29-regional-result-2022",
     "candidateId": "candidate-29",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Voľby do ŽSK 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Jána Smieška vo volebnom obvode Liptovský Mikuláš s 2 087 hlasmi (1,90 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Voľby do ŽSK 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Jána Smieška vo volebnom obvode Liptovský Mikuláš s 2 087 hlasmi (1,90 %); výsledok: nezvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-regional-candidates-2022", "statistics-regional-results-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
   },
   {
     "id": "claim-candidate-90-regional-result-2022",
     "candidateId": "candidate-90",
     "category": "previous_elections",
     "kind": "election_result",
-    "label": { "sk": "Krajské voľby 2022" },
-    "text": { "sk": "Oficiálne výsledky uvádzajú Adama Lučanského vo volebnom obvode č. 6 s 2 966 hlasmi (1,76 %); výsledok: nezvolený." },
+    "label": {
+      "sk": "Krajské voľby 2022"
+    },
+    "text": {
+      "sk": "Oficiálne výsledky uvádzajú Adama Lučanského vo volebnom obvode č. 6 s 2 966 hlasmi (1,76 %); výsledok: nezvolený."
+    },
     "period": "2022",
-    "sourceIds": ["statistics-regional-candidates-2022", "statistics-regional-results-2022"],
-    "checkedAt": "2026-09-18"
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-results-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2022",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-1-oso-mayor-2006",
+    "candidateId": "candidate-1",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby primátora 2006"
+    },
+    "text": {
+      "sk": "Ján Blcháč získal v Liptovskom Mikuláši 6 195 hlasov; výsledok: zvolený za primátora."
+    },
+    "period": "2006",
+    "sourceIds": [
+      "statistics-mayor-results-2006"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2006",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-1-oso-mayor-2010",
+    "candidateId": "candidate-1",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby primátora 2010"
+    },
+    "text": {
+      "sk": "Ján Blcháč získal v Liptovskom Mikuláši 5 613 hlasov; výsledok: nezvolený."
+    },
+    "period": "2010",
+    "sourceIds": [
+      "statistics-mayor-results-2010"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2010",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-1-osk-council-2009",
+    "candidateId": "candidate-1",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2009"
+    },
+    "text": {
+      "sk": "Ján Blcháč získal vo volebnom obvode Liptovský Mikuláš 5 557 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2009",
+    "sourceIds": [
+      "statistics-osk-elected-2009"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2009",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-1-osk-council-2013",
+    "candidateId": "candidate-1",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2013"
+    },
+    "text": {
+      "sk": "Ján Blcháč získal vo volebnom obvode Liptovský Mikuláš 5 001 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2013",
+    "sourceIds": [
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2013",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-1-oso-mayor-2014",
+    "candidateId": "candidate-1",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby primátora 2014"
+    },
+    "text": {
+      "sk": "Ján Blcháč získal v Liptovskom Mikuláši 5 167 hlasov; výsledok: zvolený za primátora."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-mayor-results-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2014",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-1-oso-council-2014",
+    "candidateId": "candidate-1",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2014"
+    },
+    "text": {
+      "sk": "Ján Blcháč získal v Liptovskom Mikuláši 1 151 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-municipal-elected-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-1-nrsr-2020",
+    "candidateId": "candidate-1",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2020"
+    },
+    "text": {
+      "sk": "Ján Blcháč získal 3 184 prednostných hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2020",
+    "sourceIds": [
+      "statistics-nrsr-results-2020",
+      "statistics-nrsr-elected-2020"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-1-nrsr-2023",
+    "candidateId": "candidate-1",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2023"
+    },
+    "text": {
+      "sk": "Ján Blcháč získal 5 580 prednostných hlasov (1,27 %); výsledok: zvolený za poslanca."
+    },
+    "period": "2023",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-3-oso-council-2014",
+    "candidateId": "candidate-3",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2014"
+    },
+    "text": {
+      "sk": "Oldřich Drahovzal získal v Liptovskom Mikuláši 679 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-municipal-elected-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-4-oso-council-2014",
+    "candidateId": "candidate-4",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2014"
+    },
+    "text": {
+      "sk": "Matej Géci získal v Liptovskom Mikuláši 610 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-municipal-elected-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-6-osk-council-2005",
+    "candidateId": "candidate-6",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2005"
+    },
+    "text": {
+      "sk": "Michal Kotian získal vo volebnom obvode Liptovský Mikuláš 362 hlasov; výsledok: nezvolený."
+    },
+    "period": "2005",
+    "sourceIds": [
+      "statistics-regional-results-2005"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2005",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-6-ep-2009",
+    "candidateId": "candidate-6",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do Európskeho parlamentu 2009"
+    },
+    "text": {
+      "sk": "Michal Kotian kandidoval vo voľbách do Európskeho parlamentu; výsledok: nezvolený."
+    },
+    "period": "2009",
+    "sourceIds": [
+      "statistics-ep-candidates-2009",
+      "statistics-ep-elected-2009"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "ep-2009",
+      "office": "european_parliament",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-6-osk-council-2009",
+    "candidateId": "candidate-6",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2009"
+    },
+    "text": {
+      "sk": "Michal Kotian získal vo volebnom obvode Liptovský Mikuláš 407 hlasov; výsledok: nezvolený."
+    },
+    "period": "2009",
+    "sourceIds": [
+      "statistics-osk-not-elected-2009"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2009",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-6-nrsr-2010",
+    "candidateId": "candidate-6",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2010"
+    },
+    "text": {
+      "sk": "Michal Kotian kandidoval za KSS; výsledok: nezvolený."
+    },
+    "period": "2010",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2010",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-6-nrsr-2012",
+    "candidateId": "candidate-6",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2012"
+    },
+    "text": {
+      "sk": "Michal Kotian kandidoval za KSS; výsledok: nezvolený."
+    },
+    "period": "2012",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2012",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-6-nrsr-2016",
+    "candidateId": "candidate-6",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2016"
+    },
+    "text": {
+      "sk": "Michal Kotian získal 167 prednostných hlasov (1,02 %); výsledok: nezvolený."
+    },
+    "period": "2016",
+    "sourceIds": [
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2016",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-6-ep-2019",
+    "candidateId": "candidate-6",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do Európskeho parlamentu 2019"
+    },
+    "text": {
+      "sk": "Michal Kotian získal 148 prednostných hlasov; výsledok: nezvolený."
+    },
+    "period": "2019",
+    "sourceIds": [
+      "statistics-ep-results-2019"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "ep-2019",
+      "office": "european_parliament",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-7-oso-council-2014",
+    "candidateId": "candidate-7",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2014"
+    },
+    "text": {
+      "sk": "Vincent Kultan získal v Liptovskom Mikuláši 582 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-municipal-elected-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-7-nrsr-2023",
+    "candidateId": "candidate-7",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2023"
+    },
+    "text": {
+      "sk": "Vincent Kultan získal 649 prednostných hlasov (0,32 %); výsledok: náhradník."
+    },
+    "period": "2023",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "claim-candidate-17-oso-council-2014",
+    "candidateId": "candidate-17",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2014"
+    },
+    "text": {
+      "sk": "Lucia Cukerová získala v Liptovskom Mikuláši 1 061 hlasov; výsledok: zvolená za poslankyňu."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-municipal-elected-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-21-nrsr-2020",
+    "candidateId": "candidate-21",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2020"
+    },
+    "text": {
+      "sk": "Renáta Igľárová získala 133 prednostných hlasov; výsledok: nezvolená."
+    },
+    "period": "2020",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-21-nrsr-2023",
+    "candidateId": "candidate-21",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2023"
+    },
+    "text": {
+      "sk": "Renáta Igľárová získala 1 197 prednostných hlasov (0,22 %); výsledok: náhradníčka."
+    },
+    "period": "2023",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "claim-candidate-25-oso-council-2014",
+    "candidateId": "candidate-25",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2014"
+    },
+    "text": {
+      "sk": "Miroslav Neset získal v Liptovskom Mikuláši 711 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-municipal-elected-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-32-nrsr-2020",
+    "candidateId": "candidate-32",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2020"
+    },
+    "text": {
+      "sk": "Andrea Žideková získala 292 prednostných hlasov; výsledok: nezvolená."
+    },
+    "period": "2020",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-47-osk-council-2001",
+    "candidateId": "candidate-47",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2001"
+    },
+    "text": {
+      "sk": "Rudolf Urbanovič získal vo volebnom obvode Liptovský Mikuláš 3 136 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2001",
+    "sourceIds": [
+      "statistics-osk-elected-2001"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2001",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-47-nrsr-2006",
+    "candidateId": "candidate-47",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2006"
+    },
+    "text": {
+      "sk": "Rudolf Urbanovič kandidoval vo voľbách do NR SR; výsledok: nezvolený."
+    },
+    "period": "2006",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2006",
+      "statistics-nrsr-results-2006"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2006",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-47-osk-council-2009",
+    "candidateId": "candidate-47",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2009"
+    },
+    "text": {
+      "sk": "Rudolf Urbanovič získal vo volebnom obvode Liptovský Mikuláš 2 173 hlasov; výsledok: nezvolený."
+    },
+    "period": "2009",
+    "sourceIds": [
+      "statistics-osk-not-elected-2009"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2009",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-47-nrsr-2010",
+    "candidateId": "candidate-47",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2010"
+    },
+    "text": {
+      "sk": "Rudolf Urbanovič získal 888 prednostných hlasov; výsledok: nezvolený."
+    },
+    "period": "2010",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2010",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-47-nrsr-2012",
+    "candidateId": "candidate-47",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2012"
+    },
+    "text": {
+      "sk": "Rudolf Urbanovič kandidoval vo voľbách do NR SR; výsledok: nezvolený."
+    },
+    "period": "2012",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2012",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-47-osk-council-2013",
+    "candidateId": "candidate-47",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2013"
+    },
+    "text": {
+      "sk": "Rudolf Urbanovič získal vo volebnom obvode Liptovský Mikuláš 2 610 hlasov; výsledok: nezvolený."
+    },
+    "period": "2013",
+    "sourceIds": [
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2013",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-47-nrsr-2016",
+    "candidateId": "candidate-47",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2016"
+    },
+    "text": {
+      "sk": "Rudolf Urbanovič získal 6 136 prednostných hlasov (2,72 %); výsledok: zvolený za poslanca."
+    },
+    "period": "2016",
+    "sourceIds": [
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2016",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-47-nrsr-2020",
+    "candidateId": "candidate-47",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2020"
+    },
+    "text": {
+      "sk": "Rudolf Urbanovič získal 2 183 prednostných hlasov; výsledok: nezvolený."
+    },
+    "period": "2020",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-47-nrsr-2023",
+    "candidateId": "candidate-47",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2023"
+    },
+    "text": {
+      "sk": "Rudolf Urbanovič získal 1 123 prednostných hlasov (0,25 %); výsledok: náhradník."
+    },
+    "period": "2023",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "claim-candidate-62-nrsr-2020",
+    "candidateId": "candidate-62",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2020"
+    },
+    "text": {
+      "sk": "Tomáš Martaus získal 762 prednostných hlasov; výsledok: nezvolený."
+    },
+    "period": "2020",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-64-osk-council-2013",
+    "candidateId": "candidate-64",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2013"
+    },
+    "text": {
+      "sk": "Marek Nemec získal vo volebnom obvode Liptovský Mikuláš 1 254 hlasov; výsledok: nezvolený."
+    },
+    "period": "2013",
+    "sourceIds": [
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2013",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-70-nrsr-2023",
+    "candidateId": "candidate-70",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2023"
+    },
+    "text": {
+      "sk": "Vladimír Čonka bol zaregistrovaný ako kandidát; v oficiálnej výsledkovej tabuľke je označený ako odstúpený."
+    },
+    "period": "2023",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "withdrawn"
+    }
+  },
+  {
+    "id": "claim-candidate-72-osk-council-2009",
+    "candidateId": "candidate-72",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2009"
+    },
+    "text": {
+      "sk": "Erik Gemzický získal vo volebnom obvode Liptovský Mikuláš 827 hlasov; výsledok: nezvolený."
+    },
+    "period": "2009",
+    "sourceIds": [
+      "statistics-osk-not-elected-2009"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2009",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-72-nrsr-2012",
+    "candidateId": "candidate-72",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2012"
+    },
+    "text": {
+      "sk": "Erik Gemzický kandidoval vo voľbách do NR SR; výsledok: nezvolený."
+    },
+    "period": "2012",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2012",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-72-osk-council-2013",
+    "candidateId": "candidate-72",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2013"
+    },
+    "text": {
+      "sk": "Erik Gemzický získal vo volebnom obvode Liptovský Mikuláš 1 629 hlasov; výsledok: nezvolený."
+    },
+    "period": "2013",
+    "sourceIds": [
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2013",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-72-oso-mayor-supplementary-2014",
+    "candidateId": "candidate-72",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Doplňovacie voľby starostu 2014"
+    },
+    "text": {
+      "sk": "Erik Gemzický bol 25. januára 2014 zvolený za starostu obce Ľubeľa."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-municipal-supplementary-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-supplementary-2014",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-72-oso-mayor-2014",
+    "candidateId": "candidate-72",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby starostu 2014"
+    },
+    "text": {
+      "sk": "Erik Gemzický získal v obci Ľubeľa 392 hlasov; výsledok: zvolený za starostu."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-mayor-results-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2014",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-72-nrsr-2016",
+    "candidateId": "candidate-72",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2016"
+    },
+    "text": {
+      "sk": "Erik Gemzický získal 2 076 prednostných hlasov (0,92 %); výsledok: nezvolený."
+    },
+    "period": "2016",
+    "sourceIds": [
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2016",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-72-nrsr-2020",
+    "candidateId": "candidate-72",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2020"
+    },
+    "text": {
+      "sk": "Erik Gemzický získal 987 prednostných hlasov; výsledok: nezvolený."
+    },
+    "period": "2020",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-72-ep-2024",
+    "candidateId": "candidate-72",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do Európskeho parlamentu 2024"
+    },
+    "text": {
+      "sk": "Erik Gemzický získal 3 204 prednostných hlasov (3,02 %); výsledok: náhradník."
+    },
+    "period": "2024",
+    "sourceIds": [
+      "statistics-ep-candidates-2024",
+      "statistics-ep-results-2024"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "ep-2024",
+      "office": "european_parliament",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "claim-candidate-73-oso-mayor-2022",
+    "candidateId": "candidate-73",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby starostu 2022"
+    },
+    "text": {
+      "sk": "Ján Chebeň získal v obci Bobrovček 31 hlasov (30,09 %); výsledok: nezvolený."
+    },
+    "period": "2022",
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-73-oso-council-2022",
+    "candidateId": "candidate-73",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do obecného zastupiteľstva 2022"
+    },
+    "text": {
+      "sk": "Ján Chebeň získal v obci Bobrovček 59 hlasov (15,08 %); výsledok: zvolený za poslanca."
+    },
+    "period": "2022",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-80-oso-mayor-2014",
+    "candidateId": "candidate-80",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby starostu Bratislavy-Rače 2014"
+    },
+    "text": {
+      "sk": "Milan Náhlik získal v mestskej časti Bratislava-Rača 170 hlasov (2,19 %); výsledok: nezvolený."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "bratislavske-noviny-raca-candidates-2014",
+      "statistics-mayor-results-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2014",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-81-oso-mayor-2014",
+    "candidateId": "candidate-81",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby starostu 2014"
+    },
+    "text": {
+      "sk": "Miroslav Podhorány získal v obci Malatíny 21 hlasov; výsledok: nezvolený."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "justice-podhorany-2023",
+      "statistics-mayor-results-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2014",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-82-osk-council-2001",
+    "candidateId": "candidate-82",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2001"
+    },
+    "text": {
+      "sk": "Ľuboš Racko získal vo volebnom obvode Liptovský Mikuláš 586 hlasov; výsledok: nezvolený."
+    },
+    "period": "2001",
+    "sourceIds": [
+      "statistics-osk-not-elected-2001"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2001",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-82-nrsr-2002",
+    "candidateId": "candidate-82",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2002"
+    },
+    "text": {
+      "sk": "Ľuboš Racko získal 570 prednostných hlasov (0,14724 %); výsledok: náhradník."
+    },
+    "period": "2002",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2002",
+      "statistics-nrsr-results-2002",
+      "statistics-nrsr-substitutes-2002"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2002",
+      "office": "national_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "claim-candidate-82-nrsr-2006",
+    "candidateId": "candidate-82",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2006"
+    },
+    "text": {
+      "sk": "Ľuboš Racko získal 848 prednostných hlasov; výsledok: nezvolený."
+    },
+    "period": "2006",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2006",
+      "statistics-nrsr-results-2006"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2006",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-83-oso-mayor-2006",
+    "candidateId": "candidate-83",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby primátora 2006"
+    },
+    "text": {
+      "sk": "Branislav Tréger získal v Liptovskom Hrádku 2 411 hlasov; výsledok: zvolený za primátora."
+    },
+    "period": "2006",
+    "sourceIds": [
+      "statistics-mayor-results-2006"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2006",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-83-osk-council-2009",
+    "candidateId": "candidate-83",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2009"
+    },
+    "text": {
+      "sk": "Branislav Tréger získal vo volebnom obvode Liptovský Mikuláš 3 356 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2009",
+    "sourceIds": [
+      "statistics-osk-elected-2009"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2009",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-83-oso-mayor-2010",
+    "candidateId": "candidate-83",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby primátora 2010"
+    },
+    "text": {
+      "sk": "Branislav Tréger získal v Liptovskom Hrádku 1 953 hlasov; výsledok: zvolený za primátora."
+    },
+    "period": "2010",
+    "sourceIds": [
+      "statistics-mayor-results-2010"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2010",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-83-osk-council-2013",
+    "candidateId": "candidate-83",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2013"
+    },
+    "text": {
+      "sk": "Branislav Tréger získal vo volebnom obvode Liptovský Mikuláš 4 862 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2013",
+    "sourceIds": [
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2013",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-83-oso-mayor-2014",
+    "candidateId": "candidate-83",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby primátora 2014"
+    },
+    "text": {
+      "sk": "Branislav Tréger získal v Liptovskom Hrádku 1 761 hlasov; výsledok: zvolený za primátora."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-mayor-results-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2014",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-85-nrsr-2006",
+    "candidateId": "candidate-85",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2006"
+    },
+    "text": {
+      "sk": "Anna Belousovová získala 90 613 prednostných hlasov; výsledok: zvolená za poslankyňu."
+    },
+    "period": "2006",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2006",
+      "statistics-nrsr-results-2006"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2006",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-85-osk-council-2009",
+    "candidateId": "candidate-85",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2009"
+    },
+    "text": {
+      "sk": "Anna Belousovová získala vo volebnom obvode Čadca 4 467 hlasov; výsledok: zvolená za poslankyňu."
+    },
+    "period": "2009",
+    "sourceIds": [
+      "statistics-osk-elected-2009"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2009",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-85-nrsr-2010",
+    "candidateId": "candidate-85",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2010"
+    },
+    "text": {
+      "sk": "Anna Belousovová získala 60 984 prednostných hlasov; výsledok: zvolená za poslankyňu."
+    },
+    "period": "2010",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2010",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-85-nrsr-2012",
+    "candidateId": "candidate-85",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2012"
+    },
+    "text": {
+      "sk": "Anna Belousovová kandidovala vo voľbách do NR SR; výsledok: nezvolená."
+    },
+    "period": "2012",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2012",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-85-ep-2024",
+    "candidateId": "candidate-85",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do Európskeho parlamentu 2024"
+    },
+    "text": {
+      "sk": "Anna Belousovová získala 32 313 prednostných hlasov (17,45 %); výsledok: náhradníčka."
+    },
+    "period": "2024",
+    "sourceIds": [
+      "statistics-ep-candidates-2024",
+      "statistics-ep-results-2024"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "ep-2024",
+      "office": "european_parliament",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "claim-candidate-87-osk-council-2001",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2001"
+    },
+    "text": {
+      "sk": "Igor Choma získal vo volebnom obvode Žilina 1 299 hlasov; výsledok: nezvolený."
+    },
+    "period": "2001",
+    "sourceIds": [
+      "statistics-osk-not-elected-2001"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2001",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-87-nrsr-2002",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2002"
+    },
+    "text": {
+      "sk": "Igor Choma získal 2 828 prednostných hlasov (0,73056 %); výsledok: náhradník."
+    },
+    "period": "2002",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2002",
+      "statistics-nrsr-results-2002",
+      "statistics-nrsr-substitutes-2002"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2002",
+      "office": "national_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "claim-candidate-87-osk-council-2005",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2005"
+    },
+    "text": {
+      "sk": "Igor Choma získal vo volebnom obvode Žilina 2 422 hlasov; výsledok: nezvolený."
+    },
+    "period": "2005",
+    "sourceIds": [
+      "statistics-regional-results-2005"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2005",
+      "office": "regional_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-87-osk-council-2009",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2009"
+    },
+    "text": {
+      "sk": "Igor Choma získal vo volebnom obvode Žilina 6 195 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2009",
+    "sourceIds": [
+      "statistics-osk-elected-2009"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2009",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-87-oso-mayor-2010",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby primátora 2010"
+    },
+    "text": {
+      "sk": "Igor Choma získal v Žiline 12 034 hlasov; výsledok: zvolený za primátora."
+    },
+    "period": "2010",
+    "sourceIds": [
+      "statistics-mayor-results-2010"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2010",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-87-nrsr-2010",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2010"
+    },
+    "text": {
+      "sk": "Igor Choma získal 4 222 prednostných hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2010",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2010",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-87-nrsr-2012",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2012"
+    },
+    "text": {
+      "sk": "Igor Choma získal 16 747 prednostných hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2012",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2012",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-87-osk-council-2013",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2013"
+    },
+    "text": {
+      "sk": "Igor Choma získal vo volebnom obvode Žilina 6 452 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2013",
+    "sourceIds": [
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2013",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-87-oso-mayor-2014",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby primátora 2014"
+    },
+    "text": {
+      "sk": "Igor Choma získal v Žiline 10 131 hlasov; výsledok: zvolený za primátora."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-mayor-results-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-mayor-2014",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-87-nrsr-2016",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2016"
+    },
+    "text": {
+      "sk": "Igor Choma získal 5 087 prednostných hlasov (0,69 %); výsledok: zvolený za poslanca."
+    },
+    "period": "2016",
+    "sourceIds": [
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2016",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-87-nrsr-2023",
+    "candidateId": "candidate-87",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2023"
+    },
+    "text": {
+      "sk": "Igor Choma získal 6 291 prednostných hlasov (0,92 %); výsledok: zvolený za poslanca."
+    },
+    "period": "2023",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-88-nrsr-2010",
+    "candidateId": "candidate-88",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2010"
+    },
+    "text": {
+      "sk": "Erika Jurinová získala 29 210 prednostných hlasov; výsledok: zvolená za poslankyňu."
+    },
+    "period": "2010",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2010",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-88-nrsr-2012",
+    "candidateId": "candidate-88",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2012"
+    },
+    "text": {
+      "sk": "Erika Jurinová získala 52 800 prednostných hlasov; výsledok: zvolená za poslankyňu."
+    },
+    "period": "2012",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2012",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-88-nrsr-2016",
+    "candidateId": "candidate-88",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2016"
+    },
+    "text": {
+      "sk": "Erika Jurinová získala 30 225 prednostných hlasov (10,50 %); výsledok: zvolená za poslankyňu."
+    },
+    "period": "2016",
+    "sourceIds": [
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2016",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-88-nrsr-2023",
+    "candidateId": "candidate-88",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2023"
+    },
+    "text": {
+      "sk": "Erika Jurinová získala 69 638 prednostných hlasov (26,36 %); výsledok: zvolená za poslankyňu."
+    },
+    "period": "2023",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-89-nrsr-2010",
+    "candidateId": "candidate-89",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2010"
+    },
+    "text": {
+      "sk": "Martin Kapitulík získal 679 prednostných hlasov; výsledok: nezvolený."
+    },
+    "period": "2010",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2010",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-89-osk-council-2013",
+    "candidateId": "candidate-89",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do ŽSK 2013"
+    },
+    "text": {
+      "sk": "Martin Kapitulík získal vo volebnom obvode Žilina 3 878 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2013",
+    "sourceIds": [
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "osk-council-2013",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-89-oso-council-2014",
+    "candidateId": "candidate-89",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do mestského zastupiteľstva 2014"
+    },
+    "text": {
+      "sk": "Martin Kapitulík získal v Žiline 971 hlasov; výsledok: zvolený za poslanca."
+    },
+    "period": "2014",
+    "sourceIds": [
+      "statistics-municipal-elected-2014"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "oso-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "claim-candidate-89-nrsr-2016",
+    "candidateId": "candidate-89",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do NR SR 2016"
+    },
+    "text": {
+      "sk": "Martin Kapitulík získal 3 164 prednostných hlasov (2,16 %); výsledok: nezvolený."
+    },
+    "period": "2016",
+    "sourceIds": [
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "nrsr-2016",
+      "office": "national_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "claim-candidate-90-ep-2024",
+    "candidateId": "candidate-90",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Voľby do Európskeho parlamentu 2024"
+    },
+    "text": {
+      "sk": "Adam Lučanský získal 1 697 prednostných hlasov; výsledok: nezvolený."
+    },
+    "period": "2024",
+    "sourceIds": [
+      "statistics-ep-candidates-2024",
+      "statistics-ep-results-2024"
+    ],
+    "checkedAt": "2026-09-18",
+    "election": {
+      "contestId": "ep-2024",
+      "office": "european_parliament",
+      "outcome": "not_elected"
+    }
   }
 ]

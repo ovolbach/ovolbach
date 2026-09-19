@@ -1,0 +1,24 @@
+---
+import type { Source } from '../lib/schemas';
+import { SOURCE_TYPE_LABELS } from '../lib/source-links';
+interface Props { sources: Source[] }
+const { sources } = Astro.props;
+---
+
+<ol class="source-register">
+  {sources.map((source) => (
+    <li data-source-register>
+      <article>
+        <h2 data-source-id={source.id} data-source-field="title">{source.title}</h2>
+        <dl>
+          <div><dt>Vydavateľ:</dt><dd data-source-id={source.id} data-source-field="publisher">{source.publisher}</dd></div>
+          {source.author && <div><dt>Autor:</dt><dd data-source-id={source.id} data-source-field="author">{source.author}</dd></div>}
+          {source.publishedAt && <div><dt>Dátum vydania:</dt><dd>{source.publishedAt}</dd></div>}
+          <div><dt>Overené:</dt><dd>{source.checkedAt}</dd></div>
+          <div><dt>Typ dokumentu:</dt><dd>{SOURCE_TYPE_LABELS[source.type]}</dd></div>
+        </dl>
+        <a aria-label={`Zdroj: ${source.title} (otvorí sa v novom okne)`} href={source.url} rel="noopener noreferrer" target="_blank">Zdroj</a>
+      </article>
+    </li>
+  ))}
+</ol>

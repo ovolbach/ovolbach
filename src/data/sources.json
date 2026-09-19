@@ -1937,5 +1937,303 @@
     "checkedAt": "2026-09-18",
     "language": "sk",
     "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-candidates-2002",
+    "url": "https://volby.statistics.sk/nrsr/nrsr2002/webdata/slov/regis/kandid_2002.pdf",
+    "title": "Voľby do NR SR 2002 – zoznam zaregistrovaných kandidátov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-results-2002",
+    "url": "https://volby.statistics.sk/opendata/nrsr/2002/NRSR_2002_tab06.csv",
+    "title": "Voľby do NR SR 2002 – výsledky prednostného hlasovania",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-substitutes-2002",
+    "url": "https://volby.statistics.sk/nrsr/nrsr2002/webdata/slov/tab/tab7/tab7b.htm",
+    "title": "Voľby do NR SR 2002 – kandidáti, ktorí sa stali náhradníkmi",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-candidates-2006",
+    "url": "https://volby.statistics.sk/nrsr/nrsr2006/angl/info/regkand.jsp.htm",
+    "title": "List of candidates",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "en",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-results-2006",
+    "url": "https://volby.statistics.sk/opendata/nrsr/2006/NRSR_2006_tab06.csv",
+    "title": "Voľby do NR SR 2006 – výsledky prednostného hlasovania",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-candidates-2010",
+    "url": "https://volby.statistics.sk/nrsr/nrsr2010/info/regkand.jsp%40lang%3Dsk.htm",
+    "title": "Voľby do NR SR 2010 – zoznam zaregistrovaných kandidátov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-19",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-results-2010",
+    "url": "https://volby.statistics.sk/opendata/nrsr/2010/NRSR_2010_tab10.csv",
+    "title": "Voľby do NR SR 2010 – výsledky prednostného hlasovania",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-candidates-2012",
+    "url": "https://volby.statistics.sk/nrsr/nrsr2012/info/regkand.jsp%40lang%3Dsk.htm",
+    "title": "Voľby do NR SR 2012 – zoznam zaregistrovaných kandidátov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-results-2012",
+    "url": "https://volby.statistics.sk/opendata/nrsr/2012/NRSR_2012_tab10.csv",
+    "title": "Voľby do NR SR 2012 – výsledky prednostného hlasovania",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-results-2016",
+    "url": "https://volby.statistics.sk/opendata/nrsr/2016/NRSR_2016_tab19.csv",
+    "title": "Voľby do NR SR 2016 – výsledky prednostného hlasovania",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-elected-2016",
+    "url": "https://volby.statistics.sk/opendata/nrsr/2016/NRSR_2016_tab21.csv",
+    "title": "Voľby do NR SR 2016 – zvolení poslanci",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-candidates-2020",
+    "url": "https://volby.statistics.sk/opendata/nrsr/2020/NRSR_2020_tab0b.csv",
+    "title": "Voľby do NR SR 2020 – zoznam zaregistrovaných kandidátov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-results-2020",
+    "url": "https://volby.statistics.sk/opendata/nrsr/2020/NRSR_2020_tab07a.csv",
+    "title": "Voľby do NR SR 2020 – výsledky prednostného hlasovania",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-elected-2020",
+    "url": "https://volby.statistics.sk/opendata/nrsr/2020/NRSR_2020_tab06.csv",
+    "title": "Voľby do NR SR 2020 – zvolení poslanci",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-nrsr-candidates-2023",
+    "url": "https://volby.statistics.sk/opendata/nrsr/2023/NRSR2023_SK_tab0b.csv",
+    "title": "Voľby do NR SR 2023 – zoznam zaregistrovaných kandidátov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-ep-candidates-2009",
+    "url": "https://volby.statistics.sk/ep/ep2009/info/regkand_slov.html",
+    "title": "Voľby do Európskeho parlamentu 2009 – zoznam zaregistrovaných kandidátov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-19",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-ep-elected-2009",
+    "url": "https://volby.statistics.sk/ep/ep2009/sr/tab608c7.html?lang=sk",
+    "title": "Voľby do Európskeho parlamentu 2009 – zvolení poslanci",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-19",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-ep-results-2019",
+    "url": "https://volby.statistics.sk/opendata/eup/2019/EP_2019_SK_tab07a.csv",
+    "title": "Voľby do Európskeho parlamentu 2019 – výsledky prednostného hlasovania",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-19",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-ep-candidates-2024",
+    "url": "https://volby.statistics.sk/opendata/eup/2024/EP2024_SK_tab0b.csv",
+    "title": "Voľby do Európskeho parlamentu 2024 – zoznam zaregistrovaných kandidátov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-19",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-ep-results-2024",
+    "url": "https://volby.statistics.sk/opendata/eup/2024/EP2024_SK_tab07a.csv",
+    "title": "Voľby do Európskeho parlamentu 2024 – výsledky prednostného hlasovania",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-19",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-osk-elected-2001",
+    "url": "https://volby.statistics.sk/osk/osk2001/webdata/slov/zilina/t10k2h_5.pdf",
+    "title": "Voľby do orgánov samosprávnych krajov 2001 – zvolení poslanci v Žilinskom kraji",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-osk-not-elected-2001",
+    "url": "https://volby.statistics.sk/osk/osk2001/webdata/slov/zilina/t11k1_5.pdf",
+    "title": "Voľby do orgánov samosprávnych krajov 2001 – nezvolení kandidáti v Žilinskom kraji",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-osk-elected-2005",
+    "url": "https://volby.statistics.sk/osk/osk2005/slov/results/tab9.jsp%40kraj%3D5.htm",
+    "title": "Voľby do orgánov samosprávnych krajov 2005 – zvolení poslanci v Žilinskom kraji",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-osk-elected-2009",
+    "url": "https://volby.statistics.sk/osk/osk2009/sr/tab8.jsp%40lang%3Dsk%26kraj%3D5.htm",
+    "title": "Voľby do orgánov samosprávnych krajov 2009 – zvolení poslanci v Žilinskom kraji",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-osk-not-elected-2009",
+    "url": "https://volby.statistics.sk/osk/osk2009/sr/tab9.jsp%40lang%3Dsk%26kraj%3D5.htm",
+    "title": "Voľby do orgánov samosprávnych krajov 2009 – nezvolení kandidáti v Žilinskom kraji",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-osk-elected-2013",
+    "url": "https://volby.statistics.sk/opendata/osk/2013/1.kolo/OSK_2013_1kolo_tab04.csv",
+    "title": "Voľby do orgánov samosprávnych krajov 2013 – zvolení poslanci",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-19",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-osk-results-2013",
+    "url": "https://volby.statistics.sk/opendata/osk/2013/1.kolo/OSK_2013_1kolo_tab08.csv",
+    "title": "Voľby do orgánov samosprávnych krajov 2013 – výsledky kandidátov na poslancov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-19",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-osk-candidates-2013",
+    "url": "https://volby.statistics.sk/osk/osk2013/staticcontent/kandidati/ZA_poslanec.pdf",
+    "title": "Voľby do orgánov samosprávnych krajov 2013 – zoznam zaregistrovaných kandidátov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-19",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-mayor-results-2006",
+    "url": "https://volby.statistics.sk/oso/oso2006/slov/obvod/results/tab14.jsp%40sr%3D1.htm",
+    "title": "Komunálne voľby 2006 – výsledky volieb starostov a primátorov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-mayor-results-2010",
+    "url": "https://volby.statistics.sk/oso/oso2010/sr/tab10.jsp%40lang%3Dsk%26sr%3D1.htm",
+    "title": "Komunálne voľby 2010 – výsledky volieb starostov a primátorov",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "statistics-municipal-supplementary-2014",
+    "url": "https://volby.statistics.sk/oso/oso2010/nv/tab9.htm",
+    "title": "Doplňovacie komunálne voľby 25. januára 2014 – zvolení starostovia",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "liptovsky-jan-results-2018",
+    "url": "https://www.liptovskyjan.sk/download_file_f.php?id=1045791",
+    "title": "Výsledky volieb do samosprávy obcí v obci Liptovský Ján 2018",
+    "publisher": "Obec Liptovský Ján",
+    "checkedAt": "2026-09-18",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "bratislavske-noviny-raca-candidates-2014",
+    "url": "https://www.bratislavskenoviny.sk/samosprava/38113-volby-2014-zoznam-kandidatov-mestska-cast-raca",
+    "title": "Voľby 2014 | Zoznam kandidátov - mestská časť Rača",
+    "publisher": "Bratislavské noviny",
+    "publishedAt": "2014-10-12",
+    "checkedAt": "2026-09-19",
+    "language": "sk",
+    "type": "media"
   }
 ]

@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { loadGuideData } from '../../src/lib/load-guide-data';
+import { summarizeElectionHistory } from '../../src/lib/profile-content';
 
 const data = await loadGuideData();
 const sourcesById = new Map(data.sources.map((source) => [source.id, source]));
@@ -81,6 +82,50 @@ describe('public-record evidence', () => {
       .map((claim) => claim.id);
 
     expect(missingOfficialSource).toEqual([]);
+  });
+
+  it('stores structured office and outcome metadata for every election result', () => {
+    const missingElectionMetadata = data.claims
+      .filter((claim) => claim.kind === 'election_result' && !claim.election)
+      .map((claim) => claim.id);
+
+    expect(missingElectionMetadata).toEqual([]);
+  });
+
+  it('builds stable election-history totals for audited candidates', () => {
+    for (const candidate of data.candidates) {
+      expect(() => summarizeElectionHistory(
+        data.claims.filter((claim) => claim.candidateId === candidate.id),
+      ), candidate.id).not.toThrow();
+    }
+
+    expect(summarizeElectionHistory(data.claims.filter((claim) => claim.candidateId === 'candidate-1')))
+      .toMatchObject({
+        participations: 14,
+        wins: 13,
+        deputyWins: 9,
+        mayorWins: 4,
+        regionalChairWins: 0,
+        presidentWins: 0,
+      });
+    expect(summarizeElectionHistory(data.claims.filter((claim) => claim.candidateId === 'candidate-6')))
+      .toMatchObject({
+        participations: 7,
+        wins: 0,
+        deputyWins: 0,
+        mayorWins: 0,
+        regionalChairWins: 0,
+        presidentWins: 0,
+      });
+    expect(summarizeElectionHistory(data.claims.filter((claim) => claim.candidateId === 'candidate-83')))
+      .toMatchObject({
+        participations: 9,
+        wins: 9,
+        deputyWins: 4,
+        mayorWins: 5,
+        regionalChairWins: 0,
+        presidentWins: 0,
+      });
   });
 
   it('locks the audited official result rows, including unsuccessful candidacies', () => {

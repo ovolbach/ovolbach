@@ -263,6 +263,7 @@ h3 {
 }
 
 .candidacy dl,
+.election-history dl,
 .source-register dl,
 .candidacy dd,
 .source-register dd {
@@ -270,16 +271,45 @@ h3 {
 }
 
 .candidacy dl,
+.election-history dl,
 .source-register dl {
   display: grid;
   gap: var(--space-1);
 }
 
 .candidacy dt,
+.election-history dt,
 .source-register dt,
 .claim__kind,
 .claim__period,
 .source-link__metadata {
+  color: var(--color-muted);
+  font-size: 0.875rem;
+}
+
+.election-history dl {
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+}
+
+.election-history dl > div {
+  padding: var(--space-2);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+
+.election-history dd {
+  margin: var(--space-1) 0 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.election-history__note {
+  color: var(--color-muted);
+  font-size: 0.875rem;
+}
+
+.candidate-card__history {
+  margin: var(--space-2) 0;
   color: var(--color-muted);
   font-size: 0.875rem;
 }

@@ -1,6 +1,7 @@
 import { expect, test, type Page } from '@playwright/test';
 import { createComparisonPayload } from '../../src/lib/comparison-payload';
 import { comparisonContextFixture } from '../fixtures/comparison-context';
+const BASE = '/liptovsky-mikulas/2026/';
 
 async function tabTo(page: Page, selector: string) {
   for (let i = 0; i < 100; i++) {
@@ -11,8 +12,8 @@ async function tabTo(page: Page, selector: string) {
 }
 
 test('visitor selects two named candidates using only keyboard and reaches comparison in selection order', async ({ page }) => {
-  await page.goto('/');
-  await tabTo(page, '.site-nav a[href="/kandidati/"]');
+  await page.goto(BASE);
+  await tabTo(page, `.site-nav a[href="${BASE}kandidati/"]`);
   await page.keyboard.press('Enter');
   await tabTo(page, '[data-election-select]');
   await page.keyboard.press('ArrowDown');
@@ -42,7 +43,7 @@ test('comparison retains quoted and disputed context on both layouts', async ({ 
     const html = (await response.text()).replace(/(<script id="comparison-data"[^>]*>)[\s\S]*?(<\/script>)/, `$1${payload}$2`);
     await route.fulfill({ response, body: html });
   });
-  await page.goto('/porovnat/?kandidat=candidate-1&kandidat=candidate-2');
+  await page.goto(`${BASE}porovnat/?kandidat=candidate-1&kandidat=candidate-2`);
   const visible = page.locator(info.project.name === 'mobile' ? '[data-comparison-mobile]' : '[data-comparison-table]');
   for (const label of ['Fakt', 'Citát', 'Mediálna správa', 'Vyjadrenie kandidáta', 'Oficiálny výsledok']) {
     await expect(visible.getByText(label, { exact: true })).toBeVisible();
@@ -57,7 +58,7 @@ test('comparison retains quoted and disputed context on both layouts', async ({ 
 });
 
 test('comparison basic row shows official facts and resolved roster attribution', async ({ page }, info) => {
-  await page.goto('/porovnat/?kandidat=candidate-49&kandidat=candidate-50');
+  await page.goto(`${BASE}porovnat/?kandidat=candidate-49&kandidat=candidate-50`);
   const basic = page.locator(info.project.name === 'mobile' ? '[data-comparison-mobile] [data-comparison-row]' : '[data-comparison-table] [data-comparison-row]').first();
   await expect(basic).toContainText('Číslo na hlasovacom lístku');
   await expect(basic).toContainText('Vek');
@@ -68,7 +69,7 @@ test('comparison basic row shows official facts and resolved roster attribution'
 });
 
 test('catalogue provides all four election filters and neutral invalid states', async ({ page }) => {
-  await page.goto('/kandidati/?volby=city-council&obvod=district-4');
+  await page.goto(`${BASE}kandidati/?volby=city-council&obvod=district-4`);
   const filter = page.getByLabel('Voľby', { exact: true });
   for (const [election, count] of [['mayor', 3], ['city-council', 5], ['region-chair', 7], ['region-council', 30]] as const) {
     await filter.selectOption(election);
@@ -78,13 +79,13 @@ test('catalogue provides all four election filters and neutral invalid states', 
     if (election === 'region-council') await expect(page.locator('[data-catalogue-election="region-council"]')).toContainText('Volebný obvod č. 5');
   }
   for (const query of ['', '?volby=bad&obvod=district-4', '?volby=city-council', '?volby=mayor&obvod=bad']) {
-    await page.goto(`/kandidati/${query}`);
+    await page.goto(`${BASE}kandidati/${query}`);
     await expect(page.locator('[data-candidate-card]:visible')).toHaveCount(0);
   }
 });
 
 test('comparison selection enforces four, synchronizes duplicate cards and restores Back state', async ({ page }) => {
-  await page.goto('/?obvod=district-1');
+  await page.goto(`${BASE}?obvod=district-1`);
   for (const id of ['candidate-1', 'candidate-44', 'candidate-13', 'candidate-2']) {
     await page.locator(`[data-compare-candidate="${id}"]:visible`).first().check();
   }
@@ -95,13 +96,15 @@ test('comparison selection enforces four, synchronizes duplicate cards and resto
   expect(new URL(page.url()).searchParams.getAll('kandidat')).toEqual(['candidate-44', 'candidate-13', 'candidate-2']);
   await page.goBack();
   for (const duplicate of await page.locator('[data-compare-candidate="candidate-1"]:visible').all()) await expect(duplicate).toBeChecked();
-  await page.getByRole('link', { name: 'Metodika', exact: true }).first().click();
+  await page.getByRole('link', { name: 'Ako voliť', exact: true }).first().click();
   await page.getByRole('link', { name: 'Porovnať', exact: true }).click();
   await expect(page.locator('[data-comparison-column]')).toHaveCount(4);
+  await page.getByRole('link', { name: 'Mestá a roky', exact: true }).click();
+  expect(new URL(page.url()).searchParams.getAll('kandidat')).toEqual([]);
 });
 
 test('polling guide publishes all districts and exact Stošice station with source', async ({ page }) => {
-  await page.goto('/ako-volit/');
+  await page.goto(`${BASE}ako-volit/`);
   await expect(page.locator('[data-polling-district]')).toHaveCount(8);
   const station = page.locator('[data-polling-station="22"]');
   await expect(station).toContainText('Stošice');
@@ -111,8 +114,8 @@ test('polling guide publishes all districts and exact Stošice station with sour
 });
 
 test('cards, ballot limits and district facts have adjacent original-source attribution', async ({ page }) => {
-  await page.goto('/?obvod=district-4');
-  const district = page.locator('[data-district="city-4"]');
+  await page.goto(`${BASE}?obvod=district-4`);
+  const district = page.locator('[data-district="2026-lm-city-4"]');
   await expect(district.locator('[data-district-facts] [data-source-attribution]').first()).toBeVisible();
   for (const ballot of await district.locator('[data-ballot-section]').all()) {
     await expect(ballot.locator('[data-ballot-limit] [data-source-attribution]').first()).toBeVisible();
@@ -121,7 +124,7 @@ test('cards, ballot limits and district facts have adjacent original-source attr
 });
 
 test('search Enter preserves district, election and repeated comparison parameters', async ({ page }) => {
-  for (const path of ['/kandidati/?obvod=district-4&volby=city-council&kandidat=candidate-49&kandidat=candidate-50', '/porovnat/?obvod=district-4&volby=mayor&kandidat=candidate-1&kandidat=candidate-2']) {
+  for (const path of [`${BASE}kandidati/?obvod=district-4&volby=city-council&kandidat=candidate-49&kandidat=candidate-50`, `${BASE}porovnat/?obvod=district-4&volby=mayor&kandidat=candidate-1&kandidat=candidate-2`]) {
     await page.goto(path);
     const before = new URL(page.url()).search;
     await page.getByRole('searchbox').fill('Blcháč');
@@ -132,7 +135,7 @@ test('search Enter preserves district, election and repeated comparison paramete
 });
 
 test('every page exposes snapshot and document type beside source links', async ({ page }) => {
-  for (const path of ['/', '/kandidati/', '/porovnat/', '/ako-volit/', '/metodika/', '/zdroje/', '/kandidat/jan-blchacing-phd/']) {
+  for (const path of ['/', BASE, `${BASE}kandidati/`, `${BASE}porovnat/`, `${BASE}ako-volit/`, '/metodika/', '/zdroje/', `${BASE}kandidat/jan-blchacing-phd/`]) {
     await page.goto(path);
     await expect(page.locator('[data-snapshot-date]')).toContainText('2026-09-18');
   }

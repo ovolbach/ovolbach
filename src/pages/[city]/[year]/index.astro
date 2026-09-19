@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import BallotSection from '../../../components/BallotSection.astro';
+import DistrictSelector from '../../../components/DistrictSelector.astro';
+import SourceLink from '../../../components/SourceLink.astro';
+import ComparisonSelection from '../../../components/ComparisonSelection.astro';
+import { listPublishedElectionContexts, type ElectionContext } from '../../../lib/load-guide-data';
+import { getBallotsForDistrict } from '../../../lib/selectors';
+import { getCityDistrictUrlMappings } from '../../../lib/district-url';
+
+export async function getStaticPaths() {
+  return (await listPublishedElectionContexts()).map((context) => ({
+    params: { city: context.citySlug, year: String(context.year) }, props: { context },
+  }));
+}
+
+const context = Astro.props.context as ElectionContext;
+const data = context.data;
+const districtMappings = getCityDistrictUrlMappings(data.districts);
+const districtsById = new Map(data.districts.map((district) => [district.id, district]));
+---
+
+<BaseLayout
+  title={`Voľby ${context.cityName} ${context.year} | ovolbach.sk`}
+  description={`Nezávislý sprievodca komunálnymi a krajskými voľbami v meste ${context.cityName} v roku ${context.year}.`}
+  context={context}
+>
+  <h1>Voľby {context.cityName} {context.year}</h1>
+  <p>Oficiálne zoznamy kandidátov pre voľby {data.elections[0]?.electionDate}.<SourceLink recordId="home-election-date" sourceIds={[...new Set(data.elections.flatMap((election) => election.sourceIds))]} sources={data.sources} /></p>
+  <DistrictSelector mappings={districtMappings} action={context.basePath} />
+  <ComparisonSelection basePath={context.basePath} />
+  <div class="district-results">
+    {districtMappings.map((mapping) => {
+      const district = districtsById.get(mapping.internalId)!;
+      return <section id={mapping.publicId} data-district={mapping.internalId}>
+        <header data-district-facts>
+          <h2>{district.name}: {district.areas.join(', ')}</h2>
+          <p>Počet mandátov: {district.seats}. <SourceLink recordId={district.id} sourceIds={district.sourceIds} sources={data.sources} /></p>
+        </header>
+        {getBallotsForDistrict(data, district.id, context.regionalDistrictId).map((ballot) => <BallotSection ballot={ballot} sources={data.sources} basePath={context.basePath} />)}
+      </section>
+    })}
+  </div>
+  <script>
+    import '../../../scripts/district-selection';
+  </script>
+</BaseLayout>

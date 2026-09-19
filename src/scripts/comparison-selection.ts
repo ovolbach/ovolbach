@@ -1,6 +1,8 @@
 const choices = document.querySelectorAll<HTMLInputElement>('[data-compare-candidate]');
+const basePath = document.body.dataset.contextBase ?? '';
 
 function refreshComparisonSelection() {
+  if (!basePath) return;
   const url = new URL(window.location.href);
   const ids = url.searchParams.getAll('kandidat');
   choices.forEach((choice) => {
@@ -10,7 +12,7 @@ function refreshComparisonSelection() {
   document.querySelectorAll<HTMLElement>('[data-compare-selection-status]').forEach((status) => {
     status.textContent = `Vybraní kandidáti: ${ids.length}. Vyberte 2 až 4 kandidátov na porovnanie.`;
   });
-  for (const [selector, path] of [['[data-compare-link]', '/porovnat/'], ['[data-compare-catalogue]', '/kandidati/']] as const) {
+  for (const [selector, path] of [['[data-compare-link]', `${basePath}porovnat/`], ['[data-compare-catalogue]', `${basePath}kandidati/`]] as const) {
     document.querySelectorAll<HTMLAnchorElement>(selector).forEach((link) => {
       const target = new URL(url);
       target.pathname = path;
@@ -21,7 +23,7 @@ function refreshComparisonSelection() {
   // Keep selection when following ordinary local navigation or a candidate profile.
   document.querySelectorAll<HTMLAnchorElement>('a[href^="/"]').forEach((link) => {
     const target = new URL(link.href);
-    if (target.origin !== url.origin) return;
+    if (target.origin !== url.origin || !target.pathname.startsWith(basePath)) return;
     target.searchParams.delete('kandidat');
     ids.forEach((id) => target.searchParams.append('kandidat', id));
     link.href = `${target.pathname}${target.search}${target.hash}`;

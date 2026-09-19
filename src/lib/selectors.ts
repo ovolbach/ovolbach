@@ -10,6 +10,7 @@ import type {
   ResearchCoverage,
   Source,
 } from './schemas';
+import { summarizeElectionHistory, type ElectionHistorySummary } from './profile-content';
 
 const CLAIM_CATEGORIES: ClaimCategory[] = [
   'basic',
@@ -26,12 +27,19 @@ const BALLOT_ORDER: ElectionId[] = ['mayor', 'city-council', 'region-chair', 're
 
 export interface BallotCandidate extends Candidate {
   candidacy: Candidacy;
+  electionHistory: ElectionHistorySummary;
 }
 
 export interface BallotView {
   election: Election;
   district?: District;
   candidates: BallotCandidate[];
+}
+
+export function getBallotSelectionLimit(ballot: BallotView): number {
+  if (ballot.election.maxSelections !== 'district_seats') return ballot.election.maxSelections;
+  if (!ballot.district) throw new Error(`Missing district for ${ballot.election.contestId} selection limit`);
+  return ballot.district.seats;
 }
 
 export interface CandidateProfile {
@@ -91,17 +99,17 @@ function electionById(data: GuideData, electionId: ElectionId): Election {
   return matches[0]!;
 }
 
-function regionalDistrictFive(data: GuideData) {
-  const matches = data.districts.filter((district) => district.kind === 'region' && district.number === 5);
-  if (matches.length !== 1) throw new Error('Expected exactly one regional district numbered 5');
+function regionalDistrictForContext(data: GuideData, regionalDistrictId: string) {
+  const matches = data.districts.filter((district) => district.id === regionalDistrictId && district.kind === 'region');
+  if (matches.length !== 1) throw new Error(`Expected exactly one regional district: ${regionalDistrictId}`);
   return matches[0]!;
 }
 
-export function getBallotsForDistrict(data: GuideData, districtId: string): BallotView[] {
+export function getBallotsForDistrict(data: GuideData, districtId: string, regionalDistrictId: string): BallotView[] {
   const district = data.districts.find((record) => record.id === districtId);
   if (!district) throw new Error(`Unknown district: ${districtId}`);
   if (district.kind !== 'city') throw new Error(`Expected city district: ${districtId}`);
-  const regionalDistrict = regionalDistrictFive(data);
+  const regionalDistrict = regionalDistrictForContext(data, regionalDistrictId);
 
   return BALLOT_ORDER.map((electionId) => {
     const election = electionById(data, electionId);
@@ -114,7 +122,13 @@ export function getBallotsForDistrict(data: GuideData, districtId: string): Ball
       .filter((candidacy) => candidacy.electionId === electionId && candidacy.districtId === ballotDistrictId)
       .slice()
       .sort(byBallotNumber)
-      .map((candidacy) => ({ ...candidateById(data, candidacy.candidateId), candidacy }));
+      .map((candidacy) => ({
+        ...candidateById(data, candidacy.candidateId),
+        candidacy,
+        electionHistory: summarizeElectionHistory(
+          data.claims.filter((claim) => claim.candidateId === candidacy.candidateId),
+        ),
+      }));
 
     return { election, candidates, ...(ballotDistrictId ? { district: data.districts.find((item) => item.id === ballotDistrictId)! } : {}) };
   });
@@ -149,8 +163,9 @@ export function getComparisonRows(data: GuideData, candidateIds: string[]): Comp
   }));
 }
 
-export function getSourceRegister(data: GuideData): Source[] {
-  return data.sources.slice().sort((left, right) => {
+export function getSourceRegister(data: GuideData | Source[]): Source[] {
+  const sources = Array.isArray(data) ? data : data.sources;
+  return sources.slice().sort((left, right) => {
     const publisher = left.publisher.localeCompare(right.publisher, 'sk');
     if (publisher !== 0) return publisher;
     const date = (left.publishedAt ?? '').localeCompare(right.publishedAt ?? '');

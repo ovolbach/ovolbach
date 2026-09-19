@@ -1,5 +1,4 @@
-import candidates from '../data/candidates.json';
-import sources from '../data/sources.json';
+import { loadAllElectionCycles, loadGlobalSources } from './load-guide-data';
 import type { Candidate, Source } from './schemas';
 
 /**
@@ -25,4 +24,7 @@ export function deriveCandidateImageAllowlist(
   return allowed;
 }
 
-export const candidateImageAllowlist = deriveCandidateImageAllowlist(candidates as Candidate[], sources as Source[]);
+export async function loadCandidateImageAllowlist(): Promise<ReadonlySet<string>> {
+  const cycles = await loadAllElectionCycles();
+  return deriveCandidateImageAllowlist(cycles.flatMap((cycle) => cycle.candidates), await loadGlobalSources());
+}

@@ -21,6 +21,7 @@ export const baseCandidate = {
 
 export const baseElection: Election = {
   id: 'mayor',
+  contestId: '2026-lm-mayor',
   title: { sk: 'Primátor mesta' },
   level: 'city' as const,
   maxSelections: 1,
@@ -32,6 +33,7 @@ export const baseCandidacy = {
   id: 'candidacy-1',
   candidateId: baseCandidate.id,
   electionId: 'mayor' as const,
+  contestId: '2026-lm-mayor',
   ballotNumber: 1,
   ageAtElection: 40,
   occupationOfficial: 'učiteľka',

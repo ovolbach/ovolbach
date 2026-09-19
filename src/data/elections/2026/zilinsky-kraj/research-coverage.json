@@ -47,7 +47,18 @@
       "statistics-regional-candidates-2017",
       "statistics-regional-results-2017",
       "statistics-regional-candidates-2022",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-mayor-results-2006",
+      "statistics-mayor-results-2010",
+      "statistics-osk-elected-2009",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "statistics-mayor-results-2014",
+      "statistics-municipal-elected-2014",
+      "statistics-nrsr-results-2020",
+      "statistics-nrsr-elected-2020",
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
     ],
     "checkedAt": "2026-09-18"
   },
@@ -201,7 +212,8 @@
     "checkedAt": "2026-09-18",
     "sourceIds": [
       "statistics-municipal-candidates-2018",
-      "statistics-council-votes-2022"
+      "statistics-council-votes-2022",
+      "statistics-municipal-elected-2014"
     ]
   },
   {
@@ -280,7 +292,8 @@
     "checkedAt": "2026-09-18",
     "sourceIds": [
       "statistics-municipal-candidates-2018",
-      "statistics-council-votes-2022"
+      "statistics-council-votes-2022",
+      "statistics-municipal-elected-2014"
     ]
   },
   {
@@ -427,9 +440,21 @@
     "id": "coverage-candidate-6-previous_elections",
     "candidateId": "candidate-6",
     "category": "previous_elections",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-09-18",
-    "sourceIds": []
+    "sourceIds": [
+      "statistics-regional-results-2005",
+      "statistics-ep-candidates-2009",
+      "statistics-ep-elected-2009",
+      "statistics-osk-not-elected-2009",
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010",
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012",
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016",
+      "statistics-ep-results-2019"
+    ]
   },
   {
     "id": "coverage-candidate-6-programme_statements",
@@ -510,7 +535,10 @@
       "statistics-regional-candidates-2017",
       "statistics-regional-results-2017",
       "statistics-regional-candidates-2022",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-municipal-elected-2014",
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
     ]
   },
   {
@@ -1244,7 +1272,8 @@
       "statistics-municipal-candidates-2018",
       "statistics-council-votes-2022",
       "statistics-mayor-candidates-2022",
-      "statistics-mayor-votes-2022"
+      "statistics-mayor-votes-2022",
+      "statistics-municipal-elected-2014"
     ]
   },
   {
@@ -1529,7 +1558,11 @@
     "status": "found",
     "checkedAt": "2026-09-18",
     "sourceIds": [
-      "statistics-council-votes-2022"
+      "statistics-council-votes-2022",
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020",
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
     ]
   },
   {
@@ -1834,7 +1867,8 @@
       "statistics-regional-candidates-2017",
       "statistics-regional-results-2017",
       "statistics-regional-candidates-2022",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-municipal-elected-2014"
     ]
   },
   {
@@ -2343,7 +2377,9 @@
     "checkedAt": "2026-09-18",
     "sourceIds": [
       "statistics-municipal-candidates-2018",
-      "statistics-council-votes-2022"
+      "statistics-council-votes-2022",
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020"
     ]
   },
   {
@@ -3519,7 +3555,23 @@
       "statistics-municipal-candidates-2018",
       "statistics-municipal-elected-2014",
       "statistics-regional-results-2022",
-      "statistics-regional-results-2017"
+      "statistics-regional-results-2017",
+      "statistics-osk-elected-2001",
+      "statistics-nrsr-candidates-2006",
+      "statistics-nrsr-results-2006",
+      "statistics-osk-not-elected-2009",
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010",
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016",
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020",
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
     ],
     "checkedAt": "2026-09-18"
   },
@@ -4651,7 +4703,9 @@
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
       "statistics-mayor-votes-2022",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020"
     ],
     "checkedAt": "2026-09-18"
   },
@@ -4803,7 +4857,9 @@
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
       "statistics-regional-candidates-2022",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013"
     ],
     "checkedAt": "2026-09-18"
   },
@@ -5247,7 +5303,9 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
       "statistics-regional-candidates-2022",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
     ],
     "checkedAt": "2026-09-18"
   },
@@ -5395,7 +5453,20 @@
       "statistics-mayor-candidates-2022",
       "statistics-mayor-votes-2022",
       "aktuality-lubela-mayor-2022",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-osk-not-elected-2009",
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-municipal-supplementary-2014",
+      "statistics-mayor-results-2014",
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016",
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020",
+      "statistics-ep-candidates-2024",
+      "statistics-ep-results-2024"
     ],
     "checkedAt": "2026-09-18"
   },
@@ -5467,8 +5538,13 @@
     "id": "coverage-candidate-73-previous_elections",
     "candidateId": "candidate-73",
     "category": "previous_elections",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ],
     "checkedAt": "2026-09-18"
   },
   {
@@ -5967,7 +6043,11 @@
     "sourceIds": [
       "minv-nrsr-candidates-2020",
       "stvr-nahlik-profile-2024",
-      "statistics-presidential-results-2024"
+      "statistics-presidential-results-2024",
+      "bratislavske-noviny-raca-candidates-2014",
+      "statistics-mayor-results-2014",
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020"
     ],
     "checkedAt": "2026-09-18"
   },
@@ -6035,8 +6115,11 @@
     "id": "coverage-candidate-81-previous_elections",
     "candidateId": "candidate-81",
     "category": "previous_elections",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "justice-podhorany-2023",
+      "statistics-mayor-results-2014"
+    ],
     "checkedAt": "2026-09-18"
   },
   {
@@ -6107,7 +6190,17 @@
     "status": "found",
     "sourceIds": [
       "liptovskyjan-candidates-2018",
-      "minv-nrsr-results-2023"
+      "minv-nrsr-results-2023",
+      "statistics-osk-not-elected-2001",
+      "statistics-nrsr-candidates-2002",
+      "statistics-nrsr-results-2002",
+      "statistics-nrsr-substitutes-2002",
+      "statistics-nrsr-candidates-2006",
+      "statistics-nrsr-results-2006",
+      "statistics-municipal-candidates-2018",
+      "liptovsky-jan-results-2018",
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
     ],
     "checkedAt": "2026-09-18"
   },
@@ -6183,7 +6276,13 @@
       "statistics-mayor-candidates-2022",
       "statistics-mayor-votes-2022",
       "aktuality-treger-mayor-2022",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-mayor-results-2006",
+      "statistics-osk-elected-2009",
+      "statistics-mayor-results-2010",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "statistics-mayor-results-2014"
     ],
     "checkedAt": "2026-09-18"
   },
@@ -6338,7 +6437,16 @@
       "statistics-municipal-candidates-2018",
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-nrsr-candidates-2006",
+      "statistics-nrsr-results-2006",
+      "statistics-osk-elected-2009",
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010",
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012",
+      "statistics-ep-candidates-2024",
+      "statistics-ep-results-2024"
     ]
   },
   {
@@ -6491,7 +6599,26 @@
       "statistics-council-votes-2022",
       "statistics-regional-candidates-2017",
       "statistics-regional-results-2017",
-      "statistics-zsk-chair-results-2022"
+      "statistics-zsk-chair-results-2022",
+      "statistics-osk-not-elected-2001",
+      "statistics-nrsr-candidates-2002",
+      "statistics-nrsr-results-2002",
+      "statistics-nrsr-substitutes-2002",
+      "statistics-regional-results-2005",
+      "statistics-osk-elected-2009",
+      "statistics-mayor-results-2010",
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010",
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "statistics-mayor-results-2014",
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016",
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
     ]
   },
   {
@@ -6573,7 +6700,15 @@
     "checkedAt": "2026-09-18",
     "sourceIds": [
       "statistics-zsk-chair-results-2017",
-      "statistics-zsk-chair-results-2022"
+      "statistics-zsk-chair-results-2022",
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010",
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012",
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016",
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023"
     ]
   },
   {
@@ -6661,7 +6796,15 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
       "statistics-regional-results-2017",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "statistics-municipal-elected-2014",
+      "statistics-nrsr-results-2016",
+      "statistics-nrsr-elected-2016"
     ]
   },
   {
@@ -6749,7 +6892,9 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-results-2022",
       "statistics-nrsr-preference-2023",
-      "nrsr-lucansky-substitute-2023"
+      "nrsr-lucansky-substitute-2023",
+      "statistics-ep-candidates-2024",
+      "statistics-ep-results-2024"
     ]
   },
   {
@@ -6830,7 +6975,10 @@
     "sourceIds": [
       "statistics-regional-results-2022",
       "statistics-nrsr-preference-2023",
-      "minv-kss-eu-candidates-2024"
+      "minv-kss-eu-candidates-2024",
+      "statistics-nrsr-candidates-2023",
+      "statistics-ep-candidates-2024",
+      "statistics-ep-results-2024"
     ]
   },
   {

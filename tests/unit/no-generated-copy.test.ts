@@ -2,6 +2,7 @@ import { readFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { findStaticSiteIssues } from '../../src/lib/static-site-gates';
+import { loadAllElectionCycles, loadGlobalSources } from '../../src/lib/load-guide-data';
 
 const root = process.cwd();
 const publicRoots = ['src/components', 'src/pages', 'src/data'];
@@ -25,8 +26,8 @@ describe('public editorial guardrails', () => {
   it('rejects generated biographies, recommendations, scores, and rankings outside the explicit methodology negation', async () => {
     const content = await publicContent();
     const context = {
-      sources: JSON.parse(await readFile(join(root, 'src/data/sources.json'), 'utf8')),
-      claims: JSON.parse(await readFile(join(root, 'src/data/claims.json'), 'utf8')),
+      sources: await loadGlobalSources(),
+      claims: (await loadAllElectionCycles()).flatMap((cycle) => cycle.claims),
     };
     const violations = content.flatMap(({ path, text }) => {
       if (path.replaceAll('\\', '/') === 'src/pages/metodika.astro') expect(text).toContain(approvedMethodologyExplanation);

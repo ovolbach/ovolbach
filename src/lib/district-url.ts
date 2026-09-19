@@ -13,7 +13,7 @@ interface DistrictRecord {
 export function getCityDistrictUrlMappings(districts: readonly DistrictRecord[]): CityDistrictUrlMapping[] {
   const cityDistricts = districts.filter((district) => district.kind === 'city');
   cityDistricts.forEach((district) => {
-    if (!Number.isFinite(district.number) || !Number.isInteger(district.number) || district.number < 1 || district.number > 8) {
+    if (!Number.isFinite(district.number) || !Number.isInteger(district.number) || district.number < 1) {
       throw new Error(`Invalid city district number: ${district.number}`);
     }
   });

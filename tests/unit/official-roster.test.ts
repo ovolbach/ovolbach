@@ -1,8 +1,8 @@
 import { describe, expect, it } from 'vitest';
-import candidates from '../../src/data/candidates.json';
-import candidacies from '../../src/data/candidacies.json';
-import districts from '../../src/data/districts.json';
-import elections from '../../src/data/elections.json';
+import candidates from '../../src/data/elections/2026/zilinsky-kraj/candidates.json';
+import candidacies from '../../src/data/elections/2026/zilinsky-kraj/candidacies.json';
+import districts from '../../src/data/elections/2026/zilinsky-kraj/districts.json';
+import elections from '../../src/data/elections/2026/zilinsky-kraj/elections.json';
 
 const selectionLimit = (id: string) => elections.find((election) => election.id === id)?.maxSelections;
 
@@ -17,7 +17,12 @@ describe('official 2026 election roster', () => {
     expect(selectionLimit('mayor')).toBe(1);
     expect(selectionLimit('city-council')).toBe('district_seats');
     expect(selectionLimit('region-chair')).toBe(1);
-    expect(selectionLimit('region-council')).toBe(6);
+    expect(selectionLimit('region-council')).toBe('district_seats');
+  });
+
+  it('uses a region-wide source for the shared regional-council contest', () => {
+    expect(elections.find((election) => election.id === 'region-council')?.sourceIds)
+      .toEqual(['zsk-districts-seats-2026']);
   });
 
   it.each(['mayor', 'city-council', 'region-chair', 'region-council'])('%s has registered candidates', (id) => {
@@ -32,7 +37,7 @@ describe('official 2026 election roster', () => {
   });
 
   it('normalizes the Palúdzka street ligature', () => {
-    const coverage = districts.find((district) => district.id === 'city-7')?.pollingStations
+    const coverage = districts.find((district) => district.id === '2026-lm-city-7')?.pollingStations
       .find((station) => station.number === 27)?.coverage;
     expect(coverage).toContain('Žuffova');
     expect(coverage).not.toContain('Žuﬀova');

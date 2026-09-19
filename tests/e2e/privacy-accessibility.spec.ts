@@ -1,14 +1,14 @@
 import AxeBuilder from '@axe-core/playwright';
 import { expect, test } from '@playwright/test';
 
-const routes = ['/', '/kandidati/', '/ako-volit/', '/metodika/', '/zdroje/'];
+const BASE = '/liptovsky-mikulas/2026/';
+const routes = ['/', BASE, `${BASE}kandidati/`, `${BASE}ako-volit/`, '/metodika/', '/zdroje/', `${BASE}zdroje/`];
 const LEGAL_NOTICE = 'Tento web nikoho nevyzýva, aby volil alebo nevolil konkrétneho kandidáta, politickú stranu alebo koalíciu.';
 
-test('public routes create no client persistence, request no external origin, and have no serious axe findings', async ({ page, context }) => {
-  const requests: string[] = [];
-  page.on('request', (request) => requests.push(request.url()));
-
-  for (const path of routes) {
+for (const path of routes) {
+  test(`${path} creates no client persistence, requests no external origin, and has no serious axe findings`, async ({ page, context }) => {
+    const requests: string[] = [];
+    page.on('request', (request) => requests.push(request.url()));
     await page.goto(path);
     expect(await context.cookies(), path).toEqual([]);
     await expect(page.evaluate(async () => ({
@@ -21,10 +21,9 @@ test('public routes create no client persistence, request no external origin, an
     await expect(page.getByRole('contentinfo'), path).toContainText(LEGAL_NOTICE);
     const results = await new AxeBuilder({ page }).analyze();
     expect(results.violations.filter((item) => ['serious', 'critical'].includes(item.impact ?? '')), path).toEqual([]);
-  }
-
-  expect(requests.every((url) => new URL(url).origin === 'http://127.0.0.1:4321')).toBe(true);
-});
+    expect(requests.every((url) => new URL(url).origin === 'http://127.0.0.1:4321')).toBe(true);
+  });
+}
 
 test('search is keyboard usable, loads only on focus, and returns candidate and source terms', async ({ page }) => {
   const errors: string[] = [];
@@ -39,7 +38,7 @@ test('search is keyboard usable, loads only on focus, and returns candidate and 
   await expect(input).toBeFocused();
   await input.fill('Milan POVA');
   await expect(page.locator('[data-search-status]')).toContainText('Výsledky hľadania');
-  await expect(page.getByRole('link', { name: /Milan POVA/i }).first()).toHaveAttribute('href', /\/kandidat\/milan-pova-ing\//);
+  await expect(page.getByRole('link', { name: /Milan POVA/i }).first()).toHaveAttribute('href', /\/liptovsky-mikulas\/2026\/kandidat\/milan-pova-ing\//);
   await input.fill('Dátum vydania');
   const sourceResult = page.locator('[data-search-results] a[href^="/zdroje/"]').first();
   await expect(sourceResult).toBeVisible();
@@ -47,7 +46,7 @@ test('search is keyboard usable, loads only on focus, and returns candidate and 
     url.origin === window.location.origin && url.protocol === 'http:' && url.pathname.startsWith('/'),
   ))).toBe(true);
   await page.keyboard.press('Tab');
-  await expect(sourceResult).toBeFocused();
+  await expect(page.locator('[data-search-results] a').first()).toBeFocused();
   await input.fill('GDPR');
   await expect(page.locator('[data-search-results] a')).toHaveCount(1);
   await expect(page.locator('[data-search-results] a')).toHaveAttribute('href', /\/metodika\//);
@@ -60,7 +59,7 @@ test('search is keyboard usable, loads only on focus, and returns candidate and 
 
 test('generated internal links resolve to current static routes', async ({ page }) => {
   const paths = new Set<string>();
-  for (const route of [...routes, '/porovnat/']) {
+  for (const route of [...routes, `${BASE}porovnat/`]) {
     await page.goto(route);
     for (const href of await page.locator('a[href]').evaluateAll((links) => links.map((link) => link.getAttribute('href')))) {
       if (!href || href.startsWith('#') || href.startsWith('mailto:')) continue;

@@ -9,7 +9,8 @@
     "electionDate": "2026-10-24",
     "sourceIds": [
       "lm-mayor-roster-2026"
-    ]
+    ],
+    "contestId": "2026-lm-mayor"
   },
   {
     "id": "city-council",
@@ -21,7 +22,8 @@
     "electionDate": "2026-10-24",
     "sourceIds": [
       "lm-city-council-roster-2026"
-    ]
+    ],
+    "contestId": "2026-lm-city-council"
   },
   {
     "id": "region-chair",
@@ -33,7 +35,8 @@
     "electionDate": "2026-10-24",
     "sourceIds": [
       "zsk-chair-roster-2026"
-    ]
+    ],
+    "contestId": "2026-zsk-region-chair"
   },
   {
     "id": "region-council",
@@ -41,10 +44,11 @@
       "sk": "Voľby poslancov do zastupiteľstva Žilinského samosprávneho kraja"
     },
     "level": "region",
-    "maxSelections": 6,
+    "maxSelections": "district_seats",
     "electionDate": "2026-10-24",
     "sourceIds": [
-      "zsk-district-5-roster-2026"
-    ]
+      "zsk-districts-seats-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
   }
 ]

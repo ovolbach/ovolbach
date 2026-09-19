@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { validateDataset } from '../../src/lib/validate-dataset';
-import { claimSchema, sourceSchema } from '../../src/lib/schemas';
+import { claimSchema, sourceSchema, candidacySchema, electionSchema } from '../../src/lib/schemas';
 import {
   baseCandidate,
   baseCandidacy,
@@ -12,6 +12,29 @@ import {
 } from '../fixtures/guide-data';
 
 describe('validateDataset', () => {
+  it('requires a unique contest ID on elections and candidacies', () => {
+    expect(electionSchema.safeParse({ ...baseElection, contestId: '2026-lm-mayor' }).success).toBe(true);
+    const { contestId: electionContestId, ...electionWithoutContestId } = baseElection;
+    expect(electionSchema.safeParse(electionWithoutContestId).success).toBe(false);
+    expect(candidacySchema.safeParse({ ...baseCandidacy, contestId: '2026-lm-mayor' }).success).toBe(true);
+    const { contestId: candidacyContestId, ...candidacyWithoutContestId } = baseCandidacy;
+    expect(candidacySchema.safeParse(candidacyWithoutContestId).success).toBe(false);
+  });
+
+  it('allows separate city mayor contests but rejects a candidacy joined to the wrong contest kind', () => {
+    const data = makeGuideData({
+      elections: [
+        { ...baseElection, contestId: '2026-lm-mayor' },
+        { ...baseElection, contestId: '2026-rk-mayor' },
+      ],
+      candidacies: [{ ...baseCandidacy, contestId: '2026-rk-mayor', electionId: 'city-council' }],
+    });
+    const issues = validateDataset(data, 'draft');
+    expect(issues.map((issue) => issue.code)).not.toContain('duplicate_id');
+    expect(issues).toContainEqual({
+      code: 'wrong_contest_kind', recordId: baseCandidacy.id, referenceId: '2026-rk-mayor',
+    });
+  });
   it('rejects duplicate IDs', () => {
     const data = makeGuideData({ candidates: [baseCandidate, { ...baseCandidate }] });
     expect(validateDataset(data, 'draft')).toContainEqual({
@@ -104,6 +127,16 @@ describe('validateDataset', () => {
 
   it('accepts Czech as a source language', () => {
     expect(sourceSchema.safeParse({ ...baseSource, language: 'cs' }).success).toBe(true);
+  });
+
+  it('requires HTTPS sources and rejects duplicate canonical URLs', () => {
+    expect(sourceSchema.safeParse({ ...baseSource, url: 'http://example.com/source' }).success).toBe(false);
+    const data = makeGuideData({
+      sources: [baseSource, { ...baseSource, id: 'source-2' }],
+    });
+    expect(validateDataset(data, 'draft')).toContainEqual({
+      code: 'duplicate_source_url', recordId: 'source-2', referenceId: baseSource.id,
+    });
   });
 
   it('requires coverage for every candidate and category', () => {

@@ -1,7 +1,8 @@
 import { readFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import { findStaticSiteIssues } from '../src/lib/static-site-gates';
-import { candidateImageAllowlist } from '../src/lib/candidate-image-policy';
+import { loadCandidateImageAllowlist } from '../src/lib/candidate-image-policy';
+import { loadAllElectionCycles, loadGlobalSources } from '../src/lib/load-guide-data';
 
 const root = process.cwd();
 const roots = ['src', 'dist'];
@@ -24,9 +25,10 @@ const paths = (await Promise.all(roots.map(files))).flat().filter((path) =>
 );
 const failures: string[] = [];
 const editorialContext = {
-  sources: JSON.parse(await readFile(join(root, 'src/data/sources.json'), 'utf8')),
-  claims: JSON.parse(await readFile(join(root, 'src/data/claims.json'), 'utf8')),
+  sources: await loadGlobalSources(),
+  claims: (await loadAllElectionCycles()).flatMap((cycle) => cycle.claims),
 };
+const candidateImageAllowlist = await loadCandidateImageAllowlist();
 for (const path of paths) {
   const text = await readFile(join(root, path), 'utf8');
   for (const issue of findStaticSiteIssues(path, text, candidateImageAllowlist, editorialContext)) failures.push(`${path}: ${issue}`);

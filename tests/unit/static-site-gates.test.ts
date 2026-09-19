@@ -3,7 +3,7 @@ import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { findStaticSiteIssues } from '../../src/lib/static-site-gates';
 import { safeInternalSearchUrl } from '../../src/lib/search-url';
-import { candidateImageAllowlist, deriveCandidateImageAllowlist } from '../../src/lib/candidate-image-policy';
+import { loadCandidateImageAllowlist, deriveCandidateImageAllowlist } from '../../src/lib/candidate-image-policy';
 import type { Candidate, Source } from '../../src/lib/schemas';
 
 const fixtures = join(process.cwd(), 'tests/fixtures/static-site-gates');
@@ -124,6 +124,12 @@ describe('Pagefind result URL safety', () => {
 });
 
 describe('candidate image allowlist', () => {
+  it('can derive the audit allowlist from every configured election cycle', async () => {
+    const policy = await import('../../src/lib/candidate-image-policy');
+    const load = (policy as unknown as { loadCandidateImageAllowlist?: () => Promise<ReadonlySet<string>> }).loadCandidateImageAllowlist;
+    expect(await load?.()).toEqual(new Set());
+  });
+
   const source = { id: 'source-license' } as Source;
   const candidate = {
     id: 'candidate-1',
@@ -131,8 +137,8 @@ describe('candidate image allowlist', () => {
     images: [{ url: '/images/licensed.webp', license: 'CC-BY-4.0', licenseSourceId: 'source-license' }],
   } as Candidate;
 
-  it('starts empty and requires canonical candidate license evidence for future assets', () => {
-    expect(candidateImageAllowlist).toEqual(new Set());
+  it('starts empty and requires canonical candidate license evidence for future assets', async () => {
+    expect(await loadCandidateImageAllowlist()).toEqual(new Set());
     expect(deriveCandidateImageAllowlist([candidate], [source])).toEqual(new Set(['/images/licensed.webp']));
     expect(deriveCandidateImageAllowlist([{ ...candidate, sourceIds: [] }], [source])).toEqual(new Set());
   });

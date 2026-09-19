@@ -1,14 +1,14 @@
 ---
-interface Props { candidateId?: string; candidateName?: string; }
-const { candidateId, candidateName } = Astro.props;
+interface Props { candidateId?: string; candidateName?: string; basePath: string; }
+const { candidateId, candidateName, basePath } = Astro.props;
 ---
 {candidateId ? (
   <label class="compare-choice"><input type="checkbox" data-compare-candidate={candidateId} aria-label={`Vybrať na porovnanie: ${candidateName}`} /> Vybrať na porovnanie</label>
 ) : (
   <aside class="comparison-selection" aria-label="Výber na porovnanie" data-pagefind-ignore>
     <p data-compare-selection-status aria-live="polite">Vyberte 2 až 4 kandidátov na porovnanie.</p>
-    <a href="/porovnat/" data-compare-link>Otvoriť porovnanie</a>
-    <a href="/kandidati/" data-compare-catalogue>Vybrať kandidátov</a>
+    <a href={`${basePath}porovnat/`} data-compare-link>Otvoriť porovnanie</a>
+    <a href={`${basePath}kandidati/`} data-compare-catalogue>Vybrať kandidátov</a>
     <button type="button" data-compare-clear>Vymazať výber</button>
   </aside>
 )}

@@ -49,7 +49,7 @@ describe('source links', () => {
     expect(sourceSchema.safeParse({ ...officialSource, url }).success).toBe(false);
   });
 
-  it('permits an absolute HTTP source URL', () => {
-    expect(sourceSchema.safeParse({ ...officialSource, url: 'http://www.example.gov.sk/roster.pdf' }).success).toBe(true);
+  it('rejects an insecure HTTP source URL', () => {
+    expect(sourceSchema.safeParse({ ...officialSource, url: 'http://www.example.gov.sk/roster.pdf' }).success).toBe(false);
   });
 });

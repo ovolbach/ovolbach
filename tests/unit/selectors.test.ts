@@ -47,6 +47,15 @@ const fixture: GuideData = makeGuideData({
   claims: [
     { ...baseClaim, id: 'claim-late', candidateId: 'peter-bonko', period: '2026-02' },
     { ...baseClaim, id: 'claim-early', candidateId: 'peter-bonko', period: '2025-01' },
+    {
+      ...baseClaim,
+      id: 'claim-election-win',
+      candidateId: 'peter-bonko',
+      category: 'previous_elections',
+      kind: 'election_result',
+      period: '2022',
+      election: { contestId: 'oso-mayor-2022', office: 'mayor', outcome: 'elected' },
+    },
   ],
   sources: [
     { ...baseSource, id: 'source-z', publisher: 'Žurnál', title: 'Z', publishedAt: '2026-03-01' },
@@ -61,7 +70,7 @@ const fixture: GuideData = makeGuideData({
 
 describe('guide selectors', () => {
   it('returns four canonical ballots for a city district and maps region council to ŽSK district 5', () => {
-    const ballots = getBallotsForDistrict(fixture, 'district-4');
+    const ballots = getBallotsForDistrict(fixture, 'district-4', 'zsk-5');
     expect(ballots.map((ballot) => ballot.election.id)).toEqual([
       'mayor', 'city-council', 'region-chair', 'region-council',
     ]);
@@ -70,17 +79,38 @@ describe('guide selectors', () => {
     expect(ballots[3]!.candidates.map((candidate) => candidate.id)).toEqual(['peter-bonko']);
     expect(ballots[3]!.candidates.map((candidate) => candidate.candidacy.districtId)).toEqual(['zsk-5']);
     expect(ballots[0]!.candidates.map((candidate) => candidate.id)).toEqual(['jan-blchac', 'peter-bonko']);
+    expect(ballots[0]!.candidates[1]!.electionHistory).toEqual({
+      participations: 1,
+      wins: 1,
+      deputyWins: 0,
+      mayorWins: 1,
+      regionalChairWins: 0,
+      presidentWins: 0,
+      sourceIds: ['source-1'],
+    });
+  });
+
+  it('uses the only regional district in a city context even when its number is 8', () => {
+    const ruzomberok = {
+      ...fixture,
+      districts: [fixture.districts[0]!, { ...fixture.districts[1]!, id: 'zsk-8', number: 8 }],
+      candidacies: fixture.candidacies.map((candidacy) => candidacy.districtId === 'zsk-5'
+        ? { ...candidacy, districtId: 'zsk-8' } : candidacy),
+    };
+    const ballots = getBallotsForDistrict(ruzomberok, 'district-4', 'zsk-8');
+    expect(ballots[3]!.district?.id).toBe('zsk-8');
+    expect(ballots[3]!.candidates.map((candidate) => candidate.candidacy.districtId)).toEqual(['zsk-8']);
   });
 
   it('throws for an unknown district', () => {
-    expect(() => getBallotsForDistrict(fixture, 'missing-district')).toThrow('Unknown district: missing-district');
+    expect(() => getBallotsForDistrict(fixture, 'missing-district', 'zsk-5')).toThrow('Unknown district: missing-district');
   });
 
   it('rejects a city district when regional district 5 is missing or ambiguous', () => {
     const missingRegional = { ...fixture, districts: fixture.districts.filter((district) => district.id !== 'zsk-5') };
     const ambiguousRegional = { ...fixture, districts: [...fixture.districts, { ...fixture.districts[1]! }] };
-    expect(() => getBallotsForDistrict(missingRegional, 'district-4')).toThrow('Expected exactly one regional district numbered 5');
-    expect(() => getBallotsForDistrict(ambiguousRegional, 'district-4')).toThrow('Expected exactly one regional district numbered 5');
+    expect(() => getBallotsForDistrict(missingRegional, 'district-4', 'zsk-5')).toThrow('Expected exactly one regional district: zsk-5');
+    expect(() => getBallotsForDistrict(ambiguousRegional, 'district-4', 'zsk-5')).toThrow('Expected exactly one regional district: zsk-5');
   });
 
   it('keeps an expected ballot when it has no candidates', () => {
@@ -88,7 +118,7 @@ describe('guide selectors', () => {
       ...fixture,
       candidacies: fixture.candidacies.filter((candidacy) => candidacy.electionId !== 'region-chair'),
     };
-    const ballots = getBallotsForDistrict(withoutRegionChair, 'district-4');
+    const ballots = getBallotsForDistrict(withoutRegionChair, 'district-4', 'zsk-5');
     expect(ballots.map((ballot) => ballot.election.id)).toEqual([
       'mayor', 'city-council', 'region-chair', 'region-council',
     ]);
@@ -100,7 +130,7 @@ describe('guide selectors', () => {
     expect(profile.candidacies.map((candidacy) => candidacy.id)).toEqual([
       'mayor-peter', 'city-peter', 'region-peter',
     ]);
-    expect(profile.claims.map((claim) => claim.id)).toEqual(['claim-early', 'claim-late']);
+    expect(profile.claims.map((claim) => claim.id)).toEqual(['claim-early', 'claim-late', 'claim-election-win']);
   });
 
   it('throws for an unknown candidate', () => {

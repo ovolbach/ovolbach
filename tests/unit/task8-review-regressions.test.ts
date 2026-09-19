@@ -10,7 +10,7 @@ const coverage = (candidateId: string, category: string) => data.researchCoverag
 describe('Task 8 reviewed evidence', () => {
   it('closes every district-5 candidate without weakening the release gate', () => {
     const ids = new Set(data.candidacies
-      .filter((item) => item.electionId === 'region-council' && item.districtId === 'zsk-5')
+      .filter((item) => item.electionId === 'region-council' && item.districtId === '2026-zsk-region-5')
       .map((item) => item.candidateId));
     const rows = data.researchCoverage.filter((item) => ids.has(item.candidateId));
     expect(ids.size).toBe(30);
@@ -72,7 +72,7 @@ describe('Task 8 reviewed evidence', () => {
     expect(source('minv-nrsr-results-2023')).toMatchObject({ publishedAt: '2023-09-30' });
     expect(claim('claim-candidate-82-nrsr-result-2020')).toBeUndefined();
     expect(claim('claim-candidate-82-nrsr-result-2023')).toMatchObject({
-      period: '2023', sourceIds: ['minv-nrsr-results-2023'],
+      period: '2023', sourceIds: ['statistics-nrsr-candidates-2023', 'statistics-nrsr-preference-2023'],
     });
     expect(claim('claim-candidate-82-regional-result-2009')).toBeUndefined();
   });
@@ -149,6 +149,6 @@ describe('Task 8 reviewed evidence', () => {
     expect(rows.reduce<Record<string, number>>((counts, row) => {
       counts[row.status] = (counts[row.status] ?? 0) + 1;
       return counts;
-    }, {})).toEqual({ found: 43, searched_none: 50, not_applicable: 12 });
+    }, {})).toEqual({ found: 45, searched_none: 48, not_applicable: 12 });
   });
 });

@@ -75,9 +75,16 @@ export function validateDataset(data: GuideData, mode: 'draft' | 'release'): Val
   }
 
   const sourceIds = identifiers(validated.sources, issues);
+  const sourceByUrl = new Map<string, string>();
+  for (const source of validated.sources) {
+    const url = new URL(source.url).href;
+    const prior = sourceByUrl.get(url);
+    if (prior) push(issues, 'duplicate_source_url', source.id, prior);
+    else sourceByUrl.set(url, source.id);
+  }
   const candidateIds = identifiers(validated.candidates, issues);
   const districtIds = identifiers(validated.districts, issues);
-  const electionIds = identifiers(validated.elections, issues);
+  const contestIds = identifiers(validated.elections.map((election) => ({ id: election.contestId })), issues);
   identifiers(validated.candidacies, issues);
   identifiers(validated.claims, issues);
   identifiers(validated.researchCoverage, issues);
@@ -117,7 +124,9 @@ export function validateDataset(data: GuideData, mode: 'draft' | 'release'): Val
   const ballots = new Map<string, string>();
   for (const candidacy of validated.candidacies) {
     if (!candidateIds.has(candidacy.candidateId)) push(issues, 'unknown_candidate', candidacy.id, candidacy.candidateId);
-    if (!electionIds.has(candidacy.electionId)) push(issues, 'unknown_election', candidacy.id, candidacy.electionId);
+    if (!contestIds.has(candidacy.contestId)) push(issues, 'unknown_election', candidacy.id, candidacy.contestId);
+    const contest = validated.elections.find((election) => election.contestId === candidacy.contestId);
+    if (contest && contest.id !== candidacy.electionId) push(issues, 'wrong_contest_kind', candidacy.id, candidacy.contestId);
     if (candidacy.districtId && !districtIds.has(candidacy.districtId)) push(issues, 'unknown_district', candidacy.id, candidacy.districtId);
 
     if (candidacy.electionId === 'city-council' || candidacy.electionId === 'region-council') {
@@ -132,7 +141,7 @@ export function validateDataset(data: GuideData, mode: 'draft' | 'release'): Val
       push(issues, 'unexpected_district', candidacy.id, candidacy.districtId);
     }
 
-    const ballotKey = `${candidacy.electionId}:${candidacy.districtId ?? ''}:${candidacy.ballotNumber}`;
+    const ballotKey = `${candidacy.contestId}:${candidacy.districtId ?? ''}:${candidacy.ballotNumber}`;
     if (ballots.has(ballotKey)) push(issues, 'duplicate_ballot_number', candidacy.id, ballots.get(ballotKey));
     else ballots.set(ballotKey, candidacy.id);
   }

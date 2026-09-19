@@ -9,20 +9,31 @@ import ComparisonSelection from './ComparisonSelection.astro';
 interface Props {
   record: BallotCandidate;
   sources: Source[];
+  basePath: string;
 }
 
-const { record, sources } = Astro.props;
+const { record, sources, basePath } = Astro.props;
 const linkedSources = resolveRecordSources([record, record.candidacy], sources);
 ---
 
 <article class="candidate-card" data-candidate-card data-candidate-id={record.id}>
-  <h3><a href={`/kandidat/${record.slug}/`}>{record.displayName}</a></h3>
+  <h3><a href={`${basePath}kandidat/${record.slug}/`}>{record.displayName}</a></h3>
   <dl>
     <div><dt>Číslo na hlasovacom lístku</dt><dd data-ballot-number>{record.candidacy.ballotNumber}</dd></div>
     <div><dt>Vek</dt><dd>{record.candidacy.ageAtElection} rokov</dd></div>
     <div><dt>Povolanie</dt><dd>{record.candidacy.occupationOfficial}</dd></div>
     {affiliationLabel(record.candidacy) && <div><dt>Navrhujúci subjekt / postavenie</dt><dd>{affiliationLabel(record.candidacy)}</dd></div>}
   </dl>
+  {record.electionHistory.participations > 0 && (
+    <p class="candidate-card__history">
+      Účasť vo voľbách od roku 2000: {record.electionHistory.participations} ×; zvolenie: {record.electionHistory.wins} ×
+      {record.electionHistory.deputyWins > 0 && <>; zvolenie za poslanca {record.electionHistory.deputyWins} ×</>}
+      {record.electionHistory.mayorWins > 0 && <>; starosta/primátor {record.electionHistory.mayorWins} ×</>}
+      {record.electionHistory.regionalChairWins > 0 && <>; predseda kraja {record.electionHistory.regionalChairWins} ×</>}
+      {record.electionHistory.presidentWins > 0 && <>; prezident {record.electionHistory.presidentWins} ×</>}.
+      <SourceLink recordId={`${record.id}-election-history`} sourceIds={record.electionHistory.sourceIds} sources={sources} />
+    </p>
+  )}
   <SourceLink recordId={record.candidacy.id} sourceIds={linkedSources.map((source) => source.id)} sources={linkedSources} />
-  <ComparisonSelection candidateId={record.id} candidateName={record.displayName} />
+  <ComparisonSelection candidateId={record.id} candidateName={record.displayName} basePath={basePath} />
 </article>
