@@ -101,17 +101,9 @@ SEO a kontrolný zoznam nasadenia sú v [docs/seo-launch.md](docs/seo-launch.md)
 
 ## Nasadenie na Elestio
 
-Pre statický CI/CD pipeline použite:
+Koreňový [`Dockerfile`](Dockerfile) zostaví obraz: Node.js 22 spustí `npm ci`, `npm run validate:release` a `npm run build`, potom Nginx publikuje výsledný priečinok `dist/`. Konfigurácia statického servera je v [`deploy/nginx/default.conf`](deploy/nginx/default.conf). Po nasadení vynúti relatívne presmerovanie na koncovú lomku a zobrazí zostavenú `404.html` so stavom HTTP 404.
 
-```text
-Node.js:          22
-Install command: npm ci
-Build command:   npm run build
-Build directory: dist
-Run command:     nie je potrebný
-```
-
-Elestio naklonuje repozitár, vytvorí build a výsledný priečinok `dist/` publikuje cez statický webový server.
+Elestio musí zostavovať obraz z tohto Dockerfile. Existujúca inštalácia vytvorila na serveri `/opt/app/ovolbach/Dockerfile` a `docker-compose.yml` mimo Git; pred ďalším nasadením overte, že pipeline použije súbory z repozitára a neprepíše ich vlastnou šablónou. Vonkajší reverzný proxy Elestio smeruje na port `172.17.0.1:3028`; jeho doménová a TLS konfigurácia nie je súčasťou tohto repozitára. Postup kontroly je v [docs/seo-launch.md](docs/seo-launch.md).
 
 ## Štruktúra projektu
 

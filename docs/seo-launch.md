@@ -22,37 +22,11 @@ Z pohľadu SEO `npm run build` iba vytvára `/sitemap.xml` z indexovateľných s
 
 ## Elestio a Nginx
 
-V Elestio otvorte **Security → Nginx configuration → Config** pre vlastnú doménu. Upravte skutočnú konfiguráciu služby; ponechajte existujúce nastavenie certifikátov a cesty ku generovanému `dist/`. Nasledujúce pravidlá ukazujú požadované správanie. Skutočné bloky `server` a koreňový priečinok musia zodpovedať nasadeniu.
+Požiadavka prechádza cez Cloudflare a reverzný proxy Elestio na Nginx v kontajneri `ovolbach` (port `172.17.0.1:3028`). Repozitár obsahuje [`Dockerfile`](../Dockerfile) a [`deploy/nginx/default.conf`](../deploy/nginx/default.conf). Po nasadení nového obrazu bude statický Nginx na porte 80 posielať relatívne presmerovanie na koncovú lomku (`absolute_redirect off`), aby verejná HTTPS adresa nepresmerovala späť na HTTP. Chybový stav 404 zobrazí zostavený súbor `dist/404.html` a zachová HTTP 404.
 
-```nginx
-# V HTTP bloku pre ovolbach.sk aj www.ovolbach.sk a v HTTPS bloku pre www.
-# Výnimka pre adresy stránok bez prípony zabezpečí jediné presmerovanie
-# napr. http://www.ovolbach.sk/metodika -> https://ovolbach.sk/metodika/.
-if ($uri ~ ^(.*/[^/.]+)$) {
-    return 301 https://ovolbach.sk$uri/$is_args$args;
-}
-return 301 https://ovolbach.sk$request_uri;
-```
+Na serveri sa HTTPS konfigurácia hlavnej domény nachádza v `/opt/elestio/nginx/conf.d/ovolbach.sk.conf`; konfigurácia `www` je v susednom `www.ovolbach.sk.conf` a presmerúva na hlavnú doménu. Sú to súbory spravované Elestio mimo repozitára. Priama úprava `/etc/nginx/conf.d/default.conf` v bežiacom kontajneri by sa pri ďalšej zostave stratila. Pôvodný Dockerfile a `docker-compose.yml` na serveri sú mimo Git, preto pred nasadením overte, že Elestio použije sledovaný Dockerfile z repozitára. Pred spustením nového obrazu skontrolujte `nginx -t` a po nasadení odpovede nižšie.
 
-```nginx
-# Vo vnútri HTTPS bloku pre ovolbach.sk.
-root /ABSOLUTNA/CESTA/K/dist;
-index index.html;
-error_page 404 /404.html;
-
-location = /404.html { internal; }
-location = /index.html { return 301 https://ovolbach.sk/$is_args$args; }
-location ~ ^/(.+)/index\.html$ { return 301 https://ovolbach.sk/$1/$is_args$args; }
-location / { try_files $uri $uri/ =404; }
-
-# Len súbory Astro s hashom v názve majú dlhú cache.
-location ^~ /_astro/ {
-    add_header Cache-Control "public, max-age=31536000, immutable" always;
-    try_files $uri =404;
-}
-```
-
-Nginx má pri existujúcom adresári vynútiť koncovú lomku odpoveďou 301. Neznáma adresa s koncovou lomkou musí vrátiť HTTP 404 a obsah `404.html`, nikdy úvodnú stránku s HTTP 200. Skontrolujte `nginx -t` a po zmene konfigurácie konkrétne odpovede nižšie. Ak Elestio používa ďalšiu proxy vrstvu, pravidlá presmerovania nastavte v prvej vrstve, ktorá prijíma požiadavku, aby nevznikli reťazce 301.
+Nginx má pri existujúcom adresári vynútiť koncovú lomku odpoveďou 301. Neznáma adresa s koncovou lomkou musí vrátiť HTTP 404 a obsah `404.html`, nikdy úvodnú stránku s HTTP 200. Priamy prístup k `/404.html` môže vonkajší proxy Elestio obslúžiť vlastným interným pravidlom; kontrolujte telo odpovede na neznámu adresu.
 
 Elestio má v publikovanom príklade globálnej konfigurácie zapnutý gzip cez `server-gzip.conf`. Potvrďte skutočnú odpoveď s `Accept-Encoding: gzip` a, ak je modul dostupný, aj `br`. Kompresiu HTML a cache hlavičky treba overiť na nasadenom webe. `robots.txt`, `sitemap.xml`, `llms.txt` a samotné HTML nech majú krátku cache; hashované súbory `/_astro/` môžu mať dlhú nemennú cache.
 
@@ -70,8 +44,11 @@ Použite `curl -sSI` a vypnite automatické nasledovanie presmerovaní. Každá 
 | `http://www.ovolbach.sk/metodika` | jeden 301 na `https://ovolbach.sk/metodika/` |
 | `https://www.ovolbach.sk/metodika/` | jeden 301 na `https://ovolbach.sk/metodika/` |
 | `https://ovolbach.sk/metodika` | jeden 301 na `https://ovolbach.sk/metodika/` |
+| `https://ovolbach.sk/metodika/index.html?x=1` | jeden 301 na `https://ovolbach.sk/metodika/?x=1` |
 | `https://ovolbach.sk/neexistujuci-kandidat/` | 404 s vlastnou stránkou |
 | `/robots.txt`, `/sitemap.xml`, `/llms.txt`, `/og-default.png` | 200 |
+
+Jediný prechod z HTTP variantov závisí od pravidiel Cloudflare a vonkajšieho proxy Elestio; samotný Dockerfile mení odpovede statického kontajnera.
 
 Skontrolujte aj kanonickú adresu s parametrom `?kandidat=...`: HTML má stále obsahovať canonical bez parametra. Pred publikáciou sitemap skontrolujte, že neobsahuje `404.html`, parametre ani duplicity.
 

@@ -1,0 +1,14 @@
+.git
+node_modules
+dist
+.astro
+.internal
+.superpowers
+.agents
+.codex
+AGENTS.md
+.env
+.env.*
+playwright-report
+test-results
+*.log
