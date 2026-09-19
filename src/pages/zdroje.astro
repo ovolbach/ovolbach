@@ -10,7 +10,7 @@ const sources = getSourceRegister(sourceSchema.array().parse(allSources));
 sources.forEach((source) => assertSafeOutboundSourceUrl(source.id, source.url));
 ---
 
-<BaseLayout title="Zdroje | ovolbach.sk" description="Register verejne dostupných zdrojov použitých na ovolbach.sk.">
+<BaseLayout title="Zdroje | ovolbach.sk" description="Register verejne dostupných zdrojov použitých na ovolbach.sk." pageKind="collection" breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: 'Zdroje', href: '/zdroje/' }]}>
   <h1>Zdroje</h1>
   <p>Register verejne dostupných zdrojov použitých pri uvádzaných údajoch.</p>
   <SourceRegister sources={sources} />

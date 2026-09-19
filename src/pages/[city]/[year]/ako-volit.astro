@@ -22,7 +22,7 @@ const ballotCount = data.elections.length;
 const ballotSummarySourceIds = [...new Set(data.elections.flatMap((item) => item.sourceIds))];
 ---
 
-<BaseLayout title={`Ako voliť | ${context.cityName} ${context.year} | ovolbach.sk`} description={`Praktický prehľad hlasovacích lístkov v meste ${context.cityName} v roku ${context.year}.`} context={context}>
+<BaseLayout title={`Ako voliť | ${context.cityName} ${context.year} | ovolbach.sk`} description={`Praktický prehľad hlasovacích lístkov v meste ${context.cityName} v roku ${context.year}.`} context={context} breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Ako voliť', href: `${context.basePath}ako-volit/` }]}>
   <article class="voting-guide">
     <h1>Ako voliť</h1>
     <p data-guide-ballot-info>V týchto súbežných voľbách dostanete <strong>{ballotCount} hlasovacie lístky</strong>.<SourceLink recordId="guide-ballot-info" sourceIds={ballotSummarySourceIds} sources={data.sources} /></p>

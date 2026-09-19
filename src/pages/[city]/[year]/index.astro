@@ -24,6 +24,8 @@ const districtsById = new Map(data.districts.map((district) => [district.id, dis
   title={`Voľby ${context.cityName} ${context.year} | ovolbach.sk`}
   description={`Nezávislý sprievodca komunálnymi a krajskými voľbami v meste ${context.cityName} v roku ${context.year}.`}
   context={context}
+  pageKind="collection"
+  breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }]}
 >
   <h1>Voľby {context.cityName} {context.year}</h1>
   <p>Oficiálne zoznamy kandidátov pre voľby {data.elections[0]?.electionDate}.<SourceLink recordId="home-election-date" sourceIds={[...new Set(data.elections.flatMap((election) => election.sourceIds))]} sources={data.sources} /></p>

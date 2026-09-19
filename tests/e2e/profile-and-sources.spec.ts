@@ -5,8 +5,8 @@ import researchCoverage from '../../src/data/elections/2026/zilinsky-kraj/resear
 import sources from '../../src/data/sources.json' with { type: 'json' };
 import { isSafeOutboundSourceUrl } from '../../src/lib/source-url';
 
-const JAN_BLCHAC = 'jan-blchacing-phd';
-const PETER_BONKO = 'peter-bonkobc';
+const JAN_BLCHAC = 'jan-blchac';
+const PETER_BONKO = 'peter-bonko';
 const BASE = '/liptovsky-mikulas/2026/';
 const COMPLETE_SEARCHED_NONE_CANDIDATE = candidates.find((candidate) => candidate.id === 'candidate-71')?.slug;
 

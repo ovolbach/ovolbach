@@ -25,7 +25,7 @@ const candidacies = getOfficialCandidacies(data, candidateId);
 const electionHistory = summarizeElectionHistory(profile.claims);
 ---
 
-<BaseLayout title={`${profile.candidate.displayName} | ${context.cityName} ${context.year} | ovolbach.sk`} description={`Oficiálne údaje o kandidátovi ${profile.candidate.displayName}.`} context={context}>
+<BaseLayout title={`${profile.candidate.displayName} | ${context.cityName} ${context.year} | ovolbach.sk`} description={`Oficiálne údaje o kandidátovi ${profile.candidate.displayName}.`} context={context} personName={profile.candidate.displayName} breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Kandidáti', href: `${context.basePath}kandidati/` }, { label: profile.candidate.displayName, href: `${context.basePath}kandidat/${profile.candidate.slug}/` }]}>
   <article class="candidate-profile" data-candidate-profile data-candidate-id={profile.candidate.id}>
     <header>
       <h1>{profile.candidate.displayName}</h1>

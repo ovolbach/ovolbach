@@ -57,6 +57,21 @@ main {
   padding-block: var(--space-4);
 }
 
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem var(--space-1);
+  margin: 0 0 var(--space-3);
+  padding: 0;
+  list-style: none;
+  color: var(--color-muted);
+}
+
+.breadcrumbs li + li::before {
+  content: '›';
+  margin-right: var(--space-1);
+}
+
 h1,
 h2,
 h3 {
@@ -184,17 +199,17 @@ h3 {
 }
 
 .district-results > section,
-.candidate-catalogue > section,
+.candidate-catalogue > :is(section, div),
 .ballot-section {
   margin-block: var(--space-4);
 }
 
-[data-district] {
-  display: none;
+[data-district]:target {
+  scroll-margin-top: 1rem;
 }
 
-[data-district]:target {
-  display: block;
+body:has([data-district]:target) [data-district]:not(:target) {
+  display: none;
 }
 
 .district-selection-ready [data-district] {

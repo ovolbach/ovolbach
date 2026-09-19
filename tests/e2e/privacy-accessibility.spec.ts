@@ -38,7 +38,7 @@ test('search is keyboard usable, loads only on focus, and returns candidate and 
   await expect(input).toBeFocused();
   await input.fill('Milan POVA');
   await expect(page.locator('[data-search-status]')).toContainText('Výsledky hľadania');
-  await expect(page.getByRole('link', { name: /Milan POVA/i }).first()).toHaveAttribute('href', /\/liptovsky-mikulas\/2026\/kandidat\/milan-pova-ing\//);
+  await expect(page.getByRole('link', { name: /Milan POVA/i }).first()).toHaveAttribute('href', /\/liptovsky-mikulas\/2026\/kandidat\/milan-pova\//);
   await input.fill('Dátum vydania');
   const sourceResult = page.locator('[data-search-results] a[href^="/zdroje/"]').first();
   await expect(sourceResult).toBeVisible();

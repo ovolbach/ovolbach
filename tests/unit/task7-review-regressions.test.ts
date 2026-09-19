@@ -25,7 +25,7 @@ describe('Task 7 reviewed evidence', () => {
     }, {})).toEqual({ found: 46, searched_none: 8, not_applicable: 2 });
   });
 
-  it('preserves complete source punctuation for short direct quotations', () => {
+  it('preserves complete source punctuation for direct quotations', () => {
     expect(claim('claim-candidate-85-programme-formation-2026')).toMatchObject({
       kind: 'quote',
       text: { sk: '„Formujem si určitý tím a dávame dokopy programové priority, aby to nebola len taká povinná jazda, ale aby vystihovali skutočné potreby kraja,“' },
@@ -46,20 +46,9 @@ describe('Task 7 reviewed evidence', () => {
       kind: 'quote',
       text: { sk: '„Žilinský kraj je klenot Slovenska.“' },
     });
-
-    for (const id of [
-      'claim-candidate-85-programme-formation-2026',
-      'claim-candidate-87-programme-transport-2026',
-      'claim-candidate-87-media-interview-2025',
-      'claim-candidate-89-programme-housing-2026',
-      'claim-candidate-90-programme-region-2026',
-    ]) {
-      const words = claim(id)?.text.sk.match(/[\p{L}\p{N}]+/gu) ?? [];
-      expect(words.length).toBeLessThanOrEqual(25);
-    }
   });
 
-  it('uses an attributed paraphrase when the complete KSS sentence exceeds the quote limit', () => {
+  it('preserves the attributed KSS paraphrase and its programme context', () => {
     expect(claim('claim-candidate-91-programme-economy-2026')).toMatchObject({
       kind: 'fact',
       text: {

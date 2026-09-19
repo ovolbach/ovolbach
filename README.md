@@ -75,8 +75,10 @@ Schémy, väzby a redakčné obmedzenia sú definované v `src/lib/schemas.ts` a
 | `npm run check:storage` | overí, že web nepoužíva cookies ani úložisko prehliadača |
 | `npm run test:e2e` | spustí end-to-end testy v Playwright |
 | `npm run build` | validuje dáta a vytvorí produkčný web v `dist/` |
+| `npm run check:seo` | skontroluje metadáta, štruktúrované údaje, canonical a sitemap všetkých publikovaných stránok |
+| `npm run check:html` | overí každý súbor HTML v `dist/` pomocou W3C Nu Html Checker vrátane `404.html` |
 | `npm run preview` | lokálne zobrazí produkčný build |
-| `npm run verify` | spustí hlavné kontroly; `report:coverage` a `check:links` treba spustiť osobitne |
+| `npm run verify` | spustí testy, kontrolu vydania, build, SEO, HTML, úložiska, externých odkazov a E2E; `report:coverage` spustite osobitne |
 
 Pred prvým end-to-end testom môže byť potrebné nainštalovať Chromium:
 
@@ -92,6 +94,10 @@ npm run preview
 ```
 
 Priečinok `dist/` je generovaný výstup. Neukladá sa do Git repozitára a pri každom nasadení sa vytvorí znova.
+
+Kontrola HTML používa [oficiálny W3C Nu Checker](https://github.com/validator/validator/releases/tag/latest). Prvý beh stiahne príslušný balík Windows, Linux alebo macOS do ignorovaného priečinka `.superpowers/vnu/`; v ďalších behoch použije cache. V offline prostredí možno nastaviť `VNU_JAVA` na Java runtime z oficiálneho balíka alebo `VNU_JAR` na oficiálny `vnu.jar` pri dostupnej Jave 17+. `npm run build` vždy spustí kontrolu HTML a pri chybe alebo zlyhaní nástroja zlyhá. Celý výstup vrátane upozornení sa uloží do `test-results/html-validation.json`.
+
+SEO a kontrolný zoznam nasadenia sú v [docs/seo-launch.md](docs/seo-launch.md).
 
 ## Nasadenie na Elestio
 

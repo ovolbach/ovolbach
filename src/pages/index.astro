@@ -7,7 +7,7 @@ const contexts = await listPublishedElectionContexts();
 const snapshotDate = contexts.map((context) => context.snapshotDate).sort().at(-1)!;
 ---
 
-<BaseLayout title={SITE_TITLE} description="Katalóg komunálnych a krajských volieb podľa mesta a roku." snapshotDate={snapshotDate}>
+<BaseLayout title={SITE_TITLE} description="Katalóg komunálnych a krajských volieb podľa mesta a roku." snapshotDate={snapshotDate} pageKind="collection">
   <h1>Mestá a roky</h1>
   <p>Vyberte mesto a rok volieb. Staršie roky zostávajú dostupné ako archív.</p>
   <ul class="city-year-catalogue">

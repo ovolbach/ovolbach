@@ -18,7 +18,7 @@ const { mappings, action } = Astro.props;
   <button type="submit">Zobraziť</button>
 </form>
 <form class="district-selector__fallback" action={action} method="get" aria-label="Rýchly výber volebného obvodu">
-  <div class="district-selector__fallback" aria-label="Rýchly výber volebného obvodu">
+  <div class="district-selector__fallback">
     {mappings.map((mapping) => (
       <button
         type="submit"

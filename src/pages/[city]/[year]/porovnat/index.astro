@@ -14,7 +14,7 @@ const context = Astro.props.context as ElectionContext;
 const data = context.data;
 ---
 
-<BaseLayout title={`Porovnať kandidátov | ${context.cityName} ${context.year} | ovolbach.sk`} description="Porovnanie kandidátov v rovnakých zdrojovaných kategóriách." context={context}>
+<BaseLayout title={`Porovnať kandidátov | ${context.cityName} ${context.year} | ovolbach.sk`} description="Porovnanie kandidátov v rovnakých zdrojovaných kategóriách." context={context} breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Porovnať kandidátov', href: `${context.basePath}porovnat/` }]}>
   <h1>Porovnať kandidátov</h1>
   <p>Porovnanie zobrazuje rovnaké kategórie pri každom vybranom kandidátovi. Výber je iba v adrese stránky.</p>
   <ComparisonSelection basePath={context.basePath} />

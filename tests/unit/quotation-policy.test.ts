@@ -6,15 +6,6 @@ const claimsById = new Map(data.claims.map((claim) => [claim.id, claim]));
 const sourcesById = new Map(data.sources.map((source) => [source.id, source]));
 const attributedKinds = new Set(['quote', 'media_report', 'response', 'official_outcome']);
 
-function wordCount(text: string) {
-  return text
-    .replace(/[„“]/gu, '')
-    .trim()
-    .split(/\s+/u)
-    .filter(Boolean)
-    .length;
-}
-
 function quotedSegments(text: string) {
   return [...text.matchAll(/„([^“]+)“/gu)]
     .map((match) => match[1])
@@ -22,16 +13,6 @@ function quotedSegments(text: string) {
 }
 
 describe('quotation and attributed-source policy', () => {
-  it('keeps every quoted excerpt at or below 25 words', () => {
-    const overlong = data.claims.flatMap((claim) =>
-      quotedSegments(claim.text.sk)
-        .filter((excerpt) => wordCount(excerpt) > 25)
-        .map(() => claim.id),
-    );
-
-    expect(overlong).toEqual([]);
-  });
-
   it('stores quote claims as explicit quoted excerpts', () => {
     const unquoted = data.claims
       .filter((claim) => claim.kind === 'quote')

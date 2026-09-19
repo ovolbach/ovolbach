@@ -21,7 +21,7 @@ const districtsById = new Map(data.districts.map((district) => [district.id, dis
 const commonBallots = getBallotsForDistrict(data, districtMappings[0]!.internalId, context.regionalDistrictId).filter((ballot) => ballot.election.id !== 'city-council');
 ---
 
-<BaseLayout title={`Kandidáti | ${context.cityName} ${context.year} | ovolbach.sk`} description={`Oficiálne zoznamy kandidátov vo voľbách v meste ${context.cityName}.`} context={context}>
+<BaseLayout title={`Kandidáti | ${context.cityName} ${context.year} | ovolbach.sk`} description={`Oficiálne zoznamy kandidátov vo voľbách v meste ${context.cityName}.`} context={context} pageKind="collection" breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Kandidáti', href: `${context.basePath}kandidati/` }]}>
   <h1>Kandidáti</h1>
   <form class="election-selector" data-election-form>
     <label for="election">Voľby</label>
@@ -35,9 +35,9 @@ const commonBallots = getBallotsForDistrict(data, districtMappings[0]!.internalI
   <ComparisonSelection basePath={context.basePath} />
   <div class="candidate-catalogue">
     {commonBallots.map((ballot) => (
-      <section data-catalogue-election={ballot.election.id}>
+      <div data-catalogue-election={ballot.election.id}>
         <BallotSection ballot={ballot} sources={data.sources} headingLevel="h2" basePath={context.basePath} />
-      </section>
+      </div>
     ))}
     {districtMappings.map((mapping) => {
       const district = districtsById.get(mapping.internalId)!;

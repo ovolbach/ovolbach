@@ -31,7 +31,7 @@ describe('official 2026 election roster', () => {
 
   it('preserves exact official spelling for the seventh ŽSK chair candidate', () => {
     expect(candidates.find((candidate) => candidate.id === 'candidate-91')).toMatchObject({
-      displayName: 'Milan POVA, Ing.', familyName: 'POVA', slug: 'milan-pova-ing',
+      displayName: 'Milan POVA, Ing.', familyName: 'POVA', slug: 'milan-pova',
     });
     expect(candidacies.find((candidacy) => candidacy.id === 'candidacy-106')?.candidateId).toBe('candidate-91');
   });

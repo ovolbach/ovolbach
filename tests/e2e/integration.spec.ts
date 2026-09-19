@@ -99,7 +99,7 @@ test('comparison selection enforces four, synchronizes duplicate cards and resto
   await page.getByRole('link', { name: 'Ako voliť', exact: true }).first().click();
   await page.getByRole('link', { name: 'Porovnať', exact: true }).click();
   await expect(page.locator('[data-comparison-column]')).toHaveCount(4);
-  await page.getByRole('link', { name: 'Mestá a roky', exact: true }).click();
+  await page.getByRole('navigation', { name: 'Hlavná navigácia' }).getByRole('link', { name: 'Mestá a roky', exact: true }).click();
   expect(new URL(page.url()).searchParams.getAll('kandidat')).toEqual([]);
 });
 
@@ -135,7 +135,7 @@ test('search Enter preserves district, election and repeated comparison paramete
 });
 
 test('every page exposes snapshot and document type beside source links', async ({ page }) => {
-  for (const path of ['/', BASE, `${BASE}kandidati/`, `${BASE}porovnat/`, `${BASE}ako-volit/`, '/metodika/', '/zdroje/', `${BASE}kandidat/jan-blchacing-phd/`]) {
+  for (const path of ['/', BASE, `${BASE}kandidati/`, `${BASE}porovnat/`, `${BASE}ako-volit/`, '/metodika/', '/zdroje/', `${BASE}kandidat/jan-blchac/`]) {
     await page.goto(path);
     await expect(page.locator('[data-snapshot-date]')).toContainText('2026-09-18');
   }
@@ -145,10 +145,11 @@ test('every page exposes snapshot and document type beside source links', async 
 test('methodology publishes the quotation and copyright policy', async ({ page }) => {
   await page.goto('/metodika/');
   const policy = page.getByRole('region', { name: 'Citácie a autorské práva' });
-  await expect(policy).toContainText('krátke a presné');
-  await expect(policy).toContainText('pôvodné znenie a kontext');
+  await expect(policy).toContainText('presné a môžu byť aj dlhšie');
+  await expect(policy).toContainText('znenie a kontext v pôvodnom zdroji');
   await expect(policy).toContainText('autora');
   await expect(policy).toContainText('odkaz');
-  await expect(policy).toContainText('nereprodukujeme');
+  await expect(policy).toContainText('Nemáme pevný limit počtu slov');
+  await expect(policy).toContainText('autorským právom');
   await expect(policy).toContainText('GDPR');
 });

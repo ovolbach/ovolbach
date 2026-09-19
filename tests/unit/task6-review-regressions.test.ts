@@ -21,7 +21,7 @@ describe('Task 6 reviewed evidence', () => {
     });
   });
 
-  it('uses a complete verbatim campaign sentence within the quote limit', () => {
+  it('preserves the complete verbatim campaign sentence', () => {
     expect(claim('claim-candidate-60-programme-2026')).toMatchObject({
       kind: 'quote',
       text: { sk: '„Dôležitou témou je pre mňa aj ochrana zvierat a hľadanie praktických riešení pre harmonické spolužitie ľudí a zvierat vo verejnom priestore.“' },
