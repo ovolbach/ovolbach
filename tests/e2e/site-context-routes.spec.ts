@@ -18,9 +18,19 @@ test('city pages keep navigation, comparison and profiles within their own conte
     .toHaveAttribute('href', /\/liptovsky-mikulas\/2026\/kandidat\//);
 });
 
-test('obsolete city URLs are not generated', async ({ page }) => {
+test('obsolete catalogue URL is absent or redirects to the published city', async ({ page }) => {
   const response = await page.goto('/kandidati/');
-  expect(response?.status()).toBe(404);
+  const redirectedFrom = response?.request().redirectedFrom();
+
+  if (!redirectedFrom) {
+    expect(response?.status()).toBe(404);
+    return;
+  }
+
+  expect(redirectedFrom.url()).toMatch(/\/kandidati\/$/);
+  expect((await redirectedFrom.response())?.status()).toBe(301);
+  expect(response?.status()).toBe(200);
+  await expect(page).toHaveURL(/\/liptovsky-mikulas\/2026\/kandidati\/$/);
 });
 
 test('city navigation opens its own source register', async ({ page }) => {

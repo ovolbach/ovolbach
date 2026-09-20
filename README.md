@@ -41,7 +41,7 @@ Vývojový server Astro zobrazí lokálnu adresu v termináli.
 
 ## Mestá a roky
 
-Úvodná stránka `/` uvádza iba publikované mestá a roky. Sprievodca má adresu `/{mesto}/{rok}/`; katalóg kandidátov, profil, porovnanie, návod na voľbu a podrobný register zdrojov sú pod touto adresou. Staré adresy bez mesta a roku nemajú presmerovanie. Metodika je na `/metodika/`; `/zdroje/` slúži ako rozcestník registrov podľa mesta a roku.
+Úvodná stránka `/` uvádza iba publikované mestá a roky. Sprievodca má adresu `/{mesto}/{rok}/`; katalóg kandidátov, profil, porovnanie, návod na voľbu a podrobný register zdrojov sú pod touto adresou. Staré adresy bez mesta a roku statický výstup negeneruje; produkčný Nginx presmeruje vybrané historické adresy na aktuálny kontext. Metodika je na `/metodika/`; `/zdroje/` slúži ako rozcestník registrov podľa mesta a roku.
 
 Údaje jedného kraja a roka sú v `src/data/elections/{rok}/{kraj}/`. Osoby, tvrdenia a výskumné pokrytie sú v rámci cyklu spoločné; každý kandidát môže mať viac kandidatúr. `regional/config.json` určuje spoločné krajské voľby. `municipalities/{mesto}/config.json` určuje mestské voľby, mestské obvody, príslušný krajský obvod, stav `draft` alebo `published` a dátum overeného snímku. Zdrojový register `src/data/sources.json` je spoločný pre všetky cykly.
 
