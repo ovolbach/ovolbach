@@ -1,0 +1,161 @@
+import { readdir, readFile } from 'node:fs/promises';
+import { join, relative, resolve, sep } from 'node:path';
+import { SITE_URL } from '../src/config/site';
+
+const outputDir = resolve('dist');
+const origin = new URL(SITE_URL).origin;
+const errors: string[] = [];
+
+function fail(file: string, message: string): void {
+  errors.push(`${file}: ${message}`);
+}
+
+async function htmlFiles(dir: string): Promise<string[]> {
+  const entries = await readdir(dir, { withFileTypes: true });
+  const nested = await Promise.all(entries.map(async (entry) => {
+    const path = join(dir, entry.name);
+    return entry.isDirectory() ? htmlFiles(path) : path.endsWith('.html') ? [path] : [];
+  }));
+  return nested.flat().sort();
+}
+
+function attribute(tag: string, name: string): string | undefined {
+  const escaped = name.replace(/[.*+?^${}()|[\]\\]/gu, '\\$&');
+  return tag.match(new RegExp(`(?:^|\\s)${escaped}\\s*=\\s*(?:"([^"]*)"|'([^']*)')`, 'iu'))?.slice(1).find(Boolean);
+}
+
+function tags(html: string, tagName: string): string[] {
+  return [...html.matchAll(new RegExp(`<${tagName}\\b[^>]*>`, 'giu'))].map((match) => match[0]);
+}
+
+function meta(html: string, key: 'name' | 'property', value: string): string | undefined {
+  const matches = tags(html, 'meta').filter((tag) => attribute(tag, key) === value);
+  return matches.length === 1 ? attribute(matches[0]!, 'content') : undefined;
+}
+
+function expectedType(pathname: string): string {
+  if (pathname === '/metodika/') return 'AboutPage';
+  if (pathname === '/' || pathname === '/zdroje/' || /^\/[^/]+\/\d{4}\/(?:|kandidati\/|zdroje\/)$/u.test(pathname)) return 'CollectionPage';
+  return 'WebPage';
+}
+
+function routeFor(file: string): string {
+  const path = relative(outputDir, file).split(sep).join('/');
+  return path === 'index.html' ? '/' : `/${path.replace(/index\.html$/u, '')}`;
+}
+
+async function main(): Promise<void> {
+  if (process.argv[2] && process.argv[2] !== '--check') throw new Error(`Unknown mode: ${process.argv[2]}`);
+  const files = await htmlFiles(outputDir);
+  const titles = new Map<string, string>();
+  const descriptions = new Map<string, string>();
+  const canonicals: string[] = [];
+  let errorPageCount = 0;
+  let comparisonPageCount = 0;
+
+  for (const file of files) {
+    const route = routeFor(file);
+    const html = await readFile(file, 'utf8');
+    const label = relative(outputDir, file).split(sep).join('/');
+    const title = html.match(/<title>([^<]*)<\/title>/iu)?.[1];
+    const description = meta(html, 'name', 'description');
+    const h1Count = [...html.matchAll(/<h1\b/giu)].length;
+    if (attribute(tags(html, 'html')[0] ?? '', 'lang') !== 'sk') fail(label, 'html lang must be sk');
+    if (!title) fail(label, 'missing title');
+    if (!description) fail(label, 'missing description');
+    if (h1Count !== 1) fail(label, `expected one H1, found ${h1Count}`);
+    if (/\bhreflang\s*=/iu.test(html)) fail(label, 'hreflang is not applicable to the Slovak-only site');
+
+    const canonicalTags = tags(html, 'link').filter((tag) => attribute(tag, 'rel') === 'canonical');
+    const canonical = canonicalTags.length === 1 ? attribute(canonicalTags[0]!, 'href') : undefined;
+    if (route === '/404.html') {
+      errorPageCount += 1;
+      if (canonicalTags.length) fail(label, '404 page must not have a canonical');
+      if (meta(html, 'name', 'robots') !== 'noindex') fail(label, '404 page must be noindex');
+      if (!html.includes('legal-notice')) fail(label, '404 page lacks legal notice');
+      continue;
+    }
+    if (/^\/[^/]+\/\d{4}\/porovnat\/$/u.test(route)) {
+      comparisonPageCount += 1;
+      if (canonicalTags.length) fail(label, 'comparison tool must not have a canonical');
+      if (meta(html, 'name', 'robots') !== 'noindex,follow') fail(label, 'comparison tool must be noindex,follow');
+      if (!html.includes('legal-notice')) fail(label, 'comparison tool lacks legal notice');
+      continue;
+    }
+
+    const expectedCanonical = `${origin}${route}`;
+    if (canonical !== expectedCanonical) fail(label, `canonical must be ${expectedCanonical}`);
+    if (meta(html, 'name', 'robots')?.includes('noindex')) fail(label, 'indexable page has noindex');
+    if (title) {
+      if (titles.has(title)) fail(label, `duplicate title with ${titles.get(title)}`);
+      titles.set(title, label);
+      if (route.includes('/kandidat/') && title.length > 60) fail(label, `candidate title is ${title.length} characters`);
+    }
+    if (description) {
+      if (descriptions.has(description)) fail(label, `duplicate description with ${descriptions.get(description)}`);
+      descriptions.set(description, label);
+      if (route.includes('/kandidat/') && description.length > 165) fail(label, `candidate description is ${description.length} characters`);
+    }
+
+    for (const [key, value] of [
+      ['og:title', title], ['og:description', description], ['og:url', expectedCanonical],
+      ['og:image', `${origin}/og-default.png`], ['og:locale', 'sk_SK'],
+    ]) {
+      if (meta(html, 'property', key!) !== value) fail(label, `missing or incorrect ${key}`);
+    }
+    if (meta(html, 'name', 'twitter:card') !== 'summary_large_image') fail(label, 'missing Twitter card');
+    if (meta(html, 'name', 'twitter:title') !== title) fail(label, 'incorrect Twitter title');
+    if (meta(html, 'name', 'twitter:description') !== description) fail(label, 'incorrect Twitter description');
+
+    const jsonLd = html.match(/<script\b[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/iu)?.[1];
+    if (!jsonLd) fail(label, 'missing JSON-LD');
+    else {
+      try {
+        const data = JSON.parse(jsonLd) as { '@context'?: string; '@graph'?: Array<{ '@type'?: string; '@id'?: string; url?: string; name?: string; about?: { '@id'?: string } }> };
+        const graph = data['@graph'] ?? [];
+        const page = graph.find((node) => node.url === expectedCanonical && node['@type'] === expectedType(route));
+        if (data['@context'] !== 'https://schema.org' || !page) fail(label, 'JSON-LD page type or URL does not match HTML');
+        if (graph.some((node) => node['@type'] === 'ProfilePage')) fail(label, 'unsupported ProfilePage markup');
+        if (route === '/' && !graph.some((node) => node['@type'] === 'WebSite')) fail(label, 'homepage lacks WebSite markup');
+        if (route.includes('/kandidat/')) {
+          const personId = `${expectedCanonical}#person`;
+          if (page?.about?.['@id'] !== personId
+            || !graph.some((node) => node['@type'] === 'Person' && node['@id'] === personId && node.url === expectedCanonical)) {
+            fail(label, 'candidate page lacks linked Person subject');
+          }
+        }
+        if (route !== '/' && !graph.some((node) => node['@type'] === 'BreadcrumbList')) fail(label, 'interior page lacks breadcrumbs');
+      } catch {
+        fail(label, 'invalid JSON-LD');
+      }
+    }
+    canonicals.push(expectedCanonical);
+  }
+
+  if (errorPageCount !== 1) fail('404.html', `expected one custom 404 page, found ${errorPageCount}`);
+  if (comparisonPageCount === 0) fail('comparison', 'expected a noindex comparison tool');
+  const robots = await readFile(join(outputDir, 'robots.txt'), 'utf8').catch(() => '');
+  if (!robots.includes(`Sitemap: ${origin}/sitemap.xml`)) fail('robots.txt', 'missing sitemap directive');
+  const llms = await readFile(join(outputDir, 'llms.txt'), 'utf8').catch(() => '');
+  if (!llms.includes(`${origin}/metodika/`) || !llms.includes(`${origin}/zdroje/`)) fail('llms.txt', 'missing methodology or sources link');
+  await readFile(join(outputDir, 'og-default.png')).catch(() => fail('og-default.png', 'missing social image'));
+
+  const urls = [...new Set(canonicals)].sort();
+  if (urls.length !== canonicals.length) fail('sitemap.xml', 'duplicate canonical URL');
+  if (errors.length) {
+    console.error(errors.slice(0, 30).join('\n'));
+    if (errors.length > 30) console.error(`... and ${errors.length - 30} more errors`);
+    throw new Error(`SEO audit failed: ${errors.length} issue(s)`);
+  }
+
+  const sitemapPath = join(outputDir, 'sitemap.xml');
+  const sitemap = await readFile(sitemapPath, 'utf8').catch(() => '');
+  const found = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/gu)].map((match) => match[1]);
+  if (found.length !== urls.length || found.some((url, index) => url !== urls[index])) throw new Error('sitemap.xml does not match indexable canonical HTML pages');
+  console.log(`SEO audit passed: ${urls.length} canonical indexable pages, ${comparisonPageCount} noindex comparison tool(s), 1 noindex 404`);
+}
+
+main().catch((error: unknown) => {
+  console.error(error);
+  process.exitCode = 1;
+});

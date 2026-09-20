@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { CORRECTIONS_EMAIL } from '../config/site';
+---
+
+<BaseLayout title="Metodika | ovolbach.sk" description="Zdrojové, redakčné a súkromné pravidlá ovolbach.sk." pageKind="about" breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: 'Metodika', href: '/metodika/' }]}>
+  <article class="methodology">
+    <h1>Metodika</h1>
+    <h2>Zdroje a aktualizácie</h2>
+    <p>Prednosť majú oficiálne volebné dokumenty a rozhodnutia verejných orgánov. Nasledujú pôvodné verejné dokumenty, priame vyjadrenia kandidátov a dôveryhodné médiá. Každý zobrazený údaj, citát a odkaz vedie na konkrétny pôvodný zdroj; pri zdroji uvádzame vydavateľa, dátum vydania, ak je známy, a dátum overenia.</p>
+    <p>Údaje boli skontrolované ku dňu uvedenému v hornej časti stránky. Opravu, doplnenie alebo žiadosť o odstránenie pošlite na <a href={`mailto:${CORRECTIONS_EMAIL}`}>{CORRECTIONS_EMAIL}</a>. Overiteľnú opravu zapracujeme s uvedením zdroja a opravíme aj súvisiace zobrazenia.</p>
+    <h2>Stav pokrytia</h2>
+    <p>„Údaje sa overujú.“ znamená, že kontrola ešte prebieha. „Vo verejne dostupných zdrojoch sa údaj nenašiel.“ neznamená, že údaj neexistuje. „Údaj sa na kandidáta nevzťahuje.“ označuje nepoužiteľnú kategóriu. Tieto stavy nie sú hodnotením kandidáta.</p>
+    <section aria-labelledby="quotation-policy">
+      <h2 id="quotation-policy">Citácie a autorské práva</h2>
+      <p>Citácie sú presné a môžu byť aj dlhšie, keď overíme ich znenie a kontext v pôvodnom zdroji. Uvádzame autora, ak je známy, vydavateľa a odkaz na zdroj. Nemáme pevný limit počtu slov; ak text skrátime v rozhraní kvôli čitateľnosti, celý uverejnený citát zostane dostupný. Rozsah citácie musí byť dovolený autorským právom, licenciou alebo súhlasom. Pri citovaní a spracúvaní osobných údajov rešpektujeme autorské práva a pravidlá GDPR.</p>
+    </section>
+    <h2>Identita, jazyk a obrázky</h2>
+    <p>Osoby spájame iba pri zhode v oficiálnom zozname kandidátov alebo pri dostatočne overiteľnej kombinácii mena a ďalších identifikačných údajov. Pri neistej zhode údaje nepriraďujeme. Slovenské znenie je pôvodné; prípadné anglické preklady budú označené ako budúce preklady. Ruskú jazykovú verziu nepublikujeme.</p>
+    <p>Obrázky používame iba s overeným oprávnením alebo licenciou a pri použití uvádzame pôvod a licenčné podmienky.</p>
+    <h2>Súkromie a nestrannosť</h2>
+    <p>Web neukladá voľbu kandidátov ani žiadne údaje v prehliadači alebo na serveri. Výber pri porovnaní zostáva iba v adrese stránky.</p>
+    <p>Web nehodnotí ani neodporúča kandidátov. Nepoužíva skóre, poradia, víťazov, odznaky, sentiment ani odporúčania; zobrazuje len oddeliteľné zdrojované údaje v rovnakých kategóriách.</p>
+  </article>
+</BaseLayout>

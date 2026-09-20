@@ -1,0 +1,336 @@
+[
+  {
+    "id": "2026-lm-city-1",
+    "kind": "city",
+    "number": 1,
+    "name": "Volebný obvod č. 1",
+    "seats": 4,
+    "areas": [
+      "Ulice 1. mája, Bernolákova, Belopotockého súp. č. 720, Bottova, Čsl. brigády, Druhá, Družstevná, Ester Šimerovej Martinčekovej, Garbiarska, Guothova, Hollého, Hriadky, Hurbanova, Hviezdoslavova, J. Rumana, Jánošíkovo nábrežie, Jesenského, Jilemnického, Kolomana Sokola, Komenského, Kpt. Nálepku, Kukučínova, Kuzmányho, M. M. Hodžu, M. Pišúta, Majeríkova, Martina Martinčeka, Moyzesova, Námestie mieru, Námestie osloboditeľov, Pod stráňami okrem súp. č. 812, 1099 a 1100, Podtatranského, Prídavky, Prvá, Sládkovičova, Stodolova, Stráne, Školská, Šoltésovej, Štefánikova okrem súp. č. 1509 a 1780, Štúrova, Tomášikova, Tranovského, Tretia, Zápotockého a občania s trvalým pobytom: mesto L. Mikuláš."
+    ],
+    "pollingStations": [
+      {
+        "number": 1,
+        "coverage": "Mestská časť Staré Mesto: Hurbanova súp. č. 1490, 1491, 1494, 1496, 1498, 1523; Jesenského súp. č. 222, 308, 727, 728, 729; Majeríkova súp. č. 741, 742, 1244, 1416, 1484; Štefánikova okrem súp. č. 1509 a 1780.",
+        "address": "Gymnázium M. M. Hodžu, M. M. Hodžu 860",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 2,
+        "coverage": "Mestská časť Staré Mesto: Bottova, Hurbanova súp. č. 380, 862, 1184, 1218, 1243, 1410, 1642, 2073, 2074; Jánošíkovo nábrežie, Jesenského súp. č. 1314, 1315, 1398, Jilemnického, Komenského, M. M. Hodžu súp. č. 34, 860, 1209, 1215, 4737, Majeríkova súp. č. 1210, 1215, 1397, Štúrova súp. č. 775, 870, 1349, 1610, 4255 a občania s trvalým pobytom: mesto L. Mikuláš.",
+        "address": "Gymnázium M. M. Hodžu, M. M. Hodžu 860",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 3,
+        "coverage": "Mestská časť Staré Mesto: Belopotockého súp. č. 720, Bernolákova, Ester Šimerovej Martinčekovej, Garbiarska, Hollého, J. Rumana, Kolomana Sokola, Kukučínova, M. Pišúta, M. M. Hodžu súp. č. 17, 18, 24, 1167, 1634, 3326, 4058, 4396, Martina Martinčeka, Moyzesova, Námestie mieru, Námestie osloboditeľov, Pod stráňami okrem súp. č. 812, 1099 a 1100, Podtatranského orient. č. 1–16, Prídavky, Stráne, Štúrova súp. č. 801, 803, 804, 805, 806, 808, 1171, 1793, 1968, 2341, 4330, Tomášikova, Veľké lúky.",
+        "address": "Gymnázium M. M. Hodžu, M. M. Hodžu 860",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 4,
+        "coverage": "Mestská časť Staré Mesto: Čsl. brigády – nepárne orient. čísla, Hriadky, Hviezdoslavova, Kuzmányho, Podtatranského orient. č. 18–75, Sládkovičova, Školská, Šoltésovej, Tranovského okrem súp. č. 111, Zápotockého.",
+        "address": "Základná škola Miloša Janošku, Čsl. brigády 1174/4",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 5,
+        "coverage": "Mestská časť Staré Mesto: 1. mája od Námestia osloboditeľov po ul. Kpt. Nálepku, Čsl. brigády párne orient. čísla, Stodolova, Tranovského súp. č. 111.",
+        "address": "Základná škola Miloša Janošku, Čsl. brigády 1174/4",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 6,
+        "coverage": "Mestská časť Staré Mesto: Druhá, Družstevná, Guothova, Kpt. Nálepku, Prvá, Tretia, 1. mája od ul. Kpt. Nálepku po most v Okoličnom.",
+        "address": "Internát OU, 1. mája 1680",
+        "sourceId": "lm-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "lm-city-districts-2026",
+      "lm-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-lm-city-2",
+    "kind": "city",
+    "number": 2,
+    "name": "Volebný obvod č. 2",
+    "seats": 7,
+    "areas": [
+      "Ulice Alexyho, Bellova, Belopotockého okrem súp. čísla 720, Björnsonova, Borbisova, Demänovská cesta súp. č. 865, Hlboké, J. Dudu, J. Volka Starohorského, Jura Janošku, Kamenné pole, Kmeťova, Kollárova, Krátka, Majerská, Nábrežie 4. apríla, Nábrežie Dr. A. Stodolu, Nábrežie Janka Kráľa, Nešporova, Nová, Partizánov, Pltnícka, Poľnohospodárska, Priemyselná, Rázusova, Socháňova, Športová, Vajanského, Vansovej, Vrbická, Vrlíkova, Za Havlovci a Zg. Vrbického."
+    ],
+    "pollingStations": [
+      {
+        "number": 7,
+        "coverage": "Mestská časť Vrbica-Nábrežie: Alexyho, Björnsonova, Borbisova – severná strana, J. Dudu, Jura Janošku – východná strana, Krátka, Nešporova, Nová, Priemyselná, Socháňova.",
+        "address": "Dom Matice slovenskej, Nábrežie Dr. A. Stodolu 1918/78",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 8,
+        "coverage": "Mestská časť Vrbica-Nábrežie: Borbisova – južná strana a súp. č. 1958, 1969; Nábrežie Dr. A. Stodolu súp. č. 1567 (A-1), 1574 (A-2), 1575 (A-3), 1580 (B-1), 1584 (B-2), 1585 (B-3), 1686 (D-1), 1747 (D-2).",
+        "address": "ZŠ Nábrežie Dr. A. Stodolu, Nábrežie Dr. A. Stodolu 1863/49",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 9,
+        "coverage": "Mestská časť Vrbica-Nábrežie: Nábrežie Dr. A. Stodolu súp. č. 1681 (C-1), 1734 (C-2), 1749 (C-3), 1778 (E-1), 1785 (E-2), 1786 (E-3), 1796 (F-1), 1797 (F-2).",
+        "address": "ZŠ Nábrežie Dr. A. Stodolu, Nábrežie Dr. A. Stodolu 1863/49",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 10,
+        "coverage": "Mestská časť Vrbica-Nábrežie: Majerská súp. č. 4332, Nábrežie Dr. A. Stodolu súp. č. 1808 (F-3), 1799 (G-1), 1177; Vrbická súp. č. 1883 (K-1, K-2) a 4250; Vrlíkova súp. č. 1884 (M).",
+        "address": "ZŠ Nábrežie Dr. A. Stodolu, Nábrežie Dr. A. Stodolu 1863/49",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 11,
+        "coverage": "Mestská časť Vrbica-Nábrežie: Belopotockého okrem súp. č. 720, Demänovská cesta súp. č. 865, Hlboké, J. Volka Starohorského, Kamenné pole, Kmeťova, Nábrežie 4. apríla súp. č. 1833 (H), 1837 (I-1), 1844 (I-2), 1859 (I-3), 1860 (I-4), 1861 (I-5), 1868 (L), 1040, 1936, 1998, 4066, 1986, Nábrežie Janka Kráľa, Partizánov, Pltnícka, Poľnohospodárska, Športová, Vajanského, Vrlíkova okrem súp. č. 1884 (M).",
+        "address": "ZŠ M. R. Martákovej, Nábrežie 4. apríla 1936/23",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 12,
+        "coverage": "Mestská časť Vrbica-Nábrežie: Jura Janošku – západná strana, Rázusova, Vrbická okrem súp. č. 1883 (K-1, K-2), 4250 a 4329, Za Havlovci, Zg. Vrbického.",
+        "address": "ZŠ M. R. Martákovej, Nábrežie 4. apríla 1936/23",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 13,
+        "coverage": "Mestská časť Vrbica-Nábrežie: Bellova, Kollárova, Vansovej, Vrbická 4329/1A.",
+        "address": "ZŠ M. R. Martákovej, Nábrežie 4. apríla 1936/23",
+        "sourceId": "lm-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "lm-city-districts-2026",
+      "lm-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-lm-city-3",
+    "kind": "city",
+    "number": 3,
+    "name": "Volebný obvod č. 3",
+    "seats": 7,
+    "areas": [
+      "Podbreziny, mestská časť Vitálišovce, mestská časť Svätý Štefan."
+    ],
+    "pollingStations": [
+      {
+        "number": 14,
+        "coverage": "Podbreziny: Agátová súp. č. 498, Smrečianska, Za traťou, Žiarska súp. č. 601, 602, 603, 604, 635, 636, 679.",
+        "address": "ZŠ J. Kráľa Podbreziny, Žiarska 679/13",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 15,
+        "coverage": "Podbreziny: Cédrová, Dubová, Priebežná súp. č. 489, 492.",
+        "address": "ZŠ J. Kráľa Podbreziny, Žiarska 679/13",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 16,
+        "coverage": "Podbreziny: Agátová súp. č. 485, Brezová, Priebežná súp. č. 484, 486.",
+        "address": "ZŠ J. Kráľa Podbreziny, Žiarska 679/13",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 17,
+        "coverage": "Podbreziny: Jabloňová, Lipová, Morušová súp. č. 517, 522, Pod slivkou súp. č. 519, 520; Vitálišovce: Brezie, Mojšova, Nad Brezím, Vitálišovská, Zadná, Zemianska, Žiarska súp. č. 19, 20, 178, 197, 211, 701, 820, 836, 1037, 1047, 1053, 1055, 1086; Svätý Štefan.",
+        "address": "ZŠ J. Kráľa Podbreziny, Žiarska 679/13",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 18,
+        "coverage": "Podbreziny: Gaštanová, Hrušková, Morušová súp. č. 523, 524, Pod slivkou súp. č. 512.",
+        "address": "ZŠ J. Kráľa Podbreziny, Žiarska 679/13",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 19,
+        "coverage": "Podbreziny: Hradišská súp. č. 626, Jahodová, Jefremovská súp. č. 613, 614, Lounská.",
+        "address": "ZŠ J. Kráľa Podbreziny, Žiarska 679/13",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 20,
+        "coverage": "Podbreziny: Hradišská súp. č. 627, Jefremovská súp. č. 632, 633, 634, Kemi.",
+        "address": "ZŠ J. Kráľa Podbreziny, Žiarska 679/13",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 21,
+        "coverage": "Podbreziny: Opavská, Senická.",
+        "address": "ZŠ J. Kráľa Podbreziny, Žiarska 679/13",
+        "sourceId": "lm-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "lm-city-districts-2026",
+      "lm-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-lm-city-4",
+    "kind": "city",
+    "number": 4,
+    "name": "Volebný obvod č. 4",
+    "seats": 1,
+    "areas": [
+      "Mestská časť Okoličné, mestská časť Stošice."
+    ],
+    "pollingStations": [
+      {
+        "number": 22,
+        "coverage": "Mestská časť Okoličné: 3. februára, Cintorínska, Gazdovská, Kláštorná, Mateja Linčovského, Mierová, Ohradná, Okoličianska, Pálenická, Pobrežná, Podbrezinská, Riečna, Sihoťská, Smrečianska, Staničná, Za mostom; mestská časť Stošice: Agrárna, Lúčna, Margarétkova, Medovková, Nevädzova, Pod horou, Podbeľová, Podhoranská, Poľná, Púpavova, Sadová, Stojšova, Stošická, Šalviová, Vrchhrádok, Zalomená.",
+        "address": "ZŠ Okoličné, Okoličianska 404/10",
+        "sourceId": "lm-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "lm-city-districts-2026",
+      "lm-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-lm-city-5",
+    "kind": "city",
+    "number": 5,
+    "name": "Volebný obvod č. 5",
+    "seats": 1,
+    "areas": [
+      "Mestská časť Iľanovo, mestská časť Ploštín."
+    ],
+    "pollingStations": [
+      {
+        "number": 23,
+        "coverage": "Mestská časť Iľanovo: 4. apríla, Iľanovská, Krajná, Ploštínska, Ponad ohrady, Porubská, Trstica, Za vodou.",
+        "address": "Kultúrny dom Iľanovo, Iľanovská 54/53",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 24,
+        "coverage": "Mestská časť Ploštín: Do cintorína, Hlavná, Malé pole, Na kút, Palesáky, Pod cestou, Podsádočné, Rovná, Tretiny, Vŕšok, Výhon, Za ulicou, Za školou.",
+        "address": "Kultúrny dom Ploštín, Na kút 74/2",
+        "sourceId": "lm-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "lm-city-districts-2026",
+      "lm-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-lm-city-6",
+    "kind": "city",
+    "number": 6,
+    "name": "Volebný obvod č. 6",
+    "seats": 1,
+    "areas": [
+      "Mestská časť Demänová, mestská časť Bodice."
+    ],
+    "pollingStations": [
+      {
+        "number": 25,
+        "coverage": "Mestská časť Demänová: Alexandra Kubíniho, Armádna, Daniela Šlachtu, Dechtárska, Demänovská cesta, Dlhá, Dlžiny, Igora Rumanského, Kút, Michalovská, Mládeže, Mlynisko, Obchodná, Odbojárska, P. J. Kerna, Pod dubom, Pod Sitieňom, Rovnosti, Široká, Trávniky, Za štadiónom.",
+        "address": "ZŠ s MŠ na ul. P. J. Kerna v Demänovej",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 26,
+        "coverage": "Mestská časť Bodice: Bodická, Cez vody, K vode, Lazná, Pod brehom, Potočná.",
+        "address": "Kultúrny dom Bodice, Bodická 67/44",
+        "sourceId": "lm-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "lm-city-districts-2026",
+      "lm-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-lm-city-7",
+    "kind": "city",
+    "number": 7,
+    "name": "Volebný obvod č. 7",
+    "seats": 3,
+    "areas": [
+      "Mestská časť Palúdzka, mestská časť Andice, mestská časť Benice."
+    ],
+    "pollingStations": [
+      {
+        "number": 27,
+        "coverage": "Mestská časť Palúdzka – východ: A. Kostolného, Budovateľská, Demänovská, Glejárska, Chrenoviská, Jána Švermu, Lesnícka, Malý Rím, Mlynská, Palučanská od mosta cez Váh po Demänovskú ul., Parková, Petrovičovo nábrežie, SNP, V Luhoch, Za Luhami, Za mlynom, Zádvorie, Žuffova.",
+        "address": "ZŠ s MŠ Palúdzka, Demänovská 408/4A",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 28,
+        "coverage": "Mestská časť Palúdzka – západ: Alfonza Gromu, Aloisa Lutonského, Antona Droppu, Baranovská, Branislava Lichardusa, Družby, Dušana Pálku, Eduarda Balla, Eduarda Penkalu, Františka Klimeša, J. M. Oberuča, Jánošíkova, Júliusa Lenka, Kokavcova, Kurucká, Ladislava Čemického, Ladislava Hanusa, Mikuláša Štalmacha, Námestie SNP, Okružná, Osadná, Palugayho, Pavla Štraussa, Priehradná, Sone Kovačevičovej, Vladimíra Kunu, Vranov, Za Bocianom, Za pastierňou.",
+        "address": "Kultúrny dom Palúdzka, Palúčanská 350/24",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 29,
+        "coverage": "Mestská časť Palúdzka – západ: Palučanská od Demänovskej ul. smerom na západ, Pavla Vilikovského.",
+        "address": "Kultúrny dom Palúdzka, Palúčanská 350/24",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 30,
+        "coverage": "Mestská časť Andice: Andická; mestská časť Benice: Benická, Na ohrad, Pod hájikom, Za humnami.",
+        "address": "Kultúrny dom Benice, Benická 17/19",
+        "sourceId": "lm-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "lm-city-districts-2026",
+      "lm-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-lm-city-8",
+    "kind": "city",
+    "number": 8,
+    "name": "Volebný obvod č. 8",
+    "seats": 1,
+    "areas": [
+      "Mestská časť Liptovská Ondrašová, Ráztoky."
+    ],
+    "pollingStations": [
+      {
+        "number": 31,
+        "coverage": "Mestská časť Liptovská Ondrašová: Hony, Medze, Mincova, Obrcianova, Ondrašovská od ulice Roľnícka smerom na Bobrovec, Pod Dielom, Požiarnická, Role, Roľnícka.",
+        "address": "Kultúrny dom Lipt. Ondrašová, Ružičkova 97/14",
+        "sourceId": "lm-city-polling-2026"
+      },
+      {
+        "number": 32,
+        "coverage": "Mestská časť Liptovská Ondrašová: Boltižiarova, Dušana Kováča, Hrdinov SNP, Lidická, Matejkova, Matúškova, Mišíkova, Mútnik, Ondrašovská od Ráztockej po ulicu Roľnícka, Ondrejova, Pod Čerencom, Pod stráňami 812, 1099, 1100 a 1233, Pongrácovská, Prekopaná, Ráztocká, Revolučná, Ružičkova, S. B. Hroboňa, Slnečná, Štefánikova 1509 a 1780, Tatranská, Tehelná, Tehliarska, Za poštou, Záhradná; mestská časť Ráztoky.",
+        "address": "Kultúrny dom Lipt. Ondrašová, Ružičkova 97/14",
+        "sourceId": "lm-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "lm-city-districts-2026",
+      "lm-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-zsk-region-5",
+    "kind": "region",
+    "number": 5,
+    "name": "Volebný obvod č. 5",
+    "seats": 6,
+    "areas": [
+      "Územie okresu Liptovský Mikuláš."
+    ],
+    "pollingStations": [],
+    "sourceIds": [
+      "zsk-districts-seats-2026"
+    ]
+  }
+]

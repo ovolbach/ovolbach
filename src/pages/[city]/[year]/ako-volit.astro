@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SourceLink from '../../../components/SourceLink.astro';
+import { listPublishedElectionContexts, type ElectionContext } from '../../../lib/load-guide-data';
+
+export async function getStaticPaths() {
+  return (await listPublishedElectionContexts()).map((context) => ({
+    params: { city: context.citySlug, year: String(context.year) }, props: { context },
+  }));
+}
+
+const context = Astro.props.context as ElectionContext;
+const data = context.data;
+const election = (id: string) => data.elections.find((item) => item.id === id)!;
+const regionalDistrict = data.districts.find((item) => item.id === context.regionalDistrictId)!;
+const cityDistricts = data.districts.filter((item) => item.kind === 'city').sort((a, b) => a.number - b.number);
+const cityCouncil = election('city-council');
+const mayor = election('mayor');
+const regionChair = election('region-chair');
+const regionCouncil = election('region-council');
+const ballotCount = data.elections.length;
+const ballotSummarySourceIds = [...new Set(data.elections.flatMap((item) => item.sourceIds))];
+---
+
+<BaseLayout title={`Ako voliť | ${context.cityName} ${context.year} | ovolbach.sk`} description={`Praktický prehľad hlasovacích lístkov v meste ${context.cityName} v roku ${context.year}.`} context={context} breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Ako voliť', href: `${context.basePath}ako-volit/` }]}>
+  <article class="voting-guide">
+    <h1>Ako voliť</h1>
+    <p data-guide-ballot-info>V týchto súbežných voľbách dostanete <strong>{ballotCount} hlasovacie lístky</strong>.<SourceLink recordId="guide-ballot-info" sourceIds={ballotSummarySourceIds} sources={data.sources} /></p>
+    <ol>
+      <li data-guide-ballot>
+        <h2>{mayor.title.sk}</h2>
+        <p>{mayor.maxSelections} hlas pre primátora mesta {context.cityName}.</p>
+        <SourceLink recordId="guide-mayor" sourceIds={mayor.sourceIds} sources={data.sources} />
+      </li>
+      <li data-guide-ballot>
+        <h2>{cityCouncil.title.sk}</h2>
+        <p>Počet hlasov: podľa počtu mandátov vo vašom mestskom volebnom obvode.</p>
+        <p>Mestské obvody majú {cityDistricts.map((district) => `${district.number}.: ${district.seats}`).join(', ')} mandátov.</p>
+        <SourceLink recordId="guide-city-council" sourceIds={cityDistricts.flatMap((district) => district.sourceIds)} sources={data.sources} />
+      </li>
+      <li data-guide-ballot>
+        <h2>{regionChair.title.sk}</h2>
+        <p>{regionChair.maxSelections} hlas pre predsedu samosprávneho kraja ({context.regionName}).</p>
+        <SourceLink recordId="guide-region-chair" sourceIds={regionChair.sourceIds} sources={data.sources} />
+      </li>
+      <li data-guide-ballot>
+        <h2>{regionCouncil.title.sk}</h2>
+        <p>Vo volebnom obvode č. {regionalDistrict.number} môžete označiť najviac {regionalDistrict.seats} kandidátov.</p>
+        <SourceLink recordId="guide-region-council" sourceIds={[...regionCouncil.sourceIds, ...regionalDistrict.sourceIds]} sources={data.sources} />
+      </li>
+    </ol>
+    <p>Oficiálne materiály vedú voľbu primátora mesta {context.cityName} a osobitné mestské volebné obvody pre voľby do mestského zastupiteľstva.<SourceLink recordId="guide-city-structure" sourceIds={[...mayor.sourceIds, ...cityDistricts.flatMap((district) => district.sourceIds)]} sources={data.sources} /></p>
+    <section aria-labelledby="polling-places">
+      <h2 id="polling-places">Volebné miestnosti</h2>
+      <p>Vyhľadajte svoju ulicu alebo mestskú časť v rozpise okrskov.</p>
+      <nav aria-label="Volebné miestnosti podľa obvodu">
+        <ul>{cityDistricts.map((district) => <li><a href={`#miestnosti-obvod-${district.number}`}>{district.name}</a></li>)}</ul>
+      </nav>
+      {cityDistricts.map((district) => (
+        <section id={`miestnosti-obvod-${district.number}`} data-polling-district>
+          <h3>{district.name}</h3>
+          <SourceLink recordId={district.id} sourceIds={district.sourceIds} sources={data.sources} />
+          <ul>
+            {district.pollingStations.slice().sort((a, b) => a.number - b.number).map((station) => (
+              <li class="polling-station" data-polling-station={station.number}>
+                <h4>Volebný okrsok č. {station.number}</h4>
+                <dl>
+                  <dt>Volebná miestnosť</dt><dd>{station.address}</dd>
+                  <dt>Ulice a územie</dt><dd>{station.coverage}</dd>
+                </dl>
+                <SourceLink recordId={`${district.id}-station-${station.number}`} sourceIds={[station.sourceId]} sources={data.sources} />
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </section>
+  </article>
+</BaseLayout>

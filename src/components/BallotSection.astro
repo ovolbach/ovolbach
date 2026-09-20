@@ -1,0 +1,33 @@
+---
+import CandidateCard from './CandidateCard.astro';
+import { getBallotSelectionLimit, type BallotView } from '../lib/selectors';
+import SourceLink from './SourceLink.astro';
+import type { Source } from '../lib/schemas';
+
+interface Props {
+  ballot: BallotView;
+  sources: Source[];
+  headingLevel?: 'h2' | 'h3';
+  basePath: string;
+}
+
+const { ballot, sources, basePath } = Astro.props;
+const Heading = Astro.props.headingLevel ?? 'h3';
+const candidateHeadingLevel = Heading === 'h2' ? 'h3' : 'h4';
+const limit = getBallotSelectionLimit(ballot);
+---
+
+<section class="ballot-section" data-ballot-section data-ballot-id={ballot.election.id} data-election={ballot.election.id}>
+  <Heading>{ballot.election.title.sk}</Heading>
+  <p data-ballot-limit>
+    {ballot.district?.kind === 'region' && <>{ballot.district.name}: {ballot.district.areas.join(' ')}<br /></>}
+    Najviac označených kandidátov: {limit}.
+    <SourceLink recordId={ballot.election.id} sourceIds={ballot.election.sourceIds} sources={sources} />
+    {ballot.district && <SourceLink recordId={ballot.district.id} sourceIds={ballot.district.sourceIds} sources={sources} />}
+  </p>
+  {ballot.candidates.length > 0 ? (
+    <div class="candidate-list">
+      {ballot.candidates.map((record) => <CandidateCard record={record} sources={sources} basePath={basePath} headingLevel={candidateHeadingLevel} />)}
+    </div>
+  ) : <p>V oficiálnom zozname nie je žiadny kandidát.</p>}
+</section>

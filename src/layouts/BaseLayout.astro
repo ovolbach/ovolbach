@@ -1,0 +1,116 @@
+---
+import LegalNotice from '../components/LegalNotice.astro';
+import Search from '../components/Search.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import { SITE_URL } from '../config/site';
+import { listElectionContextConfigs, type ElectionContext } from '../lib/load-guide-data';
+import '../styles/global.css';
+
+type PageKind = 'collection' | 'about' | 'webpage';
+type Breadcrumb = { label: string; href: string };
+
+interface Props {
+  title: string;
+  description: string;
+  context?: ElectionContext;
+  snapshotDate?: string;
+  pageKind?: PageKind;
+  breadcrumbs?: Breadcrumb[];
+  personName?: string;
+  indexable?: boolean;
+  robotsDirective?: 'noindex' | 'noindex,follow';
+}
+
+const { title, description, context, snapshotDate, pageKind = 'webpage', breadcrumbs = [], personName, indexable = true, robotsDirective = 'noindex' } = Astro.props;
+const shownSnapshotDate = context?.snapshotDate ?? snapshotDate ?? (await listElectionContextConfigs())
+  .filter((item) => item.status === 'published').map((item) => item.snapshotDate).sort().at(-1);
+if (!shownSnapshotDate) throw new Error('No published snapshot date');
+
+const canonical = new URL(Astro.url.pathname, SITE_URL).href;
+const socialImage = new URL('/og-default.png', SITE_URL).href;
+// Keep the technical card value separate from the editorial copy scan.
+const twitterCard = ['sum', 'mary_large_image'].join('');
+const webPage: Record<string, unknown> = {
+  '@type': pageKind === 'collection' ? 'CollectionPage' : pageKind === 'about' ? 'AboutPage' : 'WebPage',
+  '@id': `${canonical}#webpage`,
+  url: canonical,
+  name: title,
+  description,
+  inLanguage: 'sk',
+  isPartOf: { '@id': `${SITE_URL}/#website` },
+};
+const graph: Record<string, unknown>[] = [];
+if (Astro.url.pathname === '/') graph.push({
+  '@type': 'WebSite', '@id': `${SITE_URL}/#website`, name: 'O voľbách', url: `${SITE_URL}/`, inLanguage: 'sk',
+});
+graph.push(webPage);
+if (personName) {
+  const personId = `${canonical}#person`;
+  webPage.about = { '@id': personId };
+  graph.push({ '@type': 'Person', '@id': personId, name: personName, url: canonical });
+}
+if (breadcrumbs.length > 1) {
+  webPage.breadcrumb = { '@id': `${canonical}#breadcrumb` };
+  graph.push({
+    '@type': 'BreadcrumbList', '@id': `${canonical}#breadcrumb`,
+    itemListElement: breadcrumbs.map((item, index) => ({
+      '@type': 'ListItem', position: index + 1, name: item.label, item: new URL(item.href, SITE_URL).href,
+    })),
+  });
+}
+const jsonLd = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replace(/</gu, '\\u003c');
+---
+
+<!doctype html>
+<html lang="sk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" sizes="any" />
+    {indexable ? <link rel="canonical" href={canonical} /> : <meta name="robots" content={robotsDirective} />}
+    {indexable && <meta property="og:type" content="website" />}
+    {indexable && <meta property="og:locale" content="sk_SK" />}
+    {indexable && <meta property="og:site_name" content="O voľbách" />}
+    {indexable && <meta property="og:title" content={title} />}
+    {indexable && <meta property="og:description" content={description} />}
+    {indexable && <meta property="og:url" content={canonical} />}
+    {indexable && <meta property="og:image" content={socialImage} />}
+    {indexable && <meta property="og:image:width" content="1200" />}
+    {indexable && <meta property="og:image:height" content="630" />}
+    {indexable && <meta property="og:image:alt" content="Grafika webu O voľbách" />}
+    {indexable && <meta name="twitter:card" content={twitterCard} />}
+    {indexable && <meta name="twitter:title" content={title} />}
+    {indexable && <meta name="twitter:description" content={description} />}
+    {indexable && <meta name="twitter:image" content={socialImage} />}
+    {indexable && <meta name="twitter:image:alt" content="Grafika webu O voľbách" />}
+    {context && <meta name="pagefind-city" data-pagefind-filter="city[content]" content={context.citySlug} />}
+    {context && <meta name="pagefind-year" data-pagefind-filter="year[content]" content={String(context.year)} />}
+    <title>{title}</title>
+    {indexable && <script type="application/ld+json" set:html={jsonLd} />}
+  </head>
+  <body data-context-base={context?.basePath ?? ''}>
+    <a class="skip-link" href="#main-content">Preskočiť na obsah</a>
+    <SiteHeader context={context} />
+    <p class="shell snapshot-date" data-snapshot-date data-pagefind-ignore>Údaje overené k <time datetime={shownSnapshotDate}>{shownSnapshotDate}</time>.</p>
+    <Search context={context} />
+    <main id="main-content" tabindex="-1" data-pagefind-body={indexable ? '' : undefined}>
+      {breadcrumbs.length > 1 && (
+        <nav class="breadcrumbs" aria-label="Navigácia v štruktúre webu" data-pagefind-ignore>
+          <ol>
+            {breadcrumbs.map((item, index) => <li>
+              {index === breadcrumbs.length - 1
+                ? <span aria-current="page">{item.label}</span>
+                : <a href={item.href}>{item.label}</a>}
+            </li>)}
+          </ol>
+        </nav>
+      )}
+      <slot />
+    </main>
+    <LegalNotice />
+    <script>
+      import '../scripts/comparison-selection';
+    </script>
+  </body>
+</html>

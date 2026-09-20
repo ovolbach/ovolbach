@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import ClaimSection from '../../../../components/ClaimSection.astro';
+import SourceLink from '../../../../components/SourceLink.astro';
+import CandidacyFacts from '../../../../components/CandidacyFacts.astro';
+import ComparisonSelection from '../../../../components/ComparisonSelection.astro';
+import ElectionHistoryTotals from '../../../../components/ElectionHistoryTotals.astro';
+import { getOfficialCandidacies } from '../../../../lib/official-facts';
+import { listPublishedElectionContexts, type ElectionContext } from '../../../../lib/load-guide-data';
+import { getCandidateProfile } from '../../../../lib/selectors';
+import { PROFILE_CATEGORIES, summarizeElectionHistory } from '../../../../lib/profile-content';
+import { candidateSeoMetadata } from '../../../../lib/seo-metadata';
+
+export async function getStaticPaths() {
+  return (await listPublishedElectionContexts()).flatMap((context) => context.data.candidates.map((candidate) => ({
+    params: { city: context.citySlug, year: String(context.year), slug: candidate.slug },
+    props: { context, candidateId: candidate.id },
+  })));
+}
+
+const { candidateId } = Astro.props;
+const context = Astro.props.context as ElectionContext;
+const data = context.data;
+const profile = getCandidateProfile(data, candidateId);
+const candidacies = getOfficialCandidacies(data, candidateId);
+const electionHistory = summarizeElectionHistory(profile.claims);
+const metadata = candidateSeoMetadata(profile.candidate, data.candidates, candidacies, context.cityName, context.year);
+---
+
+<BaseLayout title={metadata.title} description={metadata.description} context={context} personName={profile.candidate.displayName} breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Kandidáti', href: `${context.basePath}kandidati/` }, { label: profile.candidate.displayName, href: `${context.basePath}kandidat/${profile.candidate.slug}/` }]}>
+  <article class="candidate-profile" data-candidate-profile data-candidate-id={profile.candidate.id}>
+    <header>
+      <h1>{profile.candidate.displayName}</h1>
+      <SourceLink recordId={profile.candidate.id} sourceIds={profile.candidate.sourceIds} sources={data.sources} />
+    </header>
+    <ComparisonSelection candidateId={profile.candidate.id} candidateName={profile.candidate.displayName} basePath={context.basePath} />
+    <ComparisonSelection basePath={context.basePath} />
+
+    <section aria-labelledby="candidate-candidacies">
+      <h2 id="candidate-candidacies">Oficiálne kandidátne údaje</h2>
+      {candidacies.map((candidacy) => <CandidacyFacts candidacy={candidacy} />)}
+    </section>
+
+    <ElectionHistoryTotals totals={electionHistory} sources={data.sources} recordId={`${candidateId}-election-history`} />
+
+    {PROFILE_CATEGORIES.map((category) => (
+      <ClaimSection
+        title={category.title}
+        claims={profile.claims.filter((claim) => claim.category === category.id)}
+        coverage={profile.researchCoverage.find((coverage) => coverage.category === category.id)}
+        sources={data.sources}
+      />
+    ))}
+  </article>
+</BaseLayout>

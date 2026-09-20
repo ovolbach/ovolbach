@@ -1,0 +1,34 @@
+---
+import type { Source } from '../lib/schemas';
+import { SOURCE_TYPE_LABELS } from '../lib/source-links';
+interface Props { sources: Source[] }
+const { sources } = Astro.props;
+const groups = ([
+  { type: 'official', heading: 'Oficiálne dokumenty' },
+  { type: 'candidate', heading: 'Materiály kandidátov' },
+  { type: 'media', heading: 'Mediálne zdroje' },
+] as const).map(({ type, heading }) => ({ heading, sources: sources.filter((source) => source.type === type) }))
+  .filter((group) => group.sources.length > 0);
+---
+
+{groups.map((group) => (
+  <section class="source-group">
+    <h2>{group.heading}</h2>
+    <ol class="source-register">
+      {group.sources.map((source) => (
+        <li data-source-register>
+          <article>
+            <h3 data-source-id={source.id} data-source-field="title"><a aria-label={`Zdroj: ${source.title} (otvorí sa v novom okne)`} href={source.url} rel="noopener noreferrer" target="_blank">{source.title}</a></h3>
+            <dl>
+              <div><dt>Vydavateľ:</dt><dd data-source-id={source.id} data-source-field="publisher">{source.publisher}</dd></div>
+              {source.author && <div><dt>Autor:</dt><dd data-source-id={source.id} data-source-field="author">{source.author}</dd></div>}
+              {source.publishedAt && <div><dt>Dátum vydania:</dt><dd>{source.publishedAt}</dd></div>}
+              <div><dt>Overené:</dt><dd>{source.checkedAt}</dd></div>
+              <div><dt>Typ dokumentu:</dt><dd>{SOURCE_TYPE_LABELS[source.type]}</dd></div>
+            </dl>
+          </article>
+        </li>
+      ))}
+    </ol>
+  </section>
+))}

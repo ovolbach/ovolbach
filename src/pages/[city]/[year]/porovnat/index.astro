@@ -1,0 +1,25 @@
+---
+import ComparisonTable from '../../../../components/ComparisonTable.astro';
+import ComparisonSelection from '../../../../components/ComparisonSelection.astro';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import { listPublishedElectionContexts, type ElectionContext } from '../../../../lib/load-guide-data';
+
+export async function getStaticPaths() {
+  return (await listPublishedElectionContexts()).map((context) => ({
+    params: { city: context.citySlug, year: String(context.year) }, props: { context },
+  }));
+}
+
+const context = Astro.props.context as ElectionContext;
+const data = context.data;
+---
+
+<BaseLayout title={`Porovnať kandidátov | ${context.cityName} ${context.year} | ovolbach.sk`} description="Porovnanie kandidátov v rovnakých zdrojovaných kategóriách." context={context} indexable={false} robotsDirective="noindex,follow" breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Porovnať kandidátov', href: `${context.basePath}porovnat/` }]}>
+  <h1>Porovnať kandidátov</h1>
+  <p>Porovnanie zobrazuje rovnaké kategórie pri každom vybranom kandidátovi. Výber je iba v adrese stránky.</p>
+  <ComparisonSelection basePath={context.basePath} />
+  <ComparisonTable data={data} />
+  <script>
+    import '../../../../scripts/comparison';
+  </script>
+</BaseLayout>

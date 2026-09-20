@@ -1,0 +1,32 @@
+---
+import type { CityDistrictUrlMapping } from '../lib/district-url';
+
+interface Props {
+  mappings: CityDistrictUrlMapping[];
+  action: string;
+}
+
+const { mappings, action } = Astro.props;
+---
+
+<form class="district-selector" action={action} method="get" data-district-form>
+  <label for="district">Volebný obvod</label>
+  <select id="district" name="obvod" data-district-select>
+    <option value="">Vyberte volebný obvod</option>
+    {mappings.map((mapping) => <option value={mapping.publicId} data-internal-district={mapping.internalId}>Obvod č. {mapping.number}</option>)}
+  </select>
+  <button type="submit">Zobraziť</button>
+</form>
+<form class="district-selector__fallback" action={action} method="get" aria-label="Rýchly výber volebného obvodu">
+  <div class="district-selector__fallback">
+    {mappings.map((mapping) => (
+      <button
+        type="submit"
+        name="obvod"
+        value={mapping.publicId}
+        formaction={`${action}#${mapping.publicId}`}
+      >Obvod č. {mapping.number}</button>
+    ))}
+  </div>
+</form>
+<p data-selection-status role="status">Vyberte volebný obvod.</p>

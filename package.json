@@ -1,0 +1,37 @@
+{
+  "name": "ovolbach-sk",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0 <25"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "check": "astro check",
+    "test": "vitest run",
+    "report:coverage": "tsx scripts/report-coverage.ts",
+    "check:links": "tsx scripts/check-external-links.ts",
+    "validate:data": "tsx scripts/validate-data.ts --mode=draft",
+    "validate:release": "tsx scripts/validate-data.ts --mode=release",
+    "build": "npm run validate:data && astro check && astro build && tsx scripts/generate-sitemap.ts && pagefind --site dist",
+    "check:seo": "tsx scripts/seo-artifacts.ts --check",
+    "check:html": "node scripts/check-html.mjs",
+    "preview": "astro preview",
+    "test:e2e": "playwright test",
+    "check:storage": "tsx scripts/check-browser-storage.ts",
+    "verify": "npm run test && npm run validate:release && npm run build && npm run check:storage && npm run check:links && npm run test:e2e"
+  },
+  "dependencies": {
+    "astro": "7.3.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@axe-core/playwright": "4.13.0",
+    "@playwright/test": "1.63.0",
+    "@types/node": "26.6.1",
+    "pagefind": "1.5.2",
+    "tsx": "4.23.13",
+    "typescript": "6.0.3",
+    "vitest": "5.0.1"
+  }
+}

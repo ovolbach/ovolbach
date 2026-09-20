@@ -1,0 +1,17 @@
+---
+import type { OfficialCandidacy } from '../lib/official-facts';
+import SourceLink from './SourceLink.astro';
+interface Props { candidacy: OfficialCandidacy; }
+const { candidacy } = Astro.props;
+---
+<article class="candidacy" data-candidacy data-election-id={candidacy.electionId} data-ballot-number={candidacy.ballotNumber}>
+  <h3>{candidacy.election}</h3>
+  <dl>
+    <div><dt>Číslo na hlasovacom lístku</dt><dd>{candidacy.ballotNumber}</dd></div>
+    <div><dt>Vek</dt><dd>{candidacy.ageAtElection} rokov</dd></div>
+    <div><dt>Povolanie</dt><dd>{candidacy.occupationOfficial}</dd></div>
+    {candidacy.district && <div><dt>Volebný obvod</dt><dd>{candidacy.district}</dd></div>}
+    {candidacy.affiliation && <div><dt>Navrhujúci subjekt / postavenie</dt><dd>{candidacy.affiliation}</dd></div>}
+  </dl>
+  <SourceLink recordId={candidacy.id} sourceIds={candidacy.sources.map((source) => source.id)} sources={candidacy.sources} />
+</article>

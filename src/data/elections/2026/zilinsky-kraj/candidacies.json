@@ -1,0 +1,1801 @@
+[
+  {
+    "id": "candidacy-1",
+    "candidateId": "candidate-1",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 1,
+    "ageAtElection": 67,
+    "occupationOfficial": "primátor",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-2",
+    "candidateId": "candidate-2",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 2,
+    "ageAtElection": 42,
+    "occupationOfficial": "projektová manažérka",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-3",
+    "candidateId": "candidate-3",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 3,
+    "ageAtElection": 74,
+    "occupationOfficial": "lekár",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-4",
+    "candidateId": "candidate-4",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 4,
+    "ageAtElection": 41,
+    "occupationOfficial": "riaditeľ",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-5",
+    "candidateId": "candidate-5",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 5,
+    "ageAtElection": 47,
+    "occupationOfficial": "špeditér",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-6",
+    "candidateId": "candidate-6",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 6,
+    "ageAtElection": 79,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [
+      "Komunistická strana Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-7",
+    "candidateId": "candidate-7",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 7,
+    "ageAtElection": 44,
+    "occupationOfficial": "geofyzik",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-8",
+    "candidateId": "candidate-8",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 8,
+    "ageAtElection": 61,
+    "occupationOfficial": "kuchár",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-9",
+    "candidateId": "candidate-9",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 9,
+    "ageAtElection": 48,
+    "occupationOfficial": "riaditeľ",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-10",
+    "candidateId": "candidate-10",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 10,
+    "ageAtElection": 65,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-11",
+    "candidateId": "candidate-11",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 11,
+    "ageAtElection": 45,
+    "occupationOfficial": "pedagogický pracovník",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-12",
+    "candidateId": "candidate-12",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 12,
+    "ageAtElection": 59,
+    "occupationOfficial": "konateľ spoločnosti",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-13",
+    "candidateId": "candidate-13",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 13,
+    "ageAtElection": 50,
+    "occupationOfficial": "podnikateľka",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-14",
+    "candidateId": "candidate-14",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-1",
+    "ballotNumber": 14,
+    "ageAtElection": 42,
+    "occupationOfficial": "opatrovateľka",
+    "affiliations": [
+      "Strana vidieka"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-15",
+    "candidateId": "candidate-15",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 1,
+    "ageAtElection": 37,
+    "occupationOfficial": "vedúci investičného nákupu",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-16",
+    "candidateId": "candidate-16",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 2,
+    "ageAtElection": 42,
+    "occupationOfficial": "strojník",
+    "affiliations": [
+      "Strana vidieka"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-17",
+    "candidateId": "candidate-17",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 3,
+    "ageAtElection": 49,
+    "occupationOfficial": "ekonómka",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-18",
+    "candidateId": "candidate-18",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 4,
+    "ageAtElection": 62,
+    "occupationOfficial": "dôchodkyňa",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-19",
+    "candidateId": "candidate-19",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 5,
+    "ageAtElection": 60,
+    "occupationOfficial": "manažér",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-20",
+    "candidateId": "candidate-20",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 6,
+    "ageAtElection": 46,
+    "occupationOfficial": "projektový manažér",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-21",
+    "candidateId": "candidate-21",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 7,
+    "ageAtElection": 55,
+    "occupationOfficial": "finančná sprostredkovateľka",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-22",
+    "candidateId": "candidate-22",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 8,
+    "ageAtElection": 50,
+    "occupationOfficial": "architekt",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-23",
+    "candidateId": "candidate-23",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 9,
+    "ageAtElection": 59,
+    "occupationOfficial": "majiteľ a prevádzkovateľ odťahovej služby",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-24",
+    "candidateId": "candidate-24",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 10,
+    "ageAtElection": 41,
+    "occupationOfficial": "marketingový manažér",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-25",
+    "candidateId": "candidate-25",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 11,
+    "ageAtElection": 59,
+    "occupationOfficial": "záchranár",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-26",
+    "candidateId": "candidate-26",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 12,
+    "ageAtElection": 51,
+    "occupationOfficial": "manažér",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-27",
+    "candidateId": "candidate-27",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 13,
+    "ageAtElection": 49,
+    "occupationOfficial": "odborná referentka regionálneho rozvoja",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-28",
+    "candidateId": "candidate-28",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 14,
+    "ageAtElection": 40,
+    "occupationOfficial": "konateľ spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-29",
+    "candidateId": "candidate-29",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 15,
+    "ageAtElection": 56,
+    "occupationOfficial": "biochemik",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-30",
+    "candidateId": "candidate-30",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 16,
+    "ageAtElection": 47,
+    "occupationOfficial": "zástupkyňa vedúceho predajne",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-31",
+    "candidateId": "candidate-31",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 17,
+    "ageAtElection": 52,
+    "occupationOfficial": "pedagóg, podnikateľ",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-32",
+    "candidateId": "candidate-32",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-2",
+    "ballotNumber": 18,
+    "ageAtElection": 54,
+    "occupationOfficial": "lekárka - slobodné podnikanie",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-33",
+    "candidateId": "candidate-33",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 1,
+    "ageAtElection": 70,
+    "occupationOfficial": "lekár",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-34",
+    "candidateId": "candidate-34",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 2,
+    "ageAtElection": 64,
+    "occupationOfficial": "lekár",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-35",
+    "candidateId": "candidate-35",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 3,
+    "ageAtElection": 57,
+    "occupationOfficial": "výsluhový dôchodca",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-36",
+    "candidateId": "candidate-36",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 4,
+    "ageAtElection": 60,
+    "occupationOfficial": "riaditeľ",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-37",
+    "candidateId": "candidate-37",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 5,
+    "ageAtElection": 53,
+    "occupationOfficial": "riaditeľka strednej školy",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-38",
+    "candidateId": "candidate-38",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 6,
+    "ageAtElection": 41,
+    "occupationOfficial": "prednosta",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-39",
+    "candidateId": "candidate-39",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 7,
+    "ageAtElection": 63,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-40",
+    "candidateId": "candidate-40",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 8,
+    "ageAtElection": 52,
+    "occupationOfficial": "terénna sociálna pracovníčka",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-41",
+    "candidateId": "candidate-41",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 9,
+    "ageAtElection": 34,
+    "occupationOfficial": "dispečer",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-42",
+    "candidateId": "candidate-42",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 10,
+    "ageAtElection": 60,
+    "occupationOfficial": "vodič sanitného vozidla",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-43",
+    "candidateId": "candidate-43",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 11,
+    "ageAtElection": 62,
+    "occupationOfficial": "vedúci oddelenia MsÚ",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-44",
+    "candidateId": "candidate-44",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 12,
+    "ageAtElection": 39,
+    "occupationOfficial": "pracovník v sociálnych službách",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-45",
+    "candidateId": "candidate-45",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 13,
+    "ageAtElection": 40,
+    "occupationOfficial": "poslanec",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-46",
+    "candidateId": "candidate-46",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 14,
+    "ageAtElection": 63,
+    "occupationOfficial": "pôrodná asistentka",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-47",
+    "candidateId": "candidate-47",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 15,
+    "ageAtElection": 66,
+    "occupationOfficial": "zástupca primátora",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-48",
+    "candidateId": "candidate-48",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-3",
+    "ballotNumber": 16,
+    "ageAtElection": 35,
+    "occupationOfficial": "riaditeľ kúpeľno-rehabilitačného ústavu",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-49",
+    "candidateId": "candidate-49",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-4",
+    "ballotNumber": 1,
+    "ageAtElection": 35,
+    "occupationOfficial": "manažér",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-50",
+    "candidateId": "candidate-50",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-4",
+    "ballotNumber": 2,
+    "ageAtElection": 33,
+    "occupationOfficial": "strojný inžinier",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-51",
+    "candidateId": "candidate-51",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-4",
+    "ballotNumber": 3,
+    "ageAtElection": 63,
+    "occupationOfficial": "konateľ spoločnosti",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-52",
+    "candidateId": "candidate-52",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-4",
+    "ballotNumber": 4,
+    "ageAtElection": 47,
+    "occupationOfficial": "manažér, konzultant v samospráve",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-53",
+    "candidateId": "candidate-53",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-4",
+    "ballotNumber": 5,
+    "ageAtElection": 39,
+    "occupationOfficial": "realitný maklér",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-54",
+    "candidateId": "candidate-54",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-5",
+    "ballotNumber": 1,
+    "ageAtElection": 50,
+    "occupationOfficial": "riaditeľ akciovej spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-55",
+    "candidateId": "candidate-55",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-5",
+    "ballotNumber": 2,
+    "ageAtElection": 47,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-56",
+    "candidateId": "candidate-56",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-6",
+    "ballotNumber": 1,
+    "ageAtElection": 74,
+    "occupationOfficial": "členka predstavenstva",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-57",
+    "candidateId": "candidate-57",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-6",
+    "ballotNumber": 2,
+    "ageAtElection": 63,
+    "occupationOfficial": "dôchodkyňa",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-58",
+    "candidateId": "candidate-58",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-6",
+    "ballotNumber": 3,
+    "ageAtElection": 44,
+    "occupationOfficial": "moderátorka, redaktorka, riaditeľka, šéfredaktorka",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-59",
+    "candidateId": "candidate-59",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-6",
+    "ballotNumber": 4,
+    "ageAtElection": 47,
+    "occupationOfficial": "konateľka súkromnej spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-60",
+    "candidateId": "candidate-60",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-7",
+    "ballotNumber": 1,
+    "ageAtElection": 37,
+    "occupationOfficial": "špecialistka pre digitálnu komunikáciu",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-61",
+    "candidateId": "candidate-61",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-7",
+    "ballotNumber": 2,
+    "ageAtElection": 60,
+    "occupationOfficial": "lekár",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-62",
+    "candidateId": "candidate-62",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-7",
+    "ballotNumber": 3,
+    "ageAtElection": 35,
+    "occupationOfficial": "poslanec",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-63",
+    "candidateId": "candidate-63",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-7",
+    "ballotNumber": 4,
+    "ageAtElection": 49,
+    "occupationOfficial": "zástupkyňa riaditeľa MŠ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-64",
+    "candidateId": "candidate-64",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-7",
+    "ballotNumber": 5,
+    "ageAtElection": 38,
+    "occupationOfficial": "riaditeľ kultúrnej inštitúcie",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-65",
+    "candidateId": "candidate-65",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-7",
+    "ballotNumber": 6,
+    "ageAtElection": 34,
+    "occupationOfficial": "marketingový špecialista",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-66",
+    "candidateId": "candidate-66",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-7",
+    "ballotNumber": 7,
+    "ageAtElection": 38,
+    "occupationOfficial": "právnička",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-67",
+    "candidateId": "candidate-67",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-7",
+    "ballotNumber": 8,
+    "ageAtElection": 40,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-68",
+    "candidateId": "candidate-68",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-8",
+    "ballotNumber": 1,
+    "ageAtElection": 44,
+    "occupationOfficial": "manažérka",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-69",
+    "candidateId": "candidate-69",
+    "electionId": "city-council",
+    "districtId": "2026-lm-city-8",
+    "ballotNumber": 2,
+    "ageAtElection": 42,
+    "occupationOfficial": "zástupca primátora",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-city-council-roster-2026"
+    ],
+    "contestId": "2026-lm-city-council"
+  },
+  {
+    "id": "candidacy-70",
+    "candidateId": "candidate-1",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 1,
+    "ageAtElection": 67,
+    "occupationOfficial": "primátor mesta",
+    "affiliations": [
+      "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-71",
+    "candidateId": "candidate-70",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 2,
+    "ageAtElection": 61,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-72",
+    "candidateId": "candidate-71",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 3,
+    "ageAtElection": 26,
+    "occupationOfficial": "obsluha čerpacej stanice",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-73",
+    "candidateId": "candidate-37",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 4,
+    "ageAtElection": 53,
+    "occupationOfficial": "riaditeľka strednej školy",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-74",
+    "candidateId": "candidate-72",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 5,
+    "ageAtElection": 44,
+    "occupationOfficial": "starosta obce",
+    "affiliations": [
+      "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-75",
+    "candidateId": "candidate-5",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 6,
+    "ageAtElection": 47,
+    "occupationOfficial": "špeditér",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-76",
+    "candidateId": "candidate-73",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 7,
+    "ageAtElection": 55,
+    "occupationOfficial": "odborný lesný hospodár",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-77",
+    "candidateId": "candidate-74",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 8,
+    "ageAtElection": 59,
+    "occupationOfficial": "invalidný dôchodca",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-78",
+    "candidateId": "candidate-21",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 9,
+    "ageAtElection": 55,
+    "occupationOfficial": "finančná sprostredkovateľka",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-79",
+    "candidateId": "candidate-75",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 10,
+    "ageAtElection": 28,
+    "occupationOfficial": "reprezentant v karate, ekonóm",
+    "affiliations": [
+      "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-80",
+    "candidateId": "candidate-76",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 11,
+    "ageAtElection": 52,
+    "occupationOfficial": "náčelník obecnej polície",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-81",
+    "candidateId": "candidate-77",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 12,
+    "ageAtElection": 54,
+    "occupationOfficial": "živnostník",
+    "affiliations": [
+      "Kotlebovci - ľudová strana naše Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-82",
+    "candidateId": "candidate-41",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 13,
+    "ageAtElection": 34,
+    "occupationOfficial": "dispečer",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-83",
+    "candidateId": "candidate-78",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 14,
+    "ageAtElection": 40,
+    "occupationOfficial": "majster odborného výcviku",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-84",
+    "candidateId": "candidate-7",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 15,
+    "ageAtElection": 44,
+    "occupationOfficial": "geofyzik",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-85",
+    "candidateId": "candidate-62",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 16,
+    "ageAtElection": 35,
+    "occupationOfficial": "poslanec",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-86",
+    "candidateId": "candidate-52",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 17,
+    "ageAtElection": 47,
+    "occupationOfficial": "manažér, konzultant v samospráve",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-87",
+    "candidateId": "candidate-24",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 18,
+    "ageAtElection": 41,
+    "occupationOfficial": "marketingový manažér",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-88",
+    "candidateId": "candidate-79",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 19,
+    "ageAtElection": 43,
+    "occupationOfficial": "súkromný podnikateľ",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-89",
+    "candidateId": "candidate-80",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 20,
+    "ageAtElection": 50,
+    "occupationOfficial": "výsluhový dôchodca",
+    "affiliations": [
+      "Vlastenecký blok"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-90",
+    "candidateId": "candidate-43",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 21,
+    "ageAtElection": 62,
+    "occupationOfficial": "vedúci oddelenia",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-91",
+    "candidateId": "candidate-44",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 22,
+    "ageAtElection": 39,
+    "occupationOfficial": "zamestnanec v sociálnych službách",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-92",
+    "candidateId": "candidate-45",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 23,
+    "ageAtElection": 40,
+    "occupationOfficial": "poslanec",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-93",
+    "candidateId": "candidate-81",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 24,
+    "ageAtElection": 60,
+    "occupationOfficial": "manažér",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-94",
+    "candidateId": "candidate-82",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 25,
+    "ageAtElection": 71,
+    "occupationOfficial": "advokát",
+    "affiliations": [
+      "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-95",
+    "candidateId": "candidate-53",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 26,
+    "ageAtElection": 39,
+    "occupationOfficial": "realitný maklér",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-96",
+    "candidateId": "candidate-13",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 27,
+    "ageAtElection": 50,
+    "occupationOfficial": "podnikateľka",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-97",
+    "candidateId": "candidate-83",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 28,
+    "ageAtElection": 64,
+    "occupationOfficial": "primátor mesta",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-98",
+    "candidateId": "candidate-47",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 29,
+    "ageAtElection": 66,
+    "occupationOfficial": "zástupca primátora",
+    "affiliations": [
+      "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-99",
+    "candidateId": "candidate-84",
+    "electionId": "region-council",
+    "districtId": "2026-zsk-region-5",
+    "ballotNumber": 30,
+    "ageAtElection": 68,
+    "occupationOfficial": "lektor",
+    "affiliations": [
+      "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-district-5-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "candidacy-100",
+    "candidateId": "candidate-85",
+    "electionId": "region-chair",
+    "ballotNumber": 1,
+    "ageAtElection": 67,
+    "occupationOfficial": "viceprimátorka",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-chair"
+  },
+  {
+    "id": "candidacy-101",
+    "candidateId": "candidate-86",
+    "electionId": "region-chair",
+    "ballotNumber": 2,
+    "ageAtElection": 61,
+    "occupationOfficial": "invalidná dôchodkyňa",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-chair"
+  },
+  {
+    "id": "candidacy-102",
+    "candidateId": "candidate-87",
+    "electionId": "region-chair",
+    "ballotNumber": 3,
+    "ageAtElection": 62,
+    "occupationOfficial": "štátny tajomník",
+    "affiliations": [
+      "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-chair"
+  },
+  {
+    "id": "candidacy-103",
+    "candidateId": "candidate-88",
+    "electionId": "region-chair",
+    "ballotNumber": 4,
+    "ageAtElection": 55,
+    "occupationOfficial": "predsedníčka samosprávneho kraja",
+    "affiliations": [
+      "Hnutie Slovensko, Za ľudí, Nova, Progresívne Slovensko, Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Demokrati, Konzervatívci - kresťanská únia, Občianska konzervatívna strana, Demokratická strana - občianski demokrati Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-chair"
+  },
+  {
+    "id": "candidacy-104",
+    "candidateId": "candidate-89",
+    "electionId": "region-chair",
+    "ballotNumber": 5,
+    "ageAtElection": 40,
+    "occupationOfficial": "riaditeľ, regionálny stratég",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-chair"
+  },
+  {
+    "id": "candidacy-105",
+    "candidateId": "candidate-90",
+    "electionId": "region-chair",
+    "ballotNumber": 6,
+    "ageAtElection": 32,
+    "occupationOfficial": "poslanec národnej rady",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-chair"
+  },
+  {
+    "id": "candidacy-106",
+    "candidateId": "candidate-91",
+    "electionId": "region-chair",
+    "ballotNumber": 7,
+    "ageAtElection": 65,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [
+      "Komunistická strana Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "zsk-chair-roster-2026"
+    ],
+    "contestId": "2026-zsk-region-chair"
+  },
+  {
+    "id": "candidacy-107",
+    "candidateId": "candidate-1",
+    "electionId": "mayor",
+    "ballotNumber": 1,
+    "ageAtElection": 67,
+    "occupationOfficial": "primátor",
+    "affiliations": [
+      "Hlas - sociálna demokracia, Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-mayor-roster-2026"
+    ],
+    "contestId": "2026-lm-mayor"
+  },
+  {
+    "id": "candidacy-108",
+    "candidateId": "candidate-44",
+    "electionId": "mayor",
+    "ballotNumber": 2,
+    "ageAtElection": 39,
+    "occupationOfficial": "pracovník v sociálnych službách",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "lm-mayor-roster-2026"
+    ],
+    "contestId": "2026-lm-mayor"
+  },
+  {
+    "id": "candidacy-109",
+    "candidateId": "candidate-13",
+    "electionId": "mayor",
+    "ballotNumber": 3,
+    "ageAtElection": 50,
+    "occupationOfficial": "podnikateľka",
+    "affiliations": [
+      "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana, Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "lm-mayor-roster-2026"
+    ],
+    "contestId": "2026-lm-mayor"
+  }
+]

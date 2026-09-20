@@ -1,0 +1,23 @@
+---
+import { SITE_TITLE } from '../config/site';
+import type { ElectionContext } from '../lib/load-guide-data';
+interface Props { context?: ElectionContext | undefined }
+const { context } = Astro.props;
+---
+
+<header class="site-header" data-pagefind-ignore>
+  <div class="shell site-header__inner">
+    <a class="site-title" href="/">{SITE_TITLE}</a>
+    <nav aria-label="Hlavná navigácia">
+      <ul class="site-nav">
+        <li><a href="/">Mestá a roky</a></li>
+        {context && <li><a href={context.basePath}>Prehľad</a></li>}
+        {context && <li><a href={`${context.basePath}kandidati/`}>Kandidáti</a></li>}
+        {context && <li><a href={`${context.basePath}porovnat/`}>Porovnať</a></li>}
+        {context && <li><a href={`${context.basePath}ako-volit/`}>Ako voliť</a></li>}
+        <li><a href={context ? `${context.basePath}zdroje/` : '/zdroje/'}>Zdroje</a></li>
+        <li><a href="/metodika/">Metodika</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

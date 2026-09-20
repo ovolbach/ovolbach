@@ -1,0 +1,26 @@
+---
+import type { Source } from '../lib/schemas';
+import { resolveSourceLinks, SOURCE_TYPE_LABELS } from '../lib/source-links';
+
+interface Props {
+  sourceIds: string[];
+  sources: Source[];
+  recordId: string;
+}
+
+const { sourceIds, sources, recordId } = Astro.props;
+const linkedSources = resolveSourceLinks(recordId, sourceIds, sources);
+---
+
+{linkedSources.map((source) => (
+  <span class="source-link" data-source-attribution>
+    <a aria-label={`Zdroj: ${source.title} (otvorí sa v novom okne)`} href={source.url} rel="noopener noreferrer" target="_blank">{source.title}</a>
+    <span class="source-link__metadata">
+      {SOURCE_TYPE_LABELS[source.type]}{', '}
+      {source.author && <><span data-source-id={source.id} data-source-field="author">{source.author}</span>{', '}</>}
+      <span data-source-id={source.id} data-source-field="publisher">{source.publisher}</span>
+      {source.publishedAt ? `, ${source.publishedAt}` : ''}
+      {`, overené ${source.checkedAt}`}
+    </span>
+  </span>
+))}

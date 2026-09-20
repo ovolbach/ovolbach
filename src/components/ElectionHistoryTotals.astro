@@ -1,0 +1,29 @@
+---
+import type { ElectionHistorySummary } from '../lib/profile-content';
+import type { Source } from '../lib/schemas';
+import SourceLink from './SourceLink.astro';
+
+interface Props {
+  totals: ElectionHistorySummary;
+  sources: Source[];
+  recordId: string;
+}
+
+const { totals, sources, recordId } = Astro.props;
+---
+
+{totals.participations > 0 && (
+  <section class="election-history" aria-labelledby="election-history-title">
+    <h2 id="election-history-title">Volebná história od roku 2000</h2>
+    <dl>
+      <div><dt>Účasti vo voľbách</dt><dd>{totals.participations}</dd></div>
+      <div><dt>Zvolenia spolu</dt><dd>{totals.wins}</dd></div>
+      <div><dt>Zvolenia za poslanca</dt><dd>{totals.deputyWins}</dd></div>
+      <div><dt>Zvolenia za starostu alebo primátora</dt><dd>{totals.mayorWins}</dd></div>
+      <div><dt>Zvolenia za predsedu kraja</dt><dd>{totals.regionalChairWins}</dd></div>
+      <div><dt>Zvolenia za prezidenta</dt><dd>{totals.presidentWins}</dd></div>
+    </dl>
+    <p class="election-history__note">Počty vychádzajú z evidovaných výsledkov volieb; stiahnutá kandidatúra sa nepočíta ako účasť a nástup náhradníka ako zvolenie.</p>
+    <SourceLink recordId={recordId} sourceIds={totals.sourceIds} sources={sources} />
+  </section>
+)}
