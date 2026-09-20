@@ -1,12 +1,16 @@
 :root {
-  --color-page: #f7f6f2;
+  --color-page: #ffffff;
   --color-surface: #ffffff;
-  --color-text: #1d2933;
-  --color-muted: #52616b;
-  --color-border: #d4d8da;
-  --color-accent: #245b78;
-  --color-accent-dark: #153f56;
-  --shadow-subtle: 0 1px 2px rgb(29 41 51 / 8%);
+  --color-text: #0b0c0c;
+  --color-muted: #505a5f;
+  --color-border: #b1b4b6;
+  --color-accent: #0065b3;
+  --color-accent-dark: #003078;
+  --color-action: #00703c;
+  --color-action-dark: #005a30;
+  --color-footer: #dee0e2;
+  --shadow-subtle: 0 2px 4px rgb(11 12 12 / 10%);
+  --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --measure: 48rem;
   --space-1: 0.5rem;
   --space-2: 1rem;
