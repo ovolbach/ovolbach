@@ -95,13 +95,13 @@ npm run preview
 
 Priečinok `dist/` je generovaný výstup. Neukladá sa do Git repozitára a pri každom nasadení sa vytvorí znova.
 
-SEO a HTML audit spustite ručne po zostavení webu pred jeho prvým publikovaním: `npm run check:seo` a `npm run check:html`. Nie sú súčasťou `build` ani `verify`. Kontrola HTML používa [oficiálny W3C Nu Checker](https://github.com/validator/validator/releases/tag/latest). Prvý beh stiahne príslušný balík Windows, Linux alebo macOS do ignorovaného priečinka `.superpowers/vnu/`; v ďalších behoch použije cache. V offline prostredí možno nastaviť `VNU_JAVA` na Java runtime z oficiálneho balíka alebo `VNU_JAR` na oficiálny `vnu.jar` pri dostupnej Jave 17+. Výstup vrátane upozornení sa uloží do `test-results/html-validation.json`.
+SEO a HTML audit spustite ručne po zostavení webu pred jeho prvým publikovaním: `npm run check:seo` a `npm run check:html`. Nie sú súčasťou `build` ani `verify`. Kontrola HTML používa [oficiálny W3C Nu Checker](https://github.com/validator/validator/releases/tag/latest). Prvý beh stiahne príslušný balík Windows, Linux alebo macOS do ignorovanej lokálnej cache; v ďalších behoch ho použije znova. V offline prostredí možno nastaviť `VNU_JAVA` na Java runtime z oficiálneho balíka alebo `VNU_JAR` na oficiálny `vnu.jar` pri dostupnej Jave 17+. Výstup vrátane upozornení sa uloží do `test-results/html-validation.json`.
 
-## Nasadenie na Elestio
+## Nasadenie na hosting
 
 Koreňový [`Dockerfile`](Dockerfile) zostaví obraz: Node.js 22 spustí `npm ci`, `npm run validate:release` a `npm run build`, potom Nginx publikuje výsledný priečinok `dist/`. Konfigurácia statického servera je v [`deploy/nginx/default.conf`](deploy/nginx/default.conf). Kontajner presmeruje `www` na hlavnú doménu, ak reverzný proxy zachová pôvodnú hlavičku `Host`; zároveň vynúti relatívne presmerovanie na koncovú lomku a zobrazí zostavenú `404.html` so stavom HTTP 404.
 
-Elestio musí zostavovať obraz z tohto Dockerfile. Existujúca inštalácia vytvorila na serveri `/opt/app/ovolbach/Dockerfile` a `docker-compose.yml` mimo Git; pred ďalším nasadením overte, že pipeline použije súbory z repozitára a neprepíše ich vlastnou šablónou. Vonkajší reverzný proxy Elestio smeruje na port `172.17.0.1:3028`; jeho doménová a TLS konfigurácia nie je súčasťou tohto repozitára.
+Hosting musí zostavovať obraz z tohto Dockerfile. Existujúca inštalácia vytvorila na serveri `/opt/app/ovolbach/Dockerfile` a `docker-compose.yml` mimo Git; pred ďalším nasadením overte, že pipeline použije súbory z repozitára a neprepíše ich vlastnou šablónou. Vonkajší reverzný proxy hostingu smeruje na port `172.17.0.1:3028`; jeho doménová a TLS konfigurácia nie je súčasťou tohto repozitára.
 
 ## Štruktúra projektu
 

@@ -173,6 +173,9 @@ h4 { font-size: 1.25rem; }
 }
 
 .legal-notice {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: var(--space-1) var(--space-2);
   padding-block: var(--space-3);
   color: var(--color-muted);
   font-size: 1rem;
@@ -182,8 +185,12 @@ h4 { font-size: 1.25rem; }
   margin: 0;
 }
 
-.legal-notice p + p {
-  margin-top: var(--space-1);
+.legal-notice > p:first-child {
+  grid-column: 1 / -1;
+}
+
+.legal-notice > a {
+  justify-self: end;
 }
 
 .site-search {
