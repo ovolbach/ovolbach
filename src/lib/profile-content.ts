@@ -59,7 +59,7 @@ export const PROFILE_CATEGORIES: Array<{ id: ClaimCategory; title: string }> = [
   { id: 'programme_statements', title: 'Programové vyjadrenia' },
   { id: 'asset_declarations', title: 'Majetkové priznania' },
   { id: 'media', title: 'Médiá' },
-  { id: 'controversies', title: 'Kontroverzie' },
+  { id: 'controversies', title: 'Verejne doložené udalosti a konania' },
 ];
 
 export function coverageTitle(status: ResearchCoverage['status']): string {

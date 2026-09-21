@@ -1,8 +1,13 @@
 import { describe, expect, it } from 'vitest';
-import { coverageMessage, coverageTitle, summarizeElectionHistory } from '../../src/lib/profile-content';
+import { PROFILE_CATEGORIES, coverageMessage, coverageTitle, summarizeElectionHistory } from '../../src/lib/profile-content';
 import type { Claim } from '../../src/lib/schemas';
 
 describe('profile coverage content', () => {
+  it('uses the approved heading for publicly documented events and proceedings', () => {
+    expect(PROFILE_CATEGORIES.find((category) => category.id === 'controversies')?.title)
+      .toBe('Verejne doložené udalosti a konania');
+  });
+
   it('renders searched_none as the approved neutral sentence', () => {
     expect(coverageMessage('searched_none')).toBe('Vo verejne dostupných zdrojoch sa údaj nenašiel.');
   });
