@@ -1,0 +1,84 @@
+---
+import SourceLink from './SourceLink.astro';
+import { financeSourceIds, getFinanceDuties, partyFinanceSourceIds, reportDeadline } from '../lib/campaign-finance';
+import type { CampaignFinance, FinanceParty, Source } from '../lib/schemas';
+
+interface Props { record: CampaignFinance; parties: FinanceParty[]; sources: Source[] }
+const { record, parties, sources } = Astro.props;
+const duties = getFinanceDuties(record);
+const eligibleHead = record.headCandidacies.some((head) => head.office === 'region-chair' || (head.population ?? 0) > 5000);
+const dateSk = (value: string) => new Date(`${value}T00:00:00Z`).toLocaleDateString('sk-SK', { timeZone: 'UTC' });
+const deadline = reportDeadline(record.electionDate);
+const beforeDeadline = record.checkedAt <= deadline;
+const sourceIds = [...new Set([...financeSourceIds(record), ...parties.flatMap(partyFinanceSourceIds)])];
+const operatorLabels = { unknown: 'Z overených zdrojov nie je určené, či výdavky znáša kandidát, politická strana alebo obaja.', candidate: 'Kandidát.', party: 'Politická strana.', both: 'Kandidát aj politická strana.', none: 'Kampaň sa nevedie.' };
+const accountText = !eligibleHead
+  ? 'Pre samostatnú poslaneckú kandidatúru sa nevyžaduje. Kandidát na starostu alebo primátora obce do 5 000 obyvateľov tiež nemá túto povinnosť.'
+  : duties.account === 'required' ? 'Vyžaduje sa pre vlastné financovanie kampane.'
+  : duties.account === 'not_required' ? 'Nevyžaduje sa, ak kandidát nevynakladá žiadne prostriedky na vlastnú kampaň.'
+  : 'Vyžaduje sa, ak kandidát vynakladá prostriedky na vlastnú kampaň. Samotná nominácia stranou neurčuje, kto kampaň financuje.';
+const reportText = !eligibleHead
+  ? 'Pre samostatnú poslaneckú kandidatúru sa nevyžaduje verejná správa kandidáta podľa § 6 ods. 15. Táto povinnosť sa nevzťahuje ani na starostu alebo primátora obce do 5 000 obyvateľov.'
+  : duties.report === 'required' ? 'Vyžaduje sa verejná správa kandidáta podľa § 6 ods. 15.'
+  : duties.report === 'not_required' ? 'Samostatná správa kandidáta sa nevyžaduje, ak jeho kampaň financuje iba strana; strana vykazuje svoje výdavky.'
+  : 'Vyžaduje sa pri vlastnej kampani kandidáta podľa § 6 ods. 15 a 17. Pri kampani financovanej iba stranou vykazuje výdavky strana.';
+---
+
+<section class="campaign-finance" data-campaign-finance aria-labelledby="campaign-finance-title">
+  <h2 id="campaign-finance-title">Financovanie volebnej kampane</h2>
+  <p class="campaign-finance__date">Voľby {dateSk(record.electionDate)} · Overené {record.checkedAt}</p>
+  <dl class="campaign-finance__facts">
+    <div><dt>Povinnosť transparentného účtu kandidáta</dt><dd data-finance-account-duty={duties.account}>{accountText}</dd></div>
+    <div>
+      <dt>Transparentný účet kandidáta</dt>
+      <dd>
+        {record.account.status === 'verified' ? (
+          <a data-personal-account href={record.account.url} target="_blank" rel="noopener noreferrer">Otvoriť účet kandidáta (nové okno)</a>
+        ) : record.account.status === 'unverified' ? record.account.reason : (
+          'V registri účtov kandidátov MV SR sa záznam pod týmto menom nenašiel. To nepotvrdzuje, že účet neexistuje alebo že došlo k porušeniu zákona.'
+        )}
+      </dd>
+    </div>
+    <div><dt>Vedenie a financovanie kampane</dt><dd>{operatorLabels[record.campaignOperator]}</dd></div>
+    <div>
+      <dt>Verejná správa kandidáta o výdavkoch</dt>
+      <dd data-finance-report-duty={duties.report}>
+        {reportText}
+        {eligibleHead && duties.report !== 'not_required' && <p>Lehota na zverejnenie na vlastnom webe a doručenie MV SR: {dateSk(deadline)}. Správa zahŕňa výdavky, nie iba pohyby na účte.</p>}
+        {record.reportSourceId ? <SourceLink recordId={`${record.id}-report`} sourceIds={[record.reportSourceId]} sources={sources} /> : eligibleHead && duties.report !== 'not_required' && (
+          <p>{beforeDeadline ? 'Lehota ešte neuplynula. Odkaz na správu zatiaľ neuvádzame.' : `Odkaz na správu nemáme overený k ${record.checkedAt}.`}</p>
+        )}
+      </dd>
+    </div>
+  </dl>
+
+  <h3>Transparentné účty a správy politických strán</h3>
+  {parties.length === 0 ? <p>V overených kandidátnych listinách nie je uvedená nominujúca politická strana.</p> : (
+    <>
+      <p>Uvedené sú strany z overených nominácií. Odkaz na účet strany nepotvrdzuje financovanie tohto kandidáta; transakcie celej strany nemožno priradiť jednému kandidátovi.</p>
+      <ul class="campaign-finance__parties">
+        {parties.map((party) => (
+          <li>
+            <strong>{party.name}</strong>
+            <p>{party.account.status === 'registered' ? <a data-party-account data-party-id={party.id} href={party.account.url} target="_blank" rel="noopener noreferrer">Transparentný účet strany (nové okno)</a> : 'Odkaz na účet sa v registri MV SR nenašiel.'}</p>
+            <p>Správa strany: {party.reportSourceId ? <SourceLink recordId={`${party.id}-report`} sourceIds={[party.reportSourceId]} sources={sources} /> : `Ak strana vedie kampaň, zverejní a predloží vlastnú správu do ${dateSk(reportDeadline(party.electionDate))}. ${party.checkedAt <= reportDeadline(party.electionDate) ? 'Lehota ešte neuplynula.' : 'Odkaz na správu nemáme overený.'}`}</p>
+          </li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  <h3>Právny základ a rozsah overenia</h3>
+  <p>Zákon č. 181/2014 Z. z. o volebnej kampani, znenie účinné od 1. 8. 2022: účet kandidáta § 6 ods. 8 a 9; správa kandidáta § 6 ods. 15; vlastná kampaň straníckeho kandidáta § 6 ods. 17; účet a správa strany § 7 ods. 1 v spojení s § 3 ods. 2 až 9 a § 4.</p>
+  {record.headCandidacies.length > 0 && (
+    <>
+      <p>Overené kandidatúry na funkciu predsedu kraja, starostu alebo primátora, ktoré vstupujú do posúdenia:</p>
+      <ul>{record.headCandidacies.map((head) => <li>{head.office === 'region-chair' ? 'Predseda kraja' : 'Starosta / primátor'} — {head.locality}{head.population !== undefined ? ` (${head.population.toLocaleString('sk-SK')} obyvateľov ku dňu vyhlásenia volieb)` : ''}.</li>)}</ul>
+    </>
+  )}
+  <p>{record.candidacySearchNote} {record.otherCandidacies === 'not_exhaustive' && !eligibleHead && 'Prípadná ďalšia kandidatúra na predsedu kraja alebo na starostu či primátora obce nad 5 000 obyvateľov môže zmeniť povinnosť účtu a správy.'}</p>
+  <details>
+    <summary>Zdroje financovania a právnych pravidiel</summary>
+    <SourceLink recordId={record.id} sourceIds={sourceIds} sources={sources} />
+  </details>
+</section>

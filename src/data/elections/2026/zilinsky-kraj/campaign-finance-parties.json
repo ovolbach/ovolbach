@@ -1,0 +1,309 @@
+[
+  {
+    "id": "demokrati",
+    "name": "Demokrati",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "demokraticka-strana-obcianski-demokrati-slovenska",
+    "name": "Demokratická strana - občianski demokrati Slovenska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "domov-narodna-strana",
+    "name": "Domov národná strana",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "hlas-socialna-demokracia",
+    "name": "Hlas - sociálna demokracia",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK2509000000005250061503"
+    }
+  },
+  {
+    "id": "hnutie-slovensko",
+    "name": "Hnutie Slovensko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK8309000000005248035293"
+    }
+  },
+  {
+    "id": "kdh-krestanskodemokraticke-hnutie",
+    "name": "Kdh - kresťanskodemokratické hnutie",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150"
+    }
+  },
+  {
+    "id": "komunisticka-strana-slovenska",
+    "name": "Komunistická strana Slovenska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://transparentneucty.sk/#/ucet/SK0509000000005252774371"
+    }
+  },
+  {
+    "id": "konzervativci-krestanska-unia",
+    "name": "Konzervatívci - kresťanská únia",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "kotlebovci-ludova-strana-nase-slovensko",
+    "name": "Kotlebovci - ľudová strana naše Slovensko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://moja.csob.sk/transparent-accounts/405fd2bb7284e3b8b6d6c69eb9bb91b4d5b15a537f54b31661862ea39be8b9af"
+    }
+  },
+  {
+    "id": "nova",
+    "name": "Nova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "obcianska-konzervativna-strana",
+    "name": "Občianska konzervatívna strana",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "progresivne-slovensko",
+    "name": "Progresívne Slovensko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219"
+    }
+  },
+  {
+    "id": "pravo-na-pravdu",
+    "name": "Právo na pravdu",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://ib.fio.sk/ib/transparent?a=2003494797"
+    }
+  },
+  {
+    "id": "republika",
+    "name": "Republika",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK4402000000007256801858&CN"
+    }
+  },
+  {
+    "id": "sloboda-a-solidarita",
+    "name": "Sloboda a solidarita",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206"
+    }
+  },
+  {
+    "id": "slovenska-narodna-strana",
+    "name": "Slovenská národná strana",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://transparentneucty.sk/#/ucet/SK7809000000005248558019"
+    }
+  },
+  {
+    "id": "slovexit",
+    "name": "Slovexit",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://transparentneucty.sk/#/ucet/SK2409000000005251842344"
+    }
+  },
+  {
+    "id": "smer-socialna-demokracia",
+    "name": "Smer - sociálna demokracia",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360"
+    }
+  },
+  {
+    "id": "strana-vidieka",
+    "name": "Strana vidieka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://transparentneucty.sk/#/ucet/SK0709000000005250753534"
+    }
+  },
+  {
+    "id": "vlastenecky-blok",
+    "name": "Vlastenecký blok",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "za-ludi",
+    "name": "Za ľudí",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  }
+]

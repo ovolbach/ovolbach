@@ -58,8 +58,14 @@ Najdôležitejšie dátové súbory cyklu:
 | `claims.json` | overiteľné tvrdenia a citácie |
 | `src/data/sources.json` | spoločné zdroje, vydavatelia a dátumy kontroly |
 | `research-coverage.json` | stav kontroly jednotlivých kategórií |
+| `campaign-finance.json` | právne povinnosti, účty a hranice overenia financovania každého kandidáta |
+| `campaign-finance-parties.json` | spoločné záznamy účtov a správ nominujúcich politických strán |
 
 Schémy, väzby a redakčné obmedzenia sú definované v `src/lib/schemas.ts` a `src/lib/validate-dataset.ts`. Publikovať možno iba kontext s ôsmimi záznamami pokrytia na kandidáta a bez stavu `pending`. Pri zmene dát zachovajte väzby na zdroje a presnú atribúciu citácií.
+
+Financovanie má samostatný záznam na osobu a cyklus; nemení osem výskumných kategórií. Povinnosť osobitného účtu závisí od kandidatúry, počtu obyvateľov a vlastného financovania. Verejná správa má samostatnú povinnosť: nulové výdavky samy osebe neoslobodzujú nezávislého kandidáta na predsedu kraja alebo na starostu či primátora obce nad 5 000 obyvateľov. Stranícky kandidát vedúci vlastnú kampaň podlieha § 6 ods. 17. Pred oslobodením treba overiť ďalšie kandidatúry mimo miestneho katalógu. Pri neúplnom overení zostáva podmienka výslovná.
+
+Odkazy na bankové účty sú zdrojované registrami MV SR a priamymi stránkami kampaní. Osobný účet vyžaduje meno a najmenej dve ďalšie overené identifikačné charakteristiky. Nominácia stranou nepreukazuje jej financovanie konkrétnej osoby. Stav `not_listed` znamená iba nenájdený záznam v kontrolovanom registri, nie neexistenciu účtu. Účty sú obyčajné vonkajšie odkazy; web nesťahuje transakcie ani nevkladá bankové rozhranie. `check:links` kontroluje aj tieto odkazy. Prvý prehľad nepublikuje peňažné súčty.
 
 ## Dostupné príkazy
 

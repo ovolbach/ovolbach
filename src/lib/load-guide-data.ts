@@ -2,6 +2,7 @@ import { readFile, readdir } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import { z } from 'zod';
 import { isoDate, type ElectionId, type GuideData } from './schemas';
+import { financeSourceIds, partyFinanceSourceIds } from './campaign-finance';
 
 const DATA_ROOT = resolve(process.cwd(), 'src/data');
 const ELECTIONS_ROOT = join(DATA_ROOT, 'elections');
@@ -101,16 +102,18 @@ export async function listElectionContextConfigs(): Promise<ElectionContextConfi
 
 export async function loadElectionCycle(year: number, regionSlug: string): Promise<GuideData> {
   const path = cyclePath(year, regionSlug);
-  const [candidates, candidacies, claims, districts, elections, researchCoverage, sources] = await Promise.all([
+  const [candidates, candidacies, claims, districts, elections, researchCoverage, campaignFinance, financeParties, sources] = await Promise.all([
     readJson<GuideData['candidates']>(join(path, 'candidates.json')),
     readJson<GuideData['candidacies']>(join(path, 'candidacies.json')),
     readJson<GuideData['claims']>(join(path, 'claims.json')),
     readJson<GuideData['districts']>(join(path, 'districts.json')),
     readJson<GuideData['elections']>(join(path, 'elections.json')),
     readJson<GuideData['researchCoverage']>(join(path, 'research-coverage.json')),
+    readJson<GuideData['campaignFinance']>(join(path, 'campaign-finance.json')),
+    readJson<GuideData['financeParties']>(join(path, 'campaign-finance-parties.json')),
     loadGlobalSources(),
   ]);
-  return { candidates, candidacies, claims, districts, elections, researchCoverage, sources };
+  return { candidates, candidacies, claims, districts, elections, researchCoverage, campaignFinance, financeParties, sources };
 }
 
 export async function loadAllElectionCycles(): Promise<GuideData[]> {
@@ -158,6 +161,12 @@ export function assembleElectionContext(cycle: GuideData, config: ElectionContex
   if (candidates.length !== candidateIds.size) throw new Error(`Unknown candidate in ${config.citySlug}/${config.year}`);
   const claims = cycle.claims.filter((claim) => candidateIds.has(claim.candidateId));
   const researchCoverage = cycle.researchCoverage.filter((coverage) => candidateIds.has(coverage.candidateId));
+  const campaignFinance = cycle.campaignFinance.filter((record) => candidateIds.has(record.candidateId));
+  const partyIds = new Set(campaignFinance.flatMap((record) => record.partyIds));
+  const financeParties = cycle.financeParties.filter((party) => partyIds.has(party.id));
+  for (const record of [...campaignFinance, ...financeParties]) {
+    if (record.checkedAt > config.snapshotDate) throw new Error(`Finance verification exceeds snapshot: ${record.id}`);
+  }
   const districts = [...cityDistricts, regionalDistrict];
   const referencedSourceIds = new Set([
     ...candidates.flatMap((candidate) => [
@@ -167,6 +176,8 @@ export function assembleElectionContext(cycle: GuideData, config: ElectionContex
     ...candidacies.flatMap((candidacy) => candidacy.sourceIds),
     ...claims.flatMap((claim) => claim.sourceIds),
     ...researchCoverage.flatMap((coverage) => coverage.sourceIds),
+    ...campaignFinance.flatMap(financeSourceIds),
+    ...financeParties.flatMap(partyFinanceSourceIds),
     ...districts.flatMap((district) => [...district.sourceIds, ...district.pollingStations.map((station) => station.sourceId)]),
     ...elections.flatMap((election) => election.sourceIds),
   ]);
@@ -174,7 +185,7 @@ export function assembleElectionContext(cycle: GuideData, config: ElectionContex
   return {
     ...config,
     basePath: `/${config.citySlug}/${config.year}/`,
-    data: { candidates, candidacies, claims, sources: scopedSources, districts, elections, researchCoverage },
+    data: { candidates, candidacies, claims, sources: scopedSources, districts, elections, researchCoverage, campaignFinance, financeParties },
   };
 }
 

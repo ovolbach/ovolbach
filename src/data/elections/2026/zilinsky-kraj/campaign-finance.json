@@ -1,0 +1,3212 @@
+[
+  {
+    "id": "finance-candidate-1",
+    "candidateId": "candidate-1",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "lm-mayor-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Liptovský Mikuláš",
+        "independent": false,
+        "sourceIds": [
+          "lm-mayor-roster-2026",
+          "lm-election-population-2026"
+        ],
+        "population": 29598
+      }
+    ],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "verified",
+      "url": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK1502000000007284370653&CN",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026",
+        "blchac-campaign-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "office",
+          "value": "primátor mesta Liptovský Mikuláš",
+          "sourceIds": [
+            "blchac-campaign-2026",
+            "lm-city-council-roster-2026",
+            "zsk-district-5-roster-2026",
+            "lm-mayor-roster-2026"
+          ]
+        },
+        {
+          "attribute": "municipality",
+          "value": "Liptovský Mikuláš",
+          "sourceIds": [
+            "blchac-campaign-2026",
+            "lm-city-council-roster-2026",
+            "zsk-district-5-roster-2026",
+            "lm-mayor-roster-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-2",
+    "candidateId": "candidate-2",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-3",
+    "candidateId": "candidate-3",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-4",
+    "candidateId": "candidate-4",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-5",
+    "candidateId": "candidate-5",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovexit"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-6",
+    "candidateId": "candidate-6",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "komunisticka-strana-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-7",
+    "candidateId": "candidate-7",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-8",
+    "candidateId": "candidate-8",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-9",
+    "candidateId": "candidate-9",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-10",
+    "candidateId": "candidate-10",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-11",
+    "candidateId": "candidate-11",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-12",
+    "candidateId": "candidate-12",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-13",
+    "candidateId": "candidate-13",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "lm-mayor-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Liptovský Mikuláš",
+        "independent": false,
+        "sourceIds": [
+          "lm-mayor-roster-2026",
+          "lm-election-population-2026"
+        ],
+        "population": 29598
+      }
+    ],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-14",
+    "candidateId": "candidate-14",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "strana-vidieka"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-15",
+    "candidateId": "candidate-15",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-16",
+    "candidateId": "candidate-16",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "strana-vidieka"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-17",
+    "candidateId": "candidate-17",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-18",
+    "candidateId": "candidate-18",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-19",
+    "candidateId": "candidate-19",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-20",
+    "candidateId": "candidate-20",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-21",
+    "candidateId": "candidate-21",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-22",
+    "candidateId": "candidate-22",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-23",
+    "candidateId": "candidate-23",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-24",
+    "candidateId": "candidate-24",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-25",
+    "candidateId": "candidate-25",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-26",
+    "candidateId": "candidate-26",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-27",
+    "candidateId": "candidate-27",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-28",
+    "candidateId": "candidate-28",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-29",
+    "candidateId": "candidate-29",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-30",
+    "candidateId": "candidate-30",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-31",
+    "candidateId": "candidate-31",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-32",
+    "candidateId": "candidate-32",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-33",
+    "candidateId": "candidate-33",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-34",
+    "candidateId": "candidate-34",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-35",
+    "candidateId": "candidate-35",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-36",
+    "candidateId": "candidate-36",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-37",
+    "candidateId": "candidate-37",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-38",
+    "candidateId": "candidate-38",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-39",
+    "candidateId": "candidate-39",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-40",
+    "candidateId": "candidate-40",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-41",
+    "candidateId": "candidate-41",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-42",
+    "candidateId": "candidate-42",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-43",
+    "candidateId": "candidate-43",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-44",
+    "candidateId": "candidate-44",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "lm-mayor-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Liptovský Mikuláš",
+        "independent": true,
+        "sourceIds": [
+          "lm-mayor-roster-2026",
+          "lm-election-population-2026"
+        ],
+        "population": 29598
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-45",
+    "candidateId": "candidate-45",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-46",
+    "candidateId": "candidate-46",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-47",
+    "candidateId": "candidate-47",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-48",
+    "candidateId": "candidate-48",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-49",
+    "candidateId": "candidate-49",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-50",
+    "candidateId": "candidate-50",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-51",
+    "candidateId": "candidate-51",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-52",
+    "candidateId": "candidate-52",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-53",
+    "candidateId": "candidate-53",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "za-ludi",
+      "konzervativci-krestanska-unia",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-54",
+    "candidateId": "candidate-54",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-55",
+    "candidateId": "candidate-55",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-56",
+    "candidateId": "candidate-56",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-57",
+    "candidateId": "candidate-57",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-58",
+    "candidateId": "candidate-58",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-59",
+    "candidateId": "candidate-59",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-60",
+    "candidateId": "candidate-60",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-61",
+    "candidateId": "candidate-61",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-62",
+    "candidateId": "candidate-62",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-63",
+    "candidateId": "candidate-63",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-64",
+    "candidateId": "candidate-64",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-65",
+    "candidateId": "candidate-65",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-66",
+    "candidateId": "candidate-66",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-67",
+    "candidateId": "candidate-67",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-68",
+    "candidateId": "candidate-68",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-69",
+    "candidateId": "candidate-69",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "lm-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-70",
+    "candidateId": "candidate-70",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-71",
+    "candidateId": "candidate-71",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovexit"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-72",
+    "candidateId": "candidate-72",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Ľubeľa",
+        "population": 1192,
+        "independent": false,
+        "sourceIds": [
+          "lubela-mayor-roster-2026",
+          "lubela-election-population-2026",
+          "zsk-district-5-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-73",
+    "candidateId": "candidate-73",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-74",
+    "candidateId": "candidate-74",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-75",
+    "candidateId": "candidate-75",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-76",
+    "candidateId": "candidate-76",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-77",
+    "candidateId": "candidate-77",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Liptovský Hrádok",
+        "population": 6974,
+        "independent": false,
+        "sourceIds": [
+          "lhr-mayor-roster-2026",
+          "lhr-election-population-2026",
+          "zsk-district-5-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "kotlebovci-ludova-strana-nase-slovensko"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-78",
+    "candidateId": "candidate-78",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovexit"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-79",
+    "candidateId": "candidate-79",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovexit"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-80",
+    "candidateId": "candidate-80",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "vlastenecky-blok"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-81",
+    "candidateId": "candidate-81",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovexit"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-82",
+    "candidateId": "candidate-82",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-83",
+    "candidateId": "candidate-83",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Liptovský Hrádok",
+        "population": 6974,
+        "independent": true,
+        "sourceIds": [
+          "lhr-mayor-roster-2026",
+          "lhr-election-population-2026",
+          "zsk-district-5-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-84",
+    "candidateId": "candidate-84",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-district-5-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-85",
+    "candidateId": "candidate-85",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-chair-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Žilinský samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "zsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026",
+        "zsk-chair-roster-2026"
+      ],
+      "reason": "Register MV SR uvádza účet pod zhodným menom. Prepojenie na túto kandidátku sa nepodarilo potvrdiť dvoma ďalšími identifikačnými údajmi; osobný odkaz preto neuvádzame."
+    }
+  },
+  {
+    "id": "finance-candidate-86",
+    "candidateId": "candidate-86",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-chair-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Žilinský samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "zsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "slovexit"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-87",
+    "candidateId": "candidate-87",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-chair-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Žilinský samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "zsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-88",
+    "candidateId": "candidate-88",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-chair-roster-2026",
+      "campaign-accounts-candidates-2026",
+      "jurinova-campaign-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Žilinský samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "zsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "hnutie-slovensko",
+      "za-ludi",
+      "nova",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "kdh-krestanskodemokraticke-hnutie",
+      "demokrati",
+      "konzervativci-krestanska-unia",
+      "obcianska-konzervativna-strana",
+      "demokraticka-strana-obcianski-demokrati-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-89",
+    "candidateId": "candidate-89",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-chair-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Žilinský samosprávny kraj",
+        "independent": true,
+        "sourceIds": [
+          "zsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "verified",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6211000000002975097737",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026",
+        "kapitulik-campaign-account-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "office",
+          "value": "kandidát na predsedu ŽSK",
+          "sourceIds": [
+            "kapitulik-campaign-account-2026",
+            "zsk-chair-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "2026",
+          "sourceIds": [
+            "kapitulik-campaign-account-2026",
+            "zsk-chair-roster-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-90",
+    "candidateId": "candidate-90",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-chair-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Žilinský samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "zsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-candidate-91",
+    "candidateId": "candidate-91",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "zsk-chair-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Žilinský samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "zsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "komunisticka-strana-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  }
+]

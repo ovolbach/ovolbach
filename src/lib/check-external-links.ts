@@ -21,7 +21,7 @@ export interface LinkCheckDependencies {
 
 const MANUAL_REVIEW_STATUSES = new Set([401, 403, 405, 429]);
 
-function sourceGroups(sources: readonly Source[]): Array<{ url: string; sourceIds: string[] }> {
+function sourceGroups(sources: readonly Pick<Source, 'id' | 'url'>[]): Array<{ url: string; sourceIds: string[] }> {
   const groups = new Map<string, string[]>();
   for (const source of sources) {
     const sourceIds = groups.get(source.url) ?? [];
@@ -32,7 +32,7 @@ function sourceGroups(sources: readonly Source[]): Array<{ url: string; sourceId
 }
 
 export async function checkExternalLinks(
-  sources: readonly Source[],
+  sources: readonly Pick<Source, 'id' | 'url'>[],
   fetcher: typeof fetch,
   dependencies: LinkCheckDependencies = {},
 ): Promise<LinkResult[]> {

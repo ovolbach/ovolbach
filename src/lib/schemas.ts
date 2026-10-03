@@ -124,6 +124,8 @@ export interface GuideData {
   districts: District[];
   elections: Election[];
   researchCoverage: ResearchCoverage[];
+  campaignFinance: CampaignFinance[];
+  financeParties: FinanceParty[];
 }
 
 export interface ValidationIssue {
@@ -262,3 +264,48 @@ export const researchCoverageSchema = z.object({
   checkedAt: isoDate.optional(),
   sourceIds: z.array(id),
 }).strict();
+
+const financeIdentitySchema = z.object({
+  attribute: z.enum(['municipality', 'office', 'election', 'occupation', 'campaign']),
+  value: requiredString,
+  sourceIds,
+}).strict();
+const financeUrl = requiredString.refine((value) => isSafeOutboundSourceUrl(value) && new URL(value).protocol === 'https:', 'Expected safe HTTPS account URL');
+const financeAccountSchema = z.discriminatedUnion('status', [
+  z.object({ status: z.literal('verified'), url: financeUrl, sourceIds, identity: z.array(financeIdentitySchema).min(2) }).strict(),
+  z.object({ status: z.literal('not_listed'), sourceIds }).strict(),
+  z.object({ status: z.literal('unverified'), sourceIds, reason: requiredString }).strict(),
+]);
+export const campaignFinanceSchema = z.object({
+  id, candidateId: id, electionDate: isoDate, checkedAt: isoDate, sourceIds,
+  legalSourceIds: sourceIds,
+  ownExpenses: z.enum(['unknown', 'yes', 'no']),
+  expenseSourceIds: z.array(id),
+  campaignOperator: z.enum(['unknown', 'candidate', 'party', 'both', 'none']),
+  operatorSourceIds: z.array(id),
+  otherCandidacies: z.enum(['not_exhaustive', 'exhaustive']),
+  candidacySearchNote: requiredString,
+  headCandidacies: z.array(z.object({
+    office: z.enum(['mayor', 'region-chair']), locality: requiredString,
+    population: z.number().int().nonnegative().optional(), independent: z.boolean(), sourceIds,
+  }).strict().superRefine((head, ctx) => {
+    if (head.office === 'mayor' && head.population === undefined) ctx.addIssue({ code: 'custom', message: 'Mayor duty needs verified population' });
+  })),
+  partyIds: z.array(id),
+  account: financeAccountSchema,
+  reportSourceId: id.optional(),
+}).strict().superRefine((record, ctx) => {
+  if (record.ownExpenses !== 'unknown' && record.expenseSourceIds.length === 0) ctx.addIssue({ code: 'custom', message: 'Established expenses need evidence' });
+  if (record.campaignOperator !== 'unknown' && record.operatorSourceIds.length === 0) ctx.addIssue({ code: 'custom', message: 'Established campaign operator needs evidence' });
+  if (record.account.status === 'verified' && new Set(record.account.identity.map((item) => item.attribute)).size < 2) ctx.addIssue({ code: 'custom', message: 'Identity needs two distinct attributes beyond the name' });
+});
+export const financePartySchema = z.object({
+  id, name: requiredString, electionDate: isoDate, checkedAt: isoDate, sourceIds,
+  account: z.discriminatedUnion('status', [
+    z.object({ status: z.literal('registered'), url: financeUrl }).strict(),
+    z.object({ status: z.literal('not_listed') }).strict(),
+  ]),
+  reportSourceId: id.optional(),
+}).strict();
+export type CampaignFinance = z.infer<typeof campaignFinanceSchema>;
+export type FinanceParty = z.infer<typeof financePartySchema>;

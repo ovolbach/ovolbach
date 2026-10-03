@@ -64,8 +64,8 @@ describe('election context', () => {
   it('loads the shared source register independently of one city view', async () => {
     const loader = dataLoader as unknown as { loadGlobalSources?: () => Promise<GuideData['sources']> };
     const sources = await loader.loadGlobalSources?.();
-    expect(sources).toHaveLength(252);
-    expect(new Set(sources?.map((source) => source.url)).size).toBe(252);
+    expect(sources).toHaveLength(264);
+    expect(new Set(sources?.map((source) => source.url)).size).toBe(264);
   });
 
   it('loads only published city/year contexts from election manifests', async () => {

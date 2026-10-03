@@ -84,6 +84,14 @@ export function makeGuideData(overrides: Partial<GuideData> = {}): GuideData {
     districts: [],
     elections: [baseElection],
     researchCoverage: coverage(),
+    campaignFinance: [{
+      id: 'finance-1', candidateId: baseCandidate.id, electionDate: '2026-10-24', checkedAt: '2026-09-17', sourceIds: [baseSource.id], legalSourceIds: [baseSource.id],
+      ownExpenses: 'unknown', expenseSourceIds: [], campaignOperator: 'unknown', operatorSourceIds: [],
+      otherCandidacies: 'not_exhaustive', candidacySearchNote: 'Testovací rozsah.',
+      headCandidacies: [{ office: 'mayor', locality: 'Liptovský Mikuláš', population: 29598, independent: true, sourceIds: [baseSource.id] }],
+      partyIds: [], account: { status: 'not_listed', sourceIds: [baseSource.id] },
+    }],
+    financeParties: [],
     ...overrides,
   };
 }

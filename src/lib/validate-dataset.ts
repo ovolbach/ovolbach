@@ -1,8 +1,10 @@
 import {
   candidateSchema, candidacySchema, claimSchema, districtSchema, electionSchema,
   researchCoverageSchema, sourceSchema,
+  campaignFinanceSchema, financePartySchema,
   type ClaimCategory, type GuideData, type ValidationIssue,
 } from './schemas';
+import { financeSourceIds, partyFinanceSourceIds } from './campaign-finance';
 
 export type { GuideData, ValidationIssue } from './schemas';
 
@@ -21,6 +23,8 @@ const schemas = {
   districts: districtSchema,
   elections: electionSchema,
   researchCoverage: researchCoverageSchema,
+  campaignFinance: campaignFinanceSchema,
+  financeParties: financePartySchema,
 } as const;
 
 function push(issues: ValidationIssue[], code: string, recordId: string, referenceId?: string) {
@@ -88,6 +92,8 @@ export function validateDataset(data: GuideData, mode: 'draft' | 'release'): Val
   identifiers(validated.candidacies, issues);
   identifiers(validated.claims, issues);
   identifiers(validated.researchCoverage, issues);
+  identifiers(validated.campaignFinance, issues);
+  const financePartyIds = identifiers(validated.financeParties, issues);
 
   const slugs = new Set<string>();
   for (const candidate of validated.candidates) {
@@ -101,6 +107,37 @@ export function validateDataset(data: GuideData, mode: 'draft' | 'release'): Val
   checkSourceIds(validated.districts, sourceIds, issues);
   checkSourceIds(validated.elections, sourceIds, issues);
   checkSourceIds(validated.researchCoverage, sourceIds, issues);
+  checkSourceIds(validated.campaignFinance.map((record) => ({ id: record.id, sourceIds: financeSourceIds(record) })), sourceIds, issues);
+  checkSourceIds(validated.financeParties.map((party) => ({ id: party.id, sourceIds: partyFinanceSourceIds(party) })), sourceIds, issues);
+  const financeCandidateIds = new Set<string>();
+  for (const record of validated.campaignFinance) {
+    if (!candidateIds.has(record.candidateId)) push(issues, 'unknown_candidate', record.id, record.candidateId);
+    if (financeCandidateIds.has(record.candidateId)) push(issues, 'duplicate_campaign_finance', record.id, record.candidateId);
+    financeCandidateIds.add(record.candidateId);
+    for (const partyId of record.partyIds) {
+      const party = validated.financeParties.find((item) => item.id === partyId);
+      if (!financePartyIds.has(partyId)) push(issues, 'unknown_finance_party', record.id, partyId);
+      if (party && party.electionDate !== record.electionDate) push(issues, 'wrong_finance_cycle', record.id, partyId);
+    }
+    const candidacies = validated.candidacies.filter((item) => item.candidateId === record.candidateId);
+    const nominationNames = new Set(candidacies.flatMap((item) => item.affiliations.flatMap((affiliation) => affiliation.split(',').map((name) => name.trim().toLocaleLowerCase('sk')))));
+    const partyNames = new Set(validated.financeParties.filter((party) => record.partyIds.includes(party.id)).map((party) => party.name.toLocaleLowerCase('sk')));
+    for (const name of nominationNames) {
+      if (!partyNames.has(name)) push(issues, 'missing_finance_nomination', record.id, name);
+    }
+    for (const candidacy of candidacies) {
+      const election = validated.elections.find((item) => item.contestId === candidacy.contestId);
+      if (election && election.electionDate !== record.electionDate) push(issues, 'wrong_finance_cycle', record.id, candidacy.id);
+      if ((candidacy.electionId === 'mayor' || candidacy.electionId === 'region-chair') && !record.headCandidacies.some((head) => head.office === candidacy.electionId && head.independent === candidacy.independent && candidacy.sourceIds.every((id) => head.sourceIds.includes(id)))) push(issues, 'missing_finance_head_candidacy', record.id, candidacy.id);
+    }
+    for (const legalId of record.legalSourceIds) {
+      const source = validated.sources.find((item) => item.id === legalId);
+      if (source && source.type !== 'official') push(issues, 'non_official_finance_rule', record.id, legalId);
+    }
+  }
+  if (mode === 'release') for (const candidate of validated.candidates) {
+    if (!financeCandidateIds.has(candidate.id)) push(issues, 'missing_campaign_finance', candidate.id);
+  }
   for (const candidate of validated.candidates) {
     for (const image of candidate.images ?? []) {
       if (!sourceIds.has(image.licenseSourceId)) push(issues, 'unknown_image_license_source', candidate.id, image.licenseSourceId);

@@ -5,6 +5,7 @@ import SourceLink from '../../../../components/SourceLink.astro';
 import CandidacyFacts from '../../../../components/CandidacyFacts.astro';
 import ComparisonSelection from '../../../../components/ComparisonSelection.astro';
 import ElectionHistoryTotals from '../../../../components/ElectionHistoryTotals.astro';
+import CampaignFinance from '../../../../components/CampaignFinance.astro';
 import { getOfficialCandidacies } from '../../../../lib/official-facts';
 import { listPublishedElectionContexts, type ElectionContext } from '../../../../lib/load-guide-data';
 import { getCandidateProfile } from '../../../../lib/selectors';
@@ -25,6 +26,13 @@ const profile = getCandidateProfile(data, candidateId);
 const candidacies = getOfficialCandidacies(data, candidateId);
 const electionHistory = summarizeElectionHistory(profile.claims);
 const metadata = candidateSeoMetadata(profile.candidate, data.candidates, candidacies, context.cityName, context.year);
+const finance = data.campaignFinance.find((record) => record.candidateId === candidateId);
+if (!finance) throw new Error(`Missing campaign finance: ${candidateId}`);
+const financeParties = finance.partyIds.map((id) => {
+  const party = data.financeParties.find((item) => item.id === id);
+  if (!party) throw new Error(`Missing finance party: ${id}`);
+  return party;
+});
 ---
 
 <BaseLayout title={metadata.title} description={metadata.description} context={context} personName={profile.candidate.displayName} breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Kandidáti', href: `${context.basePath}kandidati/` }, { label: profile.candidate.displayName, href: `${context.basePath}kandidat/${profile.candidate.slug}/` }]}>
@@ -42,6 +50,8 @@ const metadata = candidateSeoMetadata(profile.candidate, data.candidates, candid
     </section>
 
     <ElectionHistoryTotals totals={electionHistory} sources={data.sources} recordId={`${candidateId}-election-history`} />
+
+    <CampaignFinance record={finance} parties={financeParties} sources={data.sources} />
 
     {PROFILE_CATEGORIES.map((category) => (
       <ClaimSection

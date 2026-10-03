@@ -25,7 +25,7 @@
     "title": "ZOZNAM ZAREGISTROVANÝCH KANDIDÁTOV pre voľby primátora mesta Liptovský Mikuláš",
     "publisher": "Mesto Liptovský Mikuláš",
     "publishedAt": "2026-09-04",
-    "checkedAt": "2026-09-17",
+    "checkedAt": "2026-10-03",
     "language": "sk",
     "type": "official"
   },
@@ -35,7 +35,7 @@
     "title": "ZOZNAM ZAREGISTROVANÝCH KANDIDÁTOV pre voľby do Mestského zastupiteľstva mesta Liptovský Mikuláš",
     "publisher": "Mesto Liptovský Mikuláš",
     "publishedAt": "2026-09-04",
-    "checkedAt": "2026-09-17",
+    "checkedAt": "2026-10-03",
     "language": "sk",
     "type": "official"
   },
@@ -45,7 +45,7 @@
     "title": "ZOZNAM ZAREGISTROVANÝCH KANDIDÁTOV pre voľby poslancov do zastupiteľstva Žilinského samosprávneho kraja",
     "publisher": "Volebná komisia Žilinského samosprávneho kraja (uverejnené Obcou Žiar)",
     "publishedAt": "2026-09-09",
-    "checkedAt": "2026-09-17",
+    "checkedAt": "2026-10-03",
     "language": "sk",
     "type": "official"
   },
@@ -55,7 +55,7 @@
     "title": "ZOZNAM ZAREGISTROVANÝCH KANDIDÁTOV pre voľby predsedu Žilinského samosprávneho kraja",
     "publisher": "Volebná komisia Žilinského samosprávneho kraja (uverejnené Obcou Žiar)",
     "publishedAt": "2026-09-09",
-    "checkedAt": "2026-09-17",
+    "checkedAt": "2026-10-03",
     "language": "sk",
     "type": "official"
   },
@@ -130,7 +130,7 @@
     "url": "https://www.janblchac.sk/",
     "title": "Ján Blcháč – volebný program 2026",
     "publisher": "Ján Blcháč",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-03",
     "language": "sk",
     "type": "candidate"
   },
@@ -199,7 +199,7 @@
     "url": "https://tanasufliarska.sk/",
     "title": "Táňa Šufliarská – kandidátka na primátorku mesta Liptovský Mikuláš",
     "publisher": "Táňa Šufliarská",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-03",
     "language": "sk",
     "type": "candidate"
   },
@@ -1403,7 +1403,7 @@
     "url": "https://jurinova.sk/",
     "title": "Erika Jurinová – kandidátka na županku",
     "publisher": "Erika Jurinová",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-03",
     "language": "sk",
     "type": "candidate"
   },
@@ -1462,7 +1462,7 @@
     "url": "https://www.kapitulik.sk/program",
     "title": "Program",
     "publisher": "Martin Kapitulík",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-03",
     "language": "sk",
     "type": "candidate"
   },
@@ -2414,6 +2414,118 @@
     "title": "Hlasovanie poslancov z 23. zasadnutia Mestského zastupiteľstva v Žiline, konaného dňa 17.02.2026",
     "publisher": "Mesto Žilina",
     "checkedAt": "2026-09-20",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "campaign-law-181-2014",
+    "url": "https://static.slov-lex.sk/static/SK/ZZ/2014/181/20220801.html",
+    "title": "Zákon č. 181/2014 Z. z. o volebnej kampani a o zmene a doplnení zákona č. 85/2005 Z. z. o politických stranách a politických hnutiach v znení neskorších predpisov",
+    "publisher": "Národná rada Slovenskej republiky / Slov-Lex",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "campaign-accounts-candidates-2026",
+    "url": "https://www.minv.sk/?adresy-webovych-sidiel-osobitnych-platobnych-uctov-kandidati",
+    "title": "Adresy webových sídiel osobitných platobných účtov - kandidáti",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "campaign-accounts-parties-2026",
+    "url": "https://www.minv.sk/?adresy-webovych-sidiel-osobitnych-platobnych-uctov-politicke-strany",
+    "title": "Adresy webových sídiel osobitných platobných účtov - politické strany",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "campaign-faq-candidates-2026",
+    "url": "https://www.minv.sk/?najcastejsie-otazky-a-odpovede-pre-kandidatov",
+    "title": "Najčastejšie otázky a odpovede - pre kandidátov",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "campaign-faq-candidate-reports-2026",
+    "url": "https://www.minv.sk/?najcastejsie-otazky-a-odpovede-pre-kandidatov&acstranka=3",
+    "title": "Najčastejšie otázky a odpovede - pre kandidátov",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "campaign-faq-parties-2026",
+    "url": "https://www.minv.sk/?najcastejsie-otazky-a-odpovede-pre-politicke-strany",
+    "title": "Najčastejšie otázky a odpovede - pre politické strany",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "lm-election-population-2026",
+    "url": "https://www.mikulas.sk/samosprava/volby_do_organov_samospravy_obci_a_volby_do_organov_samospravnych_krajov_2026/",
+    "title": "Voľby do orgánov samosprávy obcí a voľby do orgánov samosprávnych krajov 2026",
+    "publisher": "Mesto Liptovský Mikuláš",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "lhr-mayor-roster-2026",
+    "url": "https://www.liptovskyhradok.sk/download_file_f.php?id=2463264",
+    "title": "Zoznam zaregistrovaných kandidátov pre voľby primátora mesta Liptovský Hrádok 24. októbra 2026",
+    "publisher": "Mesto Liptovský Hrádok",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2026-09-03"
+  },
+  {
+    "id": "lhr-election-population-2026",
+    "url": "https://www.liptovskyhradok.sk/download_file_f.php?id=2449241",
+    "title": "Oznámenie o určení počtu obyvateľov pre voľby do orgánov samosprávy obcí 24. októbra 2026",
+    "publisher": "Mesto Liptovský Hrádok",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2026-07-27"
+  },
+  {
+    "id": "kapitulik-campaign-account-2026",
+    "url": "https://www.kapitulik.sk/prispiet",
+    "title": "Chcem prispieť | Martin Kapitulík",
+    "publisher": "Martin Kapitulík",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "candidate"
+  },
+  {
+    "id": "lubela-mayor-roster-2026",
+    "url": "https://www.lubela.sk/modules/file_storage/download.php?file=5937f8bc%7C429&inline=1",
+    "title": "Zoznam zaregistrovaných kandidátov pre voľby starostu obce Ľubeľa 24. októbra 2026",
+    "publisher": "Obec Ľubeľa",
+    "publishedAt": "2026-09-03",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "lubela-election-population-2026",
+    "url": "https://www.lubela.sk/modules/file_storage/download.php?file=885e7965%7C427&inline=1",
+    "title": "Zverejnenie počtu obyvateľov obce ku dňu vyhlásenia volieb do orgánov samosprávy obcí a volieb do orgánov samosprávnych krajov v roku 2026",
+    "publisher": "Obec Ľubeľa",
+    "publishedAt": "2026-07-30",
+    "checkedAt": "2026-10-03",
     "language": "sk",
     "type": "official"
   }
