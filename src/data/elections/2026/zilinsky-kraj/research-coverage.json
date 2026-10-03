@@ -12885,7 +12885,10 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-a-sp21-1"
+      "za-a-sp21-1",
+      "za-media-a-cepec-parking-response-2025",
+      "za-media-a-korytnacka-change-owner-2025",
+      "za-media-a-cepec-bulvar-tent-2026"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -13071,7 +13074,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-a-media-22"
+      "za-a-media-22",
+      "za-media-a-durmis-hockey-sale-outcome-2020"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -13349,8 +13353,10 @@
     "id": "coverage-za-ludmila-chodelkova-media",
     "candidateId": "za-ludmila-chodelkova",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-a-korytnacka-change-owner-2025"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -13612,7 +13618,9 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "za-a-johanes-bulvar-2026"
+      "za-a-johanes-bulvar-2026",
+      "za-media-root-johanes-sme-2013",
+      "za-media-root-johanes-response-2013"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -13938,8 +13946,10 @@
     "id": "coverage-za-ivan-magat-media",
     "candidateId": "za-ivan-magat",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-root-mayor-media-2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -14211,7 +14221,13 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-a-media-29"
+      "za-a-media-29",
+      "za-media-c-slota-drone-2026",
+      "za-media-c-slota-petition-promotion-2025",
+      "za-media-c-slota-petition-refusal-2025",
+      "za-media-c-slota-petition-court-2025",
+      "za-media-c-slota-icjk-investigation-2025",
+      "za-media-c-slota-oksana-2025"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -14219,8 +14235,11 @@
     "id": "coverage-za-pavol-slota-controversies",
     "candidateId": "za-pavol-slota",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-slota-oksana-2025",
+      "za-media-c-slota-icjk-investigation-2025"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -14883,7 +14902,9 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-a-chudik-radio-2026"
+      "za-a-chudik-radio-2026",
+      "za-media-a-chudik-book-2025",
+      "za-media-a-chudik-published-book-status"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -14964,7 +14985,8 @@
     "category": "programme_statements",
     "status": "found",
     "sourceIds": [
-      "za-a-kubik-campaign"
+      "za-a-kubik-campaign",
+      "za-media-b-kubik-campaign-sep2026"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -15165,8 +15187,13 @@
     "id": "coverage-za-dusan-manak-controversies",
     "candidateId": "za-dusan-manak",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-turcanyiova-architect-2026",
+      "za-media-b-architect-appointment-2026",
+      "za-media-b-manak-borik-aug2026",
+      "za-media-b-city-borik-response-aug2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -15257,8 +15284,10 @@
     "id": "coverage-za-samuel-striezenec-media",
     "candidateId": "za-samuel-striezenec",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-striezenec-gastronomy-2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -15459,8 +15488,12 @@
     "id": "coverage-za-sona-turcanyiova-media",
     "candidateId": "za-sona-turcanyiova",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-turcanyiova-architect-2026",
+      "za-media-c-architect-appointment-material-2026",
+      "za-media-c-architect-minutes-2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -15643,7 +15676,9 @@
     "status": "found",
     "sourceIds": [
       "za-a-sp21-0",
-      "za-a-sp21-3"
+      "za-a-sp21-3",
+      "za-media-a-bechny-homeless-2025",
+      "za-media-a-bechny-conservatory-handover-2025"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -15925,7 +15960,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-a-sp21-1"
+      "za-a-sp21-1",
+      "za-media-root-mirage-2026"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -15933,8 +15969,11 @@
     "id": "coverage-za-peter-cibulka-controversies",
     "candidateId": "za-peter-cibulka",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-root-karpatska-2020",
+      "za-media-root-korytnacka-2022"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -16031,7 +16070,8 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "za-a-mjartan-cvc-2021"
+      "za-a-mjartan-cvc-2021",
+      "za-media-root-cvc-2019-fulfillment"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -16589,7 +16629,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-b-martinkova-anketa"
+      "za-b-martinkova-anketa",
+      "za-media-c-talapka-exchange-2024"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -16680,8 +16721,10 @@
     "id": "coverage-za-silvia-bakkery-controversies",
     "candidateId": "za-silvia-bakkery",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-a-bakkery-campaign-2022"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -16770,7 +16813,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-b-barcik-tasr-2014"
+      "za-b-barcik-tasr-2014",
+      "za-media-a-barcik-kassa-2014"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -16999,7 +17043,8 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "za-b-corba-media"
+      "za-b-corba-media",
+      "za-media-a-corba-flat-original-2014"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -17130,8 +17175,10 @@
     "id": "coverage-za-lucia-hlavcova-programme_statements",
     "candidateId": "za-lucia-hlavcova",
     "category": "programme_statements",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-b-hlavcova-media"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -17240,7 +17287,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-b-kassa-tasr-2014"
+      "za-b-kassa-tasr-2014",
+      "za-media-b-kassa-hokejbal-apr2025"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -17315,8 +17363,10 @@
     "id": "coverage-za-bohumil-kostolny-media",
     "candidateId": "za-bohumil-kostolny",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-root-mayor-media-2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -17408,7 +17458,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-b-martinkova-anketa"
+      "za-b-martinkova-anketa",
+      "za-media-b-martinkova-orchard-jun2018"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -17549,8 +17600,11 @@
     "id": "coverage-za-darina-mikusova-media",
     "candidateId": "za-darina-mikusova",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-b-mikusova-timravy-apr2022",
+      "za-media-c-spolu-origins-2025"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -17704,7 +17758,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-b-spolu-tasr"
+      "za-b-spolu-tasr",
+      "za-media-c-spolu-origins-2025"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -18007,8 +18062,11 @@
     "id": "coverage-za-ondrej-soska-media",
     "candidateId": "za-ondrej-soska",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-soska-sbl-2017",
+      "za-media-c-soska-end-2020"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -18457,8 +18515,14 @@
     "id": "coverage-za-roman-jantosik-media",
     "candidateId": "za-roman-jantosik",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-b-jantosik-streetball-jun2023",
+      "za-media-b-jantosik-streetball-jun2026",
+      "za-media-b-jantosik-petition-may2024",
+      "za-media-b-jantosik-petition-jul2024",
+      "za-media-c-spolu-origins-2025"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -18544,7 +18608,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-b-martinkova-anketa"
+      "za-b-martinkova-anketa",
+      "za-media-c-nicik-culture-2023"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -18628,16 +18693,20 @@
     "id": "coverage-za-lubos-plesinger-media",
     "candidateId": "za-lubos-plesinger",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-plesinger-advertising-2022"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
     "id": "coverage-za-lubos-plesinger-controversies",
     "candidateId": "za-lubos-plesinger",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-plesinger-advertising-2022"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -19119,7 +19188,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-b-cader-budget"
+      "za-b-cader-budget",
+      "za-media-a-cader-budget-adopted-2024"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -19127,8 +19197,11 @@
     "id": "coverage-za-denis-cader-controversies",
     "candidateId": "za-denis-cader",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-a-zavodie-petition-2026",
+      "za-media-root-city-response-2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -19207,7 +19280,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-b-delincak-media"
+      "za-b-delincak-media",
+      "za-media-a-zavodie-petition-2026"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -19217,7 +19291,10 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "za-b-delincak-dispute"
+      "za-b-delincak-dispute",
+      "za-media-a-delincak-adverts-2023",
+      "za-media-a-delincak-adverts-settlement-2024",
+      "za-media-a-delincak-adverts-response-2022"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -19488,8 +19565,10 @@
     "id": "coverage-za-michal-sibila-media",
     "candidateId": "za-michal-sibila",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-spolu-origins-2025"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -19645,7 +19724,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-b-augustin-media"
+      "za-b-augustin-media",
+      "za-media-a-augustin-exekutor-2022"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -19708,8 +19788,10 @@
     "id": "coverage-za-veronika-barcikova-programme_statements",
     "candidateId": "za-veronika-barcikova",
     "category": "programme_statements",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-a-barcikova-school-buses-2022"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -19971,8 +20053,10 @@
     "id": "coverage-za-anton-kozlik-media",
     "candidateId": "za-anton-kozlik",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-root-mayor-media-2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -20133,8 +20217,10 @@
     "id": "coverage-za-michal-milo-media",
     "candidateId": "za-michal-milo",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-root-mayor-media-2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -20297,8 +20383,11 @@
     "id": "coverage-za-jan-pazicky-media",
     "candidateId": "za-jan-pazicky",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-pazicky-brodnianka-2017",
+      "za-media-c-pazicky-budget-2017"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -20390,7 +20479,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-a-johanes-bulvar-2026"
+      "za-a-johanes-bulvar-2026",
+      "za-media-root-bulvar-2025"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -20401,7 +20491,14 @@
     "status": "found",
     "sourceIds": [
       "za-a-johanes-bulvar-2026",
-      "za-a-mjartan-cvc-2021"
+      "za-a-mjartan-cvc-2021",
+      "za-media-root-bulvar-2025",
+      "za-media-root-bulvar-paid-2026",
+      "za-media-root-zps-2022",
+      "za-media-root-city-response-2024",
+      "za-media-root-karpatska-2024-resolution",
+      "za-media-root-city-response-2026",
+      "za-media-root-mirage-2026"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -21143,16 +21240,21 @@
     "id": "coverage-za-tomas-janik-media",
     "candidateId": "za-tomas-janik",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-b-janik-appointment-aug2020"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
     "id": "coverage-za-tomas-janik-controversies",
     "candidateId": "za-tomas-janik",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-b-janik-camase-aug2024",
+      "za-media-b-camase-investigation-feb2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -21313,7 +21415,8 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "za-c-kavecka-obvinenie-2022"
+      "za-c-kavecka-obvinenie-2022",
+      "za-media-b-kavecka-union-jun2024"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -21323,7 +21426,12 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "za-c-kavecka-obvinenie-2022"
+      "za-c-kavecka-obvinenie-2022",
+      "za-media-b-kavecka-complaint-jun2022",
+      "za-media-b-kavecka-investigation-jul2023",
+      "za-media-b-kavecka-charge-jan2022",
+      "za-media-b-kunerad-judgment-dec2024",
+      "za-media-b-kunerad-fine-jun2025"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -21628,7 +21736,8 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "za-c-laurencik-late-declaration-2010"
+      "za-c-laurencik-late-declaration-2010",
+      "za-media-b-laurencik-declaration-aug2010"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -21771,7 +21880,8 @@
     "category": "programme_statements",
     "status": "found",
     "sourceIds": [
-      "za-c-marcan-pr-2024"
+      "za-c-marcan-pr-2024",
+      "za-media-b-marcan-campaign-oct2026"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -21939,8 +22049,10 @@
     "id": "coverage-za-jozef-mico-media",
     "candidateId": "za-jozef-mico",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-b-mico-filmsets-sep2018"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -22284,8 +22396,11 @@
     "id": "coverage-za-igor-ryban-media",
     "candidateId": "za-igor-ryban",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-ryban-transport-2014",
+      "za-media-c-ryban-protection-2019"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -22294,7 +22409,8 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "za-c-ryban-calendar-2019"
+      "za-c-ryban-calendar-2019",
+      "za-media-c-ryban-protection-2019"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -22377,8 +22493,10 @@
     "id": "coverage-za-peter-slysko-media",
     "candidateId": "za-peter-slysko",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-slysko-exit-2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -22522,16 +22640,20 @@
     "id": "coverage-za-jozef-strba-media",
     "candidateId": "za-jozef-strba",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-strba-soar-2020"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
     "id": "coverage-za-jozef-strba-controversies",
     "candidateId": "za-jozef-strba",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-strba-soar-2020"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -22606,8 +22728,10 @@
     "id": "coverage-za-anna-veresova-media",
     "candidateId": "za-anna-veresova",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-veresova-kdh-2019"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -22906,8 +23030,10 @@
     "id": "coverage-za-maria-zemiakova-media",
     "candidateId": "za-maria-zemiakova",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-zemiakova-award-2015"
+    ],
     "checkedAt": "2026-10-03"
   },
   {
@@ -22994,8 +23120,11 @@
     "id": "coverage-za-jozef-zabka-media",
     "candidateId": "za-jozef-zabka",
     "category": "media",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "za-media-c-zabka-d3-2026",
+      "za-media-c-zabka-statement-2026"
+    ],
     "checkedAt": "2026-10-03"
   },
   {

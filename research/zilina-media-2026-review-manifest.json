@@ -1,0 +1,268 @@
+{
+  "baseCommit": "8a02b12829b09025902a89d6d72ab20a89cf23fc",
+  "branch": "codex/zilina-2026",
+  "checkedAt": "2026-10-03",
+  "state": "Final local research data; independent v3 review and11gates complete",
+  "independentReview": {
+    "reviewer": "/root/zilina_media_followup_review",
+    "context": "fresh read-only agent; no implementation history; no file mutations",
+    "verdict": "no remaining actionable findings on frozen v3",
+    "inputManifestPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/review-input-manifest-v3.json",
+    "inputManifestSha256": "926df1ebd0cadc3267c2df0391b4532b9ebcf1b2ef8fa80bd0d4fcbba7ce1c61",
+    "frozenInput": {
+      "baseCommit": "8a02b12829b09025902a89d6d72ab20a89cf23fc",
+      "checkedAt": "2026-10-03",
+      "reviewInput": "frozen working-tree files; historical HEAD unchanged",
+      "files": {
+        "README.md": "c921e68aa4fccc7ab32a571cd258d198cb22d00c6ed124054fca94b914f74a61",
+        "src/data/sources.json": "2e8cfb1d15c5141caf8fecd1b4369577c04740bf4727bc193f60fd0d8899f601",
+        "src/data/elections/2026/zilinsky-kraj/claims.json": "465f0947aa7bd598a565bc73644cfcc9e754682e233a4eb1f4d7232bf291b883",
+        "src/data/elections/2026/zilinsky-kraj/research-coverage.json": "22ee1aa97c185352f60c8c282b86f60dfac07adea8aaf8718445bb5749f22f68",
+        "research/zilina-media-2026.json": "b6b3202a6cdb2b4a77c994e8a5bd5f1581d25058a58e7c84212c9251716acf7e",
+        "research/zilina-media-2026-audit.md": "519a80b270eb5f8d22deeb76678ea515dc96f28e87b8ac30f485fdabfa40fb83",
+        "tests/unit/zilina-media-followup.test.ts": "72c0443bdc0324e4aa3217bc1bc72238f1f7dbc95fffe3acd475050057ce314a",
+        "tests/fixtures/zilina-media-protected.json": "eb9e6dc905f5e0cbdf5aa4c366610f071a98bfaa79214815f1524bcc58d672fd"
+      },
+      "scopeCount": 128,
+      "excludedIds": [
+        "candidate-85",
+        "candidate-86",
+        "candidate-87",
+        "candidate-88",
+        "candidate-89",
+        "candidate-90",
+        "candidate-91"
+      ],
+      "revision": 3,
+      "correctionsSinceFirstFreeze": [
+        "Remove duplicate Sokol announcement; total new claims110",
+        "Move Plešinger/Štrba new media reports to media category; responses remain controversies",
+        "Neutral Laurenčík label avoids static substring false positive",
+        "Strengthen release invariant/duplicate regression; journal and counts aligned"
+      ],
+      "correctionsSinceSecondFreeze": [
+        "Canonical public ICJK reader restored; ordinary API only access-proof",
+        "Explicit bounded chronology for existing Sokol announcement",
+        "Superseded scratch-capture SHA proof removed"
+      ]
+    },
+    "independentlyExecutedTests": {
+      "command": "npm test -- tests/unit/zilina-media-followup.test.ts",
+      "exitCode": 0,
+      "passed": 19
+    },
+    "coverage": {
+      "people": 128,
+      "queryAssignments": 532,
+      "chronologies": 70,
+      "existingMediaControversyClaims": 49,
+      "captureHashes": 83,
+      "groupReceiptHashes": 4
+    },
+    "fullReleaseGatesExecutedBy": "implementer; not independent reviewer"
+  },
+  "integration": {
+    "candidates": 128,
+    "excludedSharedCandidates": 7,
+    "newSources": 80,
+    "newClaims": 110,
+    "sourceCorrections": 3,
+    "claimCorrections": 2,
+    "individualQueryAssignments": 532,
+    "chronologies": 70
+  },
+  "excludedCandidateIds": [
+    "candidate-85",
+    "candidate-86",
+    "candidate-87",
+    "candidate-88",
+    "candidate-89",
+    "candidate-90",
+    "candidate-91"
+  ],
+  "protectedScope": "No outside-scope claim/coverage/source changes; official ballots, candidates, candidacies, finance, districts, elections, other towns and4historicalŽilinaaudits unchanged",
+  "finalFiles": {
+    "README.md": "c921e68aa4fccc7ab32a571cd258d198cb22d00c6ed124054fca94b914f74a61",
+    "src/data/sources.json": "2e8cfb1d15c5141caf8fecd1b4369577c04740bf4727bc193f60fd0d8899f601",
+    "src/data/elections/2026/zilinsky-kraj/claims.json": "465f0947aa7bd598a565bc73644cfcc9e754682e233a4eb1f4d7232bf291b883",
+    "src/data/elections/2026/zilinsky-kraj/research-coverage.json": "22ee1aa97c185352f60c8c282b86f60dfac07adea8aaf8718445bb5749f22f68",
+    "research/zilina-media-2026.json": "b6b3202a6cdb2b4a77c994e8a5bd5f1581d25058a58e7c84212c9251716acf7e",
+    "research/zilina-media-2026-audit.md": "e241f7162b673a1ec2c84521f714b5780570fbaff9f2c48999c873a850b340f0",
+    "tests/unit/zilina-media-followup.test.ts": "72c0443bdc0324e4aa3217bc1bc72238f1f7dbc95fffe3acd475050057ce314a",
+    "tests/fixtures/zilina-media-protected.json": "eb9e6dc905f5e0cbdf5aa4c366610f071a98bfaa79214815f1524bcc58d672fd",
+    "research/zilina-media-2026-review.md": "e3c806f9edd3f5742be959241de338ce63023d78d5438996d0d8e041ce570bf3"
+  },
+  "documentationOnlyChangesAfterReview": [
+    "research/zilina-media-2026-audit.md",
+    "research/zilina-media-2026-review.md",
+    "research/zilina-media-2026-review-manifest.json"
+  ],
+  "reviewedDataAndTestHashesStillMatch": true,
+  "requiredGates": [
+    {
+      "command": "npm test",
+      "exitCode": 0,
+      "result": "323 passed, 4 skipped; 37 successful test files and one intentionally skipped",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-unit.log",
+      "logSha256": "37c303c6a3193aad1da39ee5f83d878e4382377b72faa9ccc68a45b26e1cca41"
+    },
+    {
+      "command": "npm run validate:data",
+      "exitCode": 0,
+      "result": "cycles1 contexts3 published3 issues0",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-data.log",
+      "logSha256": "7e0a75097bf3d91cc911105e229075794512186ebd2ea92d7763f78fa43e68e9"
+    },
+    {
+      "command": "npm run validate:release",
+      "exitCode": 0,
+      "result": "cycles1 contexts3 published3 issues0",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-release.log",
+      "logSha256": "8a5e66d8b2d9a7e87f1c0b929b26c8cfe2c67b8646962ac1fbd00e0c0231b772"
+    },
+    {
+      "command": "npm run report:coverage",
+      "exitCode": 0,
+      "result": "releaseReady=true, pending0; Žilina135 people,1080 category records",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-coverage.log",
+      "logSha256": "87bd77f5ea91751c6a4faf5197d74f99484acb4df4df434bb5626e5dc48eb24c"
+    },
+    {
+      "command": "npm run build",
+      "exitCode": 0,
+      "result": "137 Astro files:0 errors/0 warnings/0 hints;324 HTML pages;320 Pagefind indexed pages",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-build.log",
+      "logSha256": "5ae285046956e0938d9e942d125cf93dd99df9a0dc4f8f66a762edfeb935123f"
+    },
+    {
+      "command": "npm run check:seo",
+      "exitCode": 0,
+      "result": "320 indexable canonical pages;3 noindex comparison tools;1 noindex404",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-seo.log",
+      "logSha256": "b669772548417621496f254afa72bffd7b1f01fcb8f01be8a3b594243a9ea10c"
+    },
+    {
+      "command": "npm run check:html",
+      "exitCode": 0,
+      "result": "W3C Nu26.10.2:324 HTML files,0 errors,0 warnings",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-html.log",
+      "logSha256": "907daa8c10b51b0c0b0728f00b43129feae13e8a782ac46c476da7ec859de709"
+    },
+    {
+      "command": "npm run check:storage",
+      "exitCode": 0,
+      "result": "No prohibited browser persistence; exit0",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-storage.log",
+      "logSha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd"
+    },
+    {
+      "command": "npm run check:links",
+      "exitCode": 0,
+      "result": "783 unique URLs:579 HTTP200,195 HTTP206,8 HTTP403,1 HTTP429;9 manual review,0 transport failures",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-links.log",
+      "logSha256": "bffa45b128c557bcf792aa12fd22b89dd020b38f146a27123e3e41d2e1780258"
+    },
+    {
+      "command": "npm run test:e2e -- --config=.superpowers/sdd/2026-10-03-zilina-media-followup/playwright-resource.config.ts --workers=1",
+      "exitCode": 0,
+      "result": "166 passed,2 intentionally skipped,168 total; desktop1440x900/mobile390x844",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-e2e-paced.log",
+      "logSha256": "b1bede5172d343517961bd235b8ab9cdf4bc98c95ab5b46f5ccd60e74b0ecb58"
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "result": "No whitespace errors",
+      "logPath": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-whitespace.log",
+      "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "browserExecution": {
+    "configurationPath": ".superpowers/sdd/2026-10-03-zilina-media-followup/playwright-resource.config.ts",
+    "configurationSha256": "a161a1e7343c3f822cd51a4bc863e64926ef44e84a843c8b1de7b434d6e044a6",
+    "configurationText": "import config from '../../../playwright.config';\nexport default { ...config, testDir: '../../../tests/e2e', use: { ...config.use, launchOptions: { slowMo: 50 } } };\n",
+    "workers": 1,
+    "slowMoMs": 50,
+    "descriptorLimit": 65536,
+    "browsersPath": "/tmp/uctomost-browsers",
+    "libraryPath": "/tmp/uctomost-browser-libs/usr/lib/x86_64-linux-gnu",
+    "note": "All168 original test scenarios and both projects retained; exact internal Chromium exhaustion cause unconfirmed"
+  },
+  "htmlMachineReport": {
+    "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/html-validation-final.json",
+    "sha256": "75cb9bbc7994d98586625e38f12c7785abdca17868dafbf85b11a3ddb71968c4",
+    "archivalVerificationLog": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-html-archived.log",
+    "archivalVerificationLogSha256": "907daa8c10b51b0c0b0728f00b43129feae13e8a782ac46c476da7ec859de709",
+    "archivalVerificationExitCode": 0
+  },
+  "preservedEarlierLogs": {
+    "baseline-unit.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/baseline-unit.log",
+      "sha256": "97fcd235fea6260b13d69719c652a7dbbd3ee29f4cd5a955f82cf27ee57778f3"
+    },
+    "gate-unit.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/gate-unit.log",
+      "sha256": "91d9a9fc52012ac1424296f6a46bac649eb9fdd69d67ffc25c30c24503a8d74e"
+    },
+    "gate-data.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/gate-data.log",
+      "sha256": "2e1257fc4772caf4dea92ee2954cd83fc61cc167e88e7d9a9f165bd7d9b273e5"
+    },
+    "gate-release.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/gate-release.log",
+      "sha256": "7ab211fc5fe79bff6a104941896964c93b07b0febbeebaa826c7455f620c3b83"
+    },
+    "red-root.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/red-root.log",
+      "sha256": "fb13783827435c76b32802e283b6e3634fb4f8935c1264f9e4671a8fad75e3d9"
+    },
+    "red-provenance.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/red-provenance.log",
+      "sha256": "f392e78a0a3226d80ad6b4bd39c9b61eb8689ff5ab76e180b7c6d292f57acadf"
+    },
+    "red-release-invariants.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/red-release-invariants.log",
+      "sha256": "4257932cf6c567bf54b635c01444a0feafb1320acfc9d978b417b76f85b9d77a"
+    },
+    "red-review-reader-and-history.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/red-review-reader-and-history.log",
+      "sha256": "56219d256c36802a9661f0fdf667fa8e2d4e9adfdd16d0ec0a9e7651cfe4dfde"
+    },
+    "green-review-reader-and-history.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/green-review-reader-and-history.log",
+      "sha256": "05fde28ed3c3d9a7e10496b3d04d57700d2a485fb4be6dfeb33acffb90e0bc95"
+    },
+    "final-e2e.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/final-e2e.log",
+      "sha256": "928fa70bc92fb314af0011652f3572a550f3ce4a19eb74b1c88d9b18d6d40128"
+    },
+    "e2e-resource-diagnostic.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/e2e-resource-diagnostic.log",
+      "sha256": "a258f4ea03595088816f9bb934d1637af39229a98bc7947d1bfc2b6944869198"
+    },
+    "e2e-browser-diagnostic.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/e2e-browser-diagnostic.log",
+      "sha256": "79a37e818c75a792392dd78919348830de7dded38e2bcb2e501b6ae9ca414ccd"
+    },
+    "e2e-paced-diagnostic.log": {
+      "path": "/home/sergey/codex/ovolbach/.research-captures/zilina-media-2026/e2e-paced-diagnostic.log",
+      "sha256": "9b4b200c1c3ea42ba292838f1cb138ec505288bcbd9acb66d5b3cce99c0d6799"
+    }
+  },
+  "testSkips": {
+    "unit": {
+      "count": 4,
+      "reason": "Existing nginx-deployment suite requires NGINX_BIN; unset in this environment"
+    },
+    "e2e": {
+      "count": 2,
+      "reason": "Existing mobile-only layout assertions skipped on desktop and executed on mobile"
+    }
+  },
+  "limitations": [
+    "Public searches bound to2026-10-03; not proof of exhaustive media absence",
+    "9HTTP-blocked links require manual review; source access and factual support separately documented",
+    "Reported allegations remain attributed; unlocated final outcome remains unresolved",
+    "Automatic review is not human editorial/legal approval"
+  ]
+}

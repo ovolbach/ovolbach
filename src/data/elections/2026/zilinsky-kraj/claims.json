@@ -25933,10 +25933,10 @@
     "category": "media",
     "kind": "media_report",
     "label": {
-      "sk": "Rozhovor o samospráve"
+      "sk": "Objednaný rozhovor"
     },
     "text": {
-      "sk": "Žilina SP21 publikovala rozhovor s Ľubomírom Bechným o samospráve a hospicovej starostlivosti."
+      "sk": "Žilina SP21 zverejnila objednaný rozhovor s Ľubomírom Bechným o samospráve a hospicovej starostlivosti; článok uvádza Bechného ako objednávateľa."
     },
     "period": "2022-10-19",
     "sourceIds": [
@@ -29945,10 +29945,10 @@
     "category": "media",
     "kind": "media_report",
     "label": {
-      "sk": "Mediálny rozhovor alebo správa"
+      "sk": "Rozhovor pripravený v spolupráci s kandidátom"
     },
     "text": {
-      "sk": "Michal Filek na SP21 24. novembra 2022 zverejnil rozhovor s Branislavom Delinčákom o jeho prioritách v mestských častiach Žiliny."
+      "sk": "Michal Filek na SP21 24. novembra 2022 zverejnil rozhovor o prioritách Branislava Delinčáka, ktorý portál označil ako článok vzniknutý v spolupráci s ním."
     },
     "period": "2022-11-24",
     "sourceIds": [
@@ -32969,6 +32969,1885 @@
     "period": "starší dostupný zoznam, overený2026-10-03",
     "sourceIds": [
       "za-c-terchova-council"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-ivan-magat-media-2026",
+    "candidateId": "za-ivan-magat",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálne uvedenie kandidatúry"
+    },
+    "text": {
+      "sk": "Žilinak.sk 7. septembra 2026 uviedol meno Ivan Magát v zozname ôsmich kandidátov na primátora Žiliny."
+    },
+    "period": "2026-09-07",
+    "sourceIds": [
+      "za-media-root-mayor-media-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-michal-milo-media-2026",
+    "candidateId": "za-michal-milo",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálne uvedenie kandidatúry"
+    },
+    "text": {
+      "sk": "Žilinak.sk 7. septembra 2026 uviedol meno Michal Milo v zozname ôsmich kandidátov na primátora Žiliny."
+    },
+    "period": "2026-09-07",
+    "sourceIds": [
+      "za-media-root-mayor-media-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-bohumil-kostolny-media-2026",
+    "candidateId": "za-bohumil-kostolny",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálne uvedenie kandidatúry"
+    },
+    "text": {
+      "sk": "Žilinak.sk 7. septembra 2026 uviedol meno Bohumil Kostolný v zozname ôsmich kandidátov na primátora Žiliny."
+    },
+    "period": "2026-09-07",
+    "sourceIds": [
+      "za-media-root-mayor-media-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-anton-kozlik-media-2026",
+    "candidateId": "za-anton-kozlik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálne uvedenie kandidatúry"
+    },
+    "text": {
+      "sk": "Žilinak.sk 7. septembra 2026 uviedol meno Anton Kozlík v zozname ôsmich kandidátov na primátora Žiliny."
+    },
+    "period": "2026-09-07",
+    "sourceIds": [
+      "za-media-root-mayor-media-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-fiabane-bulvar-fence",
+    "candidateId": "za-peter-fiabane",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Bulvár – oplotenie v roku 2025"
+    },
+    "text": {
+      "sk": "Žilinský večerník 1. decembra 2025 informoval, že Peter Fiabáne oznámil dočasné oplotenie súkromného pozemku na Bulvári."
+    },
+    "period": "2025-12-01",
+    "sourceIds": [
+      "za-media-root-bulvar-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-fiabane-bulvar-buildings",
+    "candidateId": "za-peter-fiabane",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Bulvár – tvrdenie o povoleniach"
+    },
+    "text": {
+      "sk": "Podľa Žilinského večerníka Peter Fiabáne v decembri 2025 tvrdil, že stavby na spornom pozemku na Bulvári nemajú príslušné povolenia."
+    },
+    "period": "2025-12-01",
+    "sourceIds": [
+      "za-media-root-bulvar-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-fiabane-bulvar-owner-response",
+    "candidateId": "za-peter-fiabane",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Bulvár – odpoveď vlastníka"
+    },
+    "text": {
+      "sk": "Peter Hajaš v Žilinskom večerníku v decembri 2025 odmietol označenie objektov na svojom pozemku na Bulvári za čierne stavby."
+    },
+    "period": "2025-12-01",
+    "sourceIds": [
+      "za-media-root-bulvar-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-fiabane-bulvar-paid-response",
+    "candidateId": "za-peter-fiabane",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Bulvár – vlastné vyjadrenie v inzercii"
+    },
+    "text": {
+      "sk": "Peter Fiabáne v materiáli Žilina SP21 označenom Inzercia 30. septembra 2026 uviedol, že mesto musí rešpektovať vlastnícke práva majiteľa pozemku na Bulvári."
+    },
+    "period": "2026-09-30",
+    "sourceIds": [
+      "za-media-root-bulvar-paid-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-cibulka-karpatska-complaint",
+    "candidateId": "za-peter-cibulka",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Karpatská – trestné oznámenie v roku 2020"
+    },
+    "text": {
+      "sk": "Žilinský večerník v júli 2020 informoval, že Peter Cibulka podal v polovici júna trestné oznámenie na neznámeho páchateľa vo veci športovej haly na Karpatskej ulici."
+    },
+    "period": "2020-06",
+    "sourceIds": [
+      "za-media-root-karpatska-2020"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-cibulka-karpatska-response",
+    "candidateId": "za-peter-cibulka",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Karpatská – odpoveď podnikateľa"
+    },
+    "text": {
+      "sk": "George Trabelssie podľa Žilinského večerníka 26. júna 2020 odmietol Cibulkove výhrady ku športovej hale a tvrdil, že podmienky zmlúv porušilo mesto."
+    },
+    "period": "2020-06-26",
+    "sourceIds": [
+      "za-media-root-karpatska-2020"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-fiabane-zps-suit",
+    "candidateId": "za-peter-fiabane",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Žilinská parkovacia spoločnosť – žaloba"
+    },
+    "text": {
+      "sk": "Žilina SP21 17. mája 2022 informovala, že Peter Fiabáne oznámil podanie žaloby mesta o zrušenie jeho účasti v Žilinskej parkovacej spoločnosti."
+    },
+    "period": "2022-05-17",
+    "sourceIds": [
+      "za-media-root-zps-2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-fiabane-zps-status",
+    "candidateId": "za-peter-fiabane",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "ŽPS – procesný stav podľa mesta"
+    },
+    "text": {
+      "sk": "Mesto Žilina v odpovedi z 20. septembra 2024 uviedlo, že rozsudok z 17. februára 2023 vo veci vystúpenia zo ŽPS bol neprávoplatný a mesto podalo odvolanie."
+    },
+    "period": "2024-09-20",
+    "sourceIds": [
+      "za-media-root-city-response-2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-fiabane-settlement-approval",
+    "candidateId": "za-peter-fiabane",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Karpatská a ŽPS – schválenie zmluvy"
+    },
+    "text": {
+      "sk": "Mestské zastupiteľstvo v Žiline uznesením č. 182/2024 z 24. septembra 2024 schválilo uzatvorenie zmluvy o vysporiadaní nárokov postúpením, započítaním a urovnaním vzájomných pohľadávok."
+    },
+    "period": "2024-09-24",
+    "sourceIds": [
+      "za-media-root-karpatska-2024-resolution"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-cibulka-mirage-proposal",
+    "candidateId": "za-peter-cibulka",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mirage – návrh mestskému zastupiteľstvu"
+    },
+    "text": {
+      "sk": "Aktuality.sk vo februári 2026 informovali, že Peter Cibulka v októbri 2025 navrhol uznesenie na riešenie mestských pozemkov pod OC Mirage; zastupiteľstvo ho neschválilo."
+    },
+    "period": "2025-10",
+    "sourceIds": [
+      "za-media-root-mirage-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-fiabane-mirage-city-status",
+    "candidateId": "za-peter-fiabane",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Mirage – konania podľa mesta"
+    },
+    "text": {
+      "sk": "Mesto Žilina 26. januára 2026 uviedlo, že konanie o vecnom bremene pokračuje po jeho odvolaní na Krajskom súde v Žiline."
+    },
+    "period": "2026-01-26",
+    "sourceIds": [
+      "za-media-root-city-response-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-fiabane-mirage-company-response",
+    "candidateId": "za-peter-fiabane",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Mirage – odpoveď spoločnosti"
+    },
+    "text": {
+      "sk": "Hovorkyňa skupiny SIRS Ivana Strelcová v Aktuality.sk vo februári 2026 uviedla, že spoločnosť platí mestu odplatu za vecné bremeno pod OC Mirage."
+    },
+    "period": "2026-02-04",
+    "sourceIds": [
+      "za-media-root-mirage-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-cibulka-korytnacka-complaint",
+    "candidateId": "za-peter-cibulka",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Korytnačka – trestné oznámenie"
+    },
+    "text": {
+      "sk": "Aktuality.sk v marci 2022 informovali, že Peter Cibulka podal trestné oznámenie na neznámeho páchateľa pre prevod pozemku pod športovou halou Korytnačka."
+    },
+    "period": "2022-03-07",
+    "sourceIds": [
+      "za-media-root-korytnacka-2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-peter-cibulka-korytnacka-status",
+    "candidateId": "za-peter-cibulka",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Korytnačka – vtedy neprávoplatné rozhodnutie"
+    },
+    "text": {
+      "sk": "Aktuality.sk 7. marca 2022 uviedli, že policajné rozhodnutie vo veci pozemku pod Korytnačkou ešte nenadobudlo právoplatnosť."
+    },
+    "period": "2022-03-07",
+    "sourceIds": [
+      "za-media-root-korytnacka-2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-eva-dobsovic-mjartan-cvc-dismissal-date",
+    "candidateId": "za-eva-dobsovic-mjartan",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "CVČ – zaznamenané odvolanie v roku 2019"
+    },
+    "text": {
+      "sk": "Správa mestského úradu z 2. decembra 2019 uvádza, že riaditeľka žilinského CVČ bola na návrh rady školského zariadenia odvolaná 25. októbra 2019."
+    },
+    "period": "2019-10-25",
+    "sourceIds": [
+      "za-media-root-cvc-2019-fulfillment"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-rastislav-johanes-hospital-report",
+    "candidateId": "za-rastislav-johanes",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Nemocnica – dobové oznámenie v médiu"
+    },
+    "text": {
+      "sk": "Juraj Milo v SME 4. februára 2013 informoval, že hovorkyňa FNsP Žilina oznámila odvolanie Rastislava Johanesa z vedenia chirurgického oddelenia po pozitívnom teste na alkohol."
+    },
+    "period": "2013-02-04",
+    "sourceIds": [
+      "za-media-root-johanes-sme-2013"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-za-media-root-rastislav-johanes-hospital-response",
+    "candidateId": "za-rastislav-johanes",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Nemocnica – dobová odpoveď"
+    },
+    "text": {
+      "sk": "Rastislav Johanes v Žilinskom večerníku 18. februára 2013 uviedol, že pred príchodom do práce rokoval so sponzormi a v daný deň nechcel liečiť pacientov."
+    },
+    "period": "2013-02-18",
+    "sourceIds": [
+      "za-media-root-johanes-response-2013"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-augustin-professional-interview-2022",
+    "candidateId": "za-jozef-augustin",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor o exekútorskej praxi"
+    },
+    "text": {
+      "sk": "Juraj Vnuk v Žilinskom večerníku uviedol Jozefa Augustína ako žilinského súdneho exekútora, ktorý túto prácu vykonáva od roku 2012."
+    },
+    "period": "2022-12-22",
+    "sourceIds": [
+      "za-media-a-augustin-exekutor-2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-bakkery-transparency-report-2022",
+    "candidateId": "za-silvia-bakkery",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Hodnotenie transparentnosti kampane"
+    },
+    "text": {
+      "sk": "Anna Holešová na Žilinak.sk informovala, že podľa hodnotenia Transparency International Slovensko financovanie kampane Silvie Bakkery nebolo jasne rozlíšiteľné na transparentnom účte podporujúcej strany."
+    },
+    "period": "2022-10-26",
+    "sourceIds": [
+      "za-media-a-bakkery-campaign-2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-barcik-endorsement-2014",
+    "candidateId": "za-martin-barcik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Podpora v primátorských voľbách 2014"
+    },
+    "text": {
+      "sk": "SITA v Pravde informovala, že Róbert Kašša sa pred primátorskými voľbami v Žiline vzdal kandidatúry v prospech Martina Barčíka."
+    },
+    "period": "2014-11-10",
+    "sourceIds": [
+      "za-media-a-barcik-kassa-2014"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-barcikova-school-buses-statement-2022",
+    "candidateId": "za-veronika-barcikova",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Návrh školských autobusových liniek"
+    },
+    "text": {
+      "sk": "Veronika Barčíková v objednanom kandidátskom texte na SP21 navrhla zaviesť pravidelné školské autobusové linky."
+    },
+    "period": "2022-10-24",
+    "sourceIds": [
+      "za-media-a-barcikova-school-buses-2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-bechny-family-assistance-2025",
+    "candidateId": "za-lubomir-bechny",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vyjadrenie k pomoci rodinám bez domova"
+    },
+    "text": {
+      "sk": "Ľubomír Bechný v rozhovore s Martinou Knapcovou v Žilinskom večerníku podporil sanáciu rodín ohrozených bezdomovectvom."
+    },
+    "period": "2025-12-03",
+    "sourceIds": [
+      "za-media-a-bechny-homeless-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-bechny-conservatory-story-handover-2025",
+    "candidateId": "za-lubomir-bechny",
+    "category": "media",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Neskorší stav rekonštrukcie konzervatória"
+    },
+    "text": {
+      "sk": "V nadväznosti na tému rekonštrukcie konzervatória, ku ktorej sa Bechný vyjadroval v roku 2023, oficiálny protokol uvádza odovzdanie zhodnotenia budovy a vybavenia škole 27. marca 2025 v hodnote 2 924 517,29 eura."
+    },
+    "period": "2025-03-27",
+    "sourceIds": [
+      "za-media-a-bechny-conservatory-handover-2025",
+      "za-a-sp21-3"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-chudik-public-art-book-2025",
+    "candidateId": "za-michal-chudik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Spoluautor publikácie o verejnom umení"
+    },
+    "text": {
+      "sk": "Eva Dodoková Mečárová v Žilinskom večerníku uviedla Michala Chudíka ako spoluautora pripravovanej publikácie Monumentálna Žilina o umení vo verejnom priestore mesta."
+    },
+    "period": "2025-11-02",
+    "sourceIds": [
+      "za-media-a-chudik-book-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-chudik-book-published-status",
+    "candidateId": "za-michal-chudik",
+    "category": "media",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Vydanie publikácie Monumentálna Žilina"
+    },
+    "text": {
+      "sk": "TIK mesta Žilina uvádza Michala Chudíka medzi autormi textov vydanej publikácie Monumentálna Žilina."
+    },
+    "period": "nedatovaná stránka; overené 2026-10-03",
+    "sourceIds": [
+      "za-media-a-chudik-published-book-status"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-cader-oneway-petition-report-2026",
+    "candidateId": "za-denis-cader",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Spor o jednosmerné ulice v Závodí"
+    },
+    "text": {
+      "sk": "Filip Lehotský na Žilinak.sk informoval o petícii proti jednosmerkám v Závodí, ktorej iniciátori kritizovali postup Denisa Cádera pri príprave dopravných zmien."
+    },
+    "period": "2026-04-24",
+    "sourceIds": [
+      "za-media-a-zavodie-petition-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-cader-oneway-response-2026",
+    "candidateId": "za-denis-cader",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia na petíciu v Závodí"
+    },
+    "text": {
+      "sk": "Denis Cáder v článku Žilinak.sk odmietol zvýhodňovanie jednotlivcov a uviedol, že cieľom návrhu jednosmeriek je bezpečnosť chodcov."
+    },
+    "period": "2026-04-24",
+    "sourceIds": [
+      "za-media-a-zavodie-petition-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-delincak-oneway-response-2026",
+    "candidateId": "za-branislav-delincak",
+    "category": "media",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie k jednosmerkám v Závodí"
+    },
+    "text": {
+      "sk": "Branislav Delinčák v článku Žilinak.sk odmietol, že návrh jednosmeriek v Závodí má zvýhodňovať jednotlivcov, a podporil verejnú diskusiu o riešení."
+    },
+    "period": "2026-04-24",
+    "sourceIds": [
+      "za-media-a-zavodie-petition-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-cader-oneway-city-assessment-2026",
+    "candidateId": "za-denis-cader",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Posúdenie petície mestom"
+    },
+    "text": {
+      "sk": "Mesto Žilina v odpovedi z 24. apríla 2026 uviedlo, že petíciu týkajúcu sa jednosmernej premávky na ulici Juraja Závodského odborne posúdilo a vyhodnotilo ako neopodstatnenú."
+    },
+    "period": "2026-04-24",
+    "sourceIds": [
+      "za-media-root-city-response-2026",
+      "za-media-a-zavodie-petition-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-cader-budget-story-later-2024",
+    "candidateId": "za-denis-cader",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Neskoršie schválenie krajského rozpočtu"
+    },
+    "text": {
+      "sk": "Po novembrovom spore o dotácie, v ktorom vystupoval Denis Cáder, TASR informovala, že zastupiteľstvo ŽSK 17. decembra 2024 schválilo rozpočet na rok 2025."
+    },
+    "period": "2024-12-17",
+    "sourceIds": [
+      "za-media-a-cader-budget-adopted-2024",
+      "za-b-cader-budget"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-cepec-parking-response-2025",
+    "candidateId": "za-karol-cepec",
+    "category": "media",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie ku kontrolám parkovania"
+    },
+    "text": {
+      "sk": "Karol Čepec v článku Anny Holešovej na Žilinak.sk obhajoval pravidelné kontroly dodržiavania parkovacích pravidiel."
+    },
+    "period": "2025-02-15",
+    "sourceIds": [
+      "za-media-a-cepec-parking-response-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-cepec-korytnacka-story-later-2025",
+    "candidateId": "za-karol-cepec",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Neskorší vývoj témy športovej haly"
+    },
+    "text": {
+      "sk": "Juliána Hazuchová na Aktuality.sk informovala, že novým vlastníkom športovej haly Bôrik, ku ktorej sa Karol Čepec vyjadroval v diskusii v roku 2022, sa stal LICITOR development."
+    },
+    "period": "2025-06-23",
+    "sourceIds": [
+      "za-media-a-korytnacka-change-owner-2025",
+      "za-a-sp21-1"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-chodelkova-korytnacka-2025",
+    "candidateId": "za-ludmila-chodelkova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Centrum Žirafa v športovej hale Bôrik"
+    },
+    "text": {
+      "sk": "Juliána Hazuchová na Aktuality.sk uviedla, že centrum Žirafa vedené Ľudmilou Chodelkovou využívalo priestory športovej haly Bôrik v nájme od roku 2014."
+    },
+    "period": "2025-06-23",
+    "sourceIds": [
+      "za-media-a-korytnacka-change-owner-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-cepec-bulvar-tent-statement-2026",
+    "candidateId": "za-karol-cepec",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vyjadrenie k výstavbe na Bulvári"
+    },
+    "text": {
+      "sk": "Michal Filek na SP21 informoval o kritike Karola Čepca voči umiestneniu vojenského stanu na súkromnom pozemku na žilinskom Bulvári."
+    },
+    "period": "2026-09-21",
+    "sourceIds": [
+      "za-media-a-cepec-bulvar-tent-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-corba-flat-first-report-2014",
+    "candidateId": "za-pavol-corba",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Prvý dohľadaný článok o mestskom byte"
+    },
+    "text": {
+      "sk": "Peter Rýchlik a Miroslava Dírerová v Plus 7 dní informovali, že Pavol Čorba kúpil v júni 2013 mestský dvojizbový byt za 697,60 eura."
+    },
+    "period": "2014-02-02",
+    "sourceIds": [
+      "za-media-a-corba-flat-original-2014"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-corba-flat-own-response-2014",
+    "candidateId": "za-pavol-corba",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia Pavla Čorbu"
+    },
+    "text": {
+      "sk": "Pavol Čorba v reakcii pre Plus 7 dní uviedol, že postup riešila spoločnosť Bytterm podľa platnej legislatívy a určenie predajnej ceny bolo v jej kompetencii."
+    },
+    "period": "2014-02-02",
+    "sourceIds": [
+      "za-media-a-corba-flat-original-2014"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-delincak-adverts-later-report-2023",
+    "candidateId": "za-branislav-delincak",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Neskoršia správa o reklamnej firme"
+    },
+    "text": {
+      "sk": "Magdaléna Paluchová na Aktuality.sk uviedla firmu ARDSYSTÉM Branislava Delinčáka medzi spoločnosťami, s ktorými mesto pripravovalo finančné urovnanie za reklamné stavby na mestských pozemkoch."
+    },
+    "period": "2023-12-18",
+    "sourceIds": [
+      "za-media-a-delincak-adverts-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-delincak-company-settlement-2024",
+    "candidateId": "za-branislav-delincak",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Dohoda mesta s reklamnou spoločnosťou"
+    },
+    "text": {
+      "sk": "Oficiálna správa mesta z decembra 2024 uvádza podpísanú dohodu o urovnaní č. 596/2024 so spoločnosťou ARDSYSTÉM Branislava Delinčáka."
+    },
+    "period": "stav odboru k 2024-11-18; materiál 2024-12-10",
+    "sourceIds": [
+      "za-media-a-delincak-adverts-settlement-2024",
+      "za-media-a-delincak-adverts-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-delincak-adverts-intermediate-response-2022",
+    "candidateId": "za-branislav-delincak",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Neskoršia reakcia na reguláciu reklamy"
+    },
+    "text": {
+      "sk": "Branislav Delinčák v článku SP21 uviedol, že klub Iná Žilina požiadal prokuratúru o stanovisko k regulácii reklamy a v čase posledného zasadnutia ho ešte nedostal."
+    },
+    "period": "2022-09-24",
+    "sourceIds": [
+      "za-media-a-delincak-adverts-response-2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-durmis-hockey-story-sale-outcome-2020",
+    "candidateId": "za-peter-durmis",
+    "category": "media",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Dokončenie predaja hokejového klubu"
+    },
+    "text": {
+      "sk": "V nadväznosti na rozhovor s Petrom Durmisom o predaji MsHK Žilina oficiálna správa mesta uvádza podpis zmluvnej dokumentácie na prevod akcií spoločnosti LUPIZA 4. júna 2020."
+    },
+    "period": "2020-06-04",
+    "sourceIds": [
+      "za-media-a-durmis-hockey-sale-outcome-2020",
+      "za-a-media-22"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-a-cader-budget-response-2024",
+    "candidateId": "za-denis-cader",
+    "category": "media",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia na novembrový spor o dotácie"
+    },
+    "text": {
+      "sk": "Denis Cáder pre TASR vysvetlil odchod zo zastupiteľstva nesúhlasom so stiahnutím dotačného bodu, ktoré podľa neho odoprelo poslancom možnosť hlasovať."
+    },
+    "period": "2024-11-25",
+    "sourceIds": [
+      "za-b-cader-budget"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-nicik-festival",
+    "candidateId": "za-jan-nicik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Žilinský literárny festival"
+    },
+    "text": {
+      "sk": "Juraj Vnuk v Žilinskom večerníku uviedol, že Ján Ničík od roku 2004 spoluorganizoval Žilinský literárny festival."
+    },
+    "period": "správa 3. februára 2023; od roku 2004",
+    "sourceIds": [
+      "za-media-c-nicik-culture-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-nicik-artforum",
+    "candidateId": "za-jan-nicik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Kníhkupectvo Artforum"
+    },
+    "text": {
+      "sk": "Juraj Vnuk v Žilinskom večerníku uviedol, že Ján Ničík od roku 2014 vedie s kolegami kníhkupectvo Artforum v Žiline."
+    },
+    "period": "správa 3. februára 2023; od roku 2014",
+    "sourceIds": [
+      "za-media-c-nicik-culture-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-pazicky-access-condition",
+    "candidateId": "za-jan-pazicky",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Podmienka prístupu k domom v Brodne"
+    },
+    "text": {
+      "sk": "Pravda uviedla vyjadrenie Jána Pažického, podľa ktorého obyvatelia súhlasili so záberom pozemkov pre reguláciu Brodnianky pod podmienkou vybudovania premostení mestom alebo Slovenským vodohospodárskym podnikom."
+    },
+    "period": "2017-02-11",
+    "sourceIds": [
+      "za-media-c-pazicky-brodnianka-2017"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-pazicky-budget-outcome",
+    "candidateId": "za-jan-pazicky",
+    "category": "media",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Schválenie financií na premostenie Brodnianky"
+    },
+    "text": {
+      "sk": "Mestské zastupiteľstvo v Žiline 4. decembra 2017 schválilo návrh predložený Jánom Pažickým na zapojenie 300 000 eur do rozpočtu na rok 2018 na úpravu miestnej komunikácie a premostenie potoka v Brodne."
+    },
+    "period": "2017-12-04; rozpočet 2018",
+    "sourceIds": [
+      "za-media-c-pazicky-budget-2017"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-plesinger-advertising-report",
+    "candidateId": "za-lubos-plesinger",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Reklamná plachta na budove"
+    },
+    "text": {
+      "sk": "Magdaléna Paluchová v Aktuality.sk uviedla, že podľa hlavného architekta reklamná plachta na budove Ľuboša Plešingera nebola v súlade s platným územným plánom Žiliny."
+    },
+    "period": "2022-06-22",
+    "sourceIds": [
+      "za-media-c-plesinger-advertising-2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-plesinger-advertising-response",
+    "candidateId": "za-lubos-plesinger",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia na výhrady k reklame"
+    },
+    "text": {
+      "sk": "Ľuboš Plešinger pre Aktuality.sk uviedol, že zmluvu na reklamu podpísal 1. februára 2015, keď ju považoval za legálnu, a aj v čase rozhovoru ju naďalej považoval za legálnu."
+    },
+    "period": "2022-06-22",
+    "sourceIds": [
+      "za-media-c-plesinger-advertising-2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-ryban-creditor-protection",
+    "candidateId": "za-igor-ryban",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Poskytnutie ochrany pred veriteľmi"
+    },
+    "text": {
+      "sk": "Okresný súd Žilina uznesením z 11. marca 2019, zverejneným v Obchodnom vestníku 18. marca 2019, poskytol Igorovi Rybanovi ochranu pred veriteľmi v konaní o oddlžení splátkovým kalendárom."
+    },
+    "period": "rozhodnutie 11. marca 2019; zverejnenie 18. marca 2019",
+    "sourceIds": [
+      "za-media-c-ryban-protection-2019"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-ryban-transport-plan",
+    "candidateId": "za-igor-ryban",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Dopravná priorita v kampani 2014"
+    },
+    "text": {
+      "sk": "TASR v rozhovore s Igorom Rybanom uviedla, že v kampani na primátora Žiliny v roku 2014 presadzoval vypracovanie generelu dopravy."
+    },
+    "period": "2014-11-07; kampaň 2014",
+    "sourceIds": [
+      "za-media-c-ryban-transport-2014"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-rzeszoto-spolu-origins",
+    "candidateId": "za-jan-rzeszoto",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Začiatky zoskupenia Spolu pre mesto"
+    },
+    "text": {
+      "sk": "Veronika Cvinčeková v Žilinskom večerníku uviedla Jána Rzeszota medzi zakladateľmi zoskupenia Spolu pre mesto, ktoré sa sformovalo na jar a v lete 2025."
+    },
+    "period": "správa 26. novembra 2025; jar a leto 2025",
+    "sourceIds": [
+      "za-media-c-spolu-origins-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-sibila-spolu-origins",
+    "candidateId": "za-michal-sibila",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Začiatky zoskupenia Spolu pre mesto"
+    },
+    "text": {
+      "sk": "Veronika Cvinčeková v Žilinskom večerníku uviedla Michala Sibilu medzi občianskymi aktivistami, ktorí vytvorili zoskupenie Spolu pre mesto na jar a v lete 2025."
+    },
+    "period": "správa 26. novembra 2025; jar a leto 2025",
+    "sourceIds": [
+      "za-media-c-spolu-origins-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-slota-oksana-report",
+    "candidateId": "za-pavol-slota",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Report o polepení sanitky Oksana"
+    },
+    "text": {
+      "sk": "Michal Filek v Žilina SP21 uviedol tvrdenie organizátora Mareka Adamova, že Pavol Slota polepil vystavenú sanitku Oksana v Žiline fotografiami s proruským obsahom."
+    },
+    "period": "2025-05-23",
+    "sourceIds": [
+      "za-media-c-slota-oksana-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-slota-oksana-response",
+    "candidateId": "za-pavol-slota",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia na incident so sanitkou"
+    },
+    "text": {
+      "sk": "Pavol Slota vo vyjadrení citovanom portálom Žilina SP21 obhajoval polepenie sanitky Oksana ako svoj protest proti tomu, čo označil za propagandu."
+    },
+    "period": "2025-05-23",
+    "sourceIds": [
+      "za-media-c-slota-oksana-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-slota-drone-complaint",
+    "candidateId": "za-pavol-slota",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Oznámený podnet proti výstave makety dronu"
+    },
+    "text": {
+      "sk": "Filip Lehotský v Žilinak.sk uviedol, že Pavol Slota oznámil podanie trestného oznámenia na organizátorov výstavy makety dronu Shahed v Žiline pre údajné šírenie poplašnej správy."
+    },
+    "period": "2026-03-02",
+    "sourceIds": [
+      "za-media-c-slota-drone-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-slysko-party-exit",
+    "candidateId": "za-peter-slysko",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Oznámený odchod zo strany Hlas"
+    },
+    "text": {
+      "sk": "Filip Lehotský v Žilinak.sk uviedol, že Peter Slyško oznámil vzdanie sa členstva v strane Hlas-SD."
+    },
+    "period": "2026-10-02",
+    "sourceIds": [
+      "za-media-c-slysko-exit-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-slysko-party-chair-exit",
+    "candidateId": "za-peter-slysko",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Oznámené vzdanie sa straníckej funkcie"
+    },
+    "text": {
+      "sk": "Filip Lehotský v Žilinak.sk uviedol, že Peter Slyško oznámil vzdanie sa funkcie krajského predsedu Hlasu-SD v Žilinskom kraji."
+    },
+    "period": "2026-10-02",
+    "sourceIds": [
+      "za-media-c-slysko-exit-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-striezenec-pub-concept",
+    "candidateId": "za-samuel-striezenec",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Podnikateľská činnosť v gastronómii"
+    },
+    "text": {
+      "sk": "Branislav Koscelník v MY Žilina uviedol Samuela Strieženca ako šéfa spoločnosti pri prechode žilinskej reštaurácie Pub u Joža na koncept zjedz, koľko vládzeš."
+    },
+    "period": "2026-04-19",
+    "sourceIds": [
+      "za-media-c-striezenec-gastronomy-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-soska-basketball-entry",
+    "candidateId": "za-ondrej-soska",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vstup žilinského basketbalu do SBL"
+    },
+    "text": {
+      "sk": "TASR v júli 2017 uviedla Ondreja Šošku ako generálneho manažéra žilinského basketbalového klubu pri oznámení jeho vstupu do SBL v sezóne 2017/2018."
+    },
+    "period": "2017-07-01; sezóna 2017/2018",
+    "sourceIds": [
+      "za-media-c-soska-sbl-2017"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-soska-basketball-end",
+    "candidateId": "za-ondrej-soska",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Koniec extraligového pôsobenia klubu"
+    },
+    "text": {
+      "sk": "Juraj Vnuk v Žilinskom večerníku zverejnil rozhovor, v ktorom Ondrej Šoška potvrdil, že BK Slávia Žilina nebude pokračovať v nasledujúcej extraligovej sezóne."
+    },
+    "period": "2020-06-25; sezóna 2020/2021",
+    "sourceIds": [
+      "za-media-c-soska-end-2020"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-soska-city-response",
+    "candidateId": "za-ondrej-soska",
+    "category": "media",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia mesta k podpore basketbalu"
+    },
+    "text": {
+      "sk": "Hovorca mesta Žilina Vladimír Miškovčík v reakcii pre Žilinský večerník uviedol, že BK Slávia Žilina nespĺňal viacero podmienok dovtedajšieho systému športových dotácií."
+    },
+    "period": "2020-06-25",
+    "sourceIds": [
+      "za-media-c-soska-end-2020"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-strba-soar-report",
+    "candidateId": "za-jozef-strba",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Report o stavbe chaty"
+    },
+    "text": {
+      "sk": "Martin Turček a Mira Sojková v Aktuality.sk uviedli, že firma SOAR, ktorá získavala zákazky od Žilinského samosprávneho kraja, sa podieľala na výstavbe chaty Jozefa Štrbu."
+    },
+    "period": "2020-08-10",
+    "sourceIds": [
+      "za-media-c-strba-soar-2020"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-strba-soar-response",
+    "candidateId": "za-jozef-strba",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia na účasť firmy SOAR"
+    },
+    "text": {
+      "sk": "Jozef Štrba v reakcii pre Aktuality.sk tvrdil, že firma SOAR dodávala len časť stavby v rozsahu najviac päť až desať percent."
+    },
+    "period": "2020-08-10",
+    "sourceIds": [
+      "za-media-c-strba-soar-2020"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-talapka-judgment-access",
+    "candidateId": "za-frantisek-talapka",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Výhrada k podkladom majetkovej zámeny"
+    },
+    "text": {
+      "sk": "TASR uviedla, že František Talapka pri prerokovaní zámeny so spoločnosťou Georgea Trabelssieho považoval sprístupnenie prvostupňového rozsudku vo veci Žilinskej parkovacej spoločnosti iba na nahliadnutie za nedostatočné."
+    },
+    "period": "2024-09-24",
+    "sourceIds": [
+      "za-media-c-talapka-exchange-2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-turcanyiova-selection-repeat",
+    "candidateId": "za-sona-turcanyiova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Žiadosť o zopakovanie výberu architekta"
+    },
+    "text": {
+      "sk": "Michal Filek v Žilina SP21 uviedol, že Soňa Turčányiová žiadala zopakovanie výberového konania na hlavného architekta Žiliny pre pochybnosti o možnom konflikte záujmov členov komisie."
+    },
+    "period": "2026-02-13",
+    "sourceIds": [
+      "za-media-c-turcanyiova-architect-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-turcanyiova-selection-outcome",
+    "candidateId": "za-sona-turcanyiova",
+    "category": "media",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Neskoršie rozhodnutie zastupiteľstva"
+    },
+    "text": {
+      "sk": "Mestské zastupiteľstvo v Žiline 17. februára 2026 prijalo uznesenie č. 29/2026 o vymenovaní Rudolfa Chodelku za hlavného architekta od 1. marca 2026 na šesť rokov."
+    },
+    "period": "rozhodnutie 17. februára 2026; od 1. marca 2026",
+    "sourceIds": [
+      "za-media-c-architect-appointment-material-2026",
+      "za-media-c-architect-minutes-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-veresova-kdh-choice",
+    "candidateId": "za-anna-veresova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhodnutie pre KDH v roku 2019"
+    },
+    "text": {
+      "sk": "Martin Hanus v rozhovore pre Postoj uviedol vyjadrenie Anny Verešovej, že sa po odchode z OĽaNO rozhodla pre KDH."
+    },
+    "period": "2019-09-18",
+    "sourceIds": [
+      "za-media-c-veresova-kdh-2019"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-zemiakova-sport-award",
+    "candidateId": "za-maria-zemiakova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Ocenenie za prínos v žilinskom športe"
+    },
+    "text": {
+      "sk": "Juraj Vnuk v Žilinskom večerníku uviedol, že Mária Zemiaková 2. marca 2015 získala ocenenie za celoživotný prínos v žilinskom športe pri ankete Športovec roka 2014."
+    },
+    "period": "udalosť 2. marca 2015; správa 17. marca 2015",
+    "sourceIds": [
+      "za-media-c-zemiakova-award-2015"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-slota-icjk-sponsored-report",
+    "candidateId": "za-pavol-slota",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Investigácia o sponzorovaných útokoch na novinárov"
+    },
+    "text": {
+      "sk": "Autori investigácie ICJK Karin Kőváry Sólymos, Josef Šlerka a Maciej Możański označili sponzorovaný príspevok Pavla Slotu za útok na novinárov a výzvu na násilie voči nim."
+    },
+    "period": "správa 8. októbra 2025; skúmané obdobie júl 2024 až jún 2025",
+    "sourceIds": [
+      "za-media-c-slota-icjk-investigation-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-slota-icjk-follow-up",
+    "candidateId": "za-pavol-slota",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Doplnenie investigácie o vyžiadané vyjadrenie"
+    },
+    "text": {
+      "sk": "ICJK v doplnení investigácie z 13. októbra 2025 uviedlo, že od Pavla Slotu nedostalo odpovede na otázky k sponzorovaným útokom."
+    },
+    "period": "doplnenie 13. októbra 2025",
+    "sourceIds": [
+      "za-media-c-slota-icjk-investigation-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-slota-petition-promotion",
+    "candidateId": "za-pavol-slota",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Propagácia petície za referendum o sankciách"
+    },
+    "text": {
+      "sk": "Tomáš Kyseľ v Aktuality.sk uviedol, že Pavol Slota sa podieľal na propagácii petície za referendum o neuplatňovaní sankcií voči Ruskej federácii."
+    },
+    "period": "2025-02-12",
+    "sourceIds": [
+      "za-media-c-slota-petition-promotion-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-slota-petition-president-outcome",
+    "candidateId": "za-pavol-slota",
+    "category": "media",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Rozhodnutie o podporovanej petícii"
+    },
+    "text": {
+      "sk": "Prezident Peter Pellegrini 4. júna 2025 rozhodol nevyhlásiť referendum o neuplatňovaní sankcií voči Ruskej federácii, ktoré podporoval Pavol Slota."
+    },
+    "period": "rozhodnutie a zverejnenie 4. júna 2025",
+    "sourceIds": [
+      "za-media-c-slota-petition-refusal-2025",
+      "za-media-c-slota-petition-promotion-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-slota-petition-court-outcome",
+    "candidateId": "za-pavol-slota",
+    "category": "media",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Neskoršie rozhodnutie o sťažnosti petičného výboru"
+    },
+    "text": {
+      "sk": "Ústavný súd SR 20. novembra 2025 odmietol ústavnú sťažnosť petičného výboru proti prezidentovmu rozhodnutiu nevyhlásiť referendum o neuplatňovaní sankcií voči Ruskej federácii."
+    },
+    "period": "rozhodnutie 20. novembra 2025; dátum zverejnenia nezistený",
+    "sourceIds": [
+      "za-media-c-slota-petition-court-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-zabka-d3-report",
+    "candidateId": "za-jozef-zabka",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Nesúhlas s tranzitnou obchádzkou"
+    },
+    "text": {
+      "sk": "Dominika Rovňanová v Žilinak.sk uviedla, že starosta Jozef Žabka odmietol tranzit cez Kotrčinú Lúčku ako alternatívnu trasu počas dopravných obmedzení pri výstavbe D3."
+    },
+    "period": "2026-07-09",
+    "sourceIds": [
+      "za-media-c-zabka-d3-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-c-zabka-d3-response",
+    "candidateId": "za-jozef-zabka",
+    "category": "media",
+    "kind": "response",
+    "label": {
+      "sk": "Stanovisko starostu k tranzitu"
+    },
+    "text": {
+      "sk": "Jozef Žabka v stanovisku uverejnenom obcou 7. júla 2026 uviedol, že bude podporovať petície za zlepšenie dopravnej situácie, s výnimkou riešenia cez Kotrčinú Lúčku."
+    },
+    "period": "2026-07-07",
+    "sourceIds": [
+      "za-media-c-zabka-statement-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-kavecka-complaint-dismissed",
+    "candidateId": "za-monika-kavecka",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhodovanie o sťažnosti v roku 2022"
+    },
+    "text": {
+      "sk": "Viktória Némethová a Peter Revús na ta3 24. júna 2022 informovali, že prokuratúra zamietla sťažnosť Moniky Kaveckej proti opätovnému obvineniu v súvislosti s obstarávaním nájomných bytov v Kunerade."
+    },
+    "period": "2022-06-24",
+    "sourceIds": [
+      "za-media-b-kavecka-complaint-jun2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-kavecka-investigation-jul2023",
+    "candidateId": "za-monika-kavecka",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vyšetrovanie podľa správy z júla 2023"
+    },
+    "text": {
+      "sk": "Adriána Belej Majerčínová v Pravde 27. júla 2023 s odvolaním na hovorkyňu žilinskej polície Gabrielu Kremeňovú uviedla, že vyšetrovanie obvinenia Moniky Kaveckej naďalej prebiehalo a zahŕňalo rozsiahle znalecké dokazovanie."
+    },
+    "period": "2023-07-27",
+    "sourceIds": [
+      "za-media-b-kavecka-investigation-jul2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-kavecka-response-jan2022",
+    "candidateId": "za-monika-kavecka",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia na prvé obvinenie"
+    },
+    "text": {
+      "sk": "Monika Kavecká vo vyjadrení zverejnenom RTVS a TASR 20. januára 2022 označila obvinenie za absurdné a uviedla, že je pripravená svoju nevinu dokázať pred súdom."
+    },
+    "period": "2022-01-20",
+    "sourceIds": [
+      "za-media-b-kavecka-charge-jan2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-kunerad-administrative-lawsuit",
+    "candidateId": "za-monika-kavecka",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Správna žaloba obce Kunerad"
+    },
+    "text": {
+      "sk": "Správny súd v Bratislave rozsudkom zo 4. decembra 2024 zamietol správnu žalobu obce Kunerad proti rozhodnutiu ÚVO o obstarávaní nájomných bytov; podľa následného rozhodnutia ÚVO rozsudok nadobudol právoplatnosť 4. februára 2025."
+    },
+    "period": "rozsudok 2024-12-04; právoplatnosť 2025-02-04",
+    "sourceIds": [
+      "za-media-b-kunerad-judgment-dec2024",
+      "za-media-b-kunerad-fine-jun2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-kunerad-administrative-fine",
+    "candidateId": "za-monika-kavecka",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Pokuta obci v správnom konaní"
+    },
+    "text": {
+      "sk": "ÚVO v rozhodnutí z 12. júna 2025 uložil obci Kunerad pokutu 6 000 eur za porušenia pri obstarávaní výstavby nájomných bytov. Ide o správnu sankciu obci."
+    },
+    "period": "rozhodnutie 2025-06-12",
+    "sourceIds": [
+      "za-media-b-kunerad-fine-jun2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-kavecka-union-election",
+    "candidateId": "za-monika-kavecka",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Opätovné zvolenie v odborovom združení"
+    },
+    "text": {
+      "sk": "TASR 18. júna 2024 informovala, že Moniku Kaveckú na volebnom zjazde 15. júna 2024 opätovne zvolili za predsedníčku Odborového združenia sestier a pôrodných asistentiek na štvorročné obdobie."
+    },
+    "period": "voľba 2024-06-15; správa 2024-06-18",
+    "sourceIds": [
+      "za-media-b-kavecka-union-jun2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-laurencik-earliest-declaration-report",
+    "candidateId": "za-milan-laurencik",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Podanie priznania po lehote v roku 2010"
+    },
+    "text": {
+      "sk": "SITA 12. augusta 2010 informovala, že Milan Laurenčík podal majetkové priznanie 10. augusta, deň po lehote 9. augusta."
+    },
+    "period": "podanie 2010-08-10; správa 2010-08-12",
+    "sourceIds": [
+      "za-media-b-laurencik-declaration-aug2010"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-jantosik-streetball-organizer",
+    "candidateId": "za-roman-jantosik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Charitatívny streetball v Žiline"
+    },
+    "text": {
+      "sk": "Juraj Vnuk v Žilinskom večerníku 13. júna 2023 označil Romana Jantošíka za hlavného organizátora Streetballu proti rakovine a informoval o výťažku 1 000 eur pre žilinskú onkológiu zo žilinskej edície podujatia."
+    },
+    "period": "2023-06-13",
+    "sourceIds": [
+      "za-media-b-jantosik-streetball-jun2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-jantosik-streetball-later-support",
+    "candidateId": "za-roman-jantosik",
+    "category": "media",
+    "kind": "fact",
+    "label": {
+      "sk": "Výťažok sedemnásteho ročníka"
+    },
+    "text": {
+      "sk": "FNsP Žilina 17. júna 2026 uviedla, že výťažok 1 800 eur zo sedemnásteho ročníka Streetballu proti rakovine, ktorého organizačný tím vedie Roman Jantošík, bol použitý na vybavenie onkologického oddelenia."
+    },
+    "period": "2026-06-17",
+    "sourceIds": [
+      "za-media-b-jantosik-streetball-jun2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-jantosik-parking-petition",
+    "candidateId": "za-roman-jantosik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Petícia za spravodlivé parkovanie"
+    },
+    "text": {
+      "sk": "Juliana Krčulová na Žilina SP21 1. mája 2024 informovala, že petičný výbor zastupovaný Romanom Jantošíkom odovzdal mestu 29. apríla petíciu proti navrhovanému spoplatneniu parkovania na Hájiku s 2 791 podpismi."
+    },
+    "period": "odovzdanie 2024-04-29; správa 2024-05-01",
+    "sourceIds": [
+      "za-media-b-jantosik-petition-may2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-jantosik-parking-city-response",
+    "candidateId": "za-roman-jantosik",
+    "category": "media",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia mesta k etapovitému zavádzaniu"
+    },
+    "text": {
+      "sk": "Mesto Žilina podľa správy Dominiky Rovňanovej na Žilinak.sk z 12. júla 2024 uviedlo, že regulované parkovanie na sídliskách zavádza etapovito po dohode s poslancami mestského zastupiteľstva."
+    },
+    "period": "2024-07-12",
+    "sourceIds": [
+      "za-media-b-jantosik-petition-jul2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-jantosik-parking-council-report",
+    "candidateId": "za-roman-jantosik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rokovanie o parkovaní na Hájiku"
+    },
+    "text": {
+      "sk": "Dominika Rovňanová na Žilinak.sk 12. júla 2024 informovala, že zastupiteľstvo petíciu vzalo na vedomie a schválilo pravidlá parkovania na Hájiku s účinnosťou od januára 2025."
+    },
+    "period": "rokovanie 2024-06-25; správa 2024-07-12",
+    "sourceIds": [
+      "za-media-b-jantosik-petition-jul2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-jantosik-spolu-pre-mesto",
+    "candidateId": "za-roman-jantosik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vznik iniciatívy Spolu pre mesto"
+    },
+    "text": {
+      "sk": "Veronika Cvinčeková v Žilinskom večerníku 26. novembra 2025 uviedla Romana Jantošíka medzi občianskymi aktivistami, ktorí na jar a v lete 2025 spoluvytvorili iniciatívu Spolu pre mesto."
+    },
+    "period": "vznik jar a leto 2025; správa 2025-11-26",
+    "sourceIds": [
+      "za-media-c-spolu-origins-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-mikusova-timravy-planting",
+    "candidateId": "za-darina-mikusova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Príprava výsadby na Timravy"
+    },
+    "text": {
+      "sk": "Michal Filek na Žilina SP21 27. apríla 2022 zverejnil vyjadrenie Ivety Martinkovej, podľa ktorého Darina Mikušová spoluzorganizovala stretnutie s pracovníčkou Útvaru hlavného architekta o výsadbe stromov pri ulici Timravy."
+    },
+    "period": "2022-04-27",
+    "sourceIds": [
+      "za-media-b-mikusova-timravy-apr2022"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-mikusova-spolu-pre-mesto",
+    "candidateId": "za-darina-mikusova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vznik iniciatívy Spolu pre mesto"
+    },
+    "text": {
+      "sk": "Veronika Cvinčeková v Žilinskom večerníku 26. novembra 2025 uviedla Darinu Mikušovú medzi občianskymi aktivistami, ktorí na jar a v lete 2025 spoluvytvorili iniciatívu Spolu pre mesto."
+    },
+    "period": "vznik jar a leto 2025; správa 2025-11-26",
+    "sourceIds": [
+      "za-media-c-spolu-origins-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-martinkova-orchard-beginnings",
+    "candidateId": "za-iveta-martinkova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vznik návrhu Dobšinského sadu"
+    },
+    "text": {
+      "sk": "Lucia Kvašňovská na Žilinak.sk 24. júna 2018 uviedla, že poslankyňa Iveta Martinková bola pri zrode návrhu vytvoriť Dobšinského sad v Žiline."
+    },
+    "period": "2018-06-24",
+    "sourceIds": [
+      "za-media-b-martinkova-orchard-jun2018"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-manak-selection-allegation",
+    "candidateId": "za-dusan-manak",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Výhrady k výberovej komisii"
+    },
+    "text": {
+      "sk": "Michal Filek na Žilina SP21 13. februára 2026 informoval o výhradách Martina Kapitulíka k účasti Dušana Maňáka vo výberovej komisii pre hlavného architekta; Kapitulík tvrdil, že Maňák a Rudolf Chodelka roky zdieľali ateliér."
+    },
+    "period": "2026-02-13",
+    "sourceIds": [
+      "za-media-c-turcanyiova-architect-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-manak-selection-response",
+    "candidateId": "za-dusan-manak",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Maňákova reakcia na výhrady"
+    },
+    "text": {
+      "sk": "Dušan Maňák pre Žilina SP21 13. februára 2026 uviedol, že v spoločných priestoroch podnikajú dva samostatné ateliéry a z obchodného hľadiska sú konkurentmi."
+    },
+    "period": "2026-02-13",
+    "sourceIds": [
+      "za-media-c-turcanyiova-architect-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-manak-selection-appointment-outcome",
+    "candidateId": "za-dusan-manak",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Výsledok vymenovania hlavného architekta"
+    },
+    "text": {
+      "sk": "Mestské zastupiteľstvo v Žiline uznesením 29/2026 vymenovalo Rudolfa Chodelku za hlavného architekta od 1. marca 2026 na šesť rokov; mestská správa o plnení uznesení označuje vymenovanie za splnené."
+    },
+    "period": "uznesenie 2026-02-17; vymenovanie 2026-03-01; plnenie 2026-03-18",
+    "sourceIds": [
+      "za-media-b-architect-appointment-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-manak-borik-position",
+    "candidateId": "za-dusan-manak",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Maňákovo stanovisko k stavbe na Bôriku"
+    },
+    "text": {
+      "sk": "Dušan Maňák v článku Michala Fileka na Žilina SP21 z 10. augusta 2026 uviedol, že možnosť výstavby v územnom pláne ešte neznamená vhodnosť konkrétneho rozsahu bytového domu na Bôriku."
+    },
+    "period": "2026-08-10",
+    "sourceIds": [
+      "za-media-b-manak-borik-aug2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-manak-borik-city-response",
+    "candidateId": "za-dusan-manak",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Stanovisko mesta k povoľovaniu stavby"
+    },
+    "text": {
+      "sk": "Mesto Žilina prostredníctvom hovorkyne Zuzany Ondrášovej v článku Michala Fileka z 14. augusta 2026 uviedlo, že stavebný úrad musí stavbu povoliť, ak spĺňa zákonné podmienky."
+    },
+    "period": "2026-08-14",
+    "sourceIds": [
+      "za-media-b-city-borik-response-aug2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-janik-hospital-appointment",
+    "candidateId": "za-tomas-janik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Dočasné vedenie nemocnice v Trenčíne"
+    },
+    "text": {
+      "sk": "Jana Čunderlíková na Aktuality.sk 20. augusta 2020 informovala, že Tomáš Janík bude od 21. augusta dočasným riaditeľom Fakultnej nemocnice Trenčín."
+    },
+    "period": "menovanie od 2020-08-21; správa 2020-08-20",
+    "sourceIds": [
+      "za-media-b-janik-appointment-aug2020"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-janik-camase-expert-report",
+    "candidateId": "za-tomas-janik",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Odborný posudok k nemocničným potrubiam"
+    },
+    "text": {
+      "sk": "Lukáš Kekelák v Postoji 8. augusta 2024 informoval o odbornom posudku objednanom za vedenia Tomáša Janíka, ktorý spochybňoval súlad vykonanej výmeny nemocničných potrubí s projektovou dokumentáciou a naceneným rozpočtom."
+    },
+    "period": "2024-08-08",
+    "sourceIds": [
+      "za-media-b-janik-camase-aug2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-janik-camase-own-response",
+    "candidateId": "za-tomas-janik",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Janíkovo vysvetlenie objednania posudku"
+    },
+    "text": {
+      "sk": "Tomáš Janík pre Postoj 8. augusta 2024 uviedol, že odborný posudok k nemocničným potrubiam zadal cez advokáta nemocnice tesne pred svojím odvolaním."
+    },
+    "period": "2024-08-08",
+    "sourceIds": [
+      "za-media-b-janik-camase-aug2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-janik-camase-director-response",
+    "candidateId": "za-tomas-janik",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia nového vedenia nemocnice"
+    },
+    "text": {
+      "sk": "Riaditeľ Michal Plesník podľa Postoja z 8. augusta 2024 uviedol, že nemocnica odborný posudok spomínaný Tomášom Janíkom neobjednala ani neprevzala."
+    },
+    "period": "2024-08-08",
+    "sourceIds": [
+      "za-media-b-janik-camase-aug2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-janik-camase-later-investigation-report",
+    "candidateId": "za-tomas-janik",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Neskoršia správa o vyšetrovaní projektu"
+    },
+    "text": {
+      "sk": "Denisa Hošková na Trenčínak.sk 9. februára 2026 s odvolaním na Denník N informovala, že polícia 3. februára opätovne začala trestné stíhanie pre podvod v súvislosti s rekonštrukciou potrubia vo Fakultnej nemocnici Trenčín, vykonávanou firmou Camase."
+    },
+    "period": "začatie stíhania 2026-02-03; správa 2026-02-09",
+    "sourceIds": [
+      "za-media-b-camase-investigation-feb2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-kassa-world-titles",
+    "candidateId": "za-robert-kassa",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Hokejbalové tituly v retrospektíve"
+    },
+    "text": {
+      "sk": "Pavel Češka na Hokejbal.cz 19. apríla 2025 predstavil Róberta Kaššu ako dvojnásobného majstra sveta v hokejbale z rokov 1999 a 2013."
+    },
+    "period": "tituly 1999 a 2013; rozhovor 2025-04-19",
+    "sourceIds": [
+      "za-media-b-kassa-hokejbal-apr2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-mico-filmsets-career",
+    "candidateId": "za-jozef-mico",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Práca na filmových kulisách"
+    },
+    "text": {
+      "sk": "Jana Kollárová v Pravde 8. septembra 2018 uviedla, že Jozef Mičo z Terchovej staval filmové kulisy aj pre film Dračie srdce."
+    },
+    "period": "2018-09-08",
+    "sourceIds": [
+      "za-media-b-mico-filmsets-sep2018"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-hlavcova-food-assistance-statement",
+    "candidateId": "za-lucia-hlavcova",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Vyjadrenie k potravinovej pomoci"
+    },
+    "text": {
+      "sk": "Lucia Hlavčová v rozhovore pre The Business Soirée z 18. mája 2026 uviedla, že sa venuje podpore potravinovej pomoci."
+    },
+    "period": "2026-05-18",
+    "sourceIds": [
+      "za-b-hlavcova-media"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-marcan-school-priority",
+    "candidateId": "za-mario-marcan",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Školstvo v kampani"
+    },
+    "text": {
+      "sk": "Mário Marčan v materiáli označenom ako PR v Žilinskom večerníku 2. októbra 2026 označil moderné a bezpečné školy za jednu zo svojich priorít."
+    },
+    "period": "2026-10-02",
+    "sourceIds": [
+      "za-media-b-marcan-campaign-oct2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-marcan-accessible-sport-priority",
+    "candidateId": "za-mario-marcan",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Dostupnosť športu v kampani"
+    },
+    "text": {
+      "sk": "Mário Marčan v materiáli označenom ako PR v Žilinskom večerníku 2. októbra 2026 uviedol, že chce presadzovať podporu dostupných športovísk."
+    },
+    "period": "2026-10-02",
+    "sourceIds": [
+      "za-media-b-marcan-campaign-oct2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "za-media-b-kubik-housing-priority",
+    "candidateId": "za-jakub-kubik",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Dostupné bývanie v kampani"
+    },
+    "text": {
+      "sk": "Jakub Kubík v rozhovore označenom ako PR v Žilinskom večerníku 23. septembra 2026 uviedol dostupné bývanie medzi témami, ktoré chce riešiť v mestskom zastupiteľstve."
+    },
+    "period": "2026-09-23",
+    "sourceIds": [
+      "za-media-b-kubik-campaign-sep2026"
     ],
     "checkedAt": "2026-10-03"
   }
