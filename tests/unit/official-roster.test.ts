@@ -8,7 +8,7 @@ const selectionLimit = (id: string) => elections.find((election) => election.id 
 
 describe('official 2026 election roster', () => {
   it('contains all eight city districts with the approved seat counts', () => {
-    expect(districts.filter((district) => district.kind === 'city')
+    expect(districts.filter((district) => district.id.startsWith('2026-lm-city-'))
       .sort((a, b) => a.number - b.number).map((district) => district.seats))
       .toEqual([4, 7, 7, 1, 1, 1, 3, 1]);
   });

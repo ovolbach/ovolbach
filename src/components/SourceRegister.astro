@@ -18,7 +18,7 @@ const groups = ([
       {group.sources.map((source) => (
         <li data-source-register>
           <article>
-            <h3 data-source-id={source.id} data-source-field="title"><a aria-label={`Zdroj: ${source.title} (otvorí sa v novom okne)`} href={source.url} rel="noopener noreferrer" target="_blank">{source.title}</a></h3>
+            <h3><a data-source-id={source.id} data-source-field="title" aria-label={`Zdroj: ${source.title} (otvorí sa v novom okne)`} href={source.url} rel="noopener noreferrer" target="_blank">{source.title}</a></h3>
             <dl>
               <div><dt>Vydavateľ:</dt><dd data-source-id={source.id} data-source-field="publisher">{source.publisher}</dd></div>
               {source.author && <div><dt>Autor:</dt><dd data-source-id={source.id} data-source-field="author">{source.author}</dd></div>}

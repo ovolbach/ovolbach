@@ -305,5 +305,48 @@
     "account": {
       "status": "not_listed"
     }
+  },
+  {
+    "id": "starostovia-a-nezavisli-kandidati",
+    "name": "Starostovia a nezávislí kandidáti",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "som-slovensko-strana-obci-a-miest",
+    "name": "Som Slovensko - strana obcí a miest",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "sme-rodina",
+    "name": "Sme rodina",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://transparentneucty.sk/#/ucet/SK5909000000005250618447"
+    }
   }
 ]

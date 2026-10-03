@@ -64,8 +64,8 @@ describe('election context', () => {
   it('loads the shared source register independently of one city view', async () => {
     const loader = dataLoader as unknown as { loadGlobalSources?: () => Promise<GuideData['sources']> };
     const sources = await loader.loadGlobalSources?.();
-    expect(sources).toHaveLength(264);
-    expect(new Set(sources?.map((source) => source.url)).size).toBe(264);
+    expect(sources?.some((source) => source.id === 'rk-mayor-roster-2026')).toBe(true);
+    expect(new Set(sources?.map((source) => source.url)).size).toBe(sources?.length);
   });
 
   it('loads only published city/year contexts from election manifests', async () => {
@@ -73,10 +73,10 @@ describe('election context', () => {
       listPublishedElectionContexts?: () => Promise<Array<{ citySlug: string; year: number; basePath: string; data: GuideData }>>;
     };
     const published = await loader.listPublishedElectionContexts?.();
-    expect(published?.map((context) => context.basePath)).toEqual(['/liptovsky-mikulas/2026/']);
+    expect(published?.map((context) => context.basePath)).toEqual(['/liptovsky-mikulas/2026/', '/ruzomberok/2026/']);
     expect(published?.[0]?.data.candidates).toHaveLength(91);
     expect(published?.[0]?.data.candidacies).toHaveLength(109);
-    expect(published?.[0]?.data.claims).toHaveLength(602);
+    expect(published?.[0]?.data.claims).toHaveLength(604);
   });
 
   it('scopes Ružomberok to its five city districts and regional district 8', () => {

@@ -1,0 +1,36 @@
+{
+  "head": "0040426218768f163f0ea9c6e65e91ebd47ca6d3",
+  "files": {
+    "README.md": "5d1a02b5c92e424e9e6e894d28b3cc643d14b1fd0215b4128c20872d43c5ef86",
+    "research/ruzomberok-2026-audit.md": "11863f4c67811e07dc2c2415dc7cfd82e155c1db23f429e7c79a8c2365364114",
+    "research/ruzomberok-2026.json": "4283287e23ca8b09fa23faafdbec653f7b5080ee46f67270962b6738d38ee450",
+    "src/components/SourceLink.astro": "a04730271d3285dab59389c5b3d35bf13f684b874bbf1402a3b2cfb93b403686",
+    "src/components/SourceRegister.astro": "43c7b6f68d4390d7a48008e90ec16b6920b96308338b10348550261b594b9496",
+    "src/data/elections/2026/zilinsky-kraj/campaign-finance-parties.json": "a10d81e6194d1b74d59884c12d9b52f1dc79d83f23567cb71a9a419dbb3b30c7",
+    "src/data/elections/2026/zilinsky-kraj/campaign-finance.json": "5b4a5de2890e376e0678fa668e2fe70927a8b37fbf0740202ed7c93c6e1e5d4d",
+    "src/data/elections/2026/zilinsky-kraj/candidacies.json": "6a622e2b6ba93d9349bd047ad4b6c009fe133829a9dd8f3c075800fd1a5316be",
+    "src/data/elections/2026/zilinsky-kraj/candidates.json": "81aea68d285b115daea730d56083f1f7ee54d267b40c910539491964bc4110f1",
+    "src/data/elections/2026/zilinsky-kraj/claims.json": "15a003ded8f52458326e4aa56ef6fa556fe66baeca44d4cc6c97c5a7eac6d712",
+    "src/data/elections/2026/zilinsky-kraj/districts.json": "4f4cf480a74a7e07663f636ad071586f25cf4c99d825fef6ceb3efefbe45bc77",
+    "src/data/elections/2026/zilinsky-kraj/elections.json": "81e30688124ab9391f78aa0932721b99a920d2a28a4a8ef663f89f097bad405f",
+    "src/data/elections/2026/zilinsky-kraj/municipalities/ruzomberok/config.json": "f8909eb29818b408c73c0ab6495437ccb8fabe7aa4ecbe36437520aa6d24379a",
+    "src/data/elections/2026/zilinsky-kraj/research-coverage.json": "c5d20eb04118e4c847f6d45303820f9dbd907451524b6135a1b926f511197dbb",
+    "src/data/sources.json": "2310462798309a89704815231f592edd131bc150a51d8a6cf7a7ce2407473692",
+    "tests/e2e/campaign-finance.spec.ts": "7bab2acb45c4e63eae92f17816cab1c26f5c9a47d5348bcbaf0c84bb5b960eac",
+    "tests/e2e/privacy-accessibility.spec.ts": "889074d189713275a5945b89393ae103aa87bd380881a94ce443c91808a0c5d1",
+    "tests/e2e/profile-and-sources.spec.ts": "120aa129f64ab9d0f45f981a15730ab85ec380f2f4fe8700f9cb0f6f531343ce",
+    "tests/e2e/ruzomberok.spec.ts": "546a6d9f07924def9f9faf6fdb1f72b183217d734b214523799f4d34d53d6d4a",
+    "tests/e2e/site-context-routes.spec.ts": "11d0e820829671bf3d200c02a829ee5d7df43346b2425f86004c891a3ba04cd1",
+    "tests/fixtures/ruzomberok-election-results.json": "5c208231b67e969ece60fa3e40b0356d32703dffb479fabc512f3e2c56a5a076",
+    "tests/unit/district-url.test.ts": "16d96187c30986011dbaa0f21ab5239bae7e32f7d30398bef854d3c8f41505a7",
+    "tests/unit/election-context.test.ts": "be42d79bf34118a8db4f5a4ce9362016fbad6ea4e4c2f25aeccfe1b9262cc1a4",
+    "tests/unit/legacy-redirects.test.ts": "a7923f4b0a494f28957bdea8ae2d63e54062268e3d1e87cb18e9d75350111c31",
+    "tests/unit/official-roster.test.ts": "7e4f241214705974e1f2122efb930522f25a5727164cb51261825767a0634d65",
+    "tests/unit/ruzomberok-roster.test.ts": "8624de89d79366a6d7d009979fe904d3c587b70ebb8bc0b608e11546029aab1a"
+  },
+  "reviewReport": {
+    "scratchPath": "/tmp/ruzomberok-research/review-report.md",
+    "expectedPublishedPath": "research/ruzomberok-2026-review.md",
+    "sha256": "e83a41e666a60b193eb331daa24243928c17b1076142dc250d71e25df7ebcdd6"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "cityName": "Ružomberok",
+  "status": "published",
+  "snapshotDate": "2026-10-03",
+  "cityDistrictIds": [
+    "2026-rk-city-1",
+    "2026-rk-city-2",
+    "2026-rk-city-3",
+    "2026-rk-city-4",
+    "2026-rk-city-5"
+  ],
+  "regionalDistrictId": "2026-zsk-region-8",
+  "contestIds": {
+    "mayor": "2026-rk-mayor",
+    "city-council": "2026-rk-city-council"
+  }
+}

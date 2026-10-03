@@ -50,5 +50,31 @@
       "zsk-districts-seats-2026"
     ],
     "contestId": "2026-zsk-region-council"
+  },
+  {
+    "id": "mayor",
+    "contestId": "2026-rk-mayor",
+    "title": {
+      "sk": "Voľby primátora mesta Ružomberok"
+    },
+    "level": "city",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "rk-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "city-council",
+    "contestId": "2026-rk-city-council",
+    "title": {
+      "sk": "Voľby do Mestského zastupiteľstva mesta Ružomberok"
+    },
+    "level": "city",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
   }
 ]

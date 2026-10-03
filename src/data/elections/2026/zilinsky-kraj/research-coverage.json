@@ -6463,9 +6463,10 @@
     "candidateId": "candidate-85",
     "category": "programme_statements",
     "status": "found",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-03",
     "sourceIds": [
-      "aktuality-belousovova-candidacy-2026"
+      "aktuality-belousovova-candidacy-2026",
+      "zenskyweb-belousovova-interview-2026-09-30"
     ]
   },
   {
@@ -6701,9 +6702,9 @@
     "candidateId": "candidate-88",
     "category": "public_office",
     "status": "found",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-03",
     "sourceIds": [
-      "zsk-jurinova-profile",
+      "cor-jurinova-current-2026",
       "nrsr-jurinova-vicechair-term6"
     ]
   },
@@ -6940,9 +6941,10 @@
     "candidateId": "candidate-90",
     "category": "media",
     "status": "found",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-03",
     "sourceIds": [
-      "tasr-lucansky-candidacy-2026"
+      "tasr-lucansky-candidacy-2026",
+      "stvr-tasr-lucansky-withdrawal-2026"
     ]
   },
   {
@@ -7034,6 +7036,5479 @@
     "category": "controversies",
     "status": "searched_none",
     "checkedAt": "2026-09-18",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-alusic-basic",
+    "candidateId": "rk-martin-alusic",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-alusic-employment_business",
+    "candidateId": "rk-martin-alusic",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mayor-roster-2026",
+      "rk-orsr-367204",
+      "rk-identity-alusic-bridge-ov"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-alusic-public_office",
+    "candidateId": "rk-martin-alusic",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-alusic-controller-city-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-alusic-previous_elections",
+    "candidateId": "rk-martin-alusic",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-alusic-programme_statements",
+    "candidateId": "rk-martin-alusic",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-alusic-programme-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-alusic-asset_declarations",
+    "candidateId": "rk-martin-alusic",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-alusic-media",
+    "candidateId": "rk-martin-alusic",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-alusic-postoj-interview-2024"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-alusic-controversies",
+    "candidateId": "rk-martin-alusic",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-alusic-controller-city-2022",
+      "rk-alusic-about-2026",
+      "rk-alusic-invoice-response-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubomir-kuban-basic",
+    "candidateId": "rk-lubomir-kuban",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubomir-kuban-employment_business",
+    "candidateId": "rk-lubomir-kuban",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mayor-roster-2026",
+      "rk-orsr-328824",
+      "rk-orsr-104703",
+      "rk-orsr-683613",
+      "rk-orsr-727815",
+      "rk-orsr-10607",
+      "rk-identity-kuban-ov"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubomir-kuban-public_office",
+    "candidateId": "rk-lubomir-kuban",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-kuban-current-mayor"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubomir-kuban-previous_elections",
+    "candidateId": "rk-lubomir-kuban",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-outcomes-2022",
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubomir-kuban-programme_statements",
+    "candidateId": "rk-lubomir-kuban",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-kuban-pedestrian-zone-2023"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubomir-kuban-asset_declarations",
+    "candidateId": "rk-lubomir-kuban",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-lubomir-kuban-media",
+    "candidateId": "rk-lubomir-kuban",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-kuban-pedestrian-zone-2023"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubomir-kuban-controversies",
+    "candidateId": "rk-lubomir-kuban",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mbk-joint-response-2025"
+    ]
+  },
+  {
+    "id": "coverage-rk-jan-kuran-basic",
+    "candidateId": "rk-jan-kuran",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jan-kuran-employment_business",
+    "candidateId": "rk-jan-kuran",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mayor-roster-2026",
+      "rk-orsr-295698",
+      "rk-identity-kuran-ov"
+    ]
+  },
+  {
+    "id": "coverage-rk-jan-kuran-public_office",
+    "candidateId": "rk-jan-kuran",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-kuran-current-city-roster"
+    ]
+  },
+  {
+    "id": "coverage-rk-jan-kuran-previous_elections",
+    "candidateId": "rk-jan-kuran",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-jan-kuran-programme_statements",
+    "candidateId": "rk-jan-kuran",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-kuran-programme-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jan-kuran-asset_declarations",
+    "candidateId": "rk-jan-kuran",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-kuran-current-city-roster"
+    ]
+  },
+  {
+    "id": "coverage-rk-jan-kuran-media",
+    "candidateId": "rk-jan-kuran",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-kuran-interview-2020"
+    ]
+  },
+  {
+    "id": "coverage-rk-jan-kuran-controversies",
+    "candidateId": "rk-jan-kuran",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-criminal-complaint-2019"
+    ]
+  },
+  {
+    "id": "coverage-rk-frantisek-rakosi-basic",
+    "candidateId": "rk-frantisek-rakosi",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-frantisek-rakosi-employment_business",
+    "candidateId": "rk-frantisek-rakosi",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-frantisek-rakosi-public_office",
+    "candidateId": "rk-frantisek-rakosi",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-frantisek-rakosi-previous_elections",
+    "candidateId": "rk-frantisek-rakosi",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-frantisek-rakosi-programme_statements",
+    "candidateId": "rk-frantisek-rakosi",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-frantisek-rakosi-asset_declarations",
+    "candidateId": "rk-frantisek-rakosi",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-frantisek-rakosi-media",
+    "candidateId": "rk-frantisek-rakosi",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-frantisek-rakosi-controversies",
+    "candidateId": "rk-frantisek-rakosi",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-katarina-bachanova-basic",
+    "candidateId": "rk-katarina-bachanova",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-katarina-bachanova-employment_business",
+    "candidateId": "rk-katarina-bachanova",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026",
+      "rk-orsr-143688",
+      "rk-identity-bachanova-ov"
+    ]
+  },
+  {
+    "id": "coverage-rk-katarina-bachanova-public_office",
+    "candidateId": "rk-katarina-bachanova",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-bachanova-current-council"
+    ]
+  },
+  {
+    "id": "coverage-rk-katarina-bachanova-previous_elections",
+    "candidateId": "rk-katarina-bachanova",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-katarina-bachanova-programme_statements",
+    "candidateId": "rk-katarina-bachanova",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-katarina-bachanova-asset_declarations",
+    "candidateId": "rk-katarina-bachanova",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-katarina-bachanova-media",
+    "candidateId": "rk-katarina-bachanova",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-katarina-bachanova-controversies",
+    "candidateId": "rk-katarina-bachanova",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-baran-basic",
+    "candidateId": "rk-martin-baran",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-baran-employment_business",
+    "candidateId": "rk-martin-baran",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026",
+      "rk-orsr-2888",
+      "rk-identity-baran-ov"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-baran-public_office",
+    "candidateId": "rk-martin-baran",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-baran-current-mayor"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-baran-previous_elections",
+    "candidateId": "rk-martin-baran",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-outcomes-2022",
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022",
+      "rk-statistics-mayor-results-2014",
+      "statistics-mayor-results-2010",
+      "statistics-mayor-results-2006"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-baran-programme_statements",
+    "candidateId": "rk-martin-baran",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-regional-survey-2017"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-baran-asset_declarations",
+    "candidateId": "rk-martin-baran",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-baran-media",
+    "candidateId": "rk-martin-baran",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-regional-survey-2017"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-baran-controversies",
+    "candidateId": "rk-martin-baran",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miroslav-futo-basic",
+    "candidateId": "rk-miroslav-futo",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-futo-employment_business",
+    "candidateId": "rk-miroslav-futo",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026",
+      "rk-orsr-624970",
+      "rk-futo-director-appointment-2024",
+      "rk-identity-futo-ov"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-futo-public_office",
+    "candidateId": "rk-miroslav-futo",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miroslav-futo-previous_elections",
+    "candidateId": "rk-miroslav-futo",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-futo-programme_statements",
+    "candidateId": "rk-miroslav-futo",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miroslav-futo-asset_declarations",
+    "candidateId": "rk-miroslav-futo",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miroslav-futo-media",
+    "candidateId": "rk-miroslav-futo",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miroslav-futo-controversies",
+    "candidateId": "rk-miroslav-futo",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-holdos-basic",
+    "candidateId": "rk-jaroslav-holdos",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-holdos-employment_business",
+    "candidateId": "rk-jaroslav-holdos",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-holdos-public_office",
+    "candidateId": "rk-jaroslav-holdos",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-holdos-previous_elections",
+    "candidateId": "rk-jaroslav-holdos",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-holdos-programme_statements",
+    "candidateId": "rk-jaroslav-holdos",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-holdos-asset_declarations",
+    "candidateId": "rk-jaroslav-holdos",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-holdos-media",
+    "candidateId": "rk-jaroslav-holdos",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-holdos-controversies",
+    "candidateId": "rk-jaroslav-holdos",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-damian-jelsovka-basic",
+    "candidateId": "rk-damian-jelsovka",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-damian-jelsovka-employment_business",
+    "candidateId": "rk-damian-jelsovka",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026",
+      "rk-orsr-1740",
+      "rk-orsr-6310",
+      "rk-identity-jelsovka-ov"
+    ]
+  },
+  {
+    "id": "coverage-rk-damian-jelsovka-public_office",
+    "candidateId": "rk-damian-jelsovka",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-damian-jelsovka-previous_elections",
+    "candidateId": "rk-damian-jelsovka",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-damian-jelsovka-programme_statements",
+    "candidateId": "rk-damian-jelsovka",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-damian-jelsovka-asset_declarations",
+    "candidateId": "rk-damian-jelsovka",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-damian-jelsovka-media",
+    "candidateId": "rk-damian-jelsovka",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-damian-jelsovka-controversies",
+    "candidateId": "rk-damian-jelsovka",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-rakucak-basic",
+    "candidateId": "rk-jaroslav-rakucak",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-rakucak-employment_business",
+    "candidateId": "rk-jaroslav-rakucak",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026",
+      "rk-rakucak-official-staff"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-rakucak-public_office",
+    "candidateId": "rk-jaroslav-rakucak",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rakucak-current-council"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-rakucak-previous_elections",
+    "candidateId": "rk-jaroslav-rakucak",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-outcomes-2022",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-rakucak-programme_statements",
+    "candidateId": "rk-jaroslav-rakucak",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-district-candidate-survey-2020"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-rakucak-asset_declarations",
+    "candidateId": "rk-jaroslav-rakucak",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-rakucak-media",
+    "candidateId": "rk-jaroslav-rakucak",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-district-candidate-survey-2020"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-rakucak-controversies",
+    "candidateId": "rk-jaroslav-rakucak",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jana-simova-basic",
+    "candidateId": "rk-jana-simova",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jana-simova-employment_business",
+    "candidateId": "rk-jana-simova",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jana-simova-public_office",
+    "candidateId": "rk-jana-simova",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-simova-current-mayor"
+    ]
+  },
+  {
+    "id": "coverage-rk-jana-simova-previous_elections",
+    "candidateId": "rk-jana-simova",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-outcomes-2022",
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022",
+      "rk-statistics-mayor-results-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-jana-simova-programme_statements",
+    "candidateId": "rk-jana-simova",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jana-simova-asset_declarations",
+    "candidateId": "rk-jana-simova",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-simova-declaration-index"
+    ]
+  },
+  {
+    "id": "coverage-rk-jana-simova-media",
+    "candidateId": "rk-jana-simova",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jana-simova-controversies",
+    "candidateId": "rk-jana-simova",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-michal-svento-basic",
+    "candidateId": "rk-michal-svento",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-michal-svento-employment_business",
+    "candidateId": "rk-michal-svento",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026",
+      "rk-svento-current-council"
+    ]
+  },
+  {
+    "id": "coverage-rk-michal-svento-public_office",
+    "candidateId": "rk-michal-svento",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-svento-current-council"
+    ]
+  },
+  {
+    "id": "coverage-rk-michal-svento-previous_elections",
+    "candidateId": "rk-michal-svento",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-michal-svento-programme_statements",
+    "candidateId": "rk-michal-svento",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-michal-svento-asset_declarations",
+    "candidateId": "rk-michal-svento",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-michal-svento-media",
+    "candidateId": "rk-michal-svento",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-michal-svento-controversies",
+    "candidateId": "rk-michal-svento",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-marian-zubor-basic",
+    "candidateId": "rk-marian-zubor",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-zubor-employment_business",
+    "candidateId": "rk-marian-zubor",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-zubor-public_office",
+    "candidateId": "rk-marian-zubor",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-liskova-minutes-2023-04-12"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-zubor-previous_elections",
+    "candidateId": "rk-marian-zubor",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-zubor-programme_statements",
+    "candidateId": "rk-marian-zubor",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-marian-zubor-asset_declarations",
+    "candidateId": "rk-marian-zubor",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-marian-zubor-media",
+    "candidateId": "rk-marian-zubor",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-marian-zubor-controversies",
+    "candidateId": "rk-marian-zubor",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-pavol-ivan-basic",
+    "candidateId": "rk-pavol-ivan",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavol-ivan-employment_business",
+    "candidateId": "rk-pavol-ivan",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "orsr-rk-108245-current",
+      "ov-rk-identity-4166255",
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavol-ivan-public_office",
+    "candidateId": "rk-pavol-ivan",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-planning-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavol-ivan-previous_elections",
+    "candidateId": "rk-pavol-ivan",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-2018-tables",
+      "statistics-municipal-candidates-2018",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavol-ivan-programme_statements",
+    "candidateId": "rk-pavol-ivan",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-banicne-answers-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavol-ivan-asset_declarations",
+    "candidateId": "rk-pavol-ivan",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-pavol-ivan-media",
+    "candidateId": "rk-pavol-ivan",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "tasr-rk-pool-2016"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavol-ivan-controversies",
+    "candidateId": "rk-pavol-ivan",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-election-report-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-jozef-pavnica-basic",
+    "candidateId": "rk-jozef-pavnica",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jozef-pavnica-employment_business",
+    "candidateId": "rk-jozef-pavnica",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "orsr-rk-383526-current",
+      "ov-rk-identity-3460818",
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jozef-pavnica-public_office",
+    "candidateId": "rk-jozef-pavnica",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jozef-pavnica-previous_elections",
+    "candidateId": "rk-jozef-pavnica",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jozef-pavnica-programme_statements",
+    "candidateId": "rk-jozef-pavnica",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jozef-pavnica-asset_declarations",
+    "candidateId": "rk-jozef-pavnica",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jozef-pavnica-media",
+    "candidateId": "rk-jozef-pavnica",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jozef-pavnica-controversies",
+    "candidateId": "rk-jozef-pavnica",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ahmad-fawad-qasemyar-basic",
+    "candidateId": "rk-ahmad-fawad-qasemyar",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-ahmad-fawad-qasemyar-employment_business",
+    "candidateId": "rk-ahmad-fawad-qasemyar",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "orsr-rk-153672-current",
+      "ov-rk-identity-3553689",
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-ahmad-fawad-qasemyar-public_office",
+    "candidateId": "rk-ahmad-fawad-qasemyar",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ahmad-fawad-qasemyar-previous_elections",
+    "candidateId": "rk-ahmad-fawad-qasemyar",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ahmad-fawad-qasemyar-programme_statements",
+    "candidateId": "rk-ahmad-fawad-qasemyar",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ahmad-fawad-qasemyar-asset_declarations",
+    "candidateId": "rk-ahmad-fawad-qasemyar",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ahmad-fawad-qasemyar-media",
+    "candidateId": "rk-ahmad-fawad-qasemyar",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ahmad-fawad-qasemyar-controversies",
+    "candidateId": "rk-ahmad-fawad-qasemyar",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-andrej-fekete-basic",
+    "candidateId": "rk-andrej-fekete",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-andrej-fekete-employment_business",
+    "candidateId": "rk-andrej-fekete",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-andrej-fekete-public_office",
+    "candidateId": "rk-andrej-fekete",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-andrej-fekete-previous_elections",
+    "candidateId": "rk-andrej-fekete",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-andrej-fekete-programme_statements",
+    "candidateId": "rk-andrej-fekete",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-andrej-fekete-asset_declarations",
+    "candidateId": "rk-andrej-fekete",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-andrej-fekete-media",
+    "candidateId": "rk-andrej-fekete",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-andrej-fekete-controversies",
+    "candidateId": "rk-andrej-fekete",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-lubos-koren-basic",
+    "candidateId": "rk-lubos-koren",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubos-koren-employment_business",
+    "candidateId": "rk-lubos-koren",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubos-koren-public_office",
+    "candidateId": "rk-lubos-koren",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-lubos-koren-previous_elections",
+    "candidateId": "rk-lubos-koren",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-2018-tables",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubos-koren-programme_statements",
+    "candidateId": "rk-lubos-koren",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-kuban-programme-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubos-koren-asset_declarations",
+    "candidateId": "rk-lubos-koren",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-lubos-koren-media",
+    "candidateId": "rk-lubos-koren",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-lubos-koren-controversies",
+    "candidateId": "rk-lubos-koren",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-papco-basic",
+    "candidateId": "rk-martin-papco",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-papco-employment_business",
+    "candidateId": "rk-martin-papco",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "ku-martin-papco-profile-2026",
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-papco-public_office",
+    "candidateId": "rk-martin-papco",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-education-current",
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-papco-previous_elections",
+    "candidateId": "rk-martin-papco",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-papco-programme_statements",
+    "candidateId": "rk-martin-papco",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-papco-interview-2023"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-papco-asset_declarations",
+    "candidateId": "rk-martin-papco",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-papco-media",
+    "candidateId": "rk-martin-papco",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-papco-interview-2023"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-papco-controversies",
+    "candidateId": "rk-martin-papco",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-anna-buchtova-basic",
+    "candidateId": "rk-anna-buchtova",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-anna-buchtova-employment_business",
+    "candidateId": "rk-anna-buchtova",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-anna-buchtova-public_office",
+    "candidateId": "rk-anna-buchtova",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-anna-buchtova-previous_elections",
+    "candidateId": "rk-anna-buchtova",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-anna-buchtova-programme_statements",
+    "candidateId": "rk-anna-buchtova",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-anna-buchtova-asset_declarations",
+    "candidateId": "rk-anna-buchtova",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-anna-buchtova-media",
+    "candidateId": "rk-anna-buchtova",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-anna-buchtova-controversies",
+    "candidateId": "rk-anna-buchtova",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-demko-basic",
+    "candidateId": "rk-peter-demko",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-demko-employment_business",
+    "candidateId": "rk-peter-demko",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "orsr-rk-568397-current",
+      "ov-rk-identity-4426389",
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-demko-public_office",
+    "candidateId": "rk-peter-demko",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-demko-previous_elections",
+    "candidateId": "rk-peter-demko",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-demko-programme_statements",
+    "candidateId": "rk-peter-demko",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-demko-asset_declarations",
+    "candidateId": "rk-peter-demko",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-demko-media",
+    "candidateId": "rk-peter-demko",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-demko-controversies",
+    "candidateId": "rk-peter-demko",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jan-kral-basic",
+    "candidateId": "rk-jan-kral",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jan-kral-employment_business",
+    "candidateId": "rk-jan-kral",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jan-kral-public_office",
+    "candidateId": "rk-jan-kral",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jan-kral-previous_elections",
+    "candidateId": "rk-jan-kral",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jan-kral-programme_statements",
+    "candidateId": "rk-jan-kral",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jan-kral-asset_declarations",
+    "candidateId": "rk-jan-kral",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jan-kral-media",
+    "candidateId": "rk-jan-kral",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jan-kral-controversies",
+    "candidateId": "rk-jan-kral",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-lubos-kralovensky-basic",
+    "candidateId": "rk-lubos-kralovensky",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubos-kralovensky-employment_business",
+    "candidateId": "rk-lubos-kralovensky",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "orsr-rk-552588-current",
+      "ov-rk-identity-3996451",
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubos-kralovensky-public_office",
+    "candidateId": "rk-lubos-kralovensky",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-lubos-kralovensky-previous_elections",
+    "candidateId": "rk-lubos-kralovensky",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-2018-tables",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubos-kralovensky-programme_statements",
+    "candidateId": "rk-lubos-kralovensky",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-local-candidate-answers-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-lubos-kralovensky-asset_declarations",
+    "candidateId": "rk-lubos-kralovensky",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-lubos-kralovensky-media",
+    "candidateId": "rk-lubos-kralovensky",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-lubos-kralovensky-controversies",
+    "candidateId": "rk-lubos-kralovensky",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-alzbeta-biel-basic",
+    "candidateId": "rk-alzbeta-biel",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-alzbeta-biel-employment_business",
+    "candidateId": "rk-alzbeta-biel",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-alzbeta-biel-public_office",
+    "candidateId": "rk-alzbeta-biel",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-alzbeta-biel-previous_elections",
+    "candidateId": "rk-alzbeta-biel",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-alzbeta-biel-programme_statements",
+    "candidateId": "rk-alzbeta-biel",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-alzbeta-biel-asset_declarations",
+    "candidateId": "rk-alzbeta-biel",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-alzbeta-biel-media",
+    "candidateId": "rk-alzbeta-biel",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-alzbeta-biel-controversies",
+    "candidateId": "rk-alzbeta-biel",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-mario-jadron-basic",
+    "candidateId": "rk-mario-jadron",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-mario-jadron-employment_business",
+    "candidateId": "rk-mario-jadron",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-mario-jadron-public_office",
+    "candidateId": "rk-mario-jadron",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-mario-jadron-previous_elections",
+    "candidateId": "rk-mario-jadron",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-mario-jadron-programme_statements",
+    "candidateId": "rk-mario-jadron",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-mario-jadron-asset_declarations",
+    "candidateId": "rk-mario-jadron",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-mario-jadron-media",
+    "candidateId": "rk-mario-jadron",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-mario-jadron-controversies",
+    "candidateId": "rk-mario-jadron",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-adriana-stolarova-basic",
+    "candidateId": "rk-adriana-stolarova",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-adriana-stolarova-employment_business",
+    "candidateId": "rk-adriana-stolarova",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-adriana-stolarova-public_office",
+    "candidateId": "rk-adriana-stolarova",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-adriana-stolarova-previous_elections",
+    "candidateId": "rk-adriana-stolarova",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-2018-tables",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-adriana-stolarova-programme_statements",
+    "candidateId": "rk-adriana-stolarova",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-local-candidate-answers-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-adriana-stolarova-asset_declarations",
+    "candidateId": "rk-adriana-stolarova",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-adriana-stolarova-media",
+    "candidateId": "rk-adriana-stolarova",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-adriana-stolarova-controversies",
+    "candidateId": "rk-adriana-stolarova",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-janka-bagiova-basic",
+    "candidateId": "rk-janka-bagiova",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-janka-bagiova-employment_business",
+    "candidateId": "rk-janka-bagiova",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-janka-bagiova-public_office",
+    "candidateId": "rk-janka-bagiova",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-janka-bagiova-previous_elections",
+    "candidateId": "rk-janka-bagiova",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-elected-2020",
+      "statistics-nrsr-results-2020",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-janka-bagiova-programme_statements",
+    "candidateId": "rk-janka-bagiova",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-district-candidate-survey-2020"
+    ]
+  },
+  {
+    "id": "coverage-rk-janka-bagiova-asset_declarations",
+    "candidateId": "rk-janka-bagiova",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-janka-bagiova-media",
+    "candidateId": "rk-janka-bagiova",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-district-candidate-survey-2020"
+    ]
+  },
+  {
+    "id": "coverage-rk-janka-bagiova-controversies",
+    "candidateId": "rk-janka-bagiova",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jozef-basary-basic",
+    "candidateId": "rk-jozef-basary",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jozef-basary-employment_business",
+    "candidateId": "rk-jozef-basary",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-communal-services-contact-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-jozef-basary-public_office",
+    "candidateId": "rk-jozef-basary",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-environment-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-jozef-basary-previous_elections",
+    "candidateId": "rk-jozef-basary",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jozef-basary-programme_statements",
+    "candidateId": "rk-jozef-basary",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jozef-basary-asset_declarations",
+    "candidateId": "rk-jozef-basary",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jozef-basary-media",
+    "candidateId": "rk-jozef-basary",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jozef-basary-controversies",
+    "candidateId": "rk-jozef-basary",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ludovit-betko-basic",
+    "candidateId": "rk-ludovit-betko",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-ludovit-betko-employment_business",
+    "candidateId": "rk-ludovit-betko",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "orsr-rk-219753-current",
+      "rk-city-council-roster-2026",
+      "rk-kuban-betko-profile-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-ludovit-betko-public_office",
+    "candidateId": "rk-ludovit-betko",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ludovit-betko-previous_elections",
+    "candidateId": "rk-ludovit-betko",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-2018-tables",
+      "statistics-municipal-candidates-2018",
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-elected-2020",
+      "statistics-nrsr-preference-2023",
+      "statistics-nrsr-results-2020"
+    ]
+  },
+  {
+    "id": "coverage-rk-ludovit-betko-programme_statements",
+    "candidateId": "rk-ludovit-betko",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-district-candidate-survey-2020"
+    ]
+  },
+  {
+    "id": "coverage-rk-ludovit-betko-asset_declarations",
+    "candidateId": "rk-ludovit-betko",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ludovit-betko-media",
+    "candidateId": "rk-ludovit-betko",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-district-candidate-survey-2020"
+    ]
+  },
+  {
+    "id": "coverage-rk-ludovit-betko-controversies",
+    "candidateId": "rk-ludovit-betko",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-bistan-basic",
+    "candidateId": "rk-martin-bistan",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-bistan-employment_business",
+    "candidateId": "rk-martin-bistan",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "orsr-rk-131356-current",
+      "ov-rk-identity-3455503",
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-bistan-public_office",
+    "candidateId": "rk-martin-bistan",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-bistan-previous_elections",
+    "candidateId": "rk-martin-bistan",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-bistan-programme_statements",
+    "candidateId": "rk-martin-bistan",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-architects-2021"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-bistan-asset_declarations",
+    "candidateId": "rk-martin-bistan",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-bistan-media",
+    "candidateId": "rk-martin-bistan",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-architects-2021"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-bistan-controversies",
+    "candidateId": "rk-martin-bistan",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-burgan-basic",
+    "candidateId": "rk-juraj-burgan",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-burgan-employment_business",
+    "candidateId": "rk-juraj-burgan",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-communal-services-contact-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-burgan-public_office",
+    "candidateId": "rk-juraj-burgan",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-environment-current",
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-burgan-previous_elections",
+    "candidateId": "rk-juraj-burgan",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "sita-rk-candidates-2018",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-2018-tables",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-burgan-programme_statements",
+    "candidateId": "rk-juraj-burgan",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-burgan-asset_declarations",
+    "candidateId": "rk-juraj-burgan",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-burgan-media",
+    "candidateId": "rk-juraj-burgan",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-hyros-followup-2020"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-burgan-controversies",
+    "candidateId": "rk-juraj-burgan",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-criminal-complaint-2019"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-dubravec-basic",
+    "candidateId": "rk-robert-dubravec",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-dubravec-employment_business",
+    "candidateId": "rk-robert-dubravec",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "orsr-rk-2327-current",
+      "orsr-rk-288235-current",
+      "ov-rk-identity-3768932",
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-dubravec-public_office",
+    "candidateId": "rk-robert-dubravec",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-planning-current",
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-dubravec-previous_elections",
+    "candidateId": "rk-robert-dubravec",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-dubravec-programme_statements",
+    "candidateId": "rk-robert-dubravec",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-kuban-dubravec-profile-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-dubravec-asset_declarations",
+    "candidateId": "rk-robert-dubravec",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-dubravec-media",
+    "candidateId": "rk-robert-dubravec",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "tasr-dubravec-custody-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-dubravec-controversies",
+    "candidateId": "rk-robert-dubravec",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "tasr-dubravec-custody-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-ladislav-fis-basic",
+    "candidateId": "rk-ladislav-fis",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-ladislav-fis-employment_business",
+    "candidateId": "rk-ladislav-fis",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "upsvar-rk-orders-may-2025"
+    ]
+  },
+  {
+    "id": "coverage-rk-ladislav-fis-public_office",
+    "candidateId": "rk-ladislav-fis",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ladislav-fis-previous_elections",
+    "candidateId": "rk-ladislav-fis",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-regional-candidates-2022",
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-results-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-ladislav-fis-programme_statements",
+    "candidateId": "rk-ladislav-fis",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ladislav-fis-asset_declarations",
+    "candidateId": "rk-ladislav-fis",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ladislav-fis-media",
+    "candidateId": "rk-ladislav-fis",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ladislav-fis-controversies",
+    "candidateId": "rk-ladislav-fis",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-furto-basic",
+    "candidateId": "rk-juraj-furto",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-furto-employment_business",
+    "candidateId": "rk-juraj-furto",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-furto-gkj-register",
+      "rk-furto-gkj-registration-2023"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-furto-public_office",
+    "candidateId": "rk-juraj-furto",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-furto-previous_elections",
+    "candidateId": "rk-juraj-furto",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-furto-programme_statements",
+    "candidateId": "rk-juraj-furto",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-furto-asset_declarations",
+    "candidateId": "rk-juraj-furto",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-furto-media",
+    "candidateId": "rk-juraj-furto",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-furto-controversies",
+    "candidateId": "rk-juraj-furto",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-marian-gasaj-basic",
+    "candidateId": "rk-marian-gasaj",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-gasaj-employment_business",
+    "candidateId": "rk-marian-gasaj",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-gasaj-ku-profile"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-gasaj-public_office",
+    "candidateId": "rk-marian-gasaj",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-voting-list-2016"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-gasaj-previous_elections",
+    "candidateId": "rk-marian-gasaj",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-gasaj-programme_statements",
+    "candidateId": "rk-marian-gasaj",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-gasaj-statements-2016"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-gasaj-asset_declarations",
+    "candidateId": "rk-marian-gasaj",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-marian-gasaj-media",
+    "candidateId": "rk-marian-gasaj",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-marian-gasaj-controversies",
+    "candidateId": "rk-marian-gasaj",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-patrik-habo-basic",
+    "candidateId": "rk-patrik-habo",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-patrik-habo-employment_business",
+    "candidateId": "rk-patrik-habo",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-patrik-habo-public_office",
+    "candidateId": "rk-patrik-habo",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-planning-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-patrik-habo-previous_elections",
+    "candidateId": "rk-patrik-habo",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-patrik-habo-programme_statements",
+    "candidateId": "rk-patrik-habo",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-habo-candidacy-interview-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-patrik-habo-asset_declarations",
+    "candidateId": "rk-patrik-habo",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-patrik-habo-media",
+    "candidateId": "rk-patrik-habo",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-habo-candidacy-interview-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-patrik-habo-controversies",
+    "candidateId": "rk-patrik-habo",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-robert-hlacina-basic",
+    "candidateId": "rk-robert-hlacina",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-hlacina-employment_business",
+    "candidateId": "rk-robert-hlacina",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-hlacina-mos-profile"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-hlacina-public_office",
+    "candidateId": "rk-robert-hlacina",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-sports-commission"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-hlacina-previous_elections",
+    "candidateId": "rk-robert-hlacina",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-hlacina-programme_statements",
+    "candidateId": "rk-robert-hlacina",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-stred-statements-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-hlacina-asset_declarations",
+    "candidateId": "rk-robert-hlacina",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-robert-hlacina-media",
+    "candidateId": "rk-robert-hlacina",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-robert-hlacina-controversies",
+    "candidateId": "rk-robert-hlacina",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-hromada-basic",
+    "candidateId": "rk-martin-hromada",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-hromada-employment_business",
+    "candidateId": "rk-martin-hromada",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-hromada-museum-contact"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-hromada-public_office",
+    "candidateId": "rk-martin-hromada",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-hromada-previous_elections",
+    "candidateId": "rk-martin-hromada",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-hromada-programme_statements",
+    "candidateId": "rk-martin-hromada",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-stred-statements-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-hromada-asset_declarations",
+    "candidateId": "rk-martin-hromada",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-hromada-media",
+    "candidateId": "rk-martin-hromada",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-hromada-controversies",
+    "candidateId": "rk-martin-hromada",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-jacko-basic",
+    "candidateId": "rk-tomas-jacko",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-jacko-employment_business",
+    "candidateId": "rk-tomas-jacko",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-jacko-euba-department"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-jacko-public_office",
+    "candidateId": "rk-tomas-jacko",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-jacko-previous_elections",
+    "candidateId": "rk-tomas-jacko",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-jacko-programme_statements",
+    "candidateId": "rk-tomas-jacko",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-jacko-asset_declarations",
+    "candidateId": "rk-tomas-jacko",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-jacko-media",
+    "candidateId": "rk-tomas-jacko",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-jacko-election-interview-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-jacko-controversies",
+    "candidateId": "rk-tomas-jacko",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ladislav-janci-basic",
+    "candidateId": "rk-ladislav-janci",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-ladislav-janci-employment_business",
+    "candidateId": "rk-ladislav-janci",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-ladislav-janci-public_office",
+    "candidateId": "rk-ladislav-janci",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ladislav-janci-previous_elections",
+    "candidateId": "rk-ladislav-janci",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ladislav-janci-programme_statements",
+    "candidateId": "rk-ladislav-janci",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-janci-interview-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-ladislav-janci-asset_declarations",
+    "candidateId": "rk-ladislav-janci",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-ladislav-janci-media",
+    "candidateId": "rk-ladislav-janci",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-janci-interview-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-ladislav-janci-controversies",
+    "candidateId": "rk-ladislav-janci",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miriam-janciova-basic",
+    "candidateId": "rk-miriam-janciova",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-miriam-janciova-employment_business",
+    "candidateId": "rk-miriam-janciova",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-miriam-janciova-public_office",
+    "candidateId": "rk-miriam-janciova",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miriam-janciova-previous_elections",
+    "candidateId": "rk-miriam-janciova",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miriam-janciova-programme_statements",
+    "candidateId": "rk-miriam-janciova",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miriam-janciova-asset_declarations",
+    "candidateId": "rk-miriam-janciova",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miriam-janciova-media",
+    "candidateId": "rk-miriam-janciova",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-janci-interview-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-miriam-janciova-controversies",
+    "candidateId": "rk-miriam-janciova",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-karol-javorka-basic",
+    "candidateId": "rk-karol-javorka",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-karol-javorka-employment_business",
+    "candidateId": "rk-karol-javorka",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-karol-javorka-evuc"
+    ]
+  },
+  {
+    "id": "coverage-rk-karol-javorka-public_office",
+    "candidateId": "rk-karol-javorka",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-karol-javorka-previous_elections",
+    "candidateId": "rk-karol-javorka",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-karol-javorka-programme_statements",
+    "candidateId": "rk-karol-javorka",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-karol-javorka-asset_declarations",
+    "candidateId": "rk-karol-javorka",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-karol-javorka-media",
+    "candidateId": "rk-karol-javorka",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-karol-javorka-controversies",
+    "candidateId": "rk-karol-javorka",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-stanislav-javorka-basic",
+    "candidateId": "rk-stanislav-javorka",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-stanislav-javorka-employment_business",
+    "candidateId": "rk-stanislav-javorka",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-stanislav-javorka-public_office",
+    "candidateId": "rk-stanislav-javorka",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current",
+      "rk-sports-commission"
+    ]
+  },
+  {
+    "id": "coverage-rk-stanislav-javorka-previous_elections",
+    "candidateId": "rk-stanislav-javorka",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-stanislav-javorka-programme_statements",
+    "candidateId": "rk-stanislav-javorka",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-laziny-statements-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-stanislav-javorka-asset_declarations",
+    "candidateId": "rk-stanislav-javorka",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-stanislav-javorka-media",
+    "candidateId": "rk-stanislav-javorka",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-stanislav-javorka-controversies",
+    "candidateId": "rk-stanislav-javorka",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-stefan-kasak-basic",
+    "candidateId": "rk-stefan-kasak",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-stefan-kasak-employment_business",
+    "candidateId": "rk-stefan-kasak",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-stefan-kasak-public_office",
+    "candidateId": "rk-stefan-kasak",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-stefan-kasak-previous_elections",
+    "candidateId": "rk-stefan-kasak",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-stefan-kasak-programme_statements",
+    "candidateId": "rk-stefan-kasak",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-stefan-kasak-asset_declarations",
+    "candidateId": "rk-stefan-kasak",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-stefan-kasak-media",
+    "candidateId": "rk-stefan-kasak",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-stefan-kasak-controversies",
+    "candidateId": "rk-stefan-kasak",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miroslav-kerdik-basic",
+    "candidateId": "rk-miroslav-kerdik",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-kerdik-employment_business",
+    "candidateId": "rk-miroslav-kerdik",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-kerdik-public_office",
+    "candidateId": "rk-miroslav-kerdik",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-kerdik-previous_elections",
+    "candidateId": "rk-miroslav-kerdik",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-kerdik-programme_statements",
+    "candidateId": "rk-miroslav-kerdik",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-banicne-answers-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-kerdik-asset_declarations",
+    "candidateId": "rk-miroslav-kerdik",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-kerdik-media",
+    "candidateId": "rk-miroslav-kerdik",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miroslav-kerdik-controversies",
+    "candidateId": "rk-miroslav-kerdik",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-vladimir-klimek-basic",
+    "candidateId": "rk-vladimir-klimek",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-vladimir-klimek-employment_business",
+    "candidateId": "rk-vladimir-klimek",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-vladimir-klimek-public_office",
+    "candidateId": "rk-vladimir-klimek",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-vladimir-klimek-previous_elections",
+    "candidateId": "rk-vladimir-klimek",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-vladimir-klimek-programme_statements",
+    "candidateId": "rk-vladimir-klimek",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-banicne-answers-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-vladimir-klimek-asset_declarations",
+    "candidateId": "rk-vladimir-klimek",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-vladimir-klimek-media",
+    "candidateId": "rk-vladimir-klimek",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-live-report-2025-11-05"
+    ]
+  },
+  {
+    "id": "coverage-rk-vladimir-klimek-controversies",
+    "candidateId": "rk-vladimir-klimek",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-klopta-basic",
+    "candidateId": "rk-tomas-klopta",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-klopta-employment_business",
+    "candidateId": "rk-tomas-klopta",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-klopta-public_office",
+    "candidateId": "rk-tomas-klopta",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-klopta-previous_elections",
+    "candidateId": "rk-tomas-klopta",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-klopta-programme_statements",
+    "candidateId": "rk-tomas-klopta",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-klopta-statements-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-klopta-asset_declarations",
+    "candidateId": "rk-tomas-klopta",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-klopta-media",
+    "candidateId": "rk-tomas-klopta",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-klopta-controversies",
+    "candidateId": "rk-tomas-klopta",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mbk-joint-response-2025"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-kolar-basic",
+    "candidateId": "rk-robert-kolar",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-kolar-employment_business",
+    "candidateId": "rk-robert-kolar",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-kolar-public_office",
+    "candidateId": "rk-robert-kolar",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current",
+      "rk-kolar-deputy-mayor"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-kolar-previous_elections",
+    "candidateId": "rk-robert-kolar",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-kolar-programme_statements",
+    "candidateId": "rk-robert-kolar",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-kolar-asset_declarations",
+    "candidateId": "rk-robert-kolar",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-kolar-media",
+    "candidateId": "rk-robert-kolar",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-kolar-controversies",
+    "candidateId": "rk-robert-kolar",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-kurnavka-basic",
+    "candidateId": "rk-juraj-kurnavka",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-kurnavka-employment_business",
+    "candidateId": "rk-juraj-kurnavka",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-kurnavka-public_office",
+    "candidateId": "rk-juraj-kurnavka",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-voting-list-2016"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-kurnavka-previous_elections",
+    "candidateId": "rk-juraj-kurnavka",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-kurnavka-programme_statements",
+    "candidateId": "rk-juraj-kurnavka",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-kurnavka-asset_declarations",
+    "candidateId": "rk-juraj-kurnavka",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-kurnavka-media",
+    "candidateId": "rk-juraj-kurnavka",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-kurnavka-controversies",
+    "candidateId": "rk-juraj-kurnavka",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-laclavik-basic",
+    "candidateId": "rk-jaroslav-laclavik",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-laclavik-employment_business",
+    "candidateId": "rk-jaroslav-laclavik",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-laclavik-public_office",
+    "candidateId": "rk-jaroslav-laclavik",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-laclavik-previous_elections",
+    "candidateId": "rk-jaroslav-laclavik",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-laclavik-programme_statements",
+    "candidateId": "rk-jaroslav-laclavik",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-magazin-banicne-answers-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-jaroslav-laclavik-asset_declarations",
+    "candidateId": "rk-jaroslav-laclavik",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-laclavik-media",
+    "candidateId": "rk-jaroslav-laclavik",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-jaroslav-laclavik-controversies",
+    "candidateId": "rk-jaroslav-laclavik",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tobias-lakostik-basic",
+    "candidateId": "rk-tobias-lakostik",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tobias-lakostik-employment_business",
+    "candidateId": "rk-tobias-lakostik",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tobias-lakostik-public_office",
+    "candidateId": "rk-tobias-lakostik",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tobias-lakostik-previous_elections",
+    "candidateId": "rk-tobias-lakostik",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tobias-lakostik-programme_statements",
+    "candidateId": "rk-tobias-lakostik",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tobias-lakostik-asset_declarations",
+    "candidateId": "rk-tobias-lakostik",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tobias-lakostik-media",
+    "candidateId": "rk-tobias-lakostik",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tobias-lakostik-controversies",
+    "candidateId": "rk-tobias-lakostik",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tibor-lauko-basic",
+    "candidateId": "rk-tibor-lauko",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tibor-lauko-employment_business",
+    "candidateId": "rk-tibor-lauko",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tibor-lauko-public_office",
+    "candidateId": "rk-tibor-lauko",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-voting-list-2016"
+    ]
+  },
+  {
+    "id": "coverage-rk-tibor-lauko-previous_elections",
+    "candidateId": "rk-tibor-lauko",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-tibor-lauko-programme_statements",
+    "candidateId": "rk-tibor-lauko",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-regional-statements-part4-2017"
+    ]
+  },
+  {
+    "id": "coverage-rk-tibor-lauko-asset_declarations",
+    "candidateId": "rk-tibor-lauko",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tibor-lauko-media",
+    "candidateId": "rk-tibor-lauko",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-regional-statements-part4-2017"
+    ]
+  },
+  {
+    "id": "coverage-rk-tibor-lauko-controversies",
+    "candidateId": "rk-tibor-lauko",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-letavay-basic",
+    "candidateId": "rk-peter-letavay",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-letavay-employment_business",
+    "candidateId": "rk-peter-letavay",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-letavay-evuc"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-letavay-public_office",
+    "candidateId": "rk-peter-letavay",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-letavay-previous_elections",
+    "candidateId": "rk-peter-letavay",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-candidate-list-reprint-2014"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-letavay-programme_statements",
+    "candidateId": "rk-peter-letavay",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-letavay-asset_declarations",
+    "candidateId": "rk-peter-letavay",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-letavay-media",
+    "candidateId": "rk-peter-letavay",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-letavay-controversies",
+    "candidateId": "rk-peter-letavay",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-emil-maretta-basic",
+    "candidateId": "rk-emil-maretta",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-emil-maretta-employment_business",
+    "candidateId": "rk-emil-maretta",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-vsr-contacts-current",
+      "rk-vsr-orsr-current",
+      "ov-rk-identity-3872350"
+    ]
+  },
+  {
+    "id": "coverage-rk-emil-maretta-public_office",
+    "candidateId": "rk-emil-maretta",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-finance-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-emil-maretta-previous_elections",
+    "candidateId": "rk-emil-maretta",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-regional-candidates-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-emil-maretta-programme_statements",
+    "candidateId": "rk-emil-maretta",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-emil-maretta-asset_declarations",
+    "candidateId": "rk-emil-maretta",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-emil-maretta-media",
+    "candidateId": "rk-emil-maretta",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-maretta-water-media-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-emil-maretta-controversies",
+    "candidateId": "rk-emil-maretta",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-mika-basic",
+    "candidateId": "rk-juraj-mika",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-mika-employment_business",
+    "candidateId": "rk-juraj-mika",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-mika-public_office",
+    "candidateId": "rk-juraj-mika",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-mika-previous_elections",
+    "candidateId": "rk-juraj-mika",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-mika-programme_statements",
+    "candidateId": "rk-juraj-mika",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-mika-asset_declarations",
+    "candidateId": "rk-juraj-mika",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-mika-media",
+    "candidateId": "rk-juraj-mika",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-mika-controversies",
+    "candidateId": "rk-juraj-mika",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-viktor-mydlo-basic",
+    "candidateId": "rk-viktor-mydlo",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-viktor-mydlo-employment_business",
+    "candidateId": "rk-viktor-mydlo",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-ku-pr-team-current",
+      "rk-liptov-lab-orsr-current",
+      "rk-mydlo-own-cv"
+    ]
+  },
+  {
+    "id": "coverage-rk-viktor-mydlo-public_office",
+    "candidateId": "rk-viktor-mydlo",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-viktor-mydlo-previous_elections",
+    "candidateId": "rk-viktor-mydlo",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-candidates-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-viktor-mydlo-programme_statements",
+    "candidateId": "rk-viktor-mydlo",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mydlo-aupark-statement-2024"
+    ]
+  },
+  {
+    "id": "coverage-rk-viktor-mydlo-asset_declarations",
+    "candidateId": "rk-viktor-mydlo",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-viktor-mydlo-media",
+    "candidateId": "rk-viktor-mydlo",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-mydlo-spokesman-media-2019"
+    ]
+  },
+  {
+    "id": "coverage-rk-viktor-mydlo-controversies",
+    "candidateId": "rk-viktor-mydlo",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-radovan-ondrejka-basic",
+    "candidateId": "rk-radovan-ondrejka",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-radovan-ondrejka-employment_business",
+    "candidateId": "rk-radovan-ondrejka",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-doraluon-orsr-current",
+      "ov-rk-identity-4396855"
+    ]
+  },
+  {
+    "id": "coverage-rk-radovan-ondrejka-public_office",
+    "candidateId": "rk-radovan-ondrejka",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-radovan-ondrejka-previous_elections",
+    "candidateId": "rk-radovan-ondrejka",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-radovan-ondrejka-programme_statements",
+    "candidateId": "rk-radovan-ondrejka",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-radovan-ondrejka-asset_declarations",
+    "candidateId": "rk-radovan-ondrejka",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-radovan-ondrejka-media",
+    "candidateId": "rk-radovan-ondrejka",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-radovan-ondrejka-controversies",
+    "candidateId": "rk-radovan-ondrejka",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-ondrejka-insolvency-ended-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-pales-basic",
+    "candidateId": "rk-marian-pales",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-pales-employment_business",
+    "candidateId": "rk-marian-pales",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-pales-public_office",
+    "candidateId": "rk-marian-pales",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-sad-zilina-orsr-current",
+      "ov-rk-identity-3937562"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-pales-previous_elections",
+    "candidateId": "rk-marian-pales",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-pales-programme_statements",
+    "candidateId": "rk-marian-pales",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-pales-campaign-statement"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-pales-asset_declarations",
+    "candidateId": "rk-marian-pales",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-pales-asset-declaration-2024",
+      "rk-sad-zilina-orsr-current",
+      "ov-rk-identity-3937562"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-pales-media",
+    "candidateId": "rk-marian-pales",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-marian-pales-controversies",
+    "candidateId": "rk-marian-pales",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-pales-insolvency-court-2023",
+      "rk-pales-insolvency-ended-2024"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-penjak-basic",
+    "candidateId": "rk-martin-penjak",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-penjak-employment_business",
+    "candidateId": "rk-martin-penjak",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-penjak-ambulance-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-penjak-public_office",
+    "candidateId": "rk-martin-penjak",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-penjak-previous_elections",
+    "candidateId": "rk-martin-penjak",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-penjak-programme_statements",
+    "candidateId": "rk-martin-penjak",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-penjak-asset_declarations",
+    "candidateId": "rk-martin-penjak",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-penjak-media",
+    "candidateId": "rk-martin-penjak",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-penjak-controversies",
+    "candidateId": "rk-martin-penjak",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-razga-basic",
+    "candidateId": "rk-peter-razga",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-razga-employment_business",
+    "candidateId": "rk-peter-razga",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-razga-registeruz"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-razga-public_office",
+    "candidateId": "rk-peter-razga",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-planning-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-razga-previous_elections",
+    "candidateId": "rk-peter-razga",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-razga-programme_statements",
+    "candidateId": "rk-peter-razga",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-razga-asset_declarations",
+    "candidateId": "rk-peter-razga",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-razga-media",
+    "candidateId": "rk-peter-razga",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-peter-razga-controversies",
+    "candidateId": "rk-peter-razga",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-michal-sidor-basic",
+    "candidateId": "rk-michal-sidor",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-michal-sidor-employment_business",
+    "candidateId": "rk-michal-sidor",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-michal-sidor-public_office",
+    "candidateId": "rk-michal-sidor",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-michal-sidor-previous_elections",
+    "candidateId": "rk-michal-sidor",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-michal-sidor-programme_statements",
+    "candidateId": "rk-michal-sidor",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-sidor-candidate-statement-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-michal-sidor-asset_declarations",
+    "candidateId": "rk-michal-sidor",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-michal-sidor-media",
+    "candidateId": "rk-michal-sidor",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-michal-sidor-controversies",
+    "candidateId": "rk-michal-sidor",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-dana-srsnova-basic",
+    "candidateId": "rk-dana-srsnova",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-dana-srsnova-employment_business",
+    "candidateId": "rk-dana-srsnova",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "orsr-rk-2327-current",
+      "rk-city-council-roster-2026",
+      "ov-rk-identity-3768932"
+    ]
+  },
+  {
+    "id": "coverage-rk-dana-srsnova-public_office",
+    "candidateId": "rk-dana-srsnova",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-welfare-current",
+      "rk-welfare-invitation-2026-03-04"
+    ]
+  },
+  {
+    "id": "coverage-rk-dana-srsnova-previous_elections",
+    "candidateId": "rk-dana-srsnova",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-dana-srsnova-programme_statements",
+    "candidateId": "rk-dana-srsnova",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-laziny-statements-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-dana-srsnova-asset_declarations",
+    "candidateId": "rk-dana-srsnova",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-dana-srsnova-media",
+    "candidateId": "rk-dana-srsnova",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-bypo-heating-media-2017"
+    ]
+  },
+  {
+    "id": "coverage-rk-dana-srsnova-controversies",
+    "candidateId": "rk-dana-srsnova",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-bypo-heating-media-2017"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavel-sipos-basic",
+    "candidateId": "rk-pavel-sipos",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavel-sipos-employment_business",
+    "candidateId": "rk-pavel-sipos",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-szs-mts-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavel-sipos-public_office",
+    "candidateId": "rk-pavel-sipos",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-pavel-sipos-previous_elections",
+    "candidateId": "rk-pavel-sipos",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018",
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014",
+      "statistics-regional-candidates-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavel-sipos-programme_statements",
+    "candidateId": "rk-pavel-sipos",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-pavel-sipos-asset_declarations",
+    "candidateId": "rk-pavel-sipos",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-pavel-sipos-media",
+    "candidateId": "rk-pavel-sipos",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-pavel-sipos-controversies",
+    "candidateId": "rk-pavel-sipos",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-juraj-sramek-basic",
+    "candidateId": "rk-juraj-sramek",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-sramek-employment_business",
+    "candidateId": "rk-juraj-sramek",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-sramek-syn-orsr-current",
+      "ov-rk-identity-4314074"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-sramek-public_office",
+    "candidateId": "rk-juraj-sramek",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-environment-current",
+      "rk-council-members-current-page-2"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-sramek-previous_elections",
+    "candidateId": "rk-juraj-sramek",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-sramek-programme_statements",
+    "candidateId": "rk-juraj-sramek",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-sramek-candidate-statement-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-sramek-asset_declarations",
+    "candidateId": "rk-juraj-sramek",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current-page-2"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-sramek-media",
+    "candidateId": "rk-juraj-sramek",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-juraj-sramek-controversies",
+    "candidateId": "rk-juraj-sramek",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-streit-basic",
+    "candidateId": "rk-tomas-streit",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-streit-employment_business",
+    "candidateId": "rk-tomas-streit",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-streit-orsr-current",
+      "rk-streit-insolvency-official-2025"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-streit-public_office",
+    "candidateId": "rk-tomas-streit",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-streit-previous_elections",
+    "candidateId": "rk-tomas-streit",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-streit-programme_statements",
+    "candidateId": "rk-tomas-streit",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-streit-asset_declarations",
+    "candidateId": "rk-tomas-streit",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-streit-media",
+    "candidateId": "rk-tomas-streit",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-streit-controversies",
+    "candidateId": "rk-tomas-streit",
+    "category": "controversies",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-streit-insolvency-official-2025",
+      "rk-streit-orsr-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-stupak-basic",
+    "candidateId": "rk-peter-stupak",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-stupak-employment_business",
+    "candidateId": "rk-peter-stupak",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-mestsky-podnik-about-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-stupak-public_office",
+    "candidateId": "rk-peter-stupak",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current-page-2"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-stupak-previous_elections",
+    "candidateId": "rk-peter-stupak",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-stupak-programme_statements",
+    "candidateId": "rk-peter-stupak",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-stupak-campaign-statement"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-stupak-asset_declarations",
+    "candidateId": "rk-peter-stupak",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current-page-2"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-stupak-media",
+    "candidateId": "rk-peter-stupak",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-peter-stupak-controversies",
+    "candidateId": "rk-peter-stupak",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-suc-basic",
+    "candidateId": "rk-martin-suc",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-suc-employment_business",
+    "candidateId": "rk-martin-suc",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-suc-public_office",
+    "candidateId": "rk-martin-suc",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-suc-previous_elections",
+    "candidateId": "rk-martin-suc",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-nrsr-candidates-2012"
+    ]
+  },
+  {
+    "id": "coverage-rk-martin-suc-programme_statements",
+    "candidateId": "rk-martin-suc",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-suc-asset_declarations",
+    "candidateId": "rk-martin-suc",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-suc-media",
+    "candidateId": "rk-martin-suc",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-martin-suc-controversies",
+    "candidateId": "rk-martin-suc",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-robert-trnovsky-basic",
+    "candidateId": "rk-robert-trnovsky",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-trnovsky-employment_business",
+    "candidateId": "rk-robert-trnovsky",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-gold-rt-orsr-current",
+      "ov-rk-identity-3504025"
+    ]
+  },
+  {
+    "id": "coverage-rk-robert-trnovsky-public_office",
+    "candidateId": "rk-robert-trnovsky",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-robert-trnovsky-previous_elections",
+    "candidateId": "rk-robert-trnovsky",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-robert-trnovsky-programme_statements",
+    "candidateId": "rk-robert-trnovsky",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-robert-trnovsky-asset_declarations",
+    "candidateId": "rk-robert-trnovsky",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-robert-trnovsky-media",
+    "candidateId": "rk-robert-trnovsky",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-robert-trnovsky-controversies",
+    "candidateId": "rk-robert-trnovsky",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-varga-basic",
+    "candidateId": "rk-tomas-varga",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-varga-employment_business",
+    "candidateId": "rk-tomas-varga",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-vk-one-varga-current"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-varga-public_office",
+    "candidateId": "rk-tomas-varga",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-sports-commission"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-varga-previous_elections",
+    "candidateId": "rk-tomas-varga",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-varga-programme_statements",
+    "candidateId": "rk-tomas-varga",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-varga-asset_declarations",
+    "candidateId": "rk-tomas-varga",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-tomas-varga-media",
+    "candidateId": "rk-tomas-varga",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-varga-volleyball-media-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-tomas-varga-controversies",
+    "candidateId": "rk-tomas-varga",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-roman-zach-basic",
+    "candidateId": "rk-roman-zach",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-roman-zach-employment_business",
+    "candidateId": "rk-roman-zach",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-roman-zach-public_office",
+    "candidateId": "rk-roman-zach",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current-page-2"
+    ]
+  },
+  {
+    "id": "coverage-rk-roman-zach-previous_elections",
+    "candidateId": "rk-roman-zach",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "coverage-rk-roman-zach-programme_statements",
+    "candidateId": "rk-roman-zach",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-roman-zach-asset_declarations",
+    "candidateId": "rk-roman-zach",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current-page-2"
+    ]
+  },
+  {
+    "id": "coverage-rk-roman-zach-media",
+    "candidateId": "rk-roman-zach",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-roman-zach-controversies",
+    "candidateId": "rk-roman-zach",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-miroslav-zuberec-basic",
+    "candidateId": "rk-miroslav-zuberec",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-zuberec-employment_business",
+    "candidateId": "rk-miroslav-zuberec",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-vsr-orsr-current",
+      "ov-rk-identity-3872350"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-zuberec-public_office",
+    "candidateId": "rk-miroslav-zuberec",
+    "category": "public_office",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-commission-finance-current",
+      "rk-council-members-current-page-2"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-zuberec-previous_elections",
+    "candidateId": "rk-miroslav-zuberec",
+    "category": "previous_elections",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-rh-candidates-2018",
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-elected-2014",
+      "statistics-regional-candidates-2022"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-zuberec-programme_statements",
+    "candidateId": "rk-miroslav-zuberec",
+    "category": "programme_statements",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-zuberec-asset_declarations",
+    "candidateId": "rk-miroslav-zuberec",
+    "category": "asset_declarations",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-council-members-current-page-2"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-zuberec-media",
+    "candidateId": "rk-miroslav-zuberec",
+    "category": "media",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-hlas-asset-exchange-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-miroslav-zuberec-controversies",
+    "candidateId": "rk-miroslav-zuberec",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-rastislav-zihlavnik-basic",
+    "candidateId": "rk-rastislav-zihlavnik",
+    "category": "basic",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-rastislav-zihlavnik-employment_business",
+    "candidateId": "rk-rastislav-zihlavnik",
+    "category": "employment_business",
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "coverage-rk-rastislav-zihlavnik-public_office",
+    "candidateId": "rk-rastislav-zihlavnik",
+    "category": "public_office",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-rastislav-zihlavnik-previous_elections",
+    "candidateId": "rk-rastislav-zihlavnik",
+    "category": "previous_elections",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-rastislav-zihlavnik-programme_statements",
+    "candidateId": "rk-rastislav-zihlavnik",
+    "category": "programme_statements",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-rastislav-zihlavnik-asset_declarations",
+    "candidateId": "rk-rastislav-zihlavnik",
+    "category": "asset_declarations",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-rastislav-zihlavnik-media",
+    "candidateId": "rk-rastislav-zihlavnik",
+    "category": "media",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
+    "sourceIds": []
+  },
+  {
+    "id": "coverage-rk-rastislav-zihlavnik-controversies",
+    "candidateId": "rk-rastislav-zihlavnik",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-03",
     "sourceIds": []
   }
 ]

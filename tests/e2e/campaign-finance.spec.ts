@@ -1,5 +1,7 @@
 import { expect, test } from '@playwright/test';
-import candidates from '../../src/data/elections/2026/zilinsky-kraj/candidates.json' with { type: 'json' };
+import { loadGuideData } from '../../src/lib/load-guide-data';
+
+const { candidates } = await loadGuideData();
 
 const BASE = '/liptovsky-mikulas/2026/kandidat/';
 test('independent-only profiles expose candidate finance without a party-account alternative', async ({ page }) => {

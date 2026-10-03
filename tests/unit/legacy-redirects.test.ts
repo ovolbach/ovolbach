@@ -1,7 +1,9 @@
 import { readFileSync } from 'node:fs';
 import path from 'node:path';
 import { describe, expect, it } from 'vitest';
-import candidates from '../../src/data/elections/2026/zilinsky-kraj/candidates.json';
+import { loadGuideData } from '../../src/lib/load-guide-data';
+
+const { candidates } = await loadGuideData();
 
 const basePath = '/liptovsky-mikulas/2026';
 const config = readFileSync(path.join(process.cwd(), 'deploy/nginx/default.conf'), 'utf8');

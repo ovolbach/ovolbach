@@ -1,9 +1,8 @@
 import { expect, test } from '@playwright/test';
-import candidates from '../../src/data/elections/2026/zilinsky-kraj/candidates.json' with { type: 'json' };
-import claims from '../../src/data/elections/2026/zilinsky-kraj/claims.json' with { type: 'json' };
-import researchCoverage from '../../src/data/elections/2026/zilinsky-kraj/research-coverage.json' with { type: 'json' };
-import sourceRecords from '../../src/data/sources.json' with { type: 'json' };
+import { loadGuideData } from '../../src/lib/load-guide-data';
 import { isSafeOutboundSourceUrl } from '../../src/lib/source-url';
+
+const { candidates, claims, researchCoverage, sources: sourceRecords } = await loadGuideData();
 
 const JAN_BLCHAC = 'jan-blchac';
 const PETER_BONKO = 'peter-bonko';

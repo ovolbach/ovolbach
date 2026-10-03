@@ -993,5 +993,798 @@
     "sourceIds": [
       "zsk-chair-roster-2026"
     ]
+  },
+  {
+    "slug": "martin-alusic",
+    "displayName": "Martin ALUŠIC, Mgr.",
+    "givenName": "Martin",
+    "familyName": "ALUŠIC",
+    "id": "rk-martin-alusic",
+    "sourceIds": [
+      "rk-mayor-roster-2026",
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "lubomir-kuban",
+    "displayName": "Ľubomír KUBÁŇ, JUDr.",
+    "givenName": "Ľubomír",
+    "familyName": "KUBÁŇ",
+    "id": "rk-lubomir-kuban",
+    "sourceIds": [
+      "rk-mayor-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "slug": "jan-kuran",
+    "displayName": "Ján KURÁŇ, Mgr. Art.",
+    "givenName": "Ján",
+    "familyName": "KURÁŇ",
+    "id": "rk-jan-kuran",
+    "sourceIds": [
+      "rk-mayor-roster-2026",
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Mgr. Art."
+  },
+  {
+    "slug": "frantisek-rakosi",
+    "displayName": "František RÁKOŠI, JUDr.",
+    "givenName": "František",
+    "familyName": "RÁKOŠI",
+    "id": "rk-frantisek-rakosi",
+    "sourceIds": [
+      "rk-mayor-roster-2026",
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "slug": "pavol-ivan",
+    "displayName": "Pavol IVAN, Ing.",
+    "givenName": "Pavol",
+    "familyName": "IVAN",
+    "id": "rk-pavol-ivan",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "jozef-pavnica",
+    "displayName": "Jozef PÁVNICA",
+    "givenName": "Jozef",
+    "familyName": "PÁVNICA",
+    "id": "rk-jozef-pavnica",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "ahmad-fawad-qasemyar",
+    "displayName": "Ahmad Fawad QASEMYAR, Ing.",
+    "givenName": "Ahmad Fawad",
+    "familyName": "QASEMYAR",
+    "id": "rk-ahmad-fawad-qasemyar",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "andrej-fekete",
+    "displayName": "Andrej FEKETE, Ing.",
+    "givenName": "Andrej",
+    "familyName": "FEKETE",
+    "id": "rk-andrej-fekete",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "lubos-koren",
+    "displayName": "Ľuboš KOREŇ",
+    "givenName": "Ľuboš",
+    "familyName": "KOREŇ",
+    "id": "rk-lubos-koren",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "martin-papco",
+    "displayName": "Martin PAPČO, doc. PaedDr., PhD.",
+    "givenName": "Martin",
+    "familyName": "PAPČO",
+    "id": "rk-martin-papco",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "doc. PaedDr., PhD."
+  },
+  {
+    "slug": "anna-buchtova",
+    "displayName": "Anna BUCHTOVÁ",
+    "givenName": "Anna",
+    "familyName": "BUCHTOVÁ",
+    "id": "rk-anna-buchtova",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "peter-demko",
+    "displayName": "Peter DEMKO, Mgr.",
+    "givenName": "Peter",
+    "familyName": "DEMKO",
+    "id": "rk-peter-demko",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "jan-kral",
+    "displayName": "Ján KRÁL, Ing.",
+    "givenName": "Ján",
+    "familyName": "KRÁL",
+    "id": "rk-jan-kral",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "lubos-kralovensky",
+    "displayName": "Ľuboš KRÁLOVENSKÝ",
+    "givenName": "Ľuboš",
+    "familyName": "KRÁLOVENSKÝ",
+    "id": "rk-lubos-kralovensky",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "alzbeta-biel",
+    "displayName": "Alžbeta BIEL",
+    "givenName": "Alžbeta",
+    "familyName": "BIEL",
+    "id": "rk-alzbeta-biel",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "mario-jadron",
+    "displayName": "Mário JADROŇ",
+    "givenName": "Mário",
+    "familyName": "JADROŇ",
+    "id": "rk-mario-jadron",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "adriana-stolarova",
+    "displayName": "Adriana STOLÁROVÁ",
+    "givenName": "Adriana",
+    "familyName": "STOLÁROVÁ",
+    "id": "rk-adriana-stolarova",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "janka-bagiova",
+    "displayName": "Janka BAGIOVÁ, Mgr.",
+    "givenName": "Janka",
+    "familyName": "BAGIOVÁ",
+    "id": "rk-janka-bagiova",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "jozef-basary",
+    "displayName": "Jozef BAŠARY, Ing.",
+    "givenName": "Jozef",
+    "familyName": "BAŠARY",
+    "id": "rk-jozef-basary",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "ludovit-betko",
+    "displayName": "Ľudovít BEŤKO, Ing.",
+    "givenName": "Ľudovít",
+    "familyName": "BEŤKO",
+    "id": "rk-ludovit-betko",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "martin-bistan",
+    "displayName": "Martin BIŠŤAN, Ing. arch.",
+    "givenName": "Martin",
+    "familyName": "BIŠŤAN",
+    "id": "rk-martin-bistan",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing. arch."
+  },
+  {
+    "slug": "juraj-burgan",
+    "displayName": "Juraj BURGAN, Ing.",
+    "givenName": "Juraj",
+    "familyName": "BURGAN",
+    "id": "rk-juraj-burgan",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "robert-dubravec",
+    "displayName": "Róbert DÚBRAVEC, Mgr. art.",
+    "givenName": "Róbert",
+    "familyName": "DÚBRAVEC",
+    "id": "rk-robert-dubravec",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr. art."
+  },
+  {
+    "slug": "ladislav-fis",
+    "displayName": "Ladislav FIŠ, Mgr.",
+    "givenName": "Ladislav",
+    "familyName": "FIŠ",
+    "id": "rk-ladislav-fis",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "juraj-furto",
+    "displayName": "Juraj FURŤO, Ing.",
+    "givenName": "Juraj",
+    "familyName": "FURŤO",
+    "id": "rk-juraj-furto",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "marian-gasaj",
+    "displayName": "Marián GAŠAJ, Mgr. Bc., MHA",
+    "givenName": "Marián",
+    "familyName": "GAŠAJ",
+    "id": "rk-marian-gasaj",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr. Bc., MHA"
+  },
+  {
+    "slug": "patrik-habo",
+    "displayName": "Patrik HABO",
+    "givenName": "Patrik",
+    "familyName": "HABO",
+    "id": "rk-patrik-habo",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "slug": "robert-hlacina",
+    "displayName": "Róbert HLAČINA",
+    "givenName": "Róbert",
+    "familyName": "HLAČINA",
+    "id": "rk-robert-hlacina",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "martin-hromada",
+    "displayName": "Martin HROMADA, Mgr., Phd.",
+    "givenName": "Martin",
+    "familyName": "HROMADA",
+    "id": "rk-martin-hromada",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Mgr., Phd."
+  },
+  {
+    "slug": "tomas-jacko",
+    "displayName": "Tomáš JACKO, PhD.",
+    "givenName": "Tomáš",
+    "familyName": "JACKO",
+    "id": "rk-tomas-jacko",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "PhD."
+  },
+  {
+    "slug": "ladislav-janci",
+    "displayName": "Ladislav JANČI, JUDr.",
+    "givenName": "Ladislav",
+    "familyName": "JANČI",
+    "id": "rk-ladislav-janci",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "slug": "miriam-janciova",
+    "displayName": "Miriam JANČIOVÁ, JUDr.",
+    "givenName": "Miriam",
+    "familyName": "JANČIOVÁ",
+    "id": "rk-miriam-janciova",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "slug": "karol-javorka",
+    "displayName": "Karol JAVORKA, MUDr., PhD.",
+    "givenName": "Karol",
+    "familyName": "JAVORKA",
+    "id": "rk-karol-javorka",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "MUDr., PhD."
+  },
+  {
+    "slug": "stanislav-javorka",
+    "displayName": "Stanislav JAVORKA, Mgr.",
+    "givenName": "Stanislav",
+    "familyName": "JAVORKA",
+    "id": "rk-stanislav-javorka",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "stefan-kasak",
+    "displayName": "Štefan KAŠÁK, Mgr.",
+    "givenName": "Štefan",
+    "familyName": "KAŠÁK",
+    "id": "rk-stefan-kasak",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "miroslav-kerdik",
+    "displayName": "Miroslav KERDÍK",
+    "givenName": "Miroslav",
+    "familyName": "KERDÍK",
+    "id": "rk-miroslav-kerdik",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "vladimir-klimek",
+    "displayName": "Vladimír KLIMEK, Mgr.",
+    "givenName": "Vladimír",
+    "familyName": "KLIMEK",
+    "id": "rk-vladimir-klimek",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "tomas-klopta",
+    "displayName": "Tomáš KLOPTA, JUDr.",
+    "givenName": "Tomáš",
+    "familyName": "KLOPTA",
+    "id": "rk-tomas-klopta",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "slug": "robert-kolar",
+    "displayName": "Róbert KOLÁR, Ing.",
+    "givenName": "Róbert",
+    "familyName": "KOLÁR",
+    "id": "rk-robert-kolar",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "juraj-kurnavka",
+    "displayName": "Juraj KURŇAVKA, Ing.",
+    "givenName": "Juraj",
+    "familyName": "KURŇAVKA",
+    "id": "rk-juraj-kurnavka",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "jaroslav-laclavik",
+    "displayName": "Jaroslav LACLAVÍK, Mgr.",
+    "givenName": "Jaroslav",
+    "familyName": "LACLAVÍK",
+    "id": "rk-jaroslav-laclavik",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "tobias-lakostik",
+    "displayName": "Tobiáš LAKOŠTÍK",
+    "givenName": "Tobiáš",
+    "familyName": "LAKOŠTÍK",
+    "id": "rk-tobias-lakostik",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "tibor-lauko",
+    "displayName": "Tibor LAUKO",
+    "givenName": "Tibor",
+    "familyName": "LAUKO",
+    "id": "rk-tibor-lauko",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "peter-letavay",
+    "displayName": "Peter LETAVAY, MUDr., MBA, MPH, FESC",
+    "givenName": "Peter",
+    "familyName": "LETAVAY",
+    "id": "rk-peter-letavay",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "MUDr., MBA, MPH, FESC"
+  },
+  {
+    "slug": "emil-maretta",
+    "displayName": "Emil MARETTA, JUDr., PhD.",
+    "givenName": "Emil",
+    "familyName": "MARETTA",
+    "id": "rk-emil-maretta",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "JUDr., PhD."
+  },
+  {
+    "slug": "juraj-mika",
+    "displayName": "Juraj MIKA, JUDr.",
+    "givenName": "Juraj",
+    "familyName": "MIKA",
+    "id": "rk-juraj-mika",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "slug": "viktor-mydlo",
+    "displayName": "Viktor MYDLO, PhDr.",
+    "givenName": "Viktor",
+    "familyName": "MYDLO",
+    "id": "rk-viktor-mydlo",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "slug": "radovan-ondrejka",
+    "displayName": "Radovan ONDREJKA",
+    "givenName": "Radovan",
+    "familyName": "ONDREJKA",
+    "id": "rk-radovan-ondrejka",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "slug": "marian-pales",
+    "displayName": "Marian PÁLEŠ, Ing.",
+    "givenName": "Marian",
+    "familyName": "PÁLEŠ",
+    "id": "rk-marian-pales",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "martin-penjak",
+    "displayName": "Martin PENJAK, MUDr.",
+    "givenName": "Martin",
+    "familyName": "PENJAK",
+    "id": "rk-martin-penjak",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "MUDr."
+  },
+  {
+    "slug": "peter-razga",
+    "displayName": "Peter RÁZGA, Ing.",
+    "givenName": "Peter",
+    "familyName": "RÁZGA",
+    "id": "rk-peter-razga",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "michal-sidor",
+    "displayName": "Michal SIDOR, Bc.",
+    "givenName": "Michal",
+    "familyName": "SIDOR",
+    "id": "rk-michal-sidor",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "slug": "dana-srsnova",
+    "displayName": "Dana SRŠŇOVÁ, Mgr.",
+    "givenName": "Dana",
+    "familyName": "SRŠŇOVÁ",
+    "id": "rk-dana-srsnova",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "pavel-sipos",
+    "displayName": "Pavel ŠÍPOŠ, PhDr.",
+    "givenName": "Pavel",
+    "familyName": "ŠÍPOŠ",
+    "id": "rk-pavel-sipos",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "slug": "juraj-sramek",
+    "displayName": "Juraj ŠRÁMEK",
+    "givenName": "Juraj",
+    "familyName": "ŠRÁMEK",
+    "id": "rk-juraj-sramek",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "tomas-streit",
+    "displayName": "Tomáš ŠTREIT, Ing.",
+    "givenName": "Tomáš",
+    "familyName": "ŠTREIT",
+    "id": "rk-tomas-streit",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "peter-stupak",
+    "displayName": "Peter ŠTUPÁK",
+    "givenName": "Peter",
+    "familyName": "ŠTUPÁK",
+    "id": "rk-peter-stupak",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "martin-suc",
+    "displayName": "Martin ŠUC, Ing.",
+    "givenName": "Martin",
+    "familyName": "ŠUC",
+    "id": "rk-martin-suc",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "robert-trnovsky",
+    "displayName": "Robert TRNOVSKÝ",
+    "givenName": "Robert",
+    "familyName": "TRNOVSKÝ",
+    "id": "rk-robert-trnovsky",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "slug": "tomas-varga",
+    "displayName": "Tomáš VARGA, Mgr.",
+    "givenName": "Tomáš",
+    "familyName": "VARGA",
+    "id": "rk-tomas-varga",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "roman-zach",
+    "displayName": "Roman ZACH, Ing.",
+    "givenName": "Roman",
+    "familyName": "ZACH",
+    "id": "rk-roman-zach",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "miroslav-zuberec",
+    "displayName": "Miroslav ZUBEREC, Mgr. Ing.",
+    "givenName": "Miroslav",
+    "familyName": "ZUBEREC",
+    "id": "rk-miroslav-zuberec",
+    "sourceIds": [
+      "rk-city-council-roster-2026",
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Mgr. Ing."
+  },
+  {
+    "slug": "rastislav-zihlavnik",
+    "displayName": "Rastislav ŽIHLAVNÍK",
+    "givenName": "Rastislav",
+    "familyName": "ŽIHLAVNÍK",
+    "id": "rk-rastislav-zihlavnik",
+    "sourceIds": [
+      "rk-city-council-roster-2026"
+    ]
+  },
+  {
+    "slug": "katarina-bachanova",
+    "displayName": "Katarína BACHANOVÁ",
+    "givenName": "Katarína",
+    "familyName": "BACHANOVÁ",
+    "id": "rk-katarina-bachanova",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "slug": "martin-baran",
+    "displayName": "Martin BARAN, Ing.",
+    "givenName": "Martin",
+    "familyName": "BARAN",
+    "id": "rk-martin-baran",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "miroslav-futo",
+    "displayName": "Miroslav FUTO",
+    "givenName": "Miroslav",
+    "familyName": "FUTO",
+    "id": "rk-miroslav-futo",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "slug": "jaroslav-holdos",
+    "displayName": "Jaroslav HOLDOŠ",
+    "givenName": "Jaroslav",
+    "familyName": "HOLDOŠ",
+    "id": "rk-jaroslav-holdos",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ]
+  },
+  {
+    "slug": "damian-jelsovka",
+    "displayName": "Damian JELŠOVKA, Ing.",
+    "givenName": "Damian",
+    "familyName": "JELŠOVKA",
+    "id": "rk-damian-jelsovka",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "jaroslav-rakucak",
+    "displayName": "Jaroslav RAKUČÁK, PhDr., DiS., PhD.",
+    "givenName": "Jaroslav",
+    "familyName": "RAKUČÁK",
+    "id": "rk-jaroslav-rakucak",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "PhDr., DiS., PhD."
+  },
+  {
+    "slug": "jana-simova",
+    "displayName": "Jana ŠIMOVÁ, Mgr.",
+    "givenName": "Jana",
+    "familyName": "ŠIMOVÁ",
+    "id": "rk-jana-simova",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "slug": "michal-svento",
+    "displayName": "Michal ŠVENTO, Ing.",
+    "givenName": "Michal",
+    "familyName": "ŠVENTO",
+    "id": "rk-michal-svento",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "slug": "marian-zubor",
+    "displayName": "Marián ŽÚBOR, Ing.",
+    "givenName": "Marián",
+    "familyName": "ŽÚBOR",
+    "id": "rk-marian-zubor",
+    "sourceIds": [
+      "rk-zsk-district-8-roster-2026"
+    ],
+    "titlesAfter": "Ing."
   }
 ]

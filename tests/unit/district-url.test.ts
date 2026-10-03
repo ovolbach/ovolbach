@@ -1,6 +1,8 @@
 import { describe, expect, it } from 'vitest';
-import districts from '../../src/data/elections/2026/zilinsky-kraj/districts.json';
+import { loadElectionContext, loadGuideData } from '../../src/lib/load-guide-data';
 import { getCityDistrictUrlMappings, getInternalDistrictIdForPublicId } from '../../src/lib/district-url';
+
+const { districts } = await loadGuideData();
 
 describe('city district URL mapping', () => {
   it('maps all eight canonical city district numbers to public URL values', () => {
@@ -16,6 +18,15 @@ describe('city district URL mapping', () => {
       { publicId: 'district-7', internalId: '2026-lm-city-7', number: 7 },
       { publicId: 'district-8', internalId: '2026-lm-city-8', number: 8 },
     ]);
+  });
+
+  it('maps Ružomberok independently when cities share public district numbers', async () => {
+    const { data } = await loadElectionContext({ citySlug: 'ruzomberok', year: 2026 });
+    const mappings = getCityDistrictUrlMappings(data.districts);
+    expect(mappings).toEqual([1, 2, 3, 4, 5].map((number) => ({
+      publicId: `district-${number}`, internalId: `2026-rk-city-${number}`, number,
+    })));
+    expect(getInternalDistrictIdForPublicId(mappings, 'district-5')).toBe('2026-rk-city-5');
   });
 
   it('rejects unknown public IDs and duplicate city district numbers', () => {

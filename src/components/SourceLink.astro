@@ -14,7 +14,7 @@ const linkedSources = resolveSourceLinks(recordId, sourceIds, sources);
 
 {linkedSources.map((source) => (
   <span class="source-link" data-source-attribution>
-    <a aria-label={`Zdroj: ${source.title} (otvorí sa v novom okne)`} href={source.url} rel="noopener noreferrer" target="_blank">{source.title}</a>
+    <a data-source-id={source.id} data-source-field="title" aria-label={`Zdroj: ${source.title} (otvorí sa v novom okne)`} href={source.url} rel="noopener noreferrer" target="_blank">{source.title}</a>
     <span class="source-link__metadata">
       {SOURCE_TYPE_LABELS[source.type]}{', '}
       {source.author && <><span data-source-id={source.id} data-source-field="author">{source.author}</span>{', '}</>}
