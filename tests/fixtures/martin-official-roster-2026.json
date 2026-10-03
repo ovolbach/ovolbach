@@ -1,0 +1,3816 @@
+{
+  "checkedAt": "2026-10-03",
+  "sources": {
+    "municipal": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109999&id_org=700031",
+    "regional": "https://www.martin.sk/assets/File.ashx?id_dokumenty=110050&id_org=700031"
+  },
+  "candidates": [
+    {
+      "id": "mt-marek-belak",
+      "slug": "marek-belak",
+      "displayName": "Marek BELÁK, Ing.",
+      "givenName": "Marek",
+      "familyName": "BELÁK",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-jan-danko",
+      "slug": "jan-danko",
+      "displayName": "Ján DANKO, Prof. MUDr., CSc.",
+      "givenName": "Ján",
+      "familyName": "DANKO",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Prof. MUDr., CSc."
+    },
+    {
+      "id": "mt-milan-ftorek",
+      "slug": "milan-ftorek",
+      "displayName": "Milan FTOREK",
+      "givenName": "Milan",
+      "familyName": "FTOREK",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-renata-habrunova",
+      "slug": "renata-habrunova",
+      "displayName": "Renáta HABRUNOVÁ, Ing.",
+      "givenName": "Renáta",
+      "familyName": "HABRUNOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-igor-hubacek",
+      "slug": "igor-hubacek",
+      "displayName": "Igor HUBÁČEK, Ing. Bc.",
+      "givenName": "Igor",
+      "familyName": "HUBÁČEK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing. Bc."
+    },
+    {
+      "id": "mt-jozef-petras",
+      "slug": "jozef-petras",
+      "displayName": "Jozef PETRÁŠ, Mgr.",
+      "givenName": "Jozef",
+      "familyName": "PETRÁŠ",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-matej-turzo",
+      "slug": "matej-turzo",
+      "displayName": "Matej TURZO, Mgr., MBA",
+      "givenName": "Matej",
+      "familyName": "TURZO",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Mgr., MBA"
+    },
+    {
+      "id": "mt-michal-uhercik",
+      "slug": "michal-uhercik",
+      "displayName": "Michal UHERČÍK, Ing.",
+      "givenName": "Michal",
+      "familyName": "UHERČÍK",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-pavol-zemko",
+      "slug": "pavol-zemko",
+      "displayName": "Pavol ZEMKO, PhDr., MPH MBA",
+      "givenName": "Pavol",
+      "familyName": "ZEMKO",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "PhDr., MPH MBA"
+    },
+    {
+      "id": "mt-matej-borik",
+      "slug": "matej-borik",
+      "displayName": "Matej BÓRIK, MBA",
+      "givenName": "Matej",
+      "familyName": "BÓRIK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "MBA"
+    },
+    {
+      "id": "mt-martina-brem-knorova",
+      "slug": "martina-brem-knorova",
+      "displayName": "Martina BRÉM KNOROVÁ, Ing.",
+      "givenName": "Martina",
+      "familyName": "BRÉM KNOROVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-jozef-ciller",
+      "slug": "jozef-ciller",
+      "displayName": "Jozef CILLER, Prof.",
+      "givenName": "Jozef",
+      "familyName": "CILLER",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Prof."
+    },
+    {
+      "id": "mt-tatiana-cervenova",
+      "slug": "tatiana-cervenova",
+      "displayName": "Tatiana ČERVEŇOVÁ, MUDr. Mgr., MPH MHA",
+      "givenName": "Tatiana",
+      "familyName": "ČERVEŇOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "MUDr. Mgr., MPH MHA"
+    },
+    {
+      "id": "mt-martin-dudik",
+      "slug": "martin-dudik",
+      "displayName": "Martin ĎUDÍK",
+      "givenName": "Martin",
+      "familyName": "ĎUDÍK",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-katarina-duchovna",
+      "slug": "katarina-duchovna",
+      "displayName": "Katarína DUCHOVNÁ, Ing.",
+      "givenName": "Katarína",
+      "familyName": "DUCHOVNÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-marina-gallova",
+      "slug": "marina-gallova",
+      "displayName": "Marína GALLOVÁ, JUDr.",
+      "givenName": "Marína",
+      "familyName": "GALLOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "JUDr."
+    },
+    {
+      "id": "mt-peter-grom",
+      "slug": "peter-grom",
+      "displayName": "Peter GROM, Mag. iur.",
+      "givenName": "Peter",
+      "familyName": "GROM",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Mag. iur."
+    },
+    {
+      "id": "mt-peter-hascik",
+      "slug": "peter-hascik",
+      "displayName": "Peter HAŠČÍK, Ing.",
+      "givenName": "Peter",
+      "familyName": "HAŠČÍK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-dusan-hasko",
+      "slug": "dusan-hasko",
+      "displayName": "Dušan HAŠKO, Mgr.",
+      "givenName": "Dušan",
+      "familyName": "HAŠKO",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-andrej-hasta",
+      "slug": "andrej-hasta",
+      "displayName": "Andrej HAŠTA",
+      "givenName": "Andrej",
+      "familyName": "HAŠTA",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-pavol-hustava",
+      "slug": "pavol-hustava",
+      "displayName": "Pavol HÚŠŤAVA",
+      "givenName": "Pavol",
+      "familyName": "HÚŠŤAVA",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-ivan-jancko",
+      "slug": "ivan-jancko",
+      "displayName": "Ivan JANCKO, Ing.",
+      "givenName": "Ivan",
+      "familyName": "JANCKO",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-matej-jenigar",
+      "slug": "matej-jenigar",
+      "displayName": "Matej JENIGÁR, Bc.",
+      "givenName": "Matej",
+      "familyName": "JENIGÁR",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Bc."
+    },
+    {
+      "id": "mt-viliam-komora",
+      "slug": "viliam-komora",
+      "displayName": "Viliam KOMORA, ThLic. Mgr. Mgr. Mgr., PhD.",
+      "givenName": "Viliam",
+      "familyName": "KOMORA",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "ThLic. Mgr. Mgr. Mgr., PhD."
+    },
+    {
+      "id": "mt-michal-kral",
+      "slug": "michal-kral",
+      "displayName": "Michal KRÁĽ, Ing.",
+      "givenName": "Michal",
+      "familyName": "KRÁĽ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-zdenka-lackova",
+      "slug": "zdenka-lackova",
+      "displayName": "Zdenka LACKOVÁ",
+      "givenName": "Zdenka",
+      "familyName": "LACKOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-martin-lechan",
+      "slug": "martin-lechan",
+      "displayName": "Martin LECHAN",
+      "givenName": "Martin",
+      "familyName": "LECHAN",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-juraj-marcek",
+      "slug": "juraj-marcek",
+      "displayName": "Juraj MARČEK, MUDr.",
+      "givenName": "Juraj",
+      "familyName": "MARČEK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "MUDr."
+    },
+    {
+      "id": "mt-jaroslav-markovic",
+      "slug": "jaroslav-markovic",
+      "displayName": "Jaroslav MARKOVIČ",
+      "givenName": "Jaroslav",
+      "familyName": "MARKOVIČ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-alzbeta-martinicka",
+      "slug": "alzbeta-martinicka",
+      "displayName": "Alžbeta MARTINICKÁ, Ing.",
+      "givenName": "Alžbeta",
+      "familyName": "MARTINICKÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-alena-matejova",
+      "slug": "alena-matejova",
+      "displayName": "Alena MATEJOVÁ, Mgr.",
+      "givenName": "Alena",
+      "familyName": "MATEJOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-stanislav-ondrus",
+      "slug": "stanislav-ondrus",
+      "displayName": "Stanislav ONDRUŠ",
+      "givenName": "Stanislav",
+      "familyName": "ONDRUŠ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-bibiana-panisova",
+      "slug": "bibiana-panisova",
+      "displayName": "Bibiana PÁNISOVÁ",
+      "givenName": "Bibiana",
+      "familyName": "PÁNISOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-marian-polacek",
+      "slug": "marian-polacek",
+      "displayName": "Marián POLÁČEK",
+      "givenName": "Marián",
+      "familyName": "POLÁČEK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-zdenka-racayova",
+      "slug": "zdenka-racayova",
+      "displayName": "Zdenka RAČAYOVÁ, RNDr.",
+      "givenName": "Zdenka",
+      "familyName": "RAČAYOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "RNDr."
+    },
+    {
+      "id": "mt-juraj-slastan",
+      "slug": "juraj-slastan",
+      "displayName": "Juraj SLAŠŤAN",
+      "givenName": "Juraj",
+      "familyName": "SLAŠŤAN",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-andrej-sobcak",
+      "slug": "andrej-sobcak",
+      "displayName": "Andrej SOBČÁK, Mgr.",
+      "givenName": "Andrej",
+      "familyName": "SOBČÁK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-juraj-stahl",
+      "slug": "juraj-stahl",
+      "displayName": "Juraj STAHL, Ing.",
+      "givenName": "Juraj",
+      "familyName": "STAHL",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-tomas-turcan",
+      "slug": "tomas-turcan",
+      "displayName": "Tomáš TURČAN, MUDr., PhD. MBA",
+      "givenName": "Tomáš",
+      "familyName": "TURČAN",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "MUDr., PhD. MBA"
+    },
+    {
+      "id": "mt-vladimir-zaborsky",
+      "slug": "vladimir-zaborsky",
+      "displayName": "Vladimír ZÁBORSKÝ, JUDr.",
+      "givenName": "Vladimír",
+      "familyName": "ZÁBORSKÝ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "JUDr."
+    },
+    {
+      "id": "mt-dana-zigova",
+      "slug": "dana-zigova",
+      "displayName": "Dana ŽIGOVÁ, Ing.",
+      "givenName": "Dana",
+      "familyName": "ŽIGOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-tibor-adamko",
+      "slug": "tibor-adamko",
+      "displayName": "Tibor ADAMKO, PhDr.",
+      "givenName": "Tibor",
+      "familyName": "ADAMKO",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "PhDr."
+    },
+    {
+      "id": "mt-zuzana-badova",
+      "slug": "zuzana-badova",
+      "displayName": "Zuzana BADOVÁ, Ing.",
+      "givenName": "Zuzana",
+      "familyName": "BADOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-jan-drahos",
+      "slug": "jan-drahos",
+      "displayName": "Ján DRAHOŠ, Ing.",
+      "givenName": "Ján",
+      "familyName": "DRAHOŠ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-zuzana-durkovic-zubercova",
+      "slug": "zuzana-durkovic-zubercova",
+      "displayName": "Zuzana ĎURKOVIČ ZUBERCOVÁ",
+      "givenName": "Zuzana",
+      "familyName": "ĎURKOVIČ ZUBERCOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-veronika-gajdosova-ladnakova",
+      "slug": "veronika-gajdosova-ladnakova",
+      "displayName": "Veronika GAJDOŠOVÁ LADŇÁKOVÁ, Mgr., PhD.",
+      "givenName": "Veronika",
+      "familyName": "GAJDOŠOVÁ LADŇÁKOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr., PhD."
+    },
+    {
+      "id": "mt-katarina-hrinova",
+      "slug": "katarina-hrinova",
+      "displayName": "Katarína HRIŇOVÁ, MUDr.",
+      "givenName": "Katarína",
+      "familyName": "HRIŇOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "MUDr."
+    },
+    {
+      "id": "mt-marek-hromadko",
+      "slug": "marek-hromadko",
+      "displayName": "Marek HROMÁDKO",
+      "givenName": "Marek",
+      "familyName": "HROMÁDKO",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-robert-janu",
+      "slug": "robert-janu",
+      "displayName": "Róbert JANŮ",
+      "givenName": "Róbert",
+      "familyName": "JANŮ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-tomas-kalina",
+      "slug": "tomas-kalina",
+      "displayName": "Tomáš KALINA, Ing., PhD.",
+      "givenName": "Tomáš",
+      "familyName": "KALINA",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing., PhD."
+    },
+    {
+      "id": "mt-adrian-kosa",
+      "slug": "adrian-kosa",
+      "displayName": "Adrian KOŠA",
+      "givenName": "Adrian",
+      "familyName": "KOŠA",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-jozef-kristoffy",
+      "slug": "jozef-kristoffy",
+      "displayName": "Jozef KRIŠTOFFY, Ing., MPH",
+      "givenName": "Jozef",
+      "familyName": "KRIŠTOFFY",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing., MPH"
+    },
+    {
+      "id": "mt-martin-lepej",
+      "slug": "martin-lepej",
+      "displayName": "Martin LEPEJ, Ing. arch.",
+      "givenName": "Martin",
+      "familyName": "LEPEJ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing. arch."
+    },
+    {
+      "id": "mt-richard-liska",
+      "slug": "richard-liska",
+      "displayName": "Richard LÍŠKA",
+      "givenName": "Richard",
+      "familyName": "LÍŠKA",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-michal-matejicka",
+      "slug": "michal-matejicka",
+      "displayName": "Michal MATEJIČKA, Ing.",
+      "givenName": "Michal",
+      "familyName": "MATEJIČKA",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-peter-mestan",
+      "slug": "peter-mestan",
+      "displayName": "Peter MEŠŤAN, Ing.",
+      "givenName": "Peter",
+      "familyName": "MEŠŤAN",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-marcela-mihalikova",
+      "slug": "marcela-mihalikova",
+      "displayName": "Marcela MIHÁLIKOVÁ",
+      "givenName": "Marcela",
+      "familyName": "MIHÁLIKOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-marek-pacalaj",
+      "slug": "marek-pacalaj",
+      "displayName": "Marek PACALAJ",
+      "givenName": "Marek",
+      "familyName": "PACALAJ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-jan-richter",
+      "slug": "jan-richter",
+      "displayName": "Ján RICHTER",
+      "givenName": "Ján",
+      "familyName": "RICHTER",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-filip-subrt",
+      "slug": "filip-subrt",
+      "displayName": "Filip ŠUBRT",
+      "givenName": "Filip",
+      "familyName": "ŠUBRT",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-martin-sutiak",
+      "slug": "martin-sutiak",
+      "displayName": "Martin ŠUTIAK, Ing.",
+      "givenName": "Martin",
+      "familyName": "ŠUTIAK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-tomas-tomka",
+      "slug": "tomas-tomka",
+      "displayName": "Tomáš TOMKA, Ing.",
+      "givenName": "Tomáš",
+      "familyName": "TOMKA",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-andrea-baceova",
+      "slug": "andrea-baceova",
+      "displayName": "Andrea BAČEOVÁ",
+      "givenName": "Andrea",
+      "familyName": "BAČEOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-mario-becak",
+      "slug": "mario-becak",
+      "displayName": "Mário BEČÁK",
+      "givenName": "Mário",
+      "familyName": "BEČÁK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-daniel-diskanec",
+      "slug": "daniel-diskanec",
+      "displayName": "Daniel DIŠKANEC",
+      "givenName": "Daniel",
+      "familyName": "DIŠKANEC",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-kristina-ftorekova",
+      "slug": "kristina-ftorekova",
+      "displayName": "Kristína FTOREKOVÁ, Mgr.",
+      "givenName": "Kristína",
+      "familyName": "FTOREKOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-martin-hudec",
+      "slug": "martin-hudec",
+      "displayName": "Martin HUDEC, PhDr.",
+      "givenName": "Martin",
+      "familyName": "HUDEC",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "PhDr."
+    },
+    {
+      "id": "mt-peter-kasuba",
+      "slug": "peter-kasuba",
+      "displayName": "Peter KAŠUBA, Ing.",
+      "givenName": "Peter",
+      "familyName": "KAŠUBA",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-robert-kollar",
+      "slug": "robert-kollar",
+      "displayName": "Róbert KOLLÁR, Ing.",
+      "givenName": "Róbert",
+      "familyName": "KOLLÁR",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-matej-kralik",
+      "slug": "matej-kralik",
+      "displayName": "Matej KRÁLIK",
+      "givenName": "Matej",
+      "familyName": "KRÁLIK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-viliam-majda",
+      "slug": "viliam-majda",
+      "displayName": "Viliam MAJDA, Ing., PhD.",
+      "givenName": "Viliam",
+      "familyName": "MAJDA",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing., PhD."
+    },
+    {
+      "id": "mt-stanislav-sturik",
+      "slug": "stanislav-sturik",
+      "displayName": "Stanislav ŠTÚRIK, JUDr.",
+      "givenName": "Stanislav",
+      "familyName": "ŠTÚRIK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "JUDr."
+    },
+    {
+      "id": "mt-stanislav-thomka",
+      "slug": "stanislav-thomka",
+      "displayName": "Stanislav THOMKA, Ing., MBA",
+      "givenName": "Stanislav",
+      "familyName": "THOMKA",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing., MBA"
+    },
+    {
+      "id": "mt-lubomir-vanko",
+      "slug": "lubomir-vanko",
+      "displayName": "Ľubomír VAŇKO",
+      "givenName": "Ľubomír",
+      "familyName": "VAŇKO",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-peter-vons",
+      "slug": "peter-vons",
+      "displayName": "Peter VONS, PaedDr.",
+      "givenName": "Peter",
+      "familyName": "VONS",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "PaedDr."
+    },
+    {
+      "id": "mt-adam-zilak",
+      "slug": "adam-zilak",
+      "displayName": "Adam ŽILÁK, Mgr.",
+      "givenName": "Adam",
+      "familyName": "ŽILÁK",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-daniel-babka",
+      "slug": "daniel-babka",
+      "displayName": "Daniel BABKA, Bc.",
+      "givenName": "Daniel",
+      "familyName": "BABKA",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Bc."
+    },
+    {
+      "id": "mt-stefan-balosak",
+      "slug": "stefan-balosak",
+      "displayName": "Štefan BALOŠÁK, Mgr.",
+      "givenName": "Štefan",
+      "familyName": "BALOŠÁK",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-marcela-balosakova",
+      "slug": "marcela-balosakova",
+      "displayName": "Marcela BALOŠÁKOVÁ, PharmDr., MBA",
+      "givenName": "Marcela",
+      "familyName": "BALOŠÁKOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "PharmDr., MBA"
+    },
+    {
+      "id": "mt-marian-fedor",
+      "slug": "marian-fedor",
+      "displayName": "Marián FEDOR, MUDr.",
+      "givenName": "Marián",
+      "familyName": "FEDOR",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "MUDr."
+    },
+    {
+      "id": "mt-marian-ferenc",
+      "slug": "marian-ferenc",
+      "displayName": "Marián FERENC, Ing.",
+      "givenName": "Marián",
+      "familyName": "FERENC",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-livia-gergisakova",
+      "slug": "livia-gergisakova",
+      "displayName": "Lívia GERGIŠÁKOVÁ, Mgr.",
+      "givenName": "Lívia",
+      "familyName": "GERGIŠÁKOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-filip-horansky",
+      "slug": "filip-horansky",
+      "displayName": "Filip HORANSKÝ, Ing.",
+      "givenName": "Filip",
+      "familyName": "HORANSKÝ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-veronika-hrklova",
+      "slug": "veronika-hrklova",
+      "displayName": "Veronika HRKĽOVÁ",
+      "givenName": "Veronika",
+      "familyName": "HRKĽOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-branislav-hubacek",
+      "slug": "branislav-hubacek",
+      "displayName": "Branislav HUBÁČEK, JUDr. Mgr.",
+      "givenName": "Branislav",
+      "familyName": "HUBÁČEK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "JUDr. Mgr."
+    },
+    {
+      "id": "mt-tomas-ignacak",
+      "slug": "tomas-ignacak",
+      "displayName": "Tomáš IGNAČÁK, Ing.",
+      "givenName": "Tomáš",
+      "familyName": "IGNAČÁK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-peter-junas",
+      "slug": "peter-junas",
+      "displayName": "Peter JUNAS",
+      "givenName": "Peter",
+      "familyName": "JUNAS",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-viera-kmetova",
+      "slug": "viera-kmetova",
+      "displayName": "Viera KMEŤOVÁ",
+      "givenName": "Viera",
+      "familyName": "KMEŤOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-ivana-kovacikova",
+      "slug": "ivana-kovacikova",
+      "displayName": "Ivana KOVÁČIKOVÁ, MVDr.",
+      "givenName": "Ivana",
+      "familyName": "KOVÁČIKOVÁ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "MVDr."
+    },
+    {
+      "id": "mt-zdenko-kozak",
+      "slug": "zdenko-kozak",
+      "displayName": "Zdenko KOZÁK",
+      "givenName": "Zdenko",
+      "familyName": "KOZÁK",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-julius-krivus",
+      "slug": "julius-krivus",
+      "displayName": "Július KRIVUŠ",
+      "givenName": "Július",
+      "familyName": "KRIVUŠ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-martin-litv-aj",
+      "slug": "martin-litv-aj",
+      "displayName": "Martin LITV AJ, Mgr.",
+      "givenName": "Martin",
+      "familyName": "LITV AJ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-peter-matejka",
+      "slug": "peter-matejka",
+      "displayName": "Peter MATEJKA, Ing.",
+      "givenName": "Peter",
+      "familyName": "MATEJKA",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-peter-torok",
+      "slug": "peter-torok",
+      "displayName": "Peter TŐRŐK",
+      "givenName": "Peter",
+      "familyName": "TŐRŐK",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-dusan-zachar",
+      "slug": "dusan-zachar",
+      "displayName": "Dušan ZACHAR, Ing.",
+      "givenName": "Dušan",
+      "familyName": "ZACHAR",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-marian-zajasensky",
+      "slug": "marian-zajasensky",
+      "displayName": "Marián ZAJASENSKÝ, Ing.",
+      "givenName": "Marián",
+      "familyName": "ZAJASENSKÝ",
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-tomas-zanovit",
+      "slug": "tomas-zanovit",
+      "displayName": "Tomáš ZANOVIT, PaedDr., MBA",
+      "givenName": "Tomáš",
+      "familyName": "ZANOVIT",
+      "sourceIds": [
+        "mt-municipal-roster-2026",
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "PaedDr., MBA"
+    },
+    {
+      "id": "mt-peter-belica",
+      "slug": "peter-belica",
+      "displayName": "Peter BELICA, JUDr. Mgr.",
+      "givenName": "Peter",
+      "familyName": "BELICA",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "JUDr. Mgr."
+    },
+    {
+      "id": "mt-vladimir-boka",
+      "slug": "vladimir-boka",
+      "displayName": "Vladimír BOKA",
+      "givenName": "Vladimír",
+      "familyName": "BOKA",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-dana-cervanova",
+      "slug": "dana-cervanova",
+      "displayName": "Dana CERVANOVÁ, Mgr.",
+      "givenName": "Dana",
+      "familyName": "CERVANOVÁ",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-vladimir-cambor",
+      "slug": "vladimir-cambor",
+      "displayName": "Vladimír ČAMBOR, Ing.",
+      "givenName": "Vladimír",
+      "familyName": "ČAMBOR",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-karol-cicmanec",
+      "slug": "karol-cicmanec",
+      "displayName": "Karol ČIČMANEC, Mgr. art., ArtD.",
+      "givenName": "Karol",
+      "familyName": "ČIČMANEC",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr. art., ArtD."
+    },
+    {
+      "id": "mt-juraj-diabelko",
+      "slug": "juraj-diabelko",
+      "displayName": "Juraj DIABELKO",
+      "givenName": "Juraj",
+      "familyName": "DIABELKO",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-ivan-doskocil",
+      "slug": "ivan-doskocil",
+      "displayName": "Ivan DOSKOČIL, Mgr.",
+      "givenName": "Ivan",
+      "familyName": "DOSKOČIL",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-lubos-gottwald",
+      "slug": "lubos-gottwald",
+      "displayName": "Ľuboš GOTTWALD, Mgr.",
+      "givenName": "Ľuboš",
+      "familyName": "GOTTWALD",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-miroslav-herak",
+      "slug": "miroslav-herak",
+      "displayName": "Miroslav HERÁK",
+      "givenName": "Miroslav",
+      "familyName": "HERÁK",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-milos-hlavaty",
+      "slug": "milos-hlavaty",
+      "displayName": "Miloš HLAVATÝ",
+      "givenName": "Miloš",
+      "familyName": "HLAVATÝ",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-martina-jesenska",
+      "slug": "martina-jesenska",
+      "displayName": "Martina JESENSKÁ, Mgr.",
+      "givenName": "Martina",
+      "familyName": "JESENSKÁ",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-tomas-kalnicky",
+      "slug": "tomas-kalnicky",
+      "displayName": "Tomáš KALNICKÝ",
+      "givenName": "Tomáš",
+      "familyName": "KALNICKÝ",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-elena-krajcova",
+      "slug": "elena-krajcova",
+      "displayName": "Elena KRAJČOVÁ, Ing.",
+      "givenName": "Elena",
+      "familyName": "KRAJČOVÁ",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-pavol-kubala",
+      "slug": "pavol-kubala",
+      "displayName": "Pavol KUBALA, Ing., PhD., DBA",
+      "givenName": "Pavol",
+      "familyName": "KUBALA",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing., PhD., DBA"
+    },
+    {
+      "id": "mt-roman-kubala",
+      "slug": "roman-kubala",
+      "displayName": "Roman KUBALA, Mgr.",
+      "givenName": "Roman",
+      "familyName": "KUBALA",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "candidate-90",
+      "slug": "adam-lucansky",
+      "displayName": "Adam LUČANSKÝ, Ing.",
+      "givenName": "Adam",
+      "familyName": "LUČANSKÝ",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-marcel-matovcik",
+      "slug": "marcel-matovcik",
+      "displayName": "Marcel MAŤOVČÍK, Mgr.",
+      "givenName": "Marcel",
+      "familyName": "MAŤOVČÍK",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-jan-mlynar",
+      "slug": "jan-mlynar",
+      "displayName": "Ján MLYNÁR, Ing.",
+      "givenName": "Ján",
+      "familyName": "MLYNÁR",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Ing."
+    },
+    {
+      "id": "mt-lucia-omamikova",
+      "slug": "lucia-omamikova",
+      "displayName": "Lucia OMÁMIKOVÁ, PharmDr., MPH",
+      "givenName": "Lucia",
+      "familyName": "OMÁMIKOVÁ",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "PharmDr., MPH"
+    },
+    {
+      "id": "mt-lenka-sluchova",
+      "slug": "lenka-sluchova",
+      "displayName": "Lenka ŠLUCHOVÁ, Mgr.",
+      "givenName": "Lenka",
+      "familyName": "ŠLUCHOVÁ",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    },
+    {
+      "id": "mt-branislav-zacharides",
+      "slug": "branislav-zacharides",
+      "displayName": "Branislav ZACHARIDES, Mgr.",
+      "givenName": "Branislav",
+      "familyName": "ZACHARIDES",
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "titlesAfter": "Mgr."
+    }
+  ],
+  "candidacies": [
+    {
+      "id": "mt-mayor-0-1",
+      "candidateId": "mt-marek-belak",
+      "electionId": "mayor",
+      "contestId": "2026-mt-mayor",
+      "ballotNumber": 1,
+      "ageAtElection": 61,
+      "occupationOfficial": "martinský poslanec",
+      "displayNameOfficial": "Marek BELÁK, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-mayor-0-2",
+      "candidateId": "mt-jan-danko",
+      "electionId": "mayor",
+      "contestId": "2026-mt-mayor",
+      "ballotNumber": 2,
+      "ageAtElection": 76,
+      "occupationOfficial": "primátor mesta",
+      "displayNameOfficial": "Ján DANKO, Prof. MUDr., CSc.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-mayor-0-3",
+      "candidateId": "mt-milan-ftorek",
+      "electionId": "mayor",
+      "contestId": "2026-mt-mayor",
+      "ballotNumber": 3,
+      "ageAtElection": 38,
+      "occupationOfficial": "predseda združenia",
+      "displayNameOfficial": "Milan FTOREK",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-mayor-0-4",
+      "candidateId": "mt-renata-habrunova",
+      "electionId": "mayor",
+      "contestId": "2026-mt-mayor",
+      "ballotNumber": 4,
+      "ageAtElection": 58,
+      "occupationOfficial": "splnomocnenkyňa pre komunitné otázky, zamestnankyňa vo verejnej správe",
+      "displayNameOfficial": "Renáta HABRUNOVÁ, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-mayor-0-5",
+      "candidateId": "mt-igor-hubacek",
+      "electionId": "mayor",
+      "contestId": "2026-mt-mayor",
+      "ballotNumber": 5,
+      "ageAtElection": 58,
+      "occupationOfficial": "podnikateľ",
+      "displayNameOfficial": "Igor HUBÁČEK, Ing. Bc.",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-mayor-0-6",
+      "candidateId": "mt-jozef-petras",
+      "electionId": "mayor",
+      "contestId": "2026-mt-mayor",
+      "ballotNumber": 6,
+      "ageAtElection": 51,
+      "occupationOfficial": "projektový líder centra zelených inovácií, SZČO - expert pre presadzovanie verejného záujmu",
+      "displayNameOfficial": "Jozef PETRÁŠ, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-mayor-0-7",
+      "candidateId": "mt-matej-turzo",
+      "electionId": "mayor",
+      "contestId": "2026-mt-mayor",
+      "ballotNumber": 7,
+      "ageAtElection": 42,
+      "occupationOfficial": "poradca pre krízové riadenie a krízový manažment v zdravotníctve",
+      "displayNameOfficial": "Matej TURZO, Mgr., MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-mayor-0-8",
+      "candidateId": "mt-michal-uhercik",
+      "electionId": "mayor",
+      "contestId": "2026-mt-mayor",
+      "ballotNumber": 8,
+      "ageAtElection": 45,
+      "occupationOfficial": "konzultant v priemysle",
+      "displayNameOfficial": "Michal UHERČÍK, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-mayor-0-9",
+      "candidateId": "mt-pavol-zemko",
+      "electionId": "mayor",
+      "contestId": "2026-mt-mayor",
+      "ballotNumber": 9,
+      "ageAtElection": 62,
+      "occupationOfficial": "manažér pre oblasť sociálneho začlenenia a zamestnanosti",
+      "displayNameOfficial": "Pavol ZEMKO, PhDr., MPH MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ]
+    },
+    {
+      "id": "mt-city-council-1-1",
+      "candidateId": "mt-marek-belak",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 1,
+      "ageAtElection": 61,
+      "occupationOfficial": "martinský poslanec",
+      "displayNameOfficial": "Marek BELÁK, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-2",
+      "candidateId": "mt-matej-borik",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 2,
+      "ageAtElection": 41,
+      "occupationOfficial": "marketingový manažér",
+      "displayNameOfficial": "Matej BÓRIK, MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-3",
+      "candidateId": "mt-martina-brem-knorova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 3,
+      "ageAtElection": 55,
+      "occupationOfficial": "daňová poradkyňa a súdna znalkyňa",
+      "displayNameOfficial": "Martina BRÉM KNOROVÁ, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-4",
+      "candidateId": "mt-jozef-ciller",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 4,
+      "ageAtElection": 84,
+      "occupationOfficial": "profesor, scénograf",
+      "displayNameOfficial": "Jozef CILLER, Prof.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-5",
+      "candidateId": "mt-tatiana-cervenova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 5,
+      "ageAtElection": 58,
+      "occupationOfficial": "lekárka",
+      "displayNameOfficial": "Tatiana ČERVEŇOVÁ, MUDr. Mgr., MPH MHA",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-6",
+      "candidateId": "mt-martin-dudik",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 6,
+      "ageAtElection": 53,
+      "occupationOfficial": "archeológ - geológ",
+      "displayNameOfficial": "Martin ĎUDÍK",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-7",
+      "candidateId": "mt-katarina-duchovna",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 7,
+      "ageAtElection": 56,
+      "occupationOfficial": "podnikateľka",
+      "displayNameOfficial": "Katarína DUCHOVNÁ, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-8",
+      "candidateId": "mt-marina-gallova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 8,
+      "ageAtElection": 40,
+      "occupationOfficial": "advokátka a konkurzná a reštrukturalizačná správkyňa",
+      "displayNameOfficial": "Marína GALLOVÁ, JUDr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-9",
+      "candidateId": "mt-peter-grom",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 9,
+      "ageAtElection": 36,
+      "occupationOfficial": "právnik",
+      "displayNameOfficial": "Peter GROM, Mag. iur.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-10",
+      "candidateId": "mt-peter-hascik",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 10,
+      "ageAtElection": 63,
+      "occupationOfficial": "živnostník",
+      "displayNameOfficial": "Peter HAŠČÍK, Ing.",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-11",
+      "candidateId": "mt-dusan-hasko",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 11,
+      "ageAtElection": 43,
+      "occupationOfficial": "vychovávateľ",
+      "displayNameOfficial": "Dušan HAŠKO, Mgr.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-12",
+      "candidateId": "mt-andrej-hasta",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 12,
+      "ageAtElection": 38,
+      "occupationOfficial": "jazykový špecialista",
+      "displayNameOfficial": "Andrej HAŠTA",
+      "affiliations": [
+        "Volt Slovensko"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-13",
+      "candidateId": "mt-pavol-hustava",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 13,
+      "ageAtElection": 58,
+      "occupationOfficial": "operátor výroby, aktivista za práva zamestnancov",
+      "displayNameOfficial": "Pavol HÚŠŤAVA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-14",
+      "candidateId": "mt-ivan-jancko",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 14,
+      "ageAtElection": 52,
+      "occupationOfficial": "obchodný manažér",
+      "displayNameOfficial": "Ivan JANCKO, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-15",
+      "candidateId": "mt-matej-jenigar",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 15,
+      "ageAtElection": 34,
+      "occupationOfficial": "kondičný tréner IV. kvalifikačného stupňa",
+      "displayNameOfficial": "Matej JENIGÁR, Bc.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-16",
+      "candidateId": "mt-viliam-komora",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 16,
+      "ageAtElection": 56,
+      "occupationOfficial": "vedúci pracovník v kultúrnej ustanovizni",
+      "displayNameOfficial": "Viliam KOMORA, ThLic. Mgr. Mgr. Mgr., PhD.",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-17",
+      "candidateId": "mt-michal-kral",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 17,
+      "ageAtElection": 60,
+      "occupationOfficial": "živnostník",
+      "displayNameOfficial": "Michal KRÁĽ, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-18",
+      "candidateId": "mt-zdenka-lackova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 18,
+      "ageAtElection": 59,
+      "occupationOfficial": "pekárka",
+      "displayNameOfficial": "Zdenka LACKOVÁ",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-19",
+      "candidateId": "mt-martin-lechan",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 19,
+      "ageAtElection": 49,
+      "occupationOfficial": "riaditeľ",
+      "displayNameOfficial": "Martin LECHAN",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-20",
+      "candidateId": "mt-juraj-marcek",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 20,
+      "ageAtElection": 43,
+      "occupationOfficial": "lekár, odborný konzultant",
+      "displayNameOfficial": "Juraj MARČEK, MUDr.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-21",
+      "candidateId": "mt-jaroslav-markovic",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 21,
+      "ageAtElection": 41,
+      "occupationOfficial": "manažér",
+      "displayNameOfficial": "Jaroslav MARKOVIČ",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-22",
+      "candidateId": "mt-alzbeta-martinicka",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 22,
+      "ageAtElection": 57,
+      "occupationOfficial": "riaditeľka knižnice",
+      "displayNameOfficial": "Alžbeta MARTINICKÁ, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-23",
+      "candidateId": "mt-alena-matejova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 23,
+      "ageAtElection": 60,
+      "occupationOfficial": "riaditeľka centra pre deti a rodiny",
+      "displayNameOfficial": "Alena MATEJOVÁ, Mgr.",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-24",
+      "candidateId": "mt-stanislav-ondrus",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 24,
+      "ageAtElection": 61,
+      "occupationOfficial": "manažér",
+      "displayNameOfficial": "Stanislav ONDRUŠ",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-25",
+      "candidateId": "mt-bibiana-panisova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 25,
+      "ageAtElection": 55,
+      "occupationOfficial": "farmaceutická laborantka",
+      "displayNameOfficial": "Bibiana PÁNISOVÁ",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-26",
+      "candidateId": "mt-marian-polacek",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 26,
+      "ageAtElection": 42,
+      "occupationOfficial": "podnikateľ",
+      "displayNameOfficial": "Marián POLÁČEK",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-27",
+      "candidateId": "mt-zdenka-racayova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 27,
+      "ageAtElection": 63,
+      "occupationOfficial": "manažérka kľúčových zákazníkov",
+      "displayNameOfficial": "Zdenka RAČAYOVÁ, RNDr.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-28",
+      "candidateId": "mt-juraj-slastan",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 28,
+      "ageAtElection": 53,
+      "occupationOfficial": "obsluha biomasy",
+      "displayNameOfficial": "Juraj SLAŠŤAN",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-29",
+      "candidateId": "mt-andrej-sobcak",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 29,
+      "ageAtElection": 34,
+      "occupationOfficial": "advokát",
+      "displayNameOfficial": "Andrej SOBČÁK, Mgr.",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-30",
+      "candidateId": "mt-juraj-stahl",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 30,
+      "ageAtElection": 56,
+      "occupationOfficial": "riaditeľ cestovnej kancelárie",
+      "displayNameOfficial": "Juraj STAHL, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-31",
+      "candidateId": "mt-tomas-turcan",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 31,
+      "ageAtElection": 44,
+      "occupationOfficial": "lekár",
+      "displayNameOfficial": "Tomáš TURČAN, MUDr., PhD. MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-32",
+      "candidateId": "mt-vladimir-zaborsky",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 32,
+      "ageAtElection": 66,
+      "occupationOfficial": "advokát",
+      "displayNameOfficial": "Vladimír ZÁBORSKÝ, JUDr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-33",
+      "candidateId": "mt-pavol-zemko",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 33,
+      "ageAtElection": 62,
+      "occupationOfficial": "manažér pre oblasť sociálneho začlenenia a zamestnanosti",
+      "displayNameOfficial": "Pavol ZEMKO, PhDr., MPH MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-1-34",
+      "candidateId": "mt-dana-zigova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 34,
+      "ageAtElection": 50,
+      "occupationOfficial": "medicínska reprezentantka",
+      "displayNameOfficial": "Dana ŽIGOVÁ, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-1"
+    },
+    {
+      "id": "mt-city-council-2-1",
+      "candidateId": "mt-tibor-adamko",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 1,
+      "ageAtElection": 54,
+      "occupationOfficial": "vedúci pracovník",
+      "displayNameOfficial": "Tibor ADAMKO, PhDr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-2",
+      "candidateId": "mt-zuzana-badova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 2,
+      "ageAtElection": 35,
+      "occupationOfficial": "poslankyňa mesta, lesná pedagogička, odborná pracovníčka pre enviromentálnu výchovu, členka bezpečnostnej zásahovej jednotky",
+      "displayNameOfficial": "Zuzana BADOVÁ, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-3",
+      "candidateId": "mt-jan-drahos",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 3,
+      "ageAtElection": 28,
+      "occupationOfficial": "asistent poslanca parlamentu",
+      "displayNameOfficial": "Ján DRAHOŠ, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-4",
+      "candidateId": "mt-zuzana-durkovic-zubercova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 4,
+      "ageAtElection": 40,
+      "occupationOfficial": "manažérka",
+      "displayNameOfficial": "Zuzana ĎURKOVIČ ZUBERCOVÁ",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-5",
+      "candidateId": "mt-veronika-gajdosova-ladnakova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 5,
+      "ageAtElection": 36,
+      "occupationOfficial": "špecialistka životného prostredia",
+      "displayNameOfficial": "Veronika GAJDOŠOVÁ LADŇÁKOVÁ, Mgr., PhD.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-6",
+      "candidateId": "mt-katarina-hrinova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 6,
+      "ageAtElection": 56,
+      "occupationOfficial": "lekárka záchrannej zdravotnej služby",
+      "displayNameOfficial": "Katarína HRIŇOVÁ, MUDr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-7",
+      "candidateId": "mt-marek-hromadko",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 7,
+      "ageAtElection": 47,
+      "occupationOfficial": "živnostník",
+      "displayNameOfficial": "Marek HROMÁDKO",
+      "affiliations": [
+        "Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-8",
+      "candidateId": "mt-robert-janu",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 8,
+      "ageAtElection": 63,
+      "occupationOfficial": "dôchodca",
+      "displayNameOfficial": "Róbert JANŮ",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-9",
+      "candidateId": "mt-tomas-kalina",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 9,
+      "ageAtElection": 56,
+      "occupationOfficial": "vysokoškolský učiteľ",
+      "displayNameOfficial": "Tomáš KALINA, Ing., PhD.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-10",
+      "candidateId": "mt-adrian-kosa",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 10,
+      "ageAtElection": 55,
+      "occupationOfficial": "röntgenový pracovník",
+      "displayNameOfficial": "Adrian KOŠA",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-11",
+      "candidateId": "mt-jozef-kristoffy",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 11,
+      "ageAtElection": 39,
+      "occupationOfficial": "stavebný inžinier, organizátor festivalu horských filmov",
+      "displayNameOfficial": "Jozef KRIŠTOFFY, Ing., MPH",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-12",
+      "candidateId": "mt-martin-lepej",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 12,
+      "ageAtElection": 48,
+      "occupationOfficial": "architekt, mestský poslanec",
+      "displayNameOfficial": "Martin LEPEJ, Ing. arch.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-13",
+      "candidateId": "mt-richard-liska",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 13,
+      "ageAtElection": 38,
+      "occupationOfficial": "obchodný zástupca",
+      "displayNameOfficial": "Richard LÍŠKA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-14",
+      "candidateId": "mt-michal-matejicka",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 14,
+      "ageAtElection": 43,
+      "occupationOfficial": "obchodný manažér",
+      "displayNameOfficial": "Michal MATEJIČKA, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-15",
+      "candidateId": "mt-peter-mestan",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 15,
+      "ageAtElection": 53,
+      "occupationOfficial": "projektový manažér",
+      "displayNameOfficial": "Peter MEŠŤAN, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-16",
+      "candidateId": "mt-marcela-mihalikova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 16,
+      "ageAtElection": 46,
+      "occupationOfficial": "opatrovateľka",
+      "displayNameOfficial": "Marcela MIHÁLIKOVÁ",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-17",
+      "candidateId": "mt-marek-pacalaj",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 17,
+      "ageAtElection": 32,
+      "occupationOfficial": "profesionálny športovec, podnikateľ",
+      "displayNameOfficial": "Marek PACALAJ",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-18",
+      "candidateId": "mt-jozef-petras",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 18,
+      "ageAtElection": 51,
+      "occupationOfficial": "projektový líder centra zelených inovácií, SZČO - expert pre presadzovanie verejného záujmu",
+      "displayNameOfficial": "Jozef PETRÁŠ, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-19",
+      "candidateId": "mt-jan-richter",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 19,
+      "ageAtElection": 30,
+      "occupationOfficial": "manažér",
+      "displayNameOfficial": "Ján RICHTER",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-20",
+      "candidateId": "mt-filip-subrt",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 20,
+      "ageAtElection": 29,
+      "occupationOfficial": "manažér martinského futbalového klubu",
+      "displayNameOfficial": "Filip ŠUBRT",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-21",
+      "candidateId": "mt-martin-sutiak",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 21,
+      "ageAtElection": 33,
+      "occupationOfficial": "strojník výmenníkovej stanice a kogeneračných jednotiek",
+      "displayNameOfficial": "Martin ŠUTIAK, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-2-22",
+      "candidateId": "mt-tomas-tomka",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 22,
+      "ageAtElection": 37,
+      "occupationOfficial": "riaditeľ v sociálnych službách",
+      "displayNameOfficial": "Tomáš TOMKA, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-2"
+    },
+    {
+      "id": "mt-city-council-3-1",
+      "candidateId": "mt-andrea-baceova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 1,
+      "ageAtElection": 21,
+      "occupationOfficial": "študentka",
+      "displayNameOfficial": "Andrea BAČEOVÁ",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-2",
+      "candidateId": "mt-mario-becak",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 2,
+      "ageAtElection": 49,
+      "occupationOfficial": "vedúci výroby",
+      "displayNameOfficial": "Mário BEČÁK",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-3",
+      "candidateId": "mt-daniel-diskanec",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 3,
+      "ageAtElection": 69,
+      "occupationOfficial": "správca kempu bezdomovcov",
+      "displayNameOfficial": "Daniel DIŠKANEC",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-4",
+      "candidateId": "mt-milan-ftorek",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 4,
+      "ageAtElection": 38,
+      "occupationOfficial": "predseda združenia",
+      "displayNameOfficial": "Milan FTOREK",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-5",
+      "candidateId": "mt-kristina-ftorekova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 5,
+      "ageAtElection": 30,
+      "occupationOfficial": "projektová manažérka",
+      "displayNameOfficial": "Kristína FTOREKOVÁ, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-6",
+      "candidateId": "mt-martin-hudec",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 6,
+      "ageAtElection": 53,
+      "occupationOfficial": "konateľ spoločnosti",
+      "displayNameOfficial": "Martin HUDEC, PhDr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-7",
+      "candidateId": "mt-peter-kasuba",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 7,
+      "ageAtElection": 64,
+      "occupationOfficial": "technik",
+      "displayNameOfficial": "Peter KAŠUBA, Ing.",
+      "affiliations": [
+        "Som Slovensko - strana obcí a miest"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-8",
+      "candidateId": "mt-robert-kollar",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 8,
+      "ageAtElection": 45,
+      "occupationOfficial": "strategický nákupca",
+      "displayNameOfficial": "Róbert KOLLÁR, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-9",
+      "candidateId": "mt-matej-kralik",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 9,
+      "ageAtElection": 24,
+      "occupationOfficial": "nezamestnaný",
+      "displayNameOfficial": "Matej KRÁLIK",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-10",
+      "candidateId": "mt-viliam-majda",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 10,
+      "ageAtElection": 64,
+      "occupationOfficial": "predseda občianskeho združenia",
+      "displayNameOfficial": "Viliam MAJDA, Ing., PhD.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-11",
+      "candidateId": "mt-stanislav-sturik",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 11,
+      "ageAtElection": 43,
+      "occupationOfficial": "právnik",
+      "displayNameOfficial": "Stanislav ŠTÚRIK, JUDr.",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-12",
+      "candidateId": "mt-stanislav-thomka",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 12,
+      "ageAtElection": 42,
+      "occupationOfficial": "zástupca primátora, poslanec samosprávneho kraja, projektový manažér",
+      "displayNameOfficial": "Stanislav THOMKA, Ing., MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-13",
+      "candidateId": "mt-lubomir-vanko",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 13,
+      "ageAtElection": 47,
+      "occupationOfficial": "konateľ spoločnosti",
+      "displayNameOfficial": "Ľubomír VAŇKO",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-14",
+      "candidateId": "mt-peter-vons",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 14,
+      "ageAtElection": 68,
+      "occupationOfficial": "športový tréner",
+      "displayNameOfficial": "Peter VONS, PaedDr.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-3-15",
+      "candidateId": "mt-adam-zilak",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 15,
+      "ageAtElection": 34,
+      "occupationOfficial": "odborník pre šport a zástupca primátora mesta",
+      "displayNameOfficial": "Adam ŽILÁK, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-3"
+    },
+    {
+      "id": "mt-city-council-4-1",
+      "candidateId": "mt-daniel-babka",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 1,
+      "ageAtElection": 29,
+      "occupationOfficial": "učiteľ, hokejista",
+      "displayNameOfficial": "Daniel BABKA, Bc.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-2",
+      "candidateId": "mt-stefan-balosak",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 2,
+      "ageAtElection": 53,
+      "occupationOfficial": "živnostník",
+      "displayNameOfficial": "Štefan BALOŠÁK, Mgr.",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-3",
+      "candidateId": "mt-marcela-balosakova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 3,
+      "ageAtElection": 48,
+      "occupationOfficial": "medicínska vedecká konzultantka",
+      "displayNameOfficial": "Marcela BALOŠÁKOVÁ, PharmDr., MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-4",
+      "candidateId": "mt-marian-fedor",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 4,
+      "ageAtElection": 70,
+      "occupationOfficial": "lekár",
+      "displayNameOfficial": "Marián FEDOR, MUDr.",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-5",
+      "candidateId": "mt-marian-ferenc",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 5,
+      "ageAtElection": 51,
+      "occupationOfficial": "vedúci úseku technických činností",
+      "displayNameOfficial": "Marián FERENC, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-6",
+      "candidateId": "mt-livia-gergisakova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 6,
+      "ageAtElection": 40,
+      "occupationOfficial": "riaditeľka sociálnej poisťovne",
+      "displayNameOfficial": "Lívia GERGIŠÁKOVÁ, Mgr.",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-7",
+      "candidateId": "mt-filip-horansky",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 7,
+      "ageAtElection": 38,
+      "occupationOfficial": "obchodný manažér",
+      "displayNameOfficial": "Filip HORANSKÝ, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-8",
+      "candidateId": "mt-veronika-hrklova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 8,
+      "ageAtElection": 38,
+      "occupationOfficial": "predsedníčka občianskeho združenia",
+      "displayNameOfficial": "Veronika HRKĽOVÁ",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-9",
+      "candidateId": "mt-branislav-hubacek",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 9,
+      "ageAtElection": 32,
+      "occupationOfficial": "riaditeľ spoločnosti",
+      "displayNameOfficial": "Branislav HUBÁČEK, JUDr. Mgr.",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-10",
+      "candidateId": "mt-tomas-ignacak",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 10,
+      "ageAtElection": 42,
+      "occupationOfficial": "stavebný projektant",
+      "displayNameOfficial": "Tomáš IGNAČÁK, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-11",
+      "candidateId": "mt-peter-junas",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 11,
+      "ageAtElection": 27,
+      "occupationOfficial": "projektový manažér",
+      "displayNameOfficial": "Peter JUNAS",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-12",
+      "candidateId": "mt-viera-kmetova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 12,
+      "ageAtElection": 62,
+      "occupationOfficial": "podnikateľka",
+      "displayNameOfficial": "Viera KMEŤOVÁ",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-13",
+      "candidateId": "mt-ivana-kovacikova",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 13,
+      "ageAtElection": 44,
+      "occupationOfficial": "manažérka riadenia systémov kvality v potravinárskej výrobe",
+      "displayNameOfficial": "Ivana KOVÁČIKOVÁ, MVDr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-14",
+      "candidateId": "mt-zdenko-kozak",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 14,
+      "ageAtElection": 61,
+      "occupationOfficial": "podnikateľ",
+      "displayNameOfficial": "Zdenko KOZÁK",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-15",
+      "candidateId": "mt-julius-krivus",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 15,
+      "ageAtElection": 64,
+      "occupationOfficial": "živnostník",
+      "displayNameOfficial": "Július KRIVUŠ",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-16",
+      "candidateId": "mt-martin-litv-aj",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 16,
+      "ageAtElection": 40,
+      "occupationOfficial": "analytik energetických dát",
+      "displayNameOfficial": "Martin LITV AJ, Mgr.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-17",
+      "candidateId": "mt-peter-matejka",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 17,
+      "ageAtElection": 59,
+      "occupationOfficial": "manažér",
+      "displayNameOfficial": "Peter MATEJKA, Ing.",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-18",
+      "candidateId": "mt-peter-torok",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 18,
+      "ageAtElection": 58,
+      "occupationOfficial": "dôchodca",
+      "displayNameOfficial": "Peter TŐRŐK",
+      "affiliations": [
+        "Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-19",
+      "candidateId": "mt-matej-turzo",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 19,
+      "ageAtElection": 42,
+      "occupationOfficial": "poradca pre krízové riadenie a krízový manažment v zdravotníctve",
+      "displayNameOfficial": "Matej TURZO, Mgr., MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-20",
+      "candidateId": "mt-michal-uhercik",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 20,
+      "ageAtElection": 45,
+      "occupationOfficial": "konzultant v priemysle",
+      "displayNameOfficial": "Michal UHERČÍK, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-21",
+      "candidateId": "mt-dusan-zachar",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 21,
+      "ageAtElection": 62,
+      "occupationOfficial": "dôchodca",
+      "displayNameOfficial": "Dušan ZACHAR, Ing.",
+      "affiliations": [
+        "Bratia Slovenska"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-22",
+      "candidateId": "mt-marian-zajasensky",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 22,
+      "ageAtElection": 45,
+      "occupationOfficial": "špecialista - kontrolór koľajových vozidiel",
+      "displayNameOfficial": "Marián ZAJASENSKÝ, Ing.",
+      "affiliations": [
+        "Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-city-council-4-23",
+      "candidateId": "mt-tomas-zanovit",
+      "electionId": "city-council",
+      "contestId": "2026-mt-city-council",
+      "ballotNumber": 23,
+      "ageAtElection": 43,
+      "occupationOfficial": "pedagóg",
+      "displayNameOfficial": "Tomáš ZANOVIT, PaedDr., MBA",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-municipal-roster-2026"
+      ],
+      "districtId": "2026-mt-city-4"
+    },
+    {
+      "id": "mt-region-council-6-1",
+      "candidateId": "mt-stefan-balosak",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 1,
+      "ageAtElection": 53,
+      "occupationOfficial": "technický poradca, živnostník",
+      "displayNameOfficial": "Štefan BALOŠÁK, Mgr.",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-2",
+      "candidateId": "mt-marcela-balosakova",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 2,
+      "ageAtElection": 48,
+      "occupationOfficial": "medicínska vedecká konzultantka",
+      "displayNameOfficial": "Marcela BALOŠÁKOVÁ, PharmDr., MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-3",
+      "candidateId": "mt-marek-belak",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 3,
+      "ageAtElection": 61,
+      "occupationOfficial": "martinský poslanec",
+      "displayNameOfficial": "Marek BELÁK, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-4",
+      "candidateId": "mt-peter-belica",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 4,
+      "ageAtElection": 47,
+      "occupationOfficial": "advokát",
+      "displayNameOfficial": "Peter BELICA, JUDr. Mgr.",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-5",
+      "candidateId": "mt-vladimir-boka",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 5,
+      "ageAtElection": 52,
+      "occupationOfficial": "lakýrnik",
+      "displayNameOfficial": "Vladimír BOKA",
+      "affiliations": [
+        "Slovexit"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-6",
+      "candidateId": "mt-dana-cervanova",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 6,
+      "ageAtElection": 60,
+      "occupationOfficial": "sociálna pracovníčka, profesionálny náhradný rodič",
+      "displayNameOfficial": "Dana CERVANOVÁ, Mgr.",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-7",
+      "candidateId": "mt-vladimir-cambor",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 7,
+      "ageAtElection": 52,
+      "occupationOfficial": "starosta obce",
+      "displayNameOfficial": "Vladimír ČAMBOR, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-8",
+      "candidateId": "mt-tatiana-cervenova",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 8,
+      "ageAtElection": 58,
+      "occupationOfficial": "lekárka",
+      "displayNameOfficial": "Tatiana ČERVEŇOVÁ, MUDr. Mgr., MPH, MHA",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-9",
+      "candidateId": "mt-karol-cicmanec",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 9,
+      "ageAtElection": 46,
+      "occupationOfficial": "starosta obce",
+      "displayNameOfficial": "Karol ČIČMANEC, Mgr. art., ArtD.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-10",
+      "candidateId": "mt-juraj-diabelko",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 10,
+      "ageAtElection": 43,
+      "occupationOfficial": "objektový manažér",
+      "displayNameOfficial": "Juraj DIABELKO",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-11",
+      "candidateId": "mt-ivan-doskocil",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 11,
+      "ageAtElection": 53,
+      "occupationOfficial": "horský vodca",
+      "displayNameOfficial": "Ivan DOSKOČIL, Mgr.",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-12",
+      "candidateId": "mt-martin-dudik",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 12,
+      "ageAtElection": 53,
+      "occupationOfficial": "archeológ - geológ",
+      "displayNameOfficial": "Martin ĎUDÍK",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-13",
+      "candidateId": "mt-milan-ftorek",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 13,
+      "ageAtElection": 38,
+      "occupationOfficial": "predseda združenia",
+      "displayNameOfficial": "Milan FTOREK",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-14",
+      "candidateId": "mt-kristina-ftorekova",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 14,
+      "ageAtElection": 30,
+      "occupationOfficial": "projektová manažérka",
+      "displayNameOfficial": "Kristína FTOREKOVÁ, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-15",
+      "candidateId": "mt-veronika-gajdosova-ladnakova",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 15,
+      "ageAtElection": 36,
+      "occupationOfficial": "špecialistka životného prostredia",
+      "displayNameOfficial": "Veronika GAJDOŠOVÁ LADŇÁKOVÁ, Mgr., PhD.",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-16",
+      "candidateId": "mt-marina-gallova",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 16,
+      "ageAtElection": 40,
+      "occupationOfficial": "advokátka, konkurzná a reštrukturalizačná správkyňa",
+      "displayNameOfficial": "Marína GALLOVÁ, JUDr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-17",
+      "candidateId": "mt-lubos-gottwald",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 17,
+      "ageAtElection": 41,
+      "occupationOfficial": "konateľ televízie",
+      "displayNameOfficial": "Ľuboš GOTTWALD, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-18",
+      "candidateId": "mt-miroslav-herak",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 18,
+      "ageAtElection": 67,
+      "occupationOfficial": "železničiar (dôchodca)",
+      "displayNameOfficial": "Miroslav HERÁK",
+      "affiliations": [
+        "Komunistická strana Slovenska"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-19",
+      "candidateId": "mt-milos-hlavaty",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 19,
+      "ageAtElection": 49,
+      "occupationOfficial": "riaditeľ spoločnosti",
+      "displayNameOfficial": "Miloš HLAVATÝ",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-20",
+      "candidateId": "mt-martin-hudec",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 20,
+      "ageAtElection": 53,
+      "occupationOfficial": "konateľ spoločnosti",
+      "displayNameOfficial": "Martin HUDEC, PhDr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-21",
+      "candidateId": "mt-martina-jesenska",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 21,
+      "ageAtElection": 55,
+      "occupationOfficial": "kulturologička",
+      "displayNameOfficial": "Martina JESENSKÁ, Mgr.",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-22",
+      "candidateId": "mt-tomas-kalnicky",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 22,
+      "ageAtElection": 31,
+      "occupationOfficial": "hokejový tréner",
+      "displayNameOfficial": "Tomáš KALNICKÝ",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-23",
+      "candidateId": "mt-viliam-komora",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 23,
+      "ageAtElection": 56,
+      "occupationOfficial": "vedúci pracovník v kultúrnej ustanovizni",
+      "displayNameOfficial": "Viliam KOMORA, ThLic. Mgr., PhD.",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-24",
+      "candidateId": "mt-zdenko-kozak",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 24,
+      "ageAtElection": 61,
+      "occupationOfficial": "podnikateľ",
+      "displayNameOfficial": "Zdenko KOZÁK",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-25",
+      "candidateId": "mt-elena-krajcova",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 25,
+      "ageAtElection": 55,
+      "occupationOfficial": "starostka obce",
+      "displayNameOfficial": "Elena KRAJČOVÁ, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-26",
+      "candidateId": "mt-pavol-kubala",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 26,
+      "ageAtElection": 49,
+      "occupationOfficial": "ekonóm",
+      "displayNameOfficial": "Pavol KUBALA, Ing., PhD., DBA",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-27",
+      "candidateId": "mt-roman-kubala",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 27,
+      "ageAtElection": 55,
+      "occupationOfficial": "starosta obce",
+      "displayNameOfficial": "Roman KUBALA, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-28",
+      "candidateId": "candidate-90",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 28,
+      "ageAtElection": 32,
+      "occupationOfficial": "poslanec národnej rady",
+      "displayNameOfficial": "Adam LUČANSKÝ, Ing.",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-29",
+      "candidateId": "mt-michal-matejicka",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 29,
+      "ageAtElection": 43,
+      "occupationOfficial": "obchodný manažér",
+      "displayNameOfficial": "Michal MATEJIČKA, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-30",
+      "candidateId": "mt-marcel-matovcik",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 30,
+      "ageAtElection": 54,
+      "occupationOfficial": "hlavný kontrolór mesta",
+      "displayNameOfficial": "Marcel MAŤOVČÍK, Mgr.",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-31",
+      "candidateId": "mt-jan-mlynar",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 31,
+      "ageAtElection": 60,
+      "occupationOfficial": "starosta",
+      "displayNameOfficial": "Ján MLYNÁR, Ing.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-32",
+      "candidateId": "mt-lucia-omamikova",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 32,
+      "ageAtElection": 37,
+      "occupationOfficial": "farmaceutka",
+      "displayNameOfficial": "Lucia OMÁMIKOVÁ, PharmDr., MPH",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-33",
+      "candidateId": "mt-bibiana-panisova",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 33,
+      "ageAtElection": 55,
+      "occupationOfficial": "farmaceutická laborantka",
+      "displayNameOfficial": "Bibiana PÁNISOVÁ",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-34",
+      "candidateId": "mt-jozef-petras",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 34,
+      "ageAtElection": 51,
+      "occupationOfficial": "projektový líder centra zelených inovácií, SZČO - expert pre presadzovanie verejného záujmu",
+      "displayNameOfficial": "Jozef PETRÁŠ, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-35",
+      "candidateId": "mt-juraj-stahl",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 35,
+      "ageAtElection": 56,
+      "occupationOfficial": "riaditeľ cestovnej kancelárie",
+      "displayNameOfficial": "Juraj STAHL, Ing.",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-36",
+      "candidateId": "mt-lenka-sluchova",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 36,
+      "ageAtElection": 41,
+      "occupationOfficial": "štátna zamestnankyňa",
+      "displayNameOfficial": "Lenka ŠLUCHOVÁ, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-37",
+      "candidateId": "mt-stanislav-thomka",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 37,
+      "ageAtElection": 42,
+      "occupationOfficial": "zástupca primátora, poslanec samosprávneho kraja, projektový manažér",
+      "displayNameOfficial": "Stanislav THOMKA, Ing., MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-38",
+      "candidateId": "mt-michal-uhercik",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 38,
+      "ageAtElection": 45,
+      "occupationOfficial": "konzultant v priemysle",
+      "displayNameOfficial": "Michal UHERČÍK, Ing.",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-39",
+      "candidateId": "mt-lubomir-vanko",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 39,
+      "ageAtElection": 47,
+      "occupationOfficial": "konateľ spoločnosti",
+      "displayNameOfficial": "Ľubomír VAŇKO",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-40",
+      "candidateId": "mt-peter-vons",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 40,
+      "ageAtElection": 68,
+      "occupationOfficial": "športový tréner",
+      "displayNameOfficial": "Peter VONS, PaedDr.",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-41",
+      "candidateId": "mt-dusan-zachar",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 41,
+      "ageAtElection": 62,
+      "occupationOfficial": "dôchodca",
+      "displayNameOfficial": "Dušan ZACHAR, Ing.",
+      "affiliations": [
+        "Bratia Slovenska"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-42",
+      "candidateId": "mt-branislav-zacharides",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 42,
+      "ageAtElection": 51,
+      "occupationOfficial": "primátor mesta",
+      "displayNameOfficial": "Branislav ZACHARIDES, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-43",
+      "candidateId": "mt-tomas-zanovit",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 43,
+      "ageAtElection": 43,
+      "occupationOfficial": "pedagóg",
+      "displayNameOfficial": "Tomáš ZANOVIT, PaedDr., MBA",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-44",
+      "candidateId": "mt-pavol-zemko",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 44,
+      "ageAtElection": 62,
+      "occupationOfficial": "manažér pre oblasť sociálneho začlenenia a zamestnanosti",
+      "displayNameOfficial": "Pavol ZEMKO, PhDr., MPH, MBA",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    },
+    {
+      "id": "mt-region-council-6-45",
+      "candidateId": "mt-adam-zilak",
+      "electionId": "region-council",
+      "contestId": "2026-zsk-region-council",
+      "ballotNumber": 45,
+      "ageAtElection": 34,
+      "occupationOfficial": "odborník pre šport a zástupca primátora mesta",
+      "displayNameOfficial": "Adam ŽILÁK, Mgr.",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "mt-zsk-district-6-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-6"
+    }
+  ]
+}

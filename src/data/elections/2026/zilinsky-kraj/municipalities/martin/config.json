@@ -1,0 +1,16 @@
+{
+  "cityName": "Martin",
+  "status": "published",
+  "snapshotDate": "2026-10-03",
+  "cityDistrictIds": [
+    "2026-mt-city-1",
+    "2026-mt-city-2",
+    "2026-mt-city-3",
+    "2026-mt-city-4"
+  ],
+  "regionalDistrictId": "2026-zsk-region-6",
+  "contestIds": {
+    "mayor": "2026-mt-mayor",
+    "city-council": "2026-mt-city-council"
+  }
+}

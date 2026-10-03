@@ -4011,5 +4011,1120 @@
     "checkedAt": "2026-10-03",
     "language": "sk",
     "type": "media"
+  },
+  {
+    "id": "mt-municipal-roster-2026",
+    "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109999&id_org=700031",
+    "title": "Zoznam zaregistrovaných kandidátov pre voľby primátora mesta Martin a zoznam zaregistrovaných kandidátov pre voľby do Mestského zastupiteľstva mesta Martin",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2026-09-08"
+  },
+  {
+    "id": "mt-zsk-district-6-roster-2026",
+    "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=110050&id_org=700031",
+    "title": "ZOZNAM ZAREGISTROVANÝCH KANDIDÁTOV pre voľby poslancov do zastupiteľstva Žilinského samosprávneho kraja",
+    "publisher": "Volebná komisia Žilinského samosprávneho kraja",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-city-districts-2026",
+    "url": "https://www.martin.sk/oznamenie-o-urceni-volebnych-obvodov-a-pocte-poslancov-mestskeho-zastupitelstva-v-martine/d-109336",
+    "title": "Oznámenie o určení volebných obvodov a počte poslancov Mestského zastupiteľstva v Martine",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2026-07-20"
+  },
+  {
+    "id": "mt-regional-district-2026",
+    "url": "https://www.martin.sk/oznamenie-o-volebnych-obvodoch-o-pocte-poslancov-zoznam-miest-a-obci-vo-volebnych-obvodoch/d-109340",
+    "title": "Oznámenie o volebných obvodoch, o počte poslancov, zoznam miest a obcí vo volebných obvodoch",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2026-07-20"
+  },
+  {
+    "id": "mt-city-polling-2026",
+    "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+    "title": "INFORMÁCIA O ČASE A MIESTE KONANIA VOLIEB DO ORGÁNOV SAMOSPRÁVY OBCÍ A ORGÁNOV SAMOSPRÁVNYCH KRAJOV",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2026-07-31"
+  },
+  {
+    "id": "mt-town-only-polling-2026",
+    "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=110158&id_org=700031",
+    "title": "Oznámenie o čase a mieste konania volieb do orgánov samosprávy obcí pre občanov s trvalým pobytom \"Martin\"",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2026-09-28"
+  },
+  {
+    "id": "mt-election-population-2026",
+    "url": "https://www.martin.sk/volby-do-organov-samospravy-obci-2026/ds-2634",
+    "title": "Voľby do orgánov samosprávy obcí 2026",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-quarter-ladoven-jahodniky-tomcany",
+    "url": "https://www.martin.sk/ladoven-jahodniky-tomcany/d-30289/p1=19914",
+    "title": "Ľadoveň, Jahodníky, Tomčany",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2014-03-04"
+  },
+  {
+    "id": "mt-quarter-stred",
+    "url": "https://www.martin.sk/stred/d-30293/p1=19918",
+    "title": "Stred",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2014-03-04"
+  },
+  {
+    "id": "mt-quarter-sever",
+    "url": "https://www.martin.sk/sever/d-30292/p1=19917",
+    "title": "Sever",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2014-03-04"
+  },
+  {
+    "id": "mt-quarter-kosuty",
+    "url": "https://www.martin.sk/kosuty/d-30288/p1=19913",
+    "title": "Košúty",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2014-03-04"
+  },
+  {
+    "id": "mt-quarter-priekopa",
+    "url": "https://www.martin.sk/priekopa/d-30291/p1=19916",
+    "title": "Priekopa",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2014-03-04"
+  },
+  {
+    "id": "mt-quarter-zaturcie",
+    "url": "https://www.martin.sk/zaturcie/d-30294/p1=19919",
+    "title": "Záturčie",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2014-03-04"
+  },
+  {
+    "id": "mt-quarter-podhaj",
+    "url": "https://www.martin.sk/podhaj/d-30290/p1=19915",
+    "title": "Podháj - Stráne",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2014-03-04"
+  },
+  {
+    "id": "mt-ftorek-financing-2026",
+    "url": "https://www.milanftorek.sk/financovanie-kampane",
+    "title": "Odkiaľ financujem kampaň — Milan Ftorek",
+    "publisher": "Milan Ftorek",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "candidate"
+  },
+  {
+    "id": "mt-turzo-campaign-2026",
+    "url": "https://matejturzo.sk/",
+    "title": "Matej Turzo | Kandidát na primátora mesta Martin",
+    "publisher": "Matej Turzo",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "candidate"
+  },
+  {
+    "id": "mt-hubacek-campaign-2026",
+    "url": "https://igorhubacek.sk/",
+    "title": "Igor Hubáček - kandidát na primátora mesta Martin",
+    "publisher": "Igor Hubáček",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "candidate"
+  },
+  {
+    "id": "mt-oso2022-sk-tab0bd",
+    "url": "https://volby.statistics.sk/opendata/oso/2022/OSO2022_SK_tab0bd.csv",
+    "title": "Zoznam kandidátov na poslancov obecného zastupiteľstva",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-oso2022-sk-tab08e",
+    "url": "https://volby.statistics.sk/opendata/oso/2022/OSO2022_SK_tab08e.csv",
+    "title": "Počet a podiel platných hlasov pre kandidátov na poslancov za volebné obvody v obci",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-oso2022-sk-tab0ad",
+    "url": "https://volby.statistics.sk/opendata/oso/2022/OSO2022_SK_tab0ad.csv",
+    "title": "Zoznam kandidátov na starostu obce",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-oso2022-sk-tab05d",
+    "url": "https://volby.statistics.sk/opendata/oso/2022/OSO2022_SK_tab05d.csv",
+    "title": "Počet a podiel platných hlasov pre kandidátov na starostu obce",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-osk2022-sk-tab0b",
+    "url": "https://volby.statistics.sk/opendata/osk/2022/OSK2022_SK_tab0b.csv",
+    "title": "Zoznam kandidátov na poslancov zastupiteľstva samosprávneho kraja",
+    "publisher": "Štatistický úrad Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-city-commissions-current",
+    "url": "https://www.martin.sk/komisie-mestskeho-zastupitelstva/os-1062",
+    "title": "Komisie mestského zastupiteľstva",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-deputy-mayors-current",
+    "url": "https://www.martin.sk/zastupcovia-primatora/d-30280",
+    "title": "Zástupcovia primátora",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-matej-borik-programme-2026",
+    "url": "https://matejborik.sk/volby-2026",
+    "title": "Matej Bórik - Voľby 2026 - mesto Martin",
+    "publisher": "Matej Bórik",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "candidate"
+  },
+  {
+    "id": "mt-mayoral-candidacies-tasr-20260826",
+    "url": "https://www.teraz.sk/regiony/o-post-primatora-martina-sa-uchadza-de/987483-clanok.html",
+    "title": "O post primátora Martina sa uchádza deväť kandidátov",
+    "publisher": "Teraz.sk",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "media",
+    "author": "TASR",
+    "publishedAt": "2026-08-26"
+  },
+  {
+    "id": "mt-martin-council-conflicts-20250225",
+    "url": "https://www.aktuality.sk/clanok/NyU1uW0/martinski-poslanci-dokoncili-tri-z-desiatich-zastupitelstiev-odmeny-dostali-v-plnej-vyske/",
+    "title": "Martinskí poslanci dokončili tri z desiatich zastupiteľstiev, odmeny dostali v plnej výške",
+    "publisher": "Aktuality.sk",
+    "author": "Juliána Hazuchová",
+    "publishedAt": "2025-02-25",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "media"
+  },
+  {
+    "id": "mt-renata-habrunova-office-current",
+    "url": "https://www.martin.sk/kancelaria-prednostu/os-1003/p1=1052",
+    "title": "Prednosta mestského úradu",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-tatiana-cervenova-declaration-2024",
+    "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Tatiana.Cervenova&sid=vnf/oznamenie",
+    "title": "Oznámenie verejného funkcionára",
+    "publisher": "Národná rada Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-gallova-insolvency-role-20250513",
+    "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetailHtml.aspx?IdFormular=4374881",
+    "title": "Obchodný vestník 89/2025 – K021188",
+    "publisher": "Ministerstvo spravodlivosti Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official",
+    "publishedAt": "2025-05-13"
+  },
+  {
+    "id": "mt-cdr-martin-programme-20250401",
+    "url": "https://centrummartin.sk/wp-content/uploads/2025/05/Program-CDR-Martin-01.03.2025.pdf",
+    "title": "Program Centra pre deti a rodiny Martin",
+    "publisher": "Centrum pre deti a rodiny Martin",
+    "author": "Alena Matejová; Michaela Dávidová",
+    "publishedAt": "2025-04-01",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-michal-kral-business-registration-2022-09-21",
+    "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetailHtml.aspx?IdFormular=3500281",
+    "title": "Obchodný vestník – zápis spoločnosti Georex, s.r.o.",
+    "publisher": "Ministerstvo spravodlivosti Slovenskej republiky",
+    "publishedAt": "2022-09-21",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-marian-polacek-business-registration-2024-10-30",
+    "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetailHtml.aspx?IdFormular=4217760",
+    "title": "Obchodný vestník – zápis spoločnosti LOTIQ s. r. o.",
+    "publisher": "Ministerstvo spravodlivosti Slovenskej republiky",
+    "publishedAt": "2024-10-30",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-vladimir-zaborsky-sak",
+    "url": "https://www.sak.sk/zoznam-advokatov/?sak_type=lawyers&sak_id=3905",
+    "title": "Zoznam advokátov",
+    "publisher": "Slovenská advokátska komora",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-andrej-sobcak-professional-site",
+    "url": "https://www.sobcak.sk/",
+    "title": "Andrej Sobčák",
+    "publisher": "Andrej Sobčák",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "candidate"
+  },
+  {
+    "id": "mt-martin-station-stvr-20250825",
+    "url": "https://spravy.stvr.sk/2025/08/obyvatelia-martina-sa-dockali-v-blizkosti-sidlisk-a-obchodnych-centier-vybuduju-novu-zeleznicnu-zastavku/",
+    "title": "Obyvatelia Martina sa dočkali: V blízkosti sídlisk a obchodných centier vybudujú novú železničnú zastávku",
+    "publisher": "Správy STVR",
+    "author": "Dominik Veľas",
+    "publishedAt": "2025-08-25",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "media"
+  },
+  {
+    "id": "mt-marek-belak-pergola-20250405",
+    "url": "https://www.zilinak.sk/clanky/33604/v-martine-chcu-dobudovat-strechu-pergoly-pri-skole-za-150-tisic-eur-detom-vraj-dazd-nevadi",
+    "title": "V Martine chcú dobudovať strechu pergoly pri škole za 150-tisíc eur. Deťom vraj dážď nevadí",
+    "publisher": "Žilinak.sk",
+    "author": "Dominika Rovňanová",
+    "publishedAt": "2025-04-05",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "media"
+  },
+  {
+    "id": "mt-poslanecke-kluby-20221115",
+    "url": "https://www.aktuality.sk/clanok/zlVKIeX/volby-2022-poslanci-v-martine-sa-preskupili-kedysi-opozicni-maju-najsilnejsi-klub/",
+    "title": "Voľby 2022: Poslanci v Martine sa preskupili, kedysi opoziční majú najsilnejší klub",
+    "publisher": "Aktuality.sk",
+    "author": "Magdaléna Paluchová",
+    "publishedAt": "2022-11-15",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "media"
+  },
+  {
+    "id": "mt-marek-pacalaj-campaign-2026",
+    "url": "https://martinplus.sk/kandidati/marek-pacalaj/",
+    "title": "Marek Pacalaj, č. 17 – kandidát do MsZ Martin | Martin PLUS +",
+    "publisher": "Martin PLUS +",
+    "type": "candidate",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-team-martin-tasr-20241222",
+    "url": "https://www.teraz.sk/spravy/piatym-poslaneckym-klubom-v-mestskom-za/845109-clanok.html",
+    "title": "Piatym poslaneckým klubom v mestskom zastupiteľstve je Team Martin",
+    "publisher": "TASR",
+    "type": "media",
+    "author": "TASR",
+    "publishedAt": "2024-12-22",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-martin-hudec-campaign-2026",
+    "url": "https://martinplus.sk/kandidati/martin-hudec/",
+    "title": "Martin Hudec, č. 6 – kandidát do MsZ Martin a ŽSK | Martin PLUS +",
+    "publisher": "Martin PLUS +",
+    "type": "candidate",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-sp-accounts-2025",
+    "url": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=590370",
+    "title": "Účtovná závierka Sociálnej poisťovne zostavená k 31.12.2025",
+    "publisher": "Sociálna poisťovňa",
+    "type": "official",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-thomka-constituencies-stvr-20260716",
+    "url": "https://spravy.stvr.sk/2026/07/viacere-samospravy-znizuju-pocty-poslancov-menia-aj-volebne-obvody-pred-jesennymi-volbami/",
+    "title": "Blížia sa voľby: Viaceré samosprávy menia počty poslancov a prekresľujú volebné obvody",
+    "publisher": "Správy STVR",
+    "type": "media",
+    "author": "Dominik Veľas",
+    "publishedAt": "2026-07-16",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-vrutky-council-current",
+    "url": "https://www.vrutky.sk/poslanci-msz-0/mid/493578/md0/9/md1/2026/.html",
+    "title": "Poslanci MsZ",
+    "publisher": "Mesto Vrútky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-bystricka-mayor-current",
+    "url": "https://www.bystricka.sk/samosprava/starosta/",
+    "title": "Starosta",
+    "publisher": "Obec Bystrička",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-turany-commissions-current",
+    "url": "https://www.turany.sk/mestska-rada-a-komisie-msz/mid/480232/md0/5/md1/2026/.html",
+    "title": "Mestská rada a komisie MsZ",
+    "publisher": "Mesto Turany",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-sucany-environment-commission-current",
+    "url": "https://www.sucany.sk/samosprava/obecne-zastupitelstvo/komisie-oz/komisia-zivotneho-prostredia-a-verejneho-poriadku-256sk.html",
+    "title": "Komisia životného prostredia a verejného poriadku",
+    "publisher": "Obec Sučany",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-tomas-zanovit-declaration-2024",
+    "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Tomas.Zanovit&sid=vnf/oznamenie",
+    "title": "Oznámenie verejného funkcionára",
+    "publisher": "Národná rada Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-tomas-zanovit-rmno",
+    "url": "https://ives.minv.sk/rmno/detail/13542109155793903230",
+    "title": "Výpis z registra",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-tomas-zanovit-turiec-report-20231129",
+    "url": "https://www.aktuality.sk/clanok/S9T2cAo/mestska-akciovka-dala-poslancovi-za-reklamu-rovnaku-sumu-aku-jej-on-vratil-z-pozicky/",
+    "title": "Mestská akciovka dala poslancovi za reklamu rovnakú sumu, akú jej on vrátil z pôžičky",
+    "publisher": "Aktuality.sk",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "media",
+    "publishedAt": "2023-11-29",
+    "author": "Magdaléna Paluchová"
+  },
+  {
+    "id": "mt-pacalaj-hockey-tasr-20180616",
+    "url": "https://www.teraz.sk/sport/hokej-i-liga-hk-martin-na-ceste-k-stab/331520-clanok.html",
+    "title": "Hokejový Martin na ceste k stabilizácii, v tíme sú Tabaček i Markovič",
+    "publisher": "Teraz.sk",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "media",
+    "publishedAt": "2018-06-16",
+    "author": "TASR"
+  },
+  {
+    "id": "mt-hudec-hospital-tasr-20191213",
+    "url": "https://www.teraz.sk/regiony/partizansku-nemocnicu-uz-nevedie-m-hu/435600-clanok.html",
+    "title": "Partizánsku nemocnicu už nevedie M. Hudec",
+    "publisher": "Teraz.sk",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "media",
+    "publishedAt": "2019-12-13",
+    "author": "TASR"
+  },
+  {
+    "id": "mt-orsr-georex",
+    "url": "https://www.orsr.sk/vypis.asp?ID=142549&SID=5&P=1",
+    "title": "Výpis z obchodného registra SR",
+    "publisher": "Ministerstvo spravodlivosti Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-orsr-lotiq",
+    "url": "https://www.orsr.sk/vypis.asp?ID=663855&SID=5&P=1",
+    "title": "Výpis z obchodného registra SR",
+    "publisher": "Ministerstvo spravodlivosti Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-orsr-socialny-podnik",
+    "url": "https://www.orsr.sk/vypis.asp?ID=564047&SID=5&P=1",
+    "title": "Výpis z obchodného registra SR",
+    "publisher": "Ministerstvo spravodlivosti Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-martin-stadium-discussion-20250702",
+    "url": "https://www.aktuality.sk/clanok/UtuK9pC/mimoriadne-rokovanie-v-martine-havarijny-zimny-stadion-sprevadzali-napate-diskusie/",
+    "title": "Mimoriadne rokovanie v Martine: Havarijný zimný štadión sprevádzali napäté diskusie",
+    "publisher": "Aktuality.sk",
+    "author": "Juliána Hazuchová",
+    "publishedAt": "2025-07-02",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "media"
+  },
+  {
+    "id": "mt-martin-council-roster-archive-62323",
+    "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=62323&id_org=700031",
+    "title": "ZOZNAM ZAREGISTROVANÝCH KANDIDÁTOV pre voľby do mestského zastupiteľstva v Martine",
+    "publisher": "Mesto Martin",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-smer-obcasnik-martin-2018",
+    "url": "https://www.strana-smer.sk/storage/app/media/Obcasnik/Jesen%202018/ZA_MT_Martin.pdf",
+    "title": "Občasník SMER – sociálna demokracia, október 2018, Okres Martin",
+    "publisher": "SMER – sociálna demokracia",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "candidate"
+  },
+  {
+    "id": "mt-michal-matejicka-business-notice-20240911",
+    "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetailHtml.aspx?IdFormular=4176314",
+    "title": "Obchodný vestník 176/2024 – R079055 – Zmena zápisov",
+    "publisher": "Ministerstvo spravodlivosti Slovenskej republiky",
+    "publishedAt": "2024-09-11",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-hubacek-czech-business-notice-20260930",
+    "url": "https://ov.gov.cz/zapis/25333509",
+    "title": "Zápis OV12232347",
+    "publisher": "Ministerstvo vnitra České republiky",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-03",
+    "language": "cs",
+    "type": "official"
+  },
+  {
+    "id": "mt-tomas-zanovit-nr2023-ballot",
+    "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/100_nr_sr/nr20_3kandidati/NR23_17.pdf",
+    "title": "Kandidáti pre voľby do Národnej rady Slovenskej republiky 30. 9. 2023 – HLAS – SOCIÁLNA DEMOKRACIA",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-lucia-omamikova-pharmacy",
+    "url": "https://www.drmax.sk/lekarne/turany-komenskeho-1120",
+    "title": "Dr. Max lekáreň, Komenského 1120, Turany",
+    "publisher": "Dr. Max",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-danko-nrsr-declaration-2024",
+    "url": "https://www.nrsr.sk/web/Default.aspx?UserId=J%C3%A1n.Danko&sid=vnf/oznamenie",
+    "title": "Oznámenie verejného funkcionára",
+    "publisher": "Národná rada Slovenskej republiky",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-uhercik-campaign-2026",
+    "url": "https://www.uhercik.sk/",
+    "title": "Michal Uherčík | Kandidát na primátora Martina",
+    "publisher": "Michal Uherčík",
+    "type": "candidate",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-uhercik-tasr-candidacy-2026",
+    "url": "https://www.teraz.sk/spravy/o-post-primatora-martina-sa-bude-uchad/951943-clanok.html",
+    "title": "O post primátora Martina sa bude uchádzať Michal Uherčík",
+    "publisher": "TASR",
+    "type": "media",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "TASR",
+    "publishedAt": "2026-03-30"
+  },
+  {
+    "id": "mt-danko-tasr-response-2019",
+    "url": "https://www.teraz.sk/regiony/martinsky-primator-j-danko-odmieta-ob/398809-clanok.html",
+    "title": "Martinský primátor J. Danko odmieta obvinenia poslanca S. Thomku",
+    "publisher": "TASR",
+    "type": "media",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "TASR",
+    "publishedAt": "2019-05-31"
+  },
+  {
+    "id": "mt-ftorek-team-2026",
+    "url": "https://www.milanftorek.sk/tim",
+    "title": "Tím Reštart Martina — Milan Ftorek",
+    "publisher": "Milan Ftorek",
+    "type": "candidate",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-danko-zilinak-adverts-2026",
+    "url": "https://www.zilinak.sk/clanky/43013/primator-martina-pod-palbou-transparency-na-socialnych-sietach-mal-naraz-27-platenych-reklam-bez-transparentneho-uctu",
+    "title": "Primátor Martina pod paľbou Transparency. Na sociálnych sieťach mal naraz 27 platených reklám bez transparentného účtu",
+    "publisher": "Žilinak.sk",
+    "type": "media",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "Filip Lehotský",
+    "publishedAt": "2026-09-24"
+  },
+  {
+    "id": "mt-jenigar-beklajf",
+    "url": "https://www.beklajf.sk/cmsms_doctor/matej-jenigar/",
+    "title": "Bc. Matej Jenigár - BEKLAJF",
+    "publisher": "BEKLAJF",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-danko-current-mayor",
+    "url": "https://www.martin.sk/andrej-hrnciar/o-1240",
+    "title": "Ján Danko: Mesto Martin",
+    "publisher": "Mesto Martin",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-klastor-current-mayor",
+    "url": "https://www.obecklastor.sk/starosta-obce",
+    "title": "starosta obce - Kláštor pod Znievom",
+    "publisher": "Obec Kláštor pod Znievom",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mosovce-mayor-and-declarations",
+    "url": "https://www.mosovce.sk/starosta-obce.html",
+    "title": "Starosta obce | Mošovce",
+    "publisher": "Obec Mošovce",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-horny-kalnik-council-current",
+    "url": "https://www.hornykalnik.sk/urad/zastupitelstvo/",
+    "title": "Zastupiteľstvo - Oficiálna stránka obce Horný Kalník",
+    "publisher": "Obec Horný Kalník",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-matovcik-declaration-2024",
+    "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Marcel.Matovcik&sid=vnf/oznamenie",
+    "title": "Oznámenie verejného funkcionára",
+    "publisher": "Národná rada Slovenskej republiky",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-martin-controller-budget-2026",
+    "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=105266&id_org=700031",
+    "title": "Stanovisko hlavného kontrolóra k návrhu rozpočtu mesta Martin na rok 2026",
+    "publisher": "Mesto Martin",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-stahl-rpvs-verification-2021",
+    "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/123857",
+    "title": "Verifikačný dokument – STAHL REISEN, spol. s r.o.",
+    "publisher": "Register partnerov verejného sektora",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "JUDr. Silvia Tatarková"
+  },
+  {
+    "id": "mt-vanko-rpvs-verification-2024",
+    "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/199420",
+    "title": "Verifikačný dokument ZVD/2024 – FLORIAN, s.r.o.",
+    "publisher": "Register partnerov verejného sektora",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "JUDr. Silvia Tatarková"
+  },
+  {
+    "id": "mt-markovic-rpvs-verification-2024",
+    "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/209692",
+    "title": "Verifikačný dokument – MHA MARTIN",
+    "publisher": "Register partnerov verejného sektora",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "Mgr. Ľuboš Kráľ"
+  },
+  {
+    "id": "mt-hlavaty-rpvs-verification-2025",
+    "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/218728",
+    "title": "Verifikačný dokument – Aliancia pre sociálnu ekonomiku na Slovensku",
+    "publisher": "Register partnerov verejného sektora",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "JUDr. Ján Luterán"
+  },
+  {
+    "id": "mt-vanko-programme-2026",
+    "url": "https://martinplus.sk/kandidati/lubomir-vanko/",
+    "title": "Ľubomír Vaňko, č. 13 – kandidát do MsZ Martin a ŽSK | Martin PLUS +",
+    "publisher": "Martin PLUS +",
+    "type": "candidate",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-markovic-tasr-career-2026",
+    "url": "https://www.teraz.sk/sport/markovic-skoncil-s-hracskou-kariero/981817-clanok.html",
+    "title": "Markovič skončil s hráčskou kariérou, bude generálnym manažérom",
+    "publisher": "TASR",
+    "type": "media",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "TASR",
+    "publishedAt": "2026-07-31"
+  },
+  {
+    "id": "mt-ftorek-team-tasr-2026",
+    "url": "https://www.teraz.sk/spravy/kandidaturu-na-primatora-martina-ohla/976596-clanok.html",
+    "title": "Kandidatúru na primátora Martina ohlásil mestský poslanec Milan Ftorek",
+    "publisher": "TASR",
+    "type": "media",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "TASR",
+    "publishedAt": "2026-07-09"
+  },
+  {
+    "id": "mt-danko-tasr-allegation-2019",
+    "url": "https://www.teraz.sk/regiony/martinsky-poslanec-thomka-podal-trestn/398609-clanok.html",
+    "title": "Martinský poslanec Thomka podal trestné oznámenie na primátora Danka",
+    "publisher": "TASR",
+    "type": "media",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "TASR",
+    "publishedAt": "2019-05-30"
+  },
+  {
+    "id": "mt-martin-economic-commission-minutes-2023",
+    "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=90359&id_org=700031",
+    "title": "Zápisnica zo zasadnutia Mestského zastupiteľstva mesta Martin, konaného 27. 4. 2023",
+    "publisher": "Mesto Martin",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-stahl-vmc-attendance-2024",
+    "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=97341&id_org=700031",
+    "title": "Zápisnica zo zasadnutia Výboru mestskej časti Martin Stred č. 4/2024",
+    "publisher": "Mesto Martin",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-martin-population-tasr-2025",
+    "url": "https://www.teraz.sk/najnovsie/opozicni-poslanci-varuju-pred-financ/896130-clanok.html",
+    "title": "Opozícia v Martine varuje pred kolapsom pri poklese počtu obyvateľov",
+    "publisher": "TASR",
+    "type": "media",
+    "language": "sk",
+    "checkedAt": "2026-10-03",
+    "author": "TASR",
+    "publishedAt": "2025-07-29"
+  },
+  {
+    "id": "mt-drahos-ballot-demokrati-2023",
+    "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/100_nr_sr/nr20_3kandidati/NR23_22.pdf",
+    "title": "Hlasovací lístok – DEMOKRATI – voľby do Národnej rady Slovenskej republiky 30. 9. 2023",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "type": "official",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-majda-homepage-statement",
+    "url": "https://www.viliammajda.sk/",
+    "title": "VITAJTE - VILIAM MAJDA Chuť pomáhať. Mám v krvi slúžiť. Nezištne.",
+    "publisher": "Viliam Majda",
+    "type": "candidate",
+    "language": "sk",
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-danko-social-enterprise-verification-2023",
+    "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/188659",
+    "title": "Verifikačný dokument – Sociálny podnik mesta Martin, s. r. o.",
+    "publisher": "Register partnerov verejného sektora",
+    "author": "JUDr. Martin Burik",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "mt-c3-ftorek-programme",
+    "url": "https://www.milanftorek.sk/program",
+    "title": "Program 2026–2030 — Milan Ftorek",
+    "publisher": "Milan Ftorek / Reštart Martina",
+    "type": "candidate",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-c3-zemko-programme",
+    "url": "https://pavolzemko.sk/program-pre-martin-pavol-zemko/",
+    "title": "Volebný program pre Martin | Pavol Zemko",
+    "publisher": "Pavol Zemko",
+    "type": "candidate",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-c3-turcan-programme",
+    "url": "https://martinplus.sk/kandidati/tomas-turcan/",
+    "title": "Tomáš Turčan, č. 31 – kandidát do MsZ Martin | Martin PLUS +",
+    "publisher": "Martin PLUS +",
+    "type": "candidate",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-c3-blatnica-mayor",
+    "url": "https://www.blatnica.sk/13774/starosta-a-zastupitelstvo-obce",
+    "title": "Starosta a zastupiteľstvo obce",
+    "publisher": "Obec Blatnica",
+    "type": "official",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "publishedAt": "2022-03-11"
+  },
+  {
+    "id": "mt-c3-kostany-mayor",
+    "url": "https://www.kostanynadturcom.sk/samosprava/starosta-obce/",
+    "title": "Starosta obce",
+    "publisher": "Obec Košťany nad Turcom",
+    "type": "official",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-c3-vrutky-mayor",
+    "url": "https://www.vrutky.sk/-primator.html",
+    "title": "Primátor",
+    "publisher": "Mesto Vrútky",
+    "type": "official",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "publishedAt": "2022-09-01"
+  },
+  {
+    "id": "mt-c3-zacharides-declaration-2024",
+    "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Branislav.Zacharides&sid=vnf%2Foznamenie",
+    "title": "Oznámenie verejného funkcionára",
+    "publisher": "Národná rada Slovenskej republiky",
+    "type": "official",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-c3-vons-parliament8",
+    "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=1079&sid=poslanci%2Fposlanec",
+    "title": "PaedDr. Peter Vons",
+    "publisher": "Národná rada Slovenskej republiky",
+    "type": "official",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-c3-hrklova-rmno",
+    "url": "https://ives.minv.sk/rmno/detail/13542109253571561630",
+    "title": "Detail firmy Štvorlístok pre deti - Register mimovládnych neziskových organizácií Slovenskej republiky",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "type": "official",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-c3-ciller-theatre",
+    "url": "https://www.skdmartin.sk/umelecky-subor?x=624746755a7a30784a6d316c626e55394e535a7a614739335054593d",
+    "title": "Umelecký súbor",
+    "publisher": "Slovenské komorné divadlo Martin",
+    "type": "official",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-c3-ftorek-candidacy-tasr",
+    "url": "https://www.teraz.sk/zilinsky-kraj/kandidaturu-na-primatora-martina-ohla/976596-clanok.html",
+    "title": "Kandidatúru na primátora Martina ohlásil mestský poslanec Milan Ftorek",
+    "publisher": "Teraz.sk",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "author": "TASR",
+    "publishedAt": "2026-07-09"
+  },
+  {
+    "id": "mt-c3-petras-campaign-sme",
+    "url": "https://my.sme.sk/turiec/c/o-primatorsku-stolicku-v-martine-chce-zabojovat-aj-zena-pole-uchadzacov-sa-rozsiruje",
+    "title": "O primátorskú stoličku v Martine chce zabojovať aj žena. Pole uchádzačov sa rozširuje",
+    "publisher": "MY Turiec / SME",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "author": "Nikola Marhefková",
+    "publishedAt": "2026-07-21"
+  },
+  {
+    "id": "mt-c3-komora-interview-snn",
+    "url": "https://snn.sk/viliam-komora-narodnostna-nevrazivost-ohrozuje-rodinne-spolunazivanie/",
+    "title": "Viliam KOMORA: Národnostná nevraživosť ohrozuje rodinné spolunažívanie",
+    "publisher": "Slovenské národné noviny",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "author": "Juraj Domin",
+    "publishedAt": "2026-05-20"
+  },
+  {
+    "id": "mt-c3-vons-status-dennikn",
+    "url": "https://dennikn.sk/1274149/kandidat-na-primatora-sa-tesil-z-vitazstva-kotlebu-a-klamal-o-tom-remisova-stiahla-podporne-video/",
+    "title": "Kandidát na primátora sa tešil z výhry Kotlebu a klamal o tom, Remišová stiahla podporné video",
+    "publisher": "Denník N",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "author": "Ria Gehrerová",
+    "publishedAt": "2018-10-25"
+  },
+  {
+    "id": "mt-c3-kozak-hall-stvr",
+    "url": "https://spravy.stvr.sk/2026/04/vojna-boxerov-s-dzudistami-spor-o-sportovu-halu-v-martine-eskaluje-a-moze-otvorit-pandorinu-skrinku/",
+    "title": "Vojna boxerov s džudistami: Spor o športovú halu v Martine eskaluje a môže otvoriť Pandorinu skrinku",
+    "publisher": "Správy STVR",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "author": "Ivan Brada / STVR",
+    "publishedAt": "2026-04-24"
+  },
+  {
+    "id": "mt-c3-mlynar-byelection-tasr",
+    "url": "https://www.teraz.sk/regiony/starostom-obce-kostany-nad-turcom-bude/620576-clanok.html",
+    "title": "Poznáme výsledky doplňujúcich volieb",
+    "publisher": "Teraz.sk",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "author": "TASR",
+    "publishedAt": "2022-03-20"
+  },
+  {
+    "id": "mt-c3-panisova-sme",
+    "url": "https://myturiec.sme.sk/c/22451804/personalne-rosady-v-smere-sa-dotkli-aj-turca.html",
+    "title": "Personálne rošády v Smere sa dotkli aj Turca.",
+    "publisher": "MY Turiec / SME",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "author": "Roman Kopka",
+    "publishedAt": "2020-07-22"
+  },
+  {
+    "id": "mt-c3-zacharides-zmos",
+    "url": "https://www.zmos.sk/branislav-zacharides--bez-eurofondov-by-sme-namiesto-ciest-mali-pas-zaplatanych-vytlkov-oznam/mid/536931/.html",
+    "title": "Branislav Zacharides: Bez eurofondov by sme namiesto ciest mali pás zaplátaných výtlkov",
+    "publisher": "Združenie miest a obcí Slovenska",
+    "type": "official",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "id": "mt-c3-kosuty-minutes-2024",
+    "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=98007&id_org=700031",
+    "title": "Výbor mestskej časti Martin - Košúty — zápisnica 07/2024",
+    "publisher": "Mesto Martin",
+    "type": "official",
+    "checkedAt": "2026-10-03",
+    "language": "sk"
+  },
+  {
+    "id": "mt-c3-ciller-interview-tasr",
+    "url": "https://www.teraz.sk/magazin/jubilant-j-ciller-scenograf-musi-in/610124-clanok.html",
+    "title": "Jubilant Ciller: Scénograf musí inšpirovať herca a prekvapiť diváka",
+    "publisher": "TASR / Teraz.sk",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "publishedAt": "2022-02-08",
+    "author": "TASR"
+  },
+  {
+    "id": "mt-c3-hustava-ecco-stvr",
+    "url": "https://spravy.stvr.sk/2025/05/zamestnanci-firmy-ecco-v-martine-protestovali-proti-zatvoreniu-fabriky-ziadaju-vyssie-odstupne/",
+    "title": "Zamestnanci firmy Ecco v Martine protestovali proti zatvoreniu fabriky. Žiadajú vyššie odstupné",
+    "publisher": "STVR",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "publishedAt": "2025-05-27",
+    "author": "Lukáš Urbašík"
+  },
+  {
+    "id": "mt-c3-adamko-water-stvr",
+    "url": "https://spravy.stvr.sk/2024/12/vodarne-vyzvali-pani-ludmilu-aby-opravila-prasknute-potrubie-nemala-peniaze-a-zostala-bez-vody-na-pripade-sa-nezhodnu-ani-pravnici/",
+    "title": "Vodárne vyzvali pani Ľudmilu, aby opravila prasknuté potrubie. Nemala peniaze a zostala bez vody. Na prípade sa nezhodnú ani právnici",
+    "publisher": "STVR",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "publishedAt": "2024-12-24",
+    "author": "Miroslav Lupták"
+  },
+  {
+    "id": "mt-c3-cicmanec-bear-stvr",
+    "url": "https://spravy.stvr.sk/2026/09/medved-napadol-zenu-v-centre-blatnice-vybehol-na-nu-a-poskrabal-ju-na-tvari/",
+    "title": "Medveď napadol ženu v centre Blatnice. Vybehol na ňu a poškriabal ju na tvári",
+    "publisher": "STVR",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "publishedAt": "2026-09-15",
+    "author": "Zuzana Lechanová"
+  },
+  {
+    "id": "mt-c3-zacharides-cor-tasr",
+    "url": "https://www.teraz.sk/ekonomika/delegacia-sr-v-europskom-vybore-regi/858255-clanok.html",
+    "title": "Slovensko sa v Európskom výbore regiónov zameria na kohéznu politiku",
+    "publisher": "TASR / Teraz.sk",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "publishedAt": "2025-02-20",
+    "author": "TASR"
+  },
+  {
+    "id": "mt-c3-ftorek-interview-dennikn",
+    "url": "https://dennikn.sk/982684/veril-hoaxom-ked-na-moje-nazory-agresivne-utocili-sebej-ci-havran-len-som-sa-v-nich-utvrdzoval/",
+    "title": "Veril hoaxom: Keď na moje názory agresívne útočili ľudia ako Šebej, len som sa v nich utvrdzoval",
+    "publisher": "Denník N",
+    "type": "media",
+    "checkedAt": "2026-10-03",
+    "language": "sk",
+    "publishedAt": "2017-12-28",
+    "author": "Michal Červený"
   }
 ]

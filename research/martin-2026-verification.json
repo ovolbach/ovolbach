@@ -1,0 +1,300 @@
+{
+  "verifiedAt": "2026-10-03T17:19:19.613466+00:00",
+  "snapshotDate": "2026-10-03",
+  "branch": "codex/martin-2026",
+  "baseline": "bf7b081",
+  "deploymentPerformed": false,
+  "gateResults": [
+    {
+      "command": "npm test",
+      "exitCode": 0,
+      "summary": {
+        "filesPassed": 37,
+        "filesSkipped": 1,
+        "passed": 308,
+        "skipped": 4
+      },
+      "localLog": ".internal/martin/gates/test.log",
+      "logSha256": "786a4cba7809177abb93a581133188452a86d0bb624f0a359d92dc3bc75ba002"
+    },
+    {
+      "command": "npm run validate:data",
+      "exitCode": 0,
+      "summary": {
+        "cycles": 1,
+        "contexts": 3,
+        "published": 3,
+        "issues": 0
+      },
+      "localLog": ".internal/martin/gates/validate-data.log",
+      "logSha256": "7e0a75097bf3d91cc911105e229075794512186ebd2ea92d7763f78fa43e68e9"
+    },
+    {
+      "command": "npm run validate:release",
+      "exitCode": 0,
+      "summary": {
+        "cycles": 1,
+        "contexts": 3,
+        "published": 3,
+        "issues": 0
+      },
+      "localLog": ".internal/martin/gates/validate-release.log",
+      "logSha256": "8a5e66d8b2d9a7e87f1c0b929b26c8cfe2c67b8646962ac1fbd00e0c0231b772"
+    },
+    {
+      "command": "npm run report:coverage",
+      "exitCode": 0,
+      "summary": {
+        "releaseReady": true,
+        "pending": 0
+      },
+      "localLog": ".internal/martin/gates/report-coverage.log",
+      "logSha256": "bb2f46d8a473000731db8c2bbcc676206f40221439893868242f9c33da3bd5c2"
+    },
+    {
+      "command": "npm run build",
+      "exitCode": 0,
+      "summary": {
+        "staticBuild": true,
+        "pagefindIndexedPages": 309
+      },
+      "localLog": ".internal/martin/gates/build.log",
+      "logSha256": "7e09f1888bcce26cc5ba5f1d4432364e6f0542c44240902c2dae21f9b1217dc8"
+    },
+    {
+      "command": "npm run check:seo",
+      "exitCode": 0,
+      "summary": {
+        "canonicalIndexablePages": 309,
+        "noindexComparisons": 3,
+        "noindex404": 1
+      },
+      "localLog": ".internal/martin/gates/check-seo.log",
+      "logSha256": "46f44a24869c962e6a344a68ca98d882fc2c04c823b36b9ad1cfa3b27487ace9"
+    },
+    {
+      "command": "npm run check:html",
+      "exitCode": 0,
+      "summary": {
+        "htmlFiles": 313,
+        "errors": 0,
+        "warnings": 0
+      },
+      "localLog": ".internal/martin/gates/check-html.log",
+      "logSha256": "0132455ca40015c30f5e13748016a1b983f718f66df79592ab4f665b91fb6492"
+    },
+    {
+      "command": "npm run check:storage",
+      "exitCode": 0,
+      "summary": {
+        "passed": true
+      },
+      "localLog": ".internal/martin/gates/check-storage.log",
+      "logSha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd"
+    },
+    {
+      "command": "npm run check:links",
+      "exitCode": 0,
+      "summary": {
+        "uniqueUrls": 552,
+        "unreachable": 0,
+        "manualAccessReview": 15
+      },
+      "localLog": ".internal/martin/gates/check-links.log",
+      "logSha256": "1326b4bfd4f9742e57cee1dfee645c7b941116ed89318b1813d8daf3479e6315"
+    },
+    {
+      "command": "npm run test:e2e -- --max-failures=3",
+      "exitCode": 0,
+      "summary": {
+        "passed": 166,
+        "skipped": 2,
+        "projects": [
+          "desktop",
+          "mobile"
+        ]
+      },
+      "localLog": ".internal/martin/gates/test-e2e-final.log",
+      "logSha256": "367697d16a9120b1e4aa2e903dd188eab63532be61a9563733926be6f6d75717"
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "summary": "No whitespace errors; rerun after final audit edits."
+    }
+  ],
+  "manualLinkAccessReview": [
+    {
+      "status": "403",
+      "url": "https://dennikn.sk/blog/5566516/suboj-o-liptovsky-mikulas/",
+      "recordIds": [
+        "droppa-mayor-interview-2026"
+      ],
+      "newRecord": false,
+      "accessBoundary": "Existing approved source; unchanged by Martin research. Automated endpoint returned an access restriction, not a factual review result."
+    },
+    {
+      "status": "403",
+      "url": "https://snn.sk/marek-nemec-snazim-sa-sustredit-na-svoju-pracu-nie-na-chyby-inych/",
+      "recordIds": [
+        "snn-nemec-interview-2026"
+      ],
+      "newRecord": false,
+      "accessBoundary": "Existing approved source; unchanged by Martin research. Automated endpoint returned an access restriction, not a factual review result."
+    },
+    {
+      "status": "403",
+      "url": "https://e.dennikn.sk/513541/choma-uz-nechcel-mercedes-po-slotovi-kupil-audi-a-potom-zmluvu-zrusil/",
+      "recordIds": [
+        "dennike-choma-audi-first-2016"
+      ],
+      "newRecord": false,
+      "accessBoundary": "Existing approved source; unchanged by Martin research. Automated endpoint returned an access restriction, not a factual review result."
+    },
+    {
+      "status": "429",
+      "url": "https://zenskyweb.sk/anna-belousovova-o-tragedii-v-staskove-politickej-krize-aj-buducnosti-zilinskeho-kraja/",
+      "recordIds": [
+        "zenskyweb-belousovova-interview-2026-09-30"
+      ],
+      "newRecord": false,
+      "accessBoundary": "Existing approved source; unchanged by Martin research. Automated endpoint returned an access restriction, not a factual review result."
+    },
+    {
+      "status": "403",
+      "url": "https://www.drmax.sk/lekarne/turany-komenskeho-1120",
+      "recordIds": [
+        "mt-lucia-omamikova-pharmacy"
+      ],
+      "newRecord": true,
+      "accessBoundary": "Automated endpoint returned 403. Full original article/institutional page directly reopened during research and independent review; stored claim is restricted to its verified wording and date."
+    },
+    {
+      "status": "403",
+      "url": "https://my.sme.sk/turiec/c/o-primatorsku-stolicku-v-martine-chce-zabojovat-aj-zena-pole-uchadzacov-sa-rozsiruje",
+      "recordIds": [
+        "mt-c3-petras-campaign-sme"
+      ],
+      "newRecord": true,
+      "accessBoundary": "Automated endpoint returned 403. Full original article/institutional page directly reopened during research and independent review; stored claim is restricted to its verified wording and date."
+    },
+    {
+      "status": "403",
+      "url": "https://snn.sk/viliam-komora-narodnostna-nevrazivost-ohrozuje-rodinne-spolunazivanie/",
+      "recordIds": [
+        "mt-c3-komora-interview-snn"
+      ],
+      "newRecord": true,
+      "accessBoundary": "Automated endpoint returned 403. Full original article/institutional page directly reopened during research and independent review; stored claim is restricted to its verified wording and date."
+    },
+    {
+      "status": "403",
+      "url": "https://dennikn.sk/1274149/kandidat-na-primatora-sa-tesil-z-vitazstva-kotlebu-a-klamal-o-tom-remisova-stiahla-podporne-video/",
+      "recordIds": [
+        "mt-c3-vons-status-dennikn"
+      ],
+      "newRecord": true,
+      "accessBoundary": "Automated endpoint returned 403. Full original article/institutional page directly reopened during research and independent review; stored claim is restricted to its verified wording and date."
+    },
+    {
+      "status": "403",
+      "url": "https://myturiec.sme.sk/c/22451804/personalne-rosady-v-smere-sa-dotkli-aj-turca.html",
+      "recordIds": [
+        "mt-c3-panisova-sme"
+      ],
+      "newRecord": true,
+      "accessBoundary": "Automated endpoint returned 403. Full original article/institutional page directly reopened during research and independent review; stored claim is restricted to its verified wording and date."
+    },
+    {
+      "status": "403",
+      "url": "https://dennikn.sk/982684/veril-hoaxom-ked-na-moje-nazory-agresivne-utocili-sebej-ci-havran-len-som-sa-v-nich-utvrdzoval/",
+      "recordIds": [
+        "mt-c3-ftorek-interview-dennikn"
+      ],
+      "newRecord": true,
+      "accessBoundary": "Automated endpoint returned 403. Full original article/institutional page directly reopened during research and independent review; stored claim is restricted to its verified wording and date."
+    },
+    {
+      "status": "403",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6211000000002975097737",
+      "recordIds": [
+        "finance-candidate-89"
+      ],
+      "newRecord": false,
+      "accessBoundary": "Automated bank endpoint returned 403. New account identity independently corroborated by MV SR and candidate-owned campaign sources; party account anchored by the official party finance record. No transactions reproduced."
+    },
+    {
+      "status": "403",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7911000000002976122236",
+      "recordIds": [
+        "finance-mt-milan-ftorek"
+      ],
+      "newRecord": true,
+      "accessBoundary": "Automated bank endpoint returned 403. New account identity independently corroborated by MV SR and candidate-owned campaign sources; party account anchored by the official party finance record. No transactions reproduced."
+    },
+    {
+      "status": "403",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7211000000002975126366",
+      "recordIds": [
+        "finance-mt-igor-hubacek"
+      ],
+      "newRecord": true,
+      "accessBoundary": "Automated bank endpoint returned 403. New account identity independently corroborated by MV SR and candidate-owned campaign sources; party account anchored by the official party finance record. No transactions reproduced."
+    },
+    {
+      "status": "403",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219",
+      "recordIds": [
+        "progresivne-slovensko"
+      ],
+      "newRecord": false,
+      "accessBoundary": "Automated bank endpoint returned 403. New account identity independently corroborated by MV SR and candidate-owned campaign sources; party account anchored by the official party finance record. No transactions reproduced."
+    },
+    {
+      "status": "403",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6311000000002942304832",
+      "recordIds": [
+        "volt-slovensko"
+      ],
+      "newRecord": true,
+      "accessBoundary": "Automated bank endpoint returned 403. New account identity independently corroborated by MV SR and candidate-owned campaign sources; party account anchored by the official party finance record. No transactions reproduced."
+    }
+  ],
+  "independentReview": {
+    "report": "martin-2026-review.json",
+    "status": "completed",
+    "resolvedFindings": 13,
+    "remainingEditorialBlockers": [],
+    "reviewedFileHashesRechecked": 17
+  },
+  "preview": {
+    "manuallyStarted": true,
+    "stoppedAfterChecks": true,
+    "port": 4321,
+    "portClosed": true
+  },
+  "browserEnvironment": {
+    "chromiumVersion": "153.0.8010.12",
+    "playwrightRevision": 1243,
+    "PLAYWRIGHT_BROWSERS_PATH": "/tmp/uctomost-browsers",
+    "LD_LIBRARY_PATH": "/tmp/uctomost-browser-libs/usr/lib/x86_64-linux-gnu",
+    "TMPDIR": "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/.internal/martin/browser-tmp"
+  },
+  "resolvedCheckFailures": [
+    {
+      "check": "Browser setup",
+      "cause": "Chromium runtime initially missing; CDN download timed out; system /tmp quota also exhausted.",
+      "resolution": "Reused existing matching runtime and supplied an ignored worktree TMPDIR. Smoke and final full suite passed."
+    },
+    {
+      "check": "Two new browser assertions",
+      "cause": "Source-page navigation correctly retains selected candidates in URL; assertions incorrectly expected an empty query.",
+      "resolution": "Asserted source pathname and both selected candidate parameters; targeted tests and full suite passed."
+    },
+    {
+      "check": "External links",
+      "cause": "Legacy SAK directory URL returned 404 after migration.",
+      "resolution": "Current official human-readable directory and exact API record independently reopened and identity corroborated; final link gate has zero unreachable URLs."
+    }
+  ]
+}

@@ -348,5 +348,34 @@
       "status": "registered",
       "url": "https://transparentneucty.sk/#/ucet/SK5909000000005250618447"
     }
+  },
+  {
+    "id": "volt-slovensko",
+    "name": "Volt Slovensko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "registered",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6311000000002942304832"
+    }
+  },
+  {
+    "id": "bratia-slovenska",
+    "name": "Bratia Slovenska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "campaign-law-181-2014"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
   }
 ]

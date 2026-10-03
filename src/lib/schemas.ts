@@ -56,6 +56,7 @@ export interface Candidacy {
   ballotNumber: number;
   ageAtElection: number;
   occupationOfficial: string;
+  displayNameOfficial?: string;
   affiliations: string[];
   independent: boolean;
   sourceIds: string[];
@@ -200,6 +201,7 @@ export const candidacySchema = z.object({
   ballotNumber: z.number().int().positive(),
   ageAtElection: z.number().int().nonnegative(),
   occupationOfficial: requiredString,
+  displayNameOfficial: requiredString.optional(),
   affiliations: z.array(requiredString),
   independent: z.boolean(),
   sourceIds,

@@ -7,6 +7,7 @@ const { candidacy } = Astro.props;
 <article class="candidacy" data-candidacy data-election-id={candidacy.electionId} data-ballot-number={candidacy.ballotNumber}>
   <h3>{candidacy.election}</h3>
   <dl>
+    {candidacy.displayNameOfficial && <div><dt>Meno na kandidátnej listine</dt><dd>{candidacy.displayNameOfficial}</dd></div>}
     <div><dt>Číslo na hlasovacom lístku</dt><dd>{candidacy.ballotNumber}</dd></div>
     <div><dt>Vek</dt><dd>{candidacy.ageAtElection} rokov</dd></div>
     <div><dt>Povolanie</dt><dd>{candidacy.occupationOfficial}</dd></div>

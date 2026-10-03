@@ -1,0 +1,401 @@
+{
+  "reviewer": "/root/martin_review",
+  "status": "completed",
+  "baseline": "bf7b081",
+  "reviewedSnapshotDate": "2026-10-03T16:50:32Z",
+  "scope": "Independent read-only editorial/data/code review against bf7b081; only private review report files written.",
+  "finalCounts": {
+    "newPeople": 117,
+    "martinPeopleWithSharedChairs": 124,
+    "newCandidacies": 148,
+    "martinCandidacies": 155,
+    "newClaims": 376,
+    "newCoverageRecords": 936,
+    "pendingRecords": 0,
+    "newSources": 114,
+    "pollingStations": 52,
+    "historicalResultClaimsIndependentlyValidated": 102
+  },
+  "findings": [
+    {
+      "id": "rpvs-hlavaty-role",
+      "priority": "P1",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/claims.json"
+      ],
+      "recordIds": [
+        "mt-milos-hlavaty-employment_business-2"
+      ],
+      "issue": "Draft assigned Hlavatý to the presidency instead of the control commission.",
+      "independentEvidence": {
+        "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/218728",
+        "page": 3,
+        "text": "Kontrolná komisia má 3 členov; following name is Miloš Hlavatý. IČO 53064909; document signed 9 January 2025."
+      },
+      "resolution": "Corrected to control commission; full claim wording locked by regression test. Identity confirmed by Turany and age/year-of-birth consistency with official 2026 regional list."
+    },
+    {
+      "id": "jesenska-conflicting-residence",
+      "priority": "P1",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/claims.json",
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/research/martin-2026.json"
+      ],
+      "recordIds": [
+        "mt-martina-jesenska-2022-municipal_council",
+        "mt-martina-jesenska-culture-commission"
+      ],
+      "issue": "2022 Martin and current Martin-commission records were joined to a 2026 Belá-Dulice resident without an independent bridge.",
+      "independentEvidence": {
+        "urls": [
+          "https://www.martin.sk/assets/File.ashx?id_dokumenty=110050&id_org=700031",
+          "https://volby.statistics.sk/opendata/oso/2022/OSO2022_SK_tab0bd.csv",
+          "https://www.martin.sk/komisie-mestskeho-zastupitelstva/os-1062"
+        ],
+        "evidence": "2026 regional list: age 55, Belá - Dulice, kulturologička. 2022 record: age 51, Martin. Commission roster lacks the attributes needed to resolve this conflict."
+      },
+      "resolution": "Both disputed joins removed; bounded search/exclusion recorded; regression test prevents reintroduction."
+    },
+    {
+      "id": "historical-municipality-office",
+      "priority": "P2",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/claims.json"
+      ],
+      "recordIds": [
+        "mt-dana-cervanova-city-council-result-2022",
+        "mt-juraj-diabelko-city-council-result-2022",
+        "mt-tomas-kalnicky-city-council-result-2022",
+        "mt-tomas-kalnicky-mayor-result-2022",
+        "mt-roman-kubala-mayor-result-2022",
+        "mt-lucia-omamikova-city-council-result-2022"
+      ],
+      "issue": "Draft generic Martin/city-office wording misstated six records from Sučany, Vrútky, Belá-Dulice, Bystrička and Turany.",
+      "independentEvidence": {
+        "sources": [
+          "OSO2022_SK_tab0ad.csv",
+          "OSO2022_SK_tab0bd.csv",
+          "OSO2022_SK_tab05d.csv",
+          "OSO2022_SK_tab08e.csv"
+        ],
+        "evidence": "Fresh original CSV name, age, municipality, ballot and district joins confirmed the correct offices and municipalities."
+      },
+      "resolution": "All six full phrases corrected and independently validated; complete text and structured outcomes locked in the 102-record golden fixture."
+    },
+    {
+      "id": "occupation-list-dates",
+      "priority": "P2",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/claims.json"
+      ],
+      "recordIds": [
+        "mt-andrea-baceova-ballot-occupation-1",
+        "mt-robert-kollar-ballot-occupation-1",
+        "mt-stanislav-sturik-ballot-occupation-1",
+        "mt-stefan-balosak-ballot-occupation-1",
+        "mt-marian-ferenc-ballot-occupation-1",
+        "mt-veronika-hrklova-ballot-occupation-1",
+        "mt-peter-junas-ballot-occupation-1",
+        "mt-peter-matejka-ballot-occupation-1",
+        "mt-marian-zajasensky-ballot-occupation-1"
+      ],
+      "issue": "Draft attributed district 3/4 occupations to the 8 September lists.",
+      "independentEvidence": {
+        "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109999&id_org=700031",
+        "evidence": "District 3 signature footer, page 6: 9 September 2026. District 4 footer, page 8: 10 September 2026."
+      },
+      "resolution": "Periods corrected to 9/10 September; municipality-wide and per-ballot dates reconciled; regression test covers affected occupation claims."
+    },
+    {
+      "id": "polling-inferred-districts",
+      "priority": "P2",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/districts.json",
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/municipalities/martin/polling-stations.json",
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/pages/[city]/[year]/ako-volit.astro"
+      ],
+      "recordIds": [],
+      "issue": "Street-quarter and room-address matching inferred district assignments absent from the precinct documents; omission of precinct 19 also hid a valid official row.",
+      "independentEvidence": {
+        "urls": [
+          "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+          "https://www.martin.sk/assets/File.ashx?id_dokumenty=110158&id_org=700031"
+        ],
+        "evidence": "109474 gives 52 city-wide precinct rows without electoral district assignments. 110158 assigns town-only residents by surname to precincts 13, 24, 36, 46 and does not assign districts."
+      },
+      "resolution": "All 52 original precinct rows preserved in a city-wide JSON/list; district polling arrays empty; guide states the limitation with both direct official links. Every row independently compared with fresh PDF layout."
+    },
+    {
+      "id": "commissions-canonical-duplicate",
+      "priority": "P2",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/sources.json",
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/claims.json",
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/research/martin-2026.json"
+      ],
+      "recordIds": [
+        "mt-city-commissions-current",
+        "mt-martin-commissions-current"
+      ],
+      "issue": "Two URL variants represented the same canonical commission page.",
+      "independentEvidence": {
+        "url": "https://www.martin.sk/komisie-mestskeho-zastupitelstva/os-1062",
+        "evidence": "Fresh HTML at both variants declares this canonical link and the same original page title."
+      },
+      "resolution": "Merged to one canonical source and remapped all claims/receipts; original approved source records unchanged."
+    },
+    {
+      "id": "polling-original-title",
+      "priority": "P3",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/sources.json"
+      ],
+      "recordIds": [
+        "mt-city-polling-2026"
+      ],
+      "issue": "Draft title described the precinct table but did not preserve the actual document heading.",
+      "independentEvidence": {
+        "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+        "evidence": "Fresh PDF heading is the official information about election time and place."
+      },
+      "resolution": "Original uppercase heading restored and regression locked."
+    },
+    {
+      "id": "media-positive-coverage",
+      "priority": "P2",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/claims.json",
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/research-coverage.json"
+      ],
+      "recordIds": [
+        "mt-jan-danko",
+        "mt-peter-kasuba",
+        "mt-juraj-marcek",
+        "mt-veronika-gajdosova-ladnakova"
+      ],
+      "issue": "Some positive media coverage pointed to sources without a media-category claim.",
+      "independentEvidence": {
+        "evidence": "Draft release validator exposed Danko/Kašuba; original articles were independently reopened, including TASR 2019, STVR 2025 and Aktuality 2025."
+      },
+      "resolution": "Relevant existing dated reports moved to media or a distinct supported report retained; final release validator reports zero issues. Allegations and responses remain separately attributed."
+    },
+    {
+      "id": "duplicate-vons-kozak-reports",
+      "priority": "P3",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/claims.json"
+      ],
+      "recordIds": [
+        "mt-peter-vons-media-dennikn2018",
+        "mt-peter-vons-status2013-report",
+        "mt-zdenko-kozak-media-hall",
+        "mt-zdenko-kozak-hall-report"
+      ],
+      "issue": "Draft duplicated the same event report with cosmetic wording changes in media and controversies.",
+      "independentEvidence": {
+        "urls": [
+          "https://dennikn.sk/1274149/kandidat-na-primatora-sa-tesil-z-vitazstva-kotlebu-a-klamal-o-tom-remisova-stiahla-podporne-video/",
+          "https://spravy.stvr.sk/2026/04/vojna-boxerov-s-dzudistami-spor-o-sportovu-halu-v-martine-eskaluje-a-moze-otvorit-pandorinu-skrinku/"
+        ],
+        "evidence": "Signed original reports independently reopened; Vons response is historical, Kozák statement concerns filing at court, neither proves a final outcome."
+      },
+      "resolution": "One exact report per event kept in media, separate response in controversies; regression verifies both."
+    },
+    {
+      "id": "registered-role-primary-register",
+      "priority": "P2",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/sources.json",
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/claims.json"
+      ],
+      "recordIds": [
+        "mt-michal-kral-registered-executive-2022-09-21",
+        "mt-marian-polacek-registered-executive-2024-10-30"
+      ],
+      "issue": "Draft relied only on registration announcements for registered company roles.",
+      "independentEvidence": {
+        "urls": [
+          "https://www.orsr.sk/vypis.asp?ID=142549&SID=5&P=1",
+          "https://www.orsr.sk/vypis.asp?ID=663855&SID=5&P=1",
+          "https://www.orsr.sk/vypis.asp?ID=564047&SID=5&P=1"
+        ],
+        "evidence": "Fresh ORSR responses were HTTP 200 and corroborated Georex/IČO 44474458/start 29 November 2008, LOTIQ/IČO 55526667/start 15 June 2023, and the Martin social enterprise/IČO 53584244."
+      },
+      "resolution": "Applicable ORSR sources reopened and recorded. Public statements remain bounded to their original document dates and do not infer employment or personal income."
+    },
+    {
+      "id": "complete-historical-regression",
+      "priority": "P2",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/tests/fixtures/martin-historical-results.json",
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/tests/unit/martin-review-regressions.test.ts"
+      ],
+      "recordIds": [],
+      "issue": "Draft lacked regression locks for every new complete election-result phrase.",
+      "independentEvidence": {
+        "evidence": "Independent review freshly reopened six 2022 CSV tables plus the NR SR 2023 ballot/result source and validated all 102 final records. Golden fixture equals the independently validated array exactly."
+      },
+      "resolution": "Full text, period and structured outcome locked, covering elected, not elected and substitute phrases; no substring outcome checks."
+    },
+    {
+      "id": "omamikova-institutional-evidence",
+      "priority": "P2",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/claims.json",
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/research/martin-2026.json"
+      ],
+      "recordIds": [
+        "mt-lucia-omamikova-current-commission",
+        "mt-lucia-omamikova-pharmacy-role"
+      ],
+      "issue": "Independent search identified additional accessible public-office/employment evidence for Omámiková.",
+      "independentEvidence": {
+        "urls": [
+          "https://www.turany.sk/mestska-rada-a-komisie-msz/mid/480232/md0/5/md1/2026/.html",
+          "https://www.drmax.sk/lekarne/turany-komenskeho-1120"
+        ],
+        "evidence": "Current municipal page explicitly lists the social-health commission membership. Pharmacy institution directly lists full name/titles and head pharmacist role; Turany plus pharmacy field match official 2026 identity."
+      },
+      "resolution": "Commission and date-bounded pharmacy role integrated. No personal contacts or address identity evidence published."
+    },
+    {
+      "id": "sak-current-directory-link",
+      "priority": "P2",
+      "status": "resolved",
+      "files": [
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/sources.json",
+        "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/research/martin-2026.json"
+      ],
+      "recordIds": [
+        "mt-vladimir-zaborsky-sak",
+        "mt-vladimir-zaborsky-sak-advokat-current",
+        "mt-vladimir-zaborsky-current-commission"
+      ],
+      "issue": "Legacy SAK directory URL ceased resolving after a site migration and could not support the current register source link.",
+      "independentEvidence": {
+        "urls": [
+          "https://www.sak.sk/zoznam-advokatov/?sak_type=lawyers&sak_id=3905",
+          "https://www.sak.sk/wp-json/sak/v1/lawyers/3905",
+          "https://www.martin.sk/komisie-mestskeho-zastupitelstva/os-1062"
+        ],
+        "evidence": "Fresh native Node fetch independently returned GET200 for the human-readable SAK page and exact API. Page title is Zoznam advokátov | SAK | Slovenská advokátska komora. API explicitly confirms registrationNumber 3905, ZÁBORSKÝ Vladimír JUDr., type Advokát and office municipality Martin. Fresh canonical commission page also confirms JUDr. Vladimír Záborský and the stated commission membership. Name, title, municipality and profession bridge to the official 2026 ballot. No contacts or address details reproduced.",
+        "apiSha256": "c7ec4d6e41dbde7375b1444f353246670d4b26d72e025ce3eb046b6bac5acda3"
+      },
+      "resolution": "Replaced the obsolete source URL with the current official human-readable directory link; retained original heading and added the exact API identity receipt. Public register and commission wording remains date-bounded."
+    }
+  ],
+  "remainingEditorialBlockers": [],
+  "verification": {
+    "targetedMartinTests": {
+      "command": "npm test -- tests/unit/martin-review-regressions.test.ts tests/unit/official-ballot-name.test.ts tests/unit/martin-roster.test.ts",
+      "exitCode": 0,
+      "summary": "3 files, 17 tests passed"
+    },
+    "validateData": {
+      "command": "npm run validate:data",
+      "exitCode": 0,
+      "summary": "cycles=1 contexts=3 published=3 issues=0"
+    },
+    "validateRelease": {
+      "command": "npm run validate:release",
+      "exitCode": 0,
+      "summary": "cycles=1 contexts=3 published=3 issues=0",
+      "afterFinalSourceCorrection": true
+    },
+    "diffCheck": {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "afterFinalSourceCorrection": true
+    },
+    "originalRecords": "Independent JSON comparisons and the targeted hash fixture confirm every approved original candidate, candidacy, claim, coverage, finance, party-finance, district, election and source record remains unchanged."
+  },
+  "highRiskChecks": {
+    "finance": "Fresh candidate campaign pages and MV register independently confirm the three verified account links: Ftorek, Turzo, Hubáček. Danko/Habrunová/Petráš name-only matches remain unverified without public bank URLs. No new amounts inferred.",
+    "quotes": "Four quotation claims reopened and exact excerpts/context checked; each distinct source contributes fewer than 25 quoted words. Programme restatements remain attributed intentions, including the explicitly historical 2018 Gergišáková statement.",
+    "business": "RPVS roles, IČO and document dates independently checked for Stahl, Vaňko, Markovič, Hlavatý and Danko; ORSR sources reopened where applicable. RMNO Hrkľová chair/start date checked.",
+    "identity": "High-risk joins checked against name plus additional official attributes; the unresolved Jesenská municipality conflict excluded. Markovič RPVS organisational identity bridged by official MHA contact and TASR age/profession report. Final SAK source migration independently checked against live API registration 3905 and the canonical Martin commission list.",
+    "proceduralStatus": "Original signed Danko/Vons/Kozák and council dispute reporting reopened; allegations, responses and filing status are separate and attributed. No final legal outcome invented.",
+    "privacy": "No private addresses, full birth dates, personal contacts, personal identifiers or irrelevant family relationships were added to the public claims reviewed.",
+    "code": "Optional per-candidacy official display name preserves different ballot titles; old contexts without the field retain their prior rendering. City-wide polling rendering is gated to Martin/2026."
+  },
+  "limitations": [
+    "This independent review ran the targeted Martin tests and data/release validators. The root agent owns the full build, SEO, HTML, storage, links and end-to-end gates; this report does not claim those gates were independently executed here.",
+    "Negative research coverage remains a bounded documented search result, not evidence that information does not exist.",
+    "Browser access failed for several official URLs; independent read-only urllib and native Node fetch reopening succeeded for the official CSV, ORSR and PDF originals. No claim was reconstructed from a snippet.",
+    "No external deployment was performed by this reviewer."
+  ],
+  "reviewedFileSha256": {
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/sources.json": "74a36bdde8d13544fb784088ddc101c359690e4c52613b593eb1f0d2f06988c1",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/claims.json": "d7e6bbd2979dd73e6cbe16714462b04420406489e453c34cad1955f0ddc1b8c8",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/candidates.json": "2d8ff414b34537f9a34b22750ffe6f9b7556c12191fded5289276a4bf60b6b63",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/candidacies.json": "d67cf92dd5a65785d8dd874e9fa80df08663eb670adf4480f5748c1c23b749c3",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/research-coverage.json": "43a7ffff21c69bc280a1efeab3cb2b9c8e20c464778dd80cf8fa648f7aa87b44",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/districts.json": "a26587524869ea8b7b1db191844121ad4cfbda9fec5fffc633f53b7ec67c86e5",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/campaign-finance.json": "fc0aca53a53c266636d78523a4cd9f6df49dc3d2fd7d16f60e07547f384e5d51",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/municipalities/martin/config.json": "f566cb06efcfa238bddf334325b2ea2f43fe0ade8e0dfbeae31dda5cf6315ffa",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/data/elections/2026/zilinsky-kraj/municipalities/martin/polling-stations.json": "cd5732221444d218c871ebf10773e83c58c1246aa2f14fa5335d66bde6b3e971",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/research/martin-2026.json": "fda4ea9209ae2d71483b256958d4c688f861b59dcc7903a5a16560ea97a1859e",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/pages/[city]/[year]/ako-volit.astro": "cb261e20e610e2ab68de72d6efac856d878cddb3343e2ec23bb643c693f869fc",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/lib/schemas.ts": "0e4bffd4a36fcd76bf917f806db64bbab5ab803c28f7b8836aea44413a7e2f7e",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/lib/official-facts.ts": "0ad7ffa88f2efd04e745a627d2335c276b452dcfe660176dad7914f20a1380b6",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/components/CandidateCard.astro": "05e4567161560514e5f9b3000cc2a02ca74cc5c683fcb314142faecc4aaf6d74",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/src/components/CandidacyFacts.astro": "e38eba8b48bfb8faefacc01d4cba3885c856e8a7a6724373cbda29768661978b",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/tests/fixtures/martin-historical-results.json": "06b50aa12f9ba108fbe956281fed5206beb53603d2054793f21d75f3f54ebca2",
+    "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/tests/fixtures/martin-polling-stations-2026.json": "cd5732221444d218c871ebf10773e83c58c1246aa2f14fa5335d66bde6b3e971"
+  },
+  "historicalValidation": {
+    "checkedAt": "2026-10-03",
+    "method": "Six official CSV tables freshly reopened and SHA matched against captures; independently decoded raw CSV and joined name+age+municipality with 2026 official lists. Complete outcome phrase, votes, percentage, office, municipality and district verified. Original claims preserved for full-text golden fixture. Regional residence values independently read from fresh PDF 110050.",
+    "sourceManifest": {
+      "OSO2022_SK_tab0ad": {
+        "url": "https://volby.statistics.sk/opendata/oso/2022/OSO2022_SK_tab0ad.csv",
+        "sha256": "4895221955828c2faca6cf7b0de2d5a7ddc7bbb494951591595486505c710251",
+        "freshReopenMatchesCapture": true,
+        "rowCount": 6750
+      },
+      "OSO2022_SK_tab05d": {
+        "url": "https://volby.statistics.sk/opendata/oso/2022/OSO2022_SK_tab05d.csv",
+        "sha256": "041c43f0e3f95b6515fb1da6952118d0ed32cda13707e296b2508fddc0ba0acf",
+        "freshReopenMatchesCapture": true,
+        "rowCount": 6745
+      },
+      "OSO2022_SK_tab0bd": {
+        "url": "https://volby.statistics.sk/opendata/oso/2022/OSO2022_SK_tab0bd.csv",
+        "sha256": "7cd395ce3ae6bb076b5be2c0f9a34c8d91106127b33e21a64f44c2660244ecf3",
+        "freshReopenMatchesCapture": true,
+        "rowCount": 41614
+      },
+      "OSO2022_SK_tab08e": {
+        "url": "https://volby.statistics.sk/opendata/oso/2022/OSO2022_SK_tab08e.csv",
+        "sha256": "8021eff9eda544b16f4d2be2e9cf2174b94ce819c5ed02e4ffc2b9c59ff2044f",
+        "freshReopenMatchesCapture": true,
+        "rowCount": 41464
+      },
+      "OSK2022_SK_tab0b": {
+        "url": "https://volby.statistics.sk/opendata/osk/2022/OSK2022_SK_tab0b.csv",
+        "sha256": "1024c9ad9b76122f9749cce63b4809dfb529baccc17e748e152efc8799b78d33",
+        "freshReopenMatchesCapture": true,
+        "rowCount": 3064
+      },
+      "OSK2022_SK_tab09b": {
+        "url": "https://volby.statistics.sk/opendata/osk/2022/OSK2022_SK_tab09b.csv",
+        "sha256": "8335acc4bacdbdd0cc4e73c513c1f6ce2460e68c9fde5c5b41ec1d6303a41b59",
+        "freshReopenMatchesCapture": true,
+        "rowCount": 3059
+      }
+    },
+    "errors": []
+  }
+}

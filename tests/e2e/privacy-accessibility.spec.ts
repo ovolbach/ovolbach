@@ -4,7 +4,9 @@ import { expect, test } from '@playwright/test';
 const BASE = '/liptovsky-mikulas/2026/';
 const routes = ['/', BASE, `${BASE}kandidati/`, `${BASE}ako-volit/`, '/metodika/', '/zdroje/', `${BASE}zdroje/`,
   '/ruzomberok/2026/', '/ruzomberok/2026/kandidati/', '/ruzomberok/2026/ako-volit/',
-  '/ruzomberok/2026/zdroje/', '/ruzomberok/2026/kandidat/martin-alusic/', '/ruzomberok/2026/porovnat/'];
+  '/ruzomberok/2026/zdroje/', '/ruzomberok/2026/kandidat/martin-alusic/', '/ruzomberok/2026/porovnat/',
+  '/martin/2026/', '/martin/2026/kandidati/', '/martin/2026/ako-volit/', '/martin/2026/zdroje/',
+  '/martin/2026/kandidat/marek-belak/', '/martin/2026/porovnat/'];
 const LEGAL_NOTICE = 'Tento web nikoho nevyzýva, aby volil alebo nevolil konkrétneho kandidáta, politickú stranu alebo koalíciu.';
 
 for (const path of routes) {
