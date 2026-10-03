@@ -2,21 +2,23 @@
 import SourceLink from './SourceLink.astro';
 import { financeSourceIds, getFinanceDuties, partyFinanceSourceIds, reportDeadline } from '../lib/campaign-finance';
 import type { CampaignFinance, FinanceParty, Source } from '../lib/schemas';
+import type { OfficialCandidacy } from '../lib/official-facts';
 
-interface Props { record: CampaignFinance; parties: FinanceParty[]; sources: Source[] }
-const { record, parties, sources } = Astro.props;
+interface Props { record: CampaignFinance; parties: FinanceParty[]; sources: Source[]; partyNominations: OfficialCandidacy[]; hasIndependentCandidacy: boolean }
+const { record, parties, sources, partyNominations, hasIndependentCandidacy } = Astro.props;
+const hasPartyNomination = parties.length > 0;
 const duties = getFinanceDuties(record);
 const eligibleHead = record.headCandidacies.some((head) => head.office === 'region-chair' || (head.population ?? 0) > 5000);
 const dateSk = (value: string) => new Date(`${value}T00:00:00Z`).toLocaleDateString('sk-SK', { timeZone: 'UTC' });
 const deadline = reportDeadline(record.electionDate);
 const beforeDeadline = record.checkedAt <= deadline;
 const sourceIds = [...new Set([...financeSourceIds(record), ...parties.flatMap(partyFinanceSourceIds)])];
-const operatorLabels = { unknown: 'Z overených zdrojov nie je určené, či výdavky znáša kandidát, politická strana alebo obaja.', candidate: 'Kandidát.', party: 'Politická strana.', both: 'Kandidát aj politická strana.', none: 'Kampaň sa nevedie.' };
+const operatorLabels = { unknown: hasPartyNomination ? 'Z overených zdrojov nie je určené, či výdavky znáša kandidát, politická strana alebo obaja.' : 'Z overených zdrojov nie je určené, či kandidát vynakladá prostriedky na vlastnú kampaň.', candidate: 'Kandidát.', party: 'Politická strana.', both: 'Kandidát aj politická strana.', none: 'Kampaň sa nevedie.' };
 const accountText = !eligibleHead
   ? 'Pre samostatnú poslaneckú kandidatúru sa nevyžaduje. Kandidát na starostu alebo primátora obce do 5 000 obyvateľov tiež nemá túto povinnosť.'
   : duties.account === 'required' ? 'Vyžaduje sa pre vlastné financovanie kampane.'
   : duties.account === 'not_required' ? 'Nevyžaduje sa, ak kandidát nevynakladá žiadne prostriedky na vlastnú kampaň.'
-  : 'Vyžaduje sa, ak kandidát vynakladá prostriedky na vlastnú kampaň. Samotná nominácia stranou neurčuje, kto kampaň financuje.';
+  : `Vyžaduje sa, ak kandidát vynakladá prostriedky na vlastnú kampaň.${hasPartyNomination ? ' Samotná nominácia stranou neurčuje, kto kampaň financuje.' : ''}`;
 const reportText = !eligibleHead
   ? 'Pre samostatnú poslaneckú kandidatúru sa nevyžaduje verejná správa kandidáta podľa § 6 ods. 15. Táto povinnosť sa nevzťahuje ani na starostu alebo primátora obce do 5 000 obyvateľov.'
   : duties.report === 'required' ? 'Vyžaduje sa verejná správa kandidáta podľa § 6 ods. 15.'
@@ -52,9 +54,10 @@ const reportText = !eligibleHead
     </div>
   </dl>
 
-  <h3>Transparentné účty a správy politických strán</h3>
-  {parties.length === 0 ? <p>V overených kandidátnych listinách nie je uvedená nominujúca politická strana.</p> : (
+  {hasPartyNomination && (
     <>
+      <h3>Transparentné účty a správy politických strán</h3>
+      {hasIndependentCandidacy && <p data-party-nominations>Stranícke nominácie tohto kandidáta: {partyNominations.map((nomination) => `${nomination.election} — ${nomination.affiliation}`).join('; ')}. V ďalšej overenej kandidatúre vystupuje ako nezávislý kandidát.</p>}
       <p>Uvedené sú strany z overených nominácií. Odkaz na účet strany nepotvrdzuje financovanie tohto kandidáta; transakcie celej strany nemožno priradiť jednému kandidátovi.</p>
       <ul class="campaign-finance__parties">
         {parties.map((party) => (
@@ -69,7 +72,7 @@ const reportText = !eligibleHead
   )}
 
   <h3>Právny základ a rozsah overenia</h3>
-  <p>Zákon č. 181/2014 Z. z. o volebnej kampani, znenie účinné od 1. 8. 2022: účet kandidáta § 6 ods. 8 a 9; správa kandidáta § 6 ods. 15; vlastná kampaň straníckeho kandidáta § 6 ods. 17; účet a správa strany § 7 ods. 1 v spojení s § 3 ods. 2 až 9 a § 4.</p>
+  <p>Zákon č. 181/2014 Z. z. o volebnej kampani, znenie účinné od 1. 8. 2022: účet kandidáta § 6 ods. 8 a 9; správa kandidáta § 6 ods. 15.{hasPartyNomination && ' Vlastná kampaň straníckeho kandidáta § 6 ods. 17; účet a správa strany § 7 ods. 1 v spojení s § 3 ods. 2 až 9 a § 4.'}</p>
   {record.headCandidacies.length > 0 && (
     <>
       <p>Overené kandidatúry na funkciu predsedu kraja, starostu alebo primátora, ktoré vstupujú do posúdenia:</p>

@@ -2,6 +2,34 @@ import { expect, test } from '@playwright/test';
 import candidates from '../../src/data/elections/2026/zilinsky-kraj/candidates.json' with { type: 'json' };
 
 const BASE = '/liptovsky-mikulas/2026/kandidat/';
+test('independent-only profiles expose candidate finance without a party-account alternative', async ({ page }) => {
+  const independentSlugs = ['matej-blanar', 'lucia-cukerova', 'gabriel-slavkovsky', 'andrea-zidekova', 'juraj-paska', 'michal-paska', 'peter-bonko', 'marian-matejka', 'peter-gartner', 'marta-jancusova', 'lucia-zahorska', 'tomas-martaus', 'petra-mudronova', 'juraj-piatka', 'branislav-treger', 'martin-kapitulik'];
+  for (const slug of independentSlugs) {
+    await page.goto(`${BASE}${slug}/`);
+    const finance = page.locator('[data-campaign-finance]');
+    await expect(finance.getByRole('heading', { name: 'Transparentné účty a správy politických strán' })).toHaveCount(0);
+    await expect(finance.locator('[data-party-account]')).toHaveCount(0);
+    await expect(finance).not.toContainText('či výdavky znáša kandidát, politická strana alebo obaja');
+    await expect(finance).not.toContainText('Samotná nominácia stranou');
+    await expect(finance).not.toContainText('účet a správa strany');
+    await expect(finance.locator('a[href*="najcastejsie-otazky-a-odpovede-pre-politicke-strany"]')).toHaveCount(0);
+    await expect(finance).toContainText('Transparentný účet kandidáta');
+    await expect(finance).toContainText('§ 6 ods. 8');
+  }
+  await page.goto(`${BASE}martin-kapitulik/`);
+  await expect(page.locator('[data-personal-account]')).toHaveCount(1);
+  await expect(page.locator('[data-finance-report-duty]')).toHaveAttribute('data-finance-report-duty', 'required');
+  await page.goto(`${BASE}peter-bonko/`);
+  await expect(page.locator('[data-campaign-finance]')).toContainText('Pre samostatnú poslaneckú kandidatúru sa nevyžaduje');
+});
+test('mixed candidacies retain party accounts with the specific party nomination', async ({ page }) => {
+  await page.goto(`${BASE}tomas-medved/`);
+  const finance = page.locator('[data-campaign-finance]');
+  await expect(finance.locator('[data-party-account]')).toHaveCount(2);
+  await expect(finance.locator('[data-party-nominations]')).toContainText('Voľby do Mestského zastupiteľstva mesta Liptovský Mikuláš');
+  await expect(finance.locator('[data-party-nominations]')).toContainText('Hlas - sociálna demokracia, Smer - sociálna demokracia');
+  await expect(finance.locator('[data-party-nominations]')).not.toContainText('Voľby poslancov do zastupiteľstva Žilinského samosprávneho kraja');
+});
 test('finance distinguishes personal and coalition accounts and shows the sourced reporting deadline', async ({ page }) => {
   await page.goto(`${BASE}jan-blchac/`);
   const finance = page.locator('[data-campaign-finance]');
