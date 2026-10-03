@@ -4,7 +4,9 @@ import { expect, test } from '@playwright/test';
 const BASE = '/liptovsky-mikulas/2026/';
 const routes = ['/', BASE, `${BASE}kandidati/`, `${BASE}ako-volit/`, '/metodika/', '/zdroje/', `${BASE}zdroje/`,
   '/ruzomberok/2026/', '/ruzomberok/2026/kandidati/', '/ruzomberok/2026/ako-volit/',
-  '/ruzomberok/2026/zdroje/', '/ruzomberok/2026/kandidat/martin-alusic/', '/ruzomberok/2026/porovnat/'];
+  '/ruzomberok/2026/zdroje/', '/ruzomberok/2026/kandidat/martin-alusic/', '/ruzomberok/2026/porovnat/',
+  '/zilina/2026/', '/zilina/2026/kandidati/', '/zilina/2026/ako-volit/',
+  '/zilina/2026/zdroje/', '/zilina/2026/kandidat/peter-cibulka/', '/zilina/2026/porovnat/'];
 const LEGAL_NOTICE = 'Tento web nikoho nevyzýva, aby volil alebo nevolil konkrétneho kandidáta, politickú stranu alebo koalíciu.';
 
 for (const path of routes) {
@@ -42,6 +44,7 @@ test('search is keyboard usable, loads only on focus, and returns candidate and 
   await expect(page.locator('[data-search-status]')).toContainText('Výsledky hľadania');
   await expect(page.locator('[data-search-results] a[href="/liptovsky-mikulas/2026/kandidat/milan-pova/"]')).toBeVisible();
   await expect(page.locator('[data-search-results] a[href="/ruzomberok/2026/kandidat/milan-pova/"]')).toBeVisible();
+  await expect(page.locator('[data-search-results] a[href="/zilina/2026/kandidat/milan-pova/"]')).toBeVisible();
   await input.fill('Dátum vydania');
   const sourceResult = page.locator(`[data-search-results] a[href^="${BASE}zdroje/"]`).first();
   await expect(sourceResult).toBeVisible();

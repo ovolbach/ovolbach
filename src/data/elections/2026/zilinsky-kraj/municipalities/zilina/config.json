@@ -1,0 +1,20 @@
+{
+  "cityName": "Žilina",
+  "status": "published",
+  "snapshotDate": "2026-10-03",
+  "cityDistrictIds": [
+    "2026-za-city-1",
+    "2026-za-city-2",
+    "2026-za-city-3",
+    "2026-za-city-4",
+    "2026-za-city-5",
+    "2026-za-city-6",
+    "2026-za-city-7",
+    "2026-za-city-8"
+  ],
+  "regionalDistrictId": "2026-zsk-region-11",
+  "contestIds": {
+    "mayor": "2026-za-mayor",
+    "city-council": "2026-za-city-council"
+  }
+}

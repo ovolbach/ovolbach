@@ -57,6 +57,7 @@ test('search is global in the catalogue and city/year-scoped inside a guide', as
   await page.getByRole('searchbox').fill('Milan POVA');
   await expect(page.locator('[data-search-results] a[href="/liptovsky-mikulas/2026/kandidat/milan-pova/"]')).toBeVisible();
   await expect(page.locator('[data-search-results] a[href="/ruzomberok/2026/kandidat/milan-pova/"]')).toBeVisible();
+  await expect(page.locator('[data-search-results] a[href="/zilina/2026/kandidat/milan-pova/"]')).toBeVisible();
   await page.goto('/liptovsky-mikulas/2026/');
   await page.getByRole('searchbox').fill('Dátum vydania');
   await expect(page.locator('[data-search-results] a').first()).toBeVisible();

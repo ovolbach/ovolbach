@@ -24,7 +24,9 @@ export function candidateSeoMetadata(
   const title = `${hasNamesake ? candidate.displayName : plainName} | ${cityName} ${year}`;
 
   const district = primary.district ? `, ${primary.district.toLowerCase()}` : '';
-  const base = `${candidate.displayName}: ${ELECTION_LABELS[primary.electionId]}, ${cityName} ${year}${district}.`;
+  const electionContext = `${ELECTION_LABELS[primary.electionId]}, ${cityName} ${year}${district}.`;
+  const fullBase = `${candidate.displayName}: ${electionContext}`;
+  const base = fullBase.length <= 165 ? fullBase : `${plainName}: ${electionContext}`;
   const subject = primary.affiliation ? ` Navrhujúci subjekt / postavenie: ${primary.affiliation}.` : '';
   const occupation = ` Povolanie v zozname: ${primary.occupationOfficial}.`;
   const description = base.length + subject.length + occupation.length <= 165

@@ -348,5 +348,47 @@
       "status": "registered",
       "url": "https://transparentneucty.sk/#/ucet/SK5909000000005250618447"
     }
+  },
+  {
+    "id": "piratska-strana-slovensko",
+    "name": "Pirátska strana - Slovensko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "za-council-roster-2026"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "spolocne-obcania-slovenska",
+    "name": "Spoločne občania Slovenska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "za-council-roster-2026"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
+  },
+  {
+    "id": "zivot-narodna-strana",
+    "name": "Život - národná strana",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "campaign-accounts-parties-2026",
+      "campaign-faq-parties-2026",
+      "za-regional-roster-2026"
+    ],
+    "account": {
+      "status": "not_listed"
+    }
   }
 ]

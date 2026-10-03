@@ -76,5 +76,31 @@
     "sourceIds": [
       "rk-city-council-roster-2026"
     ]
+  },
+  {
+    "id": "mayor",
+    "contestId": "2026-za-mayor",
+    "title": {
+      "sk": "Voľby primátora mesta Žilina"
+    },
+    "level": "city",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "za-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "city-council",
+    "contestId": "2026-za-city-council",
+    "title": {
+      "sk": "Voľby do Mestského zastupiteľstva mesta Žilina"
+    },
+    "level": "city",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "za-council-roster-2026"
+    ]
   }
 ]

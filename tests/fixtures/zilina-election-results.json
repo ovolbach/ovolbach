@@ -1,0 +1,3637 @@
+[
+  {
+    "id": "claim-za-zuzana-balogova-city-result-2022",
+    "candidateId": "za-zuzana-balogova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 1 získala 989 hlasov (7,27 %) a bola zvolená."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-matus-brath-city-result-2022",
+    "candidateId": "za-matus-brath",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 1 získal 596 hlasov (4,38 %) a nebol zvolený a výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-karol-cepec-city-result-2022",
+    "candidateId": "za-karol-cepec",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 1 získal 1 088 hlasov (7,99 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-karol-cepec-region-result-2022",
+    "candidateId": "za-karol-cepec",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získal 5 962 hlasov (1,70 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-peter-durmis-city-result-2022",
+    "candidateId": "za-peter-durmis",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 1 získal 983 hlasov (7,22 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-peter-durmis-region-result-2022",
+    "candidateId": "za-peter-durmis",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získal 7 449 hlasov (2,12 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-marian-horvat-city-result-2022",
+    "candidateId": "za-marian-horvat",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 8 získal 87 hlasov (1,51 %) a nebol zvolený a výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-ludmila-chodelkova-city-result-2022",
+    "candidateId": "za-ludmila-chodelkova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 1 získala 1 254 hlasov (9,21 %) a bola zvolená."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-ludmila-chodelkova-region-result-2022",
+    "candidateId": "za-ludmila-chodelkova",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získala 7 071 hlasov (2,02 %) a bola zvolená."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-rastislav-johanes-region-result-2022",
+    "candidateId": "za-rastislav-johanes",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získal 8 508 hlasov (2,43 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-michal-kostelny-city-result-2022",
+    "candidateId": "za-michal-kostelny",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 1 získal 482 hlasov (3,54 %) a nebol zvolený a výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-pavol-slota-city-result-2022",
+    "candidateId": "za-pavol-slota",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 2 získal 539 hlasov (5,02 %) a nebol zvolený a výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-pavol-slota-region-result-2022",
+    "candidateId": "za-pavol-slota",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získal 6 400 hlasov (1,82 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-pavol-slota-mayor-result-2022",
+    "candidateId": "za-pavol-slota",
+    "text": {
+      "sk": "Vo voľbách primátora Žiliny v roku 2022 získal 2 723 hlasov (10,63 %) a nebol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-janka-bacikova-city-result-2022",
+    "candidateId": "za-janka-bacikova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 4 získala 939 hlasov (3,57 %) a nebola zvolená a výsledková tabuľka ju uvádza ako náhradníčku."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-janka-bacikova-region-result-2022",
+    "candidateId": "za-janka-bacikova",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získala 4 351 hlasov (1,24 %) a nebola zvolená a oficiálny zoznam výsledkov ju uvádza ako náhradníčku."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-timotej-bernhauser-city-result-2022",
+    "candidateId": "za-timotej-bernhauser",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 2 získal 261 hlasov (2,43 %) a nebol zvolený a výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-timotej-bernhauser-mayor-result-2022",
+    "candidateId": "za-timotej-bernhauser",
+    "text": {
+      "sk": "Vo voľbách primátora Žiliny v roku 2022 získal 184 hlasov (0,71 %) a nebol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-cisarik-city-result-2022",
+    "candidateId": "za-jozef-cisarik",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 2 získal 390 hlasov (3,63 %) a nebol zvolený a výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-cisarik-region-result-2022",
+    "candidateId": "za-jozef-cisarik",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získal 2 144 hlasov (0,61 %) a nebol zvolený a oficiálny zoznam výsledkov ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-michal-chudik-city-result-2022",
+    "candidateId": "za-michal-chudik",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 2 získal 576 hlasov (5,37 %) a nebol zvolený a výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-jakub-kubik-region-result-2022",
+    "candidateId": "za-jakub-kubik",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získal 1 767 hlasov (0,50 %) a nebol zvolený a oficiálny zoznam výsledkov ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-dusan-manak-city-result-2022",
+    "candidateId": "za-dusan-manak",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 2 získal 927 hlasov (8,64 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-samuel-striezenec-city-result-2022",
+    "candidateId": "za-samuel-striezenec",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 2 získal 230 hlasov (2,14 %) a nebol zvolený a výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-sona-turcanyiova-city-result-2022",
+    "candidateId": "za-sona-turcanyiova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 2 získala 833 hlasov (7,76 %) a bola zvolená."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-sona-turcanyiova-region-result-2022",
+    "candidateId": "za-sona-turcanyiova",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získala 2 863 hlasov (0,81 %) a nebola zvolená a oficiálny zoznam výsledkov ju uvádza ako náhradníčku."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-lubomir-bechny-city-result-2022",
+    "candidateId": "za-lubomir-bechny",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 3 získal 1 530 hlasov (10,69 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-lubomir-bechny-region-result-2022",
+    "candidateId": "za-lubomir-bechny",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získal 6 881 hlasov (1,96 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-stanislav-boruta-city-result-2022",
+    "candidateId": "za-stanislav-boruta",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 2 získal 402 hlasov (3,74 %) a nebol zvolený a výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-peter-cibulka-city-result-2022",
+    "candidateId": "za-peter-cibulka",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 3 získal 2 255 hlasov (15,76 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-peter-cibulka-region-result-2022",
+    "candidateId": "za-peter-cibulka",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získal 10 389 hlasov (2,97 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-peter-cibulka-mayor-result-2022",
+    "candidateId": "za-peter-cibulka",
+    "text": {
+      "sk": "Vo voľbách primátora Žiliny v roku 2022 získal 3 970 hlasov (15,51 %) a nebol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-eva-dobsovic-mjartan-city-result-2022",
+    "candidateId": "za-eva-dobsovic-mjartan",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 3 získala 316 hlasov (2,20 %) a nebola zvolená a výsledková tabuľka ju uvádza ako náhradníčku."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-dominik-hrinik-city-result-2022",
+    "candidateId": "za-dominik-hrinik",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2022 vo volebnom obvode č. 3 získal 1 554 hlasov (10,86 %) a bol zvolený."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-dominik-hrinik-region-result-2022",
+    "candidateId": "za-dominik-hrinik",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2022 vo volebnom obvode č. 11 získal 4 526 hlasov (1,29 %) a nebol zvolený a oficiálny zoznam výsledkov ho uvádza ako náhradníka."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-zuzana-balogova-city-result-2018",
+    "candidateId": "za-zuzana-balogova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 1 získala 1 131 hlasov (6,66 %) a bola zvolená."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-karol-cepec-city-result-2018",
+    "candidateId": "za-karol-cepec",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 4 získal 938 hlasov (2,99 %) a nebol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-peter-durmis-city-result-2018",
+    "candidateId": "za-peter-durmis",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 1 získal 1 055 hlasov (6,21 %) a bol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-marian-horvat-city-result-2018",
+    "candidateId": "za-marian-horvat",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 8 získal 249 hlasov (4,11 %) a nebol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-ludmila-chodelkova-city-result-2018",
+    "candidateId": "za-ludmila-chodelkova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 1 získala 1 539 hlasov (9,06 %) a bola zvolená."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-ludmila-chodelkova-mayor-result-2018",
+    "candidateId": "za-ludmila-chodelkova",
+    "text": {
+      "sk": "Vo voľbách primátora Žiliny v roku 2018 získala 2 548 hlasov (8,82 %) a nebola zvolená."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-mayor-2018",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-2018-tables"
+    ]
+  },
+  {
+    "id": "claim-za-rastislav-johanes-city-result-2018",
+    "candidateId": "za-rastislav-johanes",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 8 získal 890 hlasov (14,71 %) a bol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-katarina-kruzelova-city-result-2018",
+    "candidateId": "za-katarina-kruzelova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 1 získala 316 hlasov (1,86 %) a nebola zvolená."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-cisarik-city-result-2018",
+    "candidateId": "za-jozef-cisarik",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 2 získal 682 hlasov (5,01 %) a nebol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-dusan-manak-city-result-2018",
+    "candidateId": "za-dusan-manak",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 2 získal 1 170 hlasov (8,59 %) a bol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-sona-turcanyiova-city-result-2018",
+    "candidateId": "za-sona-turcanyiova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 2 získala 760 hlasov (5,58 %) a nebola zvolená."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-lubomir-bechny-city-result-2018",
+    "candidateId": "za-lubomir-bechny",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 3 získal 1 514 hlasov (9,08 %) a bol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-peter-cibulka-city-result-2018",
+    "candidateId": "za-peter-cibulka",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 3 získal 2 255 hlasov (13,52 %) a bol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-dominik-hrinik-city-result-2018",
+    "candidateId": "za-dominik-hrinik",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 vo volebnom obvode č. 3 získal 951 hlasov (5,70 %) a bol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-roster-2018",
+      "statistics-municipal-candidates-2018"
+    ]
+  },
+  {
+    "id": "claim-za-karol-cepec-region-result-2017",
+    "candidateId": "za-karol-cepec",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2017 vo volebnom obvode č. 11 získal 5 299 hlasov (1,61 %) a nebol zvolený a oficiálny zoznam ho uvádza ako náhradníka."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-peter-durmis-region-result-2017",
+    "candidateId": "za-peter-durmis",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2017 vo volebnom obvode č. 11 získal 5 981 hlasov (1,82 %) a nebol zvolený a oficiálny zoznam ho uvádza ako náhradníka."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-ludmila-chodelkova-region-result-2017",
+    "candidateId": "za-ludmila-chodelkova",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2017 vo volebnom obvode č. 11 získala 7 491 hlasov (2,28 %) a bola zvolená."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b"
+    ]
+  },
+  {
+    "id": "claim-za-pavol-mindek-region-result-2017",
+    "candidateId": "za-pavol-mindek",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2017 vo volebnom obvode č. 11 získal 2 385 hlasov (0,72 %) a nebol zvolený a oficiálny zoznam ho uvádza ako náhradníka."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-sona-turcanyiova-region-result-2017",
+    "candidateId": "za-sona-turcanyiova",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2017 vo volebnom obvode č. 11 získala 614 hlasov (0,18 %) a nebola zvolená a oficiálny zoznam ju uvádza ako náhradníčku."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-lubomir-bechny-region-result-2017",
+    "candidateId": "za-lubomir-bechny",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2017 vo volebnom obvode č. 11 získal 6 602 hlasov (2,01 %) a bol zvolený."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b"
+    ]
+  },
+  {
+    "id": "claim-za-peter-cibulka-region-result-2017",
+    "candidateId": "za-peter-cibulka",
+    "text": {
+      "sk": "Vo voľbách do Zastupiteľstva Žilinského samosprávneho kraja v roku 2017 vo volebnom obvode č. 11 získal 5 975 hlasov (1,82 %) a nebol zvolený a oficiálny zoznam ho uvádza ako náhradníka."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-peter-durmis-city-result-2014",
+    "candidateId": "za-peter-durmis",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2014 získal 957 hlasov a bol zvolený."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-kronika-2014",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "claim-za-ludmila-chodelkova-city-result-2014",
+    "candidateId": "za-ludmila-chodelkova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2014 získala 1 376 hlasov a bola zvolená."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-kronika-2014",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "claim-za-dusan-manak-city-result-2014",
+    "candidateId": "za-dusan-manak",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2014 získal 1 128 hlasov a bol zvolený."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-kronika-2014",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "claim-za-lubomir-bechny-city-result-2014",
+    "candidateId": "za-lubomir-bechny",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2014 získal 1 110 hlasov a bol zvolený."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-kronika-2014",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "claim-za-peter-cibulka-city-result-2014",
+    "candidateId": "za-peter-cibulka",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2014 získal 957 hlasov a bol zvolený."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-city-kronika-2014",
+      "statistics-municipal-elected-2014"
+    ]
+  },
+  {
+    "id": "claim-za-pavol-mindek-nr-result-2023",
+    "candidateId": "za-pavol-mindek",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady Slovenskej republiky v roku 2023 kandidoval za subjekt Vlastenecký blok, získal 23 prednostných hlasov a nebol zvolený."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "slovensko-national-council-2023",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-jakub-kubik-nr-result-2023",
+    "candidateId": "za-jakub-kubik",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady Slovenskej republiky v roku 2023 kandidoval za subjekt Demokrati, získal 350 prednostných hlasov a nebol zvolený."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "slovensko-national-council-2023",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-michal-svajda-nr-result-2023",
+    "candidateId": "za-michal-svajda",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady Slovenskej republiky v roku 2023 kandidoval za subjekt Progresívne Slovensko, získal 920 prednostných hlasov a nebol zvolený a výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "slovensko-national-council-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-pavol-slota-ep-result-2024",
+    "candidateId": "za-pavol-slota",
+    "text": {
+      "sk": "Vo voľbách do Európskeho parlamentu v roku 2024 kandidoval za subjekt REPUBLIKA, získal 5 207 prednostných hlasov a nebol zvolený; oficiálna výsledková tabuľka ho uvádza ako náhradníka."
+    },
+    "period": "2024",
+    "election": {
+      "contestId": "slovensko-european-parliament-2024",
+      "office": "european_parliament",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-ep-candidates-2024",
+      "statistics-ep-results-2024",
+      "za-a-ep-elected-2024"
+    ]
+  },
+  {
+    "id": "claim-za-b-miroslav-sokol-municipal-result-2022",
+    "candidateId": "za-miroslav-sokol",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 3; oficiálna tabuľka ho uvádza ako náhradníka s 873 hlasmi (6,10 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-miroslav-sokol-regional-result-2022",
+    "candidateId": "za-miroslav-sokol",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ho uvádza ako náhradníka s 2 225 hlasmi (0,63 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-frantisek-talapka-municipal-result-2022",
+    "candidateId": "za-frantisek-talapka",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 3 s 1 480 hlasmi (10,34 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-silvia-bakkery-municipal-result-2022",
+    "candidateId": "za-silvia-bakkery",
+    "text": {
+      "sk": "V roku 2022 nebola zvolená za poslankyňu Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4; oficiálna tabuľka ju uvádza ako náhradníčku s 555 hlasmi (2,11 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-silvia-bakkery-mayor-result-2022",
+    "candidateId": "za-silvia-bakkery",
+    "text": {
+      "sk": "V roku 2022 nebola zvolená za primátorku Žiliny s 668 hlasmi (2,60 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-silvia-bakkery-regional-result-2022",
+    "candidateId": "za-silvia-bakkery",
+    "text": {
+      "sk": "V roku 2022 nebola zvolená za poslankyňu Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ju uvádza ako náhradníčku s 3 430 hlasmi (0,98 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-martin-barcik-municipal-result-2022",
+    "candidateId": "za-martin-barcik",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4; oficiálna tabuľka ho uvádza ako náhradníka s 1 106 hlasmi (4,20 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-martin-barcik-regional-result-2022",
+    "candidateId": "za-martin-barcik",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ho uvádza ako náhradníka s 4 664 hlasmi (1,33 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-karol-haas-municipal-result-2022",
+    "candidateId": "za-karol-haas",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 1 602 hlasmi (6,09 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-karol-haas-regional-result-2022",
+    "candidateId": "za-karol-haas",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ho uvádza ako náhradníka s 4 244 hlasmi (1,21 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-robert-kassa-municipal-result-2022",
+    "candidateId": "za-robert-kassa",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 2 002 hlasmi (7,61 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-robert-kassa-regional-result-2022",
+    "candidateId": "za-robert-kassa",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11 s 7 498 hlasmi (2,14 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-bohumil-kostolny-municipal-result-2022",
+    "candidateId": "za-bohumil-kostolny",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4; oficiálna tabuľka ho uvádza ako náhradníka s 703 hlasmi (2,67 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-iveta-martinkova-municipal-result-2022",
+    "candidateId": "za-iveta-martinkova",
+    "text": {
+      "sk": "V roku 2022 bola zvolená za poslankyňu Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 2 113 hlasmi (8,04 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-iveta-martinkova-regional-result-2022",
+    "candidateId": "za-iveta-martinkova",
+    "text": {
+      "sk": "V roku 2022 nebola zvolená za poslankyňu Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ju uvádza ako náhradníčku s 4 257 hlasmi (1,21 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-darina-mikusova-municipal-result-2022",
+    "candidateId": "za-darina-mikusova",
+    "text": {
+      "sk": "V roku 2022 nebola zvolená za poslankyňu Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4; oficiálna tabuľka ju uvádza ako náhradníčku s 993 hlasmi (3,77 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-jan-rzeszoto-municipal-result-2022",
+    "candidateId": "za-jan-rzeszoto",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 1 937 hlasmi (7,37 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-jan-rzeszoto-mayor-result-2022",
+    "candidateId": "za-jan-rzeszoto",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za primátora Žiliny s 981 hlasmi (3,83 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-tomas-senko-municipal-result-2022",
+    "candidateId": "za-tomas-senko",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4; oficiálna tabuľka ho uvádza ako náhradníka s 469 hlasmi (1,78 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-tomas-senko-regional-result-2022",
+    "candidateId": "za-tomas-senko",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ho uvádza ako náhradníka s 1 661 hlasmi (0,47 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-ondrej-soska-municipal-result-2022",
+    "candidateId": "za-ondrej-soska",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 1 421 hlasmi (5,40 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-ondrej-soska-regional-result-2022",
+    "candidateId": "za-ondrej-soska",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ho uvádza ako náhradníka s 4 164 hlasmi (1,19 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-peter-cernan-municipal-result-2022",
+    "candidateId": "za-peter-cernan",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 5 s 607 hlasmi (12,06 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-viliam-groszman-municipal-result-2022",
+    "candidateId": "za-viliam-groszman",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 2; oficiálna tabuľka ho uvádza ako náhradníka s 169 hlasmi (1,57 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-marek-jamecny-municipal-result-2022",
+    "candidateId": "za-marek-jamecny",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 5; oficiálna tabuľka ho uvádza ako náhradníka s 236 hlasmi (4,69 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-roman-jantosik-municipal-result-2022",
+    "candidateId": "za-roman-jantosik",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 5; oficiálna tabuľka ho uvádza ako náhradníka s 422 hlasmi (8,39 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-roman-jantosik-regional-result-2022",
+    "candidateId": "za-roman-jantosik",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ho uvádza ako náhradníka s 2 562 hlasmi (0,73 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-jan-nicik-municipal-result-2022",
+    "candidateId": "za-jan-nicik",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 5 s 652 hlasmi (12,96 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-lubos-plesinger-municipal-result-2022",
+    "candidateId": "za-lubos-plesinger",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 5 s 846 hlasmi (16,82 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-jozef-juris-municipal-result-2022",
+    "candidateId": "za-jozef-juris",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 6 s 1 241 hlasmi (44,06 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-jozef-juris-regional-result-2022",
+    "candidateId": "za-jozef-juris",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ho uvádza ako náhradníka s 3 041 hlasmi (0,86 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-miroslav-knapec-municipal-result-2022",
+    "candidateId": "za-miroslav-knapec",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 6; oficiálna tabuľka ho uvádza ako náhradníka s 316 hlasmi (11,22 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-miroslav-knapec-regional-result-2022",
+    "candidateId": "za-miroslav-knapec",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ho uvádza ako náhradníka s 2 564 hlasmi (0,73 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-anton-trnovec-municipal-result-2022",
+    "candidateId": "za-anton-trnovec",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 6 s 1 006 hlasmi (35,72 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-anton-trnovec-regional-result-2022",
+    "candidateId": "za-anton-trnovec",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ho uvádza ako náhradníka s 3 704 hlasmi (1,05 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-denis-cader-municipal-result-2022",
+    "candidateId": "za-denis-cader",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 7 s 1 182 hlasmi (41,15 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-denis-cader-regional-result-2022",
+    "candidateId": "za-denis-cader",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11 s 5 721 hlasmi (1,63 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-branislav-delincak-municipal-result-2022",
+    "candidateId": "za-branislav-delincak",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 7 s 1 197 hlasmi (41,67 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-jan-galik-municipal-result-2022",
+    "candidateId": "za-jan-galik",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 5; oficiálna tabuľka ho uvádza ako náhradníka s 243 hlasmi (4,83 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-jozef-augustin-municipal-result-2022",
+    "candidateId": "za-jozef-augustin",
+    "text": {
+      "sk": "V roku 2022 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 8 s 1 282 hlasmi (22,38 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-jozef-augustin-regional-result-2022",
+    "candidateId": "za-jozef-augustin",
+    "text": {
+      "sk": "V roku 2022 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálna tabuľka ho uvádza ako náhradníka s 5 657 hlasmi (1,61 %)."
+    },
+    "period": "2022",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-b-martin-barcik-regional-result-2017",
+    "candidateId": "za-martin-barcik",
+    "text": {
+      "sk": "V roku 2017 bol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11 s 6 697 hlasmi (2,04 %)."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b"
+    ]
+  },
+  {
+    "id": "claim-za-b-pavol-corba-regional-result-2017",
+    "candidateId": "za-pavol-corba",
+    "text": {
+      "sk": "V roku 2017 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálny zoznam ho uvádza ako náhradníka s 4 092 hlasmi (1,24 %)."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-b-robert-kassa-regional-result-2017",
+    "candidateId": "za-robert-kassa",
+    "text": {
+      "sk": "V roku 2017 bol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11 s 7 784 hlasmi (2,37 %)."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b"
+    ]
+  },
+  {
+    "id": "claim-za-b-iveta-martinkova-regional-result-2017",
+    "candidateId": "za-iveta-martinkova",
+    "text": {
+      "sk": "V roku 2017 nebola zvolená za poslankyňu Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálny zoznam ju uvádza ako náhradníčku s 3 670 hlasmi (1,11 %)."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-b-tomas-senko-nr-result-2023",
+    "candidateId": "za-tomas-senko",
+    "text": {
+      "sk": "V roku 2023 nebol zvolený za poslanca Národnej rady SR; na kandidátnej listine REPUBLIKA pod číslom 115 získal 497 prednostných hlasov."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-b-viliam-groszman-nr-result-2023",
+    "candidateId": "za-viliam-groszman",
+    "text": {
+      "sk": "V roku 2023 nebol zvolený za poslanca Národnej rady SR; na kandidátnej listine SPOLOČNE OBČANIA SLOVENSKA pod číslom 47 získal 21 prednostných hlasov."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-b-lubos-plesinger-regional-result-2017",
+    "candidateId": "za-lubos-plesinger",
+    "text": {
+      "sk": "V roku 2017 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálny zoznam ho uvádza ako náhradníka s 5 658 hlasmi (1,72 %)."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-b-jozef-juris-regional-result-2017",
+    "candidateId": "za-jozef-juris",
+    "text": {
+      "sk": "V roku 2017 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálny zoznam ho uvádza ako náhradníka s 4 286 hlasmi (1,30 %)."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-b-miroslav-knapec-regional-result-2017",
+    "candidateId": "za-miroslav-knapec",
+    "text": {
+      "sk": "V roku 2017 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálny zoznam ho uvádza ako náhradníka s 2 782 hlasmi (0,84 %)."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-b-anton-trnovec-regional-result-2017",
+    "candidateId": "za-anton-trnovec",
+    "text": {
+      "sk": "V roku 2017 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálny zoznam ho uvádza ako náhradníka s 3 507 hlasmi (1,06 %)."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-b-denis-cader-regional-result-2017",
+    "candidateId": "za-denis-cader",
+    "text": {
+      "sk": "V roku 2017 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálny zoznam ho uvádza ako náhradníka s 3 662 hlasmi (1,11 %)."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-b-branislav-delincak-regional-result-2017",
+    "candidateId": "za-branislav-delincak",
+    "text": {
+      "sk": "V roku 2017 nebol zvolený za poslanca Zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 11; oficiálny zoznam ho uvádza ako náhradníka s 4 791 hlasmi (1,46 %)."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-b-jan-saga-municipal-result-2018",
+    "candidateId": "za-jan-saga",
+    "text": {
+      "sk": "V roku 2018 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 3 s 431 hlasmi (2,58 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-miroslav-sokol-municipal-result-2018",
+    "candidateId": "za-miroslav-sokol",
+    "text": {
+      "sk": "V roku 2018 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 3 s 937 hlasmi (5,62 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-frantisek-talapka-municipal-result-2018",
+    "candidateId": "za-frantisek-talapka",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 3 s 1 129 hlasmi (6,77 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-martin-barcik-municipal-result-2018",
+    "candidateId": "za-martin-barcik",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 1 300 hlasmi (4,15 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-pavol-corba-municipal-result-2018",
+    "candidateId": "za-pavol-corba",
+    "text": {
+      "sk": "V roku 2018 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 1 165 hlasmi (3,72 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-karol-haas-municipal-result-2018",
+    "candidateId": "za-karol-haas",
+    "text": {
+      "sk": "V roku 2018 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 967 hlasmi (3,08 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-robert-kassa-municipal-result-2018",
+    "candidateId": "za-robert-kassa",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 1 913 hlasmi (6,10 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-bohumil-kostolny-municipal-result-2018",
+    "candidateId": "za-bohumil-kostolny",
+    "text": {
+      "sk": "V roku 2018 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 790 hlasmi (2,52 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-iveta-martinkova-municipal-result-2018",
+    "candidateId": "za-iveta-martinkova",
+    "text": {
+      "sk": "V roku 2018 bola zvolená za poslankyňu Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 2 192 hlasmi (7,00 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-jan-rzeszoto-municipal-result-2018",
+    "candidateId": "za-jan-rzeszoto",
+    "text": {
+      "sk": "V roku 2018 nebol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 1 135 hlasmi (3,62 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-ondrej-soska-municipal-result-2018",
+    "candidateId": "za-ondrej-soska",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 4 s 1 269 hlasmi (4,05 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-jan-nicik-municipal-result-2018",
+    "candidateId": "za-jan-nicik",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 5 s 1 034 hlasmi (17,24 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-lubos-plesinger-municipal-result-2018",
+    "candidateId": "za-lubos-plesinger",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 5 s 1 521 hlasmi (25,37 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-jozef-juris-municipal-result-2018",
+    "candidateId": "za-jozef-juris",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 6 s 1 151 hlasmi (34,39 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-anton-trnovec-municipal-result-2018",
+    "candidateId": "za-anton-trnovec",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 6 s 898 hlasmi (26,83 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-denis-cader-municipal-result-2018",
+    "candidateId": "za-denis-cader",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 7 s 739 hlasmi (20,36 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-branislav-delincak-municipal-result-2018",
+    "candidateId": "za-branislav-delincak",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 7 s 1 303 hlasmi (35,90 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-jozef-augustin-municipal-result-2018",
+    "candidateId": "za-jozef-augustin",
+    "text": {
+      "sk": "V roku 2018 bol zvolený za poslanca Mestského zastupiteľstva v Žiline vo volebnom obvode č. 8 s 920 hlasmi (15,21 %)."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-b-miroslav-sokol-municipal-result-2014",
+    "candidateId": "za-miroslav-sokol",
+    "text": {
+      "sk": "V roku 2014 bol zvolený za poslanca Mestského zastupiteľstva v Žiline s 738 hlasmi."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-elected-2014",
+      "za-a-city-kronika-2014"
+    ]
+  },
+  {
+    "id": "claim-za-b-martin-barcik-municipal-result-2014",
+    "candidateId": "za-martin-barcik",
+    "text": {
+      "sk": "V roku 2014 bol zvolený za poslanca Mestského zastupiteľstva v Žiline s 1 541 hlasmi."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-elected-2014",
+      "za-a-city-kronika-2014"
+    ]
+  },
+  {
+    "id": "claim-za-b-iveta-martinkova-municipal-result-2014",
+    "candidateId": "za-iveta-martinkova",
+    "text": {
+      "sk": "V roku 2014 bola zvolená za poslankyňu Mestského zastupiteľstva v Žiline s 1 050 hlasmi."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-elected-2014",
+      "za-a-city-kronika-2014"
+    ]
+  },
+  {
+    "id": "claim-za-b-jan-nicik-municipal-result-2014",
+    "candidateId": "za-jan-nicik",
+    "text": {
+      "sk": "V roku 2014 bol zvolený za poslanca Mestského zastupiteľstva v Žiline s 704 hlasmi."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-elected-2014",
+      "za-a-city-kronika-2014"
+    ]
+  },
+  {
+    "id": "claim-za-b-lubos-plesinger-municipal-result-2014",
+    "candidateId": "za-lubos-plesinger",
+    "text": {
+      "sk": "V roku 2014 bol zvolený za poslanca Mestského zastupiteľstva v Žiline s 612 hlasmi."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-elected-2014",
+      "za-a-city-kronika-2014"
+    ]
+  },
+  {
+    "id": "claim-za-b-jozef-juris-municipal-result-2014",
+    "candidateId": "za-jozef-juris",
+    "text": {
+      "sk": "V roku 2014 bol zvolený za poslanca Mestského zastupiteľstva v Žiline s 791 hlasmi."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-elected-2014",
+      "za-a-city-kronika-2014"
+    ]
+  },
+  {
+    "id": "claim-za-b-anton-trnovec-municipal-result-2014",
+    "candidateId": "za-anton-trnovec",
+    "text": {
+      "sk": "V roku 2014 bol zvolený za poslanca Mestského zastupiteľstva v Žiline s 680 hlasmi."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-elected-2014",
+      "za-a-city-kronika-2014"
+    ]
+  },
+  {
+    "id": "claim-za-b-branislav-delincak-municipal-result-2014",
+    "candidateId": "za-branislav-delincak",
+    "text": {
+      "sk": "V roku 2014 bol zvolený za poslanca Mestského zastupiteľstva v Žiline s 541 hlasmi."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-city-council-2014",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-elected-2014",
+      "za-a-city-kronika-2014"
+    ]
+  },
+  {
+    "id": "claim-za-b-martin-barcik-mayor-result-2014",
+    "candidateId": "za-martin-barcik",
+    "text": {
+      "sk": "V roku 2014 nebol zvolený za primátora Žiliny s 6 791 hlasmi."
+    },
+    "period": "2014",
+    "election": {
+      "contestId": "zilina-mayor-2014",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-results-2014",
+      "za-a-city-kronika-2014"
+    ]
+  },
+  {
+    "id": "claim-za-b-martin-barcik-nrsr-2010",
+    "candidateId": "za-martin-barcik",
+    "text": {
+      "sk": "V roku 2010 kandidoval do Národnej rady SR za SDKÚ-DS a získal 296 preferenčných hlasov; nebol zvolený."
+    },
+    "period": "2010",
+    "election": {
+      "contestId": "nrsr-2010",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2010",
+      "statistics-nrsr-results-2010"
+    ]
+  },
+  {
+    "id": "claim-za-b-jan-saga-nrsr-2012",
+    "candidateId": "za-jan-saga",
+    "text": {
+      "sk": "V roku 2012 kandidoval do Národnej rady SR za SDKÚ-DS a získal 373 preferenčných hlasov; nebol zvolený."
+    },
+    "period": "2012",
+    "election": {
+      "contestId": "nrsr-2012",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012"
+    ]
+  },
+  {
+    "id": "claim-za-b-martin-barcik-nrsr-2012",
+    "candidateId": "za-martin-barcik",
+    "text": {
+      "sk": "V roku 2012 kandidoval do Národnej rady SR za SDKÚ-DS a získal 345 preferenčných hlasov; nebol zvolený."
+    },
+    "period": "2012",
+    "election": {
+      "contestId": "nrsr-2012",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2012",
+      "statistics-nrsr-results-2012"
+    ]
+  },
+  {
+    "id": "claim-za-veronika-barcikova-council-result-2022",
+    "candidateId": "za-veronika-barcikova",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Žilina, volebnom obvode č. 4 Veronika Barčíková získala 673 hlasov (2,56 %) a nebola zvolená. Stala sa náhradníčkou."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-anton-kozlik-council-result-2022",
+    "candidateId": "za-anton-kozlik",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Žilina, volebnom obvode č. 8 Anton Kozlík získal 587 hlasov (10,24 %) a bol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-igor-liska-council-result-2022",
+    "candidateId": "za-igor-liska",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Žilina, volebnom obvode č. 4 Igor Liška získal 971 hlasov (3,69 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-jan-pazicky-council-result-2022",
+    "candidateId": "za-jan-pazicky",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Žilina, volebnom obvode č. 8 Ján Pažický získal 1 359 hlasov (23,72 %) a bol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-dusan-dobsovic-council-result-2022",
+    "candidateId": "za-dusan-dobsovic",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Žilina, volebnom obvode č. 4 Dušan Dobšovič získal 674 hlasov (2,56 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-martin-hanuliak-council-result-2022",
+    "candidateId": "za-martin-hanuliak",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Terchová, volebnom obvode č. 1 Martin Hanuliak získal 205 hlasov (7,01 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "terchova-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-dusan-chvila-council-result-2022",
+    "candidateId": "za-dusan-chvila",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Hôrky, volebnom obvode č. 1 Dušan Chvíľa získal 275 hlasov (10,23 %) a bol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "horky-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-emil-kadik-council-result-2022",
+    "candidateId": "za-emil-kadik",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Brezany, volebnom obvode č. 1 Emil Kadík získal 77 hlasov (5,53 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "brezany-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-stanislav-majercik-council-result-2022",
+    "candidateId": "za-stanislav-majercik",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Rajecké Teplice, volebnom obvode č. 2 Stanislav Majerčík získal 156 hlasov (29,21 %) a bol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "rajecke-teplice-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-mario-marcan-council-result-2022",
+    "candidateId": "za-mario-marcan",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Žilina, volebnom obvode č. 8 Mário Marčan získal 266 hlasov (4,64 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-peter-zelnik-council-result-2022",
+    "candidateId": "za-peter-zelnik",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Dolný Hričov, volebnom obvode č. 1 Peter Zelník získal 410 hlasov (9,8 %) a bol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "dolny-hricov-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-daniela-zemanova-council-result-2022",
+    "candidateId": "za-daniela-zemanova",
+    "text": {
+      "sk": "Vo voľbách poslancov v roku 2022 v obci Žilina, volebnom obvode č. 3 Daniela Zemanová získala 296 hlasov (2,06 %) a nebola zvolená. Stala sa náhradníčkou."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-city-council-2022",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-peter-fiabane-mayor-result-2022",
+    "candidateId": "za-peter-fiabane",
+    "text": {
+      "sk": "Vo voľbách starostu v roku 2022 v obci Žilina Peter Fiabáne získal 11 654 hlasov (45,53 %) a bol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-mayor-2022",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-jan-hodon-mayor-result-2022",
+    "candidateId": "za-jan-hodon",
+    "text": {
+      "sk": "Vo voľbách starostu v roku 2022 v obci Varín Ján Hodoň získal 234 hlasov (13,14 %) a nebol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "varin-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-dusan-chvila-mayor-result-2022",
+    "candidateId": "za-dusan-chvila",
+    "text": {
+      "sk": "Vo voľbách starostu v roku 2022 v obci Hôrky Dušan Chvíľa získal 244 hlasov (45,69 %) a bol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "horky-mayor-2022",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-monika-kavecka-mayor-result-2022",
+    "candidateId": "za-monika-kavecka",
+    "text": {
+      "sk": "Vo voľbách starostu v roku 2022 v obci Kunerad Monika Kavecká získala 174 hlasov (27,48 %) a nebola zvolená."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "kunerad-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-peter-zelnik-mayor-result-2022",
+    "candidateId": "za-peter-zelnik",
+    "text": {
+      "sk": "Vo voľbách starostu v roku 2022 v obci Dolný Hričov Peter Zelník získal 539 hlasov (61,81 %) a bol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "dolny-hricov-mayor-2022",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-daniela-zemanova-mayor-result-2022",
+    "candidateId": "za-daniela-zemanova",
+    "text": {
+      "sk": "Vo voľbách starostu v roku 2022 v obci Žilina Daniela Zemanová získala 273 hlasov (1,06 %) a nebola zvolená."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-mayor-2022",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-zabka-mayor-result-2022",
+    "candidateId": "za-jozef-zabka",
+    "text": {
+      "sk": "Vo voľbách starostu v roku 2022 v obci Kotrčiná Lúčka Jozef Žabka získal 227 hlasov (65,22 %) a bol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "kotrcina-lucka-mayor-2022",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-candidates-2022",
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-veronika-barcikova-regional-result-2022",
+    "candidateId": "za-veronika-barcikova",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Veronika Barčíková získala 2 910 hlasov (0,83 %) a nebola zvolená. Stala sa náhradníčkou."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-igor-liska-regional-result-2022",
+    "candidateId": "za-igor-liska",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Igor Liška získal 5 075 hlasov (1,45 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-dusan-dobsovic-regional-result-2022",
+    "candidateId": "za-dusan-dobsovic",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Dušan Dobšovič získal 3 619 hlasov (1,03 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-martin-hanuliak-regional-result-2022",
+    "candidateId": "za-martin-hanuliak",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Martin Hanuliak získal 3 011 hlasov (0,86 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-jan-hodon-regional-result-2022",
+    "candidateId": "za-jan-hodon",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Ján Hodoň získal 3 990 hlasov (1,14 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-monika-kavecka-regional-result-2022",
+    "candidateId": "za-monika-kavecka",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Monika Kavecká získala 3 399 hlasov (0,97 %) a nebola zvolená. Stala sa náhradníčkou."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-milan-laurencik-regional-result-2022",
+    "candidateId": "za-milan-laurencik",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Milan Laurenčík získal 3 776 hlasov (1,07 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-stanislav-majercik-regional-result-2022",
+    "candidateId": "za-stanislav-majercik",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Stanislav Majerčík získal 1 548 hlasov (0,44 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-mario-marcan-regional-result-2022",
+    "candidateId": "za-mario-marcan",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Mário Marčan získal 2 093 hlasov (0,59 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-mico-regional-result-2022",
+    "candidateId": "za-jozef-mico",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Jozef Mičo získal 4 035 hlasov (1,15 %) a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-peter-slysko-regional-result-2022",
+    "candidateId": "za-peter-slysko",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Peter Slyško získal 5 672 hlasov (1,62 %) a bol zvolený."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-daniela-zemanova-regional-result-2022",
+    "candidateId": "za-daniela-zemanova",
+    "text": {
+      "sk": "Vo voľbách poslancov kraja v roku 2022 v Žilinskom kraji vo volebnom obvode č. 11 Daniela Zemanová získala 1 780 hlasov (0,5 %) a nebola zvolená. Stala sa náhradníčkou."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "zilina-region-council-2022",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-candidates-2022",
+      "statistics-regional-votes-xlsx-2022",
+      "statistics-regional-outcomes-2022"
+    ]
+  },
+  {
+    "id": "claim-za-jan-glasnak-nrsr-2020-result",
+    "candidateId": "za-jan-glasnak",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2020 Ján Glasnák získal 359 prednostných hlasov a nebol zvolený."
+    },
+    "period": "2020",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020",
+      "statistics-nrsr-elected-2020"
+    ]
+  },
+  {
+    "id": "claim-za-monika-kavecka-nrsr-2020-result",
+    "candidateId": "za-monika-kavecka",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2020 Monika Kavecká získala 10 085 prednostných hlasov a bola zvolená."
+    },
+    "period": "2020",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020",
+      "statistics-nrsr-elected-2020"
+    ]
+  },
+  {
+    "id": "claim-za-milan-laurencik-nrsr-2020-result",
+    "candidateId": "za-milan-laurencik",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2020 Milan Laurenčík získal 1 245 prednostných hlasov a nebol zvolený."
+    },
+    "period": "2020",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020",
+      "statistics-nrsr-elected-2020"
+    ]
+  },
+  {
+    "id": "claim-za-anna-veresova-nrsr-2020-result",
+    "candidateId": "za-anna-veresova",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2020 Anna Verešová získala 5 232 prednostných hlasov a nebola zvolená."
+    },
+    "period": "2020",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020",
+      "statistics-nrsr-elected-2020"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-zabka-nrsr-2020-result",
+    "candidateId": "za-jozef-zabka",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2020 Jozef Žabka získal 338 prednostných hlasov a nebol zvolený."
+    },
+    "period": "2020",
+    "election": {
+      "contestId": "nrsr-2020",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2020",
+      "statistics-nrsr-results-2020",
+      "statistics-nrsr-elected-2020"
+    ]
+  },
+  {
+    "id": "claim-za-igor-liska-nrsr-2023-result",
+    "candidateId": "za-igor-liska",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2023 Igor Liška získal 689 prednostných hlasov a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-monika-kavecka-nrsr-2023-result",
+    "candidateId": "za-monika-kavecka",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2023 Monika Kavecká získala 2 524 prednostných hlasov a nebola zvolená. Stala sa náhradníčkou."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-mico-nrsr-2023-result",
+    "candidateId": "za-jozef-mico",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2023 Jozef Mičo získal 2 103 prednostných hlasov a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-peter-slysko-nrsr-2023-result",
+    "candidateId": "za-peter-slysko",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2023 Peter Slyško získal 2 068 prednostných hlasov a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-daniela-zemanova-nrsr-2023-result",
+    "candidateId": "za-daniela-zemanova",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2023 Daniela Zemanová získala 358 prednostných hlasov a nebola zvolená."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-zabka-nrsr-2023-result",
+    "candidateId": "za-jozef-zabka",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2023 Jozef Žabka získal 553 prednostných hlasov a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2023",
+    "election": {
+      "contestId": "nrsr-2023",
+      "office": "national_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "claim-za-igor-liska-zilinsky-region-council-2017-result",
+    "candidateId": "za-igor-liska",
+    "text": {
+      "sk": "Vo voľbách poslancov Žilinského kraja vo volebnom obvode č. 11 v roku 2017 Igor Liška získal 3 635 hlasov a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-martin-hanuliak-zilinsky-region-council-2017-result",
+    "candidateId": "za-martin-hanuliak",
+    "text": {
+      "sk": "Vo voľbách poslancov Žilinského kraja vo volebnom obvode č. 11 v roku 2017 Martin Hanuliak získal 3 596 hlasov a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-jan-hodon-zilinsky-region-council-2017-result",
+    "candidateId": "za-jan-hodon",
+    "text": {
+      "sk": "Vo voľbách poslancov Žilinského kraja vo volebnom obvode č. 11 v roku 2017 Ján Hodoň získal 5 576 hlasov a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-monika-kavecka-zilinsky-region-council-2017-result",
+    "candidateId": "za-monika-kavecka",
+    "text": {
+      "sk": "Vo voľbách poslancov Žilinského kraja vo volebnom obvode č. 11 v roku 2017 Monika Kavecká získala 5 598 hlasov a nebola zvolená. Stala sa náhradníčkou."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-milan-laurencik-zilinsky-region-council-2017-result",
+    "candidateId": "za-milan-laurencik",
+    "text": {
+      "sk": "Vo voľbách poslancov Žilinského kraja vo volebnom obvode č. 11 v roku 2017 Milan Laurenčík získal 7 023 hlasov a bol zvolený."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-mico-zilinsky-region-council-2017-result",
+    "candidateId": "za-jozef-mico",
+    "text": {
+      "sk": "Vo voľbách poslancov Žilinského kraja vo volebnom obvode č. 11 v roku 2017 Jozef Mičo získal 3 092 hlasov a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-strba-zilinsky-region-council-2017-result",
+    "candidateId": "za-jozef-strba",
+    "text": {
+      "sk": "Vo voľbách poslancov Žilinského kraja vo volebnom obvode č. 11 v roku 2017 Jozef Štrba získal 6 106 hlasov a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-anna-veresova-zilinsky-region-council-2017-result",
+    "candidateId": "za-anna-veresova",
+    "text": {
+      "sk": "Vo voľbách poslancov Žilinského kraja vo volebnom obvode č. 11 v roku 2017 Anna Verešová získala 7 813 hlasov a bola zvolená."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-jozef-zabka-zilinsky-region-council-2017-result",
+    "candidateId": "za-jozef-zabka",
+    "text": {
+      "sk": "Vo voľbách poslancov Žilinského kraja vo volebnom obvode č. 11 v roku 2017 Jozef Žabka získal 1 993 hlasov a nebol zvolený. Stal sa náhradníkom."
+    },
+    "period": "2017",
+    "election": {
+      "contestId": "zilina-region-council-2017",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c"
+    ]
+  },
+  {
+    "id": "claim-za-monika-kavecka-ep-2024-result",
+    "candidateId": "za-monika-kavecka",
+    "text": {
+      "sk": "Vo voľbách do Európskeho parlamentu v roku 2024 Monika Kavecká získala 645 prednostných hlasov a nebola zvolená."
+    },
+    "period": "2024",
+    "election": {
+      "contestId": "ep-2024",
+      "office": "european_parliament",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-ep-candidates-2024",
+      "statistics-ep-results-2024",
+      "za-a-ep-elected-2024"
+    ]
+  },
+  {
+    "id": "claim-za-jan-glasnak-zilina-city-council-2018-result",
+    "candidateId": "za-jan-glasnak",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 Ján GLASNÁK získal 413 hlasov a nebol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-igor-korcek-zilina-city-council-2018-result",
+    "candidateId": "za-igor-korcek",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 Igor KORČEK získal 626 hlasov a nebol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-igor-liska-zilina-city-council-2018-result",
+    "candidateId": "za-igor-liska",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 Igor LIŠKA získal 1 149 hlasov a nebol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-jan-pazicky-zilina-city-council-2018-result",
+    "candidateId": "za-jan-pazicky",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 Ján PAŽICKÝ získal 1 733 hlasov a bol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-peter-fiabane-zilina-city-council-2018-result",
+    "candidateId": "za-peter-fiabane",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 Peter FIABÁNE získal 2 141 hlasov a bol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-jana-balvanova-zilina-city-council-2018-result",
+    "candidateId": "za-jana-balvanova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 Jana BALVANOVÁ získala 756 hlasov a nebola zvolená."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-dusan-dobsovic-zilina-city-council-2018-result",
+    "candidateId": "za-dusan-dobsovic",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva v Žiline v roku 2018 Dušan DOBŠOVIČ získal 903 hlasov a nebol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-city-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  },
+  {
+    "id": "claim-za-peter-fiabane-zilina-mayor-2018-result",
+    "candidateId": "za-peter-fiabane",
+    "text": {
+      "sk": "Vo voľbách primátora Žiliny v roku 2018 Peter Fiabáne získal 13 876 hlasov a bol zvolený."
+    },
+    "period": "2018",
+    "election": {
+      "contestId": "zilina-mayor-2018",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "statistics-municipal-2018-tables",
+      "za-a-city-roster-2018"
+    ]
+  }
+]
