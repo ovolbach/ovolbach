@@ -22,7 +22,7 @@ describe('Task 7 reviewed evidence', () => {
     expect(rows.reduce<Record<string, number>>((counts, row) => {
       counts[row.status] = (counts[row.status] ?? 0) + 1;
       return counts;
-    }, {})).toEqual({ found: 46, searched_none: 8, not_applicable: 2 });
+    }, {})).toEqual({ found: 47, searched_none: 7, not_applicable: 2 });
   });
 
   it('preserves complete source punctuation for direct quotations', () => {
@@ -73,9 +73,12 @@ describe('Task 7 reviewed evidence', () => {
     expect(claim('claim-candidate-88-museum-court-outcome-2025')).toMatchObject({
       kind: 'media_report',
       text: {
-        sk: 'Aktuality.sk na základe vyjadrenia hovorkyne ŽSK uviedli, že prvostupňový súd označil výpoveď za neplatnú. Kraj podal odvolanie, potom sa dohodol na mimosúdnom vyrovnaní; zastupiteľstvo schválilo viac ako 60-tisíc eur. Nejde o konečné rozhodnutie odvolacieho súdu.',
+        sk: 'Aktuality.sk podľa vyjadrenia hovorkyne ŽSK 26. 5. 2025 uviedli, že prvostupňový súd označil výpoveď Michala Kovačica za neplatnú.',
       },
     });
+    for (const id of ['claim-candidate-88-museum-appeal-report-2025', 'claim-candidate-88-museum-settlement-report-2025', 'claim-candidate-88-museum-budget-report-2025']) {
+      expect(claim(id)).toMatchObject({ kind: 'media_report', sourceIds: ['aktuality-jurinova-kovacic-dismissal-2025'] });
+    }
     expect(claim('claim-candidate-88-museum-response-2025')?.kind).toBe('response');
   });
 

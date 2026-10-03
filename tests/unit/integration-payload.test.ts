@@ -12,7 +12,7 @@ describe('integration comparison projections', () => {
       expect.objectContaining({ kind: 'quote', kindLabel: 'Citát', label: 'Kontext quote', period: '2024–2026', sources: [expect.objectContaining({ author: 'Testovací autor', type: 'media' })] }),
       expect.objectContaining({ kind: 'fact', kindLabel: 'Fakt' }),
       expect.objectContaining({ kind: 'media_report', kindLabel: 'Mediálna správa' }),
-      expect.objectContaining({ kind: 'response', kindLabel: 'Vyjadrenie kandidáta' }),
+      expect.objectContaining({ kind: 'response', kindLabel: 'Reakcia' }),
       expect.objectContaining({ kind: 'official_outcome', kindLabel: 'Oficiálny výsledok' }),
     ]));
   });

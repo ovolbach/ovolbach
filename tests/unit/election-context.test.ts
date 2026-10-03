@@ -76,7 +76,8 @@ describe('election context', () => {
     expect(published?.map((context) => context.basePath)).toEqual(['/liptovsky-mikulas/2026/', '/martin/2026/', '/ruzomberok/2026/']);
     expect(published?.[0]?.data.candidates).toHaveLength(91);
     expect(published?.[0]?.data.candidacies).toHaveLength(109);
-    expect(published?.[0]?.data.claims).toHaveLength(604);
+    // Includes 17 documented follow-up media records for the shared regional candidates.
+    expect(published?.[0]?.data.claims).toHaveLength(621);
   });
 
   it('scopes Ružomberok to its five city districts and regional district 8', () => {

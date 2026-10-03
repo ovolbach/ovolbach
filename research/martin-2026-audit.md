@@ -2,6 +2,8 @@
 
 Snímka: **3. október 2026**. Termín štyroch súbežných volieb: **24. október 2026**. Audit opisuje lokálny výsledok vo vetve `codex/martin-2026`; nasadenie na hosting sa nevykonalo.
 
+Tento dokument zachováva audit prvého pridania mesta v commite `7e90ec2`. Nadväzujúce zmeny, opravy a aktuálne počty opisuje [dodatočná kontrola médií](martin-media-review-2026.md).
+
 ## Rozsah
 
 | Voľby | Kandidatúry | Mandáty |

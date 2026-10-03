@@ -6493,11 +6493,12 @@
     "candidateId": "candidate-85",
     "category": "controversies",
     "status": "found",
-    "checkedAt": "2026-09-20",
+    "checkedAt": "2026-10-03",
     "sourceIds": [
       "hlavnespravy-belousovova-rizman-2026",
       "sita-belousovova-slap-2010",
-      "sita-belousovova-committee-2010"
+      "sita-belousovova-committee-2010",
+      "mt-mr-belousovova-rizman-followup-source-2026"
     ]
   },
   {
@@ -6556,9 +6557,11 @@
     "id": "coverage-candidate-86-media",
     "candidateId": "candidate-86",
     "category": "media",
-    "status": "searched_none",
-    "checkedAt": "2026-09-18",
-    "sourceIds": []
+    "status": "found",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "noviny-chairs-profile-2026"
+    ]
   },
   {
     "id": "coverage-candidate-86-controversies",
@@ -6668,13 +6671,15 @@
     "candidateId": "candidate-87",
     "category": "controversies",
     "status": "found",
-    "checkedAt": "2026-09-20",
+    "checkedAt": "2026-10-03",
     "sourceIds": [
       "aktuality-choma-office-rent-2015",
       "dennike-choma-audi-first-2016",
+      "uvo-choma-audi-decision-2025",
       "uvo-choma-audi-decision-2017",
       "ssba-choma-audi-judgment-2024",
-      "uvo-choma-audi-decision-2025"
+      "stvr-choma-tolls-response-2023",
+      "pravda-choma-tolls-response-2010"
     ]
   },
   {
@@ -6763,9 +6768,12 @@
     "candidateId": "candidate-88",
     "category": "controversies",
     "status": "found",
-    "checkedAt": "2026-09-20",
+    "checkedAt": "2026-10-03",
     "sourceIds": [
-      "aktuality-jurinova-kovacic-dismissal-2025"
+      "aktuality-jurinova-kovacic-dismissal-2025",
+      "aktuality-jurinova-museum-origin-2023",
+      "sp21-jurinova-vszp-response-2026",
+      "mt-mr-jurinova-paid-interview-2026"
     ]
   },
   {
@@ -6848,10 +6856,11 @@
     "candidateId": "candidate-89",
     "category": "media",
     "status": "found",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-03",
     "sourceIds": [
       "sp21-zsk-chair-debate-2026",
-      "zilinskyvecernik-kapitulik-dismissal-2025"
+      "sp21-kapitulik-digital-twin-2026",
+      "mt-mr-kapitulik-security-interview-2026"
     ]
   },
   {
@@ -6952,10 +6961,12 @@
     "candidateId": "candidate-90",
     "category": "controversies",
     "status": "found",
-    "checkedAt": "2026-09-20",
+    "checkedAt": "2026-10-03",
     "sourceIds": [
       "echr-lucansky-notification-2025",
-      "vop-lucansky-intervention-2026"
+      "vop-lucansky-intervention-2026",
+      "pravda-parliament-incidents-2026",
+      "kanal1-lucansky-incident-response-2026"
     ]
   },
   {
@@ -12877,7 +12888,10 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-poslanecke-kluby-20221115"
+      "mt-poslanecke-kluby-20221115",
+      "mt-mr-cervenova-appointed-20240214",
+      "mt-mr-cervenova-work-plan-20240301",
+      "mt-mr-cervenova-bedbugs-20260123"
     ]
   },
   {
@@ -12955,7 +12969,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-team-martin-tasr-20241222"
+      "mt-team-martin-tasr-20241222",
+      "mt-mr-curling-20241128"
     ]
   },
   {
@@ -12965,7 +12980,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-martin-council-conflicts-20250225"
+      "mt-martin-council-conflicts-20250225",
+      "mt-mr-curling-20241128"
     ]
   },
   {
@@ -13606,7 +13622,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-poslanecke-kluby-20221115"
+      "mt-poslanecke-kluby-20221115",
+      "mt-mr-badova-bear-team-20231004"
     ]
   },
   {
@@ -13683,7 +13700,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-martin-station-stvr-20250825"
+      "mt-martin-station-stvr-20250825",
+      "mt-mr-rail-delay-20260306"
     ]
   },
   {
@@ -13831,7 +13849,9 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-poslanecke-kluby-20221115"
+      "mt-poslanecke-kluby-20221115",
+      "mt-mr-martinske-20240312",
+      "mt-mr-martinske-20240716"
     ]
   },
   {
@@ -13908,7 +13928,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-poslanecke-kluby-20221115"
+      "mt-poslanecke-kluby-20221115",
+      "mt-mr-martinske-20240312"
     ]
   },
   {
@@ -13961,11 +13982,9 @@
     "id": "mt-marek-pacalaj-programme_statements-coverage",
     "candidateId": "mt-marek-pacalaj",
     "category": "programme_statements",
-    "status": "found",
+    "status": "searched_none",
     "checkedAt": "2026-10-03",
-    "sourceIds": [
-      "mt-marek-pacalaj-campaign-2026"
-    ]
+    "sourceIds": []
   },
   {
     "id": "mt-marek-pacalaj-asset_declarations-coverage",
@@ -13983,7 +14002,8 @@
     "checkedAt": "2026-10-03",
     "sourceIds": [
       "mt-pacalaj-hockey-tasr-20180616",
-      "mt-marek-pacalaj-campaign-2026"
+      "mt-mr-pacalaj-return-20250614",
+      "mt-mr-pacalaj-roster-20260912"
     ]
   },
   {
@@ -14180,11 +14200,9 @@
     "id": "mt-martin-hudec-programme_statements-coverage",
     "candidateId": "mt-martin-hudec",
     "category": "programme_statements",
-    "status": "found",
+    "status": "searched_none",
     "checkedAt": "2026-10-03",
-    "sourceIds": [
-      "mt-martin-hudec-campaign-2026"
-    ]
+    "sourceIds": []
   },
   {
     "id": "mt-martin-hudec-asset_declarations-coverage",
@@ -14202,7 +14220,8 @@
     "checkedAt": "2026-10-03",
     "sourceIds": [
       "mt-hudec-hospital-tasr-20191213",
-      "mt-martin-hudec-campaign-2026"
+      "mt-mr-hudec-appointment-20190328",
+      "mt-mr-roof-martinske-20251021"
     ]
   },
   {
@@ -14354,7 +14373,10 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-poslanecke-kluby-20221115"
+      "mt-poslanecke-kluby-20221115",
+      "mt-mr-rail-delay-20260306",
+      "mt-mr-broadcast-criticism-20220208",
+      "mt-mr-broadcast-report-2023"
     ]
   },
   {
@@ -14434,7 +14456,9 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-team-martin-tasr-20241222"
+      "mt-team-martin-tasr-20241222",
+      "mt-mr-zilak-professional-20190125",
+      "mt-c3-kozak-hall-stvr"
     ]
   },
   {
@@ -14864,9 +14888,11 @@
     "id": "mt-peter-torok-media-coverage",
     "candidateId": "mt-peter-torok",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-parking-martinske-20250218"
+    ]
   },
   {
     "id": "mt-peter-torok-controversies-coverage",
@@ -15100,9 +15126,11 @@
     "id": "mt-juraj-diabelko-media-coverage",
     "candidateId": "mt-juraj-diabelko",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-diabelko-mayoral-20260903"
+    ]
   },
   {
     "id": "mt-juraj-diabelko-controversies-coverage",
@@ -15319,9 +15347,11 @@
     "id": "mt-roman-kubala-media-coverage",
     "candidateId": "mt-roman-kubala",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-kubala-intersection-20240409"
+    ]
   },
   {
     "id": "mt-roman-kubala-controversies-coverage",
@@ -15486,7 +15516,10 @@
     "sourceIds": [
       "mt-danko-tasr-response-2019",
       "mt-danko-zilinak-adverts-2026",
-      "mt-danko-tasr-allegation-2019"
+      "mt-danko-tasr-allegation-2019",
+      "mt-mr-danko-adverts-response-2026",
+      "mt-mr-lighting-aktuality-2023",
+      "mt-mr-martin-audit-march-2023"
     ]
   },
   {
@@ -15547,9 +15580,11 @@
     "id": "mt-igor-hubacek-coverage-media",
     "candidateId": "mt-igor-hubacek",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mayoral-candidacies-tasr-20260826"
+    ]
   },
   {
     "id": "mt-igor-hubacek-coverage-controversies",
@@ -15630,7 +15665,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-uhercik-tasr-candidacy-2026"
+      "mt-uhercik-tasr-candidacy-2026",
+      "mt-mr-martin-quorum-tasr-2025"
     ]
   },
   {
@@ -16123,7 +16159,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-markovic-tasr-career-2026"
+      "mt-markovic-tasr-career-2026",
+      "mt-mr-markovic-szlh-new-era-2026"
     ]
   },
   {
@@ -16412,9 +16449,11 @@
     "id": "mt-dana-zigova-coverage-media",
     "candidateId": "mt-dana-zigova",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-poslanecke-kluby-20221115"
+    ]
   },
   {
     "id": "mt-dana-zigova-coverage-controversies",
@@ -16700,7 +16739,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-ftorek-team-tasr-2026"
+      "mt-c3-ftorek-candidacy-tasr",
+      "mt-mr-lepej-archdaily-molo-2010"
     ]
   },
   {
@@ -16976,9 +17016,13 @@
     "id": "mt-daniel-diskanec-coverage-media",
     "candidateId": "mt-daniel-diskanec",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-diskanec-pravda-camp-2012",
+      "mt-mr-diskanec-tasr-energy-2014",
+      "mt-mr-martin-audit-june-2025"
+    ]
   },
   {
     "id": "mt-daniel-diskanec-coverage-controversies",
@@ -17049,9 +17093,11 @@
     "id": "mt-peter-kasuba-coverage-media",
     "candidateId": "mt-peter-kasuba",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-lighting-aktuality-2023"
+    ]
   },
   {
     "id": "mt-peter-kasuba-coverage-controversies",
@@ -17198,9 +17244,11 @@
     "id": "mt-lubomir-vanko-coverage-media",
     "candidateId": "mt-lubomir-vanko",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-vanko-stvr-museum-2026"
+    ]
   },
   {
     "id": "mt-lubomir-vanko-coverage-controversies",
@@ -17266,9 +17314,11 @@
     "id": "mt-daniel-babka-coverage-media",
     "candidateId": "mt-daniel-babka",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-babka-sita-cup-2025"
+    ]
   },
   {
     "id": "mt-daniel-babka-coverage-controversies",
@@ -17841,9 +17891,11 @@
     "id": "mt-vladimir-cambor-coverage-media",
     "candidateId": "mt-vladimir-cambor",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-cambor-stvr-school-2026"
+    ]
   },
   {
     "id": "mt-vladimir-cambor-coverage-controversies",
@@ -17909,9 +17961,11 @@
     "id": "mt-ivan-doskocil-coverage-media",
     "candidateId": "mt-ivan-doskocil",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-doskocil-tasr-memorial-2012"
+    ]
   },
   {
     "id": "mt-ivan-doskocil-coverage-controversies",
@@ -18055,17 +18109,22 @@
     "id": "mt-elena-krajcova-coverage-media",
     "candidateId": "mt-elena-krajcova",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-krajcova-drienok-2023",
+      "mt-mr-krajcova-alzheimer-centre-2023"
+    ]
   },
   {
     "id": "mt-elena-krajcova-coverage-controversies",
     "candidateId": "mt-elena-krajcova",
     "category": "controversies",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-krajcova-drienok-2023"
+    ]
   },
   {
     "id": "mt-marcel-matovcik-coverage-basic",
@@ -18132,9 +18191,11 @@
     "id": "mt-marcel-matovcik-coverage-media",
     "candidateId": "mt-marcel-matovcik",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-matovcik-resignation-tasr-2024"
+    ]
   },
   {
     "id": "mt-marcel-matovcik-coverage-controversies",
@@ -18290,16 +18351,26 @@
     "checkedAt": "2026-10-03",
     "sourceIds": [
       "mt-c3-ftorek-candidacy-tasr",
-      "mt-c3-ftorek-interview-dennikn"
+      "mt-c3-ftorek-interview-dennikn",
+      "mt-mr-ftorek-protest2021",
+      "mt-mr-ftorek-threat2021",
+      "mt-mr-ftorek-commission2021",
+      "mt-mr-ftorek-columns2021b",
+      "mt-mr-ftorek-parking2024",
+      "mt-mr-ftorek-parking2025"
     ]
   },
   {
     "id": "mt-milan-ftorek-controversies",
     "candidateId": "mt-milan-ftorek",
     "category": "controversies",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-ftorek-threat2021",
+      "mt-mr-ftorek-commission2021",
+      "mt-mr-ftorek-parking2025"
+    ]
   },
   {
     "id": "mt-jozef-petras-basic",
@@ -18373,16 +18444,19 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-c3-petras-campaign-sme"
+      "mt-c3-petras-campaign-sme",
+      "mt-mr-petras-petition-report"
     ]
   },
   {
     "id": "mt-jozef-petras-controversies",
     "candidateId": "mt-jozef-petras",
     "category": "controversies",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-petras-petition-result"
+    ]
   },
   {
     "id": "mt-pavol-zemko-basic",
@@ -18520,7 +18594,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-c3-ciller-interview-tasr"
+      "mt-c3-ciller-interview-tasr",
+      "mt-c3-ftorek-candidacy-tasr"
     ]
   },
   {
@@ -18730,16 +18805,21 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-c3-hustava-ecco-stvr"
+      "mt-c3-hustava-ecco-stvr",
+      "mt-c3-ftorek-candidacy-tasr",
+      "mt-mr-hustava-ecco-june2025",
+      "mt-mr-hustava-ecco-nov2025"
     ]
   },
   {
     "id": "mt-pavol-hustava-controversies",
     "candidateId": "mt-pavol-hustava",
     "category": "controversies",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-hustava-ecco-june2025"
+    ]
   },
   {
     "id": "mt-viliam-komora-basic",
@@ -18877,9 +18957,11 @@
     "id": "mt-martin-lechan-media",
     "candidateId": "mt-martin-lechan",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-ftorek-commission2021"
+    ]
   },
   {
     "id": "mt-martin-lechan-controversies",
@@ -18947,9 +19029,11 @@
     "id": "mt-alzbeta-martinicka-media",
     "candidateId": "mt-alzbeta-martinicka",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-c3-ftorek-candidacy-tasr"
+    ]
   },
   {
     "id": "mt-alzbeta-martinicka-controversies",
@@ -19255,9 +19339,11 @@
     "id": "mt-tibor-adamko-controversies",
     "candidateId": "mt-tibor-adamko",
     "category": "controversies",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-adamko-water2023"
+    ]
   },
   {
     "id": "mt-zuzana-durkovic-zubercova-basic",
@@ -19657,9 +19743,11 @@
     "id": "mt-filip-subrt-media",
     "candidateId": "mt-filip-subrt",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-subrt-rcu2026"
+    ]
   },
   {
     "id": "mt-filip-subrt-controversies",
@@ -19729,9 +19817,11 @@
     "id": "mt-andrea-baceova-media",
     "candidateId": "mt-andrea-baceova",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-baceova-pmm2023"
+    ]
   },
   {
     "id": "mt-andrea-baceova-controversies",
@@ -20091,9 +20181,11 @@
     "id": "mt-stefan-balosak-media",
     "candidateId": "mt-stefan-balosak",
     "category": "media",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "sourceIds": [
+      "mt-mr-balosak-transition2025"
+    ]
   },
   {
     "id": "mt-stefan-balosak-controversies",
@@ -20663,7 +20755,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-c3-cicmanec-bear-stvr"
+      "mt-c3-cicmanec-bear-stvr",
+      "mt-mr-cicmanec-bear-outcome"
     ]
   },
   {
@@ -21035,7 +21128,8 @@
     "status": "found",
     "checkedAt": "2026-10-03",
     "sourceIds": [
-      "mt-c3-zacharides-cor-tasr"
+      "mt-c3-zacharides-cor-tasr",
+      "mt-mr-zacharides-housing2026"
     ]
   },
   {

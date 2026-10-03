@@ -6955,13 +6955,13 @@
       "sk": "Výsledok sporu o výpoveď riaditeľa múzea podľa Aktuality.sk"
     },
     "text": {
-      "sk": "Aktuality.sk na základe vyjadrenia hovorkyne ŽSK uviedli, že prvostupňový súd označil výpoveď za neplatnú. Kraj podal odvolanie, potom sa dohodol na mimosúdnom vyrovnaní; zastupiteľstvo schválilo viac ako 60-tisíc eur. Nejde o konečné rozhodnutie odvolacieho súdu."
+      "sk": "Aktuality.sk podľa vyjadrenia hovorkyne ŽSK 26. 5. 2025 uviedli, že prvostupňový súd označil výpoveď Michala Kovačica za neplatnú."
     },
     "period": "2025-05-26",
     "sourceIds": [
       "aktuality-jurinova-kovacic-dismissal-2025"
     ],
-    "checkedAt": "2026-09-18"
+    "checkedAt": "2026-10-03"
   },
   {
     "id": "claim-candidate-88-museum-response-2025",
@@ -21212,23 +21212,6 @@
     "checkedAt": "2026-10-03"
   },
   {
-    "id": "mt-marek-pacalaj-programme_statements-123",
-    "candidateId": "mt-marek-pacalaj",
-    "category": "programme_statements",
-    "kind": "fact",
-    "label": {
-      "sk": "Verejný zdroj"
-    },
-    "text": {
-      "sk": "Profil kampane Martin PLUS + uvádza parkovanie medzi témami, ktorým sa chce Marek Pacalaj venovať."
-    },
-    "period": "Volebná kampaň 2026",
-    "sourceIds": [
-      "mt-marek-pacalaj-campaign-2026"
-    ],
-    "checkedAt": "2026-10-03"
-  },
-  {
     "id": "mt-stanislav-thomka-media-124",
     "candidateId": "mt-stanislav-thomka",
     "category": "media",
@@ -21310,23 +21293,6 @@
     "period": "22. decembra 2024",
     "sourceIds": [
       "mt-team-martin-tasr-20241222"
-    ],
-    "checkedAt": "2026-10-03"
-  },
-  {
-    "id": "mt-martin-hudec-programme_statements-129",
-    "candidateId": "mt-martin-hudec",
-    "category": "programme_statements",
-    "kind": "fact",
-    "label": {
-      "sk": "Verejný zdroj"
-    },
-    "text": {
-      "sk": "Profil kampane Martin PLUS + uvádza verejnú dopravu medzi témami, ktorým sa chce Martin Hudec venovať."
-    },
-    "period": "Volebná kampaň 2026",
-    "sourceIds": [
-      "mt-martin-hudec-campaign-2026"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -21566,7 +21532,8 @@
     "period": "Správa zo 16. júna 2018",
     "sourceIds": [
       "mt-pacalaj-hockey-tasr-20180616",
-      "mt-marek-pacalaj-campaign-2026"
+      "mt-mr-pacalaj-return-20250614",
+      "mt-mr-pacalaj-roster-20260912"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -21584,7 +21551,7 @@
     "period": "Správa z 13. decembra 2019",
     "sourceIds": [
       "mt-hudec-hospital-tasr-20191213",
-      "mt-martin-hudec-campaign-2026"
+      "mt-mr-hudec-appointment-20190328"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -23648,7 +23615,7 @@
     },
     "period": "09.07.2026",
     "sourceIds": [
-      "mt-ftorek-team-tasr-2026"
+      "mt-c3-ftorek-candidacy-tasr"
     ],
     "checkedAt": "2026-10-03"
   },
@@ -25882,6 +25849,1604 @@
     "period": "kandidátna listina pre voľby 2018; výsledok sa týmto záznamom neuvádza",
     "sourceIds": [
       "mt-martin-council-roster-archive-62323"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-86-media-teaching-profile-2026",
+    "candidateId": "candidate-86",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny profil pred krajskými voľbami"
+    },
+    "text": {
+      "sk": "Noviny.sk 29. 9. 2026 uviedlo, že Jana Chlustinová v minulosti pôsobila ako učiteľka na základných školách na Orave."
+    },
+    "period": "29. septembra 2026",
+    "sourceIds": [
+      "noviny-chairs-profile-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-87-tolls-nomination-report-2023",
+    "candidateId": "candidate-87",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Kritika návratu do rezortu dopravy"
+    },
+    "text": {
+      "sk": "RTVS 27. 10. 2023 uviedla, že Xénia Makarová z Nadácie Zastavme korupciu kritizovala nomináciu Igora Chomu za štátneho tajomníka v súvislosti s jeho vedením NDS počas uzavretia zmluvy so SkyTollom."
+    },
+    "period": "27. októbra 2023",
+    "sourceIds": [
+      "stvr-choma-tolls-response-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-87-tolls-nomination-response-2023",
+    "candidateId": "candidate-87",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Chomova odpoveď o mýte"
+    },
+    "text": {
+      "sk": "Igor Choma podľa RTVS 27. 10. 2023 uviedol, že ešte nevedel, či bude mýto patriť do jeho kompetencií štátneho tajomníka."
+    },
+    "period": "27. októbra 2023",
+    "sourceIds": [
+      "stvr-choma-tolls-response-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-88-museum-ethics-response-2023",
+    "candidateId": "candidate-88",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie pred odvolaním riaditeľa múzea"
+    },
+    "text": {
+      "sk": "Erika Jurinová pre Aktuality.sk 5. 4. 2023 uviedla, že prípad riaditeľa Liptovského múzea má posúdiť etická komisia, pretože podľa nej poškodzoval múzeum a kraj."
+    },
+    "period": "5. apríla 2023",
+    "sourceIds": [
+      "aktuality-jurinova-museum-origin-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-88-museum-appeal-report-2025",
+    "candidateId": "candidate-88",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Správa o odvolaní v pracovnom spore"
+    },
+    "text": {
+      "sk": "Aktuality.sk 26. 5. 2025 podľa hovorkyne ŽSK uviedli, že kraj podal odvolanie proti prvostupňovému rozhodnutiu o neplatnosti výpovede Michala Kovačica."
+    },
+    "period": "správa 26. mája 2025",
+    "sourceIds": [
+      "aktuality-jurinova-kovacic-dismissal-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-88-museum-settlement-report-2025",
+    "candidateId": "candidate-88",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Správa o mimosúdnom vyrovnaní"
+    },
+    "text": {
+      "sk": "Aktuality.sk 26. 5. 2025 podľa hovorkyne ŽSK uviedli, že kraj a bývalý riaditeľ Liptovského múzea sa dohodli na mimosúdnom vyrovnaní pracovného sporu."
+    },
+    "period": "správa 26. mája 2025",
+    "sourceIds": [
+      "aktuality-jurinova-kovacic-dismissal-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-88-museum-budget-report-2025",
+    "candidateId": "candidate-88",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Správa o schválenej rozpočtovej sume"
+    },
+    "text": {
+      "sk": "Aktuality.sk 26. 5. 2025 uviedli, že zastupiteľstvo ŽSK schválilo viac ako 60-tisíc eur na vyrovnanie pracovného sporu s Michalom Kovačicom."
+    },
+    "period": "26. mája 2025",
+    "sourceIds": [
+      "aktuality-jurinova-kovacic-dismissal-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-88-hospital-payments-report-2026",
+    "candidateId": "candidate-88",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Tvrdenie o platbách krajským nemocniciam"
+    },
+    "text": {
+      "sk": "Michal Filek v Žilina SP21 25. 8. 2026 uviedol, že Erika Jurinová pripisovala stratu krajských nemocníc aj podľa nej diskriminačným platbám Všeobecnej zdravotnej poisťovne."
+    },
+    "period": "25. augusta 2026",
+    "sourceIds": [
+      "sp21-jurinova-vszp-response-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-88-hospital-payments-response-2026",
+    "candidateId": "candidate-88",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia VšZP na Jurinovej tvrdenie"
+    },
+    "text": {
+      "sk": "Všeobecná zdravotná poisťovňa podľa Žilina SP21 25. 8. 2026 odmietla zodpovednosť za stratu nemocníc ŽSK a uviedla, že nastavenie platieb bolo s nemocnicami vopred dohodnuté."
+    },
+    "period": "25. augusta 2026",
+    "sourceIds": [
+      "sp21-jurinova-vszp-response-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-89-digital-twin-interview-2026",
+    "candidateId": "candidate-89",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor o digitálnom modeli Žiliny"
+    },
+    "text": {
+      "sk": "Michal Filek v Žilina SP21 1. 2. 2026 zverejnil rozhovor s Martinom Kapitulíkom o projekte digitálneho dvojčaťa Žiliny."
+    },
+    "period": "1. februára 2026",
+    "sourceIds": [
+      "sp21-kapitulik-digital-twin-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-90-stairs-allegation-2026",
+    "candidateId": "candidate-90",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Kolíkovej vyjadrenie o kontakte na schodoch"
+    },
+    "text": {
+      "sk": "Nikola Môciková v Pravde 11. 5. 2026 uviedla, že Mária Kolíková v pléne parlamentu opísala incident, pri ktorom ju mal Adam Lučanský na schodoch takmer zraziť."
+    },
+    "period": "správa 11. mája 2026",
+    "sourceIds": [
+      "pravda-parliament-incidents-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-90-stairs-response-2026",
+    "candidateId": "candidate-90",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Lučanského ospravedlnenie a vysvetlenie"
+    },
+    "text": {
+      "sk": "Adam Lučanský sa podľa článku Tomáša Fuleka v Kanáli 1 z 13. 5. 2026 Márii Kolíkovej ospravedlnil a uviedol, že sa jej pri náhlení na schodoch omylom dotkol ramenom."
+    },
+    "period": "reakcia zverejnená 13. mája 2026",
+    "sourceIds": [
+      "kanal1-lucansky-incident-response-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-87-tolls-testing-report-2010",
+    "candidateId": "candidate-87",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Námietka k skúškam mýtneho systému"
+    },
+    "text": {
+      "sk": "SITA v Pravde 10. 2. 2010 uviedla, že Stanislav Janiš namietal priebeh skúšobnej prevádzky mýtneho systému počas pôsobenia Igora Chomu ako generálneho riaditeľa NDS."
+    },
+    "period": "10. februára 2010",
+    "sourceIds": [
+      "pravda-choma-tolls-response-2010"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "claim-candidate-87-tolls-testing-response-2010",
+    "candidateId": "candidate-87",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Chomova reakcia na skúšky mýtneho systému"
+    },
+    "text": {
+      "sk": "Igor Choma podľa SITA v Pravde 10. 2. 2010 odmietol námietku Stanislava Janiša a uviedol, že SkyToll vykonal potrebné skúšky podľa zmluvy."
+    },
+    "period": "10. februára 2010",
+    "sourceIds": [
+      "pravda-choma-tolls-response-2010"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-belousovova-rizman-followup-2026",
+    "candidateId": "candidate-85",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Neskoršie autorské stanovisko Anny Belousovovej"
+    },
+    "text": {
+      "sk": "Anna Belousovová v autorskom stanovisku zverejnenom v Hlavných správach 30. 1. 2026 odmietla ospravedlnenie Jurajovi Rizmanovi aj odstránenie jeho fotografie z predchádzajúceho článku."
+    },
+    "period": "2026-01-30",
+    "sourceIds": [
+      "mt-mr-belousovova-rizman-followup-source-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-jurinova-hospital-followup-2026",
+    "candidateId": "candidate-88",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Neskoršie stanovisko v platenom rozhovore"
+    },
+    "text": {
+      "sk": "Erika Jurinová v platenom rozhovore v Žilinskom večerníku 9. 9. 2026 žiadala od VšZP rovnaké a transparentné pravidlá platieb krajským nemocniciam."
+    },
+    "period": "2026-09-09",
+    "sourceIds": [
+      "mt-mr-jurinova-paid-interview-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-kapitulik-digital-twin-progress-2026",
+    "candidateId": "candidate-89",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Neskorší rozhovor o digitálnom dvojčati"
+    },
+    "text": {
+      "sk": "Martin Kapitulík v rozhovore Jakuba Samka pre Security Magazín z 13. 8. 2026 uviedol, že integrácia mestských systémov ešte prebiehala a plne funkčné digitálne dvojča očakával ako budúci výsledok."
+    },
+    "period": "2026-08-13",
+    "sourceIds": [
+      "mt-mr-kapitulik-security-interview-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-thomka-rules-withdrawn",
+    "candidateId": "mt-stanislav-thomka",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Stiahnutie návrhu rokovacieho poriadku"
+    },
+    "text": {
+      "sk": "Aktuality.sk uviedli, že návrh Stanislava Thomku na spoločný čas hlasovaní bol po kritike stiahnutý."
+    },
+    "period": "2025-02-25",
+    "sourceIds": [
+      "mt-martin-council-conflicts-20250225"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-station-delay",
+    "candidateId": "mt-veronika-gajdosova-ladnakova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Neskorší vývoj zastávky Martin Sever"
+    },
+    "text": {
+      "sk": "STVR 6. marca 2026 informovala, že dokončenie železničnej zastávky Martin Sever sa pre koróziu konštrukcie podchodu posunulo približne o dva mesiace."
+    },
+    "period": "2026-03-06",
+    "sourceIds": [
+      "mt-mr-rail-delay-20260306"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-thomka-station",
+    "candidateId": "mt-stanislav-thomka",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vyjadrenie k železničnej zastávke"
+    },
+    "text": {
+      "sk": "STVR pri reportáži o výstavbe zastávky Martin Sever uviedla vyjadrenie Stanislava Thomku o možnostiach dochádzania vlakom."
+    },
+    "period": "2026-03-06",
+    "sourceIds": [
+      "mt-mr-rail-delay-20260306"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-hudec-stadium-roof-later",
+    "candidateId": "mt-martin-hudec",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Neskoršie dokončenie strechy štadióna"
+    },
+    "text": {
+      "sk": "Martinské noviny v októbri 2025 informovali o dokončení rekonštrukcie strechy zimného štadióna."
+    },
+    "period": "správa 21. októbra 2025",
+    "sourceIds": [
+      "mt-mr-roof-martinske-20251021"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-cervenova-appointed",
+    "candidateId": "mt-tatiana-cervenova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vymenovanie hlavnej hygieničky"
+    },
+    "text": {
+      "sk": "ta3 informovala, že Zuzana Dolinková vymenovala Tatianu Červeňovú za hlavnú hygieničku SR s nástupom od 15. februára 2024."
+    },
+    "period": "2024-02-14 až 2024-02-15",
+    "sourceIds": [
+      "mt-mr-cervenova-appointed-20240214"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-cervenova-advisory-board",
+    "candidateId": "mt-tatiana-cervenova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Pracovný plán hlavnej hygieničky"
+    },
+    "text": {
+      "sk": "RTVS uviedla, že Tatiana Červeňová chcela pri Úrade verejného zdravotníctva SR vytvoriť poradný tím odborníkov."
+    },
+    "period": "2024-03-01",
+    "sourceIds": [
+      "mt-mr-cervenova-work-plan-20240301"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-cervenova-professional-comment",
+    "candidateId": "mt-tatiana-cervenova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Odborné vyjadrenie v reportáži"
+    },
+    "text": {
+      "sk": "STVR v reportáži o problémoch bytovky v Martine citovala Tatianu Červeňovú k možnostiam kontroly súkromného obydlia úradmi verejného zdravotníctva."
+    },
+    "period": "2026-01-23",
+    "sourceIds": [
+      "mt-mr-cervenova-bedbugs-20260123"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-badova-bear-team-interview",
+    "candidateId": "mt-zuzana-badova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Inštitucionálny rozhovor o zásahovom tíme"
+    },
+    "text": {
+      "sk": "Štátna ochrana prírody SR v rozhovore predstavila Zuzanu Badovú ako členku zásahového tímu Západ."
+    },
+    "period": "2023-10-04",
+    "sourceIds": [
+      "mt-mr-badova-bear-team-20231004"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-kristoffy-poincenot",
+    "candidateId": "mt-jozef-kristoffy",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor o výstupe v Patagónii"
+    },
+    "text": {
+      "sk": "Jozef Krištoffy v rozhovore pre Martinské noviny uviedol, že v roku 2024 vystúpil na Aguja Poincenot v Patagónii."
+    },
+    "period": "2024",
+    "sourceIds": [
+      "mt-mr-martinske-20240312"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-kristoffy-festival-organizer",
+    "candidateId": "mt-jozef-kristoffy",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Festival Hory a mesto"
+    },
+    "text": {
+      "sk": "Martinské noviny uviedli Jozefa Krištoffyho ako organizátora filmovej noci Hory a mesto plánovanej na 20. júla 2024 v martinskom Amfiku."
+    },
+    "period": "2024-07-16 až 2024-07-20",
+    "sourceIds": [
+      "mt-mr-martinske-20240716"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-matejicka-newborn-benefit",
+    "candidateId": "mt-michal-matejicka",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vyjadrenie k príspevku pre rodičov"
+    },
+    "text": {
+      "sk": "Martinské noviny pri správe o zavedení príspevku 100 eur pri narodení dieťaťa citovali podporu tohto opatrenia od Michala Matejičku."
+    },
+    "period": "2024-03-12",
+    "sourceIds": [
+      "mt-mr-martinske-20240312"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-pacalaj-martin-return",
+    "candidateId": "mt-marek-pacalaj",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Návrat do martinského hokeja"
+    },
+    "text": {
+      "sk": "Hokejový svet informoval, že Marek Pacalaj sa pre sezónu 2025/26 vrátil do MHA Martin z HC Frýdek-Místek."
+    },
+    "period": "2025-06-14; sezóna 2025/26",
+    "sourceIds": [
+      "mt-mr-pacalaj-return-20250614"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-pacalaj-2026-roster",
+    "candidateId": "mt-marek-pacalaj",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Súpiska Rytierov Martin"
+    },
+    "text": {
+      "sk": "SZĽH zaradil Mareka Pacalaja medzi obrancov Rytierov Martin na súpiske pre sezónu 2026/27 zverejnenej 12. septembra 2026."
+    },
+    "period": "2026-09-12; sezóna 2026/27",
+    "sourceIds": [
+      "mt-mr-pacalaj-roster-20260912"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-hudec-hospital-origin",
+    "candidateId": "mt-martin-hudec",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Začiatok vedenia nemocnice v Partizánskom"
+    },
+    "text": {
+      "sk": "Penta Hospitals v oznámení uviedla, že Martina Hudeca 27. marca 2019 vymenovali za riaditeľa nemocnice v Partizánskom."
+    },
+    "period": "2019-03-27",
+    "sourceIds": [
+      "mt-mr-hudec-appointment-20190328"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-torok-parking-proposal",
+    "candidateId": "mt-peter-torok",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Návrh k vyhradeným parkovacím miestam"
+    },
+    "text": {
+      "sk": "Martinské noviny informovali, že Peter Török navrhol zvýšiť prípustný podiel vyhradených parkovacích miest z 50 na 70 percent."
+    },
+    "period": "január 2025",
+    "sourceIds": [
+      "mt-mr-parking-martinske-20250218"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-torok-parking-not-approved",
+    "candidateId": "mt-peter-torok",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Hlasovanie o parkovacom návrhu"
+    },
+    "text": {
+      "sk": "Podľa Martinských novín návrh Petra Töröka na zvýšenie podielu vyhradených parkovacích miest nezískal potrebné hlasy."
+    },
+    "period": "január 2025",
+    "sourceIds": [
+      "mt-mr-parking-martinske-20250218"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-diabelko-mayoral-announcement",
+    "candidateId": "mt-juraj-diabelko",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Kandidatúra na primátora Vrútok"
+    },
+    "text": {
+      "sk": "TASR uviedla Juraja Diabelka medzi dvoma zaregistrovanými kandidátmi na primátora Vrútok."
+    },
+    "period": "2026-09-03",
+    "sourceIds": [
+      "mt-mr-diabelko-mayoral-20260903"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-kubala-intersection-comment",
+    "candidateId": "mt-roman-kubala",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vyjadrenie k rekonštrukcii križovatky"
+    },
+    "text": {
+      "sk": "RTVS pri reportáži o rekonštrukcii križovatky na ceste do Bystričky uviedla vyjadrenie starostu Romana Kubalu o zlepšení bezpečnosti."
+    },
+    "period": "2024-04-09",
+    "sourceIds": [
+      "mt-mr-kubala-intersection-20240409"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-zilak-personal-trainer",
+    "candidateId": "mt-adam-zilak",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor po futbalovej kariére"
+    },
+    "text": {
+      "sk": "Adam Žilák v rozhovore pre Šport.sk uviedol, že pôsobil ako osobný tréner v Martine."
+    },
+    "period": "2019-01-25",
+    "sourceIds": [
+      "mt-mr-zilak-professional-20190125"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-zilak-sports-hall-statement",
+    "candidateId": "mt-adam-zilak",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vyjadrenie k športovej hale"
+    },
+    "text": {
+      "sk": "STVR v reportáži o vlastníckom spore okolo športovej haly v Martine citovala viceprimátora Adama Žiláka, že mesto chce zachovať jej využitie na šport."
+    },
+    "period": "2026-04-24",
+    "sourceIds": [
+      "mt-c3-kozak-hall-stvr"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-thomka-broadcast-criticism",
+    "candidateId": "mt-stanislav-thomka",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Vyjadrenie k prenosom zastupiteľstva"
+    },
+    "text": {
+      "sk": "Aktuality.sk uviedli, že Stanislav Thomka kritizoval zastavenie videoprenosov z rokovaní martinského mestského zastupiteľstva."
+    },
+    "period": "2022-02-08",
+    "sourceIds": [
+      "mt-mr-broadcast-criticism-20220208"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-gallova-curling-representative",
+    "candidateId": "mt-marina-gallova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Curlingová reprezentantka v reportáži"
+    },
+    "text": {
+      "sk": "Aktuality.sk pri reportáži o návrhu curlingovej haly uviedli Marínu Gallovú ako reprezentantku Slovenska v curlingu."
+    },
+    "period": "2024-11-28",
+    "sourceIds": [
+      "mt-mr-curling-20241128"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-gallova-curling-discussion",
+    "candidateId": "mt-marina-gallova",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Otázky pri návrhu curlingovej haly"
+    },
+    "text": {
+      "sk": "Aktuality.sk v reportáži o prenájme pozemku na curlingovú halu opísali otázky poslancov a verejnosti o možnom konflikte záujmov; v tejto súvislosti spomínali poslankyňu Marínu Gallovú."
+    },
+    "period": "2024-11-28",
+    "sourceIds": [
+      "mt-mr-curling-20241128"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-hudec-employer-end-response",
+    "candidateId": "mt-martin-hudec",
+    "category": "media",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie zamestnávateľa ku koncu funkcie"
+    },
+    "text": {
+      "sk": "Jana Fedáková zo Sveta zdravia pre TASR uviedla, že spoluprácu s Martinom Hudecom ukončili po vzájomnej dohode."
+    },
+    "period": "2019-12-13",
+    "sourceIds": [
+      "mt-hudec-hospital-tasr-20191213"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-danko-adverts-followup",
+    "candidateId": "mt-jan-danko",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia"
+    },
+    "text": {
+      "sk": "Filip Lehotský na Žilinak.sk 25. septembra 2026 uviedol, že Ján Danko v reakcii na Transparency tvrdil, že má transparentný účet a hradí z neho aj vybrané platené príspevky na Facebooku."
+    },
+    "period": "25.09.2026",
+    "sourceIds": [
+      "mt-mr-danko-adverts-response-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-danko-lighting-response",
+    "candidateId": "mt-jan-danko",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia"
+    },
+    "text": {
+      "sk": "Magdaléna Paluchová na Aktuality.sk 16. januára 2023 uviedla, že Ján Danko tvrdil, že nebol informovaný o chýbajúcich revíziách verejného osvetlenia."
+    },
+    "period": "16.01.2023",
+    "sourceIds": [
+      "mt-mr-lighting-aktuality-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-kasuba-lighting-report",
+    "candidateId": "mt-peter-kasuba",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "Magdaléna Paluchová v článku o súťaži na správu verejného osvetlenia v Martine na Aktuality.sk 16. januára 2023 uviedla Petra Kašubu ako jedného z riaditeľov spoločnosti Brantner Fatra."
+    },
+    "period": "16.01.2023",
+    "sourceIds": [
+      "mt-mr-lighting-aktuality-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-lighting-review-stopped",
+    "candidateId": "mt-jan-danko",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Oficiálny procesný výsledok"
+    },
+    "text": {
+      "sk": "Správa Útvaru hlavného kontrolóra mesta Martin predložená 30. marca 2023 uvádza, že mestu bolo 6. februára 2023 doručené rozhodnutie ÚVO o zastavení preskúmania zákazky na elektroinštalačné práce na základe námietok spoločnosti Elwork."
+    },
+    "period": "Rozhodnutie doručené 06.02.2023; správa pre rokovanie 30.03.2023",
+    "sourceIds": [
+      "mt-mr-martin-audit-march-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-diskanec-hostel-report",
+    "candidateId": "mt-daniel-diskanec",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "Pravda 27. decembra 2012 uviedla, že obyvatelia kempu pre bezdomovcov v Martine, ktorého správcom bol Daniel Diškanec, stavali murovanú ubytovňu."
+    },
+    "period": "27.12.2012",
+    "sourceIds": [
+      "mt-mr-diskanec-pravda-camp-2012"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-diskanec-energy-report",
+    "candidateId": "mt-daniel-diskanec",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "TASR 14. apríla 2014 informovala o využívaní fotovoltických zariadení v martinskom kempe pre bezdomovcov spravovanom Danielom Diškancom."
+    },
+    "period": "14.04.2014",
+    "sourceIds": [
+      "mt-mr-diskanec-tasr-energy-2014"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-diskanec-camp-resolution-status",
+    "candidateId": "mt-daniel-diskanec",
+    "category": "media",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Oficiálny procesný výsledok"
+    },
+    "text": {
+      "sk": "Správa Útvaru hlavného kontrolóra mesta Martin pre rokovanie 19. júna 2025 uvádza, že uznesenie 270/24, odporúčajúce zachovať kemp prevádzkovaný Danielom Diškancom do návrhu bývania s vyšším štandardom, nebolo podpísané primátorom."
+    },
+    "period": "Uznesenie z 19.12.2024; stav v správe pre 19.06.2025",
+    "sourceIds": [
+      "mt-mr-martin-audit-june-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-lepej-molo-report",
+    "candidateId": "mt-martin-lepej",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "Hank Jarz na ArchDaily 10. decembra 2010 uviedol Martina Lepeja medzi architektmi kultúrneho pavilónu MOLO v Martine."
+    },
+    "period": "10.12.2010",
+    "sourceIds": [
+      "mt-mr-lepej-archdaily-molo-2010"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-hubacek-nomination-report",
+    "candidateId": "mt-igor-hubacek",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "TASR 26. augusta 2026 uviedla Igora Hubáčeka medzi uchádzačmi o post primátora Martina a uviedla, že ho nominovalo hnutie Republika."
+    },
+    "period": "26.08.2026",
+    "sourceIds": [
+      "mt-mayoral-candidacies-tasr-20260826"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-markovic-new-club-report",
+    "candidateId": "mt-jaroslav-markovic",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "Lukáš Maťokár v článku SZĽH z 18. mája 2026 uviedol vyjadrenie Jaroslava Markoviča o pripravovanom vzniku nového klubu Rytieri Martin."
+    },
+    "period": "18.05.2026",
+    "sourceIds": [
+      "mt-mr-markovic-szlh-new-era-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-cambor-school-report",
+    "candidateId": "mt-vladimir-cambor",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "STVR 28. apríla 2026 zverejnila vyjadrenie starostu Vladimíra Čambora, že školu v Kláštore pod Znievom opravujú počas vyučovania."
+    },
+    "period": "28.04.2026",
+    "sourceIds": [
+      "mt-mr-cambor-stvr-school-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-zigova-council-club-report",
+    "candidateId": "mt-dana-zigova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "Magdaléna Paluchová na Aktuality.sk 15. novembra 2022 uviedla Danu Žigovú medzi poslancami klubu Spoločný cieľ v Martine."
+    },
+    "period": "15.11.2022",
+    "sourceIds": [
+      "mt-poslanecke-kluby-20221115"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-krajcova-drienok-report",
+    "candidateId": "mt-elena-krajcova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "Magdaléna Paluchová na Aktuality.sk 5. júla 2023 informovala, že Mošovce nezískali očakávanú investíciu 260-tisíc eur na opravu areálu Drienok."
+    },
+    "period": "05.07.2023",
+    "sourceIds": [
+      "mt-mr-krajcova-drienok-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-krajcova-drienok-statement",
+    "candidateId": "mt-elena-krajcova",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia"
+    },
+    "text": {
+      "sk": "Magdaléna Paluchová na Aktuality.sk 5. júla 2023 uviedla, že Elena Krajčová spájala zastavenie investície do Drienka so zmenou vedenia Slovak Investment Holding."
+    },
+    "period": "05.07.2023",
+    "sourceIds": [
+      "mt-mr-krajcova-drienok-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-drienok-cb-espri-response",
+    "candidateId": "mt-elena-krajcova",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia"
+    },
+    "text": {
+      "sk": "Podľa článku Magdalény Paluchovej na Aktuality.sk z 5. júla 2023 Miroslav Beblavý z CB ESPRI odmietol vysvetlenie spájajúce zastavenie investície do Drienka so zmenou vedenia SIH; uviedol problém s pravidlami pre malé a stredné podniky pri väčšinovo verejnej spoločnosti."
+    },
+    "period": "05.07.2023",
+    "sourceIds": [
+      "mt-mr-krajcova-drienok-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-drienok-sih-response",
+    "candidateId": "mt-elena-krajcova",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Reakcia"
+    },
+    "text": {
+      "sk": "Slovak Investment Holding v stanovisku doplnenom do článku Aktuality.sk z 5. júla 2023 uviedol, že o investíciách fondu nerozhoduje a nezastavil žiadnu investíciu z fondov na podporu sociálnej ekonomiky."
+    },
+    "period": "Článok z 05.07.2023 so stanoviskom SIH",
+    "sourceIds": [
+      "mt-mr-krajcova-drienok-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-krajcova-alzheimer-report",
+    "candidateId": "mt-elena-krajcova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "Magdaléna Paluchová na Aktuality.sk 19. augusta 2023 uviedla, že Elena Krajčová sa vyjadrila, že pre plánované alzheimerovo centrum v Mošovciach by vedeli nájsť kvalifikovaný personál."
+    },
+    "period": "19.08.2023",
+    "sourceIds": [
+      "mt-mr-krajcova-alzheimer-centre-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-doskocil-guide-category-report",
+    "candidateId": "mt-ivan-doskocil",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "TASR 31. marca 2012 informovala, že kategóriu horských vodcov na Memoriáli Vlada Tatarku vyhral Ivan Doskočil."
+    },
+    "period": "31.03.2012",
+    "sourceIds": [
+      "mt-mr-doskocil-tasr-memorial-2012"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-vanko-museum-report",
+    "candidateId": "mt-lubomir-vanko",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "STVR 27. februára 2026 zverejnila vyjadrenie Ľubomíra Vaňka, správcu Hasičského múzea a veliteľa DHZ Martin-Priekopa, o využití vitrín z literárneho múzea na sprístupnenie dokumentov a zbierok."
+    },
+    "period": "27.02.2026",
+    "sourceIds": [
+      "mt-mr-vanko-stvr-museum-2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-babka-cup-report",
+    "candidateId": "mt-daniel-babka",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "SITA v správe na Šport.sk z 30. marca 2025 uviedla, že Daniel Babka mladší zdvihol pohár po víťazstve Martina v play-off 2. hokejovej ligy."
+    },
+    "period": "30.03.2025",
+    "sourceIds": [
+      "mt-mr-babka-sita-cup-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-matovcik-office-transition-report",
+    "candidateId": "mt-marcel-matovcik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálna správa"
+    },
+    "text": {
+      "sk": "TASR v článku na Aktuality.sk zo 17. júna 2024 uviedla, že Marcel Maťovčík sa začiatkom roku 2023 vzdal poslaneckého mandátu v Martine pre nezlučiteľnosť s funkciou hlavného kontrolóra."
+    },
+    "period": "Správa 17.06.2024 o začiatku roku 2023",
+    "sourceIds": [
+      "mt-mr-matovcik-resignation-tasr-2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-uhercik-population-meeting-not-opened",
+    "candidateId": "mt-michal-uhercik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Následná správa TASR"
+    },
+    "text": {
+      "sk": "TASR 30. júla 2025 informovala, že mimoriadne rokovanie martinského zastupiteľstva o rozpočtových dôsledkoch poklesu počtu obyvateľov sa neuskutočnilo pre nedostatočnú účasť poslancov."
+    },
+    "period": "30.07.2025",
+    "sourceIds": [
+      "mt-mr-martin-quorum-tasr-2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ftorek-parking-protest2021",
+    "candidateId": "mt-milan-ftorek",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "Pravda 3. 5. 2021 uviedla Milana Ftoreka z občianskeho združenia Reštart ako organizátora protestu proti podobe parkovacej politiky v Martine."
+    },
+    "period": "29. 4. 2021; článok 3. 5. 2021",
+    "sourceIds": [
+      "mt-mr-ftorek-protest2021"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ftorek-complaint-threat2021",
+    "candidateId": "mt-milan-ftorek",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "Eva Štenclová v Pravde 6. 5. 2021 informovala, že viceprimátor Rudolf Kollár avizoval trestné oznámenie po kritike Milana Ftoreka na mestskom zastupiteľstve."
+    },
+    "period": "6. 5. 2021; článok nepotvrdzuje podanie oznámenia",
+    "sourceIds": [
+      "mt-mr-ftorek-threat2021"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ftorek-threat-response2021",
+    "candidateId": "mt-milan-ftorek",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie k udalosti"
+    },
+    "text": {
+      "sk": "Milan Ftorek pre Pravdu označil avizované trestné oznámenie viceprimátora Rudolfa Kollára za absurdné."
+    },
+    "period": "6. 5. 2021",
+    "sourceIds": [
+      "mt-mr-ftorek-threat2021"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ftorek-commission-proposal2021",
+    "candidateId": "mt-milan-ftorek",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "Magdaléna Paluchová v Aktuality.sk 24. 6. 2021 informovala o návrhu odvolať Milana Ftoreka z kultúrnej komisie mesta Martin."
+    },
+    "period": "24. 6. 2021; ide o návrh, nie o potvrdený výsledok hlasovania",
+    "sourceIds": [
+      "mt-mr-ftorek-commission2021"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ftorek-commission-response2021",
+    "candidateId": "mt-milan-ftorek",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie k udalosti"
+    },
+    "text": {
+      "sk": "Milan Ftorek pre Aktuality.sk uviedol, že návrh na jeho odvolanie z komisie súvisí s jeho kritikou parkovacej politiky."
+    },
+    "period": "24. 6. 2021; stanovisko Milana Ftoreka",
+    "sourceIds": [
+      "mt-mr-ftorek-commission2021"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-lechan-commission-proposal2021",
+    "candidateId": "mt-martin-lechan",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "Aktuality.sk 24. 6. 2021 označili martinského poslanca Martina Lechana za predkladateľa návrhu na odvolanie Milana Ftoreka z kultúrnej komisie."
+    },
+    "period": "24. 6. 2021; návrh neurčuje výsledok hlasovania",
+    "sourceIds": [
+      "mt-mr-ftorek-commission2021"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ftorek-synagogue-columns2021",
+    "candidateId": "mt-milan-ftorek",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "Eva Štenclová v Pravde 16. 3. 2021 informovala o zabezpečení dvoch stĺpov zo zaniknutej martinskej synagógy združením Reštart a citovala Milana Ftoreka."
+    },
+    "period": "16. 3. 2021",
+    "sourceIds": [
+      "mt-mr-ftorek-columns2021b"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ftorek-parking-notice2024",
+    "candidateId": "mt-milan-ftorek",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "Pravda 9. 11. 2024 informovala o trestnom oznámení Milana Ftoreka v súvislosti s hospodárením pri parkovaní; policajná hovorkyňa potvrdila jeho prijatie."
+    },
+    "period": "oznámenie koncom septembra 2024; článok 9. 11. 2024, bez konečného výsledku",
+    "sourceIds": [
+      "mt-mr-ftorek-parking2024"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ftorek-parking-fees2025",
+    "candidateId": "mt-milan-ftorek",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "Pravda 5. 2. 2025 informovala o schválenej zmene parkovacích poplatkov v Martine s účinnosťou od 1. marca vrátane bezplatných víkendov a sviatkov."
+    },
+    "period": "5. 2. 2025; oznámená účinnosť 1. 3. 2025",
+    "sourceIds": [
+      "mt-mr-ftorek-parking2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ftorek-parking-response2025",
+    "candidateId": "mt-milan-ftorek",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie k udalosti"
+    },
+    "text": {
+      "sk": "Milan Ftorek pre Pravdu označil februárom opísanú zmenu parkovacích poplatkov za kozmetickú úpravu a uviedol, že petícia pokračuje."
+    },
+    "period": "5. 2. 2025",
+    "sourceIds": [
+      "mt-mr-ftorek-parking2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ciller-team-media2026",
+    "candidateId": "mt-jozef-ciller",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "TASR 9. 7. 2026 uviedla scénografa Jozefa Cillera medzi členmi tímu Milana Ftoreka pre komunálne voľby v Martine."
+    },
+    "period": "9. 7. 2026",
+    "sourceIds": [
+      "mt-c3-ftorek-candidacy-tasr"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-martinicka-team-media2026",
+    "candidateId": "mt-alzbeta-martinicka",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "TASR 9. 7. 2026 uviedla riaditeľku Turčianskej knižnice Alžbetu Martinickú medzi členmi tímu Milana Ftoreka pre komunálne voľby v Martine."
+    },
+    "period": "9. 7. 2026",
+    "sourceIds": [
+      "mt-c3-ftorek-candidacy-tasr"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-hustava-team-media2026",
+    "candidateId": "mt-pavol-hustava",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "TASR 9. 7. 2026 uviedla odborára Pavla Húšťavu medzi členmi tímu Milana Ftoreka pre komunálne voľby v Martine."
+    },
+    "period": "9. 7. 2026",
+    "sourceIds": [
+      "mt-c3-ftorek-candidacy-tasr"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-petras-petition-media2026",
+    "candidateId": "mt-jozef-petras",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "STVR 2. 3. 2026 citovala Jozefa Petráša v reportáži o petícii za premenovanie Moskovskej ulice a Kina Moskva v Martine."
+    },
+    "period": "2. 3. 2026",
+    "sourceIds": [
+      "mt-mr-petras-petition-report"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-petras-petition-street-outcome2026",
+    "candidateId": "mt-jozef-petras",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Úradné vybavenie petície"
+    },
+    "text": {
+      "sk": "Mesto Martin pri vybavení petície P2/26 dospelo k záveru, že premenovanie Moskovskej ulice v tom čase nebolo v súlade s verejným záujmom."
+    },
+    "period": "vybavenie petície 14. 7. 2026; zverejnenie 15. 7. 2026",
+    "sourceIds": [
+      "mt-mr-petras-petition-result"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-petras-petition-cinema-outcome2026",
+    "candidateId": "mt-jozef-petras",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Úradné vybavenie petície"
+    },
+    "text": {
+      "sk": "Mesto Martin vo výsledku vybavenia petície P2/26 uviedlo, že spoločnosť prevádzkujúcu Kino Moskva informovalo o doručenej petícii."
+    },
+    "period": "vybavenie petície 14. 7. 2026; ide o procesný krok, nie potvrdenie premenovania",
+    "sourceIds": [
+      "mt-mr-petras-petition-result"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-hustava-strike-june2025",
+    "candidateId": "mt-pavol-hustava",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "Juliána Hazuchová v Aktuality.sk 17. 6. 2025 informovala o dvojhodinovom výstražnom štrajku zamestnancov Ecco v Martine a citovala odborára Pavla Húšťavu."
+    },
+    "period": "17. 6. 2025",
+    "sourceIds": [
+      "mt-mr-hustava-ecco-june2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-hustava-ecco-company-response2025",
+    "candidateId": "mt-pavol-hustava",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie k udalosti"
+    },
+    "text": {
+      "sk": "Zástupca Ecco Matej Kováč pre Aktuality.sk odmietol ďalšie odstupné s odôvodnením finančnej stability spoločnosti."
+    },
+    "period": "17. 6. 2025; stanovisko zástupcu zamestnávateľa",
+    "sourceIds": [
+      "mt-mr-hustava-ecco-june2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-hustava-ecco-later2025",
+    "candidateId": "mt-pavol-hustava",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "STVR 14. 11. 2025 pripomenula stratu približne 650 pracovných miest po zatvorení Ecco v Martine a citovala Pavla Húšťavu o hľadaní zamestnania."
+    },
+    "period": "14. 11. 2025; článok neurčuje výsledok rokovaní o zvýšení odstupného",
+    "sourceIds": [
+      "mt-mr-hustava-ecco-nov2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-adamko-water-response2023",
+    "candidateId": "mt-tibor-adamko",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie k udalosti"
+    },
+    "text": {
+      "sk": "Tibor Adamko ako technický riaditeľ Turčianskej vodárenskej spoločnosti pre RTVS uviedol možnosť splátkového kalendára na opravu prípojky."
+    },
+    "period": "5. 8. 2023",
+    "sourceIds": [
+      "mt-mr-adamko-water2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-adamko-water-later2024",
+    "candidateId": "mt-tibor-adamko",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "STVR 24. 12. 2024 uviedla, že po predchádzajúcej reportáži zaplatil opravu vodovodnej prípojky v Turčianskych Tepliciach anonymný sponzor a dodávka vody bola obnovená."
+    },
+    "period": "24. 12. 2024; ide o opísané praktické riešenie, nie súdny výsledok",
+    "sourceIds": [
+      "mt-c3-adamko-water-stvr"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-vons-video-response2018",
+    "candidateId": "mt-peter-vons",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie k udalosti"
+    },
+    "text": {
+      "sk": "Veronika Remišová pre Denník N uviedla, že požiadala Petra Vonsa o stiahnutie podporného videa a on ho ihneď stiahol."
+    },
+    "period": "25. 10. 2018; článok nepotvrdzuje konečné rozhodnutie strany o podpore",
+    "sourceIds": [
+      "mt-c3-vons-status-dennikn"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-vons-status-forgot2018",
+    "candidateId": "mt-peter-vons",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie k udalosti"
+    },
+    "text": {
+      "sk": "Peter Vons pre Denník N uviedol, že na staršie statusy zabudol, a ospravedlnil sa."
+    },
+    "period": "25. 10. 2018",
+    "sourceIds": [
+      "mt-c3-vons-status-dennikn"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-cicmanec-bear-later2026",
+    "candidateId": "mt-karol-cicmanec",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "TASR 17. 9. 2026 informovala, že zásahový tím eliminoval medveďa, ktorý 15. septembra napadol ženu v Blatnici."
+    },
+    "period": "útok 15. 9. 2026; správa 17. 9. 2026; nejde o samostatne otvorené úradné rozhodnutie",
+    "sourceIds": [
+      "mt-mr-cicmanec-bear-outcome"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-zacharides-rental-plan2026",
+    "candidateId": "mt-branislav-zacharides",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "STVR 14. 4. 2026 citovala primátora Branislava Zacharidesa o pripravovanom mestskom projekte 40 nájomných bytov vo Vrútkach."
+    },
+    "period": "14. 4. 2026; pripravovaný projekt, nie dokončená výstavba",
+    "sourceIds": [
+      "mt-mr-zacharides-housing2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-balosak-transition-media2025",
+    "candidateId": "mt-stefan-balosak",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "TASR 29. 5. 2025 uviedla, že doterajší riaditeľ Správy športových zariadení mesta Martin Štefan Balošák má ukončiť pracovný pomer 30. júna."
+    },
+    "period": "článok 29. 5. 2025; oznámený termín 30. 6. 2025",
+    "sourceIds": [
+      "mt-mr-balosak-transition2025"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-baceova-youth-election2023",
+    "candidateId": "mt-andrea-baceova",
+    "category": "media",
+    "kind": "fact",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "Martinské noviny vo februári 2023 informovali, že študentka Andrea Bačeová bola opätovne zvolená za predsedníčku Parlamentu mladých mesta Martin."
+    },
+    "period": "vydanie 2/2023 z 6. 2. 2023, strana 9",
+    "sourceIds": [
+      "mt-mr-baceova-pmm2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-subrt-professional-media2026",
+    "candidateId": "mt-filip-subrt",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "Rochester Christian University 22. 5. 2026 publikovala článok Emily Carrollovej o Filipovi Šubrtovi a jeho práci manažéra MŠK Fomat Martin."
+    },
+    "period": "22. 5. 2026; inštitucionálny článok univerzity",
+    "sourceIds": [
+      "mt-mr-subrt-rcu2026"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-mlynar-election-origin2022",
+    "candidateId": "mt-jan-mlynar",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Mediálny článok"
+    },
+    "text": {
+      "sk": "TASR v správe o víťazstve Jána Mlynára uviedla, že doplňujúce voľby v Košťanoch nad Turcom vyvolalo úmrtie predchádzajúceho starostu."
+    },
+    "period": "voľby 19. 3. 2022; článok 20. 3. 2022",
+    "sourceIds": [
+      "mt-c3-mlynar-byelection-tasr"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-thomka-broadcast-later-2023",
+    "candidateId": "mt-stanislav-thomka",
+    "category": "media",
+    "kind": "fact",
+    "label": {
+      "sk": "Priame prenosy v neskoršej výročnej správe"
+    },
+    "text": {
+      "sk": "Výročná správa Televízie Turiec za rok 2023 uvádza, že v tomto roku zabezpečovala priame prenosy všetkých verejných rokovaní mestského zastupiteľstva."
+    },
+    "period": "2023",
+    "sourceIds": [
+      "mt-mr-broadcast-report-2023"
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "id": "mt-mr-ftorek-commission-lechan-response2021",
+    "candidateId": "mt-milan-ftorek",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Lechanovo vysvetlenie návrhu na odvolanie"
+    },
+    "text": {
+      "sk": "Martin Lechan pre Aktuality.sk uviedol, že návrh na odvolanie Milana Ftoreka z komisie nesúvisel s jeho kritikou parkovacej politiky."
+    },
+    "period": "2021-06-24",
+    "sourceIds": [
+      "mt-mr-ftorek-commission2021"
     ],
     "checkedAt": "2026-10-03"
   }

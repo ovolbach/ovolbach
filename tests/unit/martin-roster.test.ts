@@ -17,14 +17,24 @@ describe('Martin official 2026 electorate and research', () => {
       .toEqual(fixture.candidates.filter((person: { id: string }) => person.id.startsWith('mt-')));
   });
 
-  it('adds data without modifying any approved original record', async () => {
+  it('preserves approved originals except explicitly audited evidence corrections', async () => {
     const fixture = JSON.parse(await readFile('tests/fixtures/martin-baseline-record-hashes.json', 'utf8'));
+    const audit = JSON.parse(await readFile('research/martin-media-review-2026.json', 'utf8'));
+    const corrections = audit.recordChanges as Array<{ path: string; id: string; before: unknown; after: unknown }>;
     for (const [path, hashes] of Object.entries(fixture)) {
       const records = JSON.parse(await readFile(`src/data/${path}`, 'utf8')) as Array<{ id: string; contestId?: string }>;
       for (const [id, hash] of Object.entries(hashes as Record<string, string>)) {
         const record = records.find((row) => (path.endsWith('/elections.json') ? row.contestId : row.id) === id);
-        expect(record, `${path}:${id}`).toBeDefined();
-        expect(createHash('sha256').update(JSON.stringify(record)).digest('hex'), `${path}:${id}`).toBe(hash);
+        const correction = corrections.find((change) => change.path === path && change.id === id);
+        if (correction) {
+          expect(['sources.json', 'elections/2026/zilinsky-kraj/claims.json', 'elections/2026/zilinsky-kraj/research-coverage.json']).toContain(path);
+          expect(createHash('sha256').update(JSON.stringify(correction.before)).digest('hex'), `${path}:${id}:before`).toBe(hash);
+          if (correction.after === null) expect(record, `${path}:${id}:removed`).toBeUndefined();
+          else expect(record, `${path}:${id}:after`).toEqual(correction.after);
+        } else {
+          expect(record, `${path}:${id}`).toBeDefined();
+          expect(createHash('sha256').update(JSON.stringify(record)).digest('hex'), `${path}:${id}`).toBe(hash);
+        }
       }
     }
   });
@@ -87,11 +97,15 @@ describe('Martin official 2026 electorate and research', () => {
     expect(data.campaignFinance).toHaveLength(124);
     const audit = JSON.parse(await readFile('research/martin-2026.json', 'utf8'));
     expect(audit.candidates).toHaveLength(117);
+    const followup = JSON.parse(await readFile('research/martin-media-review-2026.json', 'utf8'));
+    const changes = followup.coverageChanges as Array<{ before: { candidateId: string; category: string; status: string }; after: { status: string } }>;
     for (const receipt of audit.candidates) {
       expect(Object.keys(receipt.categoryStatuses), receipt.candidateId).toHaveLength(8);
       for (const [category, status] of Object.entries(receipt.categoryStatuses)) {
+        const change = changes.find((row) => row.before.candidateId === receipt.candidateId && row.before.category === category);
+        if (change) expect(change.before.status).toBe(status);
         expect(data.researchCoverage.find((row) => row.candidateId === receipt.candidateId && row.category === category)?.status)
-          .toBe(status);
+          .toBe(change?.after.status ?? status);
       }
     }
   });
@@ -113,8 +127,10 @@ describe('Martin official 2026 electorate and research', () => {
     }
   });
 
-  it('keeps the existing city electorates and all approved claim texts intact', async () => {
-    for (const [citySlug, people, ballots, claims] of [['liptovsky-mikulas', 91, 109, 604], ['ruzomberok', 79, 100, 503]] as const) {
+  it('preserves existing city electorates while adding documented shared-candidate research', async () => {
+    const followup = JSON.parse(await readFile('research/martin-media-review-2026.json', 'utf8'));
+    expect(followup.sharedAddedClaimIds).toHaveLength(17);
+    for (const [citySlug, people, ballots, claims] of [['liptovsky-mikulas', 91, 109, 621], ['ruzomberok', 79, 100, 520]] as const) {
       const { data } = await loadElectionContext({ citySlug, year: 2026 });
       expect(data.candidates).toHaveLength(people);
       expect(data.candidacies).toHaveLength(ballots);

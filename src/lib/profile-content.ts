@@ -79,7 +79,7 @@ export function claimKindLabel(kind: string): string | undefined {
   if (kind === 'election_result') return 'Výsledok volieb';
   if (kind === 'declaration') return 'Vyhlásenie';
   if (kind === 'media_report') return 'Mediálna správa';
-  if (kind === 'response') return 'Vyjadrenie kandidáta';
+  if (kind === 'response') return 'Reakcia';
   if (kind === 'official_outcome') return 'Oficiálny výsledok';
   return undefined;
 }
