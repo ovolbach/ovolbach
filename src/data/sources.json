@@ -2422,7 +2422,7 @@
     "url": "https://www.minv.sk/?adresy-webovych-sidiel-osobitnych-platobnych-uctov-kandidati",
     "title": "Adresy webových sídiel osobitných platobných účtov - kandidáti",
     "publisher": "Ministerstvo vnútra Slovenskej republiky",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-04",
     "language": "sk",
     "type": "official"
   },
@@ -11448,5 +11448,50 @@
     "language": "sk",
     "type": "media",
     "author": "Gabriela Fedičová"
+  },
+  {
+    "id": "finance-national-mayors-2026",
+    "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/150_oso/OSO26_ZZK-Starosta.xlsx",
+    "title": "Zoznam zaregistrovaných kandidátov pre voľby starostov obcí (primátorov miest)",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-04",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "finance-national-councillors-2026",
+    "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/150_oso/OSO26_ZZK-Poslanci.xlsx",
+    "title": "Zoznam zaregistrovaných kandidátov pre voľby poslancov obecných (mestských) zastupiteľstiev",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-04",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "finance-national-chairs-2026",
+    "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/140_vuc/VUC26_ZZK-Predseda.xlsx",
+    "title": "Zoznam zaregistrovaných kandidátov pre voľby predsedov samosprávnych krajov",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-04",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "finance-national-regional-councillors-2026",
+    "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/140_vuc/VUC26_ZZK-Poslanci.xlsx",
+    "title": "Zoznam zaregistrovaných kandidátov pre voľby poslancov zastupiteľstiev samosprávnych krajov",
+    "publisher": "Ministerstvo vnútra Slovenskej republiky",
+    "checkedAt": "2026-10-04",
+    "language": "sk",
+    "type": "official"
+  },
+  {
+    "id": "finance-sokol-candidate-account-2026",
+    "url": "https://miroslavsokol.sk/kandidat/",
+    "title": "Kandidát | miroslavsokol.sk",
+    "publisher": "Miroslav Sokol",
+    "checkedAt": "2026-10-04",
+    "language": "sk",
+    "type": "candidate"
   }
 ]

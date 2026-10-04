@@ -66,7 +66,17 @@ describe('Dolný Kubín additional media and event continuity review', () => {
   it('preserves the approved official roster, finance evidence and full historical election results', async () => {
     const { data } = await loadCity();
     expect(data.candidacies).toEqual(baseline.candidacies);
-    expect(data.campaignFinance).toEqual(baseline.campaignFinance);
+    // Later, separately audited account research may update only the account and its date.
+    const rechecked = new Set(['candidate-85', 'dk-jan-marsinsky', 'dk-jan-prilepok']);
+    for (const approved of baseline.campaignFinance) {
+      const current = data.campaignFinance.find((row) => row.id === approved.id);
+      expect(current, approved.id).toBeDefined();
+      if (rechecked.has(approved.candidateId)) {
+        expect({ ...current, account: approved.account, checkedAt: approved.checkedAt }, approved.id).toEqual(approved);
+      } else {
+        expect(current, approved.id).toEqual(approved);
+      }
+    }
     expect(data.claims.filter((row) => row.kind === 'election_result')).toEqual(baseline.electionResults);
   });
 

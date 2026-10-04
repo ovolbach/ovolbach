@@ -10,7 +10,7 @@ const loadCity = () => loadElectionContext({ citySlug: 'zilina', year: 2026 });
 describe('Žilina official 2026 election guide', () => {
   it('makes the Žilina city and its regional district 11 available as a separate context', async () => {
     expect((await listElectionContextConfigs()).find((row) => row.citySlug === 'zilina')).toMatchObject({
-      cityName: 'Žilina', year: 2026, snapshotDate: '2026-10-03', regionalDistrictId: '2026-zsk-region-11',
+      cityName: 'Žilina', year: 2026, snapshotDate: '2026-10-04', regionalDistrictId: '2026-zsk-region-11',
       contestIds: { mayor: '2026-za-mayor', 'city-council': '2026-za-city-council' },
     });
   });
@@ -104,6 +104,14 @@ describe('Žilina official 2026 election guide', () => {
     expect(data.claims.filter((row) => row.candidateId.startsWith('za-') && row.kind === 'election_result')
       .map(({ id, candidateId, text, period, election, sourceIds }) => ({ id, candidateId, text, period, election, sourceIds })))
       .toEqual(historicalResults);
+  });
+
+  it('separates years from preceding words in historical election headings', async () => {
+    const { data } = await loadCity();
+    const joinedYears = data.claims
+      .filter((claim) => claim.kind === 'election_result' && /\p{L}\d{4}\b/u.test(claim.label.sk))
+      .map(({ id, label }) => ({ id, label: label.sk }));
+    expect(joinedYears).toEqual([]);
   });
 
   it('excludes optional claims whose exact originals are inaccessible at the snapshot', async () => {

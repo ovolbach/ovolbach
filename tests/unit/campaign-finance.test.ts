@@ -47,7 +47,7 @@ describe('finance release data', () => {
     expect(data.researchCoverage).toHaveLength(91 * 8);
     expect(validateDataset(data, 'release')).toEqual([]);
     for (const row of data.campaignFinance) {
-      expect(row.checkedAt).toBe('2026-10-03');
+      expect(row.checkedAt).toBe(row.candidateId === 'candidate-85' ? '2026-10-04' : '2026-10-03');
       expect(row.electionDate).toBe('2026-10-24');
       expect(row.sourceIds.length).toBeGreaterThan(0);
     }
@@ -82,7 +82,7 @@ describe('finance release data', () => {
     const row = data.campaignFinance[0]!;
     expect(validateDataset({ ...data, campaignFinance: [{ ...row, partyIds: [] }, ...data.campaignFinance.slice(1)] }, 'release').map((issue) => issue.code)).toContain('missing_finance_nomination');
     const context = await loadElectionContext({ citySlug: 'liptovsky-mikulas', year: 2026 });
-    expect(() => assembleElectionContext({ ...data, campaignFinance: [{ ...row, checkedAt: '2026-10-04' }, ...data.campaignFinance.slice(1)] }, context)).toThrow('Finance verification exceeds snapshot');
+    expect(() => assembleElectionContext({ ...data, campaignFinance: [{ ...row, checkedAt: '2026-10-05' }, ...data.campaignFinance.slice(1)] }, context)).toThrow('Finance verification exceeds snapshot');
   });
   it('keeps account evidence and legal exemption independent, allowing voluntary council accounts', () => {
     const data = makeGuideData();

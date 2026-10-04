@@ -1,0 +1,2942 @@
+{
+  "checkedAt": "2026-10-04",
+  "period": "voľby 24. októbra 2026",
+  "authorization": "User explicitly requested account verification by exclusion of other compatible candidates, or by direct candidate-owned publication. Exclusion joins are documented as deductions from the complete national lists, not as direct links in the name-only account register.",
+  "scope": {
+    "candidates": 9,
+    "nationalCandidacies": 49272,
+    "verified": 8,
+    "unverified": 1
+  },
+  "nationalSources": [
+    {
+      "sourceId": "finance-national-mayors-2026",
+      "rows": 6560,
+      "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3"
+    },
+    {
+      "sourceId": "finance-national-councillors-2026",
+      "rows": 40184,
+      "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310"
+    },
+    {
+      "sourceId": "finance-national-chairs-2026",
+      "rows": 56,
+      "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e"
+    },
+    {
+      "sourceId": "finance-national-regional-councillors-2026",
+      "rows": 2472,
+      "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed"
+    }
+  ],
+  "normalization": "Case-insensitive, Unicode NFD with diacritics removed, whitespace collapsed; age, municipality, occupation and titles checked before treating repeated candidacies as one person. This also searches near-spelling Danko/Daňko.",
+  "candidates": [
+    {
+      "candidateId": "candidate-85",
+      "name": "Anna BELOUSOVOVÁ",
+      "checkedAt": "2026-10-04",
+      "period": "voľby 24. októbra 2026",
+      "method": "national_register_elimination",
+      "rationale": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+      "nationalMatches": [
+        {
+          "kind": "council",
+          "row": 14626,
+          "values": [
+            "Čadca",
+            "Čadca",
+            "4",
+            "1",
+            "Anna",
+            "Belousovová",
+            "RNDr.",
+            "67",
+            "viceprimátorka",
+            "Republika",
+            "502"
+          ]
+        },
+        {
+          "kind": "chair",
+          "row": 29,
+          "values": [
+            "Žilinský samosprávny kraj",
+            "1",
+            "Anna",
+            "Belousovová",
+            "RNDr.",
+            "",
+            "67",
+            "viceprimátorka",
+            "Čadca",
+            "Republika"
+          ]
+        },
+        {
+          "kind": "regional",
+          "row": 1072,
+          "values": [
+            "Žilinský samosprávny kraj",
+            "2",
+            "2",
+            "Anna",
+            "Belousovová",
+            "RNDr.",
+            "",
+            "67",
+            "viceprimátorka",
+            "Čadca",
+            "Republika"
+          ]
+        }
+      ],
+      "before": {
+        "id": "finance-candidate-85",
+        "candidateId": "candidate-85",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "zsk-chair-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "region-chair",
+            "locality": "Žilinský samosprávny kraj",
+            "independent": false,
+            "sourceIds": [
+              "zsk-chair-roster-2026"
+            ]
+          }
+        ],
+        "partyIds": [
+          "republika"
+        ],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "zsk-chair-roster-2026"
+          ],
+          "reason": "Register MV SR uvádza účet pod zhodným menom. Prepojenie na túto kandidátku sa nepodarilo potvrdiť dvoma ďalšími identifikačnými údajmi; osobný odkaz preto neuvádzame."
+        }
+      },
+      "after": {
+        "id": "finance-candidate-85",
+        "candidateId": "candidate-85",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "zsk-chair-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "region-chair",
+            "locality": "Žilinský samosprávny kraj",
+            "independent": false,
+            "sourceIds": [
+              "zsk-chair-roster-2026"
+            ]
+          }
+        ],
+        "partyIds": [
+          "republika"
+        ],
+        "account": {
+          "status": "verified",
+          "url": "https://ib.fio.sk/ib/transparent?a=2603546837",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Čadca",
+              "sourceIds": [
+                "zsk-chair-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "zsk-chair-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "candidateId": "rk-lubomir-kuban",
+      "name": "Ľubomír KUBÁŇ",
+      "checkedAt": "2026-10-04",
+      "period": "voľby 24. októbra 2026",
+      "method": "national_register_elimination",
+      "rationale": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+      "nationalMatches": [
+        {
+          "kind": "mayor",
+          "row": 2725,
+          "values": [
+            "Ružomberok",
+            "Ružomberok",
+            "2",
+            "Ľubomír",
+            "Kubáň",
+            "JUDr.",
+            "51",
+            "primátor mesta",
+            "Nezávislý kandidát",
+            "508"
+          ]
+        },
+        {
+          "kind": "regional",
+          "row": 1250,
+          "values": [
+            "Žilinský samosprávny kraj",
+            "8",
+            "17",
+            "Ľubomír",
+            "Kubáň",
+            "JUDr.",
+            "",
+            "51",
+            "primátor mesta",
+            "Ružomberok",
+            "nezávislý kandidát"
+          ]
+        }
+      ],
+      "before": {
+        "id": "finance-rk-lubomir-kuban",
+        "candidateId": "rk-lubomir-kuban",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "rk-mayor-roster-2026",
+          "rk-zsk-district-8-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Ružomberok",
+            "population": 25868,
+            "independent": true,
+            "sourceIds": [
+              "rk-mayor-roster-2026",
+              "rk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "Register MV SR obsahuje zhodné meno, ale spojenie s touto osobou a kampaňou 2026 nebolo potvrdené najmenej dvoma ďalšími identifikačnými údajmi."
+        }
+      },
+      "after": {
+        "id": "finance-rk-lubomir-kuban",
+        "candidateId": "rk-lubomir-kuban",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "rk-mayor-roster-2026",
+          "rk-zsk-district-8-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Ružomberok",
+            "population": 25868,
+            "independent": true,
+            "sourceIds": [
+              "rk-mayor-roster-2026",
+              "rk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://transparentneucty.sk/#/ucet/SK6909000000005252528488",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Ružomberok",
+              "sourceIds": [
+                "rk-mayor-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "rk-mayor-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "candidateId": "mt-jan-danko",
+      "name": "Ján DANKO",
+      "checkedAt": "2026-10-04",
+      "period": "voľby 24. októbra 2026",
+      "method": "unresolved_namesakes",
+      "rationale": "The register gives only Ján Danko. Two other exact-name council candidates and one Daňko near-spelling candidate remain in the national lists. A campaign-account label and the titled person in an outgoing payment note corroborate campaign involvement but do not establish account ownership. No direct candidate-owned account publication was verified. The account link remains withheld.",
+      "nationalMatches": [
+        {
+          "kind": "mayor",
+          "row": 2554,
+          "values": [
+            "Martin",
+            "Martin",
+            "2",
+            "Ján",
+            "Danko",
+            "Prof. MUDr., CSc.",
+            "76",
+            "primátor mesta",
+            "Nezávislý kandidát",
+            "506"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 28701,
+          "values": [
+            "Prešov",
+            "Demjata",
+            "1",
+            "4",
+            "Ján",
+            "Daňko",
+            "",
+            "42",
+            "vedúci skladu",
+            "Nezávislý kandidát",
+            "707"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 37965,
+          "values": [
+            "Sobrance",
+            "Fekišovce",
+            "1",
+            "1",
+            "Ján",
+            "Danko",
+            "",
+            "43",
+            "stavebný robotník",
+            "Sme rodina",
+            "809"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 39793,
+          "values": [
+            "Trebišov",
+            "Streda nad Bodrogom",
+            "1",
+            "6",
+            "Ján",
+            "Danko",
+            "",
+            "65",
+            "dôchodca",
+            "Smer - sociálna demokracia",
+            "811"
+          ]
+        }
+      ],
+      "before": {
+        "id": "finance-mt-jan-danko",
+        "candidateId": "mt-jan-danko",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "V zozname Ministerstva vnútra SR je rovnaké meno. Priradenie účtu ku kandidátovi nebolo potvrdené menom a dvoma ďalšími zhodnými údajmi."
+        }
+      },
+      "after": {
+        "id": "finance-mt-jan-danko",
+        "candidateId": "mt-jan-danko",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "reason": "Register MV SR uvádza meno Ján Danko. V celoštátnych zoznamoch kandidátov pre voľby 2026 sú aj ďalší kandidáti s týmto menom. Priame prepojenie konkrétneho účtu s kandidátom na primátora Martina sa nepodarilo potvrdiť; samotná poznámka pri platbe nepreukazuje majiteľa účtu."
+        }
+      }
+    },
+    {
+      "candidateId": "mt-renata-habrunova",
+      "name": "Renáta HABRUNOVÁ",
+      "checkedAt": "2026-10-04",
+      "period": "voľby 24. októbra 2026",
+      "method": "national_register_elimination",
+      "rationale": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+      "nationalMatches": [
+        {
+          "kind": "mayor",
+          "row": 2556,
+          "values": [
+            "Martin",
+            "Martin",
+            "4",
+            "Renáta",
+            "Habrunová",
+            "Ing.",
+            "58",
+            "splnomocnenkyňa pre komunitné otázky, zamestnankyňa vo verejnej správe",
+            "Nezávislý kandidát",
+            "506"
+          ]
+        }
+      ],
+      "before": {
+        "id": "finance-mt-renata-habrunova",
+        "candidateId": "mt-renata-habrunova",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "V zozname Ministerstva vnútra SR je rovnaké meno. Priradenie účtu ku kandidátovi nebolo potvrdené menom a dvoma ďalšími zhodnými údajmi."
+        }
+      },
+      "after": {
+        "id": "finance-mt-renata-habrunova",
+        "candidateId": "mt-renata-habrunova",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK1102000000007259001151&CN",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Martin",
+              "sourceIds": [
+                "mt-municipal-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "mt-municipal-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "candidateId": "mt-jozef-petras",
+      "name": "Jozef PETRÁŠ",
+      "checkedAt": "2026-10-04",
+      "period": "voľby 24. októbra 2026",
+      "method": "national_register_elimination",
+      "rationale": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+      "nationalMatches": [
+        {
+          "kind": "mayor",
+          "row": 2558,
+          "values": [
+            "Martin",
+            "Martin",
+            "6",
+            "Jozef",
+            "Petráš",
+            "Mgr.",
+            "51",
+            "projektový líder centra zelených inovácií, SZČO - expert pre presadzovanie verejného záujmu",
+            "Nezávislý kandidát",
+            "506"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 16542,
+          "values": [
+            "Martin",
+            "Martin",
+            "2",
+            "18",
+            "Jozef",
+            "Petráš",
+            "Mgr.",
+            "51",
+            "projektový líder centra zelených inovácií, SZČO - expert pre presadzovanie verejného záujmu",
+            "Nezávislý kandidát",
+            "506"
+          ]
+        },
+        {
+          "kind": "regional",
+          "row": 1203,
+          "values": [
+            "Žilinský samosprávny kraj",
+            "6",
+            "34",
+            "Jozef",
+            "Petráš",
+            "Mgr.",
+            "",
+            "51",
+            "projektový líder centra zelených inovácií, SZČO - expert pre presadzovanie verejného záujmu",
+            "Martin",
+            "nezávislý kandidát"
+          ]
+        }
+      ],
+      "before": {
+        "id": "finance-mt-jozef-petras",
+        "candidateId": "mt-jozef-petras",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-zsk-district-6-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "V zozname Ministerstva vnútra SR je rovnaké meno. Priradenie účtu ku kandidátovi nebolo potvrdené menom a dvoma ďalšími zhodnými údajmi."
+        }
+      },
+      "after": {
+        "id": "finance-mt-jozef-petras",
+        "candidateId": "mt-jozef-petras",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-zsk-district-6-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://transparentneucty.sk/#/ucet/SK8209000000005250777501",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Martin",
+              "sourceIds": [
+                "mt-municipal-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "mt-municipal-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "candidateId": "za-rastislav-johanes",
+      "name": "Rastislav JOHANES",
+      "checkedAt": "2026-10-04",
+      "period": "voľby 24. októbra 2026",
+      "method": "national_register_elimination_with_titles",
+      "rationale": "Register účtov uvádza MUDr. Rastislav Johanes, PhD., MBA. Celoštátne zoznamy obsahujú jednu osobu s týmto menom a titulmi v Žiline; menovec v Kátlovciach má titul Ing., vek 30 rokov a povolanie agronóm.",
+      "nationalMatches": [
+        {
+          "kind": "mayor",
+          "row": 2952,
+          "values": [
+            "Žilina",
+            "Žilina",
+            "3",
+            "Rastislav",
+            "Johanes",
+            "MUDr., PhD., MBA",
+            "61",
+            "lekár, manager",
+            "Nezávislý kandidát",
+            "511"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 5541,
+          "values": [
+            "Trnava",
+            "Kátlovce",
+            "1",
+            "5",
+            "Rastislav",
+            "Johanes",
+            "Ing.",
+            "30",
+            "agronóm",
+            "Nezávislý kandidát",
+            "207"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 18966,
+          "values": [
+            "Žilina",
+            "Žilina",
+            "1",
+            "12",
+            "Rastislav",
+            "Johanes",
+            "MUDr., PhD., MBA.",
+            "61",
+            "lekár, manager",
+            "Nezávislý kandidát",
+            "511"
+          ]
+        },
+        {
+          "kind": "regional",
+          "row": 1320,
+          "values": [
+            "Žilinský samosprávny kraj",
+            "11",
+            "39",
+            "Rastislav",
+            "Johanes",
+            "MUDr.",
+            "PhD., MBA",
+            "61",
+            "lekár, manager",
+            "Žilina",
+            "nezávislý kandidát"
+          ]
+        }
+      ],
+      "before": {
+        "id": "finance-za-rastislav-johanes",
+        "candidateId": "za-rastislav-johanes",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "za-council-roster-2026",
+          "za-mayor-roster-2026",
+          "za-regional-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Žilina",
+            "population": 79218,
+            "independent": true,
+            "sourceIds": [
+              "za-mayor-roster-2026",
+              "za-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "V registri MV SR sa našla menná zhoda. Konkrétny účet sa nepodarilo nezávisle spojiť s osobou a jej kampaňou pomocou dvoch ďalších zhodných údajov."
+        }
+      },
+      "after": {
+        "id": "finance-za-rastislav-johanes",
+        "candidateId": "za-rastislav-johanes",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "za-council-roster-2026",
+          "za-mayor-roster-2026",
+          "za-regional-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Žilina",
+            "population": 79218,
+            "independent": true,
+            "sourceIds": [
+              "za-mayor-roster-2026",
+              "za-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Žilina",
+              "sourceIds": [
+                "za-mayor-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "Register účtov uvádza MUDr. Rastislav Johanes, PhD., MBA. Celoštátne zoznamy obsahujú jednu osobu s týmto menom a titulmi v Žiline; menovec v Kátlovciach má titul Ing., vek 30 rokov a povolanie agronóm.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "za-mayor-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "candidateId": "za-miroslav-sokol",
+      "name": "Miroslav SOKOL",
+      "checkedAt": "2026-10-04",
+      "period": "voľby 24. októbra 2026",
+      "method": "candidate_publication",
+      "rationale": "Kandidát na vlastnej stránke uvádza IBAN SK02 1100 0000 0029 7308 5679, ktorý sa zhoduje s odkazom v registri MV SR.",
+      "nationalMatches": [
+        {
+          "kind": "mayor",
+          "row": 2957,
+          "values": [
+            "Žilina",
+            "Žilina",
+            "8",
+            "Miroslav",
+            "Sokol",
+            "Ing.",
+            "47",
+            "elektrotechnik",
+            "Nezávislý kandidát",
+            "511"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 5703,
+          "values": [
+            "Trnava",
+            "Suchá nad Parnou",
+            "1",
+            "9",
+            "Miroslav",
+            "Sokol",
+            "",
+            "33",
+            "vodič-strojník",
+            "Nezávislý kandidát",
+            "207"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 14201,
+          "values": [
+            "Zlaté Moravce",
+            "Slepčany",
+            "1",
+            "12",
+            "Miroslav",
+            "Sokol",
+            "",
+            "48",
+            "konateľ spoločnosti",
+            "Nezávislý kandidát",
+            "407"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 19000,
+          "values": [
+            "Žilina",
+            "Žilina",
+            "3",
+            "12",
+            "Miroslav",
+            "Sokol",
+            "Ing.",
+            "47",
+            "elektrotechnik",
+            "Nezávislý kandidát",
+            "511"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 25265,
+          "values": [
+            "Bardejov",
+            "Buclovany",
+            "1",
+            "6",
+            "Miroslav",
+            "Sokol",
+            "Ing.",
+            "39",
+            "projektový manažér",
+            "Hlas - sociálna demokracia",
+            "701"
+          ]
+        },
+        {
+          "kind": "regional",
+          "row": 1352,
+          "values": [
+            "Žilinský samosprávny kraj",
+            "11",
+            "71",
+            "Miroslav",
+            "Sokol",
+            "Ing.",
+            "",
+            "47",
+            "elektrotechnik",
+            "Žilina",
+            "nezávislý kandidát"
+          ]
+        }
+      ],
+      "before": {
+        "id": "finance-za-miroslav-sokol",
+        "candidateId": "za-miroslav-sokol",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "za-council-roster-2026",
+          "za-mayor-roster-2026",
+          "za-regional-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Žilina",
+            "population": 79218,
+            "independent": true,
+            "sourceIds": [
+              "za-mayor-roster-2026",
+              "za-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "V registri MV SR sa našla menná zhoda. Konkrétny účet sa nepodarilo nezávisle spojiť s osobou a jej kampaňou pomocou dvoch ďalších zhodných údajov."
+        }
+      },
+      "after": {
+        "id": "finance-za-miroslav-sokol",
+        "candidateId": "za-miroslav-sokol",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "za-council-roster-2026",
+          "za-mayor-roster-2026",
+          "za-regional-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Žilina",
+            "population": 79218,
+            "independent": true,
+            "sourceIds": [
+              "za-mayor-roster-2026",
+              "za-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-sokol-candidate-account-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Žilina",
+              "sourceIds": [
+                "za-mayor-roster-2026",
+                "finance-sokol-candidate-account-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "Kandidát na vlastnej stránke uvádza IBAN SK02 1100 0000 0029 7308 5679, ktorý sa zhoduje s odkazom v registri MV SR.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-sokol-candidate-account-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "za-mayor-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "candidateId": "dk-jan-marsinsky",
+      "name": "Ján MARŠINSKÝ",
+      "checkedAt": "2026-10-04",
+      "period": "voľby 24. októbra 2026",
+      "method": "national_register_elimination",
+      "rationale": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+      "nationalMatches": [
+        {
+          "kind": "mayor",
+          "row": 2311,
+          "values": [
+            "Dolný Kubín",
+            "Dolný Kubín",
+            "4",
+            "Ján ",
+            "Maršinský",
+            "Ing.",
+            "48",
+            "SZČO",
+            "Nezávislý kandidát",
+            "503"
+          ]
+        },
+        {
+          "kind": "council",
+          "row": 15175,
+          "values": [
+            "Dolný Kubín",
+            "Dolný Kubín",
+            "2",
+            "14",
+            "Ján",
+            "Maršinský",
+            "Ing.",
+            "48",
+            "SZČO",
+            "Nezávislý kandidát",
+            "503"
+          ]
+        }
+      ],
+      "before": {
+        "id": "finance-dk-jan-marsinsky",
+        "candidateId": "dk-jan-marsinsky",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-city-council-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Dolný Kubín",
+            "population": 17219,
+            "independent": true,
+            "sourceIds": [
+              "dk-mayor-roster-2026",
+              "dk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "Register uvádza rovnaké meno; spojenie účtu s kandidátom nebolo potvrdené aspoň dvoma ďalšími identifikačnými znakmi."
+        }
+      },
+      "after": {
+        "id": "finance-dk-jan-marsinsky",
+        "candidateId": "dk-jan-marsinsky",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-city-council-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Dolný Kubín",
+            "population": 17219,
+            "independent": true,
+            "sourceIds": [
+              "dk-mayor-roster-2026",
+              "dk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK9602000000007289989957&CN",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Dolný Kubín",
+              "sourceIds": [
+                "dk-mayor-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "dk-mayor-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "candidateId": "dk-jan-prilepok",
+      "name": "Ján PRÍLEPOK",
+      "checkedAt": "2026-10-04",
+      "period": "voľby 24. októbra 2026",
+      "method": "national_register_elimination",
+      "rationale": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+      "nationalMatches": [
+        {
+          "kind": "mayor",
+          "row": 2312,
+          "values": [
+            "Dolný Kubín",
+            "Dolný Kubín",
+            "5",
+            "Ján ",
+            "Prílepok",
+            "Ing.",
+            "47",
+            "primátor mesta",
+            "Nezávislý kandidát",
+            "503"
+          ]
+        },
+        {
+          "kind": "regional",
+          "row": 1115,
+          "values": [
+            "Žilinský samosprávny kraj",
+            "3",
+            "16",
+            "Ján",
+            "Prílepok",
+            "Ing.",
+            "",
+            "47",
+            "primátor mesta",
+            "Dolný Kubín",
+            "nezávislý kandidát"
+          ]
+        }
+      ],
+      "before": {
+        "id": "finance-dk-jan-prilepok",
+        "candidateId": "dk-jan-prilepok",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-zsk-district-3-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Dolný Kubín",
+            "population": 17219,
+            "independent": true,
+            "sourceIds": [
+              "dk-mayor-roster-2026",
+              "dk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "Register uvádza rovnaké meno; spojenie účtu s kandidátom nebolo potvrdené aspoň dvoma ďalšími identifikačnými znakmi."
+        }
+      },
+      "after": {
+        "id": "finance-dk-jan-prilepok",
+        "candidateId": "dk-jan-prilepok",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-zsk-district-3-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Dolný Kubín",
+            "population": 17219,
+            "independent": true,
+            "sourceIds": [
+              "dk-mayor-roster-2026",
+              "dk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://transparentneucty.sk/#/ucet/SK8109000000005193034583",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Dolný Kubín",
+              "sourceIds": [
+                "dk-mayor-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "dk-mayor-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "limits": [
+    "The six unique-name joins use the user-authorized elimination method across all four national registers, not uniqueness in this guide alone.",
+    "A general bank-directory link on johanes.sk alone was insufficient; the ministry account entry includes the distinguishing medical and postgraduate titles.",
+    "Council candidates may have voluntary accounts. Danko and Sokol namesakes were not excluded merely because an account is not obligatory for them.",
+    "Sokol homepage returned HTTP 466 to the plain reader. Its canonical /kandidat/ page returned HTTP 200 and directly displayed the matching IBAN and Žilina mayor candidacy.",
+    "No donor names, private contact details, counterparty IBANs, balances, payment amounts or personal addresses are reproduced.",
+    "Other candidacies remain not_exhaustive because this focused name recheck did not refresh the whole guide or all candidate rosters. Personal spending and campaign operators remain unknown.",
+    "Independent review rejected upgrading Danko based on a transaction memo. Transaction participation is not legal ownership; a voluntary council account remains possible. No ambiguous bank URL or IBAN is retained in the public data or this receipt."
+  ],
+  "regression": {
+    "red": {
+      "command": "npm test -- tests/unit/campaign-account-recheck.test.ts",
+      "exitCode": 1,
+      "failed": 9
+    },
+    "initialGreen": {
+      "command": "npm test -- tests/unit/campaign-account-recheck.test.ts tests/unit/campaign-finance.test.ts tests/unit/dolny-kubin-research.test.ts tests/unit/ruzomberok-roster.test.ts",
+      "exitCode": 0,
+      "passed": 47,
+      "note": "Before read-only review narrowed the Danko case back to unresolved."
+    },
+    "finalGreen": {
+      "command": "npm test -- tests/unit/campaign-account-recheck.test.ts tests/unit/campaign-finance.test.ts tests/unit/dolny-kubin-research.test.ts tests/unit/ruzomberok-roster.test.ts tests/unit/approved-record-preservation.test.ts",
+      "exitCode": 0,
+      "passed": 50,
+      "includes": "Eight exact verified account links, Danko withheld, identity sources, preserved uncertainty, and exact audited historical-record corrections."
+    },
+    "auditRegistrationRed": {
+      "command": "npm test -- tests/unit/approved-record-preservation.test.ts",
+      "exitCode": 1,
+      "passed": 2,
+      "failed": 1,
+      "reason": "New exact finance correction was not registered in the historical-record preservation helper."
+    }
+  },
+  "verification": [
+    {
+      "command": "npm test",
+      "exitCode": 1,
+      "passed": 393,
+      "failed": 6,
+      "skipped": 4,
+      "baseline": {
+        "method": "git archive HEAD into an isolated ignored scratch copy, with installed dependencies reused; npm test",
+        "exitCode": 1,
+        "passed": 382,
+        "failed": 6,
+        "skipped": 4
+      },
+      "note": "The exact same six failures reproduce on unchanged HEAD. No additional current unit failures remain.",
+      "failures": [
+        {
+          "file": "tests/unit/dolny-kubin-media-review.test.ts",
+          "reason": "Existing jurinova-hospital-payments-2026 chain references a source absent from its scoped data."
+        },
+        {
+          "file": "tests/unit/dolny-kubin-roster.test.ts",
+          "reason": "Existing Liptovský Mikuláš claim-count expectation 629 differs from actual 632."
+        },
+        {
+          "file": "tests/unit/martin-roster.test.ts",
+          "reason": "Existing coverage-candidate-85-controversies historical fingerprint mismatch."
+        },
+        {
+          "file": "tests/unit/martin-roster.test.ts",
+          "reason": "Existing Liptovský Mikuláš claim-count expectation 621 differs from actual 632."
+        },
+        {
+          "file": "tests/unit/seo-slugs.test.ts",
+          "reason": "Existing dk-tatiana-cervenova slug is tatiana-cervenova-ing, while test expects tatiana-cervenova."
+        },
+        {
+          "file": "tests/unit/zilina-media-followup.test.ts",
+          "reason": "Existing coverage-candidate-85-controversies historical fingerprint mismatch."
+        }
+      ]
+    },
+    {
+      "command": "npm run validate:data",
+      "exitCode": 0,
+      "cycles": 1,
+      "contexts": 5,
+      "published": 5,
+      "issues": 0
+    },
+    {
+      "command": "npm run validate:release",
+      "exitCode": 0,
+      "cycles": 1,
+      "contexts": 5,
+      "published": 5,
+      "issues": 0
+    },
+    {
+      "command": "npm run report:coverage",
+      "exitCode": 0,
+      "releaseReady": true,
+      "pending": 0,
+      "note": "Eight coverage records per candidate retained across all five contexts."
+    },
+    {
+      "command": "npm run build",
+      "exitCode": 0,
+      "htmlPages": 517,
+      "indexedSearchPages": 511
+    },
+    {
+      "command": "npm run check:seo",
+      "exitCode": 0,
+      "canonicalIndexablePages": 511,
+      "noindexComparisonTools": 5,
+      "noindex404Pages": 1
+    },
+    {
+      "command": "npm run check:html",
+      "exitCode": 0,
+      "htmlFiles": 517,
+      "errors": 0,
+      "warnings": 0,
+      "validator": "W3C Nu Checker 26.10.2 (f302f46)"
+    },
+    {
+      "command": "npm run check:storage",
+      "exitCode": 0
+    },
+    {
+      "command": "NODE_OPTIONS=--use-env-proxy npm run check:links",
+      "exitCode": 0,
+      "uniqueUrls": 1207,
+      "note": "Validator allows documented HTTP 403 access limitations requiring manual verification; an allowed status is not independent content confirmation. Ministry spreadsheets, ministry account entries and Sokol candidate page were reopened by both researchers."
+    },
+    {
+      "command": "npm run test:e2e -- --workers=4 --output=node_modules/.cache/finance-checks/e2e-artifacts",
+      "exitCode": 1,
+      "passed": 202,
+      "failed": 6,
+      "skipped": 2,
+      "note": "Four failures were obsolete bank-warning/snapshot assertions, subsequently updated. Two were the default 30-second limit while scanning five Dolný Kubín pages for accessibility; no serious accessibility finding was reported before timeout."
+    },
+    {
+      "command": "Read-only HTML inspection of all affected built candidate pages",
+      "exitCode": 0,
+      "pages": 13,
+      "note": "Exact account link on all eight verified profiles (including Anna in all five cities), no personal account on Danko, every account identity source link present."
+    },
+    {
+      "command": "npm run test:e2e -- --workers=2 --timeout=90000 --grep '(rechecked Žilina|every page exposes snapshot|the new public pages pass serious accessibility checks)' --output=node_modules/.cache/finance-checks/e2e-recheck-artifacts",
+      "exitCode": 0,
+      "passed": 6,
+      "note": "All six failures from the full browser run resolved: updated bank/snapshot assertions pass; five-page accessibility scans finish with no serious or critical findings. Combined coverage: 208 cases passed, 2 skipped; this is a full run plus a focused rerun, not a second full-suite pass."
+    },
+    {
+      "command": "Exact HEAD-to-current finance/source receipt check",
+      "exitCode": 0,
+      "accountDateCorrections": 9,
+      "sourceDateCorrections": 1,
+      "newPrimarySources": 5,
+      "note": "No other campaign-finance fields or records changed; before/after receipts match exactly."
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0
+    }
+  ],
+  "independentReview": {
+    "reviewer": "/root/finance_identity_review",
+    "mode": "independent automated read-only review",
+    "result": "accepted eight verified joins; Danko remains unresolved",
+    "primarySources": "Reviewer independently downloaded all four national registers with HTTP 200, matched SHA-256 receipts, parsed their raw ZIP/XML, checked all name matches and reopened account entries and Sokol publication.",
+    "correction": "Reviewer rejected the initial Danko ownership join based on an outgoing transaction memo; the account link and bank API sources were removed.",
+    "finalTargetedReview": {
+      "command": "npm test -- tests/unit/campaign-account-recheck.test.ts tests/unit/campaign-finance.test.ts tests/unit/dolny-kubin-research.test.ts tests/unit/ruzomberok-roster.test.ts",
+      "exitCode": 0,
+      "passed": 47
+    },
+    "note": "Automated review is not a human editorial or legal opinion.",
+    "followUp": {
+      "result": "accepted; no actionable issues",
+      "scope": "Exact historical-record audit registration, account preservation regression, and updated E2E account/snapshot assertions.",
+      "testsPassed": 12,
+      "inMemoryGuardChecks": 66,
+      "note": "Reviewer verified that unrelated edits, wrong account URLs, wrong record IDs and reverted records remain rejected. Browser assertions were inspected; browser execution was verified separately by the implementing agent."
+    }
+  },
+  "recordChanges": [
+    {
+      "path": "elections/2026/zilinsky-kraj/campaign-finance.json",
+      "id": "finance-candidate-85",
+      "before": {
+        "id": "finance-candidate-85",
+        "candidateId": "candidate-85",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "zsk-chair-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "region-chair",
+            "locality": "Žilinský samosprávny kraj",
+            "independent": false,
+            "sourceIds": [
+              "zsk-chair-roster-2026"
+            ]
+          }
+        ],
+        "partyIds": [
+          "republika"
+        ],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "zsk-chair-roster-2026"
+          ],
+          "reason": "Register MV SR uvádza účet pod zhodným menom. Prepojenie na túto kandidátku sa nepodarilo potvrdiť dvoma ďalšími identifikačnými údajmi; osobný odkaz preto neuvádzame."
+        }
+      },
+      "after": {
+        "id": "finance-candidate-85",
+        "candidateId": "candidate-85",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "zsk-chair-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "region-chair",
+            "locality": "Žilinský samosprávny kraj",
+            "independent": false,
+            "sourceIds": [
+              "zsk-chair-roster-2026"
+            ]
+          }
+        ],
+        "partyIds": [
+          "republika"
+        ],
+        "account": {
+          "status": "verified",
+          "url": "https://ib.fio.sk/ib/transparent?a=2603546837",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Čadca",
+              "sourceIds": [
+                "zsk-chair-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "zsk-chair-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "path": "elections/2026/zilinsky-kraj/campaign-finance.json",
+      "id": "finance-rk-lubomir-kuban",
+      "before": {
+        "id": "finance-rk-lubomir-kuban",
+        "candidateId": "rk-lubomir-kuban",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "rk-mayor-roster-2026",
+          "rk-zsk-district-8-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Ružomberok",
+            "population": 25868,
+            "independent": true,
+            "sourceIds": [
+              "rk-mayor-roster-2026",
+              "rk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "Register MV SR obsahuje zhodné meno, ale spojenie s touto osobou a kampaňou 2026 nebolo potvrdené najmenej dvoma ďalšími identifikačnými údajmi."
+        }
+      },
+      "after": {
+        "id": "finance-rk-lubomir-kuban",
+        "candidateId": "rk-lubomir-kuban",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "rk-mayor-roster-2026",
+          "rk-zsk-district-8-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Ružomberok",
+            "population": 25868,
+            "independent": true,
+            "sourceIds": [
+              "rk-mayor-roster-2026",
+              "rk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://transparentneucty.sk/#/ucet/SK6909000000005252528488",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Ružomberok",
+              "sourceIds": [
+                "rk-mayor-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "rk-mayor-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "path": "elections/2026/zilinsky-kraj/campaign-finance.json",
+      "id": "finance-mt-jan-danko",
+      "before": {
+        "id": "finance-mt-jan-danko",
+        "candidateId": "mt-jan-danko",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "V zozname Ministerstva vnútra SR je rovnaké meno. Priradenie účtu ku kandidátovi nebolo potvrdené menom a dvoma ďalšími zhodnými údajmi."
+        }
+      },
+      "after": {
+        "id": "finance-mt-jan-danko",
+        "candidateId": "mt-jan-danko",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "reason": "Register MV SR uvádza meno Ján Danko. V celoštátnych zoznamoch kandidátov pre voľby 2026 sú aj ďalší kandidáti s týmto menom. Priame prepojenie konkrétneho účtu s kandidátom na primátora Martina sa nepodarilo potvrdiť; samotná poznámka pri platbe nepreukazuje majiteľa účtu."
+        }
+      }
+    },
+    {
+      "path": "elections/2026/zilinsky-kraj/campaign-finance.json",
+      "id": "finance-mt-renata-habrunova",
+      "before": {
+        "id": "finance-mt-renata-habrunova",
+        "candidateId": "mt-renata-habrunova",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "V zozname Ministerstva vnútra SR je rovnaké meno. Priradenie účtu ku kandidátovi nebolo potvrdené menom a dvoma ďalšími zhodnými údajmi."
+        }
+      },
+      "after": {
+        "id": "finance-mt-renata-habrunova",
+        "candidateId": "mt-renata-habrunova",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK1102000000007259001151&CN",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Martin",
+              "sourceIds": [
+                "mt-municipal-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "mt-municipal-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "path": "elections/2026/zilinsky-kraj/campaign-finance.json",
+      "id": "finance-mt-jozef-petras",
+      "before": {
+        "id": "finance-mt-jozef-petras",
+        "candidateId": "mt-jozef-petras",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-zsk-district-6-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "V zozname Ministerstva vnútra SR je rovnaké meno. Priradenie účtu ku kandidátovi nebolo potvrdené menom a dvoma ďalšími zhodnými údajmi."
+        }
+      },
+      "after": {
+        "id": "finance-mt-jozef-petras",
+        "candidateId": "mt-jozef-petras",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-zsk-district-6-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Martin",
+            "population": 49693,
+            "independent": true,
+            "sourceIds": [
+              "mt-municipal-roster-2026",
+              "mt-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://transparentneucty.sk/#/ucet/SK8209000000005250777501",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Martin",
+              "sourceIds": [
+                "mt-municipal-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "mt-municipal-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "path": "elections/2026/zilinsky-kraj/campaign-finance.json",
+      "id": "finance-za-rastislav-johanes",
+      "before": {
+        "id": "finance-za-rastislav-johanes",
+        "candidateId": "za-rastislav-johanes",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "za-council-roster-2026",
+          "za-mayor-roster-2026",
+          "za-regional-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Žilina",
+            "population": 79218,
+            "independent": true,
+            "sourceIds": [
+              "za-mayor-roster-2026",
+              "za-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "V registri MV SR sa našla menná zhoda. Konkrétny účet sa nepodarilo nezávisle spojiť s osobou a jej kampaňou pomocou dvoch ďalších zhodných údajov."
+        }
+      },
+      "after": {
+        "id": "finance-za-rastislav-johanes",
+        "candidateId": "za-rastislav-johanes",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "za-council-roster-2026",
+          "za-mayor-roster-2026",
+          "za-regional-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Žilina",
+            "population": 79218,
+            "independent": true,
+            "sourceIds": [
+              "za-mayor-roster-2026",
+              "za-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Žilina",
+              "sourceIds": [
+                "za-mayor-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "Register účtov uvádza MUDr. Rastislav Johanes, PhD., MBA. Celoštátne zoznamy obsahujú jednu osobu s týmto menom a titulmi v Žiline; menovec v Kátlovciach má titul Ing., vek 30 rokov a povolanie agronóm.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "za-mayor-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "path": "elections/2026/zilinsky-kraj/campaign-finance.json",
+      "id": "finance-za-miroslav-sokol",
+      "before": {
+        "id": "finance-za-miroslav-sokol",
+        "candidateId": "za-miroslav-sokol",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "za-council-roster-2026",
+          "za-mayor-roster-2026",
+          "za-regional-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Žilina",
+            "population": 79218,
+            "independent": true,
+            "sourceIds": [
+              "za-mayor-roster-2026",
+              "za-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "V registri MV SR sa našla menná zhoda. Konkrétny účet sa nepodarilo nezávisle spojiť s osobou a jej kampaňou pomocou dvoch ďalších zhodných údajov."
+        }
+      },
+      "after": {
+        "id": "finance-za-miroslav-sokol",
+        "candidateId": "za-miroslav-sokol",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "za-council-roster-2026",
+          "za-mayor-roster-2026",
+          "za-regional-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Žilina",
+            "population": 79218,
+            "independent": true,
+            "sourceIds": [
+              "za-mayor-roster-2026",
+              "za-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-sokol-candidate-account-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Žilina",
+              "sourceIds": [
+                "za-mayor-roster-2026",
+                "finance-sokol-candidate-account-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "Kandidát na vlastnej stránke uvádza IBAN SK02 1100 0000 0029 7308 5679, ktorý sa zhoduje s odkazom v registri MV SR.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-sokol-candidate-account-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "za-mayor-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "path": "elections/2026/zilinsky-kraj/campaign-finance.json",
+      "id": "finance-dk-jan-marsinsky",
+      "before": {
+        "id": "finance-dk-jan-marsinsky",
+        "candidateId": "dk-jan-marsinsky",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-city-council-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Dolný Kubín",
+            "population": 17219,
+            "independent": true,
+            "sourceIds": [
+              "dk-mayor-roster-2026",
+              "dk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "Register uvádza rovnaké meno; spojenie účtu s kandidátom nebolo potvrdené aspoň dvoma ďalšími identifikačnými znakmi."
+        }
+      },
+      "after": {
+        "id": "finance-dk-jan-marsinsky",
+        "candidateId": "dk-jan-marsinsky",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-city-council-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Dolný Kubín",
+            "population": 17219,
+            "independent": true,
+            "sourceIds": [
+              "dk-mayor-roster-2026",
+              "dk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK9602000000007289989957&CN",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Dolný Kubín",
+              "sourceIds": [
+                "dk-mayor-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "dk-mayor-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "path": "elections/2026/zilinsky-kraj/campaign-finance.json",
+      "id": "finance-dk-jan-prilepok",
+      "before": {
+        "id": "finance-dk-jan-prilepok",
+        "candidateId": "dk-jan-prilepok",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-zsk-district-3-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Dolný Kubín",
+            "population": 17219,
+            "independent": true,
+            "sourceIds": [
+              "dk-mayor-roster-2026",
+              "dk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "unverified",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026"
+          ],
+          "reason": "Register uvádza rovnaké meno; spojenie účtu s kandidátom nebolo potvrdené aspoň dvoma ďalšími identifikačnými znakmi."
+        }
+      },
+      "after": {
+        "id": "finance-dk-jan-prilepok",
+        "candidateId": "dk-jan-prilepok",
+        "electionDate": "2026-10-24",
+        "checkedAt": "2026-10-04",
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-zsk-district-3-roster-2026",
+          "campaign-accounts-candidates-2026"
+        ],
+        "legalSourceIds": [
+          "campaign-law-181-2014",
+          "campaign-faq-candidates-2026",
+          "campaign-faq-candidate-reports-2026",
+          "campaign-faq-parties-2026"
+        ],
+        "ownExpenses": "unknown",
+        "expenseSourceIds": [],
+        "campaignOperator": "unknown",
+        "operatorSourceIds": [],
+        "otherCandidacies": "not_exhaustive",
+        "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+        "headCandidacies": [
+          {
+            "office": "mayor",
+            "locality": "Dolný Kubín",
+            "population": 17219,
+            "independent": true,
+            "sourceIds": [
+              "dk-mayor-roster-2026",
+              "dk-election-population-2026"
+            ]
+          }
+        ],
+        "partyIds": [],
+        "account": {
+          "status": "verified",
+          "url": "https://transparentneucty.sk/#/ucet/SK8109000000005193034583",
+          "sourceIds": [
+            "campaign-accounts-candidates-2026",
+            "finance-national-mayors-2026",
+            "finance-national-councillors-2026",
+            "finance-national-chairs-2026",
+            "finance-national-regional-councillors-2026"
+          ],
+          "identity": [
+            {
+              "attribute": "municipality",
+              "value": "Dolný Kubín",
+              "sourceIds": [
+                "dk-mayor-roster-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "campaign",
+              "value": "V štyroch celoštátnych zoznamoch kandidátov MV SR pre voľby 24. októbra 2026 sa všetky zhody mena vzťahujú na jednu osobu; zhodné kandidatúry boli spojené podľa obce, veku a povolania.",
+              "sourceIds": [
+                "campaign-accounts-candidates-2026",
+                "finance-national-mayors-2026",
+                "finance-national-councillors-2026",
+                "finance-national-chairs-2026",
+                "finance-national-regional-councillors-2026"
+              ]
+            },
+            {
+              "attribute": "election",
+              "value": "Voľby do orgánov územnej samosprávy 24. októbra 2026",
+              "sourceIds": [
+                "dk-mayor-roster-2026",
+                "campaign-accounts-candidates-2026"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "sourceChanges": [
+    {
+      "before": {
+        "id": "campaign-accounts-candidates-2026",
+        "url": "https://www.minv.sk/?adresy-webovych-sidiel-osobitnych-platobnych-uctov-kandidati",
+        "title": "Adresy webových sídiel osobitných platobných účtov - kandidáti",
+        "publisher": "Ministerstvo vnútra Slovenskej republiky",
+        "checkedAt": "2026-10-03",
+        "language": "sk",
+        "type": "official"
+      },
+      "after": {
+        "id": "campaign-accounts-candidates-2026",
+        "url": "https://www.minv.sk/?adresy-webovych-sidiel-osobitnych-platobnych-uctov-kandidati",
+        "title": "Adresy webových sídiel osobitných platobných účtov - kandidáti",
+        "publisher": "Ministerstvo vnútra Slovenskej republiky",
+        "checkedAt": "2026-10-04",
+        "language": "sk",
+        "type": "official"
+      }
+    }
+  ],
+  "environment": [
+    "Default /tmp hit a sandbox quota. Successful checks used a writable workspace TMPDIR.",
+    "Playwright clears test-results at startup. Verification logs, temporary files and the browser were relocated to ignored node_modules/.cache/finance-checks; affected checks were repeated and their summaries read.",
+    "The exact Chrome Headless Shell 153.0.8010.12 / Playwright revision 1243 was restored into the ignored cache; already available local shared libraries were reused. No system packages or project dependencies were changed."
+  ],
+  "snapshotDateChange": {
+    "before": "2026-10-03",
+    "after": "2026-10-04",
+    "contexts": [
+      "liptovsky-mikulas",
+      "ruzomberok",
+      "martin",
+      "zilina",
+      "dolny-kubin"
+    ],
+    "reason": "The rechecked Anna Belousovová regional-chair account is rendered in all five city contexts. Individual unchanged research records retain their original verification dates."
+  },
+  "status": "completed_with_preexisting_unit_failures"
+}

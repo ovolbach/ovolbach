@@ -4,6 +4,7 @@ import { describe, expect, it } from 'vitest';
 import { preservesApprovedRecord } from '../helpers/approved-record-preservation';
 
 const audit = JSON.parse(readFileSync('research/martin-media-review-2026.json', 'utf8'));
+const financeAudit = JSON.parse(readFileSync('research/campaign-account-recheck-2026-10-04.json', 'utf8'));
 const hash = (value: unknown) => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 
 describe('required audited record corrections', () => {
@@ -21,5 +22,15 @@ describe('required audited record corrections', () => {
     expect(preservesApprovedRecord(path, row.id, row.after, expected)).toBe(true);
     expect(preservesApprovedRecord(path, row.id, { ...row.after, checkedAt: row.before.checkedAt }, expected)).toBe(false);
     expect(preservesApprovedRecord(path, row.id, { ...row.after, sourceIds: row.before.sourceIds }, expected)).toBe(false);
+  });
+
+  it('accepts the audited account recheck while rejecting an unrelated URL or reverted account', () => {
+    const receipt = financeAudit.candidates.find((row: { candidateId: string }) => row.candidateId === 'candidate-85');
+    const path = 'src/data/elections/2026/zilinsky-kraj/campaign-finance.json';
+    const expected = hash(receipt.before);
+    expect(preservesApprovedRecord(path, receipt.after.id, receipt.after, expected)).toBe(true);
+    expect(preservesApprovedRecord(path, receipt.before.id, receipt.before, expected)).toBe(false);
+    const wrongAccount = { ...receipt.after, account: { ...receipt.after.account, url: 'https://example.com/unrelated-account' } };
+    expect(preservesApprovedRecord(path, receipt.after.id, wrongAccount, expected)).toBe(false);
   });
 });

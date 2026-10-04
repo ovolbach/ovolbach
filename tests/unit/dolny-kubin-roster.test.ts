@@ -10,7 +10,7 @@ const loadCity = () => loadElectionContext({ citySlug: 'dolny-kubin', year: 2026
 describe('Dolný Kubín official electorate and sourced research', () => {
   it('makes every official contest available in the city guide', async () => {
     expect((await listElectionContextConfigs()).find((config) => config.citySlug === 'dolny-kubin')).toMatchObject({
-      cityName: 'Dolný Kubín', status: 'published', snapshotDate: '2026-10-03', regionalDistrictId: '2026-zsk-region-3',
+      cityName: 'Dolný Kubín', status: 'published', snapshotDate: '2026-10-04', regionalDistrictId: '2026-zsk-region-3',
     });
     expect((await listPublishedElectionContexts()).some((context) => context.basePath === '/dolny-kubin/2026/')).toBe(true);
     const { data } = await loadCity();

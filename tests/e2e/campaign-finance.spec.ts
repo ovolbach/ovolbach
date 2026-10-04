@@ -45,13 +45,13 @@ test('finance distinguishes personal and coalition accounts and shows the source
   await expect(finance).toContainText('§ 6 ods. 8');
   await expect(finance).toContainText('2026-10-03');
 });
-test('council roles and unverified identity remain explicit without publishing an ambiguous personal account', async ({ page }) => {
+test('council duties remain explicit and the rechecked chair account is linked', async ({ page }) => {
   await page.goto(`${BASE}peter-bonko/`);
   await expect(page.locator('[data-campaign-finance]')).toContainText('Pre samostatnú poslaneckú kandidatúru sa nevyžaduje');
   await expect(page.locator('[data-campaign-finance]')).toContainText('ďalších kandidatúr');
   await page.goto(`${BASE}anna-belousovova/`);
-  await expect(page.locator('[data-campaign-finance] [data-personal-account]')).toHaveCount(0);
-  await expect(page.locator('[data-campaign-finance]')).toContainText('dvoma ďalšími identifikačnými údajmi');
+  await expect(page.locator('[data-campaign-finance] [data-personal-account]')).toHaveAttribute('href', 'https://ib.fio.sk/ib/transparent?a=2603546837');
+  await expect(page.locator('[data-campaign-finance]')).toContainText('2026-10-04');
 });
 test('every profile includes finance without contacting bank or party sites', async ({ page, baseURL }) => {
   const externalRequests: string[] = [];

@@ -88,3 +88,22 @@ Six of seven link-check manual cases are unchanged inherited sources/accounts: D
 Fiabáne's initial extraction returned a JavaScript shell; existing Chromium rendered the original with HTTP 200 and complete programme/account text. Kozlík's ordinary Python request returned 403; the canonical original was fully accessible through the web reader. New finance records use reopened current Ministry 2026 FAQs instead of a blocked old Slov-Lex endpoint. Inaccessible regional declaration attachments remain index-only, with per-record limitations.
 
 Native app setup failed because the chat directory is the repository parent; a real `git worktree` was created. Native attachment rejected the unmanaged worktree. Later sandbox setup failed on synthetic `/tmp/.git` quota; permitted execution succeeded. Temporary capture writes also reached quota despite free filesystem capacity. All captures were preserved under `/home/sergey/codex/ovolbach/.research-captures/zilina-2026/`, with `/tmp/zilina-research` and its cohort-B path retained as symlinks; paths/hashes remain valid. Descriptor limits were raised only for affected commands. These environment adjustments do not change public data.
+
+## Heading spacing correction — 2026-10-04
+
+Inserted a missing space before the year in nine historical-result headings for eight Žilina candidates: Monika Kavecká (European Parliament 2024); Ján Glasnák, Igor Korček, Igor Liška, Ján Pažický, Jana Balvanová and Dušan Dobšovič (municipal council 2018); Peter Fiabáne (municipal council and mayor 2018). The malformed labels were introduced in commit `8a02b128`; `ClaimSection.astro` renders the stored label directly. Result texts, periods, outcomes, source references and verification dates are unchanged.
+
+The new heading regression in `tests/unit/zilina-roster.test.ts` failed with all nine malformed labels before correction (exit 1; 12 passed, one failed), then passed after correction (exit 0; 13 passed). It checks historical election headings for a year joined directly to the preceding word. Existing fixture checks continue to preserve complete result texts and their official sources.
+
+Fresh `npm run build`, `npm run validate:release`, `npm run report:coverage`, `npm run check:seo`, `npm run check:html`, `npm run check:storage` and `git diff --check` completed with exit 0. The build generated 517 pages; W3C Nu checked all 517 without errors or warnings. A direct audit of 10,183 headings across all 488 candidate pages found no joined word/year, confirmed all nine corrected labels in the generated HTML, and compared every other claim field with HEAD without differences.
+
+Full `npm test` completed with exit 1: 383 passed, four skipped, six failed. A separate unmodified HEAD copy produced the same six failures (382 passed, four skipped), confirming they predate this formatting correction:
+
+- `dolny-kubin-media-review.test.ts`: “ties every recorded origin and latest stage to existing sources and preserves uncertainty” — missing source in the `jurinova-hospital-payments-2026` chain.
+- `dolny-kubin-roster.test.ts`: “keeps the existing guides and approved research intact” — expected 629 claims, observed 632.
+- `martin-roster.test.ts`: “preserves approved originals except explicitly audited evidence corrections” — preservation mismatch for `coverage-candidate-85-controversies`.
+- `martin-roster.test.ts`: “preserves existing city electorates while adding documented shared-candidate research” — expected 621 claims, observed 632.
+- `seo-slugs.test.ts`: “uses readable name slugs and disambiguates both pairs of namesakes” — `dk-tatiana-cervenova` uses `tatiana-cervenova-ing`.
+- `zilina-media-followup.test.ts`: “preserves other cities, shared chair candidates, official ballots and historical research” — preservation mismatch for `coverage-candidate-85-controversies`.
+
+Initial restricted runs encountered blocked local sockets/tsx IPC, then `/tmp` quota failures. The results above come from permitted runs using temporary directories under the workspace parent; no application configuration was changed. External-link and full browser suites were not rerun for this label-only correction.

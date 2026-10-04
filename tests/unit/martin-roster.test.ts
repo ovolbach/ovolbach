@@ -31,7 +31,7 @@ describe('Martin official 2026 electorate and research', () => {
   it('publishes all four contests from the official 2026 city and regional lists', async () => {
     const configs = await listElectionContextConfigs();
     expect(configs.find((config) => config.citySlug === 'martin')).toMatchObject({
-      cityName: 'Martin', status: 'published', snapshotDate: '2026-10-03', regionalDistrictId: '2026-zsk-region-6',
+      cityName: 'Martin', status: 'published', snapshotDate: '2026-10-04', regionalDistrictId: '2026-zsk-region-6',
     });
     expect((await listPublishedElectionContexts()).some((context) => context.basePath === '/martin/2026/')).toBe(true);
     const { data } = await loadCity();
@@ -99,13 +99,19 @@ describe('Martin official 2026 electorate and research', () => {
     }
   });
 
-  it('keeps name-only account matches unverified and requires campaign identity for positive matches', async () => {
+  it('requires documented national exclusion or campaign identity for positive account matches', async () => {
     const { data } = await loadCity();
-    for (const id of ['mt-jan-danko', 'mt-renata-habrunova', 'mt-jozef-petras']) {
+    for (const id of ['mt-renata-habrunova', 'mt-jozef-petras']) {
       const account = data.campaignFinance.find((record) => record.candidateId === id)?.account;
-      expect(account, id).toMatchObject({ status: 'unverified' });
-      expect(account && 'url' in account, id).toBe(false);
+      expect(account, id).toMatchObject({ status: 'verified' });
+      if (account?.status === 'verified') {
+        expect(account.sourceIds).toContain('finance-national-mayors-2026');
+        expect(account.identity.some((item) => item.attribute === 'campaign'), id).toBe(true);
+      }
     }
+    const unresolved = data.campaignFinance.find((record) => record.candidateId === 'mt-jan-danko')?.account;
+    expect(unresolved).toMatchObject({ status: 'unverified' });
+    expect(unresolved).not.toHaveProperty('url');
     for (const id of ['mt-milan-ftorek', 'mt-matej-turzo', 'mt-igor-hubacek']) {
       const account = data.campaignFinance.find((record) => record.candidateId === id)?.account;
       expect(account?.status, id).toBe('verified');

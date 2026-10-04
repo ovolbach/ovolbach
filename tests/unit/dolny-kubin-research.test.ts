@@ -52,8 +52,10 @@ describe('Dolný Kubín evidence boundaries', () => {
     }
     for (const candidateId of ['dk-jan-prilepok', 'dk-jan-marsinsky']) {
       const record = data.campaignFinance.find((row) => row.candidateId === candidateId);
-      expect(record?.account.status).toBe('unverified');
-      expect(record?.account).not.toHaveProperty('url');
+      expect(record?.account.status).toBe('verified');
+      if (record?.account.status === 'verified') {
+        expect(record.account.sourceIds).toContain('finance-national-mayors-2026');
+      }
     }
     for (const record of data.campaignFinance.filter((row) => row.candidateId.startsWith('dk-'))) {
       expect(record).toMatchObject({ ownExpenses: 'unknown', campaignOperator: 'unknown', otherCandidacies: 'not_exhaustive' });

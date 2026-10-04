@@ -8,7 +8,7 @@ type Correction = { path: string; id: string; before: RecordValue | null; after:
 type DateCorrection = { claimId: string; before: string; after: string };
 const corrections: Correction[] = [];
 const dates: DateCorrection[] = [];
-for (const filename of ['martin-media-review-2026.json', 'ruzomberok-media-review-2026.json', 'dolny-kubin-media-review-2026.json']) {
+for (const filename of ['martin-media-review-2026.json', 'ruzomberok-media-review-2026.json', 'dolny-kubin-media-review-2026.json', 'campaign-account-recheck-2026-10-04.json']) {
   const url = new URL(`research/${filename}`, root);
   if (!existsSync(url)) continue;
   const audit = JSON.parse(readFileSync(url, 'utf8'));

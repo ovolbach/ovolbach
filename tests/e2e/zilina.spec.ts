@@ -61,10 +61,16 @@ test('search and source navigation remain scoped to Žilina', async ({ page }) =
 });
 
 
-test('unverified Ministry name matches expose no personal bank link', async ({ page }) => {
-  for (const slug of ['rastislav-johanes', 'miroslav-sokol']) {
+test('rechecked Žilina campaign accounts expose the verified bank link and identity evidence', async ({ page }) => {
+  for (const [slug, accountUrl, evidenceUrl] of [
+    ['rastislav-johanes', 'https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131', 'https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/150_oso/OSO26_ZZK-Starosta.xlsx'],
+    ['miroslav-sokol', 'https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679', 'https://miroslavsokol.sk/kandidat/'],
+  ]) {
     await page.goto(`${BASE}kandidat/${slug}/`);
-    await expect(page.locator('[data-personal-account]')).toHaveCount(0);
-    await expect(page.locator('[data-campaign-finance]')).toContainText('V registri MV SR sa našla menná zhoda.');
+    const finance = page.locator('[data-campaign-finance]');
+    await expect(finance.locator('[data-personal-account]')).toHaveAttribute('href', accountUrl);
+    await finance.locator('summary').click();
+    await expect(finance.locator(`a[href="${evidenceUrl}"]`).first()).toBeVisible();
+    await expect(finance).toContainText('2026-10-04');
   }
 });
