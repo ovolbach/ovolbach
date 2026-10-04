@@ -128,5 +128,31 @@
     "sourceIds": [
       "za-council-roster-2026"
     ]
+  },
+  {
+    "id": "mayor",
+    "contestId": "2026-dk-mayor",
+    "title": {
+      "sk": "Voľby primátora mesta Dolný Kubín"
+    },
+    "level": "city",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "dk-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "city-council",
+    "contestId": "2026-dk-city-council",
+    "title": {
+      "sk": "Voľby do Mestského zastupiteľstva mesta Dolný Kubín"
+    },
+    "level": "city",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
   }
 ]

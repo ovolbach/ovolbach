@@ -4487,5 +4487,576 @@
     "sourceIds": [
       "za-regional-roster-2026"
     ]
+  },
+  {
+    "id": "dk-jan-briestensky",
+    "slug": "jan-briestensky",
+    "displayName": "Ján BRIESTENSKÝ",
+    "givenName": "Ján",
+    "familyName": "BRIESTENSKÝ",
+    "sourceIds": [
+      "dk-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-katarina-brunckova",
+    "slug": "katarina-brunckova",
+    "displayName": "Katarína BRUNCKOVÁ, JUDr., Bc., PhD.",
+    "givenName": "Katarína",
+    "familyName": "BRUNCKOVÁ",
+    "sourceIds": [
+      "dk-mayor-roster-2026",
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "JUDr., Bc., PhD."
+  },
+  {
+    "id": "dk-emilia-jurcikova",
+    "slug": "emilia-jurcikova",
+    "displayName": "Emília JURČÍKOVÁ, PaedDr.",
+    "givenName": "Emília",
+    "familyName": "JURČÍKOVÁ",
+    "sourceIds": [
+      "dk-mayor-roster-2026",
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "PaedDr."
+  },
+  {
+    "id": "dk-jan-marsinsky",
+    "slug": "jan-marsinsky",
+    "displayName": "Ján MARŠINSKÝ, Ing.",
+    "givenName": "Ján",
+    "familyName": "MARŠINSKÝ",
+    "sourceIds": [
+      "dk-mayor-roster-2026",
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "dk-jan-prilepok",
+    "slug": "jan-prilepok",
+    "displayName": "Ján PRÍLEPOK, Ing.",
+    "givenName": "Ján",
+    "familyName": "PRÍLEPOK",
+    "sourceIds": [
+      "dk-mayor-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "dk-pavol-adamec",
+    "slug": "pavol-adamec",
+    "displayName": "Pavol ADAMEC",
+    "givenName": "Pavol",
+    "familyName": "ADAMEC",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-adriana-alleramova",
+    "slug": "adriana-alleramova",
+    "displayName": "Adriana ALLERAMOVÁ",
+    "givenName": "Adriana",
+    "familyName": "ALLERAMOVÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-stefan-belvoncik",
+    "slug": "stefan-belvoncik",
+    "displayName": "Štefan BELVONČÍK, Ing.",
+    "givenName": "Štefan",
+    "familyName": "BELVONČÍK",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "dk-juraj-facko",
+    "slug": "juraj-facko",
+    "displayName": "Juraj FAČKO",
+    "givenName": "Juraj",
+    "familyName": "FAČKO",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-martina-flajsova",
+    "slug": "martina-flajsova",
+    "displayName": "Martina FLAJSOVÁ, Mgr.",
+    "givenName": "Martina",
+    "familyName": "FLAJSOVÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-peter-janotik",
+    "slug": "peter-janotik",
+    "displayName": "Peter JANOTÍK, Mgr.",
+    "givenName": "Peter",
+    "familyName": "JANOTÍK",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-martin-joppa",
+    "slug": "martin-joppa",
+    "displayName": "Martin JOPPA",
+    "givenName": "Martin",
+    "familyName": "JOPPA",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-maria-kovacikova",
+    "slug": "maria-kovacikova",
+    "displayName": "Mária KOVÁČIKOVÁ, Mgr.",
+    "givenName": "Mária",
+    "familyName": "KOVÁČIKOVÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-jan-raclavsky",
+    "slug": "jan-raclavsky",
+    "displayName": "Ján RACLAVSKÝ, Mgr., MPA",
+    "givenName": "Ján",
+    "familyName": "RACLAVSKÝ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr., MPA"
+  },
+  {
+    "id": "dk-martin-stanovsky-30",
+    "slug": "martin-stanovsky-30",
+    "displayName": "Martin STANOVSKÝ, MSc, MPA",
+    "givenName": "Martin",
+    "familyName": "STANOVSKÝ",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "MSc, MPA"
+  },
+  {
+    "id": "dk-dagmara-sudova",
+    "slug": "dagmara-sudova",
+    "displayName": "Dagmara ŠUDOVÁ",
+    "givenName": "Dagmara",
+    "familyName": "ŠUDOVÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-leonard-vajdulak",
+    "slug": "leonard-vajdulak",
+    "displayName": "Leonard VAJDULÁK, Mgr.",
+    "givenName": "Leonard",
+    "familyName": "VAJDULÁK",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-pavol-baca",
+    "slug": "pavol-baca",
+    "displayName": "Pavol BAČA, Mgr.",
+    "givenName": "Pavol",
+    "familyName": "BAČA",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-roman-benus",
+    "slug": "roman-benus",
+    "displayName": "Roman BEŇUŠ",
+    "givenName": "Roman",
+    "familyName": "BEŇUŠ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-jozef-david",
+    "slug": "jozef-david",
+    "displayName": "Jozef DAVID, Ing.",
+    "givenName": "Jozef",
+    "familyName": "DAVID",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "dk-miroslav-drab",
+    "slug": "miroslav-drab",
+    "displayName": "Miroslav DRÁB, Mgr.",
+    "givenName": "Miroslav",
+    "familyName": "DRÁB",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-stefan-fecko",
+    "slug": "stefan-fecko",
+    "displayName": "Štefan FECKO",
+    "givenName": "Štefan",
+    "familyName": "FECKO",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-juliana-gregova",
+    "slug": "juliana-gregova",
+    "displayName": "Juliana GREGOVÁ, MUDr.",
+    "givenName": "Juliana",
+    "familyName": "GREGOVÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "MUDr."
+  },
+  {
+    "id": "dk-jana-gressova",
+    "slug": "jana-gressova",
+    "displayName": "Jana GREŠŠOVÁ, Mgr.",
+    "givenName": "Jana",
+    "familyName": "GREŠŠOVÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-vladimira-grisova",
+    "slug": "vladimira-grisova",
+    "displayName": "Vladimíra GRÍSOVÁ",
+    "givenName": "Vladimíra",
+    "familyName": "GRÍSOVÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-peter-jonak",
+    "slug": "peter-jonak",
+    "displayName": "Peter JONÁK, Mgr.",
+    "givenName": "Peter",
+    "familyName": "JONÁK",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-matus-lakostik",
+    "slug": "matus-lakostik",
+    "displayName": "Matúš LAKOŠTÍK, Mgr., PhD.",
+    "givenName": "Matúš",
+    "familyName": "LAKOŠTÍK",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr., PhD."
+  },
+  {
+    "id": "dk-michal-lavrik",
+    "slug": "michal-lavrik",
+    "displayName": "Michal LAVRÍK, PhDr., PhD.",
+    "givenName": "Michal",
+    "familyName": "LAVRÍK",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "PhDr., PhD."
+  },
+  {
+    "id": "dk-pavol-lorko",
+    "slug": "pavol-lorko",
+    "displayName": "Pavol ĽORKO, Mgr.",
+    "givenName": "Pavol",
+    "familyName": "ĽORKO",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-roman-markulcek",
+    "slug": "roman-markulcek",
+    "displayName": "Roman MARKULČEK, Mgr.",
+    "givenName": "Roman",
+    "familyName": "MARKULČEK",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-martin-stanovsky-53",
+    "slug": "martin-stanovsky-53",
+    "displayName": "Martin STANOVSKÝ",
+    "givenName": "Martin",
+    "familyName": "STANOVSKÝ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-peter-strezo",
+    "slug": "peter-strezo",
+    "displayName": "Peter STREŽO, RNDr.",
+    "givenName": "Peter",
+    "familyName": "STREŽO",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "RNDr."
+  },
+  {
+    "id": "dk-elena-sunalova",
+    "slug": "elena-sunalova",
+    "displayName": "Elena ŠUŇALOVÁ, MUDr.",
+    "givenName": "Elena",
+    "familyName": "ŠUŇALOVÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "MUDr."
+  },
+  {
+    "id": "dk-radoslava-bencurova",
+    "slug": "radoslava-bencurova",
+    "displayName": "Radoslava BENCÚROVÁ, JUDr.",
+    "givenName": "Radoslava",
+    "familyName": "BENCÚROVÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "dk-renata-brodnanska",
+    "slug": "renata-brodnanska",
+    "displayName": "Renáta BRODŇANSKÁ, Bc.",
+    "givenName": "Renáta",
+    "familyName": "BRODŇANSKÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "dk-ondrej-bukna",
+    "slug": "ondrej-bukna",
+    "displayName": "Ondrej BUKNA, JUDr.",
+    "givenName": "Ondrej",
+    "familyName": "BUKNA",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "dk-tomas-gajdos",
+    "slug": "tomas-gajdos",
+    "displayName": "Tomáš GAJDOŠ",
+    "givenName": "Tomáš",
+    "familyName": "GAJDOŠ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-jan-havko",
+    "slug": "jan-havko",
+    "displayName": "Ján HAVKO",
+    "givenName": "Ján",
+    "familyName": "HAVKO",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-radoslav-kovacik",
+    "slug": "radoslav-kovacik",
+    "displayName": "Radoslav KOVÁČIK, RSc.",
+    "givenName": "Radoslav",
+    "familyName": "KOVÁČIK",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "RSc."
+  },
+  {
+    "id": "dk-matus-kubas",
+    "slug": "matus-kubas",
+    "displayName": "Matúš KUBAS, Ing.",
+    "givenName": "Matúš",
+    "familyName": "KUBAS",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "dk-jozef-maslan",
+    "slug": "jozef-maslan",
+    "displayName": "Jozef MASLAN",
+    "givenName": "Jozef",
+    "familyName": "MASLAN",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-sona-mihalikova",
+    "slug": "sona-mihalikova",
+    "displayName": "Soňa MIHÁLIKOVÁ, PhDr.",
+    "givenName": "Soňa",
+    "familyName": "MIHÁLIKOVÁ",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "id": "dk-peter-toman",
+    "slug": "peter-toman",
+    "displayName": "Peter TOMÁŇ, Ing.",
+    "givenName": "Peter",
+    "familyName": "TOMÁŇ",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "dk-peter-kajan",
+    "slug": "peter-kajan",
+    "displayName": "Peter KAJAN, Mgr.",
+    "givenName": "Peter",
+    "familyName": "KAJAN",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-peter-benus",
+    "slug": "peter-benus",
+    "displayName": "Peter BEŇUŠ, PhDr.",
+    "givenName": "Peter",
+    "familyName": "BEŇUŠ",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "id": "dk-jozef-brtos",
+    "slug": "jozef-brtos",
+    "displayName": "Jozef BRTOŠ",
+    "givenName": "Jozef",
+    "familyName": "BRTOŠ",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-tatiana-cervenova",
+    "slug": "tatiana-cervenova-ing",
+    "displayName": "Tatiana ČERVEŇOVÁ, Ing.",
+    "givenName": "Tatiana",
+    "familyName": "ČERVEŇOVÁ",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "dk-michal-hareznik",
+    "slug": "michal-hareznik",
+    "displayName": "Michal HAREZNÍK",
+    "givenName": "Michal",
+    "familyName": "HAREZNÍK",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ]
+  },
+  {
+    "id": "dk-zuzana-katreniakova",
+    "slug": "zuzana-katreniakova",
+    "displayName": "Zuzana KATRENIAKOVÁ, Mgr.",
+    "givenName": "Zuzana",
+    "familyName": "KATRENIAKOVÁ",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-zdenko-kuban",
+    "slug": "zdenko-kuban",
+    "displayName": "Zdenko KUBÁŇ, Mgr.",
+    "givenName": "Zdenko",
+    "familyName": "KUBÁŇ",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "dk-matus-mnich",
+    "slug": "matus-mnich",
+    "displayName": "Matúš MNÍCH, JUDr.",
+    "givenName": "Matúš",
+    "familyName": "MNÍCH",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "dk-adam-molnar",
+    "slug": "adam-molnar",
+    "displayName": "Adam MOLNÁR",
+    "givenName": "Adam",
+    "familyName": "MOLNÁR",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ]
   }
 ]

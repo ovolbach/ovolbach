@@ -94,7 +94,7 @@ describe('Verified controversy additions on 2026-09-20', () => {
   it('adds Fiabáne’s view separately from the unchanged Kapitulík response', () => {
     expect(claim('claim-candidate-89-fiabane-dismissal-response-2025')).toMatchObject({
       candidateId: 'candidate-89', kind: 'response',
-      period: '2025-12-13', checkedAt: '2026-09-20',
+      period: '2025-12-13', checkedAt: '2026-10-03',
       sourceIds: ['tasr-kapitulik-fiabane-2025'],
     });
     expect(claim('claim-candidate-89-fiabane-dismissal-response-2025')?.text.sk).toContain('Fiabáne');
@@ -105,7 +105,7 @@ describe('Verified controversy additions on 2026-09-20', () => {
       'tasr-kapitulik-fiabane-2025',
     ]));
     expect(source('tasr-kapitulik-fiabane-2025')).toMatchObject({
-      author: 'TASR', publishedAt: '2025-12-13', checkedAt: '2026-09-20',
+      author: 'TASR', publishedAt: '2025-12-13', checkedAt: '2026-10-03',
     });
   });
 });

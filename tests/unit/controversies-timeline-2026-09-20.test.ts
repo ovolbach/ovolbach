@@ -41,7 +41,7 @@ describe('Controversy timelines verified on 2026-09-20', () => {
     expect(claim('claim-candidate-88-museum-removal-report-2023')).toMatchObject({
       candidateId: 'candidate-88', category: 'controversies', kind: 'media_report',
       period: '2023-04', sourceIds: ['aktuality-jurinova-kovacic-dismissal-2025'],
-      checkedAt: '2026-09-20',
+      checkedAt: '2026-10-03',
     });
     expect(claim('claim-candidate-88-museum-court-outcome-2025')).toBeDefined();
     expect(controversyCoverage('candidate-88')?.sourceIds).toContain('aktuality-jurinova-kovacic-dismissal-2025');
@@ -96,7 +96,7 @@ describe('Controversy timelines verified on 2026-09-20', () => {
     expect(claim('claim-candidate-90-echr-ombudsman-intervention-2026')).toMatchObject({
       candidateId: 'candidate-90', category: 'controversies', kind: 'fact',
       period: '2026-01-13', sourceIds: ['echr-lucansky-notification-2025', 'vop-lucansky-intervention-2026'],
-      checkedAt: '2026-09-20',
+      checkedAt: '2026-10-03',
     });
     expect(claim('claim-candidate-90-echr-ombudsman-intervention-2026')?.text.sk).toContain(
       'nevyjadroval k okolnostiam úmrtia',

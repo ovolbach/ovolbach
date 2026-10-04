@@ -73,12 +73,12 @@ describe('election context', () => {
       listPublishedElectionContexts?: () => Promise<Array<{ citySlug: string; year: number; basePath: string; data: GuideData }>>;
     };
     const published = await loader.listPublishedElectionContexts?.();
-    expect(published?.map((context) => context.basePath)).toEqual(['/liptovsky-mikulas/2026/', '/martin/2026/', '/ruzomberok/2026/', '/zilina/2026/']);
-    const lm = published?.find((context) => context.citySlug === 'liptovsky-mikulas');
+    expect(published?.map((context) => context.basePath)).toEqual(['/dolny-kubin/2026/', '/liptovsky-mikulas/2026/', '/martin/2026/', '/ruzomberok/2026/', '/zilina/2026/']);
+    const originalCity = published?.find((context) => context.citySlug === 'liptovsky-mikulas');
+    expect(originalCity?.data.candidates).toHaveLength(91);
+    expect(originalCity?.data.candidacies).toHaveLength(109);
+    expect(originalCity?.data.claims).toHaveLength(632);
     const zilina = published?.find((context) => context.citySlug === 'zilina');
-    expect(lm?.data.candidates).toHaveLength(91);
-    expect(lm?.data.candidacies).toHaveLength(109);
-    expect(lm?.data.claims).toHaveLength(621);
     expect(zilina?.data.candidates).toHaveLength(135);
     expect(zilina?.data.candidacies).toHaveLength(192);
   });

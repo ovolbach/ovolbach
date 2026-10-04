@@ -1,0 +1,5986 @@
+{
+  "snapshotDate": "2026-10-03",
+  "candidateIds": [
+    "candidate-85",
+    "candidate-86",
+    "candidate-87",
+    "candidate-88",
+    "candidate-89",
+    "candidate-90",
+    "candidate-91",
+    "dk-jan-briestensky",
+    "dk-katarina-brunckova",
+    "dk-emilia-jurcikova",
+    "dk-jan-marsinsky",
+    "dk-jan-prilepok",
+    "dk-pavol-adamec",
+    "dk-adriana-alleramova",
+    "dk-stefan-belvoncik",
+    "dk-juraj-facko",
+    "dk-martina-flajsova",
+    "dk-peter-janotik",
+    "dk-martin-joppa",
+    "dk-maria-kovacikova",
+    "dk-jan-raclavsky",
+    "dk-martin-stanovsky-30",
+    "dk-dagmara-sudova",
+    "dk-leonard-vajdulak",
+    "dk-pavol-baca",
+    "dk-roman-benus",
+    "dk-jozef-david",
+    "dk-miroslav-drab",
+    "dk-stefan-fecko",
+    "dk-juliana-gregova",
+    "dk-jana-gressova",
+    "dk-vladimira-grisova",
+    "dk-peter-jonak",
+    "dk-matus-lakostik",
+    "dk-michal-lavrik",
+    "dk-pavol-lorko",
+    "dk-roman-markulcek",
+    "dk-martin-stanovsky-53",
+    "dk-peter-strezo",
+    "dk-elena-sunalova",
+    "dk-radoslava-bencurova",
+    "dk-renata-brodnanska",
+    "dk-ondrej-bukna",
+    "dk-tomas-gajdos",
+    "dk-jan-havko",
+    "dk-radoslav-kovacik",
+    "dk-matus-kubas",
+    "dk-jozef-maslan",
+    "dk-sona-mihalikova",
+    "dk-peter-toman",
+    "dk-peter-kajan",
+    "dk-peter-benus",
+    "dk-jozef-brtos",
+    "dk-tatiana-cervenova",
+    "dk-michal-hareznik",
+    "dk-zuzana-katreniakova",
+    "dk-zdenko-kuban",
+    "dk-matus-mnich",
+    "dk-adam-molnar"
+  ],
+  "mediaClaimIds": [
+    "claim-candidate-85-programme-formation-2026",
+    "claim-candidate-85-media-candidacy-2026",
+    "claim-candidate-85-rizman-allegation-2026",
+    "claim-candidate-85-rizman-response-2026",
+    "claim-candidate-87-media-interview-2025",
+    "claim-candidate-87-office-rent-report-2015",
+    "claim-candidate-87-office-rent-response-2015",
+    "claim-candidate-88-media-candidacy-2026",
+    "claim-candidate-88-museum-court-outcome-2025",
+    "claim-candidate-88-museum-response-2025",
+    "claim-candidate-89-media-debate-2026",
+    "claim-candidate-89-dismissal-outcome-2025",
+    "claim-candidate-89-dismissal-report-2025",
+    "claim-candidate-89-dismissal-response-2025",
+    "claim-candidate-90-nrsr-substitute-2023",
+    "claim-candidate-90-programme-region-2026",
+    "claim-candidate-90-media-candidacy-2026",
+    "claim-candidate-90-echr-domestic-outcome-2025",
+    "claim-candidate-90-echr-applicant-position-2025",
+    "claim-candidate-90-echr-procedural-status-2025",
+    "claim-candidate-91-media-registration-2026",
+    "claim-candidate-85-sita-slap-report-2010",
+    "claim-candidate-85-sita-slap-response-2010",
+    "claim-candidate-85-sita-committee-report-2010",
+    "claim-candidate-87-audi-first-contract-2016",
+    "claim-candidate-87-audi-first-cancelled-2016",
+    "claim-candidate-87-audi-second-contract-2016",
+    "claim-candidate-87-audi-uvo-decision-2017",
+    "claim-candidate-87-audi-court-annulment-2024",
+    "claim-candidate-87-audi-uvo-closure-2025",
+    "claim-candidate-89-fiabane-dismissal-response-2025",
+    "claim-candidate-88-museum-removal-report-2023",
+    "claim-candidate-90-echr-ombudsman-intervention-2026",
+    "claim-candidate-89-architect-election-report-2026",
+    "claim-candidate-90-withdrawal-announcement-2026",
+    "claim-candidate-85-roads-statement-2026-09-30",
+    "claim-candidate-86-media-teaching-profile-2026",
+    "claim-candidate-87-tolls-nomination-report-2023",
+    "claim-candidate-87-tolls-nomination-response-2023",
+    "claim-candidate-88-museum-ethics-response-2023",
+    "claim-candidate-88-museum-appeal-report-2025",
+    "claim-candidate-88-museum-settlement-report-2025",
+    "claim-candidate-88-museum-budget-report-2025",
+    "claim-candidate-88-hospital-payments-report-2026",
+    "claim-candidate-88-hospital-payments-response-2026",
+    "claim-candidate-89-digital-twin-interview-2026",
+    "claim-candidate-90-stairs-allegation-2026",
+    "claim-candidate-90-stairs-response-2026",
+    "claim-candidate-87-tolls-testing-report-2010",
+    "claim-candidate-87-tolls-testing-response-2010",
+    "dk-jan-briestensky-tasr-announcement-2026",
+    "dk-jan-marsinsky-tasr-registration-2026",
+    "dk-maria-kovacikova-school-selection-media-2024",
+    "dk-michal-lavrik-tasr-oath-2025",
+    "dk-martin-stanovsky-53-sita-complaint-2025",
+    "dk-martin-stanovsky-53-sita-response-2025",
+    "dk-jan-prilepok-independence-statement",
+    "dk-katarina-brunckova-avocat-report",
+    "dk-katarina-brunckova-avocat-response",
+    "dk-tatiana-cervenova-traffic-report",
+    "dk-tatiana-cervenova-traffic-response",
+    "dk-tatiana-cervenova-traffic-procedure-update",
+    "dk-tatiana-cervenova-traffic-control-update",
+    "dk-zdenko-kuban-apartment-report",
+    "dk-zdenko-kuban-apartment-response",
+    "dk-jan-prilepok-bylined-media",
+    "dk-jan-raclavsky-bylined-media",
+    "dk-jozef-david-city-board-report",
+    "dk-peter-strezo-city-board-report",
+    "dk-martin-joppa-c3-2",
+    "dk-martin-joppa-c3-3",
+    "dk-miroslav-drab-c3-5",
+    "dk-ondrej-bukna-c3-4",
+    "dk-matus-lakostik-c3-5",
+    "dk-matus-mnich-c3-2",
+    "dk-emilia-jurcikova-c3-6",
+    "dk-pavol-baca-c3-7",
+    "dk-ondrej-bukna-c3-6",
+    "dk-katarina-brunckova-media-publication",
+    "dk-martin-stanovsky-53-media-publication",
+    "dk-tatiana-cervenova-media-publication",
+    "dk-zdenko-kuban-media-publication"
+  ],
+  "candidacies": [
+    {
+      "id": "candidacy-100",
+      "candidateId": "candidate-85",
+      "electionId": "region-chair",
+      "ballotNumber": 1,
+      "ageAtElection": 67,
+      "occupationOfficial": "viceprimátorka",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "zsk-chair-roster-2026"
+      ],
+      "contestId": "2026-zsk-region-chair"
+    },
+    {
+      "id": "candidacy-101",
+      "candidateId": "candidate-86",
+      "electionId": "region-chair",
+      "ballotNumber": 2,
+      "ageAtElection": 61,
+      "occupationOfficial": "invalidná dôchodkyňa",
+      "affiliations": [
+        "Slovexit"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "zsk-chair-roster-2026"
+      ],
+      "contestId": "2026-zsk-region-chair"
+    },
+    {
+      "id": "candidacy-102",
+      "candidateId": "candidate-87",
+      "electionId": "region-chair",
+      "ballotNumber": 3,
+      "ageAtElection": 62,
+      "occupationOfficial": "štátny tajomník",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "zsk-chair-roster-2026"
+      ],
+      "contestId": "2026-zsk-region-chair"
+    },
+    {
+      "id": "candidacy-103",
+      "candidateId": "candidate-88",
+      "electionId": "region-chair",
+      "ballotNumber": 4,
+      "ageAtElection": 55,
+      "occupationOfficial": "predsedníčka samosprávneho kraja",
+      "affiliations": [
+        "Hnutie Slovensko, Za ľudí, Nova, Progresívne Slovensko, Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Demokrati, Konzervatívci - kresťanská únia, Občianska konzervatívna strana, Demokratická strana - občianski demokrati Slovenska"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "zsk-chair-roster-2026"
+      ],
+      "contestId": "2026-zsk-region-chair"
+    },
+    {
+      "id": "candidacy-104",
+      "candidateId": "candidate-89",
+      "electionId": "region-chair",
+      "ballotNumber": 5,
+      "ageAtElection": 40,
+      "occupationOfficial": "riaditeľ, regionálny stratég",
+      "affiliations": [],
+      "independent": true,
+      "sourceIds": [
+        "zsk-chair-roster-2026"
+      ],
+      "contestId": "2026-zsk-region-chair"
+    },
+    {
+      "id": "candidacy-105",
+      "candidateId": "candidate-90",
+      "electionId": "region-chair",
+      "ballotNumber": 6,
+      "ageAtElection": 32,
+      "occupationOfficial": "poslanec národnej rady",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "zsk-chair-roster-2026"
+      ],
+      "contestId": "2026-zsk-region-chair"
+    },
+    {
+      "id": "candidacy-106",
+      "candidateId": "candidate-91",
+      "electionId": "region-chair",
+      "ballotNumber": 7,
+      "ageAtElection": 65,
+      "occupationOfficial": "dôchodca",
+      "affiliations": [
+        "Komunistická strana Slovenska"
+      ],
+      "independent": false,
+      "sourceIds": [
+        "zsk-chair-roster-2026"
+      ],
+      "contestId": "2026-zsk-region-chair"
+    },
+    {
+      "candidateId": "dk-jan-briestensky",
+      "electionId": "mayor",
+      "ballotNumber": 1,
+      "ageAtElection": 54,
+      "occupationOfficial": "podnikateľ",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-jan-briestensky-mayor",
+      "contestId": "2026-dk-mayor",
+      "sourceIds": [
+        "dk-mayor-roster-2026"
+      ]
+    },
+    {
+      "candidateId": "dk-katarina-brunckova",
+      "electionId": "mayor",
+      "ballotNumber": 2,
+      "ageAtElection": 47,
+      "occupationOfficial": "advokátka",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-katarina-brunckova-mayor",
+      "contestId": "2026-dk-mayor",
+      "sourceIds": [
+        "dk-mayor-roster-2026"
+      ]
+    },
+    {
+      "candidateId": "dk-emilia-jurcikova",
+      "electionId": "mayor",
+      "ballotNumber": 3,
+      "ageAtElection": 64,
+      "occupationOfficial": "riaditeľka",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-emilia-jurcikova-mayor",
+      "contestId": "2026-dk-mayor",
+      "sourceIds": [
+        "dk-mayor-roster-2026"
+      ]
+    },
+    {
+      "candidateId": "dk-jan-marsinsky",
+      "electionId": "mayor",
+      "ballotNumber": 4,
+      "ageAtElection": 48,
+      "occupationOfficial": "SZČO",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-jan-marsinsky-mayor",
+      "contestId": "2026-dk-mayor",
+      "sourceIds": [
+        "dk-mayor-roster-2026"
+      ]
+    },
+    {
+      "candidateId": "dk-jan-prilepok",
+      "electionId": "mayor",
+      "ballotNumber": 5,
+      "ageAtElection": 47,
+      "occupationOfficial": "primátor mesta",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-jan-prilepok-mayor",
+      "contestId": "2026-dk-mayor",
+      "sourceIds": [
+        "dk-mayor-roster-2026"
+      ]
+    },
+    {
+      "candidateId": "dk-pavol-adamec",
+      "electionId": "city-council",
+      "ballotNumber": 1,
+      "ageAtElection": 57,
+      "occupationOfficial": "vodič",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-pavol-adamec-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-adriana-alleramova",
+      "electionId": "city-council",
+      "ballotNumber": 2,
+      "ageAtElection": 58,
+      "occupationOfficial": "ekonomická manažérka",
+      "affiliations": [
+        "Demokrati, Progresívne Slovensko"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-adriana-alleramova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-stefan-belvoncik",
+      "electionId": "city-council",
+      "ballotNumber": 3,
+      "ageAtElection": 66,
+      "occupationOfficial": "dôchodca",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-stefan-belvoncik-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-juraj-facko",
+      "electionId": "city-council",
+      "ballotNumber": 4,
+      "ageAtElection": 40,
+      "occupationOfficial": "projektant",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-juraj-facko-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-martina-flajsova",
+      "electionId": "city-council",
+      "ballotNumber": 5,
+      "ageAtElection": 40,
+      "occupationOfficial": "učiteľka",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-martina-flajsova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-peter-janotik",
+      "electionId": "city-council",
+      "ballotNumber": 6,
+      "ageAtElection": 59,
+      "occupationOfficial": "pedagóg",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-peter-janotik-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-martin-joppa",
+      "electionId": "city-council",
+      "ballotNumber": 7,
+      "ageAtElection": 29,
+      "occupationOfficial": "motivátor - mentor",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-martin-joppa-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-emilia-jurcikova",
+      "electionId": "city-council",
+      "ballotNumber": 8,
+      "ageAtElection": 64,
+      "occupationOfficial": "riaditeľka",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-emilia-jurcikova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-maria-kovacikova",
+      "electionId": "city-council",
+      "ballotNumber": 9,
+      "ageAtElection": 49,
+      "occupationOfficial": "zástupkyňa riaditeľa spojenej školy",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-maria-kovacikova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-jan-raclavsky",
+      "electionId": "city-council",
+      "ballotNumber": 10,
+      "ageAtElection": 42,
+      "occupationOfficial": "manažér v samospráve",
+      "affiliations": [
+        "Demokrati, Progresívne Slovensko"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-jan-raclavsky-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-martin-stanovsky-30",
+      "electionId": "city-council",
+      "ballotNumber": 11,
+      "ageAtElection": 30,
+      "occupationOfficial": "výkonný riaditeľ",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-martin-stanovsky-30-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-dagmara-sudova",
+      "electionId": "city-council",
+      "ballotNumber": 12,
+      "ageAtElection": 46,
+      "occupationOfficial": "živnostníčka",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-dagmara-sudova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-leonard-vajdulak",
+      "electionId": "city-council",
+      "ballotNumber": 13,
+      "ageAtElection": 61,
+      "occupationOfficial": "učiteľ hudby",
+      "affiliations": [
+        "Starostovia a nezávislí kandidáti"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-leonard-vajdulak-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-1"
+    },
+    {
+      "candidateId": "dk-pavol-baca",
+      "electionId": "city-council",
+      "ballotNumber": 1,
+      "ageAtElection": 55,
+      "occupationOfficial": "učiteľ",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-pavol-baca-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-roman-benus",
+      "electionId": "city-council",
+      "ballotNumber": 2,
+      "ageAtElection": 58,
+      "occupationOfficial": "podnikateľ",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-roman-benus-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-jozef-david",
+      "electionId": "city-council",
+      "ballotNumber": 3,
+      "ageAtElection": 65,
+      "occupationOfficial": "konateľ",
+      "affiliations": [
+        "Starostovia a nezávislí kandidáti"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-jozef-david-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-miroslav-drab",
+      "electionId": "city-council",
+      "ballotNumber": 4,
+      "ageAtElection": 47,
+      "occupationOfficial": "riaditeľ hokejového klubu",
+      "affiliations": [
+        "Sloboda a solidarita"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-miroslav-drab-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-stefan-fecko",
+      "electionId": "city-council",
+      "ballotNumber": 5,
+      "ageAtElection": 49,
+      "occupationOfficial": "skladník",
+      "affiliations": [
+        "Právo na pravdu"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-stefan-fecko-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-juliana-gregova",
+      "electionId": "city-council",
+      "ballotNumber": 6,
+      "ageAtElection": 56,
+      "occupationOfficial": "lekárka",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-juliana-gregova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-jana-gressova",
+      "electionId": "city-council",
+      "ballotNumber": 7,
+      "ageAtElection": 47,
+      "occupationOfficial": "učiteľka ZUŠ",
+      "affiliations": [
+        "Demokrati, Progresívne Slovensko"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-jana-gressova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-vladimira-grisova",
+      "electionId": "city-council",
+      "ballotNumber": 8,
+      "ageAtElection": 45,
+      "occupationOfficial": "referentka",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-vladimira-grisova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-peter-jonak",
+      "electionId": "city-council",
+      "ballotNumber": 9,
+      "ageAtElection": 44,
+      "occupationOfficial": "konateľ",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-peter-jonak-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-matus-lakostik",
+      "electionId": "city-council",
+      "ballotNumber": 10,
+      "ageAtElection": 45,
+      "occupationOfficial": "zástupca primátora",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-matus-lakostik-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-michal-lavrik",
+      "electionId": "city-council",
+      "ballotNumber": 11,
+      "ageAtElection": 52,
+      "occupationOfficial": "riaditeľ úradu",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-michal-lavrik-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-pavol-lorko",
+      "electionId": "city-council",
+      "ballotNumber": 12,
+      "ageAtElection": 55,
+      "occupationOfficial": "sprievodca v cestovnom ruchu",
+      "affiliations": [
+        "Demokrati, Progresívne Slovensko"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-pavol-lorko-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-roman-markulcek",
+      "electionId": "city-council",
+      "ballotNumber": 13,
+      "ageAtElection": 54,
+      "occupationOfficial": "štátny zamestnanec",
+      "affiliations": [
+        "Smer - sociálna demokracia"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-roman-markulcek-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-jan-marsinsky",
+      "electionId": "city-council",
+      "ballotNumber": 14,
+      "ageAtElection": 48,
+      "occupationOfficial": "SZČO",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-jan-marsinsky-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-martin-stanovsky-53",
+      "electionId": "city-council",
+      "ballotNumber": 15,
+      "ageAtElection": 53,
+      "occupationOfficial": "podnikateľ",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-martin-stanovsky-53-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-peter-strezo",
+      "electionId": "city-council",
+      "ballotNumber": 16,
+      "ageAtElection": 47,
+      "occupationOfficial": "riaditeľ školy",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-peter-strezo-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-elena-sunalova",
+      "electionId": "city-council",
+      "ballotNumber": 17,
+      "ageAtElection": 55,
+      "occupationOfficial": "lekárka",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-elena-sunalova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-2"
+    },
+    {
+      "candidateId": "dk-radoslava-bencurova",
+      "electionId": "city-council",
+      "ballotNumber": 1,
+      "ageAtElection": 46,
+      "occupationOfficial": "advokátka",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-radoslava-bencurova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-renata-brodnanska",
+      "electionId": "city-council",
+      "ballotNumber": 2,
+      "ageAtElection": 60,
+      "occupationOfficial": "vedúca fyzioterapeutka",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-renata-brodnanska-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-katarina-brunckova",
+      "electionId": "city-council",
+      "ballotNumber": 3,
+      "ageAtElection": 47,
+      "occupationOfficial": "advokátka",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-katarina-brunckova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-ondrej-bukna",
+      "electionId": "city-council",
+      "ballotNumber": 4,
+      "ageAtElection": 44,
+      "occupationOfficial": "advokát",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-ondrej-bukna-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-tomas-gajdos",
+      "electionId": "city-council",
+      "ballotNumber": 5,
+      "ageAtElection": 43,
+      "occupationOfficial": "živnostník",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-tomas-gajdos-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-jan-havko",
+      "electionId": "city-council",
+      "ballotNumber": 6,
+      "ageAtElection": 54,
+      "occupationOfficial": "živnostník",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-jan-havko-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-radoslav-kovacik",
+      "electionId": "city-council",
+      "ballotNumber": 7,
+      "ageAtElection": 46,
+      "occupationOfficial": "podnikateľ v oblasti bývania a služieb",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-radoslav-kovacik-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-matus-kubas",
+      "electionId": "city-council",
+      "ballotNumber": 8,
+      "ageAtElection": 28,
+      "occupationOfficial": "elektrikár",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-matus-kubas-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-jozef-maslan",
+      "electionId": "city-council",
+      "ballotNumber": 9,
+      "ageAtElection": 42,
+      "occupationOfficial": "projektový manažér stavieb",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-jozef-maslan-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-sona-mihalikova",
+      "electionId": "city-council",
+      "ballotNumber": 10,
+      "ageAtElection": 59,
+      "occupationOfficial": "riaditeľka",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-sona-mihalikova-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-peter-toman",
+      "electionId": "city-council",
+      "ballotNumber": 11,
+      "ageAtElection": 53,
+      "occupationOfficial": "odborný prírodovedný pracovník",
+      "affiliations": [
+        "Bratia Slovenska"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-peter-toman-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-3"
+    },
+    {
+      "candidateId": "dk-peter-kajan",
+      "electionId": "city-council",
+      "ballotNumber": 1,
+      "ageAtElection": 39,
+      "occupationOfficial": "ekonóm mestskej spoločnosti",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-peter-kajan-city-council",
+      "contestId": "2026-dk-city-council",
+      "sourceIds": [
+        "dk-city-council-roster-2026"
+      ],
+      "districtId": "2026-dk-city-4"
+    },
+    {
+      "candidateId": "dk-pavol-adamec",
+      "electionId": "region-council",
+      "ballotNumber": 1,
+      "ageAtElection": 57,
+      "occupationOfficial": "vodič",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-pavol-adamec-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-peter-benus",
+      "electionId": "region-council",
+      "ballotNumber": 2,
+      "ageAtElection": 51,
+      "occupationOfficial": "učiteľ autoškoly",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-peter-benus-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-jozef-brtos",
+      "electionId": "region-council",
+      "ballotNumber": 3,
+      "ageAtElection": 61,
+      "occupationOfficial": "živnostník",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-jozef-brtos-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-katarina-brunckova",
+      "electionId": "region-council",
+      "ballotNumber": 4,
+      "ageAtElection": 47,
+      "occupationOfficial": "advokátka",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-katarina-brunckova-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-tatiana-cervenova",
+      "electionId": "region-council",
+      "ballotNumber": 5,
+      "ageAtElection": 41,
+      "occupationOfficial": "starostka obce",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-tatiana-cervenova-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-miroslav-drab",
+      "electionId": "region-council",
+      "ballotNumber": 6,
+      "ageAtElection": 47,
+      "occupationOfficial": "riaditeľ hokejového klubu",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-miroslav-drab-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-stefan-fecko",
+      "electionId": "region-council",
+      "ballotNumber": 7,
+      "ageAtElection": 49,
+      "occupationOfficial": "skladník",
+      "affiliations": [
+        "Právo na pravdu"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-stefan-fecko-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-michal-hareznik",
+      "electionId": "region-council",
+      "ballotNumber": 8,
+      "ageAtElection": 48,
+      "occupationOfficial": "konateľ spoločnosti",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-michal-hareznik-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-peter-jonak",
+      "electionId": "region-council",
+      "ballotNumber": 9,
+      "ageAtElection": 44,
+      "occupationOfficial": "konateľ",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-peter-jonak-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-zuzana-katreniakova",
+      "electionId": "region-council",
+      "ballotNumber": 10,
+      "ageAtElection": 46,
+      "occupationOfficial": "administratívna pracovníčka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-zuzana-katreniakova-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-zdenko-kuban",
+      "electionId": "region-council",
+      "ballotNumber": 11,
+      "ageAtElection": 46,
+      "occupationOfficial": "poslanec samosprávneho kraja, administratívny pracovník",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-zdenko-kuban-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-michal-lavrik",
+      "electionId": "region-council",
+      "ballotNumber": 12,
+      "ageAtElection": 52,
+      "occupationOfficial": "riaditeľ centra podpory",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-michal-lavrik-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-pavol-lorko",
+      "electionId": "region-council",
+      "ballotNumber": 13,
+      "ageAtElection": 55,
+      "occupationOfficial": "sprievodca v cestovnom ruchu",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-pavol-lorko-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-matus-mnich",
+      "electionId": "region-council",
+      "ballotNumber": 14,
+      "ageAtElection": 64,
+      "occupationOfficial": "starosta obce",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-matus-mnich-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-adam-molnar",
+      "electionId": "region-council",
+      "ballotNumber": 15,
+      "ageAtElection": 21,
+      "occupationOfficial": "študent",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-adam-molnar-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-jan-prilepok",
+      "electionId": "region-council",
+      "ballotNumber": 16,
+      "ageAtElection": 47,
+      "occupationOfficial": "primátor mesta",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-jan-prilepok-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-martin-stanovsky-30",
+      "electionId": "region-council",
+      "ballotNumber": 17,
+      "ageAtElection": 30,
+      "occupationOfficial": "výkonný riaditeľ",
+      "affiliations": [],
+      "independent": true,
+      "id": "candidacy-dk-martin-stanovsky-30-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-elena-sunalova",
+      "electionId": "region-council",
+      "ballotNumber": 18,
+      "ageAtElection": 55,
+      "occupationOfficial": "lekárka",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-elena-sunalova-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-peter-toman",
+      "electionId": "region-council",
+      "ballotNumber": 19,
+      "ageAtElection": 53,
+      "occupationOfficial": "odborný prírodovedný pracovník",
+      "affiliations": [
+        "Bratia Slovenska"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-peter-toman-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    },
+    {
+      "candidateId": "dk-leonard-vajdulak",
+      "electionId": "region-council",
+      "ballotNumber": 20,
+      "ageAtElection": 61,
+      "occupationOfficial": "učiteľ hudby",
+      "affiliations": [
+        "Starostovia a nezávislí kandidáti"
+      ],
+      "independent": false,
+      "id": "candidacy-dk-leonard-vajdulak-region-council",
+      "contestId": "2026-zsk-region-council",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026"
+      ],
+      "districtId": "2026-zsk-region-3"
+    }
+  ],
+  "campaignFinance": [
+    {
+      "id": "finance-candidate-85",
+      "candidateId": "candidate-85",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "zsk-chair-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "region-chair",
+          "locality": "Žilinský samosprávny kraj",
+          "independent": false,
+          "sourceIds": [
+            "zsk-chair-roster-2026"
+          ]
+        }
+      ],
+      "partyIds": [
+        "republika"
+      ],
+      "account": {
+        "status": "unverified",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "zsk-chair-roster-2026"
+        ],
+        "reason": "Register MV SR uvádza účet pod zhodným menom. Prepojenie na túto kandidátku sa nepodarilo potvrdiť dvoma ďalšími identifikačnými údajmi; osobný odkaz preto neuvádzame."
+      }
+    },
+    {
+      "id": "finance-candidate-86",
+      "candidateId": "candidate-86",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "zsk-chair-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "region-chair",
+          "locality": "Žilinský samosprávny kraj",
+          "independent": false,
+          "sourceIds": [
+            "zsk-chair-roster-2026"
+          ]
+        }
+      ],
+      "partyIds": [
+        "slovexit"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-candidate-87",
+      "candidateId": "candidate-87",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "zsk-chair-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "region-chair",
+          "locality": "Žilinský samosprávny kraj",
+          "independent": false,
+          "sourceIds": [
+            "zsk-chair-roster-2026"
+          ]
+        }
+      ],
+      "partyIds": [
+        "smer-socialna-demokracia",
+        "hlas-socialna-demokracia",
+        "domov-narodna-strana"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-candidate-88",
+      "candidateId": "candidate-88",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "zsk-chair-roster-2026",
+        "campaign-accounts-candidates-2026",
+        "jurinova-campaign-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "region-chair",
+          "locality": "Žilinský samosprávny kraj",
+          "independent": false,
+          "sourceIds": [
+            "zsk-chair-roster-2026"
+          ]
+        }
+      ],
+      "partyIds": [
+        "hnutie-slovensko",
+        "za-ludi",
+        "nova",
+        "progresivne-slovensko",
+        "sloboda-a-solidarita",
+        "kdh-krestanskodemokraticke-hnutie",
+        "demokrati",
+        "konzervativci-krestanska-unia",
+        "obcianska-konzervativna-strana",
+        "demokraticka-strana-obcianski-demokrati-slovenska"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-candidate-89",
+      "candidateId": "candidate-89",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "zsk-chair-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "region-chair",
+          "locality": "Žilinský samosprávny kraj",
+          "independent": true,
+          "sourceIds": [
+            "zsk-chair-roster-2026"
+          ]
+        }
+      ],
+      "partyIds": [],
+      "account": {
+        "status": "verified",
+        "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6211000000002975097737",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "kapitulik-campaign-account-2026"
+        ],
+        "identity": [
+          {
+            "attribute": "office",
+            "value": "kandidát na predsedu ŽSK",
+            "sourceIds": [
+              "kapitulik-campaign-account-2026",
+              "zsk-chair-roster-2026"
+            ]
+          },
+          {
+            "attribute": "election",
+            "value": "2026",
+            "sourceIds": [
+              "kapitulik-campaign-account-2026",
+              "zsk-chair-roster-2026"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "finance-candidate-90",
+      "candidateId": "candidate-90",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "zsk-chair-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "region-chair",
+          "locality": "Žilinský samosprávny kraj",
+          "independent": false,
+          "sourceIds": [
+            "zsk-chair-roster-2026"
+          ]
+        }
+      ],
+      "partyIds": [
+        "slovenska-narodna-strana"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-candidate-91",
+      "candidateId": "candidate-91",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "zsk-chair-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "region-chair",
+          "locality": "Žilinský samosprávny kraj",
+          "independent": false,
+          "sourceIds": [
+            "zsk-chair-roster-2026"
+          ]
+        }
+      ],
+      "partyIds": [
+        "komunisticka-strana-slovenska"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-jan-briestensky",
+      "candidateId": "dk-jan-briestensky",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-mayor-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "mayor",
+          "locality": "Dolný Kubín",
+          "population": 17219,
+          "independent": true,
+          "sourceIds": [
+            "dk-mayor-roster-2026",
+            "dk-election-population-2026"
+          ]
+        }
+      ],
+      "partyIds": [],
+      "account": {
+        "status": "verified",
+        "url": "https://ib.fio.sk/ib/transparent?a=2903484252",
+        "sourceIds": [
+          "dk-briestensky-campaign-2026"
+        ],
+        "identity": [
+          {
+            "attribute": "municipality",
+            "value": "Dolný Kubín",
+            "sourceIds": [
+              "dk-briestensky-campaign-2026",
+              "dk-mayor-roster-2026"
+            ]
+          },
+          {
+            "attribute": "election",
+            "value": "kandidát na primátora mesta Dolný Kubín v roku 2026",
+            "sourceIds": [
+              "dk-briestensky-campaign-2026",
+              "dk-mayor-roster-2026"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-katarina-brunckova",
+      "candidateId": "dk-katarina-brunckova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-mayor-roster-2026",
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "mayor",
+          "locality": "Dolný Kubín",
+          "population": 17219,
+          "independent": true,
+          "sourceIds": [
+            "dk-mayor-roster-2026",
+            "dk-election-population-2026"
+          ]
+        }
+      ],
+      "partyIds": [],
+      "account": {
+        "status": "verified",
+        "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5611000000002979115779",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "dk-brunckova-campaign-2026"
+        ],
+        "identity": [
+          {
+            "attribute": "municipality",
+            "value": "Dolný Kubín",
+            "sourceIds": [
+              "dk-brunckova-campaign-2026",
+              "dk-mayor-roster-2026"
+            ]
+          },
+          {
+            "attribute": "election",
+            "value": "kandidátka na primátorku mesta Dolný Kubín v roku 2026",
+            "sourceIds": [
+              "dk-brunckova-campaign-2026",
+              "dk-mayor-roster-2026"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-emilia-jurcikova",
+      "candidateId": "dk-emilia-jurcikova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-mayor-roster-2026",
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "mayor",
+          "locality": "Dolný Kubín",
+          "population": 17219,
+          "independent": true,
+          "sourceIds": [
+            "dk-mayor-roster-2026",
+            "dk-election-population-2026"
+          ]
+        }
+      ],
+      "partyIds": [],
+      "account": {
+        "status": "verified",
+        "url": "https://ib.fio.sk/ib/transparent?a=2802973882",
+        "sourceIds": [
+          "dk-jurcikova-campaign-2026"
+        ],
+        "identity": [
+          {
+            "attribute": "municipality",
+            "value": "Dolný Kubín",
+            "sourceIds": [
+              "dk-jurcikova-campaign-2026",
+              "dk-mayor-roster-2026"
+            ]
+          },
+          {
+            "attribute": "election",
+            "value": "kandidátka na primátorku mesta Dolný Kubín v roku 2026",
+            "sourceIds": [
+              "dk-jurcikova-campaign-2026",
+              "dk-mayor-roster-2026"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-jan-marsinsky",
+      "candidateId": "dk-jan-marsinsky",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-mayor-roster-2026",
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "mayor",
+          "locality": "Dolný Kubín",
+          "population": 17219,
+          "independent": true,
+          "sourceIds": [
+            "dk-mayor-roster-2026",
+            "dk-election-population-2026"
+          ]
+        }
+      ],
+      "partyIds": [],
+      "account": {
+        "status": "unverified",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ],
+        "reason": "Register uvádza rovnaké meno; spojenie účtu s kandidátom nebolo potvrdené aspoň dvoma ďalšími identifikačnými znakmi."
+      }
+    },
+    {
+      "id": "finance-dk-jan-prilepok",
+      "candidateId": "dk-jan-prilepok",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-mayor-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [
+        {
+          "office": "mayor",
+          "locality": "Dolný Kubín",
+          "population": 17219,
+          "independent": true,
+          "sourceIds": [
+            "dk-mayor-roster-2026",
+            "dk-election-population-2026"
+          ]
+        }
+      ],
+      "partyIds": [],
+      "account": {
+        "status": "unverified",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ],
+        "reason": "Register uvádza rovnaké meno; spojenie účtu s kandidátom nebolo potvrdené aspoň dvoma ďalšími identifikačnými znakmi."
+      }
+    },
+    {
+      "id": "finance-dk-pavol-adamec",
+      "candidateId": "dk-pavol-adamec",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "republika"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-adriana-alleramova",
+      "candidateId": "dk-adriana-alleramova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "demokrati",
+        "progresivne-slovensko"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-stefan-belvoncik",
+      "candidateId": "dk-stefan-belvoncik",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-juraj-facko",
+      "candidateId": "dk-juraj-facko",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-martina-flajsova",
+      "candidateId": "dk-martina-flajsova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "kdh-krestanskodemokraticke-hnutie"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-peter-janotik",
+      "candidateId": "dk-peter-janotik",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "hlas-socialna-demokracia"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-martin-joppa",
+      "candidateId": "dk-martin-joppa",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-maria-kovacikova",
+      "candidateId": "dk-maria-kovacikova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-jan-raclavsky",
+      "candidateId": "dk-jan-raclavsky",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "demokrati",
+        "progresivne-slovensko"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-martin-stanovsky-30",
+      "candidateId": "dk-martin-stanovsky-30",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-dagmara-sudova",
+      "candidateId": "dk-dagmara-sudova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-leonard-vajdulak",
+      "candidateId": "dk-leonard-vajdulak",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "starostovia-a-nezavisli-kandidati"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-pavol-baca",
+      "candidateId": "dk-pavol-baca",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "kdh-krestanskodemokraticke-hnutie"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-roman-benus",
+      "candidateId": "dk-roman-benus",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-jozef-david",
+      "candidateId": "dk-jozef-david",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "starostovia-a-nezavisli-kandidati"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-miroslav-drab",
+      "candidateId": "dk-miroslav-drab",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "sloboda-a-solidarita",
+        "kdh-krestanskodemokraticke-hnutie",
+        "hnutie-slovensko",
+        "progresivne-slovensko",
+        "demokrati",
+        "za-ludi",
+        "konzervativci-krestanska-unia"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-stefan-fecko",
+      "candidateId": "dk-stefan-fecko",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "pravo-na-pravdu"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-juliana-gregova",
+      "candidateId": "dk-juliana-gregova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "kdh-krestanskodemokraticke-hnutie"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-jana-gressova",
+      "candidateId": "dk-jana-gressova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "demokrati",
+        "progresivne-slovensko"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-vladimira-grisova",
+      "candidateId": "dk-vladimira-grisova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-peter-jonak",
+      "candidateId": "dk-peter-jonak",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-matus-lakostik",
+      "candidateId": "dk-matus-lakostik",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "kdh-krestanskodemokraticke-hnutie"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-michal-lavrik",
+      "candidateId": "dk-michal-lavrik",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "hlas-socialna-demokracia",
+        "smer-socialna-demokracia",
+        "domov-narodna-strana"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-pavol-lorko",
+      "candidateId": "dk-pavol-lorko",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "demokrati",
+        "progresivne-slovensko",
+        "kdh-krestanskodemokraticke-hnutie",
+        "hnutie-slovensko",
+        "sloboda-a-solidarita",
+        "za-ludi",
+        "konzervativci-krestanska-unia"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-roman-markulcek",
+      "candidateId": "dk-roman-markulcek",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "smer-socialna-demokracia"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-martin-stanovsky-53",
+      "candidateId": "dk-martin-stanovsky-53",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "hlas-socialna-demokracia"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-peter-strezo",
+      "candidateId": "dk-peter-strezo",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "kdh-krestanskodemokraticke-hnutie"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-elena-sunalova",
+      "candidateId": "dk-elena-sunalova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "slovenska-narodna-strana"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-radoslava-bencurova",
+      "candidateId": "dk-radoslava-bencurova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-renata-brodnanska",
+      "candidateId": "dk-renata-brodnanska",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "kdh-krestanskodemokraticke-hnutie"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-ondrej-bukna",
+      "candidateId": "dk-ondrej-bukna",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-tomas-gajdos",
+      "candidateId": "dk-tomas-gajdos",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "kdh-krestanskodemokraticke-hnutie"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-jan-havko",
+      "candidateId": "dk-jan-havko",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "slovenska-narodna-strana"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-radoslav-kovacik",
+      "candidateId": "dk-radoslav-kovacik",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-matus-kubas",
+      "candidateId": "dk-matus-kubas",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-jozef-maslan",
+      "candidateId": "dk-jozef-maslan",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-sona-mihalikova",
+      "candidateId": "dk-sona-mihalikova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-peter-toman",
+      "candidateId": "dk-peter-toman",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "bratia-slovenska"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-peter-kajan",
+      "candidateId": "dk-peter-kajan",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-city-council-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-peter-benus",
+      "candidateId": "dk-peter-benus",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-jozef-brtos",
+      "candidateId": "dk-jozef-brtos",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "slovenska-narodna-strana"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-tatiana-cervenova",
+      "candidateId": "dk-tatiana-cervenova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-michal-hareznik",
+      "candidateId": "dk-michal-hareznik",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "smer-socialna-demokracia",
+        "hlas-socialna-demokracia",
+        "domov-narodna-strana"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-zuzana-katreniakova",
+      "candidateId": "dk-zuzana-katreniakova",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "strana-vidieka"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-zdenko-kuban",
+      "candidateId": "dk-zdenko-kuban",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "kdh-krestanskodemokraticke-hnutie",
+        "hnutie-slovensko",
+        "progresivne-slovensko",
+        "sloboda-a-solidarita",
+        "demokrati",
+        "za-ludi",
+        "konzervativci-krestanska-unia"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-matus-mnich",
+      "candidateId": "dk-matus-mnich",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "smer-socialna-demokracia",
+        "hlas-socialna-demokracia",
+        "domov-narodna-strana"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    },
+    {
+      "id": "finance-dk-adam-molnar",
+      "candidateId": "dk-adam-molnar",
+      "electionDate": "2026-10-24",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "dk-zsk-district-3-roster-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "legalSourceIds": [
+        "campaign-law-181-2014",
+        "campaign-faq-candidates-2026",
+        "campaign-faq-candidate-reports-2026",
+        "campaign-faq-parties-2026"
+      ],
+      "ownExpenses": "unknown",
+      "expenseSourceIds": [],
+      "campaignOperator": "unknown",
+      "operatorSourceIds": [],
+      "otherCandidacies": "not_exhaustive",
+      "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+      "headCandidacies": [],
+      "partyIds": [
+        "strana-vidieka"
+      ],
+      "account": {
+        "status": "not_listed",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026"
+        ]
+      }
+    }
+  ],
+  "electionResults": [
+    {
+      "id": "claim-candidate-85-zsk-council-2022",
+      "candidateId": "candidate-85",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do zastupiteľstva ŽSK 2022"
+      },
+      "text": {
+        "sk": "Vo volebnom obvode Čadca získala Anna Belousovová 6 606 platných hlasov (5,04 %) a bola zvolená za poslankyňu ŽSK."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-regional-results-2022"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2022",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-zsk-chair-2022",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby predsedu ŽSK 2022"
+      },
+      "text": {
+        "sk": "Igor Choma získal vo voľbách predsedu ŽSK 55 571 hlasov (22,24 %) a nebol zvolený."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-zsk-chair-results-2022"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-chair-2022",
+        "office": "regional_chair",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-88-zsk-chair-2017",
+      "candidateId": "candidate-88",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby predsedu ŽSK 2017"
+      },
+      "text": {
+        "sk": "Erika Jurinová získala 82 034 hlasov (43,67 %) a bola zvolená za predsedníčku ŽSK."
+      },
+      "period": "2017-11-04",
+      "sourceIds": [
+        "statistics-zsk-chair-results-2017"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-chair-2017",
+        "office": "regional_chair",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-88-zsk-chair-2022",
+      "candidateId": "candidate-88",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby predsedu ŽSK 2022"
+      },
+      "text": {
+        "sk": "Erika Jurinová získala 80 049 hlasov (32,04 %) a bola opätovne zvolená za predsedníčku ŽSK."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-zsk-chair-results-2022"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-chair-2022",
+        "office": "regional_chair",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-89-zsk-council-2017",
+      "candidateId": "candidate-89",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do zastupiteľstva ŽSK 2017"
+      },
+      "text": {
+        "sk": "Martin Kapitulík získal vo volebnom obvode Žilina 9 265 platných hlasov a bol zvolený za poslanca ŽSK."
+      },
+      "period": "2017-11-04",
+      "sourceIds": [
+        "statistics-regional-results-2017"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2017",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-89-zsk-council-2022",
+      "candidateId": "candidate-89",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do zastupiteľstva ŽSK 2022"
+      },
+      "text": {
+        "sk": "Martin Kapitulík získal vo volebnom obvode Žilina 6 268 platných hlasov (1,79 %) a bol zvolený za poslanca ŽSK."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-regional-results-2022"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2022",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-90-nrsr-election-2023",
+      "candidateId": "candidate-90",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2023"
+      },
+      "text": {
+        "sk": "Adam Lučanský získal vo voľbách do NR SR 8 749 prednostných hlasov; mandát následne prevzal ako náhradník."
+      },
+      "period": "2023-09-30",
+      "sourceIds": [
+        "statistics-nrsr-preference-2023",
+        "nrsr-lucansky-substitute-2023"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2023",
+        "office": "national_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "claim-candidate-91-zsk-council-2022",
+      "candidateId": "candidate-91",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do zastupiteľstva ŽSK 2022"
+      },
+      "text": {
+        "sk": "Milan Pova získal vo volebnom obvode Ružomberok 281 platných hlasov (0,35 %) a nebol zvolený."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-regional-results-2022"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2022",
+        "office": "regional_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-91-nrsr-2023",
+      "candidateId": "candidate-91",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2023"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú pri Milanovi Povovi 1 061 prednostných hlasov; výsledok: nezvolený."
+      },
+      "period": "2023-09-30",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2023",
+        "statistics-nrsr-preference-2023"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2023",
+        "office": "national_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-91-eu-candidacy-2024",
+      "candidateId": "candidate-91",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do Európskeho parlamentu 2024"
+      },
+      "text": {
+        "sk": "Milan Pova získal 187 prednostných hlasov; výsledok: nezvolený."
+      },
+      "period": "2024",
+      "sourceIds": [
+        "statistics-ep-candidates-2024",
+        "statistics-ep-results-2024"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "ep-2024",
+        "office": "european_parliament",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-89-mayor-result-2018",
+      "candidateId": "candidate-89",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby primátora 2018"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú Martina Kapitulíka vo voľbách primátora Žiliny s 3 754 hlasmi (13,00 %); výsledok: nezvolený."
+      },
+      "period": "2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-mayor-2018",
+        "office": "mayor",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-85-city-result-2018",
+      "candidateId": "candidate-85",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do mestského zastupiteľstva 2018"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú Annu Belousovovú vo volebnom obvode č. 4 v Čadci so 606 hlasmi (2,66 %); výsledok: zvolená."
+      },
+      "period": "2018",
+      "sourceIds": [
+        "statistics-municipal-candidates-2018"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-council-2018",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-city-result-2018",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do mestského zastupiteľstva 2018"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 1 v Žiline s 844 hlasmi (4,97 %); výsledok: nezvolený."
+      },
+      "period": "2018",
+      "sourceIds": [
+        "statistics-municipal-candidates-2018"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-council-2018",
+        "office": "municipal_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-89-city-result-2018",
+      "candidateId": "candidate-89",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do mestského zastupiteľstva 2018"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú Martina Kapitulíka vo volebnom obvode č. 3 v Žiline s 1 131 hlasmi (6,78 %); výsledok: zvolený."
+      },
+      "period": "2018",
+      "sourceIds": [
+        "statistics-municipal-candidates-2018"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-council-2018",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-regional-result-2017",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Krajské voľby 2017"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 11 so 6 064 hlasmi (1,84 %); výsledok: nezvolený."
+      },
+      "period": "2017",
+      "sourceIds": [
+        "statistics-regional-candidates-2017",
+        "statistics-regional-results-2017"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2017",
+        "office": "regional_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-85-city-result-2022",
+      "candidateId": "candidate-85",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do mestského zastupiteľstva 2022"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú Annu Belousovovú vo volebnom obvode č. 4 v Čadci s 889 hlasmi (4,27 %); výsledok: zvolená."
+      },
+      "period": "2022",
+      "sourceIds": [
+        "statistics-council-candidates-2022",
+        "statistics-council-votes-2022"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-council-2022",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-90-city-result-2022",
+      "candidateId": "candidate-90",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do obecného zastupiteľstva 2022"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú Adama Lučanského vo volebnom obvode č. 1 v Bystričke s 367 hlasmi (10,04 %); výsledok: zvolený."
+      },
+      "period": "2022",
+      "sourceIds": [
+        "statistics-council-candidates-2022",
+        "statistics-council-votes-2022"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-council-2022",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-city-result-2022",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do mestského zastupiteľstva 2022"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 1 v Žiline s 1 050 hlasmi (7,71 %); výsledok: zvolený."
+      },
+      "period": "2022",
+      "sourceIds": [
+        "statistics-council-candidates-2022",
+        "statistics-council-votes-2022"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-council-2022",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-89-city-result-2022",
+      "candidateId": "candidate-89",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do mestského zastupiteľstva 2022"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú Martina Kapitulíka vo volebnom obvode č. 3 v Žiline s 967 hlasmi (6,76 %); výsledok: zvolený."
+      },
+      "period": "2022",
+      "sourceIds": [
+        "statistics-council-candidates-2022",
+        "statistics-council-votes-2022"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-council-2022",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-90-regional-result-2022",
+      "candidateId": "candidate-90",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Krajské voľby 2022"
+      },
+      "text": {
+        "sk": "Oficiálne výsledky uvádzajú Adama Lučanského vo volebnom obvode č. 6 s 2 966 hlasmi (1,76 %); výsledok: nezvolený."
+      },
+      "period": "2022",
+      "sourceIds": [
+        "statistics-regional-candidates-2022",
+        "statistics-regional-results-2022"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2022",
+        "office": "regional_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-85-nrsr-2006",
+      "candidateId": "candidate-85",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2006"
+      },
+      "text": {
+        "sk": "Anna Belousovová získala 90 613 prednostných hlasov; výsledok: zvolená za poslankyňu."
+      },
+      "period": "2006",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2006",
+        "statistics-nrsr-results-2006"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2006",
+        "office": "national_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-85-osk-council-2009",
+      "candidateId": "candidate-85",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do ŽSK 2009"
+      },
+      "text": {
+        "sk": "Anna Belousovová získala vo volebnom obvode Čadca 4 467 hlasov; výsledok: zvolená za poslankyňu."
+      },
+      "period": "2009",
+      "sourceIds": [
+        "statistics-osk-elected-2009"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2009",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-85-nrsr-2010",
+      "candidateId": "candidate-85",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2010"
+      },
+      "text": {
+        "sk": "Anna Belousovová získala 60 984 prednostných hlasov; výsledok: zvolená za poslankyňu."
+      },
+      "period": "2010",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2010",
+        "statistics-nrsr-results-2010"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2010",
+        "office": "national_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-85-nrsr-2012",
+      "candidateId": "candidate-85",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2012"
+      },
+      "text": {
+        "sk": "Anna Belousovová kandidovala vo voľbách do NR SR; výsledok: nezvolená."
+      },
+      "period": "2012",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2012",
+        "statistics-nrsr-results-2012"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2012",
+        "office": "national_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-85-ep-2024",
+      "candidateId": "candidate-85",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do Európskeho parlamentu 2024"
+      },
+      "text": {
+        "sk": "Anna Belousovová získala 32 313 prednostných hlasov (17,45 %); výsledok: náhradníčka."
+      },
+      "period": "2024",
+      "sourceIds": [
+        "statistics-ep-candidates-2024",
+        "statistics-ep-results-2024"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "ep-2024",
+        "office": "european_parliament",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "claim-candidate-87-osk-council-2001",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do ŽSK 2001"
+      },
+      "text": {
+        "sk": "Igor Choma získal vo volebnom obvode Žilina 1 299 hlasov; výsledok: nezvolený."
+      },
+      "period": "2001",
+      "sourceIds": [
+        "statistics-osk-not-elected-2001"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2001",
+        "office": "regional_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-nrsr-2002",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2002"
+      },
+      "text": {
+        "sk": "Igor Choma získal 2 828 prednostných hlasov (0,73056 %); výsledok: náhradník."
+      },
+      "period": "2002",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2002",
+        "statistics-nrsr-results-2002",
+        "statistics-nrsr-substitutes-2002"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2002",
+        "office": "national_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "claim-candidate-87-osk-council-2005",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do ŽSK 2005"
+      },
+      "text": {
+        "sk": "Igor Choma získal vo volebnom obvode Žilina 2 422 hlasov; výsledok: nezvolený."
+      },
+      "period": "2005",
+      "sourceIds": [
+        "statistics-regional-results-2005"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2005",
+        "office": "regional_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-osk-council-2009",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do ŽSK 2009"
+      },
+      "text": {
+        "sk": "Igor Choma získal vo volebnom obvode Žilina 6 195 hlasov; výsledok: zvolený za poslanca."
+      },
+      "period": "2009",
+      "sourceIds": [
+        "statistics-osk-elected-2009"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2009",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-oso-mayor-2010",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby primátora 2010"
+      },
+      "text": {
+        "sk": "Igor Choma získal v Žiline 12 034 hlasov; výsledok: zvolený za primátora."
+      },
+      "period": "2010",
+      "sourceIds": [
+        "statistics-mayor-results-2010"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-mayor-2010",
+        "office": "mayor",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-nrsr-2010",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2010"
+      },
+      "text": {
+        "sk": "Igor Choma získal 4 222 prednostných hlasov; výsledok: zvolený za poslanca."
+      },
+      "period": "2010",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2010",
+        "statistics-nrsr-results-2010"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2010",
+        "office": "national_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-nrsr-2012",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2012"
+      },
+      "text": {
+        "sk": "Igor Choma získal 16 747 prednostných hlasov; výsledok: zvolený za poslanca."
+      },
+      "period": "2012",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2012",
+        "statistics-nrsr-results-2012"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2012",
+        "office": "national_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-osk-council-2013",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do ŽSK 2013"
+      },
+      "text": {
+        "sk": "Igor Choma získal vo volebnom obvode Žilina 6 452 hlasov; výsledok: zvolený za poslanca."
+      },
+      "period": "2013",
+      "sourceIds": [
+        "statistics-osk-candidates-2013",
+        "statistics-osk-results-2013",
+        "statistics-osk-elected-2013"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2013",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-oso-mayor-2014",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby primátora 2014"
+      },
+      "text": {
+        "sk": "Igor Choma získal v Žiline 10 131 hlasov; výsledok: zvolený za primátora."
+      },
+      "period": "2014",
+      "sourceIds": [
+        "statistics-mayor-results-2014"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-mayor-2014",
+        "office": "mayor",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-nrsr-2016",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2016"
+      },
+      "text": {
+        "sk": "Igor Choma získal 5 087 prednostných hlasov (0,69 %); výsledok: zvolený za poslanca."
+      },
+      "period": "2016",
+      "sourceIds": [
+        "statistics-nrsr-results-2016",
+        "statistics-nrsr-elected-2016"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2016",
+        "office": "national_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-87-nrsr-2023",
+      "candidateId": "candidate-87",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2023"
+      },
+      "text": {
+        "sk": "Igor Choma získal 6 291 prednostných hlasov (0,92 %); výsledok: zvolený za poslanca."
+      },
+      "period": "2023",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2023",
+        "statistics-nrsr-preference-2023"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2023",
+        "office": "national_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-88-nrsr-2010",
+      "candidateId": "candidate-88",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2010"
+      },
+      "text": {
+        "sk": "Erika Jurinová získala 29 210 prednostných hlasov; výsledok: zvolená za poslankyňu."
+      },
+      "period": "2010",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2010",
+        "statistics-nrsr-results-2010"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2010",
+        "office": "national_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-88-nrsr-2012",
+      "candidateId": "candidate-88",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2012"
+      },
+      "text": {
+        "sk": "Erika Jurinová získala 52 800 prednostných hlasov; výsledok: zvolená za poslankyňu."
+      },
+      "period": "2012",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2012",
+        "statistics-nrsr-results-2012"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2012",
+        "office": "national_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-88-nrsr-2016",
+      "candidateId": "candidate-88",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2016"
+      },
+      "text": {
+        "sk": "Erika Jurinová získala 30 225 prednostných hlasov (10,50 %); výsledok: zvolená za poslankyňu."
+      },
+      "period": "2016",
+      "sourceIds": [
+        "statistics-nrsr-results-2016",
+        "statistics-nrsr-elected-2016"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2016",
+        "office": "national_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-88-nrsr-2023",
+      "candidateId": "candidate-88",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2023"
+      },
+      "text": {
+        "sk": "Erika Jurinová získala 69 638 prednostných hlasov (26,36 %); výsledok: zvolená za poslankyňu."
+      },
+      "period": "2023",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2023",
+        "statistics-nrsr-preference-2023"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2023",
+        "office": "national_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-89-nrsr-2010",
+      "candidateId": "candidate-89",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2010"
+      },
+      "text": {
+        "sk": "Martin Kapitulík získal 679 prednostných hlasov; výsledok: nezvolený."
+      },
+      "period": "2010",
+      "sourceIds": [
+        "statistics-nrsr-candidates-2010",
+        "statistics-nrsr-results-2010"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2010",
+        "office": "national_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-89-osk-council-2013",
+      "candidateId": "candidate-89",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do ŽSK 2013"
+      },
+      "text": {
+        "sk": "Martin Kapitulík získal vo volebnom obvode Žilina 3 878 hlasov; výsledok: zvolený za poslanca."
+      },
+      "period": "2013",
+      "sourceIds": [
+        "statistics-osk-candidates-2013",
+        "statistics-osk-results-2013",
+        "statistics-osk-elected-2013"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "osk-council-2013",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-89-oso-council-2014",
+      "candidateId": "candidate-89",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do mestského zastupiteľstva 2014"
+      },
+      "text": {
+        "sk": "Martin Kapitulík získal v Žiline 971 hlasov; výsledok: zvolený za poslanca."
+      },
+      "period": "2014",
+      "sourceIds": [
+        "statistics-municipal-elected-2014"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "oso-council-2014",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "claim-candidate-89-nrsr-2016",
+      "candidateId": "candidate-89",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do NR SR 2016"
+      },
+      "text": {
+        "sk": "Martin Kapitulík získal 3 164 prednostných hlasov (2,16 %); výsledok: nezvolený."
+      },
+      "period": "2016",
+      "sourceIds": [
+        "statistics-nrsr-results-2016",
+        "statistics-nrsr-elected-2016"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "nrsr-2016",
+        "office": "national_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "claim-candidate-90-ep-2024",
+      "candidateId": "candidate-90",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby do Európskeho parlamentu 2024"
+      },
+      "text": {
+        "sk": "Adam Lučanský získal 1 697 prednostných hlasov; výsledok: nezvolený."
+      },
+      "period": "2024",
+      "sourceIds": [
+        "statistics-ep-candidates-2024",
+        "statistics-ep-results-2024"
+      ],
+      "checkedAt": "2026-09-18",
+      "election": {
+        "contestId": "ep-2024",
+        "office": "european_parliament",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "dk-jan-briestensky-council-result-2022",
+      "candidateId": "dk-jan-briestensky",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022-10-29"
+      },
+      "text": {
+        "sk": "Vo voľbách 29. októbra 2022 bol Ján Briestenský zvolený za poslanca Mestského zastupiteľstva v Dolnom Kubíne vo volebnom obvode č. 1 za OKS. Získal 438 platných hlasov (32,51 % hlasov odovzdaných kandidátom v obvode)."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "dk-city-candidate-roster-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-1",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jan-briestensky-regional-substitute-2017",
+      "candidateId": "dk-jan-briestensky",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2017-11-04"
+      },
+      "text": {
+        "sk": "Vo voľbách 4. novembra 2017 je Ján Briestenský uvedený ako náhradník na poslanca Žilinského samosprávneho kraja vo volebnom obvode č. 3. Kandidoval ako nezávislý a získal 976 platných hlasov (3,15 %)."
+      },
+      "period": "2017-11-04",
+      "sourceIds": [
+        "dk-statistics-regional-tables-2017"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2017-zsk-region-3",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-michal-lavrik-mayor-result-2018",
+      "candidateId": "dk-michal-lavrik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2018-11-10"
+      },
+      "text": {
+        "sk": "Vo voľbách 10. novembra 2018 nebol Michal Lavrík zvolený za primátora Dolného Kubína. Kandidoval za SNS a získal 777 platných hlasov (11,58 %)."
+      },
+      "period": "2018-11-10",
+      "sourceIds": [
+        "statistics-municipal-2018-tables",
+        "dk-city-candidate-roster-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-dk-mayor",
+        "office": "mayor",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "dk-michal-lavrik-council-result-2018",
+      "candidateId": "dk-michal-lavrik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2018-11-10"
+      },
+      "text": {
+        "sk": "Vo voľbách 10. novembra 2018 bol Michal Lavrík zvolený za poslanca Mestského zastupiteľstva v Dolnom Kubíne v obvode č. 5 za SNS. Získal 621 platných hlasov."
+      },
+      "period": "2018-11-10",
+      "sourceIds": [
+        "statistics-municipal-2018-tables",
+        "dk-city-candidate-roster-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-michal-lavrik-regional-substitute-2017",
+      "candidateId": "dk-michal-lavrik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2017-11-04"
+      },
+      "text": {
+        "sk": "Vo voľbách 4. novembra 2017 je Michal Lavrík uvedený ako náhradník na poslanca Žilinského samosprávneho kraja vo volebnom obvode č. 3 za SNS. Získal 1074 platných hlasov (3,46 %)."
+      },
+      "period": "2017-11-04",
+      "sourceIds": [
+        "dk-statistics-regional-tables-2017"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2017-zsk-region-3",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-michal-lavrik-repeated-election-2023",
+      "candidateId": "dk-michal-lavrik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2023-09-09"
+      },
+      "text": {
+        "sk": "V opakovaných voľbách 9. septembra 2023 sa Michal Lavrík stal náhradníkom na poslanca Mestského zastupiteľstva v Dolnom Kubíne vo volebnom obvode č. 3. Kandidoval za HLAS – sociálnu demokraciu a získal 66 platných hlasov."
+      },
+      "period": "2023-09-09",
+      "sourceIds": [
+        "dk-city-repeated-election-results-2023",
+        "dk-lavrik-city-oath-2025"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2023-dk-city-3",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-vladimira-grisova-council-substitute-2022",
+      "candidateId": "dk-vladimira-grisova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022-10-29"
+      },
+      "text": {
+        "sk": "Vo voľbách 29. októbra 2022 je Vladimíra Grísová uvedená ako náhradníčka na poslankyňu Mestského zastupiteľstva v Dolnom Kubíne v obvode č. 5. Kandidovala za HLAS – sociálna demokracia a získala 232 platných hlasov (2,51 % hlasov odovzdaných kandidátom v obvode)."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "dk-city-candidate-roster-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-michal-lavrik-council-substitute-2022",
+      "candidateId": "dk-michal-lavrik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022-10-29"
+      },
+      "text": {
+        "sk": "Vo voľbách 29. októbra 2022 je Michal Lavrík uvedený ako náhradník na poslanca Mestského zastupiteľstva v Dolnom Kubíne v obvode č. 5. Kandidoval za HLAS – sociálna demokracia a získal 532 platných hlasov (5,76 % hlasov odovzdaných kandidátom v obvode)."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "dk-city-candidate-roster-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-martin-stanovsky-53-council-substitute-2022",
+      "candidateId": "dk-martin-stanovsky-53",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022-10-29"
+      },
+      "text": {
+        "sk": "Vo voľbách 29. októbra 2022 je Martin Stanovský uvedený ako náhradník na poslanca Mestského zastupiteľstva v Dolnom Kubíne v obvode č. 5. Kandidoval za HLAS – sociálna demokracia a získal 334 platných hlasov (3,61 % hlasov odovzdaných kandidátom v obvode)."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "dk-city-candidate-roster-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-peter-toman-council-substitute-2022",
+      "candidateId": "dk-peter-toman",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022-10-29"
+      },
+      "text": {
+        "sk": "Vo voľbách 29. októbra 2022 je Peter Tomáň uvedený ako náhradník na poslanca Mestského zastupiteľstva v Dolnom Kubíne v obvode č. 5. Kandidoval za NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI a získal 233 platných hlasov (2,52 % hlasov odovzdaných kandidátom v obvode)."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "dk-city-candidate-roster-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-tomas-gajdos-repeated-election-result-2023",
+      "candidateId": "dk-tomas-gajdos",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2023-09-09"
+      },
+      "text": {
+        "sk": "V opakovaných voľbách 9. septembra 2023 bol Tomáš Gajdoš zvolený za poslanca Mestského zastupiteľstva v Dolnom Kubíne vo volebnom obvode č. 3 za KDH. Získal 196 platných hlasov."
+      },
+      "period": "2023-09-09",
+      "sourceIds": [
+        "dk-city-repeated-election-results-2023"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2023-dk-city-3",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jozef-brtos-council-result-2022",
+      "candidateId": "dk-jozef-brtos",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022-10-29"
+      },
+      "text": {
+        "sk": "Vo voľbách 29. októbra 2022 bol Jozef Brtoš zvolený za poslanca Obecného zastupiteľstva v Bzinách za SNS. Získal 153 platných hlasov (7,78 % hlasov odovzdaných kandidátom v obvode)."
+      },
+      "period": "2022-10-29",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-bziny-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jozef-brtos-council-result-2018",
+      "candidateId": "dk-jozef-brtos",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2018-11-10"
+      },
+      "text": {
+        "sk": "Vo voľbách 10. novembra 2018 bol Jozef Brtoš zvolený za poslanca Obecného zastupiteľstva v Bzinách za SNS. Získal 142 platných hlasov."
+      },
+      "period": "2018-11-10",
+      "sourceIds": [
+        "statistics-municipal-2018-tables",
+        "dk-brtos-current-bziny-profile"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-bziny-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jozef-brtos-mayor-result-2018",
+      "candidateId": "dk-jozef-brtos",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2018-11-10"
+      },
+      "text": {
+        "sk": "Vo voľbách 10. novembra 2018 nebol Jozef Brtoš zvolený za starostu Bzín. Kandidoval za SNS a získal 116 platných hlasov (37,17 %)."
+      },
+      "period": "2018-11-10",
+      "sourceIds": [
+        "statistics-municipal-2018-tables",
+        "dk-brtos-current-bziny-profile"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-bziny-mayor",
+        "office": "mayor",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "dk-peter-kajan-2022-municipal_council-1",
+      "candidateId": "dk-peter-kajan",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Peter Kajan vo voľbách v roku 2022 získal 376 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 1 (27,91 %); výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jan-havko-2022-municipal_council-2",
+      "candidateId": "dk-jan-havko",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Ján Havko vo voľbách v roku 2022 získal 139 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 2 (11,3 %); výsledok: nezvolený za poslanca mestského zastupiteľstva Dolného Kubína. V oficiálnej tabuľke je vedený ako náhradník."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-leonard-vajdulak-2022-municipal_council-4",
+      "candidateId": "dk-leonard-vajdulak",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Leonard Vajdulák vo voľbách v roku 2022 získal 617 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 4 (8,26 %); výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jan-raclavsky-2022-municipal_council-4",
+      "candidateId": "dk-jan-raclavsky",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Ján Raclavský vo voľbách v roku 2022 získal 400 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 4 (5,36 %); výsledok: nezvolený za poslanca mestského zastupiteľstva Dolného Kubína. V oficiálnej tabuľke je vedený ako náhradník."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-peter-janotik-2022-municipal_council-4",
+      "candidateId": "dk-peter-janotik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Peter Janotík vo voľbách v roku 2022 získal 337 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 4 (4,51 %); výsledok: nezvolený za poslanca mestského zastupiteľstva Dolného Kubína. V oficiálnej tabuľke je vedený ako náhradník."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-peter-jonak-2022-municipal_council-5",
+      "candidateId": "dk-peter-jonak",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Peter Jonák vo voľbách v roku 2022 získal 971 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5 (10,51 %); výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-juliana-gregova-2022-municipal_council-5",
+      "candidateId": "dk-juliana-gregova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Juliana Gregová vo voľbách v roku 2022 získala 789 hlasov pri voľbe poslankyne mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5 (8,54 %); výsledok: zvolená za poslankyňu mestského zastupiteľstva Dolného Kubína."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jozef-david-2022-municipal_council-5",
+      "candidateId": "dk-jozef-david",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Jozef David vo voľbách v roku 2022 získal 765 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5 (8,28 %); výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-tatiana-cervenova-2022-municipal_council-1",
+      "candidateId": "dk-tatiana-cervenova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Tatiana Červeňová vo voľbách v roku 2022 získala 173 hlasov pri voľbe poslankyne obecného zastupiteľstva Malatinej vo volebnom obvode č. 1 (7,43 %); výsledok: nezvolená za poslankyňu obecného zastupiteľstva Malatinej. V oficiálnej tabuľke je vedená ako náhradníčka."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-malatina-city-council",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-jan-prilepok-2018-mayor-0",
+      "candidateId": "dk-jan-prilepok",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2018"
+      },
+      "text": {
+        "sk": "Ján Prílepok vo voľbách v roku 2018 získal 3 798 hlasov pri voľbe primátora mesta Dolný Kubín (56,64 %); výsledok: zvolený za primátora mesta Dolný Kubín."
+      },
+      "period": "Voľby 2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-dk-mayor",
+        "office": "mayor",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-zdenko-kuban-2018-mayor-0",
+      "candidateId": "dk-zdenko-kuban",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2018"
+      },
+      "text": {
+        "sk": "Zdenko Kubáň vo voľbách v roku 2018 získal 243 hlasov pri voľbe starostu obce Malatiná (100 %); výsledok: zvolený za starostu obce Malatiná."
+      },
+      "period": "Voľby 2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-malatina-mayor",
+        "office": "mayor",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-tatiana-cervenova-2022-regional_council-3",
+      "candidateId": "dk-tatiana-cervenova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Tatiana Červeňová vo voľbách v roku 2022 získala 966 hlasov pri voľbe poslankyne zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (2,48 %); výsledok: nezvolená za poslankyňu zastupiteľstva Žilinského samosprávneho kraja. V oficiálnej tabuľke je vedená ako náhradníčka."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-regional-results-2022",
+        "dk-zsk-commission2022-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zsk-region-council",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-peter-jonak-2022-regional_council-3",
+      "candidateId": "dk-peter-jonak",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Peter Jonák vo voľbách v roku 2022 získal 3 432 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (8,84 %); výsledok: zvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-regional-results-2022",
+        "dk-zsk-commission2022-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zsk-region-council",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-zdenko-kuban-2022-regional_council-3",
+      "candidateId": "dk-zdenko-kuban",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Zdenko Kubáň vo voľbách v roku 2022 získal 3 293 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (8,48 %); výsledok: zvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-regional-results-2022",
+        "dk-zsk-commission2022-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zsk-region-council",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jan-prilepok-2022-regional_council-3",
+      "candidateId": "dk-jan-prilepok",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Ján Prílepok vo voľbách v roku 2022 získal 8 014 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (20,65 %); výsledok: zvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-regional-results-2022",
+        "dk-zsk-commission2022-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zsk-region-council",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jan-raclavsky-2022-regional_council-3",
+      "candidateId": "dk-jan-raclavsky",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Ján Raclavský vo voľbách v roku 2022 získal 925 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (2,38 %); výsledok: nezvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja. V oficiálnej tabuľke je vedený ako náhradník."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-regional-results-2022",
+        "dk-zsk-commission2022-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zsk-region-council",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-peter-strezo-2018-municipal_council-1",
+      "candidateId": "dk-peter-strezo",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2018"
+      },
+      "text": {
+        "sk": "Peter Strežo vo voľbách v roku 2018 získal 404 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 1; výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+      },
+      "period": "Voľby 2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-peter-jonak-2018-municipal_council-5",
+      "candidateId": "dk-peter-jonak",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2018"
+      },
+      "text": {
+        "sk": "Peter Jonák vo voľbách v roku 2018 získal 948 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5; výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+      },
+      "period": "Voľby 2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-juliana-gregova-2018-municipal_council-5",
+      "candidateId": "dk-juliana-gregova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2018"
+      },
+      "text": {
+        "sk": "Juliana Gregová vo voľbách v roku 2018 získala 840 hlasov pri voľbe poslankyne mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5; výsledok: zvolená za poslankyňu mestského zastupiteľstva Dolného Kubína."
+      },
+      "period": "Voľby 2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jozef-david-2018-municipal_council-5",
+      "candidateId": "dk-jozef-david",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2018"
+      },
+      "text": {
+        "sk": "Jozef David vo voľbách v roku 2018 získal 707 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5; výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+      },
+      "period": "Voľby 2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-dk-city-council",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-jan-prilepok-2022-mayor-0",
+      "candidateId": "dk-jan-prilepok",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Ján Prílepok vo voľbách v roku 2022 získal 5 224 hlasov pri voľbe primátora mesta Dolný Kubín (88,9 %); výsledok: zvolený za primátora mesta Dolný Kubín."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-mayor-votes-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-mayor",
+        "office": "mayor",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-tatiana-cervenova-2022-mayor-0",
+      "candidateId": "dk-tatiana-cervenova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2022"
+      },
+      "text": {
+        "sk": "Tatiana Červeňová vo voľbách v roku 2022 získala 135 hlasov pri voľbe starostky obce Malatiná (31,03 %); výsledok: zvolená za starostku obce Malatiná."
+      },
+      "period": "Voľby 2022",
+      "sourceIds": [
+        "statistics-mayor-votes-2022",
+        "dk-malatina-mayor-page"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-malatina-mayor",
+        "office": "mayor",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-juliana-gregova-2023-national_council-0",
+      "candidateId": "dk-juliana-gregova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2023"
+      },
+      "text": {
+        "sk": "Juliana Gregová vo voľbách v roku 2023 získala 2 104 prednostných hlasov pri voľbe poslankyne Národnej rady Slovenskej republiky (1,03 %); výsledok: nezvolená za poslankyňu Národnej rady Slovenskej republiky. V oficiálnej tabuľke je vedená ako náhradníčka."
+      },
+      "period": "Voľby 2023",
+      "sourceIds": [
+        "statistics-nrsr-preference-2023",
+        "statistics-nrsr-candidates-2023",
+        "za-a-nrsr-2023-tab06"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2023-nr-sr",
+        "office": "national_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-jan-raclavsky-2023-national_council-0",
+      "candidateId": "dk-jan-raclavsky",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2023"
+      },
+      "text": {
+        "sk": "Ján Raclavský vo voľbách v roku 2023 získal 315 prednostných hlasov pri voľbe poslanca Národnej rady Slovenskej republiky; výsledok: nezvolený za poslanca Národnej rady Slovenskej republiky."
+      },
+      "period": "Voľby 2023",
+      "sourceIds": [
+        "statistics-nrsr-preference-2023",
+        "statistics-nrsr-candidates-2023",
+        "za-a-nrsr-2023-tab06"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2023-nr-sr",
+        "office": "national_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "dk-jan-prilepok-2017-regional_council-3",
+      "candidateId": "dk-jan-prilepok",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2017"
+      },
+      "text": {
+        "sk": "Ján Prílepok vo voľbách v roku 2017 získal 3 284 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (10,6 %); výsledok: zvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja."
+      },
+      "period": "Voľby 2017",
+      "sourceIds": [
+        "dk-statistics-regional-tables-2017"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2017-zsk-region-council",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-zdenko-kuban-2017-regional_council-3",
+      "candidateId": "dk-zdenko-kuban",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2017"
+      },
+      "text": {
+        "sk": "Zdenko Kubáň vo voľbách v roku 2017 získal 2 405 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (7,77 %); výsledok: zvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja."
+      },
+      "period": "Voľby 2017",
+      "sourceIds": [
+        "dk-statistics-regional-tables-2017"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2017-zsk-region-council",
+        "office": "regional_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-peter-jonak-2017-regional_council-3",
+      "candidateId": "dk-peter-jonak",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Výsledok volieb 2017"
+      },
+      "text": {
+        "sk": "Peter Jonák vo voľbách v roku 2017 získal 1 856 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (5,99 %); výsledok: nezvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja. V oficiálnej tabuľke je vedený ako náhradník."
+      },
+      "period": "Voľby 2017",
+      "sourceIds": [
+        "dk-statistics-regional-tables-2017"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2017-zsk-region-council",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-peter-benus-c3-2",
+      "candidateId": "dk-peter-benus",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do Obecného zastupiteľstva Bziny v roku 2022 získal Peter Beňuš 145 hlasov a bol zvolený za poslanca."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-bziny-city-1",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-ondrej-bukna-c3-5",
+      "candidateId": "dk-ondrej-bukna",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Ondrej Bukna 340 hlasov a bol zvolený za poslanca."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-2",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-juraj-facko-c3-5",
+      "candidateId": "dk-juraj-facko",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Juraj Fačko 647 hlasov a bol zvolený za poslanca."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-4",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-emilia-jurcikova-c3-7",
+      "candidateId": "dk-emilia-jurcikova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získala Emília Jurčíková 568 hlasov a bola zvolená za poslankyňu."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-4",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-matus-lakostik-c3-6",
+      "candidateId": "dk-matus-lakostik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Matúš Lakoštík 1137 hlasov a bol zvolený za poslanca."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-pavol-baca-c3-5",
+      "candidateId": "dk-pavol-baca",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Pavol Bača 967 hlasov a bol zvolený za poslanca."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-miroslav-drab-c3-6",
+      "candidateId": "dk-miroslav-drab",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Miroslav Dráb 629 hlasov a bol zvolený za poslanca."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-elena-sunalova-c3-2",
+      "candidateId": "dk-elena-sunalova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získala Elena Šuňalová 394 hlasov a nebola zvolená za poslankyňu; bola uvedená ako náhradníčka."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-roman-markulcek-c3-1",
+      "candidateId": "dk-roman-markulcek",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Roman Markulček 361 hlasov a nebol zvolený za poslanca; bol uvedený ako náhradník."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-council-votes-2022",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-emilia-jurcikova-c3-8",
+      "candidateId": "dk-emilia-jurcikova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2018"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2018 získala Emília Jurčíková 671 hlasov a bola zvolená za poslankyňu."
+      },
+      "period": "10. novembra 2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-dk-city-4",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-pavol-baca-c3-6",
+      "candidateId": "dk-pavol-baca",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2018"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2018 získal Pavol Bača 778 hlasov a bol zvolený za poslanca."
+      },
+      "period": "10. novembra 2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-matus-lakostik-c3-7",
+      "candidateId": "dk-matus-lakostik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Komunálne voľby 2018"
+      },
+      "text": {
+        "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2018 získal Matúš Lakoštík 914 hlasov a bol zvolený za poslanca."
+      },
+      "period": "10. novembra 2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables",
+        "statistics-council-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-dk-city-5",
+        "office": "municipal_council",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-matus-mnich-c3-3",
+      "candidateId": "dk-matus-mnich",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby starostu 2018"
+      },
+      "text": {
+        "sk": "Vo voľbách starostu Zázrivej v roku 2018 získal Matúš Mních 678 hlasov a bol zvolený za starostu."
+      },
+      "period": "10. novembra 2018",
+      "sourceIds": [
+        "statistics-municipal-2018-tables"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2018-zazriva-mayor",
+        "office": "mayor",
+        "outcome": "elected"
+      }
+    },
+    {
+      "id": "dk-miroslav-drab-c3-7",
+      "candidateId": "dk-miroslav-drab",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Krajské voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2022 získal Miroslav Dráb 1559 hlasov a nebol zvolený za poslanca; vo výsledkoch bol uvedený ako náhradník."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-regional-results-2022",
+        "statistics-council-candidates-2022",
+        "dk-regional-roster2022-c3",
+        "dk-zsk-commission2022-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zsk-district-3",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-michal-hareznik-c3-2",
+      "candidateId": "dk-michal-hareznik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Krajské voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2022 získal Michal Harezník 1801 hlasov a nebol zvolený za poslanca; vo výsledkoch bol uvedený ako náhradník."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-regional-results-2022",
+        "dk-regional-roster2022-c3",
+        "dk-zsk-commission2022-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zsk-district-3",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-roman-markulcek-c3-2",
+      "candidateId": "dk-roman-markulcek",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Krajské voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2022 získal Roman Markulček 815 hlasov a nebol zvolený za poslanca; vo výsledkoch bol uvedený ako náhradník."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-regional-results-2022",
+        "statistics-council-candidates-2022",
+        "dk-regional-roster2022-c3",
+        "dk-zsk-commission2022-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zsk-district-3",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-matus-mnich-c3-4",
+      "candidateId": "dk-matus-mnich",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Krajské voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2022 získal Matúš Mních 2358 hlasov a nebol zvolený za poslanca; vo výsledkoch bol uvedený ako náhradník."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-regional-results-2022",
+        "dk-regional-roster2022-c3",
+        "dk-zsk-commission2022-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zsk-district-3",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-elena-sunalova-c3-3",
+      "candidateId": "dk-elena-sunalova",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Krajské voľby 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2022 získala Elena Šuňalová 688 hlasov a nebola zvolená za poslankyňu; vo výsledkoch bola uvedená ako náhradníčka."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-regional-results-2022",
+        "statistics-council-candidates-2022",
+        "dk-regional-roster2022-c3",
+        "dk-zsk-commission2022-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zsk-district-3",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-matus-mnich-c3-5",
+      "candidateId": "dk-matus-mnich",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Krajské voľby 2017"
+      },
+      "text": {
+        "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2017 získal Matúš Mních 2 161 hlasov a nebol zvolený za poslanca; vo výsledkoch bol uvedený ako náhradník."
+      },
+      "period": "4. novembra 2017",
+      "sourceIds": [
+        "dk-statistics-regional-tables-2017"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2017-zsk-district-3",
+        "office": "regional_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-miroslav-drab-c3-9",
+      "candidateId": "dk-miroslav-drab",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Parlamentné voľby 2020"
+      },
+      "text": {
+        "sk": "Vo voľbách do Národnej rady SR v roku 2020 získal Miroslav Dráb 921 prednostných hlasov a nebol zvolený za poslanca."
+      },
+      "period": "29. februára 2020",
+      "sourceIds": [
+        "dk-national-results2020-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2020-slovakia-national-council",
+        "office": "national_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "dk-matus-lakostik-c3-8",
+      "candidateId": "dk-matus-lakostik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Parlamentné voľby 2020"
+      },
+      "text": {
+        "sk": "Vo voľbách do Národnej rady SR v roku 2020 získal Matúš Lakoštík 887 prednostných hlasov a nebol zvolený za poslanca."
+      },
+      "period": "29. februára 2020",
+      "sourceIds": [
+        "dk-national-results2020-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2020-slovakia-national-council",
+        "office": "national_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "dk-matus-mnich-c3-7",
+      "candidateId": "dk-matus-mnich",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Parlamentné voľby 2020"
+      },
+      "text": {
+        "sk": "Vo voľbách do Národnej rady SR v roku 2020 získal Matúš Mních 638 prednostných hlasov a nebol zvolený za poslanca."
+      },
+      "period": "29. februára 2020",
+      "sourceIds": [
+        "dk-national-results2020-c3"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2020-slovakia-national-council",
+        "office": "national_council",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "dk-miroslav-drab-c3-10",
+      "candidateId": "dk-miroslav-drab",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Parlamentné voľby 2023"
+      },
+      "text": {
+        "sk": "Vo voľbách do Národnej rady SR v roku 2023 získal Miroslav Dráb 898 prednostných hlasov a nebol zvolený za poslanca; v oficiálnych výsledkoch bol uvedený ako náhradník."
+      },
+      "period": "30. septembra 2023",
+      "sourceIds": [
+        "statistics-nrsr-preference-2023",
+        "statistics-nrsr-candidates-2023",
+        "za-a-nrsr-2023-tab06"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2023-slovakia-national-council",
+        "office": "national_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-matus-lakostik-c3-9",
+      "candidateId": "dk-matus-lakostik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Parlamentné voľby 2023"
+      },
+      "text": {
+        "sk": "Vo voľbách do Národnej rady SR v roku 2023 získal Matúš Lakoštík 1139 prednostných hlasov a nebol zvolený za poslanca; v oficiálnych výsledkoch bol uvedený ako náhradník."
+      },
+      "period": "30. septembra 2023",
+      "sourceIds": [
+        "statistics-nrsr-preference-2023",
+        "statistics-nrsr-candidates-2023",
+        "za-a-nrsr-2023-tab06"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2023-slovakia-national-council",
+        "office": "national_council",
+        "outcome": "substitute"
+      }
+    },
+    {
+      "id": "dk-michal-hareznik-c3-3",
+      "candidateId": "dk-michal-hareznik",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby starostu 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách starostu obce Oravský Podzámok v roku 2022 získal Michal Harezník 239 hlasov a nebol zvolený za starostu."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-mayor-votes-2022",
+        "statistics-mayor-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-oravsky-podzamok-mayor",
+        "office": "mayor",
+        "outcome": "not_elected"
+      }
+    },
+    {
+      "id": "dk-matus-mnich-c3-8",
+      "candidateId": "dk-matus-mnich",
+      "category": "previous_elections",
+      "kind": "election_result",
+      "label": {
+        "sk": "Voľby starostu 2022"
+      },
+      "text": {
+        "sk": "Vo voľbách starostu Zázrivej v roku 2022 získal Matúš Mních 946 hlasov a bol zvolený za starostu."
+      },
+      "period": "29. októbra 2022",
+      "sourceIds": [
+        "statistics-mayor-votes-2022",
+        "statistics-mayor-candidates-2022"
+      ],
+      "checkedAt": "2026-10-03",
+      "election": {
+        "contestId": "2022-zazriva-mayor",
+        "office": "mayor",
+        "outcome": "elected"
+      }
+    }
+  ]
+}

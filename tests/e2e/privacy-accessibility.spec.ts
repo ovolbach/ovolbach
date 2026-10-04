@@ -8,11 +8,13 @@ const routes = ['/', BASE, `${BASE}kandidati/`, `${BASE}ako-volit/`, '/metodika/
   '/martin/2026/', '/martin/2026/kandidati/', '/martin/2026/ako-volit/', '/martin/2026/zdroje/',
   '/martin/2026/kandidat/marek-belak/', '/martin/2026/porovnat/',
   '/zilina/2026/', '/zilina/2026/kandidati/', '/zilina/2026/ako-volit/',
-  '/zilina/2026/zdroje/', '/zilina/2026/kandidat/peter-cibulka/', '/zilina/2026/porovnat/'];
+  '/zilina/2026/zdroje/', '/zilina/2026/kandidat/peter-cibulka/', '/zilina/2026/porovnat/',
+  '/dolny-kubin/2026/', '/dolny-kubin/2026/kandidati/', '/dolny-kubin/2026/ako-volit/',
+  '/dolny-kubin/2026/zdroje/', '/dolny-kubin/2026/kandidat/katarina-brunckova/', '/dolny-kubin/2026/porovnat/'];
 const LEGAL_NOTICE = 'Tento web nikoho nevyzýva, aby volil alebo nevolil konkrétneho kandidáta, politickú stranu alebo koalíciu.';
 
 for (const path of routes) {
-  test(`${path} creates no client persistence, requests no external origin, and has no serious axe findings`, async ({ page, context }) => {
+  test(`${path} creates no client persistence, requests no external origin, and has no serious axe findings`, async ({ page, context, baseURL }) => {
     const requests: string[] = [];
     page.on('request', (request) => requests.push(request.url()));
     await page.goto(path);
@@ -27,11 +29,11 @@ for (const path of routes) {
     await expect(page.getByRole('contentinfo'), path).toContainText(LEGAL_NOTICE);
     const results = await new AxeBuilder({ page }).analyze();
     expect(results.violations.filter((item) => ['serious', 'critical'].includes(item.impact ?? '')), path).toEqual([]);
-    expect(requests.every((url) => new URL(url).origin === 'http://127.0.0.1:4321')).toBe(true);
+    expect(requests.every((url) => new URL(url).origin === new URL(baseURL!).origin)).toBe(true);
   });
 }
 
-test('search is keyboard usable, loads only on focus, and returns candidate and source terms', async ({ page }) => {
+test('search is keyboard usable, loads only on focus, and returns candidate and source terms', async ({ page, baseURL }) => {
   const errors: string[] = [];
   const requests: string[] = [];
   page.on('console', (message) => { if (message.type() === 'error') errors.push(message.text()); });
@@ -62,17 +64,17 @@ test('search is keyboard usable, loads only on focus, and returns candidate and 
   await input.fill('"nevyzýva"');
   await expect(page.locator('[data-search-status]')).toHaveText('Výsledky hľadania: 0.');
   expect(errors).toEqual([]);
-  expect(requests.every((url) => new URL(url).origin === 'http://127.0.0.1:4321')).toBe(true);
+  expect(requests.every((url) => new URL(url).origin === new URL(baseURL!).origin)).toBe(true);
 });
 
-test('generated internal links resolve to current static routes', async ({ page }) => {
+test('generated internal links resolve to current static routes', async ({ page, baseURL }) => {
   const paths = new Set<string>();
   for (const route of [...routes, `${BASE}porovnat/`]) {
     await page.goto(route);
     for (const href of await page.locator('a[href]').evaluateAll((links) => links.map((link) => link.getAttribute('href')))) {
       if (!href || href.startsWith('#') || href.startsWith('mailto:')) continue;
       const url = new URL(href, page.url());
-      if (url.origin === 'http://127.0.0.1:4321') paths.add(`${url.pathname}${url.search}`);
+      if (url.origin === new URL(baseURL!).origin) paths.add(`${url.pathname}${url.search}`);
     }
   }
 

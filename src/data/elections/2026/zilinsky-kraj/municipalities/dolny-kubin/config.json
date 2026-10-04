@@ -1,0 +1,16 @@
+{
+  "cityName": "Dolný Kubín",
+  "status": "published",
+  "snapshotDate": "2026-10-03",
+  "cityDistrictIds": [
+    "2026-dk-city-1",
+    "2026-dk-city-2",
+    "2026-dk-city-3",
+    "2026-dk-city-4"
+  ],
+  "regionalDistrictId": "2026-zsk-region-3",
+  "contestIds": {
+    "mayor": "2026-dk-mayor",
+    "city-council": "2026-dk-city-council"
+  }
+}

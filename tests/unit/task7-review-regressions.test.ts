@@ -80,6 +80,9 @@ describe('Task 7 reviewed evidence', () => {
       expect(claim(id)).toMatchObject({ kind: 'media_report', sourceIds: ['aktuality-jurinova-kovacic-dismissal-2025'] });
     }
     expect(claim('claim-candidate-88-museum-response-2025')?.kind).toBe('response');
+    for (const id of ['claim-candidate-88-museum-appeal-report-2025', 'claim-candidate-88-museum-settlement-report-2025', 'claim-candidate-88-museum-budget-report-2025']) {
+      expect(claim(id)?.kind, id).toBe('media_report');
+    }
   });
 
   it('attributes the reported dismissal reason to Kapitulík while retaining the official removal fact', () => {

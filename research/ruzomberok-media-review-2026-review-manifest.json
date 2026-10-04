@@ -1,0 +1,131 @@
+{
+  "status": "complete",
+  "reviewer": "independent read-only agent rk_media_review",
+  "baseCommit": "bf7b081abc1c2dc8f508024eee984953c3781b93",
+  "counts": {
+    "people": 79,
+    "originalMediaClaims": 82,
+    "addedClaims": 83,
+    "correctedClaims": 1,
+    "eventChains": 49,
+    "addedSources": 56,
+    "sharedChairAddedClaims": 14,
+    "queries": 341,
+    "ruzomberokClaims": 586,
+    "ruzomberokSources": 286,
+    "globalClaims": 1080,
+    "globalSources": 472
+  },
+  "observedChecks": [
+    {
+      "command": "npx vitest run tests/unit/ruzomberok-media-review.test.ts",
+      "exitCode": 0,
+      "result": "Fresh frozen-snapshot run: 1 test file passed, 8 tests passed."
+    },
+    {
+      "command": "node --import tsx scripts/validate-data.ts --mode=release",
+      "exitCode": 0,
+      "result": "Fresh frozen-snapshot run: cycles=1 contexts=2 published=2 issues=0."
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "result": "Fresh frozen-snapshot run: no whitespace errors."
+    }
+  ],
+  "resolvedFindings": [
+    {
+      "severity": "Important",
+      "id": "claim-rk-patrik-habo-cutkovska-business-report-2025",
+      "finding": "Draft turned completion in 2009 into construction start in 2009. Original describes completion of a koliba.",
+      "resolution": "Unsupported start date omitted; neutral development report retained."
+    },
+    {
+      "severity": "Important",
+      "id": "claim-rk-martin-papco-property-exchange-response-2026",
+      "finding": "Draft overstated consultation as never having passed expert committees.",
+      "resolution": "Scope restored to riadne pripomienkovanie komisií."
+    },
+    {
+      "severity": "Important",
+      "id": "baran-besenova-hydroelectric-dispute-2017",
+      "finding": "Draft timeline omitted the reported ministry rejection contained in the same original.",
+      "resolution": "Added atomic TASR-attributed rejection report and latest reported outcome; no official legal conclusion inferred."
+    },
+    {
+      "severity": "Minor",
+      "id": "alusic-poprad-declaration-2025",
+      "finding": "Draft falsely described registry municipality as matching current ballot municipality.",
+      "resolution": "Bridge now uses explicit historical office link and compatible age cohort; municipality difference recorded."
+    },
+    {
+      "severity": "Minor",
+      "id": "kanal1-lucansky-incident-response-2026",
+      "finding": "Draft headline altered punctuation and word boundaries.",
+      "resolution": "Actual displayed headline retained."
+    },
+    {
+      "severity": "Minor",
+      "id": "rk-kolar-vice-mayor-interview-2022",
+      "finding": "Draft headline omitted the publisher’s (+) suffix.",
+      "resolution": "Suffix restored."
+    },
+    {
+      "severity": "Minor",
+      "id": "pravda-parliament-incidents-2026",
+      "finding": "Stored headline plural autá/colon differs from fresh displayed singular auto/period.",
+      "remedy": "Use actual displayed H1.",
+      "resolution": "Verified exact displayed headline now matches production source metadata."
+    },
+    {
+      "severity": "Minor",
+      "id": "radiozilina-jurinova-candidacy-2026",
+      "finding": "Stored headline differs in colon and capital V from fresh original.",
+      "remedy": "Use actual displayed H1.",
+      "resolution": "Verified exact displayed headline now matches production source metadata."
+    }
+  ],
+  "declinedJudgments": [
+    "Exhaustive discovery of every public-web mention or independent replay of all 79 query logs.",
+    "Truth of allegations or legal guilt, exoneration, legality, enforceability or final settlement without primary records.",
+    "Legal opinion about copyright permission.",
+    "Current private financial condition, income or net worth.",
+    "Application-wide deployment readiness before parent finishes all mandatory gates.",
+    "Production mutation, release, commit, push or merge."
+  ],
+  "snapshotDate": "2026-10-03",
+  "verdict": "Scoped editorial/data review passes: no remaining Critical, Important or Minor findings. Release remains conditional on completion of all AGENTS.md gates.",
+  "reviewedHashes": {
+    "src/data/sources.json": "f5b96031c27a7ea9f03ca0b84b1e487ce2e0e54e2e538623cc935fedb30f39a6",
+    "src/data/elections/2026/zilinsky-kraj/claims.json": "f07236244551067d5af2a56efe062eba557f8dc4aaa1f87f82c4a77e23f92f2c",
+    "src/data/elections/2026/zilinsky-kraj/research-coverage.json": "a75ed938219624f2e88e4078edac53881803c2989fc5bffc7bc17e20f9a7af53",
+    "research/ruzomberok-media-review-2026.json": "733b9f2d2bccbcb50bedfbd2a67a4ae12b0e61f2a42abf468b7f388d5ec4afa1",
+    "tests/unit/ruzomberok-media-review.test.ts": "4ddfa788162f73a3b1225c0aac411c7bb85d94e86b63c746663febece470a979"
+  },
+  "auditHashNote": "Audit hash pins substantive reviewed content while reviewStatus still points to pending review. A later pointer-only change to reference this completed report does not alter this substantive verdict.",
+  "remainingFindings": {
+    "Critical": [],
+    "Important": [],
+    "Minor": []
+  },
+  "scope": "Working-tree diff against base commit; all 83 added public claims and the single corrected historical claim; source metadata and integrity; 79-person audit and 49 event chains; decisive high-risk source originals independently reopened or captured and inspected.",
+  "structuralEvidence": {
+    "people": 79,
+    "coverageRows": 632,
+    "categoriesPerPerson": 8,
+    "pending": 0,
+    "newOfficialOutcomes": 7,
+    "officialOutcomesWithOfficialPrimarySources": 7,
+    "oldClaimsRemoved": 0,
+    "duplicateAddedTextPerPerson": 0
+  },
+  "environmentNote": "npm run validate:release initially failed at tsx IPC listen with sandbox EPERM, before validation ran. Direct node --import tsx invocation of the same validator passed; this environmental failure is not a data defect.",
+  "strengths": [
+    "Court and administrative stages preserve their exact procedural scope.",
+    "Responses are separated from allegations and media-reported outcomes.",
+    "Municipal exchange votes cover intent only; proposed later council material is not an adopted outcome.",
+    "Museum employment litigation has separate attributed first-instance, appeal, settlement and budget reports.",
+    "Private register fields and irrelevant medical/family details are not copied into public claims or audit.",
+    "All 79 people and all 82 baseline media/controversy claims are mapped in the audit; negative searches remain search boundaries."
+  ]
+}

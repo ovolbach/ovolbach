@@ -7,12 +7,15 @@ function slugifyName(value: string): string {
 }
 
 describe('public candidate URLs', () => {
-  it('use readable name slugs and disambiguate the two namesakes', () => {
-    const namesakes = candidates.filter((candidate) => slugifyName(`${candidate.givenName} ${candidate.familyName}`) === 'rudolf-urbanovic');
-    expect(namesakes.map((candidate) => candidate.slug).sort()).toEqual([
+  it('uses readable name slugs and disambiguates both pairs of namesakes', () => {
+    const urbanovic = candidates.filter((candidate) => slugifyName(`${candidate.givenName} ${candidate.familyName}`) === 'rudolf-urbanovic');
+    expect(urbanovic.map((candidate) => candidate.slug).sort()).toEqual([
       'rudolf-urbanovic-ing',
       'rudolf-urbanovic-ma',
     ]);
+    const stanovsky = candidates.filter((candidate) => slugifyName(`${candidate.givenName} ${candidate.familyName}`) === 'martin-stanovsky');
+    expect(stanovsky.map((candidate) => candidate.slug).sort()).toEqual(['martin-stanovsky-30', 'martin-stanovsky-53']);
+    const namesakes = [...urbanovic, ...stanovsky];
 
     for (const candidate of candidates.filter((item) => !namesakes.includes(item))) {
       expect(candidate.slug, candidate.id).toBe(slugifyName(`${candidate.givenName} ${candidate.familyName}`));

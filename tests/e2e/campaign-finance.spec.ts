@@ -53,9 +53,9 @@ test('council roles and unverified identity remain explicit without publishing a
   await expect(page.locator('[data-campaign-finance] [data-personal-account]')).toHaveCount(0);
   await expect(page.locator('[data-campaign-finance]')).toContainText('dvoma ďalšími identifikačnými údajmi');
 });
-test('every profile includes finance without contacting bank or party sites', async ({ page }) => {
+test('every profile includes finance without contacting bank or party sites', async ({ page, baseURL }) => {
   const externalRequests: string[] = [];
-  page.on('request', (request) => { if (new URL(request.url()).origin !== 'http://127.0.0.1:4321') externalRequests.push(request.url()); });
+  page.on('request', (request) => { if (new URL(request.url()).origin !== new URL(baseURL!).origin) externalRequests.push(request.url()); });
   for (const candidate of candidates) {
     await page.goto(`${BASE}${candidate.slug}/`);
     await expect(page.locator('[data-campaign-finance]')).toHaveCount(1);

@@ -1,0 +1,1135 @@
+[
+  {
+    "id": "dk-jan-briestensky-council-result-2022",
+    "candidateId": "dk-jan-briestensky",
+    "text": {
+      "sk": "Vo voľbách 29. októbra 2022 bol Ján Briestenský zvolený za poslanca Mestského zastupiteľstva v Dolnom Kubíne vo volebnom obvode č. 1 za OKS. Získal 438 platných hlasov (32,51 % hlasov odovzdaných kandidátom v obvode)."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "2022-dk-city-1",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "dk-city-candidate-roster-2022"
+    ]
+  },
+  {
+    "id": "dk-jan-briestensky-regional-substitute-2017",
+    "candidateId": "dk-jan-briestensky",
+    "text": {
+      "sk": "Vo voľbách 4. novembra 2017 je Ján Briestenský uvedený ako náhradník na poslanca Žilinského samosprávneho kraja vo volebnom obvode č. 3. Kandidoval ako nezávislý a získal 976 platných hlasov (3,15 %)."
+    },
+    "period": "2017-11-04",
+    "election": {
+      "contestId": "2017-zsk-region-3",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "dk-statistics-regional-tables-2017"
+    ]
+  },
+  {
+    "id": "dk-michal-lavrik-mayor-result-2018",
+    "candidateId": "dk-michal-lavrik",
+    "text": {
+      "sk": "Vo voľbách 10. novembra 2018 nebol Michal Lavrík zvolený za primátora Dolného Kubína. Kandidoval za SNS a získal 777 platných hlasov (11,58 %)."
+    },
+    "period": "2018-11-10",
+    "election": {
+      "contestId": "2018-dk-mayor",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "dk-city-candidate-roster-2022"
+    ]
+  },
+  {
+    "id": "dk-michal-lavrik-council-result-2018",
+    "candidateId": "dk-michal-lavrik",
+    "text": {
+      "sk": "Vo voľbách 10. novembra 2018 bol Michal Lavrík zvolený za poslanca Mestského zastupiteľstva v Dolnom Kubíne v obvode č. 5 za SNS. Získal 621 platných hlasov."
+    },
+    "period": "2018-11-10",
+    "election": {
+      "contestId": "2018-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "dk-city-candidate-roster-2022"
+    ]
+  },
+  {
+    "id": "dk-michal-lavrik-regional-substitute-2017",
+    "candidateId": "dk-michal-lavrik",
+    "text": {
+      "sk": "Vo voľbách 4. novembra 2017 je Michal Lavrík uvedený ako náhradník na poslanca Žilinského samosprávneho kraja vo volebnom obvode č. 3 za SNS. Získal 1074 platných hlasov (3,46 %)."
+    },
+    "period": "2017-11-04",
+    "election": {
+      "contestId": "2017-zsk-region-3",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "dk-statistics-regional-tables-2017"
+    ]
+  },
+  {
+    "id": "dk-michal-lavrik-repeated-election-2023",
+    "candidateId": "dk-michal-lavrik",
+    "text": {
+      "sk": "V opakovaných voľbách 9. septembra 2023 sa Michal Lavrík stal náhradníkom na poslanca Mestského zastupiteľstva v Dolnom Kubíne vo volebnom obvode č. 3. Kandidoval za HLAS – sociálnu demokraciu a získal 66 platných hlasov."
+    },
+    "period": "2023-09-09",
+    "election": {
+      "contestId": "2023-dk-city-3",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "dk-city-repeated-election-results-2023",
+      "dk-lavrik-city-oath-2025"
+    ]
+  },
+  {
+    "id": "dk-vladimira-grisova-council-substitute-2022",
+    "candidateId": "dk-vladimira-grisova",
+    "text": {
+      "sk": "Vo voľbách 29. októbra 2022 je Vladimíra Grísová uvedená ako náhradníčka na poslankyňu Mestského zastupiteľstva v Dolnom Kubíne v obvode č. 5. Kandidovala za HLAS – sociálna demokracia a získala 232 platných hlasov (2,51 % hlasov odovzdaných kandidátom v obvode)."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "2022-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "dk-city-candidate-roster-2022"
+    ]
+  },
+  {
+    "id": "dk-michal-lavrik-council-substitute-2022",
+    "candidateId": "dk-michal-lavrik",
+    "text": {
+      "sk": "Vo voľbách 29. októbra 2022 je Michal Lavrík uvedený ako náhradník na poslanca Mestského zastupiteľstva v Dolnom Kubíne v obvode č. 5. Kandidoval za HLAS – sociálna demokracia a získal 532 platných hlasov (5,76 % hlasov odovzdaných kandidátom v obvode)."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "2022-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "dk-city-candidate-roster-2022"
+    ]
+  },
+  {
+    "id": "dk-martin-stanovsky-53-council-substitute-2022",
+    "candidateId": "dk-martin-stanovsky-53",
+    "text": {
+      "sk": "Vo voľbách 29. októbra 2022 je Martin Stanovský uvedený ako náhradník na poslanca Mestského zastupiteľstva v Dolnom Kubíne v obvode č. 5. Kandidoval za HLAS – sociálna demokracia a získal 334 platných hlasov (3,61 % hlasov odovzdaných kandidátom v obvode)."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "2022-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "dk-city-candidate-roster-2022"
+    ]
+  },
+  {
+    "id": "dk-peter-toman-council-substitute-2022",
+    "candidateId": "dk-peter-toman",
+    "text": {
+      "sk": "Vo voľbách 29. októbra 2022 je Peter Tomáň uvedený ako náhradník na poslanca Mestského zastupiteľstva v Dolnom Kubíne v obvode č. 5. Kandidoval za NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI a získal 233 platných hlasov (2,52 % hlasov odovzdaných kandidátom v obvode)."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "2022-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "dk-city-candidate-roster-2022"
+    ]
+  },
+  {
+    "id": "dk-tomas-gajdos-repeated-election-result-2023",
+    "candidateId": "dk-tomas-gajdos",
+    "text": {
+      "sk": "V opakovaných voľbách 9. septembra 2023 bol Tomáš Gajdoš zvolený za poslanca Mestského zastupiteľstva v Dolnom Kubíne vo volebnom obvode č. 3 za KDH. Získal 196 platných hlasov."
+    },
+    "period": "2023-09-09",
+    "election": {
+      "contestId": "2023-dk-city-3",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "dk-city-repeated-election-results-2023"
+    ]
+  },
+  {
+    "id": "dk-jozef-brtos-council-result-2022",
+    "candidateId": "dk-jozef-brtos",
+    "text": {
+      "sk": "Vo voľbách 29. októbra 2022 bol Jozef Brtoš zvolený za poslanca Obecného zastupiteľstva v Bzinách za SNS. Získal 153 platných hlasov (7,78 % hlasov odovzdaných kandidátom v obvode)."
+    },
+    "period": "2022-10-29",
+    "election": {
+      "contestId": "2022-bziny-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-jozef-brtos-council-result-2018",
+    "candidateId": "dk-jozef-brtos",
+    "text": {
+      "sk": "Vo voľbách 10. novembra 2018 bol Jozef Brtoš zvolený za poslanca Obecného zastupiteľstva v Bzinách za SNS. Získal 142 platných hlasov."
+    },
+    "period": "2018-11-10",
+    "election": {
+      "contestId": "2018-bziny-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "dk-brtos-current-bziny-profile"
+    ]
+  },
+  {
+    "id": "dk-jozef-brtos-mayor-result-2018",
+    "candidateId": "dk-jozef-brtos",
+    "text": {
+      "sk": "Vo voľbách 10. novembra 2018 nebol Jozef Brtoš zvolený za starostu Bzín. Kandidoval za SNS a získal 116 platných hlasov (37,17 %)."
+    },
+    "period": "2018-11-10",
+    "election": {
+      "contestId": "2018-bziny-mayor",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "dk-brtos-current-bziny-profile"
+    ]
+  },
+  {
+    "id": "dk-peter-kajan-2022-municipal_council-1",
+    "candidateId": "dk-peter-kajan",
+    "text": {
+      "sk": "Peter Kajan vo voľbách v roku 2022 získal 376 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 1 (27,91 %); výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-jan-havko-2022-municipal_council-2",
+    "candidateId": "dk-jan-havko",
+    "text": {
+      "sk": "Ján Havko vo voľbách v roku 2022 získal 139 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 2 (11,3 %); výsledok: nezvolený za poslanca mestského zastupiteľstva Dolného Kubína. V oficiálnej tabuľke je vedený ako náhradník."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-leonard-vajdulak-2022-municipal_council-4",
+    "candidateId": "dk-leonard-vajdulak",
+    "text": {
+      "sk": "Leonard Vajdulák vo voľbách v roku 2022 získal 617 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 4 (8,26 %); výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-jan-raclavsky-2022-municipal_council-4",
+    "candidateId": "dk-jan-raclavsky",
+    "text": {
+      "sk": "Ján Raclavský vo voľbách v roku 2022 získal 400 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 4 (5,36 %); výsledok: nezvolený za poslanca mestského zastupiteľstva Dolného Kubína. V oficiálnej tabuľke je vedený ako náhradník."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-peter-janotik-2022-municipal_council-4",
+    "candidateId": "dk-peter-janotik",
+    "text": {
+      "sk": "Peter Janotík vo voľbách v roku 2022 získal 337 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 4 (4,51 %); výsledok: nezvolený za poslanca mestského zastupiteľstva Dolného Kubína. V oficiálnej tabuľke je vedený ako náhradník."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-peter-jonak-2022-municipal_council-5",
+    "candidateId": "dk-peter-jonak",
+    "text": {
+      "sk": "Peter Jonák vo voľbách v roku 2022 získal 971 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5 (10,51 %); výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-juliana-gregova-2022-municipal_council-5",
+    "candidateId": "dk-juliana-gregova",
+    "text": {
+      "sk": "Juliana Gregová vo voľbách v roku 2022 získala 789 hlasov pri voľbe poslankyne mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5 (8,54 %); výsledok: zvolená za poslankyňu mestského zastupiteľstva Dolného Kubína."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-jozef-david-2022-municipal_council-5",
+    "candidateId": "dk-jozef-david",
+    "text": {
+      "sk": "Jozef David vo voľbách v roku 2022 získal 765 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5 (8,28 %); výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-tatiana-cervenova-2022-municipal_council-1",
+    "candidateId": "dk-tatiana-cervenova",
+    "text": {
+      "sk": "Tatiana Červeňová vo voľbách v roku 2022 získala 173 hlasov pri voľbe poslankyne obecného zastupiteľstva Malatinej vo volebnom obvode č. 1 (7,43 %); výsledok: nezvolená za poslankyňu obecného zastupiteľstva Malatinej. V oficiálnej tabuľke je vedená ako náhradníčka."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-malatina-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-jan-prilepok-2018-mayor-0",
+    "candidateId": "dk-jan-prilepok",
+    "text": {
+      "sk": "Ján Prílepok vo voľbách v roku 2018 získal 3 798 hlasov pri voľbe primátora mesta Dolný Kubín (56,64 %); výsledok: zvolený za primátora mesta Dolný Kubín."
+    },
+    "period": "Voľby 2018",
+    "election": {
+      "contestId": "2018-dk-mayor",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ]
+  },
+  {
+    "id": "dk-zdenko-kuban-2018-mayor-0",
+    "candidateId": "dk-zdenko-kuban",
+    "text": {
+      "sk": "Zdenko Kubáň vo voľbách v roku 2018 získal 243 hlasov pri voľbe starostu obce Malatiná (100 %); výsledok: zvolený za starostu obce Malatiná."
+    },
+    "period": "Voľby 2018",
+    "election": {
+      "contestId": "2018-malatina-mayor",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ]
+  },
+  {
+    "id": "dk-tatiana-cervenova-2022-regional_council-3",
+    "candidateId": "dk-tatiana-cervenova",
+    "text": {
+      "sk": "Tatiana Červeňová vo voľbách v roku 2022 získala 966 hlasov pri voľbe poslankyne zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (2,48 %); výsledok: nezvolená za poslankyňu zastupiteľstva Žilinského samosprávneho kraja. V oficiálnej tabuľke je vedená ako náhradníčka."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-zsk-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "dk-zsk-commission2022-c3"
+    ]
+  },
+  {
+    "id": "dk-peter-jonak-2022-regional_council-3",
+    "candidateId": "dk-peter-jonak",
+    "text": {
+      "sk": "Peter Jonák vo voľbách v roku 2022 získal 3 432 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (8,84 %); výsledok: zvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-zsk-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "dk-zsk-commission2022-c3"
+    ]
+  },
+  {
+    "id": "dk-zdenko-kuban-2022-regional_council-3",
+    "candidateId": "dk-zdenko-kuban",
+    "text": {
+      "sk": "Zdenko Kubáň vo voľbách v roku 2022 získal 3 293 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (8,48 %); výsledok: zvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-zsk-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "dk-zsk-commission2022-c3"
+    ]
+  },
+  {
+    "id": "dk-jan-prilepok-2022-regional_council-3",
+    "candidateId": "dk-jan-prilepok",
+    "text": {
+      "sk": "Ján Prílepok vo voľbách v roku 2022 získal 8 014 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (20,65 %); výsledok: zvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-zsk-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "dk-zsk-commission2022-c3"
+    ]
+  },
+  {
+    "id": "dk-jan-raclavsky-2022-regional_council-3",
+    "candidateId": "dk-jan-raclavsky",
+    "text": {
+      "sk": "Ján Raclavský vo voľbách v roku 2022 získal 925 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (2,38 %); výsledok: nezvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja. V oficiálnej tabuľke je vedený ako náhradník."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-zsk-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "dk-zsk-commission2022-c3"
+    ]
+  },
+  {
+    "id": "dk-peter-strezo-2018-municipal_council-1",
+    "candidateId": "dk-peter-strezo",
+    "text": {
+      "sk": "Peter Strežo vo voľbách v roku 2018 získal 404 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 1; výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+    },
+    "period": "Voľby 2018",
+    "election": {
+      "contestId": "2018-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ]
+  },
+  {
+    "id": "dk-peter-jonak-2018-municipal_council-5",
+    "candidateId": "dk-peter-jonak",
+    "text": {
+      "sk": "Peter Jonák vo voľbách v roku 2018 získal 948 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5; výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+    },
+    "period": "Voľby 2018",
+    "election": {
+      "contestId": "2018-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ]
+  },
+  {
+    "id": "dk-juliana-gregova-2018-municipal_council-5",
+    "candidateId": "dk-juliana-gregova",
+    "text": {
+      "sk": "Juliana Gregová vo voľbách v roku 2018 získala 840 hlasov pri voľbe poslankyne mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5; výsledok: zvolená za poslankyňu mestského zastupiteľstva Dolného Kubína."
+    },
+    "period": "Voľby 2018",
+    "election": {
+      "contestId": "2018-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ]
+  },
+  {
+    "id": "dk-jozef-david-2018-municipal_council-5",
+    "candidateId": "dk-jozef-david",
+    "text": {
+      "sk": "Jozef David vo voľbách v roku 2018 získal 707 hlasov pri voľbe poslanca mestského zastupiteľstva Dolného Kubína vo volebnom obvode č. 5; výsledok: zvolený za poslanca mestského zastupiteľstva Dolného Kubína."
+    },
+    "period": "Voľby 2018",
+    "election": {
+      "contestId": "2018-dk-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ]
+  },
+  {
+    "id": "dk-jan-prilepok-2022-mayor-0",
+    "candidateId": "dk-jan-prilepok",
+    "text": {
+      "sk": "Ján Prílepok vo voľbách v roku 2022 získal 5 224 hlasov pri voľbe primátora mesta Dolný Kubín (88,9 %); výsledok: zvolený za primátora mesta Dolný Kubín."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-dk-mayor",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-votes-2022"
+    ]
+  },
+  {
+    "id": "dk-tatiana-cervenova-2022-mayor-0",
+    "candidateId": "dk-tatiana-cervenova",
+    "text": {
+      "sk": "Tatiana Červeňová vo voľbách v roku 2022 získala 135 hlasov pri voľbe starostky obce Malatiná (31,03 %); výsledok: zvolená za starostku obce Malatiná."
+    },
+    "period": "Voľby 2022",
+    "election": {
+      "contestId": "2022-malatina-mayor",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "dk-malatina-mayor-page"
+    ]
+  },
+  {
+    "id": "dk-juliana-gregova-2023-national_council-0",
+    "candidateId": "dk-juliana-gregova",
+    "text": {
+      "sk": "Juliana Gregová vo voľbách v roku 2023 získala 2 104 prednostných hlasov pri voľbe poslankyne Národnej rady Slovenskej republiky (1,03 %); výsledok: nezvolená za poslankyňu Národnej rady Slovenskej republiky. V oficiálnej tabuľke je vedená ako náhradníčka."
+    },
+    "period": "Voľby 2023",
+    "election": {
+      "contestId": "2023-nr-sr",
+      "office": "national_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-nrsr-preference-2023",
+      "statistics-nrsr-candidates-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "dk-jan-raclavsky-2023-national_council-0",
+    "candidateId": "dk-jan-raclavsky",
+    "text": {
+      "sk": "Ján Raclavský vo voľbách v roku 2023 získal 315 prednostných hlasov pri voľbe poslanca Národnej rady Slovenskej republiky; výsledok: nezvolený za poslanca Národnej rady Slovenskej republiky."
+    },
+    "period": "Voľby 2023",
+    "election": {
+      "contestId": "2023-nr-sr",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-nrsr-preference-2023",
+      "statistics-nrsr-candidates-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "dk-jan-prilepok-2017-regional_council-3",
+    "candidateId": "dk-jan-prilepok",
+    "text": {
+      "sk": "Ján Prílepok vo voľbách v roku 2017 získal 3 284 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (10,6 %); výsledok: zvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja."
+    },
+    "period": "Voľby 2017",
+    "election": {
+      "contestId": "2017-zsk-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "dk-statistics-regional-tables-2017"
+    ]
+  },
+  {
+    "id": "dk-zdenko-kuban-2017-regional_council-3",
+    "candidateId": "dk-zdenko-kuban",
+    "text": {
+      "sk": "Zdenko Kubáň vo voľbách v roku 2017 získal 2 405 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (7,77 %); výsledok: zvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja."
+    },
+    "period": "Voľby 2017",
+    "election": {
+      "contestId": "2017-zsk-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "dk-statistics-regional-tables-2017"
+    ]
+  },
+  {
+    "id": "dk-peter-jonak-2017-regional_council-3",
+    "candidateId": "dk-peter-jonak",
+    "text": {
+      "sk": "Peter Jonák vo voľbách v roku 2017 získal 1 856 hlasov pri voľbe poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 3 (5,99 %); výsledok: nezvolený za poslanca zastupiteľstva Žilinského samosprávneho kraja. V oficiálnej tabuľke je vedený ako náhradník."
+    },
+    "period": "Voľby 2017",
+    "election": {
+      "contestId": "2017-zsk-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "dk-statistics-regional-tables-2017"
+    ]
+  },
+  {
+    "id": "dk-peter-benus-c3-2",
+    "candidateId": "dk-peter-benus",
+    "text": {
+      "sk": "Vo voľbách do Obecného zastupiteľstva Bziny v roku 2022 získal Peter Beňuš 145 hlasov a bol zvolený za poslanca."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-bziny-city-1",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-ondrej-bukna-c3-5",
+    "candidateId": "dk-ondrej-bukna",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Ondrej Bukna 340 hlasov a bol zvolený za poslanca."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-dk-city-2",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-juraj-facko-c3-5",
+    "candidateId": "dk-juraj-facko",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Juraj Fačko 647 hlasov a bol zvolený za poslanca."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-dk-city-4",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-emilia-jurcikova-c3-7",
+    "candidateId": "dk-emilia-jurcikova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získala Emília Jurčíková 568 hlasov a bola zvolená za poslankyňu."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-dk-city-4",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-matus-lakostik-c3-6",
+    "candidateId": "dk-matus-lakostik",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Matúš Lakoštík 1137 hlasov a bol zvolený za poslanca."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-pavol-baca-c3-5",
+    "candidateId": "dk-pavol-baca",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Pavol Bača 967 hlasov a bol zvolený za poslanca."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-miroslav-drab-c3-6",
+    "candidateId": "dk-miroslav-drab",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Miroslav Dráb 629 hlasov a bol zvolený za poslanca."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-elena-sunalova-c3-2",
+    "candidateId": "dk-elena-sunalova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získala Elena Šuňalová 394 hlasov a nebola zvolená za poslankyňu; bola uvedená ako náhradníčka."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-roman-markulcek-c3-1",
+    "candidateId": "dk-roman-markulcek",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2022 získal Roman Markulček 361 hlasov a nebol zvolený za poslanca; bol uvedený ako náhradník."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-emilia-jurcikova-c3-8",
+    "candidateId": "dk-emilia-jurcikova",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2018 získala Emília Jurčíková 671 hlasov a bola zvolená za poslankyňu."
+    },
+    "period": "10. novembra 2018",
+    "election": {
+      "contestId": "2018-dk-city-4",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-pavol-baca-c3-6",
+    "candidateId": "dk-pavol-baca",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2018 získal Pavol Bača 778 hlasov a bol zvolený za poslanca."
+    },
+    "period": "10. novembra 2018",
+    "election": {
+      "contestId": "2018-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-matus-lakostik-c3-7",
+    "candidateId": "dk-matus-lakostik",
+    "text": {
+      "sk": "Vo voľbách do Mestského zastupiteľstva Dolný Kubín v roku 2018 získal Matúš Lakoštík 914 hlasov a bol zvolený za poslanca."
+    },
+    "period": "10. novembra 2018",
+    "election": {
+      "contestId": "2018-dk-city-5",
+      "office": "municipal_council",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables",
+      "statistics-council-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-matus-mnich-c3-3",
+    "candidateId": "dk-matus-mnich",
+    "text": {
+      "sk": "Vo voľbách starostu Zázrivej v roku 2018 získal Matúš Mních 678 hlasov a bol zvolený za starostu."
+    },
+    "period": "10. novembra 2018",
+    "election": {
+      "contestId": "2018-zazriva-mayor",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-municipal-2018-tables"
+    ]
+  },
+  {
+    "id": "dk-miroslav-drab-c3-7",
+    "candidateId": "dk-miroslav-drab",
+    "text": {
+      "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2022 získal Miroslav Dráb 1559 hlasov a nebol zvolený za poslanca; vo výsledkoch bol uvedený ako náhradník."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-zsk-district-3",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "statistics-council-candidates-2022",
+      "dk-regional-roster2022-c3",
+      "dk-zsk-commission2022-c3"
+    ]
+  },
+  {
+    "id": "dk-michal-hareznik-c3-2",
+    "candidateId": "dk-michal-hareznik",
+    "text": {
+      "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2022 získal Michal Harezník 1801 hlasov a nebol zvolený za poslanca; vo výsledkoch bol uvedený ako náhradník."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-zsk-district-3",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "dk-regional-roster2022-c3",
+      "dk-zsk-commission2022-c3"
+    ]
+  },
+  {
+    "id": "dk-roman-markulcek-c3-2",
+    "candidateId": "dk-roman-markulcek",
+    "text": {
+      "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2022 získal Roman Markulček 815 hlasov a nebol zvolený za poslanca; vo výsledkoch bol uvedený ako náhradník."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-zsk-district-3",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "statistics-council-candidates-2022",
+      "dk-regional-roster2022-c3",
+      "dk-zsk-commission2022-c3"
+    ]
+  },
+  {
+    "id": "dk-matus-mnich-c3-4",
+    "candidateId": "dk-matus-mnich",
+    "text": {
+      "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2022 získal Matúš Mních 2358 hlasov a nebol zvolený za poslanca; vo výsledkoch bol uvedený ako náhradník."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-zsk-district-3",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "dk-regional-roster2022-c3",
+      "dk-zsk-commission2022-c3"
+    ]
+  },
+  {
+    "id": "dk-elena-sunalova-c3-3",
+    "candidateId": "dk-elena-sunalova",
+    "text": {
+      "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2022 získala Elena Šuňalová 688 hlasov a nebola zvolená za poslankyňu; vo výsledkoch bola uvedená ako náhradníčka."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-zsk-district-3",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-regional-results-2022",
+      "statistics-council-candidates-2022",
+      "dk-regional-roster2022-c3",
+      "dk-zsk-commission2022-c3"
+    ]
+  },
+  {
+    "id": "dk-matus-mnich-c3-5",
+    "candidateId": "dk-matus-mnich",
+    "text": {
+      "sk": "Vo voľbách do zastupiteľstva Žilinského samosprávneho kraja v obvode č. 3 v roku 2017 získal Matúš Mních 2 161 hlasov a nebol zvolený za poslanca; vo výsledkoch bol uvedený ako náhradník."
+    },
+    "period": "4. novembra 2017",
+    "election": {
+      "contestId": "2017-zsk-district-3",
+      "office": "regional_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "dk-statistics-regional-tables-2017"
+    ]
+  },
+  {
+    "id": "dk-miroslav-drab-c3-9",
+    "candidateId": "dk-miroslav-drab",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2020 získal Miroslav Dráb 921 prednostných hlasov a nebol zvolený za poslanca."
+    },
+    "period": "29. februára 2020",
+    "election": {
+      "contestId": "2020-slovakia-national-council",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "dk-national-results2020-c3"
+    ]
+  },
+  {
+    "id": "dk-matus-lakostik-c3-8",
+    "candidateId": "dk-matus-lakostik",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2020 získal Matúš Lakoštík 887 prednostných hlasov a nebol zvolený za poslanca."
+    },
+    "period": "29. februára 2020",
+    "election": {
+      "contestId": "2020-slovakia-national-council",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "dk-national-results2020-c3"
+    ]
+  },
+  {
+    "id": "dk-matus-mnich-c3-7",
+    "candidateId": "dk-matus-mnich",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2020 získal Matúš Mních 638 prednostných hlasov a nebol zvolený za poslanca."
+    },
+    "period": "29. februára 2020",
+    "election": {
+      "contestId": "2020-slovakia-national-council",
+      "office": "national_council",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "dk-national-results2020-c3"
+    ]
+  },
+  {
+    "id": "dk-miroslav-drab-c3-10",
+    "candidateId": "dk-miroslav-drab",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2023 získal Miroslav Dráb 898 prednostných hlasov a nebol zvolený za poslanca; v oficiálnych výsledkoch bol uvedený ako náhradník."
+    },
+    "period": "30. septembra 2023",
+    "election": {
+      "contestId": "2023-slovakia-national-council",
+      "office": "national_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-nrsr-preference-2023",
+      "statistics-nrsr-candidates-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "dk-matus-lakostik-c3-9",
+    "candidateId": "dk-matus-lakostik",
+    "text": {
+      "sk": "Vo voľbách do Národnej rady SR v roku 2023 získal Matúš Lakoštík 1139 prednostných hlasov a nebol zvolený za poslanca; v oficiálnych výsledkoch bol uvedený ako náhradník."
+    },
+    "period": "30. septembra 2023",
+    "election": {
+      "contestId": "2023-slovakia-national-council",
+      "office": "national_council",
+      "outcome": "substitute"
+    },
+    "sourceIds": [
+      "statistics-nrsr-preference-2023",
+      "statistics-nrsr-candidates-2023",
+      "za-a-nrsr-2023-tab06"
+    ]
+  },
+  {
+    "id": "dk-michal-hareznik-c3-3",
+    "candidateId": "dk-michal-hareznik",
+    "text": {
+      "sk": "Vo voľbách starostu obce Oravský Podzámok v roku 2022 získal Michal Harezník 239 hlasov a nebol zvolený za starostu."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-oravsky-podzamok-mayor",
+      "office": "mayor",
+      "outcome": "not_elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ]
+  },
+  {
+    "id": "dk-matus-mnich-c3-8",
+    "candidateId": "dk-matus-mnich",
+    "text": {
+      "sk": "Vo voľbách starostu Zázrivej v roku 2022 získal Matúš Mních 946 hlasov a bol zvolený za starostu."
+    },
+    "period": "29. októbra 2022",
+    "election": {
+      "contestId": "2022-zazriva-mayor",
+      "office": "mayor",
+      "outcome": "elected"
+    },
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ]
+  }
+]

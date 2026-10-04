@@ -1,0 +1,181 @@
+{
+  "status": "complete",
+  "snapshotDate": "2026-10-03",
+  "reviewer": "Independent read-only automated agent dk_media_final_review",
+  "baselineCommit": "bf7b081abc1c2dc8f508024eee984953c3781b93",
+  "scope": "Immutable per-file media task delta relative to preserved prior uncommitted working snapshot, not entire HEAD diff.",
+  "counts": {
+    "people": 59,
+    "baselineMediaClaims": 82,
+    "addedClaims": 88,
+    "addedSources": 71,
+    "eventChains": 71,
+    "queries": 428,
+    "dkClaims": 460,
+    "sharedChairClaims": 11
+  },
+  "verdict": "Ready for local integration; no remaining Critical, Important or Minor findings.",
+  "resolvedFindings": [
+    {
+      "severity": "Minor",
+      "id": "M1",
+      "finding": "Audit cross-reference contained dkm 2 instead of dkm2.",
+      "resolution": "Corrected to dkm2-chain-school-discussion; independently verified in v3."
+    }
+  ],
+  "reviewedHashes": {
+    "tests/unit/dolny-kubin-research.test.ts": "224272df6f52f413207530d5776abaeba93f6636155fc8f18ae674a5f68b370f",
+    "tests/unit/dolny-kubin-roster.test.ts": "28dc25e0739ab3a9bfac0275630d1a62d0daebdaaf8ffb9d90410063ca6aa338",
+    "README.md": "36fa3d34694fca6548ab2bf243c2dd0801f3f378a33076cec9cda1086e053283",
+    "src/data/elections/2026/zilinsky-kraj/claims.json": "bee52a5bf1a92e6fa8d975dfd4c1628a80b77d0194dfbdfdb214cc07aa4b10b8",
+    "src/data/elections/2026/zilinsky-kraj/research-coverage.json": "46779f6bb0e3fe4119221728fba5b9331cc5f1b365505db3b3c2d274e9e54bee",
+    "src/data/sources.json": "63503af76b57eaf811baacbb9950e1a7dc24f6043daa53a1c1a3f79d8dae4904",
+    "tests/unit/election-context.test.ts": "2cd3d996605d0ad4e607cab94bc26006cb6932ee49e1ac120cdd2a5c39982914",
+    "tests/unit/quotation-policy.test.ts": "a1e3fde59cdb70ef948dd4daef35c129a08b26c52854c536e83449602bbb3c85",
+    "tests/unit/ruzomberok-roster.test.ts": "262eedd43ab2900f44ac571355e948ee99181e874f51daecdadfcd6e58948b2a",
+    "research/dolny-kubin-media-review-2026.json": "29ab7d569d89a13d818124e25df294bf47b804a81edfd1107686e5f25b67b2db",
+    "research/dolny-kubin-media-review-2026.md": "0ce2f65537b2739939e33de98396a2f4a5a133565826e969e89e0168103b7628",
+    "tests/fixtures/dolny-kubin-media-baseline.json": "0b328ad9990a211d25ca294e95a03455b1f2329b2f599420d768aa297b5b66d5",
+    "tests/unit/dolny-kubin-media-review.test.ts": "873e50d2e63bb5a7c189279a2d1d1416e63c7fd4837b1f21e45b68a704710083"
+  },
+  "reviewReportSha256": "5408a9914128c3307111747c5dfa30fbefa19ee4e5d70365c6699e550300a5ec",
+  "verification": [
+    {
+      "command": "npm test",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/unit.log",
+      "exitCode": 0,
+      "result": "321 passed, 4 skipped; 38 passed test files and 1 skipped. Final two test-only corrections additionally passed targeted16test run.",
+      "logSha256": "a1c247ab456a8ac645e9fff8880b06a134c9a817c5f64b0c7d32b5f52c5de61a"
+    },
+    {
+      "command": "npm run validate:data",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/validate-data.log",
+      "exitCode": 0,
+      "result": "cycles=1 contexts=3 published=3 issues=0",
+      "logSha256": "7e0a75097bf3d91cc911105e229075794512186ebd2ea92d7763f78fa43e68e9"
+    },
+    {
+      "command": "npm run validate:release",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/validate-release.log",
+      "exitCode": 0,
+      "result": "cycles=1 contexts=3 published=3 issues=0",
+      "logSha256": "8a5e66d8b2d9a7e87f1c0b929b26c8cfe2c67b8646962ac1fbd00e0c0231b772"
+    },
+    {
+      "command": "npm run report:coverage",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/coverage.log",
+      "exitCode": 0,
+      "result": "All three city contexts; releaseReady=true pending=0",
+      "logSha256": "d68209ee87e5fada1d1322e8f8adbbf2d9f82e715fa63f8f07b3c58629da46fb"
+    },
+    {
+      "command": "npm run build",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/build.log",
+      "exitCode": 0,
+      "result": "Astro diagnostics0errors0warnings0hints;248pages built;Pagefind244indexed.",
+      "logSha256": "d21a4aecb1bf55552c4eb2d03d1d9be4c9f9408c95c6c61f5d9368c33030cb1e"
+    },
+    {
+      "command": "npm run check:seo",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/seo.log",
+      "exitCode": 0,
+      "result": "244 canonical indexable pages,3noindexcomparison tools,1noindex404",
+      "logSha256": "5256e376a54fc984c6c7ad3834bc522ceca39f69ebd7c48c16206300b1fb267b"
+    },
+    {
+      "command": "VNU_JAVA=/home/sergey/codex/ovolbach/ovolbach/.superpowers/vnu/vnu-runtime-image/bin/java npm run check:html",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/html.log",
+      "exitCode": 0,
+      "result": "248HTML files,0errors,0warnings;W3C Nu26.10.2",
+      "logSha256": "88c5c55b033e056261fe54c9b69d2c3bc35eb23e128e581349adb3e6cc66ca90"
+    },
+    {
+      "command": "npm run check:storage",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/storage.log",
+      "exitCode": 0,
+      "result": "No forbidden cookies/storage/serviceworker/cross-origin runtime artifacts",
+      "logSha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd"
+    },
+    {
+      "command": "npm run check:links",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/links.log",
+      "exitCode": 0,
+      "result": "664unique external URLs,0unreachable,18manualreview403/429",
+      "logSha256": "d5fa04cae3bed22ef3a5de70382fc081b0b4f1aabeabdb33dd5dff5ae17fb622"
+    },
+    {
+      "command": "TMPDIR=/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/dk-media-2026/.superpowers/dk-media-browser-tmp PLAYWRIGHT_BROWSERS_PATH=/tmp/uctomost-browsers LD_LIBRARY_PATH=/tmp/uctomost-browser-libs/usr/lib/x86_64-linux-gnu npm run test:e2e -- --config .superpowers/dk-media-playwright.config.ts --workers=2",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/e2e.log",
+      "exitCode": 0,
+      "result": "164passed,2skipped of166;desktop+mobile,3.7min. Isolated preview4328; all publicroutes privacy/accessibility/internal links.",
+      "logSha256": "a54b98f6cc3e6425e4b9e0c45896c3b952554f0edec698ad718f9927679a55de"
+    },
+    {
+      "command": "git diff --check",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/diff.log",
+      "exitCode": 0,
+      "result": "No whitespace defects",
+      "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "command": "npm test -- --run tests/unit/dolny-kubin-media-review.test.ts tests/unit/dolny-kubin-research.test.ts",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/regression-final-green.log",
+      "exitCode": 0,
+      "result": "16passed;includes10newmediaandcontinuityregressions",
+      "logSha256": "5de2dce6585d2cca36263416d6cd20b2d088a1e70552ed899c07544657fe3c85"
+    }
+  ],
+  "reviewBoundary": "Reviewer read all88addedclaims and71eventchains and structurally checked all59receipts/82existingmediareferences. Original reopening was concentrated on high-risk stories. No independent exhaustive repeat of all candidate web searches; no human editorial/legal judgment.",
+  "preservation": "All1328baselineclaims and572sources retained unchanged; all officialpeople/rosters/finance/history byte-identical. Sharedchair11claim additions visible in all3contexts.",
+  "finalMainHashes": {
+    "tests/unit/dolny-kubin-research.test.ts": "224272df6f52f413207530d5776abaeba93f6636155fc8f18ae674a5f68b370f",
+    "tests/unit/dolny-kubin-roster.test.ts": "28dc25e0739ab3a9bfac0275630d1a62d0daebdaaf8ffb9d90410063ca6aa338",
+    "README.md": "36fa3d34694fca6548ab2bf243c2dd0801f3f378a33076cec9cda1086e053283",
+    "src/data/elections/2026/zilinsky-kraj/claims.json": "bee52a5bf1a92e6fa8d975dfd4c1628a80b77d0194dfbdfdb214cc07aa4b10b8",
+    "src/data/elections/2026/zilinsky-kraj/research-coverage.json": "46779f6bb0e3fe4119221728fba5b9331cc5f1b365505db3b3c2d274e9e54bee",
+    "src/data/sources.json": "63503af76b57eaf811baacbb9950e1a7dc24f6043daa53a1c1a3f79d8dae4904",
+    "tests/unit/election-context.test.ts": "2cd3d996605d0ad4e607cab94bc26006cb6932ee49e1ac120cdd2a5c39982914",
+    "tests/unit/quotation-policy.test.ts": "a1e3fde59cdb70ef948dd4daef35c129a08b26c52854c536e83449602bbb3c85",
+    "tests/unit/ruzomberok-roster.test.ts": "262eedd43ab2900f44ac571355e948ee99181e874f51daecdadfcd6e58948b2a",
+    "research/dolny-kubin-media-review-2026.json": "29ab7d569d89a13d818124e25df294bf47b804a81edfd1107686e5f25b67b2db",
+    "research/dolny-kubin-media-review-2026.md": "0ce2f65537b2739939e33de98396a2f4a5a133565826e969e89e0168103b7628",
+    "tests/fixtures/dolny-kubin-media-baseline.json": "0b328ad9990a211d25ca294e95a03455b1f2329b2f599420d768aa297b5b66d5",
+    "tests/unit/dolny-kubin-media-review.test.ts": "873e50d2e63bb5a7c189279a2d1d1416e63c7fd4837b1f21e45b68a704710083",
+    "research/dolny-kubin-media-review-2026-review.md": "5408a9914128c3307111747c5dfa30fbefa19ee4e5d70365c6699e550300a5ec"
+  },
+  "integrationReceiptSha256": "5613042932eaa1209d2fdc282d4199538ed8ba38aae9b50dfc3243272f3684be",
+  "integrationNote": "Only finalMainHashes and integration check metadata added after independent v3 review; reviewed public data, tests and research texts unchanged. The original integrationReceiptSha256 identifies the immutable receipt before this manifest-only bookkeeping.",
+  "integrationChecks": [
+    {
+      "command": "npm test",
+      "workingDirectory": "/home/sergey/codex/ovolbach/ovolbach",
+      "exitCode": 0,
+      "result": "321 passed, 4 skipped; 38 passed files and 1 skipped. Final delivered test and data versions.",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/main-unit.log",
+      "logSha256": "585e347aa0d788e6ce8595fcdfb8a490197ac72b0756fb263b891d7a50792703"
+    },
+    {
+      "command": "npm run validate:release",
+      "workingDirectory": "/home/sergey/codex/ovolbach/ovolbach",
+      "exitCode": 0,
+      "result": "cycles=1 contexts=3 published=3 issues=0",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/main-release.log",
+      "logSha256": "8a5e66d8b2d9a7e87f1c0b929b26c8cfe2c67b8646962ac1fbd00e0c0231b772"
+    },
+    {
+      "command": "git diff --check",
+      "workingDirectory": "/home/sergey/codex/ovolbach/ovolbach",
+      "exitCode": 0,
+      "result": "No whitespace defects",
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-media-research-20261003/main-diff.log",
+      "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "integrationArtifactProof": {
+    "independentlyReviewedFilesMatching": 13,
+    "finalArtifactFilesMatching": 14,
+    "unchangedBaselineFilesMatching": 183,
+    "isolatedWorktreeMatchesDeliveredArtifacts": true,
+    "note": "All 13 independently reviewed files and all 14 final artifact files match MAIN; all 183 unrelated baseline files remain unchanged. The review manifest itself gains only delivery hashes and integration check metadata after the original immutable delivery receipt."
+  }
+}

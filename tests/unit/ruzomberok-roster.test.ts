@@ -4,6 +4,7 @@ import { validateDataset } from '../../src/lib/validate-dataset';
 import { getBallotsForDistrict, getBallotSelectionLimit } from '../../src/lib/selectors';
 import verifiedElectionResults from '../fixtures/ruzomberok-election-results.json';
 import researchAudit from '../../research/ruzomberok-2026.json';
+import mediaReview from '../../research/ruzomberok-media-review-2026.json';
 
 const loadCity = () => loadElectionContext({ citySlug: 'ruzomberok', year: 2026 });
 
@@ -69,8 +70,8 @@ describe('Ružomberok official 2026 roster', () => {
     expect(heads(rk.data)).toEqual(heads(lm.data));
     expect(lm.data.candidates).toHaveLength(91);
     expect(lm.data.candidacies).toHaveLength(109);
-    // The additional Martin research contributes 17 records for the shared chair people.
-    expect(lm.data.claims).toHaveLength(621);
+    // Preserves all shared additions from the pending local research and the Martin merge.
+    expect(lm.data.claims).toHaveLength(632);
   });
 
   it('publishes only a complete sourced research and finance snapshot', async () => {
@@ -177,7 +178,7 @@ describe('Ružomberok official 2026 roster', () => {
       expect(data.claims.some((claim) => claim.candidateId === candidateId && claim.kind === 'response'
         && claim.sourceIds.includes('rk-mbk-joint-response-2025')), candidateId).toBe(true);
       expect(data.researchCoverage.find((row) => row.candidateId === candidateId && row.category === 'controversies'))
-        .toMatchObject({ status: 'found', sourceIds: ['rk-mbk-joint-response-2025'] });
+        .toMatchObject({ status: 'found', sourceIds: expect.arrayContaining(['rk-mbk-joint-response-2025']) });
     }
   });
 
@@ -213,9 +214,10 @@ describe('Ružomberok official 2026 roster', () => {
       expect(Object.keys(statuses)).toHaveLength(8);
       for (const [category, status] of Object.entries(statuses)) {
         const coverage = data.researchCoverage.find((record) => record.candidateId === person.candidateId && record.category === category);
-        expect(status, `${person.candidateId}/${category}`).toBe(coverage?.status);
+        const refreshed = mediaReview.coverageChanges.find((record) => record.candidateId === person.candidateId && record.category === category)?.after;
+        expect(refreshed?.status ?? status, `${person.candidateId}/${category}`).toBe(coverage?.status);
         const sourceIds = person.categorySearches?.[category]?.supportingSourceIds;
-        if (sourceIds) expect(sourceIds.toSorted(), `${person.candidateId}/${category}`).toEqual(coverage?.sourceIds.toSorted());
+        if (sourceIds) expect((refreshed?.sourceIds ?? sourceIds).toSorted(), `${person.candidateId}/${category}`).toEqual(coverage?.sourceIds.toSorted());
       }
     }
   });

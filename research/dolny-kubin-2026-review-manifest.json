@@ -1,0 +1,631 @@
+{
+  "reviewer": "independent read-only subagent",
+  "date": "2026-10-03",
+  "base": "bf7b081",
+  "worktree": "/tmp/ovolbach-dolny-kubin-2026",
+  "status": "complete",
+  "independentlyOpenedSources": [
+    {
+      "category": "finance_campaign",
+      "url": "https://www.janbriestensky.sk/",
+      "result": "HTTP 200; static embedded base64/gzip resources decoded in memory without execution; explicit Fio campaign link"
+    },
+    {
+      "category": "finance_campaign",
+      "url": "https://emiliajurcikova.sk/",
+      "result": "HTTP 200; exact campaign IBAN"
+    },
+    {
+      "category": "finance_campaign",
+      "url": "https://viacprekubin.sk/",
+      "result": "HTTP 200 with requests default user agent; browser and Mozilla user agent returned access error/466; campaign IBAN accessible"
+    },
+    {
+      "category": "finance_campaign",
+      "url": "https://ib.fio.sk/ib/transparent?a=2903484252",
+      "result": "HTTP 200; owner and explicit Dolný Kubín 2026 mayor campaign designation"
+    },
+    {
+      "category": "finance_campaign",
+      "url": "https://ib.fio.sk/ib/transparent?a=2802973882",
+      "result": "HTTP 200; owner and IBAN matched campaign"
+    },
+    {
+      "category": "finance_campaign",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5611000000002979115779",
+      "result": "HTTP 403; inaccessible bank details; exact public link corroborated by campaign and ministry registry"
+    },
+    {
+      "category": "finance_campaign",
+      "url": "https://www.minv.sk/?adresy-webovych-sidiel-osobitnych-platobnych-uctov-kandidati",
+      "result": "HTTP 200; exact Bruncková IBAN; name-only Prílepok and Maršinský entries excluded from verified links"
+    },
+    {
+      "category": "finance_campaign",
+      "url": "https://www.minv.sk/?najcastejsie-otazky-a-odpovede-pre-kandidatov",
+      "result": "HTTP 200; ministry campaign FAQ"
+    },
+    {
+      "category": "finance_campaign",
+      "url": "https://www.minv.sk/?najcastejsie-otazky-a-odpovede-pre-kandidatov&acstranka=3",
+      "result": "HTTP 200; ministry campaign FAQ continuation"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.dolnykubin.sk/download_file_f.php?id=2446843",
+      "result": "HTTP 200; 2024 declarations; direct Briestenský/Natural System, Bukna/BUKNA, Fačko/FTAT and Vajdulák/Art AIR links; Lavrík office date bounded to document"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.dolnykubin.sk/download_file_f.php?id=2461675",
+      "result": "HTTP 200; official five-person mayor ballot"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.dolnykubin.sk/download_file_f.php?id=2469281",
+      "result": "HTTP 200; official twenty-person district 3 regional ballot and namesake distinction"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.dolnykubin.sk/download_file_f.php?id=2429657",
+      "result": "HTTP 200; population as of 24 June 2026"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.dolnykubin.sk/download_file_f.php?id=2441535",
+      "result": "HTTP 200; four council districts, seats 5/6/4/1"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.dolnykubin.sk/oznamy/podla-oficialnych-vysledkov-su-novymi-dolnokubinskymi-mestskymi-poslancami-peter-smolen-a-tomas-gajdos.html",
+      "result": "HTTP 200; valid repeat election 9 September 2023; Gajdoš elected with 196"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://volby.statistics.sk/oso/oso2022/files/xlsx/OSO2022_SK_tab08e.xlsx",
+      "result": "HTTP 200; opened with openpyxl; official municipal results columns and denominator"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.oravskajasenica.sk/e_download.php?file=data%2Furedni_deska%2Fobsah205_10.pdf&original=zapisnica-vk-zsk.pdf",
+      "result": "HTTP 200; commission report pages 9–10 confirms five regional substitutes"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.dolnykubin.sk/download_file_f.php?id=2390936",
+      "result": "HTTP 200; 8 April 2026 finance commission minutes identify Ing. Jozef David and AQUAKUBIN role"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.dolnykubin.sk/download_file_f.php?id=1836678",
+      "result": "HTTP 200; 24 pages; cover December 2022 issue 11; page 6 lists three district ŽSK councillors"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Jan.Prilepok&sid=vnf/oznamenie",
+      "result": "Accessible via web; declaration income amount verified; no net-worth inference"
+    },
+    {
+      "category": "official_documents",
+      "url": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=306169&WFTID=NRDK",
+      "result": "Accessible via web; official declaration index entry only"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=172648&SID=5&P=0",
+      "result": "HTTP 200; Natural System role; dissolution proceeding commencement only"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3486586",
+      "result": "HTTP 200; R234266 change registration; person-level Briestenský identity bridge"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=258500&SID=5&P=0",
+      "result": "HTTP 200; MS economy older Martin Stanovský"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3684062",
+      "result": "HTTP 200; R029925 change registration; person-level older Stanovský identity bridge"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=656207&SID=5&P=0",
+      "result": "HTTP 200; FTAT registered role"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=163780&SID=5&P=0",
+      "result": "HTTP 200; BUKNA registered role"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=90071&SID=5&P=0",
+      "result": "HTTP 200; ERF registered role"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=654131&SID=8&P=0",
+      "result": "HTTP 200; HaStraTEX registered role"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=316751&SID=5&P=0",
+      "result": "HTTP 200; FINREA role and entity identifier"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=81765&SID=5&P=0",
+      "result": "HTTP 200; OVS board role commencement 1 July 2025"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=143184&SID=2&P=0",
+      "result": "HTTP 200; Winton role"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=224692&SID=5&P=0",
+      "result": "HTTP 200; Art AIR role"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://www.orsr.sk/vypis.asp?ID=89053&SID=5&P=0",
+      "result": "HTTP 200; AQUAKUBIN role commencement 1 April 2026"
+    },
+    {
+      "category": "business_registers",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=4191069",
+      "result": "HTTP 200; R084131 change registration; Maslan person identity and role"
+    },
+    {
+      "category": "identity_bridges",
+      "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/149953",
+      "result": "HTTP 200; older Stanovský direct person/organisation evidence"
+    },
+    {
+      "category": "identity_bridges",
+      "url": "https://ives.minv.sk/rmno/detail/13542109581633287566",
+      "result": "HTTP 200; older Stanovský role dates, with historical end dates preserved"
+    },
+    {
+      "category": "identity_bridges",
+      "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/43236",
+      "result": "HTTP 200; Harezník person-level municipality and year evidence"
+    },
+    {
+      "category": "identity_bridges",
+      "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/6874",
+      "result": "HTTP 200; Mních person-level municipality and year evidence"
+    },
+    {
+      "category": "identity_bridges",
+      "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/23073",
+      "result": "HTTP 200; Šuňalová person-level municipality and year evidence"
+    },
+    {
+      "category": "identity_bridges",
+      "url": "https://www.finrea.sk/pobocka/2-FINREA%20Doln%C3%BD%20Kub%C3%ADn",
+      "result": "HTTP 200; Kováčik RSc, professional role and matching entity identifier"
+    },
+    {
+      "category": "media_quotes",
+      "url": "https://sita.sk/falsovanie-vysledkov-a-mozny-subvencny-podvod-v-slovenskej-kanoistike-podnet-pre-ministra-huliaka-aj-hlavneho-kontrolora-sportu/",
+      "result": "Accessible via web and HTTP; Peter Mráz; 30 May 2025, updated 31 May; expressly older Stanovský; allegation and response separate"
+    },
+    {
+      "category": "media_quotes",
+      "url": "https://www.aktuality.sk/clanok/777595/statna-tajomnicka-brunckova-pracovala-pre-advokatov-z-nastenkoveho-tendra-v-zivotopise-ich-neuvadza/",
+      "result": "Accessible via web; Martin Turček; 30 March 2020, updated 30 March 2021; report and response verified"
+    },
+    {
+      "category": "media_quotes",
+      "url": "https://www.pravda.sk/spravy/regiony/clanok/2007879-starostka-ktora-odmietla-fukat-dostala-kvety-od-priaznivcov-niektori-ju-povzbudzuju-ini-sa-smeju",
+      "result": "Accessible via web; Eva Štenclová; 15 July 2026; event/report/response distinction verified"
+    },
+    {
+      "category": "media_quotes",
+      "url": "https://www.teraz.sk/spravy/m-zilinka-postup-octk-v-pripade-obv/982549-clanok.html",
+      "result": "Accessible via web; TASR; 4 August 2026; reported procedural review, not final official outcome"
+    },
+    {
+      "category": "media_quotes",
+      "url": "https://www.pravda.sk/spravy/regiony/clanok/814993-politicka-prestrelka-na-orave-kauza-zbabranej-bytovky-nema-konca-vyvolava-velke-emocie",
+      "result": "Accessible via web; Eva Štenclová; 10 June 2026; investigation and earlier Kubáň response kept separate"
+    },
+    {
+      "category": "media_quotes",
+      "url": "https://www.malatina.sk/zdenko-kuban/",
+      "result": "Accessible via web; signed Mgr. Zdenko Kubáň; 18 October 2022; exact 11-word fragment with leading ellipsis"
+    },
+    {
+      "category": "media_quotes",
+      "url": "https://sportnet.sme.sk/spravy/parahokej-martin-joppa-rozhovor-kapitan-slovensko-paralympiada-2026/",
+      "result": "Accessible via web; Andrea Strompová and Ema Lipková; 24 December 2025; exact 12-word sentence"
+    },
+    {
+      "category": "follow_up_inaccessible_excluded",
+      "url": "https://www.sak.sk/web/sk/cms/lawyer/adv/proxy/link/display/218811/form/osp/_event/close",
+      "result": "HTTP 404 independently confirmed; source and current registration claim removed; positive evidence limited to official 2026 ballot occupation"
+    },
+    {
+      "category": "follow_up_inaccessible_excluded",
+      "url": "https://www.sak.sk/web/sk/cms/link/adv/358637/display/display",
+      "result": "HTTP 404 independently confirmed; source removed; company role independently supported by accessible ORSR and official declaration"
+    }
+  ],
+  "uniqueIndependentlyOpenedSourceCount": 50,
+  "limitations": [
+    "Selective independent reopening of high-risk sources; not a claim that every source was independently re-fetched.",
+    "Tatra banka public account page returned HTTP 403; balance, transactions, donors and expenditure were not inferred.",
+    "Bruncková campaign was accessible through requests despite other access methods failing.",
+    "Briestenský large campaign bundle inspected as static embedded data without executing code.",
+    "Release gates run by implementer are outside this read-only review; passing is not asserted here.",
+    "Two SAK source URLs returned live HTTP 404 and were excluded from public evidence; no cached or discovery-only identity match is treated as current registration."
+  ],
+  "verdict": "No unresolved actionable finding in the reviewed final diff; editorial/data review complete. Full release-gate passing is not asserted.",
+  "reviewedFileSha256": {
+    "src/data/elections/2026/zilinsky-kraj/claims.json": "382b0ed430edaf905aef0baad0997e870ac570d807a1c6e1973a6ded67fb3465",
+    "src/data/elections/2026/zilinsky-kraj/candidates.json": "194d1950800e14bca6c2c8cfa0cc96cfe76f346424dab5ceaf9aebf610451e0e",
+    "src/data/elections/2026/zilinsky-kraj/candidacies.json": "4f326b8aaa6f41c62584235ae2b84b35d2c58bffd9d290966b587f2fd51243f5",
+    "src/data/elections/2026/zilinsky-kraj/campaign-finance.json": "d52146c5a29ab75e5dbfa68d3557b6c7edc6d7496ca9c38468d2e18baa1f4749",
+    "src/data/elections/2026/zilinsky-kraj/research-coverage.json": "7953ea74671abccb99cb65c8f451f4f55a19ecd8934ee176cb14efbb00f2680e",
+    "src/data/elections/2026/zilinsky-kraj/elections.json": "80f53f50ef229c077741c1d78576274f41ee7b37137ba1fe6703fceb4183ef25",
+    "src/data/elections/2026/zilinsky-kraj/districts.json": "5de1fde623b56ae14ed3e5870b1ae4d4573364fb3d6e6b6e68a17b7d2f09913d",
+    "src/data/sources.json": "9e68b4523146f8c9ab9e86fe3ac855cf6ae3db40832f472c16fd566c10014e64",
+    "tests/fixtures/dolny-kubin-election-results.json": "00077d9c750329665c773cd72cd8812b36bb7a9f4ce41a693328647afc9486fa",
+    "tests/unit/dolny-kubin-research.test.ts": "086c75adc4d70e5c7f99b3fc7c2b6f9e74b99f54e87da7eb2b715635faa28653",
+    "tests/unit/dolny-kubin-roster.test.ts": "f75b30cf255216186fee13585040b3618e3e1ddd255442c2686127c641113d3d",
+    "tests/e2e/dolny-kubin.spec.ts": "817764d17df24edbfe56f09c3c458978cd32cbfa4b3dd41b698dd0777e0002a5",
+    "research/dolny-kubin-2026.json": "12e5b895b7e17a2a8a4a80ec51cf57d08db4bde16082cc0ae4ac7408db68b6cc",
+    "tests/e2e/campaign-finance.spec.ts": "ddaf2fda88b5a70542a219b64c00b359f037ed39507839fc3e39dec8c00158f7",
+    "tests/e2e/district-and-catalogue.spec.ts": "c5b56eddce15943f1aeb875c3789321e9f15b1fa9bcbebf5c68b7c41fb12399e",
+    "tests/e2e/privacy-accessibility.spec.ts": "749a5c6adaf91cab455b4ffeb2cd988c50a212eaabdcd22a04fda1ffba66d5a2",
+    "playwright.config.ts": "2ddfa478931fa2f356c841e1f2a4892b6b85acd0b6ef8530ecc4db7751499e86"
+  },
+  "findings": [],
+  "casesOutsidePlan": [],
+  "freshIndependentChecks": [
+    {
+      "command": "git diff --check",
+      "exitCode": 0
+    },
+    {
+      "command": "python3 (read-only structural assertions via stdin)",
+      "exitCode": 0,
+      "assertions": [
+        "52 new candidate records",
+        "249 new claims and period/date/source integrity",
+        "416 new coverage records: eight per candidate, no pending",
+        "non-basic found categories have a supporting claim; basic uses official candidate and ballot fields",
+        "67 complete election-result objects exactly equal the regression fixture",
+        "518 unique source IDs and canonical HTTPS URLs",
+        "52 new finance records: 3 verified, 2 unverified without URL, 47 not listed",
+        "ownExpenses unknown, campaignOperator unknown, otherCandidacies not_exhaustive",
+        "two exact quotations of 11 and 12 words",
+        "no private identity prose detected in new public claim text",
+        "52 documented candidate receipts and 52 finance receipts; category states match product",
+        "approved historical objects unchanged in candidates, candidacies, claims, districts, research-coverage and campaign-finance"
+      ]
+    }
+  ],
+  "currentCounts": {
+    "newPeople": 52,
+    "newClaims": 248,
+    "newCoverageRecords": 416,
+    "newFinanceRecords": 52,
+    "historicalResultFixtureRecords": 67,
+    "globalSources": 572,
+    "dolnyKubinContext": {
+      "people": 59,
+      "candidacies": 74,
+      "claims": 372,
+      "sources": 195,
+      "coverage": 472
+    }
+  },
+  "followUp": {
+    "scope": "Two live-404 SAK source removals, dependent claim/receipt cleanup, equivalent baseURL same-origin E2E checks and six additional Dolný Kubín privacy routes",
+    "findings": [],
+    "resolvedFindings": [
+      {
+        "severity": "P3",
+        "file": "research/dolny-kubin-2026.json",
+        "record": "dk-radoslava-bencurova",
+        "issue": "Removed SAK claim remained in positive receipt claimIds/identity text.",
+        "resolution": "Retained ballot occupation claim referenced; former SAK match moved to exclusion history; contradictory limitation removed."
+      }
+    ],
+    "checks": [
+      {
+        "command": "python3 (read-only recursive product-source assertions via stdin)",
+        "exitCode": 0,
+        "assertions": [
+          "5770 source references across product JSON resolve",
+          "both removed SAK sources absent",
+          "Bencúrová employment claim limited to official ballot occupation",
+          "Bukna company role references ORSR and official declaration only",
+          "248 new claims, 516 sources, 67 unchanged complete result fixtures, 416 unchanged coverage records"
+        ]
+      },
+      {
+        "command": "python3 (full read-only structural review, rerun for final counts)",
+        "exitCode": 0
+      },
+      {
+        "command": "python3 (recursive active audit source/claim reference check)",
+        "exitCode": 0
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0
+      }
+    ],
+    "e2eReview": "Exact configured-origin equality is preserved; baseURL is supplied by default and isolated configurations. No existing storage, legal-notice, serious/critical axe or HTTP-200 assertions were removed. Six Dolný Kubín routes extend coverage. No full suite was run by the reviewer."
+  },
+  "isolatedWorktreeCounts": {
+    "newPeople": 52,
+    "newClaims": 248,
+    "newCoverageRecords": 416,
+    "newFinanceRecords": 52,
+    "historicalResultFixtureRecords": 67,
+    "globalSources": 516
+  },
+  "integrationReview": {
+    "destination": "/home/sergey/codex/ovolbach/ovolbach",
+    "base": "bf7b081",
+    "backup": "/tmp/dolny-kubin-research-20261003/integration-before",
+    "receipt": "/tmp/dolny-kubin-research-20261003/integration-receipt.json",
+    "verdict": "No unresolved integration finding. Reviewed DK additions match the isolated reviewed worktree; all concurrent input records are preserved. Full release-gate passing is not asserted.",
+    "findings": [],
+    "recordComparisons": [
+      {
+        "array": "campaign-finance-parties",
+        "preservedInputRecords": 24,
+        "identicalReviewedTaskRecords": 1,
+        "method": "input array unchanged as exact ordered prefix; suffix exactly equals reviewed worktree additions relative to bf7b081"
+      },
+      {
+        "array": "campaign-finance",
+        "preservedInputRecords": 163,
+        "identicalReviewedTaskRecords": 52,
+        "method": "input array unchanged as exact ordered prefix; suffix exactly equals reviewed worktree additions relative to bf7b081"
+      },
+      {
+        "array": "candidacies",
+        "preservedInputRecords": 202,
+        "identicalReviewedTaskRecords": 67,
+        "method": "input array unchanged as exact ordered prefix; suffix exactly equals reviewed worktree additions relative to bf7b081"
+      },
+      {
+        "array": "candidates",
+        "preservedInputRecords": 163,
+        "identicalReviewedTaskRecords": 52,
+        "method": "input array unchanged as exact ordered prefix; suffix exactly equals reviewed worktree additions relative to bf7b081"
+      },
+      {
+        "array": "claims",
+        "preservedInputRecords": 1080,
+        "identicalReviewedTaskRecords": 248,
+        "method": "input array unchanged as exact ordered prefix; suffix exactly equals reviewed worktree additions relative to bf7b081"
+      },
+      {
+        "array": "districts",
+        "preservedInputRecords": 15,
+        "identicalReviewedTaskRecords": 5,
+        "method": "input array unchanged as exact ordered prefix; suffix exactly equals reviewed worktree additions relative to bf7b081"
+      },
+      {
+        "array": "elections",
+        "preservedInputRecords": 6,
+        "identicalReviewedTaskRecords": 2,
+        "method": "input array unchanged as exact ordered prefix; suffix exactly equals reviewed worktree additions relative to bf7b081"
+      },
+      {
+        "array": "research-coverage",
+        "preservedInputRecords": 1304,
+        "identicalReviewedTaskRecords": 416,
+        "method": "input array unchanged as exact ordered prefix; suffix exactly equals reviewed worktree additions relative to bf7b081"
+      },
+      {
+        "array": "sources",
+        "preservedInputRecords": 472,
+        "identicalReviewedTaskRecords": 100,
+        "method": "input array unchanged as exact ordered prefix; suffix exactly equals reviewed worktree additions relative to bf7b081"
+      }
+    ],
+    "preservedConcurrentResearch": {
+      "name": "Ružomberok media review",
+      "addedClaims": 83,
+      "changedExistingClaims": 31,
+      "changedCoverageRecords": 54,
+      "addedSources": 56,
+      "changedSourceMetadataRecords": 22,
+      "scopeBoundary": "Verified exact preservation of incoming records only; factual/editorial review of this research belongs to its separate independent review and is not recertified here."
+    },
+    "integratedContextCounts": {
+      "dolny-kubin": {
+        "people": 59,
+        "candidacies": 74,
+        "claims": 372,
+        "sources": 195,
+        "coverage": 472
+      },
+      "liptovsky-mikulas": {
+        "people": 91,
+        "candidacies": 109,
+        "claims": 618,
+        "sources": 274,
+        "coverage": 728
+      },
+      "ruzomberok": {
+        "people": 79,
+        "candidacies": 100,
+        "claims": 586,
+        "sources": 286,
+        "coverage": 632
+      }
+    },
+    "newFileComparisons": "DK config, fixture and tests byte-identical to reviewed worktree; roster test differs only in LM/RK claim expectations 604->618 and 503->586. Research audit identical at inspection time.",
+    "supportingEditsReviewed": [
+      "README retains concurrent Ružomberok media-review paragraph and adds DK description",
+      "election-context test adds published DK context and finds LM by citySlug while keeping its counts",
+      "slug test preserves Urbanovič pair and adds the two Stanovský profiles",
+      "three E2E files retain reviewed baseURL origin checks and added DK routes"
+    ],
+    "checks": [
+      {
+        "command": "python3 (read-only exact integration array/file/receipt-hash comparison)",
+        "exitCode": 0
+      },
+      {
+        "command": "python3 (read-only concurrent baseline delta count comparison)",
+        "exitCode": 0
+      },
+      {
+        "command": "python3 (read-only city context/source scope assertions)",
+        "exitCode": 0
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0
+      }
+    ],
+    "reviewedFileSha256": {
+      "README.md": "f62569cb343f8accccfb6696b1d74371a86c2ca1ea52aae98f7cf556533132d1",
+      "src/data/elections/2026/zilinsky-kraj/campaign-finance-parties.json": "caf1d11b79dd3579a3ad974039fd896c0dd54f873b94797d2b623e4bb81a5182",
+      "src/data/elections/2026/zilinsky-kraj/campaign-finance.json": "d52146c5a29ab75e5dbfa68d3557b6c7edc6d7496ca9c38468d2e18baa1f4749",
+      "src/data/elections/2026/zilinsky-kraj/candidacies.json": "4f326b8aaa6f41c62584235ae2b84b35d2c58bffd9d290966b587f2fd51243f5",
+      "src/data/elections/2026/zilinsky-kraj/candidates.json": "194d1950800e14bca6c2c8cfa0cc96cfe76f346424dab5ceaf9aebf610451e0e",
+      "src/data/elections/2026/zilinsky-kraj/claims.json": "8eb05ba0bb3b92d95b1cb589a5c289e339d6aff0f11baa8793640157480db75e",
+      "src/data/elections/2026/zilinsky-kraj/districts.json": "5de1fde623b56ae14ed3e5870b1ae4d4573364fb3d6e6b6e68a17b7d2f09913d",
+      "src/data/elections/2026/zilinsky-kraj/elections.json": "80f53f50ef229c077741c1d78576274f41ee7b37137ba1fe6703fceb4183ef25",
+      "src/data/elections/2026/zilinsky-kraj/research-coverage.json": "737f10f5ba0da3d6e0f918f97d8db0c258dc4068b645bc3564bb9a5b62fd7903",
+      "src/data/sources.json": "e37d0a6c8dfcb00a5da7651070637034f16d0fddffd127b08379a05b8eab73d3",
+      "tests/e2e/campaign-finance.spec.ts": "ddaf2fda88b5a70542a219b64c00b359f037ed39507839fc3e39dec8c00158f7",
+      "tests/e2e/district-and-catalogue.spec.ts": "c5b56eddce15943f1aeb875c3789321e9f15b1fa9bcbebf5c68b7c41fb12399e",
+      "tests/e2e/privacy-accessibility.spec.ts": "749a5c6adaf91cab455b4ffeb2cd988c50a212eaabdcd22a04fda1ffba66d5a2",
+      "tests/unit/election-context.test.ts": "8a20b768430aebb1d73c4a6c66324940a5048f47be60a6246d8dd8b39973b135",
+      "tests/unit/seo-slugs.test.ts": "114788f6068b5b4f9b095e75e3672b9539c76a28c0faf81e65d9c5a2ad4bf16e",
+      "research/dolny-kubin-2026.json": "12e5b895b7e17a2a8a4a80ec51cf57d08db4bde16082cc0ae4ac7408db68b6cc",
+      "src/data/elections/2026/zilinsky-kraj/municipalities/dolny-kubin/config.json": "86b9c8e960a43207f471d2d5d6e0d9e49374fa1ad9861cfa6637ba2577ea0a02",
+      "tests/e2e/dolny-kubin.spec.ts": "817764d17df24edbfe56f09c3c458978cd32cbfa4b3dd41b698dd0777e0002a5",
+      "tests/fixtures/dolny-kubin-election-results.json": "00077d9c750329665c773cd72cd8812b36bb7a9f4ce41a693328647afc9486fa",
+      "tests/fixtures/dolny-kubin-roster.json": "958c2c8b35a4fcb4f529bab31a5fb28e0456bdde305762270881c4bac50203ed",
+      "tests/unit/dolny-kubin-research.test.ts": "086c75adc4d70e5c7f99b3fc7c2b6f9e74b99f54e87da7eb2b715635faa28653",
+      "tests/unit/dolny-kubin-roster.test.ts": "860ca01b232fdc96d87a48ba500c7998a9296b472725dcd3971d1b173e4edc21"
+    },
+    "fullGates": "Not rerun or certified by this reviewer; implementer is running the required integration release gates."
+  },
+  "finalAuditReview": {
+    "verdict": "No unresolved final audit metadata or active-reference finding.",
+    "findings": [],
+    "method": "Read saved logs and compare hashes/summaries with final audit metadata; no full gate reruns or new network source research.",
+    "reportedGateEvidence": [
+      {
+        "command": "npm test",
+        "reportedExit": 0,
+        "result": "311 passed, 4 skipped; 37 files passed, 1 skipped",
+        "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/unit-final.log",
+        "verifiedSha256": "26473070d36575c1954b9cba85a04d1b7fd15a367f357b1186540cbfa4a53481"
+      },
+      {
+        "command": "npm run validate:data",
+        "reportedExit": 0,
+        "result": "1 cycle, 3 contexts, 3 published, 0 issues",
+        "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/validate-data-final.log",
+        "verifiedSha256": "7e0a75097bf3d91cc911105e229075794512186ebd2ea92d7763f78fa43e68e9"
+      },
+      {
+        "command": "npm run validate:release",
+        "reportedExit": 0,
+        "result": "1 cycle, 3 contexts, 3 published, 0 issues",
+        "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/validate-release-final.log",
+        "verifiedSha256": "8a5e66d8b2d9a7e87f1c0b929b26c8cfe2c67b8646962ac1fbd00e0c0231b772"
+      },
+      {
+        "command": "npm run report:coverage",
+        "reportedExit": 0,
+        "result": "All three contexts release-ready; 0 pending",
+        "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/coverage-final.log",
+        "verifiedSha256": "54ee993150a32d11b7426573dc214ddc23700d9d36d4938a206a02de49298dc8"
+      },
+      {
+        "command": "npm run build",
+        "reportedExit": 0,
+        "result": "Astro: 0 errors, warnings or hints; 248 pages built, 244 indexed",
+        "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/build-final.log",
+        "verifiedSha256": "dd6ebec2de6782362e6b7319030cc57b0cc6b7b2817f5e0a1554a73fc6bd85f9"
+      },
+      {
+        "command": "npm run check:seo",
+        "reportedExit": 0,
+        "result": "244 canonical indexable pages; 3 noindex comparison tools; 1 noindex 404",
+        "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/seo-final.log",
+        "verifiedSha256": "5256e376a54fc984c6c7ad3834bc522ceca39f69ebd7c48c16206300b1fb267b"
+      },
+      {
+        "command": "npm run check:html",
+        "reportedExit": 0,
+        "result": "W3C Nu26.10.2: 248 HTML files; 0 errors, 0 warnings",
+        "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/html-final.log",
+        "verifiedSha256": "5794661af4248b2c6c7666d3946a35873cfd5ec697b219a6ce6135fd44947b2a"
+      },
+      {
+        "command": "npm run check:storage",
+        "reportedExit": 0,
+        "result": "No prohibited storage, tracking or editorial issue",
+        "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/storage-final.log",
+        "verifiedSha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd"
+      },
+      {
+        "command": "npm run check:links",
+        "reportedExit": 0,
+        "result": "593 URLs; 0 unreachable; 11 manual-review responses",
+        "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/links-final.log",
+        "verifiedSha256": "9210952d2a6bf67943096bd31e43ead44d3654c119cafb39171cc56cd66108b0"
+      },
+      {
+        "command": "npm run test:e2e -- --config=.superpowers/dk-playwright.config.ts --workers=1",
+        "reportedExit": 0,
+        "result": "164 passed, 2 skipped across desktop and mobile",
+        "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/e2e-final.log",
+        "verifiedSha256": "9e55ba1d9a807d81064e1f3823a9e521878198f547d36fcbb3fcfed4efe1d75e"
+      }
+    ],
+    "targetedRegressionEvidence": {
+      "log": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/dk-validation/targeted-final.log",
+      "sha256": "7709ad4b49ab772f075f7df52df74c5618570193bbbe63955ab685f0a5d23d28",
+      "result": "12 passed, 2 files passed"
+    },
+    "privacyReceipt": {
+      "command": "python3 (labelled full-birth-date patterns from task scratch compared to DK receipts, fixtures and generated public HTML)",
+      "exit": 0,
+      "scratchTextFilesInspected": 603,
+      "labelledDatePatternsCompared": 149,
+      "publicFilesCompared": 67,
+      "filesWithLiteralMatches": [],
+      "limit": "A targeted literal comparison supplements claim-text privacy regressions and independent review; it is not a general proof about all private data."
+    },
+    "linkLogIndependentlyParsed": {
+      "urls": 593,
+      "unreachable": 0,
+      "manualReview": 11
+    },
+    "independentReviewStatus": "complete",
+    "activeAuditSourceAndClaimReferences": "All resolve; removed SAK claims/sources are absent from active references and public evidence.",
+    "productionAndTestHashes": "Unchanged since independent integration review.",
+    "freshReviewerCheck": {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "scope": "Final main-folder documentation included."
+    },
+    "reviewedAuditFileSha256": {
+      "research/dolny-kubin-2026.json": "b5d8fc05235a6bbcf7a76649423f8eae66b27b768586e4eaf8fe124f1e3c3b4e",
+      "research/dolny-kubin-2026-audit.md": "5975100ab96db9d9bc02a0fd23ed84bb9260eb7c0cbcd44e3139929b3e46d4fe"
+    },
+    "boundary": "Gate execution is the implementer’s work. This review corroborates saved results and metadata; earlier stages correctly did not certify gates before evidence existed. The limited privacy scan is not a general proof about every form of private data."
+  }
+}

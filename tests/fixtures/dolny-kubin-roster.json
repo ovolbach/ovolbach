@@ -1,0 +1,2684 @@
+{
+  "people": [
+    {
+      "candidateId": "dk-jan-briestensky",
+      "givenName": "Ján",
+      "familyName": "BRIESTENSKÝ",
+      "titles": "",
+      "ageAtElection": 54,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-jan-briestensky",
+          "givenName": "Ján",
+          "familyName": "BRIESTENSKÝ",
+          "titles": "",
+          "ballotNumber": 1,
+          "ageAtElection": 54,
+          "occupationOfficial": "podnikateľ",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "mayor",
+          "districtId": null,
+          "sourceId": "dk-mayor-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-katarina-brunckova",
+      "givenName": "Katarína",
+      "familyName": "BRUNCKOVÁ",
+      "titles": "JUDr., Bc., PhD.",
+      "ageAtElection": 47,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-katarina-brunckova",
+          "givenName": "Katarína",
+          "familyName": "BRUNCKOVÁ",
+          "titles": "JUDr., Bc., PhD.",
+          "ballotNumber": 2,
+          "ageAtElection": 47,
+          "occupationOfficial": "advokátka",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "mayor",
+          "districtId": null,
+          "sourceId": "dk-mayor-roster-2026"
+        },
+        {
+          "candidateId": "dk-katarina-brunckova",
+          "givenName": "Katarína",
+          "familyName": "BRUNCKOVÁ",
+          "titles": "JUDr., Bc., PhD.",
+          "ballotNumber": 3,
+          "ageAtElection": 47,
+          "occupationOfficial": "advokátka",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-katarina-brunckova",
+          "givenName": "Katarína",
+          "familyName": "BRUNCKOVÁ",
+          "titles": "JUDr. Bc., PhD.",
+          "ballotNumber": 4,
+          "ageAtElection": 47,
+          "occupationOfficial": "advokátka",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-emilia-jurcikova",
+      "givenName": "Emília",
+      "familyName": "JURČÍKOVÁ",
+      "titles": "PaedDr.",
+      "ageAtElection": 64,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-emilia-jurcikova",
+          "givenName": "Emília",
+          "familyName": "JURČÍKOVÁ",
+          "titles": "PaedDr.",
+          "ballotNumber": 3,
+          "ageAtElection": 64,
+          "occupationOfficial": "riaditeľka",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "mayor",
+          "districtId": null,
+          "sourceId": "dk-mayor-roster-2026"
+        },
+        {
+          "candidateId": "dk-emilia-jurcikova",
+          "givenName": "Emília",
+          "familyName": "JURČÍKOVÁ",
+          "titles": "PaedDr.",
+          "ballotNumber": 8,
+          "ageAtElection": 64,
+          "occupationOfficial": "riaditeľka",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-jan-marsinsky",
+      "givenName": "Ján",
+      "familyName": "MARŠINSKÝ",
+      "titles": "Ing.",
+      "ageAtElection": 48,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-jan-marsinsky",
+          "givenName": "Ján",
+          "familyName": "MARŠINSKÝ",
+          "titles": "Ing.",
+          "ballotNumber": 4,
+          "ageAtElection": 48,
+          "occupationOfficial": "SZČO",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "mayor",
+          "districtId": null,
+          "sourceId": "dk-mayor-roster-2026"
+        },
+        {
+          "candidateId": "dk-jan-marsinsky",
+          "givenName": "Ján",
+          "familyName": "MARŠINSKÝ",
+          "titles": "Ing.",
+          "ballotNumber": 14,
+          "ageAtElection": 48,
+          "occupationOfficial": "SZČO",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-jan-prilepok",
+      "givenName": "Ján",
+      "familyName": "PRÍLEPOK",
+      "titles": "Ing.",
+      "ageAtElection": 47,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-jan-prilepok",
+          "givenName": "Ján",
+          "familyName": "PRÍLEPOK",
+          "titles": "Ing.",
+          "ballotNumber": 5,
+          "ageAtElection": 47,
+          "occupationOfficial": "primátor mesta",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "mayor",
+          "districtId": null,
+          "sourceId": "dk-mayor-roster-2026"
+        },
+        {
+          "candidateId": "dk-jan-prilepok",
+          "givenName": "Ján",
+          "familyName": "PRÍLEPOK",
+          "titles": "Ing.",
+          "ballotNumber": 16,
+          "ageAtElection": 47,
+          "occupationOfficial": "primátor mesta",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-pavol-adamec",
+      "givenName": "Pavol",
+      "familyName": "ADAMEC",
+      "titles": "",
+      "ageAtElection": 57,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-pavol-adamec",
+          "givenName": "Pavol",
+          "familyName": "ADAMEC",
+          "titles": "",
+          "ballotNumber": 1,
+          "ageAtElection": 57,
+          "occupationOfficial": "vodič",
+          "affiliations": [
+            "Republika"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-pavol-adamec",
+          "givenName": "Pavol",
+          "familyName": "ADAMEC",
+          "titles": "",
+          "ballotNumber": 1,
+          "ageAtElection": 57,
+          "occupationOfficial": "vodič",
+          "affiliations": [
+            "Republika"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-adriana-alleramova",
+      "givenName": "Adriana",
+      "familyName": "ALLERAMOVÁ",
+      "titles": "",
+      "ageAtElection": 58,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-adriana-alleramova",
+          "givenName": "Adriana",
+          "familyName": "ALLERAMOVÁ",
+          "titles": "",
+          "ballotNumber": 2,
+          "ageAtElection": 58,
+          "occupationOfficial": "ekonomická manažérka",
+          "affiliations": [
+            "Demokrati, Progresívne Slovensko"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-stefan-belvoncik",
+      "givenName": "Štefan",
+      "familyName": "BELVONČÍK",
+      "titles": "Ing.",
+      "ageAtElection": 66,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-stefan-belvoncik",
+          "givenName": "Štefan",
+          "familyName": "BELVONČÍK",
+          "titles": "Ing.",
+          "ballotNumber": 3,
+          "ageAtElection": 66,
+          "occupationOfficial": "dôchodca",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-juraj-facko",
+      "givenName": "Juraj",
+      "familyName": "FAČKO",
+      "titles": "",
+      "ageAtElection": 40,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-juraj-facko",
+          "givenName": "Juraj",
+          "familyName": "FAČKO",
+          "titles": "",
+          "ballotNumber": 4,
+          "ageAtElection": 40,
+          "occupationOfficial": "projektant",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-martina-flajsova",
+      "givenName": "Martina",
+      "familyName": "FLAJSOVÁ",
+      "titles": "Mgr.",
+      "ageAtElection": 40,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-martina-flajsova",
+          "givenName": "Martina",
+          "familyName": "FLAJSOVÁ",
+          "titles": "Mgr.",
+          "ballotNumber": 5,
+          "ageAtElection": 40,
+          "occupationOfficial": "učiteľka",
+          "affiliations": [
+            "Kdh - kresťanskodemokratické hnutie"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-peter-janotik",
+      "givenName": "Peter",
+      "familyName": "JANOTÍK",
+      "titles": "Mgr.",
+      "ageAtElection": 59,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-peter-janotik",
+          "givenName": "Peter",
+          "familyName": "JANOTÍK",
+          "titles": "Mgr.",
+          "ballotNumber": 6,
+          "ageAtElection": 59,
+          "occupationOfficial": "pedagóg",
+          "affiliations": [
+            "Hlas - sociálna demokracia"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-martin-joppa",
+      "givenName": "Martin",
+      "familyName": "JOPPA",
+      "titles": "",
+      "ageAtElection": 29,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-martin-joppa",
+          "givenName": "Martin",
+          "familyName": "JOPPA",
+          "titles": "",
+          "ballotNumber": 7,
+          "ageAtElection": 29,
+          "occupationOfficial": "motivátor - mentor",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-maria-kovacikova",
+      "givenName": "Mária",
+      "familyName": "KOVÁČIKOVÁ",
+      "titles": "Mgr.",
+      "ageAtElection": 49,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-maria-kovacikova",
+          "givenName": "Mária",
+          "familyName": "KOVÁČIKOVÁ",
+          "titles": "Mgr.",
+          "ballotNumber": 9,
+          "ageAtElection": 49,
+          "occupationOfficial": "zástupkyňa riaditeľa spojenej školy",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-jan-raclavsky",
+      "givenName": "Ján",
+      "familyName": "RACLAVSKÝ",
+      "titles": "Mgr., MPA",
+      "ageAtElection": 42,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-jan-raclavsky",
+          "givenName": "Ján",
+          "familyName": "RACLAVSKÝ",
+          "titles": "Mgr., MPA",
+          "ballotNumber": 10,
+          "ageAtElection": 42,
+          "occupationOfficial": "manažér v samospráve",
+          "affiliations": [
+            "Demokrati, Progresívne Slovensko"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-martin-stanovsky-30",
+      "givenName": "Martin",
+      "familyName": "STANOVSKÝ",
+      "titles": "MSc, MPA",
+      "ageAtElection": 30,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-martin-stanovsky-30",
+          "givenName": "Martin",
+          "familyName": "STANOVSKÝ",
+          "titles": "MSc, MPA",
+          "ballotNumber": 11,
+          "ageAtElection": 30,
+          "occupationOfficial": "výkonný riaditeľ",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-martin-stanovsky-30",
+          "givenName": "Martin",
+          "familyName": "STANOVSKÝ",
+          "titles": "MSc., MPA",
+          "ballotNumber": 17,
+          "ageAtElection": 30,
+          "occupationOfficial": "výkonný riaditeľ",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-dagmara-sudova",
+      "givenName": "Dagmara",
+      "familyName": "ŠUDOVÁ",
+      "titles": "",
+      "ageAtElection": 46,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-dagmara-sudova",
+          "givenName": "Dagmara",
+          "familyName": "ŠUDOVÁ",
+          "titles": "",
+          "ballotNumber": 12,
+          "ageAtElection": 46,
+          "occupationOfficial": "živnostníčka",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-leonard-vajdulak",
+      "givenName": "Leonard",
+      "familyName": "VAJDULÁK",
+      "titles": "Mgr.",
+      "ageAtElection": 61,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-leonard-vajdulak",
+          "givenName": "Leonard",
+          "familyName": "VAJDULÁK",
+          "titles": "Mgr.",
+          "ballotNumber": 13,
+          "ageAtElection": 61,
+          "occupationOfficial": "učiteľ hudby",
+          "affiliations": [
+            "Starostovia a nezávislí kandidáti"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-1",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-leonard-vajdulak",
+          "givenName": "Leonard",
+          "familyName": "VAJDULÁK",
+          "titles": "Mgr.",
+          "ballotNumber": 20,
+          "ageAtElection": 61,
+          "occupationOfficial": "učiteľ hudby",
+          "affiliations": [
+            "Starostovia a nezávislí kandidáti"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-pavol-baca",
+      "givenName": "Pavol",
+      "familyName": "BAČA",
+      "titles": "Mgr.",
+      "ageAtElection": 55,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-pavol-baca",
+          "givenName": "Pavol",
+          "familyName": "BAČA",
+          "titles": "Mgr.",
+          "ballotNumber": 1,
+          "ageAtElection": 55,
+          "occupationOfficial": "učiteľ",
+          "affiliations": [
+            "Kdh - kresťanskodemokratické hnutie"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-roman-benus",
+      "givenName": "Roman",
+      "familyName": "BEŇUŠ",
+      "titles": "",
+      "ageAtElection": 58,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-roman-benus",
+          "givenName": "Roman",
+          "familyName": "BEŇUŠ",
+          "titles": "",
+          "ballotNumber": 2,
+          "ageAtElection": 58,
+          "occupationOfficial": "podnikateľ",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-jozef-david",
+      "givenName": "Jozef",
+      "familyName": "DAVID",
+      "titles": "Ing.",
+      "ageAtElection": 65,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-jozef-david",
+          "givenName": "Jozef",
+          "familyName": "DAVID",
+          "titles": "Ing.",
+          "ballotNumber": 3,
+          "ageAtElection": 65,
+          "occupationOfficial": "konateľ",
+          "affiliations": [
+            "Starostovia a nezávislí kandidáti"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-miroslav-drab",
+      "givenName": "Miroslav",
+      "familyName": "DRÁB",
+      "titles": "Mgr.",
+      "ageAtElection": 47,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-miroslav-drab",
+          "givenName": "Miroslav",
+          "familyName": "DRÁB",
+          "titles": "Mgr.",
+          "ballotNumber": 4,
+          "ageAtElection": 47,
+          "occupationOfficial": "riaditeľ hokejového klubu",
+          "affiliations": [
+            "Sloboda a solidarita"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-miroslav-drab",
+          "givenName": "Miroslav",
+          "familyName": "DRÁB",
+          "titles": "Mgr.",
+          "ballotNumber": 6,
+          "ageAtElection": 47,
+          "occupationOfficial": "riaditeľ hokejového klubu",
+          "affiliations": [
+            "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-stefan-fecko",
+      "givenName": "Štefan",
+      "familyName": "FECKO",
+      "titles": "",
+      "ageAtElection": 49,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-stefan-fecko",
+          "givenName": "Štefan",
+          "familyName": "FECKO",
+          "titles": "",
+          "ballotNumber": 5,
+          "ageAtElection": 49,
+          "occupationOfficial": "skladník",
+          "affiliations": [
+            "Právo na pravdu"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-stefan-fecko",
+          "givenName": "Štefan",
+          "familyName": "FECKO",
+          "titles": "",
+          "ballotNumber": 7,
+          "ageAtElection": 49,
+          "occupationOfficial": "skladník",
+          "affiliations": [
+            "Právo na pravdu"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-juliana-gregova",
+      "givenName": "Juliana",
+      "familyName": "GREGOVÁ",
+      "titles": "MUDr.",
+      "ageAtElection": 56,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-juliana-gregova",
+          "givenName": "Juliana",
+          "familyName": "GREGOVÁ",
+          "titles": "MUDr.",
+          "ballotNumber": 6,
+          "ageAtElection": 56,
+          "occupationOfficial": "lekárka",
+          "affiliations": [
+            "Kdh - kresťanskodemokratické hnutie"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-jana-gressova",
+      "givenName": "Jana",
+      "familyName": "GREŠŠOVÁ",
+      "titles": "Mgr.",
+      "ageAtElection": 47,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-jana-gressova",
+          "givenName": "Jana",
+          "familyName": "GREŠŠOVÁ",
+          "titles": "Mgr.",
+          "ballotNumber": 7,
+          "ageAtElection": 47,
+          "occupationOfficial": "učiteľka ZUŠ",
+          "affiliations": [
+            "Demokrati, Progresívne Slovensko"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-vladimira-grisova",
+      "givenName": "Vladimíra",
+      "familyName": "GRÍSOVÁ",
+      "titles": "",
+      "ageAtElection": 45,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-vladimira-grisova",
+          "givenName": "Vladimíra",
+          "familyName": "GRÍSOVÁ",
+          "titles": "",
+          "ballotNumber": 8,
+          "ageAtElection": 45,
+          "occupationOfficial": "referentka",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-peter-jonak",
+      "givenName": "Peter",
+      "familyName": "JONÁK",
+      "titles": "Mgr.",
+      "ageAtElection": 44,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-peter-jonak",
+          "givenName": "Peter",
+          "familyName": "JONÁK",
+          "titles": "Mgr.",
+          "ballotNumber": 9,
+          "ageAtElection": 44,
+          "occupationOfficial": "konateľ",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-peter-jonak",
+          "givenName": "Peter",
+          "familyName": "JONÁK",
+          "titles": "Mgr.",
+          "ballotNumber": 9,
+          "ageAtElection": 44,
+          "occupationOfficial": "konateľ",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-matus-lakostik",
+      "givenName": "Matúš",
+      "familyName": "LAKOŠTÍK",
+      "titles": "Mgr., PhD.",
+      "ageAtElection": 45,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-matus-lakostik",
+          "givenName": "Matúš",
+          "familyName": "LAKOŠTÍK",
+          "titles": "Mgr., PhD.",
+          "ballotNumber": 10,
+          "ageAtElection": 45,
+          "occupationOfficial": "zástupca primátora",
+          "affiliations": [
+            "Kdh - kresťanskodemokratické hnutie"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-michal-lavrik",
+      "givenName": "Michal",
+      "familyName": "LAVRÍK",
+      "titles": "PhDr., PhD.",
+      "ageAtElection": 52,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-michal-lavrik",
+          "givenName": "Michal",
+          "familyName": "LAVRÍK",
+          "titles": "PhDr., PhD.",
+          "ballotNumber": 11,
+          "ageAtElection": 52,
+          "occupationOfficial": "riaditeľ úradu",
+          "affiliations": [
+            "Hlas - sociálna demokracia"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-michal-lavrik",
+          "givenName": "Michal",
+          "familyName": "LAVRÍK",
+          "titles": "PhDr., PhD.",
+          "ballotNumber": 12,
+          "ageAtElection": 52,
+          "occupationOfficial": "riaditeľ centra podpory",
+          "affiliations": [
+            "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-pavol-lorko",
+      "givenName": "Pavol",
+      "familyName": "ĽORKO",
+      "titles": "Mgr.",
+      "ageAtElection": 55,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-pavol-lorko",
+          "givenName": "Pavol",
+          "familyName": "ĽORKO",
+          "titles": "Mgr.",
+          "ballotNumber": 12,
+          "ageAtElection": 55,
+          "occupationOfficial": "sprievodca v cestovnom ruchu",
+          "affiliations": [
+            "Demokrati, Progresívne Slovensko"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-pavol-lorko",
+          "givenName": "Pavol",
+          "familyName": "ĽORKO",
+          "titles": "",
+          "ballotNumber": 13,
+          "ageAtElection": 55,
+          "occupationOfficial": "sprievodca v cestovnom ruchu",
+          "affiliations": [
+            "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-roman-markulcek",
+      "givenName": "Roman",
+      "familyName": "MARKULČEK",
+      "titles": "Mgr.",
+      "ageAtElection": 54,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-roman-markulcek",
+          "givenName": "Roman",
+          "familyName": "MARKULČEK",
+          "titles": "Mgr.",
+          "ballotNumber": 13,
+          "ageAtElection": 54,
+          "occupationOfficial": "štátny zamestnanec",
+          "affiliations": [
+            "Smer - sociálna demokracia"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-martin-stanovsky-53",
+      "givenName": "Martin",
+      "familyName": "STANOVSKÝ",
+      "titles": "",
+      "ageAtElection": 53,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-martin-stanovsky-53",
+          "givenName": "Martin",
+          "familyName": "STANOVSKÝ",
+          "titles": "",
+          "ballotNumber": 15,
+          "ageAtElection": 53,
+          "occupationOfficial": "podnikateľ",
+          "affiliations": [
+            "Hlas - sociálna demokracia"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-peter-strezo",
+      "givenName": "Peter",
+      "familyName": "STREŽO",
+      "titles": "RNDr.",
+      "ageAtElection": 47,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-peter-strezo",
+          "givenName": "Peter",
+          "familyName": "STREŽO",
+          "titles": "RNDr.",
+          "ballotNumber": 16,
+          "ageAtElection": 47,
+          "occupationOfficial": "riaditeľ školy",
+          "affiliations": [
+            "Kdh - kresťanskodemokratické hnutie"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-elena-sunalova",
+      "givenName": "Elena",
+      "familyName": "ŠUŇALOVÁ",
+      "titles": "MUDr.",
+      "ageAtElection": 55,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-elena-sunalova",
+          "givenName": "Elena",
+          "familyName": "ŠUŇALOVÁ",
+          "titles": "MUDr.",
+          "ballotNumber": 17,
+          "ageAtElection": 55,
+          "occupationOfficial": "lekárka",
+          "affiliations": [
+            "Slovenská národná strana"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-2",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-elena-sunalova",
+          "givenName": "Elena",
+          "familyName": "ŠUŇALOVÁ",
+          "titles": "MUDr.",
+          "ballotNumber": 18,
+          "ageAtElection": 55,
+          "occupationOfficial": "lekárka",
+          "affiliations": [
+            "Slovenská národná strana"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-radoslava-bencurova",
+      "givenName": "Radoslava",
+      "familyName": "BENCÚROVÁ",
+      "titles": "JUDr.",
+      "ageAtElection": 46,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-radoslava-bencurova",
+          "givenName": "Radoslava",
+          "familyName": "BENCÚROVÁ",
+          "titles": "JUDr.",
+          "ballotNumber": 1,
+          "ageAtElection": 46,
+          "occupationOfficial": "advokátka",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-renata-brodnanska",
+      "givenName": "Renáta",
+      "familyName": "BRODŇANSKÁ",
+      "titles": "Bc.",
+      "ageAtElection": 60,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-renata-brodnanska",
+          "givenName": "Renáta",
+          "familyName": "BRODŇANSKÁ",
+          "titles": "Bc.",
+          "ballotNumber": 2,
+          "ageAtElection": 60,
+          "occupationOfficial": "vedúca fyzioterapeutka",
+          "affiliations": [
+            "Kdh - kresťanskodemokratické hnutie"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-ondrej-bukna",
+      "givenName": "Ondrej",
+      "familyName": "BUKNA",
+      "titles": "JUDr.",
+      "ageAtElection": 44,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-ondrej-bukna",
+          "givenName": "Ondrej",
+          "familyName": "BUKNA",
+          "titles": "JUDr.",
+          "ballotNumber": 4,
+          "ageAtElection": 44,
+          "occupationOfficial": "advokát",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-tomas-gajdos",
+      "givenName": "Tomáš",
+      "familyName": "GAJDOŠ",
+      "titles": "",
+      "ageAtElection": 43,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-tomas-gajdos",
+          "givenName": "Tomáš",
+          "familyName": "GAJDOŠ",
+          "titles": "",
+          "ballotNumber": 5,
+          "ageAtElection": 43,
+          "occupationOfficial": "živnostník",
+          "affiliations": [
+            "Kdh - kresťanskodemokratické hnutie"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-jan-havko",
+      "givenName": "Ján",
+      "familyName": "HAVKO",
+      "titles": "",
+      "ageAtElection": 54,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-jan-havko",
+          "givenName": "Ján",
+          "familyName": "HAVKO",
+          "titles": "",
+          "ballotNumber": 6,
+          "ageAtElection": 54,
+          "occupationOfficial": "živnostník",
+          "affiliations": [
+            "Slovenská národná strana"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-radoslav-kovacik",
+      "givenName": "Radoslav",
+      "familyName": "KOVÁČIK",
+      "titles": "RSc.",
+      "ageAtElection": 46,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-radoslav-kovacik",
+          "givenName": "Radoslav",
+          "familyName": "KOVÁČIK",
+          "titles": "RSc.",
+          "ballotNumber": 7,
+          "ageAtElection": 46,
+          "occupationOfficial": "podnikateľ v oblasti bývania a služieb",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-matus-kubas",
+      "givenName": "Matúš",
+      "familyName": "KUBAS",
+      "titles": "Ing.",
+      "ageAtElection": 28,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-matus-kubas",
+          "givenName": "Matúš",
+          "familyName": "KUBAS",
+          "titles": "Ing.",
+          "ballotNumber": 8,
+          "ageAtElection": 28,
+          "occupationOfficial": "elektrikár",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-jozef-maslan",
+      "givenName": "Jozef",
+      "familyName": "MASLAN",
+      "titles": "",
+      "ageAtElection": 42,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-jozef-maslan",
+          "givenName": "Jozef",
+          "familyName": "MASLAN",
+          "titles": "",
+          "ballotNumber": 9,
+          "ageAtElection": 42,
+          "occupationOfficial": "projektový manažér stavieb",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-sona-mihalikova",
+      "givenName": "Soňa",
+      "familyName": "MIHÁLIKOVÁ",
+      "titles": "PhDr.",
+      "ageAtElection": 59,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-sona-mihalikova",
+          "givenName": "Soňa",
+          "familyName": "MIHÁLIKOVÁ",
+          "titles": "PhDr.",
+          "ballotNumber": 10,
+          "ageAtElection": 59,
+          "occupationOfficial": "riaditeľka",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-peter-toman",
+      "givenName": "Peter",
+      "familyName": "TOMÁŇ",
+      "titles": "Ing.",
+      "ageAtElection": 53,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-peter-toman",
+          "givenName": "Peter",
+          "familyName": "TOMÁŇ",
+          "titles": "Ing.",
+          "ballotNumber": 11,
+          "ageAtElection": 53,
+          "occupationOfficial": "odborný prírodovedný pracovník",
+          "affiliations": [
+            "Bratia Slovenska"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-3",
+          "sourceId": "dk-city-council-roster-2026"
+        },
+        {
+          "candidateId": "dk-peter-toman",
+          "givenName": "Peter",
+          "familyName": "TOMÁŇ",
+          "titles": "Ing.",
+          "ballotNumber": 19,
+          "ageAtElection": 53,
+          "occupationOfficial": "odborný prírodovedný pracovník",
+          "affiliations": [
+            "Bratia Slovenska"
+          ],
+          "independent": false,
+          "municipality": "Dolný Kubín",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-peter-kajan",
+      "givenName": "Peter",
+      "familyName": "KAJAN",
+      "titles": "Mgr.",
+      "ageAtElection": 39,
+      "municipality": "Dolný Kubín",
+      "candidacies": [
+        {
+          "candidateId": "dk-peter-kajan",
+          "givenName": "Peter",
+          "familyName": "KAJAN",
+          "titles": "Mgr.",
+          "ballotNumber": 1,
+          "ageAtElection": 39,
+          "occupationOfficial": "ekonóm mestskej spoločnosti",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Dolný Kubín",
+          "electionId": "city-council",
+          "districtId": "2026-dk-city-4",
+          "sourceId": "dk-city-council-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-peter-benus",
+      "givenName": "Peter",
+      "familyName": "BEŇUŠ",
+      "titles": "PhDr.",
+      "ageAtElection": 51,
+      "municipality": "Bziny",
+      "candidacies": [
+        {
+          "candidateId": "dk-peter-benus",
+          "givenName": "Peter",
+          "familyName": "BEŇUŠ",
+          "titles": "PhDr.",
+          "ballotNumber": 2,
+          "ageAtElection": 51,
+          "occupationOfficial": "učiteľ autoškoly",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Bziny",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-jozef-brtos",
+      "givenName": "Jozef",
+      "familyName": "BRTOŠ",
+      "titles": "",
+      "ageAtElection": 61,
+      "municipality": "Bziny",
+      "candidacies": [
+        {
+          "candidateId": "dk-jozef-brtos",
+          "givenName": "Jozef",
+          "familyName": "BRTOŠ",
+          "titles": "",
+          "ballotNumber": 3,
+          "ageAtElection": 61,
+          "occupationOfficial": "živnostník",
+          "affiliations": [
+            "Slovenská národná strana"
+          ],
+          "independent": false,
+          "municipality": "Bziny",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-tatiana-cervenova",
+      "givenName": "Tatiana",
+      "familyName": "ČERVEŇOVÁ",
+      "titles": "Ing.",
+      "ageAtElection": 41,
+      "municipality": "Malatiná",
+      "candidacies": [
+        {
+          "candidateId": "dk-tatiana-cervenova",
+          "givenName": "Tatiana",
+          "familyName": "ČERVEŇOVÁ",
+          "titles": "Ing.",
+          "ballotNumber": 5,
+          "ageAtElection": 41,
+          "occupationOfficial": "starostka obce",
+          "affiliations": [],
+          "independent": true,
+          "municipality": "Malatiná",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-michal-hareznik",
+      "givenName": "Michal",
+      "familyName": "HAREZNÍK",
+      "titles": "",
+      "ageAtElection": 48,
+      "municipality": "Oravský Podzámok",
+      "candidacies": [
+        {
+          "candidateId": "dk-michal-hareznik",
+          "givenName": "Michal",
+          "familyName": "HAREZNÍK",
+          "titles": "",
+          "ballotNumber": 8,
+          "ageAtElection": 48,
+          "occupationOfficial": "konateľ spoločnosti",
+          "affiliations": [
+            "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+          ],
+          "independent": false,
+          "municipality": "Oravský Podzámok",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-zuzana-katreniakova",
+      "givenName": "Zuzana",
+      "familyName": "KATRENIAKOVÁ",
+      "titles": "Mgr.",
+      "ageAtElection": 46,
+      "municipality": "Istebné",
+      "candidacies": [
+        {
+          "candidateId": "dk-zuzana-katreniakova",
+          "givenName": "Zuzana",
+          "familyName": "KATRENIAKOVÁ",
+          "titles": "Mgr.",
+          "ballotNumber": 10,
+          "ageAtElection": 46,
+          "occupationOfficial": "administratívna pracovníčka",
+          "affiliations": [
+            "Strana vidieka"
+          ],
+          "independent": false,
+          "municipality": "Istebné",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-zdenko-kuban",
+      "givenName": "Zdenko",
+      "familyName": "KUBÁŇ",
+      "titles": "Mgr.",
+      "ageAtElection": 46,
+      "municipality": "Malatiná",
+      "candidacies": [
+        {
+          "candidateId": "dk-zdenko-kuban",
+          "givenName": "Zdenko",
+          "familyName": "KUBÁŇ",
+          "titles": "Mgr.",
+          "ballotNumber": 11,
+          "ageAtElection": 46,
+          "occupationOfficial": "poslanec samosprávneho kraja, administratívny pracovník",
+          "affiliations": [
+            "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+          ],
+          "independent": false,
+          "municipality": "Malatiná",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-matus-mnich",
+      "givenName": "Matúš",
+      "familyName": "MNÍCH",
+      "titles": "JUDr.",
+      "ageAtElection": 64,
+      "municipality": "Zázrivá",
+      "candidacies": [
+        {
+          "candidateId": "dk-matus-mnich",
+          "givenName": "Matúš",
+          "familyName": "MNÍCH",
+          "titles": "JUDr.",
+          "ballotNumber": 14,
+          "ageAtElection": 64,
+          "occupationOfficial": "starosta obce",
+          "affiliations": [
+            "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+          ],
+          "independent": false,
+          "municipality": "Zázrivá",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    },
+    {
+      "candidateId": "dk-adam-molnar",
+      "givenName": "Adam",
+      "familyName": "MOLNÁR",
+      "titles": "",
+      "ageAtElection": 21,
+      "municipality": "Bziny",
+      "candidacies": [
+        {
+          "candidateId": "dk-adam-molnar",
+          "givenName": "Adam",
+          "familyName": "MOLNÁR",
+          "titles": "",
+          "ballotNumber": 15,
+          "ageAtElection": 21,
+          "occupationOfficial": "študent",
+          "affiliations": [
+            "Strana vidieka"
+          ],
+          "independent": false,
+          "municipality": "Bziny",
+          "electionId": "region-council",
+          "districtId": "2026-zsk-region-3",
+          "sourceId": "dk-zsk-district-3-roster-2026"
+        }
+      ]
+    }
+  ],
+  "candidacies": [
+    {
+      "candidateId": "dk-jan-briestensky",
+      "givenName": "Ján",
+      "familyName": "BRIESTENSKÝ",
+      "titles": "",
+      "ballotNumber": 1,
+      "ageAtElection": 54,
+      "occupationOfficial": "podnikateľ",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "mayor",
+      "districtId": null,
+      "sourceId": "dk-mayor-roster-2026"
+    },
+    {
+      "candidateId": "dk-katarina-brunckova",
+      "givenName": "Katarína",
+      "familyName": "BRUNCKOVÁ",
+      "titles": "JUDr., Bc., PhD.",
+      "ballotNumber": 2,
+      "ageAtElection": 47,
+      "occupationOfficial": "advokátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "mayor",
+      "districtId": null,
+      "sourceId": "dk-mayor-roster-2026"
+    },
+    {
+      "candidateId": "dk-emilia-jurcikova",
+      "givenName": "Emília",
+      "familyName": "JURČÍKOVÁ",
+      "titles": "PaedDr.",
+      "ballotNumber": 3,
+      "ageAtElection": 64,
+      "occupationOfficial": "riaditeľka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "mayor",
+      "districtId": null,
+      "sourceId": "dk-mayor-roster-2026"
+    },
+    {
+      "candidateId": "dk-jan-marsinsky",
+      "givenName": "Ján",
+      "familyName": "MARŠINSKÝ",
+      "titles": "Ing.",
+      "ballotNumber": 4,
+      "ageAtElection": 48,
+      "occupationOfficial": "SZČO",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "mayor",
+      "districtId": null,
+      "sourceId": "dk-mayor-roster-2026"
+    },
+    {
+      "candidateId": "dk-jan-prilepok",
+      "givenName": "Ján",
+      "familyName": "PRÍLEPOK",
+      "titles": "Ing.",
+      "ballotNumber": 5,
+      "ageAtElection": 47,
+      "occupationOfficial": "primátor mesta",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "mayor",
+      "districtId": null,
+      "sourceId": "dk-mayor-roster-2026"
+    },
+    {
+      "candidateId": "dk-pavol-adamec",
+      "givenName": "Pavol",
+      "familyName": "ADAMEC",
+      "titles": "",
+      "ballotNumber": 1,
+      "ageAtElection": 57,
+      "occupationOfficial": "vodič",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-adriana-alleramova",
+      "givenName": "Adriana",
+      "familyName": "ALLERAMOVÁ",
+      "titles": "",
+      "ballotNumber": 2,
+      "ageAtElection": 58,
+      "occupationOfficial": "ekonomická manažérka",
+      "affiliations": [
+        "Demokrati, Progresívne Slovensko"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-stefan-belvoncik",
+      "givenName": "Štefan",
+      "familyName": "BELVONČÍK",
+      "titles": "Ing.",
+      "ballotNumber": 3,
+      "ageAtElection": 66,
+      "occupationOfficial": "dôchodca",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-juraj-facko",
+      "givenName": "Juraj",
+      "familyName": "FAČKO",
+      "titles": "",
+      "ballotNumber": 4,
+      "ageAtElection": 40,
+      "occupationOfficial": "projektant",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-martina-flajsova",
+      "givenName": "Martina",
+      "familyName": "FLAJSOVÁ",
+      "titles": "Mgr.",
+      "ballotNumber": 5,
+      "ageAtElection": 40,
+      "occupationOfficial": "učiteľka",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-peter-janotik",
+      "givenName": "Peter",
+      "familyName": "JANOTÍK",
+      "titles": "Mgr.",
+      "ballotNumber": 6,
+      "ageAtElection": 59,
+      "occupationOfficial": "pedagóg",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-martin-joppa",
+      "givenName": "Martin",
+      "familyName": "JOPPA",
+      "titles": "",
+      "ballotNumber": 7,
+      "ageAtElection": 29,
+      "occupationOfficial": "motivátor - mentor",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-emilia-jurcikova",
+      "givenName": "Emília",
+      "familyName": "JURČÍKOVÁ",
+      "titles": "PaedDr.",
+      "ballotNumber": 8,
+      "ageAtElection": 64,
+      "occupationOfficial": "riaditeľka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-maria-kovacikova",
+      "givenName": "Mária",
+      "familyName": "KOVÁČIKOVÁ",
+      "titles": "Mgr.",
+      "ballotNumber": 9,
+      "ageAtElection": 49,
+      "occupationOfficial": "zástupkyňa riaditeľa spojenej školy",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-jan-raclavsky",
+      "givenName": "Ján",
+      "familyName": "RACLAVSKÝ",
+      "titles": "Mgr., MPA",
+      "ballotNumber": 10,
+      "ageAtElection": 42,
+      "occupationOfficial": "manažér v samospráve",
+      "affiliations": [
+        "Demokrati, Progresívne Slovensko"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-martin-stanovsky-30",
+      "givenName": "Martin",
+      "familyName": "STANOVSKÝ",
+      "titles": "MSc, MPA",
+      "ballotNumber": 11,
+      "ageAtElection": 30,
+      "occupationOfficial": "výkonný riaditeľ",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-dagmara-sudova",
+      "givenName": "Dagmara",
+      "familyName": "ŠUDOVÁ",
+      "titles": "",
+      "ballotNumber": 12,
+      "ageAtElection": 46,
+      "occupationOfficial": "živnostníčka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-leonard-vajdulak",
+      "givenName": "Leonard",
+      "familyName": "VAJDULÁK",
+      "titles": "Mgr.",
+      "ballotNumber": 13,
+      "ageAtElection": 61,
+      "occupationOfficial": "učiteľ hudby",
+      "affiliations": [
+        "Starostovia a nezávislí kandidáti"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-1",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-pavol-baca",
+      "givenName": "Pavol",
+      "familyName": "BAČA",
+      "titles": "Mgr.",
+      "ballotNumber": 1,
+      "ageAtElection": 55,
+      "occupationOfficial": "učiteľ",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-roman-benus",
+      "givenName": "Roman",
+      "familyName": "BEŇUŠ",
+      "titles": "",
+      "ballotNumber": 2,
+      "ageAtElection": 58,
+      "occupationOfficial": "podnikateľ",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-jozef-david",
+      "givenName": "Jozef",
+      "familyName": "DAVID",
+      "titles": "Ing.",
+      "ballotNumber": 3,
+      "ageAtElection": 65,
+      "occupationOfficial": "konateľ",
+      "affiliations": [
+        "Starostovia a nezávislí kandidáti"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-miroslav-drab",
+      "givenName": "Miroslav",
+      "familyName": "DRÁB",
+      "titles": "Mgr.",
+      "ballotNumber": 4,
+      "ageAtElection": 47,
+      "occupationOfficial": "riaditeľ hokejového klubu",
+      "affiliations": [
+        "Sloboda a solidarita"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-stefan-fecko",
+      "givenName": "Štefan",
+      "familyName": "FECKO",
+      "titles": "",
+      "ballotNumber": 5,
+      "ageAtElection": 49,
+      "occupationOfficial": "skladník",
+      "affiliations": [
+        "Právo na pravdu"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-juliana-gregova",
+      "givenName": "Juliana",
+      "familyName": "GREGOVÁ",
+      "titles": "MUDr.",
+      "ballotNumber": 6,
+      "ageAtElection": 56,
+      "occupationOfficial": "lekárka",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-jana-gressova",
+      "givenName": "Jana",
+      "familyName": "GREŠŠOVÁ",
+      "titles": "Mgr.",
+      "ballotNumber": 7,
+      "ageAtElection": 47,
+      "occupationOfficial": "učiteľka ZUŠ",
+      "affiliations": [
+        "Demokrati, Progresívne Slovensko"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-vladimira-grisova",
+      "givenName": "Vladimíra",
+      "familyName": "GRÍSOVÁ",
+      "titles": "",
+      "ballotNumber": 8,
+      "ageAtElection": 45,
+      "occupationOfficial": "referentka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-peter-jonak",
+      "givenName": "Peter",
+      "familyName": "JONÁK",
+      "titles": "Mgr.",
+      "ballotNumber": 9,
+      "ageAtElection": 44,
+      "occupationOfficial": "konateľ",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-matus-lakostik",
+      "givenName": "Matúš",
+      "familyName": "LAKOŠTÍK",
+      "titles": "Mgr., PhD.",
+      "ballotNumber": 10,
+      "ageAtElection": 45,
+      "occupationOfficial": "zástupca primátora",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-michal-lavrik",
+      "givenName": "Michal",
+      "familyName": "LAVRÍK",
+      "titles": "PhDr., PhD.",
+      "ballotNumber": 11,
+      "ageAtElection": 52,
+      "occupationOfficial": "riaditeľ úradu",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-pavol-lorko",
+      "givenName": "Pavol",
+      "familyName": "ĽORKO",
+      "titles": "Mgr.",
+      "ballotNumber": 12,
+      "ageAtElection": 55,
+      "occupationOfficial": "sprievodca v cestovnom ruchu",
+      "affiliations": [
+        "Demokrati, Progresívne Slovensko"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-roman-markulcek",
+      "givenName": "Roman",
+      "familyName": "MARKULČEK",
+      "titles": "Mgr.",
+      "ballotNumber": 13,
+      "ageAtElection": 54,
+      "occupationOfficial": "štátny zamestnanec",
+      "affiliations": [
+        "Smer - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-jan-marsinsky",
+      "givenName": "Ján",
+      "familyName": "MARŠINSKÝ",
+      "titles": "Ing.",
+      "ballotNumber": 14,
+      "ageAtElection": 48,
+      "occupationOfficial": "SZČO",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-martin-stanovsky-53",
+      "givenName": "Martin",
+      "familyName": "STANOVSKÝ",
+      "titles": "",
+      "ballotNumber": 15,
+      "ageAtElection": 53,
+      "occupationOfficial": "podnikateľ",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-peter-strezo",
+      "givenName": "Peter",
+      "familyName": "STREŽO",
+      "titles": "RNDr.",
+      "ballotNumber": 16,
+      "ageAtElection": 47,
+      "occupationOfficial": "riaditeľ školy",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-elena-sunalova",
+      "givenName": "Elena",
+      "familyName": "ŠUŇALOVÁ",
+      "titles": "MUDr.",
+      "ballotNumber": 17,
+      "ageAtElection": 55,
+      "occupationOfficial": "lekárka",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-2",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-radoslava-bencurova",
+      "givenName": "Radoslava",
+      "familyName": "BENCÚROVÁ",
+      "titles": "JUDr.",
+      "ballotNumber": 1,
+      "ageAtElection": 46,
+      "occupationOfficial": "advokátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-renata-brodnanska",
+      "givenName": "Renáta",
+      "familyName": "BRODŇANSKÁ",
+      "titles": "Bc.",
+      "ballotNumber": 2,
+      "ageAtElection": 60,
+      "occupationOfficial": "vedúca fyzioterapeutka",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-katarina-brunckova",
+      "givenName": "Katarína",
+      "familyName": "BRUNCKOVÁ",
+      "titles": "JUDr., Bc., PhD.",
+      "ballotNumber": 3,
+      "ageAtElection": 47,
+      "occupationOfficial": "advokátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-ondrej-bukna",
+      "givenName": "Ondrej",
+      "familyName": "BUKNA",
+      "titles": "JUDr.",
+      "ballotNumber": 4,
+      "ageAtElection": 44,
+      "occupationOfficial": "advokát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-tomas-gajdos",
+      "givenName": "Tomáš",
+      "familyName": "GAJDOŠ",
+      "titles": "",
+      "ballotNumber": 5,
+      "ageAtElection": 43,
+      "occupationOfficial": "živnostník",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-jan-havko",
+      "givenName": "Ján",
+      "familyName": "HAVKO",
+      "titles": "",
+      "ballotNumber": 6,
+      "ageAtElection": 54,
+      "occupationOfficial": "živnostník",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-radoslav-kovacik",
+      "givenName": "Radoslav",
+      "familyName": "KOVÁČIK",
+      "titles": "RSc.",
+      "ballotNumber": 7,
+      "ageAtElection": 46,
+      "occupationOfficial": "podnikateľ v oblasti bývania a služieb",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-matus-kubas",
+      "givenName": "Matúš",
+      "familyName": "KUBAS",
+      "titles": "Ing.",
+      "ballotNumber": 8,
+      "ageAtElection": 28,
+      "occupationOfficial": "elektrikár",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-jozef-maslan",
+      "givenName": "Jozef",
+      "familyName": "MASLAN",
+      "titles": "",
+      "ballotNumber": 9,
+      "ageAtElection": 42,
+      "occupationOfficial": "projektový manažér stavieb",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-sona-mihalikova",
+      "givenName": "Soňa",
+      "familyName": "MIHÁLIKOVÁ",
+      "titles": "PhDr.",
+      "ballotNumber": 10,
+      "ageAtElection": 59,
+      "occupationOfficial": "riaditeľka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-peter-toman",
+      "givenName": "Peter",
+      "familyName": "TOMÁŇ",
+      "titles": "Ing.",
+      "ballotNumber": 11,
+      "ageAtElection": 53,
+      "occupationOfficial": "odborný prírodovedný pracovník",
+      "affiliations": [
+        "Bratia Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-3",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-peter-kajan",
+      "givenName": "Peter",
+      "familyName": "KAJAN",
+      "titles": "Mgr.",
+      "ballotNumber": 1,
+      "ageAtElection": 39,
+      "occupationOfficial": "ekonóm mestskej spoločnosti",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "city-council",
+      "districtId": "2026-dk-city-4",
+      "sourceId": "dk-city-council-roster-2026"
+    },
+    {
+      "candidateId": "dk-pavol-adamec",
+      "givenName": "Pavol",
+      "familyName": "ADAMEC",
+      "titles": "",
+      "ballotNumber": 1,
+      "ageAtElection": 57,
+      "occupationOfficial": "vodič",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-peter-benus",
+      "givenName": "Peter",
+      "familyName": "BEŇUŠ",
+      "titles": "PhDr.",
+      "ballotNumber": 2,
+      "ageAtElection": 51,
+      "occupationOfficial": "učiteľ autoškoly",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Bziny",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-jozef-brtos",
+      "givenName": "Jozef",
+      "familyName": "BRTOŠ",
+      "titles": "",
+      "ballotNumber": 3,
+      "ageAtElection": 61,
+      "occupationOfficial": "živnostník",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "municipality": "Bziny",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-katarina-brunckova",
+      "givenName": "Katarína",
+      "familyName": "BRUNCKOVÁ",
+      "titles": "JUDr. Bc., PhD.",
+      "ballotNumber": 4,
+      "ageAtElection": 47,
+      "occupationOfficial": "advokátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-tatiana-cervenova",
+      "givenName": "Tatiana",
+      "familyName": "ČERVEŇOVÁ",
+      "titles": "Ing.",
+      "ballotNumber": 5,
+      "ageAtElection": 41,
+      "occupationOfficial": "starostka obce",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Malatiná",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-miroslav-drab",
+      "givenName": "Miroslav",
+      "familyName": "DRÁB",
+      "titles": "Mgr.",
+      "ballotNumber": 6,
+      "ageAtElection": 47,
+      "occupationOfficial": "riaditeľ hokejového klubu",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-stefan-fecko",
+      "givenName": "Štefan",
+      "familyName": "FECKO",
+      "titles": "",
+      "ballotNumber": 7,
+      "ageAtElection": 49,
+      "occupationOfficial": "skladník",
+      "affiliations": [
+        "Právo na pravdu"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-michal-hareznik",
+      "givenName": "Michal",
+      "familyName": "HAREZNÍK",
+      "titles": "",
+      "ballotNumber": 8,
+      "ageAtElection": 48,
+      "occupationOfficial": "konateľ spoločnosti",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "municipality": "Oravský Podzámok",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-peter-jonak",
+      "givenName": "Peter",
+      "familyName": "JONÁK",
+      "titles": "Mgr.",
+      "ballotNumber": 9,
+      "ageAtElection": 44,
+      "occupationOfficial": "konateľ",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-zuzana-katreniakova",
+      "givenName": "Zuzana",
+      "familyName": "KATRENIAKOVÁ",
+      "titles": "Mgr.",
+      "ballotNumber": 10,
+      "ageAtElection": 46,
+      "occupationOfficial": "administratívna pracovníčka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Istebné",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-zdenko-kuban",
+      "givenName": "Zdenko",
+      "familyName": "KUBÁŇ",
+      "titles": "Mgr.",
+      "ballotNumber": 11,
+      "ageAtElection": 46,
+      "occupationOfficial": "poslanec samosprávneho kraja, administratívny pracovník",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "municipality": "Malatiná",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-michal-lavrik",
+      "givenName": "Michal",
+      "familyName": "LAVRÍK",
+      "titles": "PhDr., PhD.",
+      "ballotNumber": 12,
+      "ageAtElection": 52,
+      "occupationOfficial": "riaditeľ centra podpory",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-pavol-lorko",
+      "givenName": "Pavol",
+      "familyName": "ĽORKO",
+      "titles": "",
+      "ballotNumber": 13,
+      "ageAtElection": 55,
+      "occupationOfficial": "sprievodca v cestovnom ruchu",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-matus-mnich",
+      "givenName": "Matúš",
+      "familyName": "MNÍCH",
+      "titles": "JUDr.",
+      "ballotNumber": 14,
+      "ageAtElection": 64,
+      "occupationOfficial": "starosta obce",
+      "affiliations": [
+        "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+      ],
+      "independent": false,
+      "municipality": "Zázrivá",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-adam-molnar",
+      "givenName": "Adam",
+      "familyName": "MOLNÁR",
+      "titles": "",
+      "ballotNumber": 15,
+      "ageAtElection": 21,
+      "occupationOfficial": "študent",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Bziny",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-jan-prilepok",
+      "givenName": "Ján",
+      "familyName": "PRÍLEPOK",
+      "titles": "Ing.",
+      "ballotNumber": 16,
+      "ageAtElection": 47,
+      "occupationOfficial": "primátor mesta",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-martin-stanovsky-30",
+      "givenName": "Martin",
+      "familyName": "STANOVSKÝ",
+      "titles": "MSc., MPA",
+      "ballotNumber": 17,
+      "ageAtElection": 30,
+      "occupationOfficial": "výkonný riaditeľ",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-elena-sunalova",
+      "givenName": "Elena",
+      "familyName": "ŠUŇALOVÁ",
+      "titles": "MUDr.",
+      "ballotNumber": 18,
+      "ageAtElection": 55,
+      "occupationOfficial": "lekárka",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-peter-toman",
+      "givenName": "Peter",
+      "familyName": "TOMÁŇ",
+      "titles": "Ing.",
+      "ballotNumber": 19,
+      "ageAtElection": 53,
+      "occupationOfficial": "odborný prírodovedný pracovník",
+      "affiliations": [
+        "Bratia Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    },
+    {
+      "candidateId": "dk-leonard-vajdulak",
+      "givenName": "Leonard",
+      "familyName": "VAJDULÁK",
+      "titles": "Mgr.",
+      "ballotNumber": 20,
+      "ageAtElection": 61,
+      "occupationOfficial": "učiteľ hudby",
+      "affiliations": [
+        "Starostovia a nezávislí kandidáti"
+      ],
+      "independent": false,
+      "municipality": "Dolný Kubín",
+      "electionId": "region-council",
+      "districtId": "2026-zsk-region-3",
+      "sourceId": "dk-zsk-district-3-roster-2026"
+    }
+  ]
+}

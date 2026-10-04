@@ -27,7 +27,7 @@ test('visitor selects two named candidates using only keyboard and reaches compa
   await page.keyboard.press('Space');
   await tabTo(page, '[data-candidate-card]:visible input[data-compare-candidate="candidate-50"]');
   await page.keyboard.press('Space');
-  expect(new URL(page.url()).searchParams.getAll('kandidat')).toEqual(['candidate-49', 'candidate-50']);
+  await expect.poll(() => new URL(page.url()).searchParams.getAll('kandidat')).toEqual(['candidate-49', 'candidate-50']);
   await tabTo(page, '[data-compare-link]');
   await page.keyboard.press('Enter');
   await expect(page).toHaveURL(/\/porovnat\//);

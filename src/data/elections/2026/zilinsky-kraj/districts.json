@@ -1879,5 +1879,223 @@
       "zsk-districts-seats-2026",
       "za-regional-roster-2026"
     ]
+  },
+  {
+    "id": "2026-dk-city-1",
+    "kind": "city",
+    "number": 1,
+    "name": "Volebný obvod č. 1",
+    "seats": 5,
+    "areas": [
+      "Brezovec"
+    ],
+    "pollingStations": [
+      {
+        "number": 1,
+        "coverage": "Nemocničná, Námestie Jána Vojtaššáka, Nemocnica s poliklinikou.",
+        "address": "Spojená škola, Martina Hattalu 2151, budova MŠ, Odbojárov 1963",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 2,
+        "coverage": "Ľudovíta Štúra, Dukelských hrdinov, Na Ožnici.",
+        "address": "Spojená škola, Martina Hattalu 2151, budova ZŠ, Martina Hattalu 2151",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 3,
+        "coverage": "Martina Hattalu, M. M. Hodžu, Centrum sociálnych služieb Dolný Kubín.",
+        "address": "Spojená škola, Martina Hattalu 2151, budova ZŠ, Martina Hattalu 2151",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 4,
+        "coverage": "Odbojárov, Mierová, Tulská, J. Gagarina, Družby, M. Gaceka, Jána Hollého.",
+        "address": "Spojená škola, Martina Hattalu 2151, budova MŠ, Odbojárov 1963",
+        "sourceId": "dk-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "dk-city-districts-2026",
+      "dk-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-dk-city-2",
+    "kind": "city",
+    "number": 2,
+    "name": "Volebný obvod č. 2",
+    "seats": 6,
+    "areas": [
+      "Veľký Bysterec",
+      "Malý Bysterec",
+      "Beňova Lehota",
+      "Záskalie"
+    ],
+    "pollingStations": [
+      {
+        "number": 5,
+        "coverage": "Na Sihoti.",
+        "address": "Spojená škola, SNP 1199/36, budova MŠ, Na Sihoti 1163/35",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 6,
+        "coverage": "Bysterecká, Lucenkova, Nad brehmi.",
+        "address": "Mestské kultúrne stredisko, Námestie Slobody 1269/3",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 7,
+        "coverage": "Hurbanova, SNP, Námestie Slobody.",
+        "address": "Spojená škola, SNP 1199/36, budova ZŠ, SNP 1199/36",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 8,
+        "coverage": "Športovcov, Pelhřimovská.",
+        "address": "Spojená škola, SNP 1199/36, budova ZŠ, SNP 1199/36",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 9,
+        "coverage": "Okružná.",
+        "address": "Cirkevná spojená škola, Okružná 2062/25",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 10,
+        "coverage": "Zochova, Bohúňova, MDD, MDŽ, Generála Svobodu, Fučíkova, Miloša Uhra, Lopušná, Veterná.",
+        "address": "U Bencúrov, Bysterecká 49",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 11,
+        "coverage": "Beňovolehotská.",
+        "address": "Urbársky dom, Beňovolehotská 9/17",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 12,
+        "coverage": "Andreja Halašu, Pltisko, 29. augusta, Jilemnického, Rybárska, Severná, Timravina, Záskalická, Na lánoch, Hôrky.",
+        "address": "Hasičská zbrojnica, Záskalická 703/53",
+        "sourceId": "dk-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "dk-city-districts-2026",
+      "dk-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-dk-city-3",
+    "kind": "city",
+    "number": 3,
+    "name": "Volebný obvod č. 3",
+    "seats": 4,
+    "areas": [
+      "Staré mesto",
+      "Medzihradné",
+      "Banisko",
+      "Srňacie"
+    ],
+    "pollingStations": [
+      {
+        "number": 13,
+        "coverage": "M. R. Štefánika, Československej armády, Staničná, Železničiarov, Bernolákova, Aleja Slobody, J. Ťatliaka, A. Sládkoviča, Obrancov mieru, Radlinského.",
+        "address": "Denné centrum, Obrancov mieru 1769/2",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 14,
+        "coverage": "Samuela Nováka, Gäceľská cesta, Hviezdoslavovo námestie, Kohútov Sad, Matúškova, Janoškova; voliči bez adresy trvalého pobytu.",
+        "address": "Mestský úrad, Hviezdoslavovo námestie 1651/2",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 15,
+        "coverage": "Medzihradská, E. Hroboňovej, Martina Hamuljaka, Šmidkeho, Jána Bottu, Mila Urbana, Na Kopanici, Partizánska cesta (Srňacie).",
+        "address": "Budova mestského výboru, Medzihradská 1300/57",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 16,
+        "coverage": "Chočská, Slnečná.",
+        "address": "Spojená škola, Kohútov sad 1752/4, budova MŠ, Chočská 1585",
+        "sourceId": "dk-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "dk-city-districts-2026",
+      "dk-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-dk-city-4",
+    "kind": "city",
+    "number": 4,
+    "name": "Volebný obvod č. 4",
+    "seats": 1,
+    "areas": [
+      "Kňažia",
+      "Mokraď"
+    ],
+    "pollingStations": [
+      {
+        "number": 17,
+        "coverage": "Kocmál, Kubínska, Mokraďská, Nábrežie Oravy (súp. č. 3441, 499, 533, 610, 613, 626), Priemyselná.",
+        "address": "Hasičská zbrojnica, Mokraďská 606/33",
+        "sourceId": "dk-city-polling-2026"
+      },
+      {
+        "number": 18,
+        "coverage": "9. mája, 1. mája, 28. októbra, Vodárenská, Pod Dúbravou, Nábrežie Oravy (súp. č. 220–252, 3396, 3433), J. A. Komenského, Na Záhumní, Jelšavská, Kalinova, Kpt. Jaroša, Kňažská, Mládežnícka, Pod Čereňou, Kpt. Nálepku.",
+        "address": "Hasičská zbrojnica, J. A. Komenského 270/24",
+        "sourceId": "dk-city-polling-2026"
+      }
+    ],
+    "sourceIds": [
+      "dk-city-districts-2026",
+      "dk-city-polling-2026"
+    ]
+  },
+  {
+    "id": "2026-zsk-region-3",
+    "kind": "region",
+    "number": 3,
+    "name": "Volebný obvod č. 3 – Dolný Kubín",
+    "seats": 3,
+    "areas": [
+      "Bziny",
+      "Dlhá nad Oravou",
+      "Dolný Kubín",
+      "Horná Lehota",
+      "Chlebnice",
+      "Istebné",
+      "Jasenová",
+      "Kraľovany",
+      "Krivá",
+      "Leštiny",
+      "Malatiná",
+      "Medzibrodie nad Oravou",
+      "Oravská Poruba",
+      "Oravský Podzámok",
+      "Osádka",
+      "Párnica",
+      "Pokryváč",
+      "Pribiš",
+      "Pucov",
+      "Sedliacka Dubová",
+      "Veličná",
+      "Vyšný Kubín",
+      "Zázrivá",
+      "Žaškov"
+    ],
+    "pollingStations": [],
+    "sourceIds": [
+      "dk-zsk-districts-seats-2026",
+      "dk-zsk-district-municipalities-2026",
+      "dk-zsk-district-3-roster-2026"
+    ]
   }
 ]

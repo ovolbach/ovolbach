@@ -8967,5 +8967,1079 @@
     "sourceIds": [
       "za-regional-roster-2026"
     ]
+  },
+  {
+    "candidateId": "dk-jan-briestensky",
+    "electionId": "mayor",
+    "ballotNumber": 1,
+    "ageAtElection": 54,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-jan-briestensky-mayor",
+    "contestId": "2026-dk-mayor",
+    "sourceIds": [
+      "dk-mayor-roster-2026"
+    ]
+  },
+  {
+    "candidateId": "dk-katarina-brunckova",
+    "electionId": "mayor",
+    "ballotNumber": 2,
+    "ageAtElection": 47,
+    "occupationOfficial": "advokátka",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-katarina-brunckova-mayor",
+    "contestId": "2026-dk-mayor",
+    "sourceIds": [
+      "dk-mayor-roster-2026"
+    ]
+  },
+  {
+    "candidateId": "dk-emilia-jurcikova",
+    "electionId": "mayor",
+    "ballotNumber": 3,
+    "ageAtElection": 64,
+    "occupationOfficial": "riaditeľka",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-emilia-jurcikova-mayor",
+    "contestId": "2026-dk-mayor",
+    "sourceIds": [
+      "dk-mayor-roster-2026"
+    ]
+  },
+  {
+    "candidateId": "dk-jan-marsinsky",
+    "electionId": "mayor",
+    "ballotNumber": 4,
+    "ageAtElection": 48,
+    "occupationOfficial": "SZČO",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-jan-marsinsky-mayor",
+    "contestId": "2026-dk-mayor",
+    "sourceIds": [
+      "dk-mayor-roster-2026"
+    ]
+  },
+  {
+    "candidateId": "dk-jan-prilepok",
+    "electionId": "mayor",
+    "ballotNumber": 5,
+    "ageAtElection": 47,
+    "occupationOfficial": "primátor mesta",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-jan-prilepok-mayor",
+    "contestId": "2026-dk-mayor",
+    "sourceIds": [
+      "dk-mayor-roster-2026"
+    ]
+  },
+  {
+    "candidateId": "dk-pavol-adamec",
+    "electionId": "city-council",
+    "ballotNumber": 1,
+    "ageAtElection": 57,
+    "occupationOfficial": "vodič",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-pavol-adamec-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-adriana-alleramova",
+    "electionId": "city-council",
+    "ballotNumber": 2,
+    "ageAtElection": 58,
+    "occupationOfficial": "ekonomická manažérka",
+    "affiliations": [
+      "Demokrati, Progresívne Slovensko"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-adriana-alleramova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-stefan-belvoncik",
+    "electionId": "city-council",
+    "ballotNumber": 3,
+    "ageAtElection": 66,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-stefan-belvoncik-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-juraj-facko",
+    "electionId": "city-council",
+    "ballotNumber": 4,
+    "ageAtElection": 40,
+    "occupationOfficial": "projektant",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-juraj-facko-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-martina-flajsova",
+    "electionId": "city-council",
+    "ballotNumber": 5,
+    "ageAtElection": 40,
+    "occupationOfficial": "učiteľka",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-martina-flajsova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-peter-janotik",
+    "electionId": "city-council",
+    "ballotNumber": 6,
+    "ageAtElection": 59,
+    "occupationOfficial": "pedagóg",
+    "affiliations": [
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-peter-janotik-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-martin-joppa",
+    "electionId": "city-council",
+    "ballotNumber": 7,
+    "ageAtElection": 29,
+    "occupationOfficial": "motivátor - mentor",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-martin-joppa-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-emilia-jurcikova",
+    "electionId": "city-council",
+    "ballotNumber": 8,
+    "ageAtElection": 64,
+    "occupationOfficial": "riaditeľka",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-emilia-jurcikova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-maria-kovacikova",
+    "electionId": "city-council",
+    "ballotNumber": 9,
+    "ageAtElection": 49,
+    "occupationOfficial": "zástupkyňa riaditeľa spojenej školy",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-maria-kovacikova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-jan-raclavsky",
+    "electionId": "city-council",
+    "ballotNumber": 10,
+    "ageAtElection": 42,
+    "occupationOfficial": "manažér v samospráve",
+    "affiliations": [
+      "Demokrati, Progresívne Slovensko"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-jan-raclavsky-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-martin-stanovsky-30",
+    "electionId": "city-council",
+    "ballotNumber": 11,
+    "ageAtElection": 30,
+    "occupationOfficial": "výkonný riaditeľ",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-martin-stanovsky-30-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-dagmara-sudova",
+    "electionId": "city-council",
+    "ballotNumber": 12,
+    "ageAtElection": 46,
+    "occupationOfficial": "živnostníčka",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-dagmara-sudova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-leonard-vajdulak",
+    "electionId": "city-council",
+    "ballotNumber": 13,
+    "ageAtElection": 61,
+    "occupationOfficial": "učiteľ hudby",
+    "affiliations": [
+      "Starostovia a nezávislí kandidáti"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-leonard-vajdulak-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-1"
+  },
+  {
+    "candidateId": "dk-pavol-baca",
+    "electionId": "city-council",
+    "ballotNumber": 1,
+    "ageAtElection": 55,
+    "occupationOfficial": "učiteľ",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-pavol-baca-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-roman-benus",
+    "electionId": "city-council",
+    "ballotNumber": 2,
+    "ageAtElection": 58,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-roman-benus-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-jozef-david",
+    "electionId": "city-council",
+    "ballotNumber": 3,
+    "ageAtElection": 65,
+    "occupationOfficial": "konateľ",
+    "affiliations": [
+      "Starostovia a nezávislí kandidáti"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-jozef-david-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-miroslav-drab",
+    "electionId": "city-council",
+    "ballotNumber": 4,
+    "ageAtElection": 47,
+    "occupationOfficial": "riaditeľ hokejového klubu",
+    "affiliations": [
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-miroslav-drab-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-stefan-fecko",
+    "electionId": "city-council",
+    "ballotNumber": 5,
+    "ageAtElection": 49,
+    "occupationOfficial": "skladník",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-stefan-fecko-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-juliana-gregova",
+    "electionId": "city-council",
+    "ballotNumber": 6,
+    "ageAtElection": 56,
+    "occupationOfficial": "lekárka",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-juliana-gregova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-jana-gressova",
+    "electionId": "city-council",
+    "ballotNumber": 7,
+    "ageAtElection": 47,
+    "occupationOfficial": "učiteľka ZUŠ",
+    "affiliations": [
+      "Demokrati, Progresívne Slovensko"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-jana-gressova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-vladimira-grisova",
+    "electionId": "city-council",
+    "ballotNumber": 8,
+    "ageAtElection": 45,
+    "occupationOfficial": "referentka",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-vladimira-grisova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-peter-jonak",
+    "electionId": "city-council",
+    "ballotNumber": 9,
+    "ageAtElection": 44,
+    "occupationOfficial": "konateľ",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-peter-jonak-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-matus-lakostik",
+    "electionId": "city-council",
+    "ballotNumber": 10,
+    "ageAtElection": 45,
+    "occupationOfficial": "zástupca primátora",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-matus-lakostik-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-michal-lavrik",
+    "electionId": "city-council",
+    "ballotNumber": 11,
+    "ageAtElection": 52,
+    "occupationOfficial": "riaditeľ úradu",
+    "affiliations": [
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-michal-lavrik-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-pavol-lorko",
+    "electionId": "city-council",
+    "ballotNumber": 12,
+    "ageAtElection": 55,
+    "occupationOfficial": "sprievodca v cestovnom ruchu",
+    "affiliations": [
+      "Demokrati, Progresívne Slovensko"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-pavol-lorko-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-roman-markulcek",
+    "electionId": "city-council",
+    "ballotNumber": 13,
+    "ageAtElection": 54,
+    "occupationOfficial": "štátny zamestnanec",
+    "affiliations": [
+      "Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-roman-markulcek-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-jan-marsinsky",
+    "electionId": "city-council",
+    "ballotNumber": 14,
+    "ageAtElection": 48,
+    "occupationOfficial": "SZČO",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-jan-marsinsky-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-martin-stanovsky-53",
+    "electionId": "city-council",
+    "ballotNumber": 15,
+    "ageAtElection": 53,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-martin-stanovsky-53-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-peter-strezo",
+    "electionId": "city-council",
+    "ballotNumber": 16,
+    "ageAtElection": 47,
+    "occupationOfficial": "riaditeľ školy",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-peter-strezo-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-elena-sunalova",
+    "electionId": "city-council",
+    "ballotNumber": 17,
+    "ageAtElection": 55,
+    "occupationOfficial": "lekárka",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-elena-sunalova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-2"
+  },
+  {
+    "candidateId": "dk-radoslava-bencurova",
+    "electionId": "city-council",
+    "ballotNumber": 1,
+    "ageAtElection": 46,
+    "occupationOfficial": "advokátka",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-radoslava-bencurova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-renata-brodnanska",
+    "electionId": "city-council",
+    "ballotNumber": 2,
+    "ageAtElection": 60,
+    "occupationOfficial": "vedúca fyzioterapeutka",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-renata-brodnanska-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-katarina-brunckova",
+    "electionId": "city-council",
+    "ballotNumber": 3,
+    "ageAtElection": 47,
+    "occupationOfficial": "advokátka",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-katarina-brunckova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-ondrej-bukna",
+    "electionId": "city-council",
+    "ballotNumber": 4,
+    "ageAtElection": 44,
+    "occupationOfficial": "advokát",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-ondrej-bukna-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-tomas-gajdos",
+    "electionId": "city-council",
+    "ballotNumber": 5,
+    "ageAtElection": 43,
+    "occupationOfficial": "živnostník",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-tomas-gajdos-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-jan-havko",
+    "electionId": "city-council",
+    "ballotNumber": 6,
+    "ageAtElection": 54,
+    "occupationOfficial": "živnostník",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-jan-havko-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-radoslav-kovacik",
+    "electionId": "city-council",
+    "ballotNumber": 7,
+    "ageAtElection": 46,
+    "occupationOfficial": "podnikateľ v oblasti bývania a služieb",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-radoslav-kovacik-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-matus-kubas",
+    "electionId": "city-council",
+    "ballotNumber": 8,
+    "ageAtElection": 28,
+    "occupationOfficial": "elektrikár",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-matus-kubas-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-jozef-maslan",
+    "electionId": "city-council",
+    "ballotNumber": 9,
+    "ageAtElection": 42,
+    "occupationOfficial": "projektový manažér stavieb",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-jozef-maslan-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-sona-mihalikova",
+    "electionId": "city-council",
+    "ballotNumber": 10,
+    "ageAtElection": 59,
+    "occupationOfficial": "riaditeľka",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-sona-mihalikova-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-peter-toman",
+    "electionId": "city-council",
+    "ballotNumber": 11,
+    "ageAtElection": 53,
+    "occupationOfficial": "odborný prírodovedný pracovník",
+    "affiliations": [
+      "Bratia Slovenska"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-peter-toman-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-3"
+  },
+  {
+    "candidateId": "dk-peter-kajan",
+    "electionId": "city-council",
+    "ballotNumber": 1,
+    "ageAtElection": 39,
+    "occupationOfficial": "ekonóm mestskej spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-peter-kajan-city-council",
+    "contestId": "2026-dk-city-council",
+    "sourceIds": [
+      "dk-city-council-roster-2026"
+    ],
+    "districtId": "2026-dk-city-4"
+  },
+  {
+    "candidateId": "dk-pavol-adamec",
+    "electionId": "region-council",
+    "ballotNumber": 1,
+    "ageAtElection": 57,
+    "occupationOfficial": "vodič",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-pavol-adamec-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-peter-benus",
+    "electionId": "region-council",
+    "ballotNumber": 2,
+    "ageAtElection": 51,
+    "occupationOfficial": "učiteľ autoškoly",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-peter-benus-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-jozef-brtos",
+    "electionId": "region-council",
+    "ballotNumber": 3,
+    "ageAtElection": 61,
+    "occupationOfficial": "živnostník",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-jozef-brtos-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-katarina-brunckova",
+    "electionId": "region-council",
+    "ballotNumber": 4,
+    "ageAtElection": 47,
+    "occupationOfficial": "advokátka",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-katarina-brunckova-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-tatiana-cervenova",
+    "electionId": "region-council",
+    "ballotNumber": 5,
+    "ageAtElection": 41,
+    "occupationOfficial": "starostka obce",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-tatiana-cervenova-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-miroslav-drab",
+    "electionId": "region-council",
+    "ballotNumber": 6,
+    "ageAtElection": 47,
+    "occupationOfficial": "riaditeľ hokejového klubu",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-miroslav-drab-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-stefan-fecko",
+    "electionId": "region-council",
+    "ballotNumber": 7,
+    "ageAtElection": 49,
+    "occupationOfficial": "skladník",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-stefan-fecko-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-michal-hareznik",
+    "electionId": "region-council",
+    "ballotNumber": 8,
+    "ageAtElection": 48,
+    "occupationOfficial": "konateľ spoločnosti",
+    "affiliations": [
+      "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-michal-hareznik-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-peter-jonak",
+    "electionId": "region-council",
+    "ballotNumber": 9,
+    "ageAtElection": 44,
+    "occupationOfficial": "konateľ",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-peter-jonak-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-zuzana-katreniakova",
+    "electionId": "region-council",
+    "ballotNumber": 10,
+    "ageAtElection": 46,
+    "occupationOfficial": "administratívna pracovníčka",
+    "affiliations": [
+      "Strana vidieka"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-zuzana-katreniakova-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-zdenko-kuban",
+    "electionId": "region-council",
+    "ballotNumber": 11,
+    "ageAtElection": 46,
+    "occupationOfficial": "poslanec samosprávneho kraja, administratívny pracovník",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-zdenko-kuban-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-michal-lavrik",
+    "electionId": "region-council",
+    "ballotNumber": 12,
+    "ageAtElection": 52,
+    "occupationOfficial": "riaditeľ centra podpory",
+    "affiliations": [
+      "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-michal-lavrik-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-pavol-lorko",
+    "electionId": "region-council",
+    "ballotNumber": 13,
+    "ageAtElection": 55,
+    "occupationOfficial": "sprievodca v cestovnom ruchu",
+    "affiliations": [
+      "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Progresívne Slovensko, Sloboda a solidarita, Demokrati, Za ľudí, Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-pavol-lorko-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-matus-mnich",
+    "electionId": "region-council",
+    "ballotNumber": 14,
+    "ageAtElection": 64,
+    "occupationOfficial": "starosta obce",
+    "affiliations": [
+      "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-matus-mnich-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-adam-molnar",
+    "electionId": "region-council",
+    "ballotNumber": 15,
+    "ageAtElection": 21,
+    "occupationOfficial": "študent",
+    "affiliations": [
+      "Strana vidieka"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-adam-molnar-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-jan-prilepok",
+    "electionId": "region-council",
+    "ballotNumber": 16,
+    "ageAtElection": 47,
+    "occupationOfficial": "primátor mesta",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-jan-prilepok-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-martin-stanovsky-30",
+    "electionId": "region-council",
+    "ballotNumber": 17,
+    "ageAtElection": 30,
+    "occupationOfficial": "výkonný riaditeľ",
+    "affiliations": [],
+    "independent": true,
+    "id": "candidacy-dk-martin-stanovsky-30-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-elena-sunalova",
+    "electionId": "region-council",
+    "ballotNumber": 18,
+    "ageAtElection": 55,
+    "occupationOfficial": "lekárka",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-elena-sunalova-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-peter-toman",
+    "electionId": "region-council",
+    "ballotNumber": 19,
+    "ageAtElection": 53,
+    "occupationOfficial": "odborný prírodovedný pracovník",
+    "affiliations": [
+      "Bratia Slovenska"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-peter-toman-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
+  },
+  {
+    "candidateId": "dk-leonard-vajdulak",
+    "electionId": "region-council",
+    "ballotNumber": 20,
+    "ageAtElection": 61,
+    "occupationOfficial": "učiteľ hudby",
+    "affiliations": [
+      "Starostovia a nezávislí kandidáti"
+    ],
+    "independent": false,
+    "id": "candidacy-dk-leonard-vajdulak-region-council",
+    "contestId": "2026-zsk-region-council",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026"
+    ],
+    "districtId": "2026-zsk-region-3"
   }
 ]

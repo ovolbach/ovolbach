@@ -13876,5 +13876,1780 @@
         "campaign-accounts-candidates-2026"
       ]
     }
+  },
+  {
+    "id": "finance-dk-jan-briestensky",
+    "candidateId": "dk-jan-briestensky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-mayor-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Dolný Kubín",
+        "population": 17219,
+        "independent": true,
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2903484252",
+      "sourceIds": [
+        "dk-briestensky-campaign-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Dolný Kubín",
+          "sourceIds": [
+            "dk-briestensky-campaign-2026",
+            "dk-mayor-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "kandidát na primátora mesta Dolný Kubín v roku 2026",
+          "sourceIds": [
+            "dk-briestensky-campaign-2026",
+            "dk-mayor-roster-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-katarina-brunckova",
+    "candidateId": "dk-katarina-brunckova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-mayor-roster-2026",
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Dolný Kubín",
+        "population": 17219,
+        "independent": true,
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "verified",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5611000000002979115779",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026",
+        "dk-brunckova-campaign-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Dolný Kubín",
+          "sourceIds": [
+            "dk-brunckova-campaign-2026",
+            "dk-mayor-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "kandidátka na primátorku mesta Dolný Kubín v roku 2026",
+          "sourceIds": [
+            "dk-brunckova-campaign-2026",
+            "dk-mayor-roster-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-emilia-jurcikova",
+    "candidateId": "dk-emilia-jurcikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-mayor-roster-2026",
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Dolný Kubín",
+        "population": 17219,
+        "independent": true,
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2802973882",
+      "sourceIds": [
+        "dk-jurcikova-campaign-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Dolný Kubín",
+          "sourceIds": [
+            "dk-jurcikova-campaign-2026",
+            "dk-mayor-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "kandidátka na primátorku mesta Dolný Kubín v roku 2026",
+          "sourceIds": [
+            "dk-jurcikova-campaign-2026",
+            "dk-mayor-roster-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-jan-marsinsky",
+    "candidateId": "dk-jan-marsinsky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-mayor-roster-2026",
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Dolný Kubín",
+        "population": 17219,
+        "independent": true,
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ],
+      "reason": "Register uvádza rovnaké meno; spojenie účtu s kandidátom nebolo potvrdené aspoň dvoma ďalšími identifikačnými znakmi."
+    }
+  },
+  {
+    "id": "finance-dk-jan-prilepok",
+    "candidateId": "dk-jan-prilepok",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-mayor-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Dolný Kubín",
+        "population": 17219,
+        "independent": true,
+        "sourceIds": [
+          "dk-mayor-roster-2026",
+          "dk-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ],
+      "reason": "Register uvádza rovnaké meno; spojenie účtu s kandidátom nebolo potvrdené aspoň dvoma ďalšími identifikačnými znakmi."
+    }
+  },
+  {
+    "id": "finance-dk-pavol-adamec",
+    "candidateId": "dk-pavol-adamec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-adriana-alleramova",
+    "candidateId": "dk-adriana-alleramova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "progresivne-slovensko"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-stefan-belvoncik",
+    "candidateId": "dk-stefan-belvoncik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-juraj-facko",
+    "candidateId": "dk-juraj-facko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-martina-flajsova",
+    "candidateId": "dk-martina-flajsova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-peter-janotik",
+    "candidateId": "dk-peter-janotik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-martin-joppa",
+    "candidateId": "dk-martin-joppa",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-maria-kovacikova",
+    "candidateId": "dk-maria-kovacikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-jan-raclavsky",
+    "candidateId": "dk-jan-raclavsky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "progresivne-slovensko"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-martin-stanovsky-30",
+    "candidateId": "dk-martin-stanovsky-30",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-dagmara-sudova",
+    "candidateId": "dk-dagmara-sudova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-leonard-vajdulak",
+    "candidateId": "dk-leonard-vajdulak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "starostovia-a-nezavisli-kandidati"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-pavol-baca",
+    "candidateId": "dk-pavol-baca",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-roman-benus",
+    "candidateId": "dk-roman-benus",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-jozef-david",
+    "candidateId": "dk-jozef-david",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "starostovia-a-nezavisli-kandidati"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-miroslav-drab",
+    "candidateId": "dk-miroslav-drab",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "progresivne-slovensko",
+      "demokrati",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-stefan-fecko",
+    "candidateId": "dk-stefan-fecko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-juliana-gregova",
+    "candidateId": "dk-juliana-gregova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-jana-gressova",
+    "candidateId": "dk-jana-gressova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "progresivne-slovensko"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-vladimira-grisova",
+    "candidateId": "dk-vladimira-grisova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-peter-jonak",
+    "candidateId": "dk-peter-jonak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-matus-lakostik",
+    "candidateId": "dk-matus-lakostik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-michal-lavrik",
+    "candidateId": "dk-michal-lavrik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia",
+      "smer-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-pavol-lorko",
+    "candidateId": "dk-pavol-lorko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "sloboda-a-solidarita",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-roman-markulcek",
+    "candidateId": "dk-roman-markulcek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-martin-stanovsky-53",
+    "candidateId": "dk-martin-stanovsky-53",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-peter-strezo",
+    "candidateId": "dk-peter-strezo",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-elena-sunalova",
+    "candidateId": "dk-elena-sunalova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-radoslava-bencurova",
+    "candidateId": "dk-radoslava-bencurova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-renata-brodnanska",
+    "candidateId": "dk-renata-brodnanska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-ondrej-bukna",
+    "candidateId": "dk-ondrej-bukna",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-tomas-gajdos",
+    "candidateId": "dk-tomas-gajdos",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-jan-havko",
+    "candidateId": "dk-jan-havko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-radoslav-kovacik",
+    "candidateId": "dk-radoslav-kovacik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-matus-kubas",
+    "candidateId": "dk-matus-kubas",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-jozef-maslan",
+    "candidateId": "dk-jozef-maslan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-sona-mihalikova",
+    "candidateId": "dk-sona-mihalikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-peter-toman",
+    "candidateId": "dk-peter-toman",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "bratia-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-peter-kajan",
+    "candidateId": "dk-peter-kajan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-city-council-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-peter-benus",
+    "candidateId": "dk-peter-benus",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-jozef-brtos",
+    "candidateId": "dk-jozef-brtos",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-tatiana-cervenova",
+    "candidateId": "dk-tatiana-cervenova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-michal-hareznik",
+    "candidateId": "dk-michal-hareznik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-zuzana-katreniakova",
+    "candidateId": "dk-zuzana-katreniakova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "strana-vidieka"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-zdenko-kuban",
+    "candidateId": "dk-zdenko-kuban",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-matus-mnich",
+    "candidateId": "dk-matus-mnich",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-dk-adam-molnar",
+    "candidateId": "dk-adam-molnar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "dk-zsk-district-3-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú oficiálne kandidátne listiny mesta Dolný Kubín a krajského obvodu č. 3. Úplný zoznam prípadných ďalších kandidatúr mimo tohto sprievodcu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "strana-vidieka"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
   }
 ]

@@ -95,7 +95,7 @@ test('no-JS GET fallback targets exactly district 4 in official ballot and candi
   await context.close();
 });
 
-test('district selection creates no browser storage or cross-origin requests', async ({ page, context }) => {
+test('district selection creates no browser storage or cross-origin requests', async ({ page, context, baseURL }) => {
   const requests: string[] = [];
   page.on('request', (request) => requests.push(request.url()));
   await page.goto(`${BASE}?obvod=district-4`);
@@ -105,7 +105,7 @@ test('district selection creates no browser storage or cross-origin requests', a
     session: sessionStorage.length,
     indexed: (await indexedDB.databases()).length,
   }))).resolves.toEqual({ local: 0, session: 0, indexed: 0 });
-  expect(requests.every((url) => new URL(url).origin === 'http://127.0.0.1:4321')).toBe(true);
+  expect(requests.every((url) => new URL(url).origin === new URL(baseURL!).origin)).toBe(true);
 });
 
 test('Back and Forward reapply selection from the URL', async ({ page }) => {

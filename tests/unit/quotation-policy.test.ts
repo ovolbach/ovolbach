@@ -29,8 +29,9 @@ describe('quotation and attributed-source policy', () => {
     }, {});
 
     expect(segmentsByKind.quote).toBe(33);
-    expect(segmentsByKind.response).toBe(2);
-    expect(Object.values(segmentsByKind).reduce((total, count) => total + count, 0)).toBe(35);
+    expect(segmentsByKind.response).toBe(3);
+    expect(segmentsByKind.media_report).toBe(1);
+    expect(Object.values(segmentsByKind).reduce((total, count) => total + count, 0)).toBe(37);
   });
 
   it.each([
