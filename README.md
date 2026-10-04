@@ -45,6 +45,10 @@ Vývojový server Astro zobrazí lokálnu adresu v termináli.
 
 Údaje jedného kraja a roka sú v `src/data/elections/{rok}/{kraj}/`. Osoby, tvrdenia a výskumné pokrytie sú v rámci cyklu spoločné; každý kandidát môže mať viac kandidatúr. `regional/config.json` určuje spoločné krajské voľby. `municipalities/{mesto}/config.json` určuje mestské voľby, mestské obvody, príslušný krajský obvod, stav `draft` alebo `published` a dátum overeného snímku. Zdrojový register `src/data/sources.json` je spoločný pre všetky cykly.
 
+Kandidáti na predsedu kraja majú jeden profil na `/{kraj}/{rok}/kandidat/{slug}/`. Profil spája všetky ich kandidatúry z publikovaných miest podľa ID; napríklad Martin Kapitulík má na `/zilinsky-kraj/2026/kandidat/martin-kapitulik/` aj mestskú a krajskú poslaneckú kandidatúru zo Žiliny. Ostatné profily používajú mestské adresy. Krajský kontext sa zostavuje iba z publikovaných miest a používa ich najnovší dátum snímku. Pri rozporných záznamoch s rovnakým ID zostavenie zlyhá.
+
+Krajské porovnanie na `/{kraj}/{rok}/porovnat/` obsahuje výber 2 až 4 kandidátov na predsedu kraja. Oficiálne údaje v ňom opisujú predsednícku kandidatúru; výskumné kategórie zostávajú spoločné. Mestské porovnanie používa miestny kontext. Výber sa zachováva pri navigácii v rovnakom kontexte; pri otvorení krajského profilu z mesta sa začína nový výber. Pagefind indexuje krajský profil raz a sprístupní ho aj pri hľadaní v každom publikovanom meste daného kraja. Porovnania majú `noindex,follow` a nie sú v sitemap.
+
 Ružomberok 2026 obsahuje 79 osôb a 100 zaregistrovaných kandidatúr podľa úradných zoznamov: 4 na primátora, 62 do mestského zastupiteľstva, 27 do krajského zastupiteľstva v obvode č. 8 a 7 na predsedu kraja. Päť mestských obvodov má spolu 16 mandátov; krajský obvod má 5 mandátov. Snímok výskumu je k 3. 10. 2026, voľby sa konajú 24. 10. 2026. Sedem kandidátov na predsedu kraja je spoločných s Liptovským Mikulášom. Neskoršie vyjadrenia vrátane správy TASR o Lučanského oznámení vzdania sa kandidatúry sú v profiloch uvedené s vlastnými dátumami a atribúciou. Vyhľadávania, identifikačné spojenia, vylúčenia a hranice finančného overenia sú zaznamenané v [`research/ruzomberok-2026.json`](research/ruzomberok-2026.json); výsledky kontrol a obmedzenia sú v [`research/ruzomberok-2026-audit.md`](research/ruzomberok-2026-audit.md).
 
 Doplňujúca mediálna kontrola k 3. 10. 2026 preverila všetkých 79 osôb a 82 existujúcich mediálnych a sporných tvrdení. Pridala 83 zdrojovaných tvrdení a zaznamenala 49 časových línií vrátane odpovedí a posledného overeného štádia. Nepotvrdené konečné výsledky zostávajú výslovne ohraničené. [Správa a výsledky kontrol](research/ruzomberok-media-review-2026.md), [podrobné záznamy vyhľadávania](research/ruzomberok-media-review-2026.json) a [nezávislá kontrola](research/ruzomberok-media-review-2026-review.md) nadväzujú na pôvodný audit.
@@ -88,6 +92,7 @@ Odkazy na bankové účty sú zdrojované registrami MV SR a priamymi stránkami
 | `npm run validate:release` | vykoná prísnu kontrolu dát pred vydaním |
 | `npm run report:coverage` | vytvorí prehľad pokrytia všetkých publikovaných kontextov; možno pridať `-- --city=liptovsky-mikulas --year=2026` |
 | `npm run check:links` | skontroluje dostupnosť externých zdrojov |
+| `NGINX_BIN=/usr/sbin/nginx npm run check:redirects` | po builde overí produkčnú konfiguráciu Nginx nad skutočným `dist/`, staré krajské profily, zachovanie query a finálne odpovede 200/404 |
 | `npm run check:storage` | overí, že web nepoužíva cookies ani úložisko prehliadača |
 | `npm run test:e2e` | spustí end-to-end testy v Playwright |
 | `npm run build` | validuje dáta, vytvorí produkčný web v `dist/` a vygeneruje sitemap |
@@ -118,6 +123,8 @@ SEO a HTML audit spustite ručne po zostavení webu pred jeho prvým publikovan�
 Koreňový [`Dockerfile`](Dockerfile) zostaví obraz: Node.js 22 spustí `npm ci`, `npm run validate:release` a `npm run build`, potom Nginx publikuje výsledný priečinok `dist/`. Konfigurácia statického servera je v [`deploy/nginx/default.conf`](deploy/nginx/default.conf). Kontajner presmeruje `www` na hlavnú doménu, ak reverzný proxy zachová pôvodnú hlavičku `Host`; zároveň vynúti relatívne presmerovanie na koncovú lomku a zobrazí zostavenú `404.html` so stavom HTTP 404.
 
 Hosting musí zostavovať obraz z tohto Dockerfile. Existujúca inštalácia vytvorila na serveri `/opt/app/ovolbach/Dockerfile` a `docker-compose.yml` mimo Git; pred ďalším nasadením overte, že pipeline použije súbory z repozitára a neprepíše ich vlastnou šablónou. Vonkajší reverzný proxy hostingu smeruje na port `172.17.0.1:3028`; jeho doménová a TLS konfigurácia nie je súčasťou tohto repozitára.
+
+Migrácia siedmich predsedníckych profilov presmeruje všetkých 35 pôvodných mestských adries a 14 historických aliasov priamo na krajské profily cez HTTP 301. Pravidlá pokrývajú adresu s lomkou, bez lomky aj s `index.html`, zachovávajú query parametre a na `www` používajú priamo finálnu doménu. Nové HTML a `deploy/nginx/default.conf` treba nasadiť spolu v jednom obraze; samostatné nasadenie iba `dist/` nezabezpečí presmerovania. Neznámy kandidát zostáva HTTP 404. Po nasadení skontrolujte aj verejnú doménu a prípadné pravidlá vonkajšieho proxy.
 
 ## Štruktúra projektu
 

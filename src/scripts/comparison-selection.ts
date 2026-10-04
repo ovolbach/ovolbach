@@ -1,23 +1,27 @@
 const choices = document.querySelectorAll<HTMLInputElement>('[data-compare-candidate]');
 const basePath = document.body.dataset.contextBase ?? '';
+const cataloguePath = document.body.dataset.compareCatalogue ?? `${basePath}kandidati/`;
+const allowedIds = document.body.dataset.compareCandidateIds
+  ? JSON.parse(document.body.dataset.compareCandidateIds) as string[] : undefined;
 
 function refreshComparisonSelection() {
   if (!basePath) return;
   const url = new URL(window.location.href);
   const ids = url.searchParams.getAll('kandidat');
+  const invalid = allowedIds && (ids.some((id) => !allowedIds.includes(id)) || new Set(ids).size !== ids.length || ids.length > 4);
   choices.forEach((choice) => {
     choice.checked = ids.includes(choice.dataset.compareCandidate!);
-    choice.disabled = !choice.checked && ids.length >= 4;
+    choice.disabled = !!invalid || (!choice.checked && ids.length >= 4);
   });
   document.querySelectorAll<HTMLElement>('[data-compare-selection-status]').forEach((status) => {
-    status.textContent = `Vybraní kandidáti: ${ids.length}. Vyberte 2 až 4 kandidátov na porovnanie.`;
+    status.textContent = invalid ? 'Výber kandidátov je neplatný. Vymažte výber a vyberte kandidátov predsedu kraja.'
+      : `Vybraní kandidáti: ${ids.length}. Vyberte 2 až 4 kandidátov na porovnanie.`;
   });
-  for (const [selector, path] of [['[data-compare-link]', `${basePath}porovnat/`], ['[data-compare-catalogue]', `${basePath}kandidati/`]] as const) {
+  for (const [selector, path] of [['[data-compare-link]', `${basePath}porovnat/`], ['[data-compare-catalogue]', cataloguePath]] as const) {
     document.querySelectorAll<HTMLAnchorElement>(selector).forEach((link) => {
-      const target = new URL(url);
-      target.pathname = path;
-      target.hash = '';
-      link.href = `${target.pathname}${target.search}`;
+      const target = new URL(path, url);
+      target.search = url.search;
+      link.href = `${target.pathname}${target.search}${target.hash}`;
     });
   }
   // Keep selection when following ordinary local navigation or a candidate profile.
@@ -39,6 +43,7 @@ choices.forEach((choice) => choice.addEventListener('change', () => {
   selected.forEach((item) => url.searchParams.append('kandidat', item));
   window.history.pushState({}, '', url);
   refreshComparisonSelection();
+  window.dispatchEvent(new Event('popstate'));
 }));
 document.querySelectorAll<HTMLButtonElement>('[data-compare-clear]').forEach((button) => button.addEventListener('click', () => {
   const url = new URL(window.location.href);
@@ -49,4 +54,5 @@ document.querySelectorAll<HTMLButtonElement>('[data-compare-clear]').forEach((bu
 }));
 window.addEventListener('popstate', refreshComparisonSelection);
 window.addEventListener('guide-filter-change', refreshComparisonSelection);
+window.addEventListener('guide-search-results', refreshComparisonSelection);
 refreshComparisonSelection();

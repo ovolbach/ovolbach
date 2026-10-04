@@ -1,13 +1,16 @@
 import { expect, test } from '@playwright/test';
-import { loadGuideData } from '../../src/lib/load-guide-data';
+import { loadElectionContext } from '../../src/lib/load-guide-data';
+import { candidateProfilePath } from '../../src/lib/regional-context';
 
-const { candidates } = await loadGuideData();
+const context = await loadElectionContext({ citySlug: 'liptovsky-mikulas', year: 2026 });
+const { candidates } = context.data;
+const profileFor = (slug: string) => candidateProfilePath(context, candidates.find((candidate) => candidate.slug === slug)!.id);
 
 const BASE = '/liptovsky-mikulas/2026/kandidat/';
 test('independent-only profiles expose candidate finance without a party-account alternative', async ({ page }) => {
   const independentSlugs = ['matej-blanar', 'lucia-cukerova', 'gabriel-slavkovsky', 'andrea-zidekova', 'juraj-paska', 'michal-paska', 'peter-bonko', 'marian-matejka', 'peter-gartner', 'marta-jancusova', 'lucia-zahorska', 'tomas-martaus', 'petra-mudronova', 'juraj-piatka', 'branislav-treger', 'martin-kapitulik'];
   for (const slug of independentSlugs) {
-    await page.goto(`${BASE}${slug}/`);
+    await page.goto(profileFor(slug));
     const finance = page.locator('[data-campaign-finance]');
     await expect(finance.getByRole('heading', { name: 'Transparentné účty a správy politických strán' })).toHaveCount(0);
     await expect(finance.locator('[data-party-account]')).toHaveCount(0);
@@ -18,7 +21,7 @@ test('independent-only profiles expose candidate finance without a party-account
     await expect(finance).toContainText('Transparentný účet kandidáta');
     await expect(finance).toContainText('§ 6 ods. 8');
   }
-  await page.goto(`${BASE}martin-kapitulik/`);
+  await page.goto(profileFor('martin-kapitulik'));
   await expect(page.locator('[data-personal-account]')).toHaveCount(1);
   await expect(page.locator('[data-finance-report-duty]')).toHaveAttribute('data-finance-report-duty', 'required');
   await page.goto(`${BASE}peter-bonko/`);
@@ -49,7 +52,7 @@ test('council duties remain explicit and the rechecked chair account is linked',
   await page.goto(`${BASE}peter-bonko/`);
   await expect(page.locator('[data-campaign-finance]')).toContainText('Pre samostatnú poslaneckú kandidatúru sa nevyžaduje');
   await expect(page.locator('[data-campaign-finance]')).toContainText('ďalších kandidatúr');
-  await page.goto(`${BASE}anna-belousovova/`);
+  await page.goto(profileFor('anna-belousovova'));
   await expect(page.locator('[data-campaign-finance] [data-personal-account]')).toHaveAttribute('href', 'https://ib.fio.sk/ib/transparent?a=2603546837');
   await expect(page.locator('[data-campaign-finance]')).toContainText('2026-10-04');
 });
@@ -57,7 +60,7 @@ test('every profile includes finance without contacting bank or party sites', as
   const externalRequests: string[] = [];
   page.on('request', (request) => { if (new URL(request.url()).origin !== new URL(baseURL!).origin) externalRequests.push(request.url()); });
   for (const candidate of candidates) {
-    await page.goto(`${BASE}${candidate.slug}/`);
+    await page.goto(candidateProfilePath(context, candidate.id));
     await expect(page.locator('[data-campaign-finance]')).toHaveCount(1);
   }
   expect(externalRequests).toEqual([]);

@@ -10,16 +10,17 @@ interface Props {
   record: BallotCandidate;
   sources: Source[];
   basePath: string;
+  profilePath: string;
   headingLevel?: 'h3' | 'h4';
 }
 
-const { record, sources, basePath } = Astro.props;
+const { record, sources, basePath, profilePath } = Astro.props;
 const Heading = Astro.props.headingLevel ?? 'h4';
 const linkedSources = resolveRecordSources([record, record.candidacy], sources);
 ---
 
 <article class="candidate-card" data-candidate-card data-candidate-id={record.id}>
-  <Heading><a href={`${basePath}kandidat/${record.slug}/`}>{record.candidacy.displayNameOfficial ?? record.displayName}</a></Heading>
+  <Heading><a href={profilePath}>{record.candidacy.displayNameOfficial ?? record.displayName}</a></Heading>
   <dl>
     <div><dt>Číslo na hlasovacom lístku</dt><dd data-ballot-number>{record.candidacy.ballotNumber}</dd></div>
     <div><dt>Vek</dt><dd>{record.candidacy.ageAtElection} rokov</dd></div>

@@ -36,7 +36,7 @@ const commonBallots = getBallotsForDistrict(data, districtMappings[0]!.internalI
   <div class="candidate-catalogue">
     {commonBallots.map((ballot) => (
       <div data-catalogue-election={ballot.election.id}>
-        <BallotSection ballot={ballot} sources={data.sources} headingLevel="h2" basePath={context.basePath} />
+        <BallotSection ballot={ballot} sources={data.sources} headingLevel="h2" context={context} />
       </div>
     ))}
     {districtMappings.map((mapping) => {
@@ -48,7 +48,7 @@ const commonBallots = getBallotsForDistrict(data, districtMappings[0]!.internalI
             <h2>{district.name}</h2>
             <p>{district.areas.join(', ')} Počet mandátov: {district.seats}. <SourceLink recordId={district.id} sourceIds={district.sourceIds} sources={data.sources} /></p>
           </header>
-          <BallotSection ballot={ballot} sources={data.sources} basePath={context.basePath} />
+          <BallotSection ballot={ballot} sources={data.sources} context={context} />
         </section>
       );
     })}

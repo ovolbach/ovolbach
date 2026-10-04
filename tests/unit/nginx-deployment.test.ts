@@ -40,7 +40,7 @@ describe.skipIf(!nginxBin)('deployed nginx routing', () => {
     configPath = path.join(prefix, 'nginx.conf');
     await writeFile(
       configPath,
-      `worker_processes 1;\npid logs/nginx.pid;\nevents { worker_connections 64; }\nhttp {\n${configured}\n}\n`,
+      `worker_processes 1;\npid logs/nginx.pid;\nerror_log logs/error.log;\nevents { worker_connections 64; }\nhttp {\naccess_log off;\nclient_body_temp_path temp/body;\nproxy_temp_path temp/proxy;\nfastcgi_temp_path temp/fastcgi;\nuwsgi_temp_path temp/uwsgi;\nscgi_temp_path temp/scgi;\n${configured}\n}\n`,
     );
 
     await execFileAsync(nginxBin!, ['-t', '-p', `${prefix}/`, '-c', configPath]);

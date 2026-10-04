@@ -1,8 +1,10 @@
 import { expect, test } from '@playwright/test';
 import { loadElectionContext } from '../../src/lib/load-guide-data';
+import { candidateProfilePath } from '../../src/lib/regional-context';
 
 const BASE = '/martin/2026/';
-const { data } = await loadElectionContext({ citySlug: 'martin', year: 2026 });
+const context = await loadElectionContext({ citySlug: 'martin', year: 2026 });
+const { data } = context;
 
 test('Martin is discoverable and exposes all four official ballots and its district limits', async ({ page }) => {
   await page.goto('/');
@@ -27,7 +29,7 @@ test('all 124 profiles expose the official name, finance and every referenced cl
   test.setTimeout(150_000);
   const sourceById = new Map(data.sources.map((source) => [source.id, source]));
   for (const candidate of data.candidates) {
-    const response = await page.goto(`${BASE}kandidat/${candidate.slug}/`);
+    const response = await page.goto(candidateProfilePath(context, candidate.id));
     expect(response?.status(), candidate.slug).toBe(200);
     await expect(page.getByRole('heading', { level: 1 })).toHaveText(candidate.displayName);
     await expect(page.locator('[data-campaign-finance]')).toHaveCount(1);
@@ -47,7 +49,7 @@ test('multiple candidacies and finance retain their separate official identities
   await expect(page.locator('[data-candidacy]').evaluateAll((items) => items.map((item) => [
     item.getAttribute('data-election-id'), item.getAttribute('data-ballot-number'),
   ]))).resolves.toEqual([['mayor', '1'], ['city-council', '1'], ['region-council', '3']]);
-  await page.goto(`${BASE}kandidat/adam-lucansky/`);
+  await page.goto('/zilinsky-kraj/2026/kandidat/adam-lucansky/');
   await expect(page.locator('[data-candidacy]')).toHaveCount(2);
   await page.goto(`${BASE}kandidat/milan-ftorek/`);
   await expect(page.locator('[data-personal-account]')).toHaveAttribute('href',

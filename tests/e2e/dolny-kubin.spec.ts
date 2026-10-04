@@ -1,6 +1,7 @@
 import { expect, test } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 import { loadElectionContext } from '../../src/lib/load-guide-data';
+import { candidateProfilePath } from '../../src/lib/regional-context';
 
 const BASE = '/dolny-kubin/2026/';
 
@@ -21,10 +22,11 @@ test('the Dolný Kubín guide exposes the official ballots and local district li
 
 test('every Dolný Kubín profile renders all cited claims and its financing evidence', async ({ page }) => {
   test.setTimeout(90_000);
-  const { data } = await loadElectionContext({ citySlug: 'dolny-kubin', year: 2026 });
+  const context = await loadElectionContext({ citySlug: 'dolny-kubin', year: 2026 });
+  const { data } = context;
   const sources = new Map(data.sources.map((source) => [source.id, source.url]));
   for (const candidate of data.candidates) {
-    const response = await page.goto(`${BASE}kandidat/${candidate.slug}/`);
+    const response = await page.goto(candidateProfilePath(context, candidate.id));
     expect(response?.status(), candidate.slug).toBe(200);
     await expect(page.getByRole('heading', { level: 1 })).toHaveText(candidate.displayName);
     await expect(page.locator('[data-campaign-finance]')).toHaveCount(1);

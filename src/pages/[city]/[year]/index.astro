@@ -38,7 +38,7 @@ const regionalBallots = commonBallots.filter((ballot) => ballot.election.id !== 
   {mayorBallots.length > 0 && <section>
     <h2>Celomestský hlasovací lístok</h2>
     {mayorBallots.map((ballot) => (
-      <BallotSection ballot={ballot} sources={data.sources} headingLevel="h3" basePath={context.basePath} />
+      <BallotSection ballot={ballot} sources={data.sources} headingLevel="h3" context={context} />
     ))}
   </section>}
   <div class="district-results">
@@ -52,14 +52,14 @@ const regionalBallots = commonBallots.filter((ballot) => ballot.election.id !== 
           <p>Územie obvodu: {district.areas.join(' ')}</p>
           <p>Počet mandátov: {district.seats}. <SourceLink recordId={district.id} sourceIds={district.sourceIds} sources={data.sources} /></p>
         </header>
-        <BallotSection ballot={ballot} sources={data.sources} basePath={context.basePath} />
+        <BallotSection ballot={ballot} sources={data.sources} context={context} />
       </section>
     })}
   </div>
   {regionalBallots.length > 0 && <section>
     <h2>Krajské hlasovacie lístky</h2>
     {regionalBallots.map((ballot) => (
-      <BallotSection ballot={ballot} sources={data.sources} headingLevel="h3" basePath={context.basePath} />
+      <BallotSection ballot={ballot} sources={data.sources} headingLevel="h3" context={context} />
     ))}
   </section>}
   <script>

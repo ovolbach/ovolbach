@@ -2,8 +2,12 @@ import { readFileSync } from 'node:fs';
 import path from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { loadGuideData } from '../../src/lib/load-guide-data';
+import { listPublishedElectionContexts } from '../../src/lib/load-guide-data';
+import { candidateProfilePath } from '../../src/lib/regional-context';
 
 const { candidates } = await loadGuideData();
+const contexts = await listPublishedElectionContexts();
+const lm = contexts.find((context) => context.citySlug === 'liptovsky-mikulas')!;
 
 const basePath = '/liptovsky-mikulas/2026';
 const config = readFileSync(path.join(process.cwd(), 'deploy/nginx/default.conf'), 'utf8');
@@ -29,7 +33,7 @@ describe('legacy election URLs', () => {
     expect(redirectFor('/kandidat/michal-paska/')).toBe(`${basePath}/kandidat/michal-paska/`);
     expect(redirectFor('/kandidat/tana-sufliarskamgr/')).toBe(`${basePath}/kandidat/tana-sufliarska/`);
     expect(redirectFor('/kandidat/miroslav-parobekmgr/')).toBe(`${basePath}/kandidat/miroslav-parobek/`);
-    expect(redirectFor('/kandidat/adam-lucanskying/')).toBe(`${basePath}/kandidat/adam-lucansky/`);
+    expect(redirectFor('/kandidat/adam-lucanskying/')).toBe('/zilinsky-kraj/2026/kandidat/adam-lucansky/');
   });
 
   it('covers every historical candidate without changing identity', () => {
@@ -41,7 +45,7 @@ describe('legacy election URLs', () => {
       const aliases = cityless.filter(({ candidateId }) => candidateId === candidate.id);
       expect(aliases, candidate.id).toHaveLength(1);
       const alias = aliases[0]!;
-      expect(alias.target).toBe(`${basePath}/kandidat/${candidate.slug}/`);
+      expect(alias.target).toBe(candidateProfilePath(lm, candidate.id));
       const oldSlug = alias.pattern.match(/^\^\/kandidat\/([a-z0-9-]+)\(\?:/)?.[1];
       expect(oldSlug, candidate.id).toBeTruthy();
       const formerNested = nested.filter(({ candidateId }) => candidateId === candidate.id);
@@ -52,6 +56,22 @@ describe('legacy election URLs', () => {
         expect(oldNested.pattern).toContain(`/kandidat/${oldSlug}(?:`);
       }
     }
+  });
+
+  it('redirects all 35 municipal chair profiles directly, in every URL variant', () => {
+    const chairs = candidates.filter((candidate) => lm.data.candidacies.some((row) => row.candidateId === candidate.id && row.electionId === 'region-chair'));
+    expect(chairs).toHaveLength(7);
+    for (const context of contexts) {
+      for (const candidate of chairs) {
+        for (const suffix of ['', '/', '/index.html']) {
+          expect(redirectFor(`${context.basePath}kandidat/${candidate.slug}${suffix}`))
+            .toBe(`/zilinsky-kraj/2026/kandidat/${candidate.slug}/`);
+        }
+      }
+    }
+    expect(redirectFor('/martin/2026/kandidat/not-a-candidate/')).toBeUndefined();
+    expect(redirectFor('/martin/2030/kandidat/anna-belousovova/')).toBeUndefined();
+    expect(redirectFor('/neexistuje/2026/kandidat/anna-belousovova/')).toBeUndefined();
   });
 
   it('handles URL variants but leaves unrelated routes untouched', () => {

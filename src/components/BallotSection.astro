@@ -3,15 +3,17 @@ import CandidateCard from './CandidateCard.astro';
 import { getBallotSelectionLimit, type BallotView } from '../lib/selectors';
 import SourceLink from './SourceLink.astro';
 import type { Source } from '../lib/schemas';
+import type { ElectionContext } from '../lib/load-guide-data';
+import { candidateProfilePath } from '../lib/regional-context';
 
 interface Props {
   ballot: BallotView;
   sources: Source[];
   headingLevel?: 'h2' | 'h3';
-  basePath: string;
+  context: ElectionContext;
 }
 
-const { ballot, sources, basePath } = Astro.props;
+const { ballot, sources, context } = Astro.props;
 const Heading = Astro.props.headingLevel ?? 'h3';
 const candidateHeadingLevel = Heading === 'h2' ? 'h3' : 'h4';
 const limit = getBallotSelectionLimit(ballot);
@@ -27,7 +29,8 @@ const limit = getBallotSelectionLimit(ballot);
   </p>
   {ballot.candidates.length > 0 ? (
     <div class="candidate-list">
-      {ballot.candidates.map((record) => <CandidateCard record={record} sources={sources} basePath={basePath} headingLevel={candidateHeadingLevel} />)}
+      {ballot.candidates.map((record) => <CandidateCard record={record} sources={sources} basePath={context.basePath}
+        profilePath={candidateProfilePath(context, record.id)} headingLevel={candidateHeadingLevel} />)}
     </div>
   ) : <p>V oficiálnom zozname nie je žiadny kandidát.</p>}
 </section>

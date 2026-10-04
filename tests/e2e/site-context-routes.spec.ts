@@ -55,9 +55,7 @@ test('home and catalogue show council limits from each ballot district', async (
 test('search is global in the catalogue and city/year-scoped inside a guide', async ({ page }) => {
   await page.goto('/');
   await page.getByRole('searchbox').fill('Milan POVA');
-  await expect(page.locator('[data-search-results] a[href="/liptovsky-mikulas/2026/kandidat/milan-pova/"]')).toBeVisible();
-  await expect(page.locator('[data-search-results] a[href="/ruzomberok/2026/kandidat/milan-pova/"]')).toBeVisible();
-  await expect(page.locator('[data-search-results] a[href="/zilina/2026/kandidat/milan-pova/"]')).toBeVisible();
+  await expect(page.locator('[data-search-results] a[href="/zilinsky-kraj/2026/kandidat/milan-pova/"]')).toHaveCount(1);
   await page.goto('/liptovsky-mikulas/2026/');
   await page.getByRole('searchbox').fill('Dátum vydania');
   await expect(page.locator('[data-search-results] a').first()).toBeVisible();

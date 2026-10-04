@@ -1,5 +1,6 @@
 import { assembleElectionContext, listElectionContextConfigs, loadElectionCycle } from '../src/lib/load-guide-data';
 import { validateDataset } from '../src/lib/validate-dataset';
+import { listPublishedRegionalContexts } from '../src/lib/regional-context';
 
 const modeArgument = process.argv.find((argument) => argument.startsWith('--mode='));
 
@@ -34,5 +35,10 @@ for (const config of configs) {
     issueCount++;
   }
 }
-console.log(`cycles=${cycles.size} contexts=${configs.length} published=${configs.filter((config) => config.status === 'published').length} issues=${issueCount}`);
+const regions = await listPublishedRegionalContexts();
+for (const context of regions) for (const issue of validateDataset(context.data, mode)) {
+  console.error([context.basePath, issue.code, issue.recordId, issue.referenceId].filter(Boolean).join(' '));
+  issueCount++;
+}
+console.log(`cycles=${cycles.size} contexts=${configs.length} published=${configs.filter((config) => config.status === 'published').length} regional=${regions.length} issues=${issueCount}`);
 if (issueCount > 0) process.exitCode = 1;

@@ -1,8 +1,10 @@
 import { expect, test } from '@playwright/test';
 import { loadElectionContext } from '../../src/lib/load-guide-data';
+import { candidateProfilePath } from '../../src/lib/regional-context';
 
 const BASE = '/zilina/2026/';
-const { data } = await loadElectionContext({ citySlug: 'zilina', year: 2026 });
+const context = await loadElectionContext({ citySlug: 'zilina', year: 2026 });
+const { data } = context;
 
 test('Žilina is discoverable and its ballots use its own districts and seat limits', async ({ page }) => {
   await page.goto('/');
@@ -24,7 +26,7 @@ test('all 135 profiles resolve and expose every research claim source and financ
   test.setTimeout(120_000);
   const sourceById = new Map(data.sources.map((source) => [source.id, source]));
   for (const candidate of data.candidates) {
-    const response = await page.goto(`${BASE}kandidat/${candidate.slug}/`);
+    const response = await page.goto(candidateProfilePath(context, candidate.id));
     expect(response?.status(), candidate.slug).toBe(200);
     await expect(page.getByRole('heading', { level: 1 })).toHaveText(candidate.displayName);
     await expect(page.locator('[data-campaign-finance]')).toHaveCount(1);

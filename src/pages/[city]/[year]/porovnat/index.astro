@@ -2,22 +2,43 @@
 import ComparisonTable from '../../../../components/ComparisonTable.astro';
 import ComparisonSelection from '../../../../components/ComparisonSelection.astro';
 import BaseLayout from '../../../../layouts/BaseLayout.astro';
-import { listPublishedElectionContexts, type ElectionContext } from '../../../../lib/load-guide-data';
+import { listPublishedElectionContexts } from '../../../../lib/load-guide-data';
+import { regionalContexts, isRegionalContext, candidateProfilePath, type ProfilePageContext } from '../../../../lib/regional-context';
+import SourceLink from '../../../../components/SourceLink.astro';
 
 export async function getStaticPaths() {
-  return (await listPublishedElectionContexts()).map((context) => ({
-    params: { city: context.citySlug, year: String(context.year) }, props: { context },
+  const cities = await listPublishedElectionContexts();
+  const contexts: ProfilePageContext[] = [...cities, ...regionalContexts(cities)];
+  return contexts.map((context) => ({
+    params: { city: isRegionalContext(context) ? context.regionSlug : context.citySlug, year: String(context.year) }, props: { context },
   }));
 }
 
-const context = Astro.props.context as ElectionContext;
-const data = context.data;
+const context = Astro.props.context as ProfilePageContext;
+const regional = isRegionalContext(context);
+const data = regional ? { ...context.data, candidacies: context.data.candidacies.filter((row) => row.electionId === 'region-chair') } : context.data;
+const name = isRegionalContext(context) ? context.regionName : context.cityName;
+const breadcrumbs = [
+  { label: 'Mestá a roky', href: '/' },
+  ...(!isRegionalContext(context) ? [{ label: `${context.cityName} ${context.year}`, href: context.basePath }] : []),
+  { label: 'Porovnať kandidátov', href: `${context.basePath}porovnat/` },
+];
 ---
 
-<BaseLayout title={`Porovnať kandidátov | ${context.cityName} ${context.year} | ovolbach.sk`} description="Porovnanie kandidátov v rovnakých zdrojovaných kategóriách." context={context} indexable={false} robotsDirective="noindex,follow" breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Porovnať kandidátov', href: `${context.basePath}porovnat/` }]}>
-  <h1>Porovnať kandidátov</h1>
+<BaseLayout title={`Porovnať kandidátov | ${name} ${context.year} | ovolbach.sk`} description="Porovnanie kandidátov v rovnakých zdrojovaných kategóriách." context={context} indexable={false} robotsDirective="noindex,follow" breadcrumbs={breadcrumbs}>
+  <h1>{regional ? 'Porovnať kandidátov predsedu kraja' : 'Porovnať kandidátov'}</h1>
   <p>Porovnanie zobrazuje rovnaké kategórie pri každom vybranom kandidátovi. Výber je iba v adrese stránky.</p>
-  <ComparisonSelection basePath={context.basePath} />
+  {regional && <section id="vyber" aria-labelledby="regional-selection">
+    <h2 id="regional-selection">Kandidáti predsedu kraja</h2>
+    <ul>
+      {data.candidates.map((candidate) => <li>
+        <a href={candidateProfilePath(context, candidate.id)}>{candidate.displayName}</a>
+        <ComparisonSelection basePath={context.basePath} candidateId={candidate.id} candidateName={candidate.displayName} />
+        <SourceLink recordId={candidate.id} sourceIds={candidate.sourceIds} sources={data.sources} />
+      </li>)}
+    </ul>
+  </section>}
+  <ComparisonSelection basePath={context.basePath} catalogueHref={regional ? `${context.basePath}porovnat/#vyber` : undefined} />
   <ComparisonTable data={data} />
   <script>
     import '../../../../scripts/comparison';

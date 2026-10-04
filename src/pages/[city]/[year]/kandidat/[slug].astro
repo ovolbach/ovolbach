@@ -7,25 +7,37 @@ import ComparisonSelection from '../../../../components/ComparisonSelection.astr
 import ElectionHistoryTotals from '../../../../components/ElectionHistoryTotals.astro';
 import CampaignFinance from '../../../../components/CampaignFinance.astro';
 import { getOfficialCandidacies } from '../../../../lib/official-facts';
-import { listPublishedElectionContexts, type ElectionContext } from '../../../../lib/load-guide-data';
+import { listPublishedElectionContexts } from '../../../../lib/load-guide-data';
+import { isRegionalContext, publishedProfileRoutes, candidateProfilePath, type ProfilePageContext } from '../../../../lib/regional-context';
 import { getCandidateProfile } from '../../../../lib/selectors';
 import { PROFILE_CATEGORIES, summarizeElectionHistory } from '../../../../lib/profile-content';
 import { candidateSeoMetadata } from '../../../../lib/seo-metadata';
 
 export async function getStaticPaths() {
-  return (await listPublishedElectionContexts()).flatMap((context) => context.data.candidates.map((candidate) => ({
-    params: { city: context.citySlug, year: String(context.year), slug: candidate.slug },
-    props: { context, candidateId: candidate.id },
-  })));
+  return publishedProfileRoutes(await listPublishedElectionContexts()).map((route) => ({
+    params: { city: route.routeSlug, year: String(route.context.year), slug: route.slug },
+    props: { context: route.context, candidateId: route.candidateId },
+  }));
 }
 
 const { candidateId } = Astro.props;
-const context = Astro.props.context as ElectionContext;
+const context = Astro.props.context as ProfilePageContext;
+const regional = isRegionalContext(context);
 const data = context.data;
 const profile = getCandidateProfile(data, candidateId);
 const candidacies = getOfficialCandidacies(data, candidateId);
+if (regional) candidacies.sort((left, right) => Number(right.electionId === 'region-chair') - Number(left.electionId === 'region-chair'));
 const electionHistory = summarizeElectionHistory(profile.claims);
-const metadata = candidateSeoMetadata(profile.candidate, data.candidates, candidacies, context.cityName, context.year);
+const metadata = candidateSeoMetadata(profile.candidate, data.candidates, candidacies,
+  isRegionalContext(context) ? context.regionName : context.cityName, context.year);
+const breadcrumbs = [
+  { label: 'Mestá a roky', href: '/' },
+  ...(!isRegionalContext(context) ? [
+    { label: `${context.cityName} ${context.year}`, href: context.basePath },
+    { label: 'Kandidáti', href: `${context.basePath}kandidati/` },
+  ] : []),
+  { label: profile.candidate.displayName, href: candidateProfilePath(context, candidateId) },
+];
 const finance = data.campaignFinance.find((record) => record.candidateId === candidateId);
 if (!finance) throw new Error(`Missing campaign finance: ${candidateId}`);
 const financeParties = finance.partyIds.map((id) => {
@@ -37,14 +49,14 @@ const partyNominations = candidacies.filter((item) => profile.candidacies.some((
 const hasIndependentCandidacy = profile.candidacies.some((candidacy) => candidacy.independent) || finance.headCandidacies.some((head) => head.independent);
 ---
 
-<BaseLayout title={metadata.title} description={metadata.description} context={context} personName={profile.candidate.displayName} breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Kandidáti', href: `${context.basePath}kandidati/` }, { label: profile.candidate.displayName, href: `${context.basePath}kandidat/${profile.candidate.slug}/` }]}>
+<BaseLayout title={metadata.title} description={metadata.description} context={context} personName={profile.candidate.displayName} breadcrumbs={breadcrumbs}>
   <article class="candidate-profile" data-candidate-profile data-candidate-id={profile.candidate.id}>
     <header>
       <h1>{profile.candidate.displayName}</h1>
       <SourceLink recordId={profile.candidate.id} sourceIds={profile.candidate.sourceIds} sources={data.sources} />
     </header>
     <ComparisonSelection candidateId={profile.candidate.id} candidateName={profile.candidate.displayName} basePath={context.basePath} />
-    <ComparisonSelection basePath={context.basePath} />
+    <ComparisonSelection basePath={context.basePath} catalogueHref={regional ? `${context.basePath}porovnat/#vyber` : undefined} />
 
     <section aria-labelledby="candidate-candidacies">
       <h2 id="candidate-candidacies">Oficiálne kandidátne údaje</h2>

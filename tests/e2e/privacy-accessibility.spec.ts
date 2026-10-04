@@ -10,7 +10,8 @@ const routes = ['/', BASE, `${BASE}kandidati/`, `${BASE}ako-volit/`, '/metodika/
   '/zilina/2026/', '/zilina/2026/kandidati/', '/zilina/2026/ako-volit/',
   '/zilina/2026/zdroje/', '/zilina/2026/kandidat/peter-cibulka/', '/zilina/2026/porovnat/',
   '/dolny-kubin/2026/', '/dolny-kubin/2026/kandidati/', '/dolny-kubin/2026/ako-volit/',
-  '/dolny-kubin/2026/zdroje/', '/dolny-kubin/2026/kandidat/katarina-brunckova/', '/dolny-kubin/2026/porovnat/'];
+  '/dolny-kubin/2026/zdroje/', '/dolny-kubin/2026/kandidat/katarina-brunckova/', '/dolny-kubin/2026/porovnat/',
+  '/zilinsky-kraj/2026/kandidat/martin-kapitulik/', '/zilinsky-kraj/2026/porovnat/'];
 const LEGAL_NOTICE = 'Tento web nikoho nevyzýva, aby volil alebo nevolil konkrétneho kandidáta, politickú stranu alebo koalíciu.';
 
 for (const path of routes) {
@@ -46,9 +47,7 @@ test('search is keyboard usable, loads only on focus, and returns candidate and 
   await expect(input).toBeFocused();
   await input.fill('Milan POVA');
   await expect(page.locator('[data-search-status]')).toContainText('Výsledky hľadania');
-  await expect(page.locator('[data-search-results] a[href="/liptovsky-mikulas/2026/kandidat/milan-pova/"]')).toBeVisible();
-  await expect(page.locator('[data-search-results] a[href="/ruzomberok/2026/kandidat/milan-pova/"]')).toBeVisible();
-  await expect(page.locator('[data-search-results] a[href="/zilina/2026/kandidat/milan-pova/"]')).toBeVisible();
+  await expect(page.locator('[data-search-results] a[href="/zilinsky-kraj/2026/kandidat/milan-pova/"]')).toHaveCount(1);
   await input.fill('Dátum vydania');
   const sourceResult = page.locator(`[data-search-results] a[href^="${BASE}zdroje/"]`).first();
   await expect(sourceResult).toBeVisible();

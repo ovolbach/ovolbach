@@ -1,8 +1,10 @@
 import { expect, test } from '@playwright/test';
-import { loadGuideData } from '../../src/lib/load-guide-data';
+import { loadElectionContext } from '../../src/lib/load-guide-data';
+import { candidateProfilePath } from '../../src/lib/regional-context';
 import { isSafeOutboundSourceUrl } from '../../src/lib/source-url';
 
-const { candidates, claims, researchCoverage, sources: sourceRecords } = await loadGuideData();
+const context = await loadElectionContext({ citySlug: 'liptovsky-mikulas', year: 2026 });
+const { candidates, claims, researchCoverage, sources: sourceRecords } = context.data;
 
 const JAN_BLCHAC = 'jan-blchac';
 const PETER_BONKO = 'peter-bonko';
@@ -76,9 +78,9 @@ test('profile summarizes election participation and elected offices since 2000',
 test('all canonical candidate profile links resolve', async ({ page }) => {
   expect(candidates).toHaveLength(91);
   expect(new Set(candidates.map((candidate) => candidate.slug)).size).toBe(91);
-  expect(new Set(candidates.map((candidate) => `${BASE}kandidat/${candidate.slug}/`)).size).toBe(91);
+  expect(new Set(candidates.map((candidate) => candidateProfilePath(context, candidate.id))).size).toBe(91);
   for (const candidate of candidates) {
-    const response = await page.goto(`${BASE}kandidat/${candidate.slug}/`);
+    const response = await page.goto(candidateProfilePath(context, candidate.id));
     expect(response?.status(), candidate.slug).toBe(200);
   }
 });

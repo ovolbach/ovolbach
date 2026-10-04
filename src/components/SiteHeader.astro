@@ -1,8 +1,9 @@
 ---
 import { SITE_TITLE } from '../config/site';
-import type { ElectionContext } from '../lib/load-guide-data';
-interface Props { context?: ElectionContext | undefined }
+import { isRegionalContext, type ProfilePageContext } from '../lib/regional-context';
+interface Props { context?: ProfilePageContext | undefined }
 const { context } = Astro.props;
+const municipal = context && !isRegionalContext(context);
 ---
 
 <header class="site-header" data-pagefind-ignore>
@@ -11,11 +12,11 @@ const { context } = Astro.props;
     <nav aria-label="Hlavná navigácia">
       <ul class="site-nav">
         <li><a href="/">Mestá a roky</a></li>
-        {context && <li><a href={context.basePath}>Prehľad</a></li>}
-        {context && <li><a href={`${context.basePath}kandidati/`}>Kandidáti</a></li>}
+        {municipal && <li><a href={context.basePath}>Prehľad</a></li>}
+        {municipal && <li><a href={`${context.basePath}kandidati/`}>Kandidáti</a></li>}
         {context && <li><a href={`${context.basePath}porovnat/`}>Porovnať</a></li>}
-        {context && <li><a href={`${context.basePath}ako-volit/`}>Ako voliť</a></li>}
-        <li><a href={context ? `${context.basePath}zdroje/` : '/zdroje/'}>Zdroje</a></li>
+        {municipal && <li><a href={`${context.basePath}ako-volit/`}>Ako voliť</a></li>}
+        <li><a href={municipal ? `${context.basePath}zdroje/` : '/zdroje/'}>Zdroje</a></li>
         <li><a href="/metodika/">Metodika</a></li>
       </ul>
     </nav>

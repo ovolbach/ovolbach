@@ -1,13 +1,15 @@
 ---
-import type { ElectionContext } from '../lib/load-guide-data';
+import { isRegionalContext, type ProfilePageContext } from '../lib/regional-context';
 import { listElectionContextConfigs } from '../lib/load-guide-data';
-interface Props { context?: ElectionContext | undefined }
+interface Props { context?: ProfilePageContext | undefined }
 const { context } = Astro.props;
 const contexts = (await listElectionContextConfigs()).filter((item) => item.status === 'published')
-  .map((item) => ({ citySlug: item.citySlug, cityName: item.cityName, year: item.year }));
+  .map((item) => ({ citySlug: item.citySlug, cityName: item.cityName, year: item.year, regionSlug: item.regionSlug, regionName: item.regionName }));
 ---
 <section class="site-search shell" aria-label="Vyhľadávanie na stránke" data-pagefind-ignore>
-  <form role="search" data-search-form data-search-city={context?.citySlug ?? ''} data-search-year={context?.year ?? ''} data-search-contexts={JSON.stringify(contexts)}>
+  <form role="search" data-search-form data-search-city={context && !isRegionalContext(context) ? context.citySlug : ''}
+    data-search-region={context && isRegionalContext(context) ? context.regionSlug : ''}
+    data-search-year={context?.year ?? ''} data-search-contexts={JSON.stringify(contexts)}>
     <label for="site-search-input">Hľadať na ovolbach.sk</label>
     <input
       id="site-search-input"

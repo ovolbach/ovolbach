@@ -15,6 +15,7 @@
     "validate:release": "tsx scripts/validate-data.ts --mode=release",
     "build": "npm run validate:data && astro check && astro build && tsx scripts/generate-sitemap.ts && pagefind --site dist",
     "check:seo": "tsx scripts/seo-artifacts.ts --check",
+    "check:redirects": "tsx scripts/check-regional-redirects.ts",
     "check:html": "node scripts/check-html.mjs",
     "preview": "astro preview",
     "test:e2e": "playwright test",

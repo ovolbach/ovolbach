@@ -8,8 +8,8 @@ export function affiliationLabel(candidacy: Candidacy): string {
 
 export function getOfficialCandidacies(data: GuideData, candidateId: string) {
   return getCandidateProfile(data, candidateId).candidacies.map((candidacy) => {
-    const election = data.elections.find((item) => item.id === candidacy.electionId);
-    if (!election) throw new Error(`${candidacy.id}: unknown election ${candidacy.electionId}`);
+    const election = data.elections.find((item) => item.contestId === candidacy.contestId && item.id === candidacy.electionId);
+    if (!election) throw new Error(`${candidacy.id}: unknown election ${candidacy.contestId}`);
     const district = candidacy.districtId ? data.districts.find((item) => item.id === candidacy.districtId) : undefined;
     if (candidacy.districtId && !district) throw new Error(`${candidacy.id}: unknown district ${candidacy.districtId}`);
     // Resolve every contributing record separately: an empty source list must fail closed.
