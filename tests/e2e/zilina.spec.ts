@@ -65,7 +65,7 @@ test('rechecked Žilina campaign accounts expose the verified bank link and iden
   for (const [slug, accountUrl, evidenceUrl] of [
     ['rastislav-johanes', 'https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131', 'https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/150_oso/OSO26_ZZK-Starosta.xlsx'],
     ['miroslav-sokol', 'https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679', 'https://miroslavsokol.sk/kandidat/'],
-  ]) {
+  ] as const) {
     await page.goto(`${BASE}kandidat/${slug}/`);
     const finance = page.locator('[data-campaign-finance]');
     await expect(finance.locator('[data-personal-account]')).toHaveAttribute('href', accountUrl);
