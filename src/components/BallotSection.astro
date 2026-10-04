@@ -3,14 +3,13 @@ import CandidateCard from './CandidateCard.astro';
 import { getBallotSelectionLimit, type BallotView } from '../lib/selectors';
 import SourceLink from './SourceLink.astro';
 import type { Source } from '../lib/schemas';
-import type { ElectionContext } from '../lib/load-guide-data';
-import { candidateProfilePath } from '../lib/regional-context';
+import { candidateProfilePath, type ProfilePageContext } from '../lib/regional-context';
 
 interface Props {
   ballot: BallotView;
   sources: Source[];
   headingLevel?: 'h2' | 'h3';
-  context: ElectionContext;
+  context: ProfilePageContext;
 }
 
 const { ballot, sources, context } = Astro.props;

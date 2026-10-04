@@ -105,6 +105,22 @@ function regionalDistrictForContext(data: GuideData, regionalDistrictId: string)
   return matches[0]!;
 }
 
+export function getRegionalChairBallot(data: GuideData): BallotView {
+  const election = electionById(data, 'region-chair');
+  const candidates = data.candidacies
+    .filter((candidacy) => candidacy.electionId === 'region-chair' && candidacy.contestId === election.contestId)
+    .slice()
+    .sort(byBallotNumber)
+    .map((candidacy) => ({
+      ...candidateById(data, candidacy.candidateId),
+      candidacy,
+      electionHistory: summarizeElectionHistory(
+        data.claims.filter((claim) => claim.candidateId === candidacy.candidateId),
+      ),
+    }));
+  return { election, candidates };
+}
+
 export function getBallotsForDistrict(data: GuideData, districtId: string, regionalDistrictId: string): BallotView[] {
   const district = data.districts.find((record) => record.id === districtId);
   if (!district) throw new Error(`Unknown district: ${districtId}`);
