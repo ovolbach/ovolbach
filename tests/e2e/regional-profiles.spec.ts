@@ -18,7 +18,7 @@ test('shared profile preserves all candidacies and canonical identity', async ({
   });
   expect((await page.title()).length).toBeLessThanOrEqual(60);
   expect((await page.locator('meta[name="description"]').getAttribute('content'))!.length).toBeLessThanOrEqual(165);
-  await expect(page.getByRole('link', { name: 'Vybrať kandidátov', exact: true })).toHaveAttribute('href', /\/zilinsky-kraj\/2026\/porovnat\/.*#vyber$/);
+  await expect(page.getByRole('link', { name: 'Vybrať kandidátov', exact: true })).toHaveAttribute('href', /\/zilinsky-kraj\/2026\/.*#kandidati$/);
 });
 
 test('regional selection limits, reset and browser history stay in the URL', async ({ page }) => {
@@ -40,8 +40,8 @@ test('regional selection limits, reset and browser history stay in the URL', asy
   await page.getByRole('link', { name: 'Anna BELOUSOVOVÁ, RNDr.', exact: true }).click();
   expect(new URL(page.url()).searchParams.getAll('kandidat')).toHaveLength(4);
   await page.getByRole('link', { name: 'Vybrať kandidátov', exact: true }).click();
-  await expect(page).toHaveURL(/\/zilinsky-kraj\/2026\/porovnat\/.*#vyber$/);
-  await expect(page.locator('[data-comparison-column]')).toHaveCount(4);
+  await expect(page).toHaveURL(/\/zilinsky-kraj\/2026\/.*#kandidati$/);
+  await expect(page.locator('[data-compare-candidate]:checked')).toHaveCount(4);
   for (const params of ['kandidat=candidate-85&kandidat=candidate-85', 'kandidat=unknown&kandidat=candidate-85',
     'kandidat=candidate-85&kandidat=candidate-86&kandidat=candidate-87&kandidat=candidate-88&kandidat=candidate-89']) {
     await page.goto(`${REGION}porovnat/?${params}`);

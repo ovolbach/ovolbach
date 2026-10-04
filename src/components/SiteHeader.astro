@@ -11,9 +11,9 @@ const municipal = context && !isRegionalContext(context);
     <a class="site-title" href="/">{SITE_TITLE}</a>
     <nav aria-label="Hlavná navigácia">
       <ul class="site-nav">
-        <li><a href="/">Mestá a roky</a></li>
-        {municipal && <li><a href={context.basePath}>Prehľad</a></li>}
-        {municipal && <li><a href={`${context.basePath}kandidati/`}>Kandidáti</a></li>}
+        <li><a href="/">Mestá, kraje a roky</a></li>
+        {context && <li><a href={context.basePath}>Prehľad</a></li>}
+        {context && <li><a href={municipal ? `${context.basePath}kandidati/` : `${context.basePath}#kandidati`}>Kandidáti</a></li>}
         {context && <li><a href={`${context.basePath}porovnat/`}>Porovnať</a></li>}
         {municipal && <li><a href={`${context.basePath}ako-volit/`}>Ako voliť</a></li>}
         <li><a href={municipal ? `${context.basePath}zdroje/` : '/zdroje/'}>Zdroje</a></li>

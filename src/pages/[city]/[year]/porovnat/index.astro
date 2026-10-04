@@ -19,7 +19,8 @@ const regional = isRegionalContext(context);
 const data = regional ? { ...context.data, candidacies: context.data.candidacies.filter((row) => row.electionId === 'region-chair') } : context.data;
 const name = isRegionalContext(context) ? context.regionName : context.cityName;
 const breadcrumbs = [
-  { label: 'Mestá a roky', href: '/' },
+  { label: 'Mestá, kraje a roky', href: '/' },
+  ...(isRegionalContext(context) ? [{ label: `${context.regionName} ${context.year}`, href: context.basePath }] : []),
   ...(!isRegionalContext(context) ? [{ label: `${context.cityName} ${context.year}`, href: context.basePath }] : []),
   { label: 'Porovnať kandidátov', href: `${context.basePath}porovnat/` },
 ];
@@ -38,7 +39,7 @@ const breadcrumbs = [
       </li>)}
     </ul>
   </section>}
-  <ComparisonSelection basePath={context.basePath} catalogueHref={regional ? `${context.basePath}porovnat/#vyber` : undefined} />
+  <ComparisonSelection basePath={context.basePath} catalogueHref={regional ? `${context.basePath}#kandidati` : undefined} />
   <ComparisonTable data={data} />
   <script>
     import '../../../../scripts/comparison';

@@ -2,7 +2,7 @@ import AxeBuilder from '@axe-core/playwright';
 import { expect, test } from '@playwright/test';
 
 const BASE = '/liptovsky-mikulas/2026/';
-const routes = ['/', BASE, `${BASE}kandidati/`, `${BASE}ako-volit/`, '/metodika/', '/zdroje/', `${BASE}zdroje/`,
+const routes = ['/', '/zilinsky-kraj/2026/', BASE, `${BASE}kandidati/`, `${BASE}ako-volit/`, '/metodika/', '/zdroje/', `${BASE}zdroje/`,
   '/ruzomberok/2026/', '/ruzomberok/2026/kandidati/', '/ruzomberok/2026/ako-volit/',
   '/ruzomberok/2026/zdroje/', '/ruzomberok/2026/kandidat/martin-alusic/', '/ruzomberok/2026/porovnat/',
   '/martin/2026/', '/martin/2026/kandidati/', '/martin/2026/ako-volit/', '/martin/2026/zdroje/',

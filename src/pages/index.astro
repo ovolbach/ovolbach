@@ -2,14 +2,23 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { SITE_TITLE } from '../config/site';
 import { listPublishedElectionContexts } from '../lib/load-guide-data';
+import { regionalContexts } from '../lib/regional-context';
 
 const contexts = await listPublishedElectionContexts();
+const regions = regionalContexts(contexts);
 const snapshotDate = contexts.map((context) => context.snapshotDate).sort().at(-1)!;
 ---
 
-<BaseLayout title={SITE_TITLE} description="Katalóg komunálnych a krajských volieb podľa mesta a roku." snapshotDate={snapshotDate} pageKind="collection">
-  <h1>Mestá a roky</h1>
-  <p>Vyberte mesto a rok volieb. Staršie roky zostávajú dostupné ako archív.</p>
+<BaseLayout title={SITE_TITLE} description="Katalóg komunálnych a krajských volieb podľa mesta, kraja a roku." snapshotDate={snapshotDate} pageKind="collection">
+  <h1>Mestá, kraje a roky</h1>
+  <p>Vyberte mesto alebo kraj a rok volieb. Staršie roky zostávajú dostupné ako archív.</p>
+  <h2>Kraje</h2>
+  <ul class="region-year-catalogue">
+    {regions.map((context) => (
+      <li><a href={context.basePath}>{context.regionName} — {context.year}</a></li>
+    ))}
+  </ul>
+  <h2>Mestá</h2>
   <ul class="city-year-catalogue">
     {contexts.map((context) => (
       <li><a href={context.basePath}>{context.cityName} — {context.year}</a></li>

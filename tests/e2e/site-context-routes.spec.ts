@@ -2,7 +2,7 @@ import { expect, test } from '@playwright/test';
 
 test('catalogue links to the published city and year', async ({ page }) => {
   await page.goto('/');
-  await expect(page.getByRole('heading', { level: 1 })).toHaveText('Mestá a roky');
+  await expect(page.getByRole('heading', { level: 1 })).toHaveText('Mestá, kraje a roky');
   await page.getByRole('link', { name: /Liptovský Mikuláš.*2026/ }).click();
   await expect(page).toHaveURL(/\/liptovsky-mikulas\/2026\/$/);
   await expect(page.getByRole('heading', { level: 1 })).toContainText('Liptovský Mikuláš');

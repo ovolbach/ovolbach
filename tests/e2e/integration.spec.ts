@@ -99,7 +99,7 @@ test('comparison selection enforces four, synchronizes duplicate cards and resto
   await page.getByRole('link', { name: 'Ako voliť', exact: true }).first().click();
   await page.getByRole('link', { name: 'Porovnať', exact: true }).click();
   await expect(page.locator('[data-comparison-column]')).toHaveCount(4);
-  await page.getByRole('navigation', { name: 'Hlavná navigácia' }).getByRole('link', { name: 'Mestá a roky', exact: true }).click();
+  await page.getByRole('navigation', { name: 'Hlavná navigácia' }).getByRole('link', { name: 'Mestá, kraje a roky', exact: true }).click();
   expect(new URL(page.url()).searchParams.getAll('kandidat')).toEqual([]);
 });
 

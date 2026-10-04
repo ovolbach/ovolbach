@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BallotSection from './BallotSection.astro';
+import ComparisonSelection from './ComparisonSelection.astro';
+import SourceLink from './SourceLink.astro';
+import type { ElectionContext } from '../lib/load-guide-data';
+import type { RegionalElectionContext } from '../lib/regional-context';
+import { getRegionalChairBallot } from '../lib/selectors';
+
+interface Props { context: RegionalElectionContext; cityContexts: ElectionContext[]; }
+const { context, cityContexts } = Astro.props;
+const ballot = getRegionalChairBallot(context.data);
+const districts = cityContexts.map((city) => {
+  const district = city.data.districts.find((row) => row.id === city.regionalDistrictId && row.kind === 'region');
+  if (!district) throw new Error(`Missing regional district: ${city.regionalDistrictId}`);
+  return { city, district };
+}).sort((left, right) => left.district.number - right.district.number);
+const sourceIds = [...new Set(context.data.elections.filter((election) => election.level === 'region')
+  .flatMap((election) => election.sourceIds))];
+const heading = `${context.regionName} – voľby ${context.year}`;
+---
+
+<BaseLayout title={`${heading} | ovolbach.sk`}
+  description={`Kandidáti na predsedu kraja, porovnanie a spracované volebné obvody krajského zastupiteľstva: ${context.regionName} ${context.year}.`}
+  context={context} pageKind="collection"
+  breadcrumbs={[{ label: 'Mestá, kraje a roky', href: '/' }, { label: `${context.regionName} ${context.year}`, href: context.basePath }]}>
+  <h1>{heading}</h1>
+  <p>Prehľad kandidátov na predsedu Žilinského samosprávneho kraja a odkazy na kandidátov do krajského zastupiteľstva podľa spracovaných volebných obvodov. Profily obsahujú overené údaje a odkazy na zdroje.</p>
+  <p data-election-date>Oficiálne zoznamy kandidátov pre voľby <time datetime={ballot.election.electionDate}>{ballot.election.electionDate}</time>.
+    <SourceLink recordId="regional-election-date" sourceIds={ballot.election.sourceIds} sources={context.data.sources} />
+  </p>
+  <ComparisonSelection basePath={context.basePath} catalogueHref={`${context.basePath}#kandidati`} />
+  <div id="kandidati">
+    <BallotSection ballot={ballot} sources={context.data.sources} headingLevel="h2" context={context} />
+  </div>
+  <section aria-labelledby="regional-council">
+    <h2 id="regional-council">Kandidáti do zastupiteľstva kraja</h2>
+    <p>Na webe sú zatiaľ spracované tieto volebné obvody:</p>
+    <ul>
+      {districts.map(({ city, district }) => <li data-regional-district={district.id}>
+        <a href={`${city.basePath}kandidati/?volby=region-council`}>{city.cityName}: {district.name}</a>
+        <SourceLink recordId={district.id} sourceIds={district.sourceIds} sources={city.data.sources} />
+      </li>)}
+    </ul>
+  </section>
+  <section aria-labelledby="regional-sources">
+    <h2 id="regional-sources">Zdroje a metodika</h2>
+    <p><SourceLink recordId="regional-overview-sources" sourceIds={sourceIds} sources={context.data.sources} /></p>
+    <ul>
+      <li><a href="/zdroje/">Register zdrojov</a></li>
+      <li><a href="/metodika/">Metodika overovania údajov</a></li>
+    </ul>
+  </section>
+</BaseLayout>

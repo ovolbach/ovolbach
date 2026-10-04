@@ -31,7 +31,8 @@ const electionHistory = summarizeElectionHistory(profile.claims);
 const metadata = candidateSeoMetadata(profile.candidate, data.candidates, candidacies,
   isRegionalContext(context) ? context.regionName : context.cityName, context.year);
 const breadcrumbs = [
-  { label: 'Mestá a roky', href: '/' },
+  { label: 'Mestá, kraje a roky', href: '/' },
+  ...(isRegionalContext(context) ? [{ label: `${context.regionName} ${context.year}`, href: context.basePath }] : []),
   ...(!isRegionalContext(context) ? [
     { label: `${context.cityName} ${context.year}`, href: context.basePath },
     { label: 'Kandidáti', href: `${context.basePath}kandidati/` },
@@ -56,7 +57,7 @@ const hasIndependentCandidacy = profile.candidacies.some((candidacy) => candidac
       <SourceLink recordId={profile.candidate.id} sourceIds={profile.candidate.sourceIds} sources={data.sources} />
     </header>
     <ComparisonSelection candidateId={profile.candidate.id} candidateName={profile.candidate.displayName} basePath={context.basePath} />
-    <ComparisonSelection basePath={context.basePath} catalogueHref={regional ? `${context.basePath}porovnat/#vyber` : undefined} />
+    <ComparisonSelection basePath={context.basePath} catalogueHref={regional ? `${context.basePath}#kandidati` : undefined} />
 
     <section aria-labelledby="candidate-candidacies">
       <h2 id="candidate-candidacies">Oficiálne kandidátne údaje</h2>

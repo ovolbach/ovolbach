@@ -39,7 +39,9 @@ npm run dev
 
 Vývojový server Astro zobrazí lokálnu adresu v termináli.
 
-## Mestá a roky
+## Mestá, kraje a roky
+
+Úvodný katalóg oddeľuje publikované kraje a mestá. Krajský prehľad na `/{kraj}/{rok}/`, napríklad `/zilinsky-kraj/2026/`, zobrazuje kandidátov na predsedu v poradí hlasovacieho lístka a výber na porovnanie. Spracované krajské obvody sú zoradené podľa čísla a odkazujú na mestské katalógy s `?volby=region-council`; prehľad označuje aktuálny rozsah pokrytia. Dátum volieb a kandidátne či obvodové údaje odkazujú na existujúce zdroje. Prehľad je indexovateľný, zahrnutý v sitemap a Pagefind. Krajské profily a porovnanie odkazujú na prehľad aj na jeho zoznam `#kandidati`, pričom výber kandidátov zostáva v adrese.
 
 Úvodná stránka `/` uvádza iba publikované mestá a roky. Sprievodca má adresu `/{mesto}/{rok}/`; katalóg kandidátov, profil, porovnanie, návod na voľbu a podrobný register zdrojov sú pod touto adresou. Staré adresy bez mesta a roku statický výstup negeneruje; produkčný Nginx presmeruje vybrané historické adresy na aktuálny kontext. Metodika je na `/metodika/`; `/zdroje/` slúži ako rozcestník registrov podľa mesta a roku.
 

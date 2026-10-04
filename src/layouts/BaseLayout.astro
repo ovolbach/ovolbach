@@ -94,7 +94,7 @@ const jsonLd = JSON.stringify({ '@context': 'https://schema.org', '@graph': grap
     {indexable && <script type="application/ld+json" set:html={jsonLd} />}
   </head>
   <body data-context-base={context?.basePath ?? ''}
-    data-compare-catalogue={regional ? `${context.basePath}porovnat/#vyber` : undefined}
+    data-compare-catalogue={regional ? `${context.basePath}#kandidati` : undefined}
     data-compare-candidate-ids={regional ? JSON.stringify(context.data.candidates.map((candidate) => candidate.id)) : undefined}>
     <a class="skip-link" href="#main-content">Preskočiť na obsah</a>
     <SiteHeader context={context} />
