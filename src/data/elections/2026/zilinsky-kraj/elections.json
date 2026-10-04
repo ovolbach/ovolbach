@@ -79,6 +79,32 @@
   },
   {
     "id": "mayor",
+    "contestId": "2026-mt-mayor",
+    "title": {
+      "sk": "Voľby primátora mesta Martin"
+    },
+    "level": "city",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "mt-municipal-roster-2026"
+    ]
+  },
+  {
+    "id": "city-council",
+    "contestId": "2026-mt-city-council",
+    "title": {
+      "sk": "Voľby do Mestského zastupiteľstva mesta Martin"
+    },
+    "level": "city",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "mt-municipal-roster-2026"
+    ]
+  },
+  {
+    "id": "mayor",
     "contestId": "2026-za-mayor",
     "title": {
       "sk": "Voľby primátora mesta Žilina"

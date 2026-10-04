@@ -573,6 +573,105 @@
     ]
   },
   {
+    "id": "2026-mt-city-1",
+    "kind": "city",
+    "number": 1,
+    "name": "Martin – Ľadoveň-Jahodníky-Tomčany-Stred",
+    "seats": 8,
+    "areas": [
+      "Ľadoveň",
+      "Jahodníky",
+      "Tomčany",
+      "Stred"
+    ],
+    "pollingStations": [],
+    "sourceIds": [
+      "mt-city-districts-2026",
+      "mt-city-polling-2026",
+      "mt-town-only-polling-2026",
+      "mt-quarter-ladoven-jahodniky-tomcany",
+      "mt-quarter-stred"
+    ]
+  },
+  {
+    "id": "2026-mt-city-2",
+    "kind": "city",
+    "number": 2,
+    "name": "Martin – Sever-Košúty",
+    "seats": 5,
+    "areas": [
+      "Sever",
+      "Košúty"
+    ],
+    "pollingStations": [],
+    "sourceIds": [
+      "mt-city-districts-2026",
+      "mt-city-polling-2026",
+      "mt-town-only-polling-2026",
+      "mt-quarter-sever",
+      "mt-quarter-kosuty"
+    ]
+  },
+  {
+    "id": "2026-mt-city-3",
+    "kind": "city",
+    "number": 3,
+    "name": "Martin – Priekopa",
+    "seats": 5,
+    "areas": [
+      "Priekopa"
+    ],
+    "pollingStations": [],
+    "sourceIds": [
+      "mt-city-districts-2026",
+      "mt-city-polling-2026",
+      "mt-town-only-polling-2026",
+      "mt-quarter-priekopa"
+    ]
+  },
+  {
+    "id": "2026-mt-city-4",
+    "kind": "city",
+    "number": 4,
+    "name": "Martin – Záturčie-Podháj-Stráne",
+    "seats": 7,
+    "areas": [
+      "Záturčie",
+      "Podháj",
+      "Stráne"
+    ],
+    "pollingStations": [],
+    "sourceIds": [
+      "mt-city-districts-2026",
+      "mt-city-polling-2026",
+      "mt-town-only-polling-2026",
+      "mt-quarter-zaturcie",
+      "mt-quarter-podhaj"
+    ]
+  },
+  {
+    "id": "2026-zsk-region-6",
+    "kind": "region",
+    "number": 6,
+    "name": "Volebný obvod č. 6 — Martin",
+    "seats": 8,
+    "areas": [
+      "Územie okresu Martin",
+      "Abramová",
+      "Blažovce",
+      "Borcová",
+      "Jazernica",
+      "Moškovec",
+      "Mošovce",
+      "Ondrašová"
+    ],
+    "pollingStations": [],
+    "sourceIds": [
+      "mt-regional-district-2026",
+      "mt-zsk-district-6-roster-2026"
+    ]
+  },
+  {
     "id": "2026-za-city-1",
     "kind": "city",
     "number": 1,

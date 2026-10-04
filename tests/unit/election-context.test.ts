@@ -73,12 +73,14 @@ describe('election context', () => {
       listPublishedElectionContexts?: () => Promise<Array<{ citySlug: string; year: number; basePath: string; data: GuideData }>>;
     };
     const published = await loader.listPublishedElectionContexts?.();
-    expect(published?.map((context) => context.basePath)).toEqual(['/liptovsky-mikulas/2026/', '/ruzomberok/2026/', '/zilina/2026/']);
-    expect(published?.[0]?.data.candidates).toHaveLength(91);
-    expect(published?.[0]?.data.candidacies).toHaveLength(109);
-    expect(published?.[0]?.data.claims).toHaveLength(604);
-    expect(published?.[2]?.data.candidates).toHaveLength(135);
-    expect(published?.[2]?.data.candidacies).toHaveLength(192);
+    expect(published?.map((context) => context.basePath)).toEqual(['/liptovsky-mikulas/2026/', '/martin/2026/', '/ruzomberok/2026/', '/zilina/2026/']);
+    const lm = published?.find((context) => context.citySlug === 'liptovsky-mikulas');
+    const zilina = published?.find((context) => context.citySlug === 'zilina');
+    expect(lm?.data.candidates).toHaveLength(91);
+    expect(lm?.data.candidacies).toHaveLength(109);
+    expect(lm?.data.claims).toHaveLength(621);
+    expect(zilina?.data.candidates).toHaveLength(135);
+    expect(zilina?.data.candidacies).toHaveLength(192);
   });
 
   it('scopes Ružomberok to its five city districts and regional district 8', () => {

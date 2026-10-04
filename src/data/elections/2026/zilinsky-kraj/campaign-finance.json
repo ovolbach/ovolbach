@@ -5603,6 +5603,4035 @@
     }
   },
   {
+    "id": "finance-mt-marek-belak",
+    "candidateId": "mt-marek-belak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Martin",
+        "population": 49693,
+        "independent": true,
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-jan-danko",
+    "candidateId": "mt-jan-danko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Martin",
+        "population": 49693,
+        "independent": true,
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ],
+      "reason": "V zozname Ministerstva vnútra SR je rovnaké meno. Priradenie účtu ku kandidátovi nebolo potvrdené menom a dvoma ďalšími zhodnými údajmi."
+    }
+  },
+  {
+    "id": "finance-mt-milan-ftorek",
+    "candidateId": "mt-milan-ftorek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "yes",
+    "expenseSourceIds": [
+      "mt-ftorek-financing-2026"
+    ],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Martin",
+        "population": 49693,
+        "independent": true,
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "verified",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7911000000002976122236",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026",
+        "mt-ftorek-financing-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Martin",
+          "sourceIds": [
+            "mt-ftorek-financing-2026",
+            "mt-municipal-roster-2026"
+          ]
+        },
+        {
+          "attribute": "office",
+          "value": "kandidát na primátora mesta Martin",
+          "sourceIds": [
+            "mt-ftorek-financing-2026",
+            "mt-municipal-roster-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-renata-habrunova",
+    "candidateId": "mt-renata-habrunova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Martin",
+        "population": 49693,
+        "independent": true,
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ],
+      "reason": "V zozname Ministerstva vnútra SR je rovnaké meno. Priradenie účtu ku kandidátovi nebolo potvrdené menom a dvoma ďalšími zhodnými údajmi."
+    }
+  },
+  {
+    "id": "finance-mt-igor-hubacek",
+    "candidateId": "mt-igor-hubacek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Martin",
+        "population": 49693,
+        "independent": false,
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "verified",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7211000000002975126366",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026",
+        "mt-hubacek-campaign-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Martin",
+          "sourceIds": [
+            "mt-hubacek-campaign-2026",
+            "mt-municipal-roster-2026"
+          ]
+        },
+        {
+          "attribute": "office",
+          "value": "kandidát na primátora mesta Martin",
+          "sourceIds": [
+            "mt-hubacek-campaign-2026",
+            "mt-municipal-roster-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-jozef-petras",
+    "candidateId": "mt-jozef-petras",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Martin",
+        "population": 49693,
+        "independent": true,
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ],
+      "reason": "V zozname Ministerstva vnútra SR je rovnaké meno. Priradenie účtu ku kandidátovi nebolo potvrdené menom a dvoma ďalšími zhodnými údajmi."
+    }
+  },
+  {
+    "id": "finance-mt-matej-turzo",
+    "candidateId": "mt-matej-turzo",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Martin",
+        "population": 49693,
+        "independent": true,
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "verified",
+      "url": "https://moja.csob.sk/transparent-accounts/aa23c1881676a138cfd53748428aadf8b999aac59c8b59b28849ab014ec86c2d",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026",
+        "mt-turzo-campaign-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Martin",
+          "sourceIds": [
+            "mt-turzo-campaign-2026",
+            "mt-municipal-roster-2026"
+          ]
+        },
+        {
+          "attribute": "office",
+          "value": "kandidát na primátora mesta Martin",
+          "sourceIds": [
+            "mt-turzo-campaign-2026",
+            "mt-municipal-roster-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-michal-uhercik",
+    "candidateId": "mt-michal-uhercik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Martin",
+        "population": 49693,
+        "independent": false,
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-pavol-zemko",
+    "candidateId": "mt-pavol-zemko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Martin",
+        "population": 49693,
+        "independent": true,
+        "sourceIds": [
+          "mt-municipal-roster-2026",
+          "mt-election-population-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-matej-borik",
+    "candidateId": "mt-matej-borik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-martina-brem-knorova",
+    "candidateId": "mt-martina-brem-knorova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-jozef-ciller",
+    "candidateId": "mt-jozef-ciller",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-tatiana-cervenova",
+    "candidateId": "mt-tatiana-cervenova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-martin-dudik",
+    "candidateId": "mt-martin-dudik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "strana-vidieka"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-katarina-duchovna",
+    "candidateId": "mt-katarina-duchovna",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-marina-gallova",
+    "candidateId": "mt-marina-gallova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-peter-grom",
+    "candidateId": "mt-peter-grom",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-peter-hascik",
+    "candidateId": "mt-peter-hascik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-dusan-hasko",
+    "candidateId": "mt-dusan-hasko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-andrej-hasta",
+    "candidateId": "mt-andrej-hasta",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "volt-slovensko"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-pavol-hustava",
+    "candidateId": "mt-pavol-hustava",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-ivan-jancko",
+    "candidateId": "mt-ivan-jancko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-matej-jenigar",
+    "candidateId": "mt-matej-jenigar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-viliam-komora",
+    "candidateId": "mt-viliam-komora",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-michal-kral",
+    "candidateId": "mt-michal-kral",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-zdenka-lackova",
+    "candidateId": "mt-zdenka-lackova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-martin-lechan",
+    "candidateId": "mt-martin-lechan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-juraj-marcek",
+    "candidateId": "mt-juraj-marcek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-jaroslav-markovic",
+    "candidateId": "mt-jaroslav-markovic",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-alzbeta-martinicka",
+    "candidateId": "mt-alzbeta-martinicka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-alena-matejova",
+    "candidateId": "mt-alena-matejova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-stanislav-ondrus",
+    "candidateId": "mt-stanislav-ondrus",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-bibiana-panisova",
+    "candidateId": "mt-bibiana-panisova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-marian-polacek",
+    "candidateId": "mt-marian-polacek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-zdenka-racayova",
+    "candidateId": "mt-zdenka-racayova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-juraj-slastan",
+    "candidateId": "mt-juraj-slastan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-andrej-sobcak",
+    "candidateId": "mt-andrej-sobcak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-juraj-stahl",
+    "candidateId": "mt-juraj-stahl",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-tomas-turcan",
+    "candidateId": "mt-tomas-turcan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-vladimir-zaborsky",
+    "candidateId": "mt-vladimir-zaborsky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-dana-zigova",
+    "candidateId": "mt-dana-zigova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-tibor-adamko",
+    "candidateId": "mt-tibor-adamko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-zuzana-badova",
+    "candidateId": "mt-zuzana-badova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-jan-drahos",
+    "candidateId": "mt-jan-drahos",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-zuzana-durkovic-zubercova",
+    "candidateId": "mt-zuzana-durkovic-zubercova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-veronika-gajdosova-ladnakova",
+    "candidateId": "mt-veronika-gajdosova-ladnakova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-katarina-hrinova",
+    "candidateId": "mt-katarina-hrinova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-marek-hromadko",
+    "candidateId": "mt-marek-hromadko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-robert-janu",
+    "candidateId": "mt-robert-janu",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-tomas-kalina",
+    "candidateId": "mt-tomas-kalina",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-adrian-kosa",
+    "candidateId": "mt-adrian-kosa",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-jozef-kristoffy",
+    "candidateId": "mt-jozef-kristoffy",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-martin-lepej",
+    "candidateId": "mt-martin-lepej",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-richard-liska",
+    "candidateId": "mt-richard-liska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-michal-matejicka",
+    "candidateId": "mt-michal-matejicka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-peter-mestan",
+    "candidateId": "mt-peter-mestan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-marcela-mihalikova",
+    "candidateId": "mt-marcela-mihalikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-marek-pacalaj",
+    "candidateId": "mt-marek-pacalaj",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-jan-richter",
+    "candidateId": "mt-jan-richter",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-filip-subrt",
+    "candidateId": "mt-filip-subrt",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-martin-sutiak",
+    "candidateId": "mt-martin-sutiak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-tomas-tomka",
+    "candidateId": "mt-tomas-tomka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-andrea-baceova",
+    "candidateId": "mt-andrea-baceova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-mario-becak",
+    "candidateId": "mt-mario-becak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-daniel-diskanec",
+    "candidateId": "mt-daniel-diskanec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-kristina-ftorekova",
+    "candidateId": "mt-kristina-ftorekova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-martin-hudec",
+    "candidateId": "mt-martin-hudec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-peter-kasuba",
+    "candidateId": "mt-peter-kasuba",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "som-slovensko-strana-obci-a-miest"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-robert-kollar",
+    "candidateId": "mt-robert-kollar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-matej-kralik",
+    "candidateId": "mt-matej-kralik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-viliam-majda",
+    "candidateId": "mt-viliam-majda",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-stanislav-sturik",
+    "candidateId": "mt-stanislav-sturik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-stanislav-thomka",
+    "candidateId": "mt-stanislav-thomka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-lubomir-vanko",
+    "candidateId": "mt-lubomir-vanko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-peter-vons",
+    "candidateId": "mt-peter-vons",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-adam-zilak",
+    "candidateId": "mt-adam-zilak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-daniel-babka",
+    "candidateId": "mt-daniel-babka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-stefan-balosak",
+    "candidateId": "mt-stefan-balosak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-marcela-balosakova",
+    "candidateId": "mt-marcela-balosakova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-marian-fedor",
+    "candidateId": "mt-marian-fedor",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-marian-ferenc",
+    "candidateId": "mt-marian-ferenc",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-livia-gergisakova",
+    "candidateId": "mt-livia-gergisakova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-filip-horansky",
+    "candidateId": "mt-filip-horansky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-veronika-hrklova",
+    "candidateId": "mt-veronika-hrklova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-branislav-hubacek",
+    "candidateId": "mt-branislav-hubacek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-tomas-ignacak",
+    "candidateId": "mt-tomas-ignacak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-peter-junas",
+    "candidateId": "mt-peter-junas",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-viera-kmetova",
+    "candidateId": "mt-viera-kmetova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-ivana-kovacikova",
+    "candidateId": "mt-ivana-kovacikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-zdenko-kozak",
+    "candidateId": "mt-zdenko-kozak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-julius-krivus",
+    "candidateId": "mt-julius-krivus",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-martin-litv-aj",
+    "candidateId": "mt-martin-litv-aj",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-peter-matejka",
+    "candidateId": "mt-peter-matejka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-peter-torok",
+    "candidateId": "mt-peter-torok",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-dusan-zachar",
+    "candidateId": "mt-dusan-zachar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "bratia-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-marian-zajasensky",
+    "candidateId": "mt-marian-zajasensky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sloboda-a-solidarita",
+      "progresivne-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "demokrati",
+      "obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-tomas-zanovit",
+    "candidateId": "mt-tomas-zanovit",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-municipal-roster-2026",
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "slovenska-narodna-strana",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-peter-belica",
+    "candidateId": "mt-peter-belica",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-vladimir-boka",
+    "candidateId": "mt-vladimir-boka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovexit"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-dana-cervanova",
+    "candidateId": "mt-dana-cervanova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-vladimir-cambor",
+    "candidateId": "mt-vladimir-cambor",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-karol-cicmanec",
+    "candidateId": "mt-karol-cicmanec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-juraj-diabelko",
+    "candidateId": "mt-juraj-diabelko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-ivan-doskocil",
+    "candidateId": "mt-ivan-doskocil",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-lubos-gottwald",
+    "candidateId": "mt-lubos-gottwald",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-miroslav-herak",
+    "candidateId": "mt-miroslav-herak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "komunisticka-strana-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-milos-hlavaty",
+    "candidateId": "mt-milos-hlavaty",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-martina-jesenska",
+    "candidateId": "mt-martina-jesenska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie",
+      "hnutie-slovensko",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita",
+      "demokrati",
+      "za-ludi",
+      "konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-tomas-kalnicky",
+    "candidateId": "mt-tomas-kalnicky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-elena-krajcova",
+    "candidateId": "mt-elena-krajcova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-pavol-kubala",
+    "candidateId": "mt-pavol-kubala",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-roman-kubala",
+    "candidateId": "mt-roman-kubala",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-marcel-matovcik",
+    "candidateId": "mt-marcel-matovcik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-jan-mlynar",
+    "candidateId": "mt-jan-mlynar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-lucia-omamikova",
+    "candidateId": "mt-lucia-omamikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [
+      "smer-socialna-demokracia",
+      "hlas-socialna-demokracia",
+      "domov-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-lenka-sluchova",
+    "candidateId": "mt-lenka-sluchova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-mt-branislav-zacharides",
+    "candidateId": "mt-branislav-zacharides",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-03",
+    "sourceIds": [
+      "mt-zsk-district-6-roster-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-law-181-2014",
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Overené sú kandidátne listiny tohto sprievodcu. Úplný zoznam prípadných ďalších kandidatúr mimo jeho územného rozsahu nebol potvrdený.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
     "id": "finance-za-zuzana-balogova",
     "candidateId": "za-zuzana-balogova",
     "electionDate": "2026-10-24",

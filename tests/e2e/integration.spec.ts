@@ -45,7 +45,7 @@ test('comparison retains quoted and disputed context on both layouts', async ({ 
   });
   await page.goto(`${BASE}porovnat/?kandidat=candidate-1&kandidat=candidate-2`);
   const visible = page.locator(info.project.name === 'mobile' ? '[data-comparison-mobile]' : '[data-comparison-table]');
-  for (const label of ['Fakt', 'Citát', 'Mediálna správa', 'Vyjadrenie kandidáta', 'Oficiálny výsledok']) {
+  for (const label of ['Fakt', 'Citát', 'Mediálna správa', 'Reakcia', 'Oficiálny výsledok']) {
     await expect(visible.getByText(label, { exact: true })).toBeVisible();
   }
   const quote = visible.locator('[data-claim]').filter({ hasText: 'Testovací text quote' });

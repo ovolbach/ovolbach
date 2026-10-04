@@ -18,6 +18,7 @@ export function getOfficialCandidacies(data: GuideData, candidateId: string) {
       id: candidacy.id, electionId: election.id, election: election.title.sk,
       district: district?.name, ballotNumber: candidacy.ballotNumber,
       ageAtElection: candidacy.ageAtElection, occupationOfficial: candidacy.occupationOfficial,
+      displayNameOfficial: candidacy.displayNameOfficial,
       affiliation: affiliationLabel(candidacy),
       sources,
     };

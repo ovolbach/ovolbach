@@ -1,0 +1,405 @@
+{
+  "snapshotDate": "2026-10-03",
+  "baselineCommit": "7e90ec2",
+  "branch": "codex/martin-2026",
+  "commands": [
+    {
+      "command": "npm test",
+      "exitCode": 0,
+      "log": ".internal/martin-media/gates/final/test.log",
+      "vitestObservedStart": "2026-10-03 19:04:19 UTC",
+      "logModifiedAt": "2026-10-03T19:04:34.419214+00:00",
+      "repeatReason": "Po doplnení registrácií a presných dátumov v auditových chronológiách sa zopakoval celý unit gate. Verejné dáta ani zostava sa pri týchto opravách nemenili.",
+      "summary": "38 súborov a 324 testov prešlo;1 súbor a 4 testy preskočené (nginx nie je v prostredí nainštalovaný).",
+      "logSha256": "9b42e7b363efc5054490e62cdf45ca39007209824462df49d89cd6f8e6f7f8ad"
+    },
+    {
+      "command": "npm run validate:data",
+      "exitCode": 0,
+      "startedAt": "2026-10-03T18:58:56.336456+00:00",
+      "finishedAt": "2026-10-03T18:58:58.244390+00:00",
+      "log": ".internal/martin-media/gates/final/validate-data.log",
+      "summary": "cycles=1 contexts=3 published=3 issues=0",
+      "logSha256": "7e0a75097bf3d91cc911105e229075794512186ebd2ea92d7763f78fa43e68e9"
+    },
+    {
+      "command": "npm run validate:release",
+      "exitCode": 0,
+      "startedAt": "2026-10-03T18:58:58.244971+00:00",
+      "finishedAt": "2026-10-03T18:59:00.095143+00:00",
+      "log": ".internal/martin-media/gates/final/validate-release.log",
+      "summary": "cycles=1 contexts=3 published=3 issues=0",
+      "logSha256": "8a5e66d8b2d9a7e87f1c0b929b26c8cfe2c67b8646962ac1fbd00e0c0231b772"
+    },
+    {
+      "command": "npm run report:coverage",
+      "exitCode": 0,
+      "startedAt": "2026-10-03T18:59:00.095607+00:00",
+      "finishedAt": "2026-10-03T18:59:01.965696+00:00",
+      "log": ".internal/martin-media/gates/final/report-coverage.log",
+      "summary": "releaseReady=true pending=0; Martin 992 záznamov:493 found, 497 searched_none, 2 not_applicable.",
+      "logSha256": "c74fcfe2e5ad4ecc89a170a6e744432831ed31a488b5da0cd2f05d5297055bf9"
+    },
+    {
+      "command": "npm run build",
+      "exitCode": 0,
+      "startedAt": "2026-10-03T18:59:01.966489+00:00",
+      "finishedAt": "2026-10-03T18:59:25.179930+00:00",
+      "log": ".internal/martin-media/gates/final/build.log",
+      "summary": "Astro check, static build, sitemap and Pagefind passed.",
+      "logSha256": "fbdbd7cb51a1d22693fa35a9ac8ec13598303da2516e339b1d4cb88672eec6ed"
+    },
+    {
+      "command": "npm run check:seo",
+      "exitCode": 0,
+      "startedAt": "2026-10-03T18:59:25.180794+00:00",
+      "finishedAt": "2026-10-03T18:59:27.347166+00:00",
+      "log": ".internal/martin-media/gates/final/check-seo.log",
+      "summary": "309 canonical indexable pages;3 noindex comparisons;1 noindex 404.",
+      "logSha256": "46f44a24869c962e6a344a68ca98d882fc2c04c823b36b9ad1cfa3b27487ace9"
+    },
+    {
+      "command": "npm run check:html",
+      "exitCode": 0,
+      "startedAt": "2026-10-03T18:59:27.347681+00:00",
+      "finishedAt": "2026-10-03T18:59:37.471947+00:00",
+      "log": ".internal/martin-media/gates/final/check-html.log",
+      "summary": "313 HTML súborov;0 errors;0 warnings.",
+      "logSha256": "0132455ca40015c30f5e13748016a1b983f718f66df79592ab4f665b91fb6492"
+    },
+    {
+      "command": "npm run check:storage",
+      "exitCode": 0,
+      "startedAt": "2026-10-03T18:59:37.472562+00:00",
+      "finishedAt": "2026-10-03T18:59:43.603667+00:00",
+      "log": ".internal/martin-media/gates/final/check-storage.log",
+      "summary": "Bez zakázaného browser úložiska.",
+      "logSha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd"
+    },
+    {
+      "command": "npm run check:links",
+      "exitCode": 0,
+      "startedAt": "2026-10-03T18:59:43.604093+00:00",
+      "finishedAt": "2026-10-03T19:00:06.799662+00:00",
+      "log": ".internal/martin-media/gates/final/check-links.log",
+      "summary": "626 jedinečných URL;0 unreachable;15 manual-review 403/429.",
+      "logSha256": "e43d7da5e7b5faf481480863b79df268d70b3a6b52368696bb0582cb5ac71595"
+    },
+    {
+      "command": "npm run test:e2e",
+      "exitCode": 0,
+      "log": ".internal/martin-media/gates/final/test-e2e.log",
+      "summary": "166 passed;2 skipped (desktop variants of mobile-only assertions);desktop and mobile.",
+      "logSha256": "beed7ad5dbaa0a1d70c183dc9093d10640da52a128d3deb7f99f1699e3789d64"
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "summary": "Bez chýb bielych znakov; kontrola sa pred commitom zopakuje aj po doplnení dokumentácie."
+    }
+  ],
+  "researchCounts": {
+    "candidates": 124,
+    "candidacies": 155,
+    "baselineMediaClaims": 80,
+    "addedClaims": 94,
+    "addedSources": 77,
+    "eventChains": 84,
+    "removedClaims": 2,
+    "coverageRecords": 992,
+    "pending": 0
+  },
+  "coverageStatuses": {
+    "found": 493,
+    "searched_none": 497,
+    "not_applicable": 2
+  },
+  "red": [
+    {
+      "log": ".internal/martin-media/gates/red.log",
+      "exitCode": 1,
+      "logSha256": "d9bd799f3aa80917be4a096695fde7d645dd17a2dadccb2897faa0ad4406897f"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-expanded.log",
+      "exitCode": 1,
+      "logSha256": "2ddef40ac77f5896e879cb2a7e22de8244ebfa5ca97ddc5c0c2b93057d711033"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-source-headings.log",
+      "exitCode": 1,
+      "logSha256": "57131ef442dc00547c870bf4dd7245aaa24202a56ad0042f3dba4c0d1df409e0"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-later-developments.log",
+      "exitCode": 1,
+      "logSha256": "7a8ecaa159999fd73780e750ea8bf44fc5eafc1c22d029ac001ad09461ee6dd1"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-response-attribution.log",
+      "exitCode": 1,
+      "logSha256": "b6f9b2877d174601d36554f7b76430e48683968dace369b092b47fce4d9ef958"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-cohort-findings.log",
+      "exitCode": 1,
+      "logSha256": "b203f02f482905acf2d170380a3a79774487c5b7064300fc962c98e5f7e2aa3a"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-final-evidence.log",
+      "exitCode": 1,
+      "logSha256": "e5544ba5d06a6fbb56cf852d564c632e50441d8afe591f9ffb07385a2f5f7317"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-canonical-source.log",
+      "exitCode": 1,
+      "logSha256": "b3ceee7e8f329eb4a5a37ea180cd2e036d5ec279c1e5900124ee331ffa36abfe"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-roof-date.log",
+      "exitCode": 1,
+      "logSha256": "c1a5eee58ae353c94f53ae6c99ce67c147257a600e1ebca3d570a4a0dd0c2a57"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-receipt-status.log",
+      "exitCode": 1,
+      "logSha256": "f579dd865e39d7f5aada3839ade62a31565e939ded013f2e169dafcc5deb1fc8"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-chain-balance.log",
+      "exitCode": 1,
+      "logSha256": "ee634bc1aa045f2c3c47e8df60f64b035d74e57b25a67020509028b76e88723f"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-registration-latest.log",
+      "exitCode": 1,
+      "logSha256": "24de913dfbb8905dc536412e0b750f0c9e3f7a4fb972eb09976db627868f483f"
+    },
+    {
+      "log": ".internal/martin-media/gates/red-roster-chronology-dates.log",
+      "exitCode": 1,
+      "logSha256": "f78a7b12798dc508094c9f7088d86287db342f0fd1c660776337f657f47b9065"
+    }
+  ],
+  "green": [
+    {
+      "command": "npm test -- tests/unit/martin-media-review.test.ts tests/unit/martin-roster.test.ts tests/unit/task7-review-regressions.test.ts tests/unit/election-context.test.ts tests/unit/integration-payload.test.ts",
+      "exitCode": 0,
+      "passed": 46
+    },
+    {
+      "command": "npm test -- tests/unit/martin-media-review.test.ts tests/unit/ruzomberok-roster.test.ts",
+      "exitCode": 0,
+      "passed": 34
+    },
+    {
+      "command": "npm test",
+      "exitCode": 0,
+      "passed": 324,
+      "skipped": 4,
+      "provesFinalChronologies": true
+    }
+  ],
+  "manualAccessReview": [
+    {
+      "index": 14,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/blog/5566516/suboj-o-liptovsky-mikulas/",
+      "finalUrl": "https://dennikn.sk/blog/5566516/suboj-o-liptovsky-mikulas/",
+      "sourceIds": [
+        "droppa-mayor-interview-2026"
+      ]
+    },
+    {
+      "index": 124,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://snn.sk/marek-nemec-snazim-sa-sustredit-na-svoju-pracu-nie-na-chyby-inych/",
+      "finalUrl": "https://snn.sk/marek-nemec-snazim-sa-sustredit-na-svoju-pracu-nie-na-chyby-inych/",
+      "sourceIds": [
+        "snn-nemec-interview-2026"
+      ]
+    },
+    {
+      "index": 236,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://e.dennikn.sk/513541/choma-uz-nechcel-mercedes-po-slotovi-kupil-audi-a-potom-zmluvu-zrusil/",
+      "finalUrl": "https://e.dennikn.sk/513541/choma-uz-nechcel-mercedes-po-slotovi-kupil-audi-a-potom-zmluvu-zrusil/",
+      "sourceIds": [
+        "dennike-choma-audi-first-2016"
+      ]
+    },
+    {
+      "index": 415,
+      "status": 429,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://zenskyweb.sk/anna-belousovova-o-tragedii-v-staskove-politickej-krize-aj-buducnosti-zilinskeho-kraja/",
+      "finalUrl": "https://zenskyweb.sk/anna-belousovova-o-tragedii-v-staskove-politickej-krize-aj-buducnosti-zilinskeho-kraja/",
+      "sourceIds": [
+        "zenskyweb-belousovova-interview-2026-09-30"
+      ]
+    },
+    {
+      "index": 475,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.drmax.sk/lekarne/turany-komenskeho-1120",
+      "finalUrl": "https://www.drmax.sk/lekarne/turany-komenskeho-1120",
+      "sourceIds": [
+        "mt-lucia-omamikova-pharmacy"
+      ]
+    },
+    {
+      "index": 513,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://my.sme.sk/turiec/c/o-primatorsku-stolicku-v-martine-chce-zabojovat-aj-zena-pole-uchadzacov-sa-rozsiruje",
+      "finalUrl": "https://my.sme.sk/turiec/c/o-primatorsku-stolicku-v-martine-chce-zabojovat-aj-zena-pole-uchadzacov-sa-rozsiruje",
+      "sourceIds": [
+        "mt-c3-petras-campaign-sme"
+      ]
+    },
+    {
+      "index": 514,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://snn.sk/viliam-komora-narodnostna-nevrazivost-ohrozuje-rodinne-spolunazivanie/",
+      "finalUrl": "https://snn.sk/viliam-komora-narodnostna-nevrazivost-ohrozuje-rodinne-spolunazivanie/",
+      "sourceIds": [
+        "mt-c3-komora-interview-snn"
+      ]
+    },
+    {
+      "index": 515,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/1274149/kandidat-na-primatora-sa-tesil-z-vitazstva-kotlebu-a-klamal-o-tom-remisova-stiahla-podporne-video/",
+      "finalUrl": "https://dennikn.sk/1274149/kandidat-na-primatora-sa-tesil-z-vitazstva-kotlebu-a-klamal-o-tom-remisova-stiahla-podporne-video/",
+      "sourceIds": [
+        "mt-c3-vons-status-dennikn"
+      ]
+    },
+    {
+      "index": 518,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://myturiec.sme.sk/c/22451804/personalne-rosady-v-smere-sa-dotkli-aj-turca.html",
+      "finalUrl": "https://myturiec.sme.sk/c/22451804/personalne-rosady-v-smere-sa-dotkli-aj-turca.html",
+      "sourceIds": [
+        "mt-c3-panisova-sme"
+      ]
+    },
+    {
+      "index": 526,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/982684/veril-hoaxom-ked-na-moje-nazory-agresivne-utocili-sebej-ci-havran-len-som-sa-v-nich-utvrdzoval/",
+      "finalUrl": "https://dennikn.sk/982684/veril-hoaxom-ked-na-moje-nazory-agresivne-utocili-sebej-ci-havran-len-som-sa-v-nich-utvrdzoval/",
+      "sourceIds": [
+        "mt-c3-ftorek-interview-dennikn"
+      ]
+    },
+    {
+      "index": 605,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6211000000002975097737",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6211000000002975097737",
+      "sourceIds": [
+        "finance-candidate-89"
+      ]
+    },
+    {
+      "index": 608,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7911000000002976122236",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7911000000002976122236",
+      "sourceIds": [
+        "finance-mt-milan-ftorek"
+      ]
+    },
+    {
+      "index": 609,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7211000000002975126366",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7211000000002975126366",
+      "sourceIds": [
+        "finance-mt-igor-hubacek"
+      ]
+    },
+    {
+      "index": 616,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219",
+      "sourceIds": [
+        "progresivne-slovensko"
+      ]
+    },
+    {
+      "index": 625,
+      "status": 403,
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6311000000002942304832",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6311000000002942304832",
+      "sourceIds": [
+        "volt-slovensko"
+      ]
+    }
+  ],
+  "sourceAccessNotes": [
+    "403/429 v link gate je limit automatického GET; nejde o potvrdenie článku. Pri výskume a revízii sa používali pôvodné stránky a úradné dokumenty. Pri čiastočnom prístupe sa použila iba priamo čitateľná relevantná pasáž; predplatiteľské obmedzenie pri Pánisovej je zaznamenané v kvitancii a chronológii.",
+    "SOI dokument s aktuálnym404 zostáva iba v withhold logu; nie je finálnym zdrojom ani tvrdením.",
+    "Dva nedostupné programové podklady Martinplus boli odstránené; identity pri TASR správach sú nahradené dostupnými primárnymi mostami.",
+    "Bankové výstupy sa nerešeršovali nanovo; financovanie je voči baseline nezmenené."
+  ],
+  "browser": {
+    "PLAYWRIGHT_BROWSERS_PATH": "/tmp/uctomost-browsers",
+    "LD_LIBRARY_PATH": "/tmp/uctomost-browser-libs/usr/lib/x86_64-linux-gnu",
+    "TMPDIR": "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/martin-2026/.internal/martin/browser-tmp",
+    "previewPort": 4321,
+    "manuallyStarted": true,
+    "previewStopped": true,
+    "portClosed": true
+  },
+  "initialFailures": [
+    "Staršie testy očakávali604/503tvrdení alebo úplne nezmenený museum text. Boli upravené iba pre17dokumentovaných spoločných tvrdení a auditované korekcie; pôvodná SHAfixture sa nemenila.",
+    "Prvá kontrola zdrojov chronológie používala zdroje načítané pre profil. Opravená kontrola používa globálny register, ktorý obsahuje aj originály citované iba vo výskumnom audite."
+  ],
+  "independentReview": "Samostatný read-only automatizovaný recenzent; finálny verdikt a manifest sú v martin-media-review-2026-independent.json."
+}

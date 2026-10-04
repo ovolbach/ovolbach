@@ -1,0 +1,252 @@
+{
+  "checkedAt": "2026-10-04",
+  "snapshotDate": "2026-10-03",
+  "scope": "Integrácia schválenej Žiliny a mediálneho výskumu do main, bez nových verejných tvrdení.",
+  "parents": {
+    "main": "3f278fd3b9b95e509aa12b6834430c541ebf64c5",
+    "zilina": "23ebba0b225dbc8486e628cee3abbcef3e5326f0"
+  },
+  "dataMerge": {
+    "base": "bf7b081",
+    "main": "3f278fd",
+    "zilina": "23ebba0",
+    "semanticConflicts": 0,
+    "collections": {
+      "src/data/elections/2026/zilinsky-kraj/campaign-finance-parties.json": {
+        "mainRecords": 26,
+        "zilinaRecords": 27,
+        "mergedRecords": 29,
+        "mergedSha256": "6cd1060938b6dedb5c44cfffd0df2379e2476457ed742b154aa5b452fc959ca8"
+      },
+      "src/data/elections/2026/zilinsky-kraj/campaign-finance.json": {
+        "mainRecords": 280,
+        "zilinaRecords": 291,
+        "mergedRecords": 408,
+        "mergedSha256": "a50a64d8de0ec133c0af0adfa3c7fec4ac7f69075a65d2d163bb285c0f3ea34b"
+      },
+      "src/data/elections/2026/zilinsky-kraj/candidacies.json": {
+        "mainRecords": 350,
+        "zilinaRecords": 387,
+        "mergedRecords": 535,
+        "mergedSha256": "a98f273020cc1cc108af3ead6ee3befb896edc91d7d8bf050f743e448b16ad72"
+      },
+      "src/data/elections/2026/zilinsky-kraj/candidates.json": {
+        "mainRecords": 280,
+        "zilinaRecords": 291,
+        "mergedRecords": 408,
+        "mergedSha256": "8213dac985871ea4d068def04b1c7dd1415b4b0c3fa1e6467e15cfa340e7286e"
+      },
+      "src/data/elections/2026/zilinsky-kraj/claims.json": {
+        "mainRecords": 1465,
+        "zilinaRecords": 1851,
+        "mergedRecords": 2319,
+        "mergedSha256": "5f4f4059eaebc6c151af65dff774d529bec062197b941dbcc794cccc23b04cfb"
+      },
+      "src/data/elections/2026/zilinsky-kraj/districts.json": {
+        "mainRecords": 20,
+        "zilinaRecords": 24,
+        "mergedRecords": 29,
+        "mergedSha256": "1d476ec97b7e81bbdd3075511c9d9a2239b96f04c2ed03cf188c1033ede6e75b"
+      },
+      "src/data/elections/2026/zilinsky-kraj/elections.json": {
+        "mainRecords": 8,
+        "zilinaRecords": 8,
+        "mergedRecords": 10,
+        "mergedSha256": "28ea0225f06733281948b19e26fd89e1ed7cabf3119ac55388e2fa5bd342b105"
+      },
+      "src/data/elections/2026/zilinsky-kraj/research-coverage.json": {
+        "mainRecords": 2240,
+        "zilinaRecords": 2328,
+        "mergedRecords": 3264,
+        "mergedSha256": "1452d0e3ad8a641a214afd674f943a61f89707b26d94ba2a77c3253aea3707b7"
+      },
+      "src/data/sources.json": {
+        "mainRecords": 604,
+        "zilinaRecords": 762,
+        "mergedRecords": 950,
+        "mergedSha256": "301b67143727b7b65d5e79e6f14b64eb39f4c9c9d78a97a0ec057cf2c7281ea0"
+      }
+    }
+  },
+  "reviewedFiles": {
+    "README.md": "d2c5beb6e76a5c14312f98fb9aec4e3a54dda7cecf478ff42e3176ab6fd65ee7",
+    "src/data/sources.json": "301b67143727b7b65d5e79e6f14b64eb39f4c9c9d78a97a0ec057cf2c7281ea0",
+    "src/data/elections/2026/zilinsky-kraj/campaign-finance-parties.json": "6cd1060938b6dedb5c44cfffd0df2379e2476457ed742b154aa5b452fc959ca8",
+    "src/data/elections/2026/zilinsky-kraj/campaign-finance.json": "a50a64d8de0ec133c0af0adfa3c7fec4ac7f69075a65d2d163bb285c0f3ea34b",
+    "src/data/elections/2026/zilinsky-kraj/candidacies.json": "a98f273020cc1cc108af3ead6ee3befb896edc91d7d8bf050f743e448b16ad72",
+    "src/data/elections/2026/zilinsky-kraj/candidates.json": "8213dac985871ea4d068def04b1c7dd1415b4b0c3fa1e6467e15cfa340e7286e",
+    "src/data/elections/2026/zilinsky-kraj/claims.json": "5f4f4059eaebc6c151af65dff774d529bec062197b941dbcc794cccc23b04cfb",
+    "src/data/elections/2026/zilinsky-kraj/districts.json": "1d476ec97b7e81bbdd3075511c9d9a2239b96f04c2ed03cf188c1033ede6e75b",
+    "src/data/elections/2026/zilinsky-kraj/elections.json": "28ea0225f06733281948b19e26fd89e1ed7cabf3119ac55388e2fa5bd342b105",
+    "src/data/elections/2026/zilinsky-kraj/research-coverage.json": "1452d0e3ad8a641a214afd674f943a61f89707b26d94ba2a77c3253aea3707b7",
+    "tests/e2e/privacy-accessibility.spec.ts": "cb750dae7dd3a4c5886260962f9fdb88ec4553f4bf2403085884ec506bc6b399",
+    "tests/unit/election-context.test.ts": "ebc4d75a068da19c45f4b00ade554a0ebedd9b224c384826890b46f0e0470331",
+    "tests/unit/zilina-roster.test.ts": "9a767bce264ecaee1642d23aae744b72c0e36e42a14047d9ad9c9740ea6c87e1",
+    "tests/unit/zilina-media-followup.test.ts": "cea3f26d70653311875d3977b782668daca1792acc0e2976af5768309a95e0ac",
+    "tests/unit/martin-roster.test.ts": "9a65159c6e1d8f8988a91d8fd11c5e97daba521c2e526bb66afd5dd6c0426bc7",
+    "tests/fixtures/zilina-media-protected.json": "aa87a1672037f01d8c074e333c29aadae808119c764b1ee99f411461d843108e",
+    "tests/helpers/approved-record-preservation.ts": "9d84e3825984be76240f685c7c3bf6e2566777df955f983b4b6b7c189c69e75c",
+    "tests/unit/approved-record-preservation.test.ts": "58174a157ba4b1bbad52ca47f77c6396cc42852c3bfc2d50cfa602e429c0955b"
+  },
+  "independentReview": {
+    "reviewer": "/root/zilina_main_merge_review",
+    "readOnly": true,
+    "initialVerdict": "with fixes",
+    "fixedP2": "Reject superseded original and intermediate audited states, including approved removals.",
+    "recheckVerdict": "P2 closed; no new helper/test findings; all 18 frozen hashes match."
+  },
+  "verification": [
+    {
+      "command": "npm test",
+      "exitCode": 0,
+      "result": "358 passed, 4 skipped; 42 passed files, 1 skipped",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/final-unit-v2.log",
+      "logSha256": "d5598b1a82836877286f9a88dc562c4f1cc2c676ba8bacdd593370e06e35d4f2"
+    },
+    {
+      "command": "npm run validate:data",
+      "exitCode": 0,
+      "result": "cycles=1 contexts=4 published=4 issues=0",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/final-data.log",
+      "logSha256": "6d39c9243f4d410c43cac5f050142ad042150545979b2d97d7795fb66a9e0555"
+    },
+    {
+      "command": "npm run validate:release",
+      "exitCode": 0,
+      "result": "cycles=1 contexts=4 published=4 issues=0",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/final-release.log",
+      "logSha256": "d4506f115cd11f47124fdb9d72091d7bb8fb2931e28606b0b5050247a93c0c48"
+    },
+    {
+      "command": "npm run report:coverage",
+      "exitCode": 0,
+      "result": "408 candidates; 3264 coverage records; releaseReady=true; pending=0",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/final-coverage.log",
+      "logSha256": "8088000d31652465d25638d0f8e7bc1df441e48524745b55f30758cc76b0205e"
+    },
+    {
+      "command": "npm run build",
+      "exitCode": 0,
+      "result": "448 canonical indexable pages, 453 HTML files; no Astro errors/warnings/hints",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/final-build.log",
+      "logSha256": "d96d4bf2b704e7a7311bdb1f85ef97d5e72b49c7ea5a60261055a747a8ad7b74"
+    },
+    {
+      "command": "npm run check:seo",
+      "exitCode": 0,
+      "result": "448 canonical indexable, 4 noindex comparison tools, 1 noindex 404",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/final-seo.log",
+      "logSha256": "ae62c99645e023fe7a0c3d0f40ea057511aae132ced1944fc4adb873583775ca"
+    },
+    {
+      "command": "VNU_JAVA=/home/sergey/codex/ovolbach/ovolbach/.superpowers/vnu/vnu-runtime-image/bin/java npm run check:html",
+      "exitCode": 0,
+      "result": "453 HTML files; W3C Nu Checker 26.10.2: 0 errors, 0 warnings",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/final-html-v3.log",
+      "logSha256": "5ee2130b6e785f72e23a6626ec012645b46ca142c95d9c056c0fd1501ccb2b34"
+    },
+    {
+      "command": "npm run check:storage",
+      "exitCode": 0,
+      "result": "exit 0",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/final-storage.log",
+      "logSha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd"
+    },
+    {
+      "command": "npm run check:links",
+      "exitCode": 0,
+      "result": "975 URLs: 716 HTTP200, 241 HTTP206, 17 HTTP403, 1 HTTP429; 18 manual review, no transport failures",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/final-links.log",
+      "logSha256": "70ba219929d504390ef1911c978ce6b69816c07fa4f22573eed1a6cdcbb8b699"
+    },
+    {
+      "command": "ulimit -n 65536; PLAYWRIGHT_BROWSERS_PATH=/tmp/uctomost-browsers LD_LIBRARY_PATH=/tmp/uctomost-browser-libs/usr/lib/x86_64-linux-gnu npm run test:e2e -- --config=.superpowers/sdd/2026-10-04-zilina-main-merge/playwright-shm.config.ts --workers=1",
+      "exitCode": 0,
+      "result": "188 passed, 2 skipped; 190 original desktop/mobile cases, no retries",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/e2e-shm-full.log",
+      "logSha256": "fdb7dc5b0b6d6ee9a806c4500490b0141cb1fd49a529b31c576c106100fbcac4"
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "result": "exit 0",
+      "log": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/final-whitespace.log",
+      "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "additionalVerification": {
+    "typecheck": "npm run check: exit 0, 144 files, 0 errors/warnings/hints",
+    "stagedWhitespace": "git diff --cached --check: exit 0"
+  },
+  "attempts": {
+    "initialUnit": "2 failed, 354 passed, 4 skipped; aggregate preservation hashes and obsolete shared-claim count",
+    "reviewP2Red": "1 failed, 1 passed, exit 1",
+    "reviewP2Green": "41 passed, exit 0",
+    "initialE2E": "185 passed, 2 skipped, 3 navigation failures (ERR_INSUFFICIENT_RESOURCES/ERR_ABORTED), exit 1",
+    "shmDiagnostic": "3 formerly failing desktop sweeps passed, exit 0",
+    "repeatHtmlWithoutVnuJava": "exit 1, automated Nu Checker download could not be extracted; no page validation occurred",
+    "repeatHtmlWithInstalledVnuJava": "exit 0, 453 HTML files, 0 errors/warnings"
+  },
+  "browserConfiguration": {
+    "path": ".superpowers/sdd/2026-10-04-zilina-main-merge/playwright-shm.config.ts",
+    "contents": "import config from '../../../playwright.config';\nexport default { ...config, testDir: '../../../tests/e2e', use: { ...config.use, launchOptions: { slowMo: 50, ignoreDefaultArgs: ['--disable-dev-shm-usage'] } } };\n",
+    "workers": 1,
+    "fdLimit": 65536,
+    "assertionsChanged": false,
+    "rootCauseProven": false
+  },
+  "skipReasons": [
+    "4 nginx deployment tests require unset NGINX_BIN",
+    "2 mobile-only layout assertions skipped on desktop, executed on mobile"
+  ],
+  "localWork": {
+    "backup": "/home/sergey/codex/ovolbach/.research-captures/zilina-main-merge-2026/main-before.json",
+    "trackedFiles": 20,
+    "untrackedFiles": 21,
+    "keptOutsideMergeCommit": true,
+    "valueConflicts": 0,
+    "sourceAlias": {
+      "from": "dk-national-elected-2023-csv",
+      "to": "za-a-nrsr-2023-tab06",
+      "url": "https://volby.statistics.sk/opendata/nrsr/2023/NRSR2023_SK_tab06.csv",
+      "reason": "One canonical official2023 CSV shared by both city datasets; no election fact/date/outcome change",
+      "before": {
+        "id": "dk-national-elected-2023-csv",
+        "url": "https://volby.statistics.sk/opendata/nrsr/2023/NRSR2023_SK_tab06.csv",
+        "title": "Zoznam zvolených poslancov",
+        "publisher": "Štatistický úrad SR",
+        "type": "official",
+        "checkedAt": "2026-10-03",
+        "language": "sk"
+      },
+      "after": {
+        "id": "za-a-nrsr-2023-tab06",
+        "url": "https://volby.statistics.sk/opendata/nrsr/2023/NRSR2023_SK_tab06.csv",
+        "title": "Zvolení poslanci Národnej rady Slovenskej republiky – voľby 2023",
+        "publisher": "Štatistický úrad Slovenskej republiky",
+        "checkedAt": "2026-10-03",
+        "language": "sk",
+        "type": "official"
+      },
+      "fixtureChanges": [
+        "tests/fixtures/dolny-kubin-election-results.json",
+        "tests/fixtures/dolny-kubin-media-baseline.json"
+      ]
+    },
+    "originalUnit": "5 failed, 349 passed, 4 skipped",
+    "restorationPreviewUnit": "6 failed, 382 passed, 4 skipped; same 5 plus Žilina protection detecting the same shared-record discrepancy",
+    "restoredTotals": {
+      "people": 460,
+      "candidacies": 602,
+      "claims": 2724,
+      "coverage": 3680,
+      "sources": 1166,
+      "cities": 5
+    }
+  },
+  "limits": [
+    "HTTP availability is not factual verification; original source-access limits remain valid.",
+    "Automated review is not a human editorial or legal opinion.",
+    "Clean merge gates exclude foreign uncommitted research; actual transfer/restoration is verified in an external receipt."
+  ]
+}

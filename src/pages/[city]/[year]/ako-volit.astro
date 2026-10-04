@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SourceLink from '../../../components/SourceLink.astro';
+import martinPollingStations from '../../../data/elections/2026/zilinsky-kraj/municipalities/martin/polling-stations.json';
 import { listPublishedElectionContexts, type ElectionContext } from '../../../lib/load-guide-data';
 
 export async function getStaticPaths() {
@@ -20,6 +21,10 @@ const regionChair = election('region-chair');
 const regionCouncil = election('region-council');
 const ballotCount = data.elections.length;
 const ballotSummarySourceIds = [...new Set(data.elections.flatMap((item) => item.sourceIds))];
+const cityWidePolling = context.citySlug === 'martin' && context.year === 2026;
+const pollingGroups = cityWidePolling
+  ? [{ id: 'martin-2026-polling', anchor: 'miestnosti-martin-2026', name: 'Volebné okrsky v meste Martin', pollingStations: martinPollingStations, sourceIds: ['mt-city-polling-2026', 'mt-town-only-polling-2026'] }]
+  : cityDistricts.map((district) => ({ ...district, anchor: `miestnosti-obvod-${district.number}` }));
 ---
 
 <BaseLayout title={`Ako voliť | ${context.cityName} ${context.year} | ovolbach.sk`} description={`Praktický prehľad hlasovacích lístkov v meste ${context.cityName} v roku ${context.year}.`} context={context} breadcrumbs={[{ label: 'Mestá a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Ako voliť', href: `${context.basePath}ako-volit/` }]}>
@@ -53,22 +58,26 @@ const ballotSummarySourceIds = [...new Set(data.elections.flatMap((item) => item
     <section aria-labelledby="polling-places">
       <h2 id="polling-places">Volebné miestnosti</h2>
       <p>Vyhľadajte svoju ulicu alebo mestskú časť v rozpise okrskov.</p>
-      <nav aria-label="Volebné miestnosti podľa obvodu">
-        <ul>{cityDistricts.map((district) => <li><a href={`#miestnosti-obvod-${district.number}`}>{district.name}</a></li>)}</ul>
+      {cityWidePolling && <p data-polling-limitation>
+        Priradenie okrskov k mestským volebným obvodom nebolo potvrdené. Úplný mestský rozpis uvádzame podľa ulíc a územia. Pre voličov s trvalým pobytom iba na mesto Martin je pripojené osobitné oficiálne oznámenie. Overené 3. 10. 2026.
+        <SourceLink recordId="martin-polling-limitation" sourceIds={['mt-city-polling-2026', 'mt-town-only-polling-2026']} sources={data.sources} />
+      </p>}
+      <nav aria-label={cityWidePolling ? 'Rozpis volebných okrskov' : 'Volebné miestnosti podľa obvodu'}>
+        <ul>{pollingGroups.map((group) => <li><a href={`#${group.anchor}`}>{group.name}</a></li>)}</ul>
       </nav>
-      {cityDistricts.map((district) => (
-        <section id={`miestnosti-obvod-${district.number}`} data-polling-district>
-          <h3>{district.name}</h3>
-          <SourceLink recordId={district.id} sourceIds={district.sourceIds} sources={data.sources} />
+      {pollingGroups.map((group) => (
+        <section id={group.anchor} data-polling-district={cityWidePolling ? undefined : ''}>
+          <h3>{group.name}</h3>
+          <SourceLink recordId={group.id} sourceIds={group.sourceIds} sources={data.sources} />
           <ul>
-            {district.pollingStations.slice().sort((a, b) => a.number - b.number).map((station) => (
+            {group.pollingStations.slice().sort((a, b) => a.number - b.number).map((station) => (
               <li class="polling-station" data-polling-station={station.number}>
                 <h4>Volebný okrsok č. {station.number}</h4>
                 <dl>
                   <dt>Volebná miestnosť</dt><dd>{station.address}</dd>
                   <dt>Ulice a územie</dt><dd>{station.coverage}</dd>
                 </dl>
-                <SourceLink recordId={`${district.id}-station-${station.number}`} sourceIds={[station.sourceId]} sources={data.sources} />
+                <SourceLink recordId={`${group.id}-station-${station.number}`} sourceIds={[station.sourceId]} sources={data.sources} />
               </li>
             ))}
           </ul>

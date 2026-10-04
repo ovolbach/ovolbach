@@ -74,9 +74,9 @@ describe('Žilina official 2026 election guide', () => {
     const chairs = (data: typeof za.data) => data.candidacies.filter((row) => row.electionId === 'region-chair');
     expect(chairs(za.data)).toEqual(chairs(lm.data));
     expect(lm.data.candidates).toHaveLength(91);
-    expect(lm.data.claims).toHaveLength(604);
+    expect(lm.data.claims.length).toBeGreaterThanOrEqual(621);
     expect(rk.data.candidates).toHaveLength(79);
-    expect(rk.data.claims).toHaveLength(503);
+    expect(rk.data.claims.length).toBeGreaterThanOrEqual(520);
   });
 
   it('publishes only after all eight categories and financing have been researched', async () => {

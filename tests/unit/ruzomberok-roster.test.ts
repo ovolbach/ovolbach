@@ -62,14 +62,15 @@ describe('Ružomberok official 2026 roster', () => {
     expect(data.candidates.find((row) => row.slug === 'pavel-sipos')?.familyName).toBe('ŠÍPOŠ');
   });
 
-  it('shares the seven chair people and keeps the original city snapshot intact', async () => {
+  it('shares the seven chair people and preserves the original city electorate', async () => {
     const rk = await loadCity();
     const lm = await loadElectionContext({ citySlug: 'liptovsky-mikulas', year: 2026 });
     const heads = (data: typeof rk.data) => data.candidacies.filter((row) => row.electionId === 'region-chair');
     expect(heads(rk.data)).toEqual(heads(lm.data));
     expect(lm.data.candidates).toHaveLength(91);
     expect(lm.data.candidacies).toHaveLength(109);
-    expect(lm.data.claims).toHaveLength(604);
+    // The additional Martin research contributes 17 records for the shared chair people.
+    expect(lm.data.claims).toHaveLength(621);
   });
 
   it('publishes only a complete sourced research and finance snapshot', async () => {

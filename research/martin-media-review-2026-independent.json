@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "independent read-only editorial review",
+  "checkedAt": "2026-10-03",
+  "baseline": "7e90ec2",
+  "branchAsAssigned": "codex/martin-2026",
+  "state": "complete",
+  "publicFilesEdited": false,
+  "gitOrServerOperationsRun": false,
+  "subagentsSpawned": false,
+  "scopeChecks": {
+    "candidatesInPackages": 124,
+    "uniqueCandidates": 124,
+    "missingCandidates": [],
+    "baselineMediaAndControversiesClaims": 80,
+    "existingClaimsMappedToEventChains": 80,
+    "missingBaselineChains": [],
+    "nativeManifestHashMismatches": [],
+    "integratedCandidates": 124,
+    "integratedCandidacies": 155,
+    "integratedNewClaims": 94,
+    "integratedNewSources": 77,
+    "integratedEventChains": 84,
+    "candidateQueryReferences": 490,
+    "actualSearchQueries": 446,
+    "candidateRecordsUnchangedVsBaseline": true,
+    "candidacyRecordsUnchangedVsBaseline": true,
+    "unaccountedClaimAdditionsOrRemovals": [],
+    "all94AddedClaimsMappedToChains": true,
+    "unexpectedBaselineRecordChanges": [],
+    "exactAuditBeforeAfterMismatch": [],
+    "gateLogHashMismatches": [],
+    "coverageStatuses": {
+      "found": 493,
+      "searched_none": 497,
+      "not_applicable": 2,
+      "pending": 0
+    },
+    "addedClaimKinds": {
+      "media_report": 67,
+      "response": 21,
+      "official_outcome": 4,
+      "fact": 2
+    }
+  },
+  "packageManifest": [
+    {
+      "path": ".internal/martin-media/root-result.json",
+      "sha256": "85c9f5dd7fb743e34d44e58058574f6588f5157efd8722763d6deb42a594956e"
+    },
+    {
+      "path": ".internal/martin-media/cohort-1-result.json",
+      "sha256": "46ecb11d1e0c30aee263396adb477ca6c3a77a39dff814cd10dbc155f41cc51a"
+    },
+    {
+      "path": ".internal/martin-media/cohort-2-result.json",
+      "sha256": "63de4554b7ad172bd131b06f16627cde88c2f8be75d87939bf541d1f2215f578"
+    },
+    {
+      "path": ".internal/martin-media/cohort-3-result.json",
+      "sha256": "19979ee1d0262f5d823d703156dff264ef46aeac61e8de2b24006613242952de"
+    },
+    {
+      "path": ".internal/martin-media/baseline.json",
+      "sha256": "aec0c7c6ddf58a163d2fb2885e47e535f24bebe014a836f03e9bfb2bd5cf107d"
+    }
+  ],
+  "findings": [
+    {
+      "id": "IR-1",
+      "severity": "P2",
+      "recordIds": [
+        "mt-mr-drienok-sih-response"
+      ],
+      "issue": "SIH investment-denial scope was broadened beyond the source.",
+      "evidence": {
+        "url": "https://www.aktuality.sk/clanok/jTllXeZ/mosovce-chceli-opravit-areal-drienok-no-prisli-o-slubene-peniaze/",
+        "localBody": ".internal/martin-media/reopened-integration/d141839cb7cf3c9a.txt",
+        "anchor": "SIH statement, article end; investments from social-economy support funds."
+      },
+      "minimumCorrection": "Add z fondov na podporu sociálnej ekonomiky to the denial.",
+      "resolution": "resolved; final integrated correction independently verified against evidence and final diff"
+    },
+    {
+      "id": "IR-2",
+      "severity": "P2",
+      "recordIds": [
+        "mt-mr-ftorek-commission-response2021"
+      ],
+      "issue": "The proposal criticism response omitted Lechan’s directly available denial of a parking-policy retaliation connection.",
+      "evidence": {
+        "url": "https://www.aktuality.sk/clanok/902123/mesiace-kritizuje-parkovaciu-politiku-v-martine-chcu-ho-odvolat-z-komisie-lebo-hajloval/",
+        "localBody": ".internal/martin-media/reopened-integration/db40570167b288a6.txt",
+        "anchor": "line233, proposal author directly denies parking criticism as the reason."
+      },
+      "minimumCorrection": "Add a separate response attributed to Martin Lechan; do not imply a completed removal vote.",
+      "resolution": "resolved; final integrated correction independently verified against evidence and final diff"
+    },
+    {
+      "id": "IR-3",
+      "severity": "P2",
+      "recordIds": [
+        "mt-mr-baceova-pmm2023",
+        "mt-mr-baceova-youth-election2023"
+      ],
+      "issue": "Proposed media source lacks an authenticated individual byline and should carry the publication’s official municipal provenance.",
+      "evidence": {
+        "url": "https://www.martinskenoviny.sk/wp-content/uploads/2023/02/martinske2_2023_web_opr.pdf",
+        "anchor": "PDF p1 explicitly identifies the official Martin municipal newsletter; p9 records re-election of Andrea Bačeová."
+      },
+      "minimumCorrection": "Use type official and claim kind fact; preserve newsletter attribution, without claiming independent journalism.",
+      "resolution": "resolved; final integrated correction independently verified against evidence and final diff"
+    },
+    {
+      "id": "IR-4",
+      "severity": "P2",
+      "recordIds": [
+        "mt-mr-hudec-stadium-roof-later"
+      ],
+      "issue": "The end-of-September wording describes resumption of training and competitions, not an explicit exact roof-completion date.",
+      "evidence": {
+        "url": "https://www.martinskenoviny.sk/wp-content/uploads/2025/10/web_10_2025_martinske.pdf",
+        "anchor": "PDF p5, Roman Kopka article: completed roof repair; Danko describes late-September resumption of operations."
+      },
+      "minimumCorrection": "State that the October publication reported completed roof reconstruction; bound period to publication date 2025-10-21.",
+      "resolution": "resolved; final integrated correction independently verified against evidence and final diff"
+    },
+    {
+      "id": "IR-5",
+      "severity": "P2",
+      "recordIds": [
+        "mt-mr-chain-ftorek-candidacy2026",
+        "mt-mr-chain-petras-candidacy2026",
+        "mt-mr-record-hubacek-nomination-report"
+      ],
+      "issue": "Latest candidacy stages omit the already verified September registration after July/August reporting.",
+      "evidence": {
+        "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109999&id_org=700031",
+        "anchor": "PDF p1: Ftorek line8, Hubacek line11, Petras lines12–13; municipal mayoral list dated8September2026."
+      },
+      "minimumCorrection": "Preserve earlier reporting as development; set latest to registration dated2026-09-08 and procedural status, retaining election-result boundary.",
+      "resolution": "resolved; final integrated correction independently verified against evidence and final diff"
+    },
+    {
+      "id": "IR-6",
+      "severity": "P2",
+      "recordIds": [
+        "mt-mr-chain-lepej-team",
+        "mt-mr-chain-uhercik-candidacy"
+      ],
+      "issue": "Audit assumes all city-council roster sections date9September; Lepej district2 list is dated8September.",
+      "evidence": {
+        "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109999&id_org=700031",
+        "anchor": "PDF p4 district2 signature line dated8September2026; district3 dated9September, district4 dated10September."
+      },
+      "minimumCorrection": "Bound Lepej latest to the district2 list date8September2026 and describe distinct8–10September section dates.",
+      "resolution": "resolved; final integrated correction independently verified against evidence and final diff"
+    },
+    {
+      "id": "IR-7",
+      "severity": "P3",
+      "recordIds": [
+        "research/martin-media-review-2026.md",
+        "research/martin-media-review-2026-verification.json"
+      ],
+      "issue": "Report wording overgeneralizes full-original access although a recorded Pánisová source has a fully visible relevant paragraph and subscriber restrictions elsewhere.",
+      "evidence": {
+        "url": "https://myturiec.sme.sk/c/22451804/personalne-rosady-v-smere-sa-dotkli-aj-turca.html",
+        "anchor": "Audit mt-mr-chain-panisova-party2020 explicitly records a visible relevant paragraph and restricted remaining page; final report says complete originals generally."
+      },
+      "minimumCorrection": "State that original pages/documents were used, that only directly readable relevant passages were used under partial access, and that limits remain in receipts.",
+      "resolution": "resolved; final integrated correction independently verified against evidence and final diff"
+    }
+  ],
+  "accessDecisions": [
+    {
+      "recordIds": [
+        "mt-mr-florian-soi-fine",
+        "mt-mr-vanko-soi-response",
+        "mt-mr-florian-soi-2017"
+      ],
+      "decision": "withhold from public integration",
+      "reason": "Original cached 34-page official PDF was readable via web, but canonical direct GET returned404 and current official access could not be restored; no personal fine or finality inferred.",
+      "source": "https://www.soi.sk/files/documents/pravoplatne-rozhodnutie/prvostupnove/zilinsky-kraj/2017/za052017.pdf"
+    }
+  ],
+  "verifiedRiskBoundaries": [
+    "SOI material is withheld for source access; no personal penalty or finality claim is published.",
+    "Lighting report supports procedural stopping, without a withdrawal reason or exoneration inferred from an unverified statute.",
+    "Drienok reports, CB ESPRI response and SIH response are distinct.",
+    "Ftorek2021 commission source does not prove the vote outcome; promised complaint is not a confirmed filed complaint.",
+    "P2/26 official petition attachment supports street refusal at that time and notification of cinema operator, not cinema renaming.",
+    "Ecco closure and employment losses do not settle the additional-severance dispute.",
+    "Červeňová professional reporting is distinct from the conflicting Malatiná mayor identity.",
+    "Belousovová2026-01-30 source is an authored response; Jurinová2026-09-09 interview is paid PR and candidate-position evidence.",
+    "Lučanský stair account is an allegation in Pravda and a separate attributed response in Kanál1; unverified NR AI transcript is not evidence.",
+    "Pacalaj30inJune2025 and32inOctober2026 are chronologically possible; the age is not an additional identity attribute used alone."
+  ],
+  "blockers": [],
+  "reviewedPublicFileManifest": [
+    {
+      "path": "research/martin-2026-audit.md",
+      "sha256": "75a425bf987ed64e72b06e937c8ee4e952f4310536a713efb74fb0958b60c709"
+    },
+    {
+      "path": "research/martin-media-review-2026-verification.json",
+      "sha256": "823641c1e61876510cc090f8e0cff89d8bf4171d899d473c02f35d40ef239b86"
+    },
+    {
+      "path": "research/martin-media-review-2026.json",
+      "sha256": "6115746762e2cc9e41f4121b149b929336bbe9946178989fcd60631c9da07211"
+    },
+    {
+      "path": "research/martin-media-review-2026.md",
+      "sha256": "0b3acfc27f845d207d254fe6aab857b5c71187268bd6e16e061d78561b014fbb"
+    },
+    {
+      "path": "src/data/elections/2026/zilinsky-kraj/claims.json",
+      "sha256": "4aa58c2c3ce5ff13ba2e815d9d5eedc4e6d65e2a4f6aa59c60182f095ea2f8e2"
+    },
+    {
+      "path": "src/data/elections/2026/zilinsky-kraj/research-coverage.json",
+      "sha256": "567d32522555c7db388f82c802395a5fe3d13d66e54e2a18d34598aa7daf45f3"
+    },
+    {
+      "path": "src/data/sources.json",
+      "sha256": "90b3dcaff709b3d2b85b0a06fb016f2069b230d0e618bbf903eabad26052c178"
+    },
+    {
+      "path": "src/lib/profile-content.ts",
+      "sha256": "80440edc2773bf5946d6620a238a19428f371230f1f20da4e1eb993af84f3770"
+    },
+    {
+      "path": "tests/e2e/integration.spec.ts",
+      "sha256": "ac9dbf392b0cdb10140441f08143f039206eecb10e6ae34d0e9139789d3fb0fc"
+    },
+    {
+      "path": "tests/unit/election-context.test.ts",
+      "sha256": "592fbae999181fc1a0e422dde9bd9189ead83a64632a866424beba1c8dd3792c"
+    },
+    {
+      "path": "tests/unit/integration-payload.test.ts",
+      "sha256": "0310df91224ebab8c3826db4c2904ca41353216d1dc0f9248b1fa336c08a054b"
+    },
+    {
+      "path": "tests/unit/martin-media-review.test.ts",
+      "sha256": "5b4a6c4a092fc32aade6c4b4916c9f8693638df6f639c9fa49b99be81c8d82f3"
+    },
+    {
+      "path": "tests/unit/martin-roster.test.ts",
+      "sha256": "0ec0d22e137cc1bd819bfae9ea2fc96ef9cc55b62d8a7cc9826133be56803694"
+    },
+    {
+      "path": "tests/unit/ruzomberok-roster.test.ts",
+      "sha256": "b568b221fe77994b49d8ecf58886be217b6c52a429d42dc0e20dc6632c7bb933"
+    },
+    {
+      "path": "tests/unit/task7-review-regressions.test.ts",
+      "sha256": "0bc373c19d642c81aa4aba93b72fad8c0478d087ab0e616268ce930ad5b14464"
+    }
+  ],
+  "releaseGates": {
+    "executionOwner": "parent agent",
+    "independentlyReadFreshOutputs": true,
+    "reviewerRanGitOrServers": false,
+    "recordedCommands": 11,
+    "exitCodesAllZero": true,
+    "unitPassed": 324,
+    "unitSkipped": 4,
+    "e2ePassed": 166,
+    "e2eSkipped": 2,
+    "linkUrls": 626,
+    "linkUnreachable": 0,
+    "linkManualAccessReview": 15,
+    "sourceAccessCaveat": "HTTP403/429 manual-review flags are not full-body verification; inaccessibleSOI excluded."
+  },
+  "diffReview": {
+    "path": ".internal/martin-media/final.diff",
+    "sha256": "45963a4d266d6e15278b7318f4d9326e7a4db6e98e4c8df730d0b07367254edb",
+    "modifiedPublicPaths": 15,
+    "runtimeChanges": "one-line response label Reakcia",
+    "testPreservation": "original ballot/election/asset/identity fixtures unchanged; audited before-hash guards retained; shared-candidate counts increase17; no unexplained assertion removal found",
+    "addedLineWhitespaceErrors": 0,
+    "scope": "Parent-supplied final immutable patch artifact after the verified metadata delta; the final byte-for-byte independent-review copy is excluded from its own file manifest."
+  },
+  "verdict": "pass",
+  "remainingEditorialBlockers": [],
+  "protectedUnchangedFileManifest": [
+    {
+      "path": "src/data/elections/2026/zilinsky-kraj/candidates.json",
+      "sha256": "2d8ff414b34537f9a34b22750ffe6f9b7556c12191fded5289276a4bf60b6b63"
+    },
+    {
+      "path": "src/data/elections/2026/zilinsky-kraj/candidacies.json",
+      "sha256": "d67cf92dd5a65785d8dd874e9fa80df08663eb670adf4480f5748c1c23b749c3"
+    },
+    {
+      "path": "src/data/elections/2026/zilinsky-kraj/campaign-finance.json",
+      "sha256": "fc0aca53a53c266636d78523a4cd9f6df49dc3d2fd7d16f60e07547f384e5d51"
+    },
+    {
+      "path": "tests/fixtures/martin-official-roster-2026.json",
+      "sha256": "a6cc710fc564866f2aad1675d7df3b41bca339ae41185ec091de72d811a16dfa"
+    },
+    {
+      "path": "tests/fixtures/martin-baseline-record-hashes.json",
+      "sha256": "f14452fbcb309904f1698f84d41b25860686f688f4e539faf1a82895f8621916"
+    },
+    {
+      "path": "tests/fixtures/martin-historical-results.json",
+      "sha256": "06b50aa12f9ba108fbe956281fed5206beb53603d2054793f21d75f3f54ebca2"
+    },
+    {
+      "path": "tests/fixtures/martin-polling-stations-2026.json",
+      "sha256": "cd5732221444d218c871ebf10773e83c58c1246aa2f14fa5335d66bde6b3e971"
+    },
+    {
+      "path": "src/data/elections/2026/zilinsky-kraj/municipalities/martin/polling-stations.json",
+      "sha256": "cd5732221444d218c871ebf10773e83c58c1246aa2f14fa5335d66bde6b3e971"
+    }
+  ],
+  "nativeOriginalManifest": [
+    {
+      "path": ".internal/martin-media/reopened-root/manifest.json",
+      "sha256": "cca56d05140604ad3df518d56c2b3dd229aea74e4ca28885491f8a338d9eb53d"
+    },
+    {
+      "path": ".internal/martin-media/reopened-integration/manifest.json",
+      "sha256": "0c782e5d3d2d55233970f6922fed66befd54459b48fac3bd3bd6b842cc26f3e8"
+    }
+  ],
+  "method": "All four packages and all124 candidate receipts reviewed; all80 baseline and94 added records mapped to event chains; high-risk original source bodies and official attachments independently inspected; final immutable diff and data/audit before-after mapping checked. Public data/tests were not edited. Fresh full gates were run by the parent and actual output logs/checksums independently read.",
+  "limitations": [
+    "Review is automated, not a human editorial or legal assessment.",
+    "Bounded negative research does not establish absence of other public records.",
+    "No later outcome is inferred where the audit records an unresolved or reported-only event.",
+    "HTTP403/429 is an access limitation; directly readable original evidence is distinguished from partial/paywalled access.",
+    "Public copy of this review is excluded from its own hash manifest to avoid a recursive self-hash."
+  ],
+  "postVerdictMetadataReview": {
+    "status": "verified",
+    "paths": [
+      "research/martin-media-review-2026.json",
+      "research/martin-media-review-2026.md"
+    ],
+    "deltaArtifact": ".internal/martin-media/review-metadata-delta.diff",
+    "sha256": "29b3803aec7d8861475d61607cc4a2e91c5a485583715a94a113fe5bc09ba361",
+    "otherReviewedFileHashChanges": [],
+    "protectedFileHashChanges": []
+  },
+  "finalDiffArtifactSHA256": "45963a4d266d6e15278b7318f4d9326e7a4db6e98e4c8df730d0b07367254edb"
+}

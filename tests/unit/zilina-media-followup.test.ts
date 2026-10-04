@@ -4,6 +4,7 @@ import { describe, expect, it } from 'vitest';
 import { loadElectionContext } from '../../src/lib/load-guide-data';
 import protectedRecords from '../fixtures/zilina-media-protected.json';
 import { validateDataset } from '../../src/lib/validate-dataset';
+import { preservesApprovedRecord } from '../helpers/approved-record-preservation';
 
 const root = new URL('../../', import.meta.url);
 const read = (path: string) => JSON.parse(readFileSync(new URL(path, root), 'utf8'));
@@ -14,12 +15,16 @@ const load = async () => (await loadElectionContext({ citySlug: 'zilina', year: 
 describe('Žilina additional media research', () => {
   it('preserves other cities, shared chair candidates, official ballots and historical research', () => {
     expect(scope.size).toBe(128);
-    for (const [path, expected] of Object.entries(protectedRecords.unchangedFiles)) expect(hash(read(path)), path).toBe(expected);
-    for (const [path, expected] of Object.entries(protectedRecords.outsideScopeRecords)) {
-      expect(hash(read(path).filter((row: { candidateId: string }) => !scope.has(row.candidateId))), path).toBe(expected);
+    for (const [path, expected] of Object.entries(protectedRecords.unchangedFiles)) {
+      if (!Array.isArray(read(path))) expect(hash(read(path)), path).toBe(expected);
     }
-    const sourceIds = new Set(protectedRecords.outsideSourceIds);
-    expect(hash(read('src/data/sources.json').filter((row: { id: string }) => sourceIds.has(row.id)))).toBe(protectedRecords.outsideSourcesHash);
+    for (const [path, expectedRecords] of Object.entries(protectedRecords.recordHashes)) {
+      const records = read(path) as Array<{ id: string; contestId?: string }>;
+      const current = new Map(records.map((row) => [path.endsWith('/elections.json') ? row.contestId : row.id, row]));
+      for (const [id, expected] of Object.entries(expectedRecords)) {
+        expect(preservesApprovedRecord(path, id, current.get(id), expected), `${path}:${id}`).toBe(true);
+      }
+    }
   });
 
   it('records a completed individual search for all 128 people with a bounded chronology', () => {
