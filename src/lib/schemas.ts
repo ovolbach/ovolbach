@@ -273,8 +273,33 @@ const financeIdentitySchema = z.object({
   sourceIds,
 }).strict();
 const financeUrl = requiredString.refine((value) => isSafeOutboundSourceUrl(value) && new URL(value).protocol === 'https:', 'Expected safe HTTPS account URL');
+const financeExclusionEvidenceSchema = z.object({
+  scope: z.literal('presovsky-kraj-2026'), checkedAt: isoDate,
+  registers: z.array(z.object({
+    kind: z.enum(['mayor', 'city-council', 'region-chair', 'region-council']), sourceId: id,
+    sha256: z.string().regex(/^[a-f0-9]{64}$/), rowCount: z.number().int().positive(), complete: z.literal(true),
+  }).strict()).length(4),
+  matches: z.array(z.object({
+    candidateId: id.optional(), name: requiredString, municipality: requiredString,
+    ageAtElection: z.number().int().positive(), sourceIds,
+    decision: z.enum(['retained', 'excluded']), reason: requiredString,
+  }).strict()).min(1),
+  remainingCandidateId: id, accountSourceIds: sourceIds,
+}).strict().superRefine((evidence, ctx) => {
+  if (new Set(evidence.registers.map((row) => row.kind)).size !== 4 || new Set(evidence.registers.map((row) => row.sourceId)).size !== 4) {
+    ctx.addIssue({ code: 'custom', message: 'Exclusion needs four distinct complete national registers' });
+  }
+  const retained = evidence.matches.filter((row) => row.decision === 'retained');
+  if (retained.length !== 1 || retained[0]?.candidateId !== evidence.remainingCandidateId) {
+    ctx.addIssue({ code: 'custom', message: 'Exclusion needs exactly one remaining candidate' });
+  }
+});
 const financeAccountSchema = z.discriminatedUnion('status', [
-  z.object({ status: z.literal('verified'), url: financeUrl, sourceIds, identity: z.array(financeIdentitySchema).min(2) }).strict(),
+  z.object({
+    status: z.literal('verified'), url: financeUrl.optional(), iban: z.string().regex(/^SK\d{22}$/).optional(), sourceIds, identity: z.array(financeIdentitySchema),
+    verificationMethod: z.enum(['direct', 'candidate_site', 'register_exclusion']).optional(),
+    exclusionEvidence: financeExclusionEvidenceSchema.optional(),
+  }).strict(),
   z.object({ status: z.literal('not_listed'), sourceIds }).strict(),
   z.object({ status: z.literal('unverified'), sourceIds, reason: requiredString }).strict(),
 ]);
@@ -299,7 +324,21 @@ export const campaignFinanceSchema = z.object({
 }).strict().superRefine((record, ctx) => {
   if (record.ownExpenses !== 'unknown' && record.expenseSourceIds.length === 0) ctx.addIssue({ code: 'custom', message: 'Established expenses need evidence' });
   if (record.campaignOperator !== 'unknown' && record.operatorSourceIds.length === 0) ctx.addIssue({ code: 'custom', message: 'Established campaign operator needs evidence' });
-  if (record.account.status === 'verified' && new Set(record.account.identity.map((item) => item.attribute)).size < 2) ctx.addIssue({ code: 'custom', message: 'Identity needs two distinct attributes beyond the name' });
+  if (record.account.status === 'verified') {
+    const account = record.account;
+    if (!account.url && !account.iban) ctx.addIssue({ code: 'custom', message: 'Verified account needs a published URL or IBAN' });
+    if (account.verificationMethod === 'register_exclusion') {
+      const evidence = account.exclusionEvidence;
+      if (!record.candidateId.startsWith('psk-') || record.electionDate !== '2026-10-24' || !evidence
+        || evidence.remainingCandidateId !== record.candidateId || evidence.checkedAt > record.checkedAt
+        || evidence.accountSourceIds.some((sourceId) => !account.sourceIds.includes(sourceId))) {
+        ctx.addIssue({ code: 'custom', message: 'Exclusion needs a dated PSK 2026 dossier for this candidate and account' });
+      }
+    } else {
+      if (new Set(account.identity.map((item) => item.attribute)).size < 2) ctx.addIssue({ code: 'custom', message: 'Identity needs two distinct attributes beyond the name' });
+      if (account.exclusionEvidence) ctx.addIssue({ code: 'custom', message: 'Exclusion dossier needs register_exclusion method' });
+    }
+  }
 });
 export const financePartySchema = z.object({
   id, name: requiredString, electionDate: isoDate, checkedAt: isoDate, sourceIds,

@@ -26,7 +26,10 @@ const { account: accountText, report: reportText } = financeDutyText(record, has
       <dt>Transparentný účet kandidáta</dt>
       <dd>
         {record.account.status === 'verified' ? (
-          <a data-personal-account href={record.account.url} target="_blank" rel="noopener noreferrer">Otvoriť účet kandidáta (nové okno)</a>
+          <>
+            {record.account.url ? <a data-personal-account href={record.account.url} target="_blank" rel="noopener noreferrer">Otvoriť účet kandidáta (nové okno)</a>
+              : <span data-personal-account>Overený účet kandidáta: {record.account.iban}</span>}
+          </>
         ) : record.account.status === 'unverified' ? record.account.reason : (
           'V registri účtov kandidátov MV SR sa záznam pod týmto menom nenašiel. To nepotvrdzuje, že účet neexistuje alebo že došlo k porušeniu zákona.'
         )}

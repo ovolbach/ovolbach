@@ -3,6 +3,23 @@ import { expect, test } from '@playwright/test';
 
 const REGION = '/presovsky-kraj/2026/';
 
+test('PSK profiles expose candidate-published accounts without a readable bank owner or an invented URL', async ({ page }) => {
+  await page.goto('/poprad/2026/kandidat/anton-danko/');
+  await expect(page.locator('[data-campaign-finance] [data-personal-account]')).toHaveAttribute('href', 'https://www.transparentneucty.sk/#/ucet/SK1009000000005251304925');
+  await page.goto('/presov/2026/kandidat/pavel-hagyari/');
+  await expect(page.locator('[data-campaign-finance] [data-personal-account]')).toContainText('SK6809000000005192445639');
+  await expect(page.locator('[data-campaign-finance] a[data-personal-account]')).toHaveCount(0);
+  await page.goto(`${REGION}kandidat/marian-geci/`);
+  await expect(page.locator('[data-campaign-finance] [data-personal-account]')).toHaveAttribute('href', 'https://ib.fio.sk/ib/transparent?a=2403587220');
+});
+
+test('event sections show the original reported event next to the response', async ({ page }) => {
+  await page.goto('/poprad/2026/kandidat/jozef-svagerko/');
+  const section = page.locator('section').filter({ has: page.getByRole('heading', { name: 'Verejne doložené udalosti a konania', exact: true }) });
+  await expect(section).toContainText('Okresný súd v Poprade');
+  await expect(section).toContainText('odvolať');
+});
+
 test('homepage nests the seven cities under their region and year in Slovak order', async ({ page }) => {
   await page.goto('/');
   await expect(page.getByRole('heading', { level: 1 })).toHaveCount(1);

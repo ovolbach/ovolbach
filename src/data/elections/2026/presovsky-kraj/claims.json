@@ -8580,7 +8580,7 @@
   {
     "id": "claim-psk-ondrej-kavka-media-1",
     "candidateId": "psk-ondrej-kavka",
-    "category": "media",
+    "category": "controversies",
     "kind": "media_report",
     "label": {
       "sk": "Mediálna správa"
@@ -9874,7 +9874,7 @@
   {
     "id": "claim-psk-jozef-stefanak-controversies-1",
     "candidateId": "psk-jozef-stefanak",
-    "category": "media",
+    "category": "controversies",
     "kind": "media_report",
     "label": {
       "sk": "Mediálna správa o procesnom rozhodnutí"
@@ -9908,7 +9908,7 @@
   {
     "id": "claim-psk-peter-dzurilla-controversies-1",
     "candidateId": "psk-peter-dzurilla",
-    "category": "media",
+    "category": "controversies",
     "kind": "media_report",
     "label": {
       "sk": "Mediálna správa o procesnom rozhodnutí"
@@ -9942,7 +9942,7 @@
   {
     "id": "claim-psk-jozef-svagerko-controversies-1",
     "candidateId": "psk-jozef-svagerko",
-    "category": "media",
+    "category": "controversies",
     "kind": "media_report",
     "label": {
       "sk": "Mediálna správa o neprávoplatnom rozhodnutí"
@@ -14676,7 +14676,7 @@
   {
     "id": "review-psk-milan-mazurek-controversies-1",
     "candidateId": "psk-milan-mazurek",
-    "category": "media",
+    "category": "controversies",
     "kind": "media_report",
     "label": {
       "sk": "Sporná udalosť"
@@ -14863,7 +14863,7 @@
   {
     "id": "review-psk-jan-stanko-controversies-1",
     "candidateId": "psk-jan-stanko",
-    "category": "media",
+    "category": "controversies",
     "kind": "media_report",
     "label": {
       "sk": "Sporná udalosť"
@@ -14931,7 +14931,7 @@
   {
     "id": "review-psk-milan-majersky-controversies-1",
     "candidateId": "psk-milan-majersky",
-    "category": "media",
+    "category": "controversies",
     "kind": "media_report",
     "label": {
       "sk": "Sporná udalosť"
@@ -16508,7 +16508,7 @@
   {
     "id": "claim-psk-milan-jambor-media-original-report",
     "candidateId": "psk-milan-jambor",
-    "category": "media",
+    "category": "controversies",
     "kind": "media_report",
     "label": {
       "sk": "Samostatná mediálna správa"
@@ -19337,5 +19337,2029 @@
       "presov-employment-office-lukac-nrsr-term8"
     ],
     "checkedAt": "2026-10-14"
+  },
+  {
+    "id": "recheck-psk-lukas-anderko-public-exchange-beginning",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Kristián Korem v Prešovak.sk informoval, že verejný spor Lukáša Anderka s primátorom Františkom Oľhom začal Anderkovým kritickým príspevkom na sociálnej sieti, v ktorom primátora vyzval na verejnú diskusiu."
+    },
+    "period": "správa 2026-04-14; aktualizované 2026-04-15",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "presov-review-original-41005d478ca95ad2"
+    ],
+    "candidateId": "psk-lukas-anderko",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "claim-psk-anton-danko-event-barracks-report",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Marek Nemec na Aktuality.sk 15. januára 2024 informoval o priestupkovom konaní voči Antonovi Dankovi pre údajne nepravdivé informácie o hodnote a technickom stave bývalých kasární; prvý podnet podľa správy podala Zuzana Tökölyová v decembri 2022."
+    },
+    "period": "podnet december 2022; správa 15.01.2024",
+    "sourceIds": [
+      "events-a-danko-barracks-start"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-anton-danko",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-anton-danko-event-barracks-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Anton Danko podľa Aktuality.sk 15. januára 2024 označil podnet týkajúci sa informácií o predaji kasární za výmysel."
+    },
+    "period": "2024-01-15",
+    "sourceIds": [
+      "events-a-danko-barracks-start"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-anton-danko",
+    "label": {
+      "sk": "Reakcia primátora"
+    }
+  },
+  {
+    "id": "claim-psk-anton-danko-event-barracks-referral",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Marek Nemec na Aktuality.sk 14. marca 2024 informoval, že Okresný úrad Poprad koncom februára zastavil priestupkové konanie; Zuzana Tökölyová sa voči rozhodnutiu odvolala."
+    },
+    "period": "rozhodnutie február 2024; správa 14.03.2024",
+    "sourceIds": [
+      "events-a-danko-barracks-development"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-anton-danko",
+    "label": {
+      "sk": "Procesný vývoj podľa médií"
+    }
+  },
+  {
+    "id": "claim-psk-anton-danko-event-industry-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Mária Frisová na SITA.sk 17. júna 2025 informovala, že spor o pozemky v priemyselnom parku sa začal po tom, ako mesto v roku 2023 odmietlo ich predaj investorom za zmluvne dohodnutú symbolickú cenu s odôvodnením zmeny legislatívy."
+    },
+    "period": "vývoj od 2023; správa 17.06.2025",
+    "sourceIds": [
+      "events-a-danko-industry-2025"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-anton-danko",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-anton-danko-event-industry-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Anton Danko podľa SITA.sk 17. júna 2025 uviedol, že mesto nebude trvať na odchode firiem z priemyselného parku a pri predaji pozemkov bude rešpektovať právoplatné rozhodnutie súdu."
+    },
+    "period": "2025-06-17",
+    "sourceIds": [
+      "events-a-danko-industry-2025"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-anton-danko",
+    "label": {
+      "sk": "Reakcia primátora"
+    }
+  },
+  {
+    "id": "claim-psk-patrik-frantiska-event-airport-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Mária Benedikovičová, Martina Koník a Šimon Kern v Denníku N 20. júna 2025 informovali o nákupoch alkoholu v baroch popradského letiska, pri ktorých redakcia dostala účtenky na nealkoholické nápoje."
+    },
+    "period": "2025-06-20",
+    "sourceIds": [
+      "events-a-frantiska-origin-2025"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-patrik-frantiska",
+    "label": {
+      "sk": "Pôvodná mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-martin-baloga-event-gardens-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Marek Nemec na Aktuality.sk 30. mája 2026 informoval, že spor o úhradu nákladov na zmenu územného plánu vznikol po poslaneckom návrhu Martina Balogu a Slavomíra Božoňa z novembra 2025 na rozšírenie lokality pre záhradky."
+    },
+    "period": "návrh november 2025; správa 30.05.2026",
+    "sourceIds": [
+      "events-a-baloga-fee-start"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-baloga",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-martin-baloga-event-gardens-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Martin Baloga podľa Aktuality.sk 30. mája 2026 uviedol, že návrh predložil ako mestský poslanec vo verejnom záujme a nesúhlasí s požiadavkou mesta na úhradu 4 997 eur."
+    },
+    "period": "2026-05-30",
+    "sourceIds": [
+      "events-a-baloga-fee-start"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-baloga",
+    "label": {
+      "sk": "Reakcia poslanca"
+    }
+  },
+  {
+    "id": "claim-psk-martin-baloga-event-gardens-payment",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Filip Zacher v Denníku N 31. augusta 2026 informoval, že Martin Baloga mestu zaplatil 4 997 eur za návrh zmeny územného plánu."
+    },
+    "period": "2026-08-31",
+    "sourceIds": [
+      "events-a-baloga-fee-followup"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-baloga",
+    "label": {
+      "sk": "Neskorší vývoj podľa médií"
+    }
+  },
+  {
+    "id": "claim-psk-martin-baloga-event-gardens-referral",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Filip Zacher v Denníku N 31. augusta 2026 informoval, že Martin Baloga v súvislosti s poplatkom podal podnet na prokuratúru."
+    },
+    "period": "2026-08-31",
+    "sourceIds": [
+      "events-a-baloga-fee-followup"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-baloga",
+    "label": {
+      "sk": "Podnet podľa médií"
+    }
+  },
+  {
+    "id": "claim-psk-martin-baloga-event-council-2022-start",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Mesto Poprad uviedlo, že Martin Baloga chýbal na pracovnom rokovaní 25. novembra 2022, ktoré nebolo uznášaniaschopné."
+    },
+    "period": "2022-11-25",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-baloga",
+    "label": {
+      "sk": "Správa mesta o rokovaní"
+    }
+  },
+  {
+    "id": "claim-psk-martin-baloga-event-council-2022-later",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Pracovné zastupiteľstvo sa uskutočnilo 13. decembra 2022; podľa mesta išlo o náhradný termín zasadnutia z 9. decembra."
+    },
+    "period": "2022-12-13",
+    "sourceIds": [
+      "events-a-poprad-session-2022-later"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-baloga",
+    "label": {
+      "sk": "Neskoršie rokovanie"
+    }
+  },
+  {
+    "id": "claim-psk-ondrej-kavka-event-dogs-referral",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Zuzana Pojedincová a redakcia/MD na Noviny.sk 15. mája 2019 informovali, že polícia decembrový prípad útoku psov na srnca uzavrela ako podozrenie z priestupku a postúpila ho okresnému úradu."
+    },
+    "period": "správa 15.05.2019 o udalosti december 2018",
+    "sourceIds": [
+      "events-a-kavka-followup-2019"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-ondrej-kavka",
+    "label": {
+      "sk": "Neskorší procesný vývoj podľa médií"
+    }
+  },
+  {
+    "id": "claim-psk-ondrej-kavka-event-dogs-referral-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Ondrej Kavka podľa Noviny.sk 15. mája 2019 uviedol, že podľa policajnej správy jeho psy zranenú zver iba dohľadali."
+    },
+    "period": "reakcia publikovaná 15.05.2019",
+    "sourceIds": [
+      "events-a-kavka-followup-2019"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-ondrej-kavka",
+    "label": {
+      "sk": "Reakcia viceprimátora"
+    }
+  },
+  {
+    "id": "claim-psk-frantisek-majersky-event-council-2022-start",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Mesto Poprad uviedlo, že František Majerský chýbal na pracovnom rokovaní 25. novembra 2022, ktoré nebolo uznášaniaschopné."
+    },
+    "period": "2022-11-25",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-frantisek-majersky",
+    "label": {
+      "sk": "Správa mesta o rokovaní"
+    }
+  },
+  {
+    "id": "claim-psk-frantisek-majersky-event-council-2022-later",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Pracovné zastupiteľstvo sa uskutočnilo 13. decembra 2022; podľa mesta išlo o náhradný termín zasadnutia z 9. decembra."
+    },
+    "period": "2022-12-13",
+    "sourceIds": [
+      "events-a-poprad-session-2022-later"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-frantisek-majersky",
+    "label": {
+      "sk": "Neskoršie rokovanie"
+    }
+  },
+  {
+    "id": "claim-psk-jozef-nazarej-event-city-lawsuit-origin",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Výročná správa mesta Poprad za rok 2023 uvádza, že CENTRUM SLUŽIEB, s.r.o. 11. augusta 2023 podalo návrh na zaplatenie 151 412,95 eur voči Jozefovi Nazarejovi – Bicykle Nazarej; žalovaný podľa správy podal odpor voči platobnému rozkazu."
+    },
+    "period": "návrh11.08.2023; stav správy za2023",
+    "sourceIds": [
+      "events-a-nazarej-city2023"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-jozef-nazarej",
+    "label": {
+      "sk": "Údaj v mestskej správe o konaní"
+    }
+  },
+  {
+    "id": "claim-psk-jozef-nazarej-event-city-lawsuit-appeal",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Výročná správa mesta Poprad za rok 2024 v konaní 40Cb/142/2023 uvádza zamietnutie žaloby voči Jozefovi Nazarejovi – Bicykle Nazarej a následné odvolania žalobcu a mesta; k 31. decembru 2024 podľa správy o odvolaniach nebolo rozhodnuté."
+    },
+    "period": "stav k31.12.2024",
+    "sourceIds": [
+      "events-a-nazarej-city2024"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-jozef-nazarej",
+    "label": {
+      "sk": "Následný procesný stav v mestskej správe"
+    }
+  },
+  {
+    "id": "claim-psk-jozef-svagerko-event-origin-alcohol",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR v správe z 13. novembra 2018 uviedla, že polícia zastavila Jozefa Švagerka v polovici augusta 2017 a pri dychovej skúške mu namerala viac ako jedno promile alkoholu."
+    },
+    "period": "udalosť august 2017; správa 13.11.2018",
+    "sourceIds": [
+      "poprad-review-primary-29"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-jozef-svagerko",
+    "label": {
+      "sk": "Začiatok udalosti podľa TASR"
+    }
+  },
+  {
+    "id": "claim-psk-jozef-svagerko-event-wiretap-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Jozef Švagerko podľa TASR 19. septembra 2018 uviedol, že podozrenie na odpočúvacie zariadenie zaznamenal aj vo svojej kancelárii a nevie, kto ho mohol nainštalovať."
+    },
+    "period": "2018-09-19",
+    "sourceIds": [
+      "events-a-wzos-wiretap-2018"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-jozef-svagerko",
+    "label": {
+      "sk": "Vyjadrenie primátora"
+    }
+  },
+  {
+    "id": "claim-psk-igor-wzos-event-wiretap-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR 19. septembra 2018 informovala, že bývalý viceprimátor Igor Wzoš po správach o podozrení z odpočúvania na štadióne zverejnil podozrenie na odpočúvacie zariadenie v svojej kancelárii na mestskom úrade."
+    },
+    "period": "2018-09-19",
+    "sourceIds": [
+      "events-a-wzos-wiretap-2018"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-igor-wzos",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-igor-wzos-event-wiretap-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Igor Wzoš podľa TASR 19. septembra 2018 uviedol, že nikoho nepodozrieva a nevie, kto mohol zariadenie nainštalovať."
+    },
+    "period": "2018-09-19",
+    "sourceIds": [
+      "events-a-wzos-wiretap-2018"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-igor-wzos",
+    "label": {
+      "sk": "Vyjadrenie poslanca"
+    }
+  },
+  {
+    "id": "claim-psk-igor-wzos-event-kino-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR 14. decembra 2021 informovala, že Igor Wzoš na mestskom zastupiteľstve kritizoval predaj kina Máj a zvažoval trestné oznámenie; poslanci jeho návrh na bod o zrušení zmluvy do rokovania nezaradili."
+    },
+    "period": "2021-12-14",
+    "sourceIds": [
+      "events-a-wzos-kino-2021"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-igor-wzos",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-igor-wzos-event-council-2022-start",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Mesto Poprad uviedlo, že Igor Wzoš chýbal na pracovnom rokovaní 25. novembra 2022, ktoré nebolo uznášaniaschopné."
+    },
+    "period": "2022-11-25",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-igor-wzos",
+    "label": {
+      "sk": "Správa mesta o rokovaní"
+    }
+  },
+  {
+    "id": "claim-psk-igor-wzos-event-council-2022-later",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Pracovné zastupiteľstvo sa uskutočnilo 13. decembra 2022; podľa mesta išlo o náhradný termín zasadnutia z 9. decembra."
+    },
+    "period": "2022-12-13",
+    "sourceIds": [
+      "events-a-poprad-session-2022-later"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-igor-wzos",
+    "label": {
+      "sk": "Neskoršie rokovanie"
+    }
+  },
+  {
+    "id": "claim-psk-slavomir-bozon-event-council-2022-start",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Mesto Poprad uviedlo, že Slavomír Božoň chýbal na pracovnom rokovaní 25. novembra 2022, ktoré nebolo uznášaniaschopné."
+    },
+    "period": "2022-11-25",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-slavomir-bozon",
+    "label": {
+      "sk": "Správa mesta o rokovaní"
+    }
+  },
+  {
+    "id": "claim-psk-slavomir-bozon-event-council-2022-later",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Pracovné zastupiteľstvo sa uskutočnilo 13. decembra 2022; podľa mesta išlo o náhradný termín zasadnutia z 9. decembra."
+    },
+    "period": "2022-12-13",
+    "sourceIds": [
+      "events-a-poprad-session-2022-later"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-slavomir-bozon",
+    "label": {
+      "sk": "Neskoršie rokovanie"
+    }
+  },
+  {
+    "id": "claim-psk-slavomir-bozon-event-gardens-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Podľa Aktuality.sk Slavomír Božoň v novembri 2025 spolupredložil návrh na rozšírenie lokality pre záhradky, po ktorom mesto žiadalo od Martina Balogu úhradu nákladov."
+    },
+    "period": "november 2025; správa 2026-05-30",
+    "sourceIds": [
+      "events-a-baloga-fee-start"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-slavomir-bozon",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-patricia-bujnakova-event-council-2022-start",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Mesto Poprad uviedlo, že Patrícia Bujňáková chýbala na pracovnom rokovaní 25. novembra 2022, ktoré nebolo uznášaniaschopné."
+    },
+    "period": "2022-11-25",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-patricia-bujnakova",
+    "label": {
+      "sk": "Správa mesta o rokovaní"
+    }
+  },
+  {
+    "id": "claim-psk-patricia-bujnakova-event-council-2022-later",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Pracovné zastupiteľstvo sa uskutočnilo 13. decembra 2022; podľa mesta išlo o náhradný termín zasadnutia z 9. decembra."
+    },
+    "period": "2022-12-13",
+    "sourceIds": [
+      "events-a-poprad-session-2022-later"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-patricia-bujnakova",
+    "label": {
+      "sk": "Neskoršie rokovanie"
+    }
+  },
+  {
+    "id": "claim-psk-marcel-hascak-event-council-2022-start",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Mesto Poprad uviedlo, že Marcel Haščák chýbal na pracovnom rokovaní 25. novembra 2022, ktoré nebolo uznášaniaschopné."
+    },
+    "period": "2022-11-25",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-marcel-hascak",
+    "label": {
+      "sk": "Správa mesta o rokovaní"
+    }
+  },
+  {
+    "id": "claim-psk-marcel-hascak-event-council-2022-later",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Pracovné zastupiteľstvo sa uskutočnilo 13. decembra 2022; podľa mesta išlo o náhradný termín zasadnutia z 9. decembra."
+    },
+    "period": "2022-12-13",
+    "sourceIds": [
+      "events-a-poprad-session-2022-later"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-marcel-hascak",
+    "label": {
+      "sk": "Neskoršie rokovanie"
+    }
+  },
+  {
+    "id": "claim-psk-marcel-hascak-event-council-2022-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Marcel Haščák v spoločnom otvorenom liste z 1. decembra 2022 žiadal zmeniť piatkové termíny rokovaní pre pracovné hokejové povinnosti; odmietol návrh vzdať sa mandátu."
+    },
+    "period": "2022-12-01",
+    "sourceIds": [
+      "events-a-poprad-hockey-councillors-response-2022"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-marcel-hascak",
+    "label": {
+      "sk": "Odpoveď poslanca"
+    }
+  },
+  {
+    "id": "claim-psk-arne-krotak-event-flat-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR 9. mája 2017 uviedla, že mesto Poprad podľa svojho stanoviska pridelilo Arnemu Krotákovi nájomný byt v máji 2006 a na jeho žiadosť ho v roku 2016 predalo."
+    },
+    "period": "udalosti 2006 a 2016; správa 09.05.2017",
+    "sourceIds": [
+      "poprad-review-76f85c8fbde40e09"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-arne-krotak",
+    "label": {
+      "sk": "Kontext prevodu podľa správy TASR"
+    }
+  },
+  {
+    "id": "claim-psk-peter-leco-event-enforcement-2023",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Obchodný vestník z 19. mája 2023 zverejnil oznámenie o upovedomení o začatí exekúcie voči Petrovi Lecovi v konaní 409EX 76/23; oznámenie uvádza exekučný titul zo dňa 19.05.2022."
+    },
+    "period": "zverejnenie 2023-05-19; exekučný titul 19.05.2022",
+    "sourceIds": [
+      "events-a-leco-notice-2023"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-peter-leco",
+    "label": {
+      "sk": "Procesné oznámenie exekútora"
+    }
+  },
+  {
+    "id": "claim-psk-peter-leco-event-enforcement-2024-health",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Obchodný vestník z 7. mája 2024 zverejnil oznámenie o upovedomení o začatí exekúcie voči Petrovi Lecovi v konaní 409EX 79/24; oznámenie uvádza exekučný titul zo dňa 23.10.2018."
+    },
+    "period": "zverejnenie 2024-05-07; exekučný titul 23.10.2018",
+    "sourceIds": [
+      "events-a-leco-notice-2024-health"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-peter-leco",
+    "label": {
+      "sk": "Procesné oznámenie exekútora"
+    }
+  },
+  {
+    "id": "claim-psk-peter-leco-event-enforcement-2024-tax",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Obchodný vestník z 14. novembra 2024 zverejnil oznámenie o upovedomení o začatí exekúcie voči Petrovi Lecovi v konaní 409EX 758/24; oznámenie uvádza exekučný titul zo dňa 27.09.2023."
+    },
+    "period": "zverejnenie 2024-11-14; exekučný titul 27.09.2023",
+    "sourceIds": [
+      "events-a-leco-notice-2024-tax"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-peter-leco",
+    "label": {
+      "sk": "Procesné oznámenie exekútora"
+    }
+  },
+  {
+    "id": "claim-psk-peter-leco-event-enforcement-2022-health",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Obchodný vestník z 2022-06-22 zverejnil oznámenie o upovedomení o začatí exekúcie voči Petrovi Lecovi v konaní 409EX 101/22; oznámenie uvádza exekučný titul zo dňa 27.07.2021."
+    },
+    "period": "zverejnenie 2022-06-22; exekučný titul 27.07.2021",
+    "sourceIds": [
+      "events-a-leco-notice-2022-health"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-peter-leco",
+    "label": {
+      "sk": "Procesné oznámenie exekútora"
+    }
+  },
+  {
+    "id": "claim-psk-peter-leco-event-enforcement-2023-health",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Obchodný vestník z 2023-07-31 zverejnil oznámenie o upovedomení o začatí exekúcie voči Petrovi Lecovi v konaní 409EX 364/23; oznámenie uvádza exekučný titul zo dňa 27.08.2020."
+    },
+    "period": "zverejnenie 2023-07-31; exekučný titul 27.08.2020",
+    "sourceIds": [
+      "events-a-leco-notice-2023-health"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-peter-leco",
+    "label": {
+      "sk": "Procesné oznámenie exekútora"
+    }
+  },
+  {
+    "id": "claim-psk-helena-mezenska-event-council-2022-start",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Mesto Poprad uviedlo, že Helena Mezenská chýbala na pracovnom rokovaní 25. novembra 2022, ktoré nebolo uznášaniaschopné."
+    },
+    "period": "2022-11-25",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-helena-mezenska",
+    "label": {
+      "sk": "Správa mesta o rokovaní"
+    }
+  },
+  {
+    "id": "claim-psk-helena-mezenska-event-council-2022-later",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Pracovné zastupiteľstvo sa uskutočnilo 13. decembra 2022; podľa mesta išlo o náhradný termín zasadnutia z 9. decembra."
+    },
+    "period": "2022-12-13",
+    "sourceIds": [
+      "events-a-poprad-session-2022-later"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-helena-mezenska",
+    "label": {
+      "sk": "Neskoršie rokovanie"
+    }
+  },
+  {
+    "id": "claim-psk-stefan-pcola-event-kino-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Štefan Pčola podľa TASR 14. decembra 2021 uviedol, že ponuka Igora Wzoša na kúpu kina Máj za dva milióny eur podľa neho „zaváňa“ marením súťaže."
+    },
+    "period": "2021-12-14",
+    "sourceIds": [
+      "events-a-wzos-kino-2021"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-stefan-pcola",
+    "label": {
+      "sk": "Reakcia viceprimátora"
+    }
+  },
+  {
+    "id": "claim-psk-david-skokan-event-council-2022-start",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Mesto Poprad uviedlo, že Dávid Skokan chýbal na pracovnom rokovaní 25. novembra 2022, ktoré nebolo uznášaniaschopné."
+    },
+    "period": "2022-11-25",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-david-skokan",
+    "label": {
+      "sk": "Správa mesta o rokovaní"
+    }
+  },
+  {
+    "id": "claim-psk-david-skokan-event-council-2022-later",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Pracovné zastupiteľstvo sa uskutočnilo 13. decembra 2022; podľa mesta išlo o náhradný termín zasadnutia z 9. decembra."
+    },
+    "period": "2022-12-13",
+    "sourceIds": [
+      "events-a-poprad-session-2022-later"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-david-skokan",
+    "label": {
+      "sk": "Neskoršie rokovanie"
+    }
+  },
+  {
+    "id": "claim-psk-david-skokan-event-council-2022-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Dávid Skokan v spoločnom otvorenom liste z 1. decembra 2022 žiadal zmeniť piatkové termíny rokovaní pre pracovné hokejové povinnosti; odmietol návrh vzdať sa mandátu."
+    },
+    "period": "2022-12-01",
+    "sourceIds": [
+      "events-a-poprad-hockey-councillors-response-2022"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-david-skokan",
+    "label": {
+      "sk": "Odpoveď poslanca"
+    }
+  },
+  {
+    "id": "claim-psk-martin-estocak-event-censorship-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Kristián Korem na Prešovak.sk 30. septembra 2025 uviedol, že Martin Eštočák zverejnil svoju korešpondenciu s mestom; poslanec podľa správy 26. augusta 2025 požiadal úrad o vysvetlenie blokovania občanov."
+    },
+    "period": "korešpondencia 26.08.2025; správa 30.09.2025",
+    "sourceIds": [
+      "presov-review-original-fd52d542c30ff57a"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-estocak",
+    "label": {
+      "sk": "Začiatok sporu podľa médií"
+    }
+  },
+  {
+    "id": "claim-psk-martin-estocak-event-stadium-reported-allegation",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR a ta3 v správe z 31. októbra 2024, aktualizovanej 4. novembra, informovali, že František Oľha pripísal Martinovi Eštočákovi podanie trestného oznámenia v súvislosti s výstavbou Futbal Tatran Arény."
+    },
+    "period": "31.10.2024; oprava 04.11.2024",
+    "sourceIds": [
+      "events-a-stadium-corrected-2024"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-estocak",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-martin-estocak-event-stadium-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Martin Eštočák podľa ta3 odmietol, že podal trestné oznámenie; uviedol, že podal podnet na Úrad pre verejné obstarávanie na preverenie dodatkov k výstavbe štadióna."
+    },
+    "period": "reakcia v správe 31.10.2024; aktualizované 04.11.2024",
+    "sourceIds": [
+      "events-a-stadium-corrected-2024"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-estocak",
+    "label": {
+      "sk": "Reakcia poslanca"
+    }
+  },
+  {
+    "id": "claim-psk-martin-estocak-event-stadium-correction",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Redakcia ta3 v oprave zo 4. novembra 2024 uviedla, že podľa hovorkyne polície Martin Eštočák nebol osobou, ktorá podala trestné oznámenie, a za chybu sa mu ospravedlnila."
+    },
+    "period": "2024-11-04",
+    "sourceIds": [
+      "events-a-stadium-corrected-2024"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-estocak",
+    "label": {
+      "sk": "Oprava redakcie"
+    }
+  },
+  {
+    "id": "claim-psk-martin-estocak-event-demolition-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "SITA 21. januára 2020 informovala, že Martin Eštočák podal polícii podnet na preverenie záchranných prác po výbuchu bytovky na Mukačevskej ulici pre podozrenie z porušenia povinností pri správe cudzieho majetku."
+    },
+    "period": "2020-01-21",
+    "sourceIds": [
+      "events-a-demolition-referral-2020"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-estocak",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-martin-estocak-event-demolition-city-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Tajomník krízového štábu Peter Kulan podľa SITA 21. januára 2020 odmietol tvrdenie, že konkurenčná firma predložila mestu cenovú ponuku na demolačné práce."
+    },
+    "period": "2020-01-21",
+    "sourceIds": [
+      "events-a-demolition-referral-2020"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-estocak",
+    "label": {
+      "sk": "Reakcia mesta v správe SITA"
+    }
+  },
+  {
+    "id": "claim-psk-martin-estocak-event-demolition-2021-stage",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR, RTVS a Robert Latta 20. apríla 2021 informovali, že vyšetrovateľ NAKA nezistil uvedený trestný čin, ale vec postúpil Úradu pre verejné obstarávanie pre možné porušenie zákona o verejnom obstarávaní."
+    },
+    "period": "2021-04-20",
+    "sourceIds": [
+      "events-a-demolition-development-2021"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-estocak",
+    "label": {
+      "sk": "Procesný vývoj podľa médií"
+    }
+  },
+  {
+    "id": "claim-psk-martin-estocak-event-demolition-2022-stage",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR na Aktuality.sk 22. septembra 2022 informovala, že po opätovnom začatí trestného stíhania v júni 2021 NAKA podľa hovorcu mesta 13. septembra 2022 trestné stíhanie zastavila."
+    },
+    "period": "2022-09-22",
+    "sourceIds": [
+      "events-a-demolition-development-2022"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-martin-estocak",
+    "label": {
+      "sk": "Neskorší procesný vývoj podľa TASR"
+    }
+  },
+  {
+    "id": "claim-psk-pavel-hagyari-event-midibus-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "SITA 19. júla 2011 informovala, že prešovská polícia v júni 2009 sankcionovala Pavla Hagyariho za jazdu mestským midibusom bez príslušného vodičského oprávnenia."
+    },
+    "period": "sankcia jún 2009; správa 19.07.2011",
+    "sourceIds": [
+      "events-a-hagyari-midibus-2011"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-pavel-hagyari",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-pavel-hagyari-event-midibus-development",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "SITA 19. júla 2011 informovala, že Najvyšší súd SR zamietol žalobu Pavla Hagyariho vo veci sankcie za jazdu midibusom; správa uvádza zákaz vedenia vozidla na jeden rok a pokutu 300 eur."
+    },
+    "period": "2011-07-19",
+    "sourceIds": [
+      "events-a-hagyari-midibus-2011"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-pavel-hagyari",
+    "label": {
+      "sk": "Výsledok podľa mediálnej správy"
+    }
+  },
+  {
+    "id": "claim-psk-pavel-hagyari-event-midibus-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Pavel Hagyari podľa SITA v reakcii z 30. júna 2009 uviedol, že šlo o neúmyselný omyl pri rozlišovaní minibusu a midibusu, a ospravedlnil sa za poškodenie dobrého mena mesta."
+    },
+    "period": "reakcia 30.06.2009 citovaná v správe 19.07.2011",
+    "sourceIds": [
+      "events-a-hagyari-midibus-2011"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-pavel-hagyari",
+    "label": {
+      "sk": "Reakcia kandidáta podľa SITA"
+    }
+  },
+  {
+    "id": "claim-psk-frantisek-olha-event-stadium-reported-allegation",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR a ta3 v správe z 31. októbra 2024, aktualizovanej 4. novembra, informovali, že František Oľha pripísal Martinovi Eštočákovi trestné oznámenie v súvislosti s výstavbou štadióna; redakcia následne túto atribúciu opravila."
+    },
+    "period": "31.10.2024; oprava 04.11.2024",
+    "sourceIds": [
+      "events-a-stadium-corrected-2024"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-frantisek-olha",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-frantisek-olha-event-stadium-correction",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Redakcia ta3 4. novembra 2024 uviedla, že podľa hovorkyne polície Martin Eštočák nebol osobou, ktorá podala trestné oznámenie, a ospravedlnila sa mu."
+    },
+    "period": "2024-11-04",
+    "sourceIds": [
+      "events-a-stadium-corrected-2024"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-frantisek-olha",
+    "label": {
+      "sk": "Oprava redakcie"
+    }
+  },
+  {
+    "id": "claim-psk-frantisek-olha-event-bus-audit-2025",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "STVR informovala o zistení mestského kontrolóra, podľa ktorého pri prenájme ôsmich autobusov v roku 2024 mala prebehnúť súťaž."
+    },
+    "period": "2024; správa 2025-05-02",
+    "sourceIds": [
+      "events-a-presov-bus-audit-2025"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-frantisek-olha",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-frantisek-olha-event-bus-audit-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "František Oľha podľa STVR uviedol, že spôsob súťaže pravdepodobne nevyhodnotili správne; cenu však považoval za prijateľnú na trhu a tvrdil, že dopravný podnik nezaplatí viac."
+    },
+    "period": "2025-05-02",
+    "sourceIds": [
+      "events-a-presov-bus-audit-2025"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-frantisek-olha",
+    "label": {
+      "sk": "Odpoveď primátora"
+    }
+  },
+  {
+    "id": "claim-psk-frantisek-olha-event-tatran-audit-2026",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "STVR informovala, že kontrola Tatrana Prešov po zistení približne miliónového dlhu odhalila nezverejňovanie zmlúv, objednávok a faktúr."
+    },
+    "period": "2026-09-25",
+    "sourceIds": [
+      "events-a-presov-tatran-audit-2026"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-frantisek-olha",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-frantisek-olha-event-tatran-audit-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "František Oľha uviedol, že mesto postupne zverejňuje všetky zmluvy a tým napráva chyby bývalého vedenia Tatranu."
+    },
+    "period": "2026-09-25",
+    "sourceIds": [
+      "events-a-presov-tatran-audit-2026"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-frantisek-olha",
+    "label": {
+      "sk": "Odpoveď primátora"
+    }
+  },
+  {
+    "id": "claim-psk-marian-damankos-event-bus-audit-2025",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "STVR informovala o zistení mestského kontrolóra, podľa ktorého pri prenájme ôsmich autobusov v roku 2024 mala prebehnúť súťaž."
+    },
+    "period": "2024; správa 2025-05-02",
+    "sourceIds": [
+      "events-a-presov-bus-audit-2025"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-marian-damankos",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-marian-damankos-event-bus-audit-2024-start",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Podľa retrospektívnej správy STVR člen dozornej rady Marián Damankoš už v novembri 2024 spochybnil hospodárnosť ceny prenájmu autobusov."
+    },
+    "period": "november 2024; správa 2025-05-02",
+    "sourceIds": [
+      "events-a-presov-bus-audit-2025"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-marian-damankos",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-marian-damankos-event-bus-audit-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Marián Damankoš označil dodatočné vysvetlenie bývalého riaditeľa dopravného podniku za alibistické a spochybnil snahu preukázať hospodárnosť postupu."
+    },
+    "period": "2025-05-02",
+    "sourceIds": [
+      "events-a-presov-bus-audit-2025"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-marian-damankos",
+    "label": {
+      "sk": "Vyjadrenie člena dozornej rady"
+    }
+  },
+  {
+    "id": "claim-psk-marian-damankos-event-tatran-audit-2026",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "STVR informovala, že kontrola Tatrana Prešov po zistení približne miliónového dlhu odhalila nezverejňovanie zmlúv, objednávok a faktúr."
+    },
+    "period": "2026-09-25",
+    "sourceIds": [
+      "events-a-presov-tatran-audit-2026"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-marian-damankos",
+    "label": {
+      "sk": "Mediálna správa"
+    }
+  },
+  {
+    "id": "claim-psk-marian-damankos-event-tatran-audit-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Marián Damankoš v reakcii zdôraznil, že použitie verejných peňazí vyžaduje zverejňovanie dokumentov, a spochybnil neznalosť povinností vedenia klubu."
+    },
+    "period": "2026-09-25",
+    "sourceIds": [
+      "events-a-presov-tatran-audit-2026"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-marian-damankos",
+    "label": {
+      "sk": "Vyjadrenie poslanca"
+    }
+  },
+  {
+    "id": "claim-psk-jozef-demcak-event-building-functions",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Noviny.sk informovali, že Jozef Demčák sa po spore o nepovolenú stavbu vzdal členstva v mestskej rade."
+    },
+    "period": "2018-12-17",
+    "sourceIds": [
+      "presov-review-original-6b207809d14b9f11"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-jozef-demcak",
+    "label": {
+      "sk": "Následný vývoj podľa reportáže"
+    }
+  },
+  {
+    "id": "claim-psk-jozef-demcak-event-building-commission",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Noviny.sk informovali, že Jozef Demčák sa vzdal aj funkcie podpredsedu komisie pre územný plán a výstavbu."
+    },
+    "period": "2018-12-17",
+    "sourceIds": [
+      "presov-review-original-6b207809d14b9f11"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-jozef-demcak",
+    "label": {
+      "sk": "Následný vývoj podľa reportáže"
+    }
+  },
+  {
+    "id": "claim-psk-janette-langova-event-meeting-complaint",
+    "category": "controversies",
+    "kind": "fact",
+    "text": {
+      "sk": "Mestský úrad v Prešove v odpovedi z 24. júla 2014 uviedol, že incident na zasadnutí VMČ č. 4 a následné vyhrážanie voči Janette Langovej boli podľa vedomostí úradu predmetom konania na základe jej trestného oznámenia."
+    },
+    "period": "odpoveď24.07.2014; podanie13.05.2014",
+    "sourceIds": [
+      "events-a-langova-legal-reply-2014"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-janette-langova",
+    "label": {
+      "sk": "Údaj v odpovedi mestského úradu"
+    }
+  },
+  {
+    "id": "recheck-psk-martin-durisin-dismissal-report",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR 23. januára 2017 informovala, že Andrea Turčanová odvolala Martina Ďurišina z funkcie druhého viceprimátora Prešova s účinnosťou od 20. januára; ako dôvod uviedla komunikáciu s poslaneckými klubmi a hlasovania proti návrhom vedenia mesta."
+    },
+    "period": "udalosť 2017-01-20; správa 2017-01-23",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-durisin-dismissal-tasr-2017"
+    ],
+    "candidateId": "psk-martin-durisin",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-martin-durisin-dismissal-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Martin Ďurišin v stanovisku citovanom TASR odmietol dôvody svojho odvolania z funkcie viceprimátora, pričom uviedol, že rozhodnutie primátorky rešpektuje."
+    },
+    "period": "2017-01-23",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-durisin-dismissal-tasr-2017"
+    ],
+    "candidateId": "psk-martin-durisin",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-martin-durisin-riding-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Katarína Cimborová v ta3 6. decembra 2025 informovala, že mesto Prešov sa pri plánovanom prevzatí jazdeckého areálu dostalo do sporu s OZ Parkúr team Slavoj; združenie napadlo výpoveď nájomnej zmluvy na súde a získalo neodkladné opatrenie."
+    },
+    "period": "2025-12-06",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-presov-riding-ta3-2025"
+    ],
+    "candidateId": "psk-martin-durisin",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-martin-durisin-riding-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Martin Ďurišin pre ta3 uviedol, že nájomná zmluva jazdeckého areálu mala pôvodne platiť do roku 2054 a mesto sa pokúsi predĺžiť lehotu na čerpanie dotácie."
+    },
+    "period": "2025-12-06",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-presov-riding-ta3-2025"
+    ],
+    "candidateId": "psk-martin-durisin",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-martin-durisin-riding-agreement-report",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Martina Bednárová v Prešovak.sk 12. decembra 2025 informovala, že mesto Prešov a OZ Parkúr Team Slavoj dosiahli dohodu o odkúpení priľahlých pozemkov a petičný výbor 10. decembra vzal petíciu späť."
+    },
+    "period": "2025-12-12; aktualizované 2025-12-14",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-presov-riding-agreement-2025"
+    ],
+    "candidateId": "psk-martin-durisin",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-sfz-2024-opening",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Disciplinárna komisia SFZ v rozhodnutí U1669, zverejnenom 24. mája 2024, začala voči Ľubošovi Micheľovi konanie pre hrubé nešportové prejavy voči pracovníkovi SFZ počas stretnutia Humenné – Tatran Prešov."
+    },
+    "period": "2024-05-24",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-sfz-2024-44"
+    ],
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-sfz-2024-fine",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Disciplinárna komisia SFZ v rozhodnutí U1833, zverejnenom 14. júna 2024, uložila Ľubošovi Micheľovi pokutu 1 300 eur a príkaz písomne sa ospravedlniť Jakubovi Čavojovi; proti rozhodnutiu bolo možné podať odvolanie."
+    },
+    "period": "2024-06-14",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-sfz-2024-47"
+    ],
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-sfz-2024-appeal",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Disciplinárna komisia SFZ v rozhodnutí U1846, zverejnenom 21. júna 2024, uviedla, že Micheľ podal 20. júna odvolanie proti sankcii; komisia mu v plnom rozsahu nevyhovela a vec postúpila Odvolacej komisii SFZ."
+    },
+    "period": "odvolanie 2024-06-20; zverejnenie 2024-06-21",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-sfz-2024-48"
+    ],
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-sfz-2024-paid-report",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Michal Šášky a Zoran Boškovič v Denníku N 3. septembra 2024 informovali, že Micheľ zaplatil pokutu uloženú v disciplinárnej veci týkajúcej sa Jakuba Čavoja."
+    },
+    "period": "2024-09-03",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-michel-sestak-paid-dennikn"
+    ],
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-cavoj-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Ľuboš Micheľ v Denníku N označil rozhovor s Jakubom Čavojom za krátku emotívnu debatu o postupe vo veci futbalistu Dragana Andrića."
+    },
+    "period": "2024-09-03",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-michel-sestak-paid-dennikn"
+    ],
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-u739",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Disciplinárna komisia SFZ v rozhodnutí U739, zverejnenom 7. novembra 2025, uložila Ľubošovi Micheľovi za hrubé urážky rozhodcov pokutu 600 eur a zákaz vstupu do určených priestorov štadióna do 31. marca 2026; rozhodnutie pripúšťalo odvolanie."
+    },
+    "period": "2025-11-07",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-sfz-2025-19"
+    ],
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-u947",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Disciplinárna komisia SFZ v rozhodnutí U947, zverejnenom 19. decembra 2025, začala voči Ľubošovi Micheľovi konanie pre porušenie skoršej sankcie U739 a vyžiadala si jeho stanovisko."
+    },
+    "period": "2025-12-19",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-sfz-2025-25"
+    ],
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-u967",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Disciplinárna komisia SFZ v rozhodnutí U967, zverejnenom 6. februára 2026, uložila Ľubošovi Micheľovi pokutu 1 500 eur za porušenie skoršej disciplinárnej sankcie U739; proti rozhodnutiu bolo možné podať odvolanie."
+    },
+    "period": "2026-02-06",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-sfz-2026-30"
+    ],
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-u1925",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Disciplinárna komisia SFZ v rozhodnutí U1925, zverejnenom 22. mája 2026, uložila Ľubošovi Micheľovi za konanie počas a po stretnutí Komárno – Tatran Prešov zákaz vstupu do šatní, technickej zóny a priestorov vyhradených pre delegované osoby od 17. mája 2026 do 30. júna 2027; proti rozhodnutiu bolo možné podať odvolanie."
+    },
+    "period": "2026-05-22",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-sfz-2026-45"
+    ],
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-tatran-transparency-report",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "STVR v reportáži Roberta Lattu 25. septembra 2026 informovala, že kontrola v spoločnosti Tatran Prešov odhalila nezverejňovanie zmlúv, objednávok a faktúr; Ľuboš Micheľ bol v reportáži označený za bývalého konateľa."
+    },
+    "period": "2026-09-25",
+    "sourceIds": [
+      "events-a-presov-tatran-audit-2026"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-tatran-transparency-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Ľuboš Micheľ v reportáži STVR uviedol, že nezverejňovanie dokumentov Tatrana Prešov bolo neúmyselné a súviselo s neznalosťou povinnosti."
+    },
+    "period": "2026-09-25",
+    "sourceIds": [
+      "events-a-presov-tatran-audit-2026"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-lubos-michel-komarno-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Ľuboš Micheľ podľa Šport.sk po stretnutí Komárno – Tatran Prešov 16. mája 2026 ostro kritizoval rozhodcov a rozhodcovskú komisiu po neuznanom góle Tatrana."
+    },
+    "period": "2026-05-16",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-michel-komarno-response-sportsk-2026"
+    ],
+    "candidateId": "psk-lubos-michel",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-drahomir-cureja-title-2022",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Oznámenie exekútorky v konaní 419EX 339/24 uvádza ako podklad exekúcie výkaz Union zdravotnej poisťovne z 24. marca 2022 a poverenie súdu z 26. apríla 2024."
+    },
+    "period": "podklad 2022-03-24; poverenie 2024-04-26; oznámenie 2024-08-09",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "cureja-enforcement-2024"
+    ],
+    "candidateId": "psk-drahomir-cureja",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-drahomir-cureja-service-july-2025",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Obchodný vestník 16. júla 2025 zverejnil oznámenie exekútorky o doručovaní upovedomenia o začatí exekúcie voči Drahomírovi Čurejovi v konaní 419EX 307/25."
+    },
+    "period": "2025-07-16",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-cureja-service-july-2025"
+    ],
+    "candidateId": "psk-drahomir-cureja",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-drahomir-cureja-service-august-2025",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Obchodný vestník 13. augusta 2025 zverejnil oznámenie exekútorky o doručovaní upovedomenia o začatí exekúcie voči Drahomírovi Čurejovi v konaní 419EX 482/25."
+    },
+    "period": "2025-08-13",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-cureja-service-august-2025"
+    ],
+    "candidateId": "psk-drahomir-cureja",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-drahomir-cureja-title-2025",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Oznámenie exekútorky v konaní 419EX 482/25 uvádza ako podklad rozhodnutie Okresného súdu Stará Ľubovňa z 4. marca 2025 v konaní 7Csp/11/2024, právoplatné od 26. marca 2025."
+    },
+    "period": "rozhodnutie 2025-03-04; právoplatnosť 2025-03-26; oznámenie 2025-08-13",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-cureja-service-august-2025"
+    ],
+    "candidateId": "psk-drahomir-cureja",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-marian-geci-2022-origin",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Oznámenie exekútora v konaní 78EX 1531/21 uvádza ako podklad rozhodnutia Okresného súdu Svidník v konaní 5C/8/2015 z 21. augusta 2017 a 3. októbra 2019."
+    },
+    "period": "rozhodnutia 2017-08-21 a 2019-10-03; oznámenie 2022-03-31",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "geci-enforcement-notice-2022"
+    ],
+    "candidateId": "psk-marian-geci",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-marian-geci-2023-origin",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Oznámenie exekútora v konaní 78EX 751/23 uvádza ako podklad výkaz Union zdravotnej poisťovne z 27. augusta 2020 a poverenie súdu z 5. septembra 2023."
+    },
+    "period": "výkaz 2020-08-27; poverenie 2023-09-05; oznámenie 2023-12-13",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "geci-official-notice-2023"
+    ],
+    "candidateId": "psk-marian-geci",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-marian-geci-2025-origin",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Oznámenie exekútora v konaní 78EX 416/25 uvádza ako podklad výkaz Union zdravotnej poisťovne zo 6. augusta 2023 a poverenie súdu zo 16. apríla 2025."
+    },
+    "period": "výkaz 2023-08-06; poverenie 2025-04-16; oznámenie 2025-07-22",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "geci-official-notice-2025"
+    ],
+    "candidateId": "psk-marian-geci",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-zoltan-kaso-bankruptcy-opening",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Okresný súd Prešov uznesením z 3. mája 2023 vyhlásil konkurz na majetok Zoltána Kaša v konaní 5OdK/138/2023; uznesenie bolo zverejnené v Obchodnom vestníku 10. mája 2023."
+    },
+    "period": "rozhodnutie 2023-05-03; zverejnenie 2023-05-10",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-kaso-bankruptcy-opening-2023"
+    ],
+    "candidateId": "psk-zoltan-kaso",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-milan-mazurek-frontinus-beginning",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Martin Sliz v Aktuality.sk uviedol, že trestná vec Milana Mazureka sa týkala výrokov v relácii Debata na telefón v rádiu Frontinus z 2. októbra 2016."
+    },
+    "period": "udalosť 2016-10-02; správa 2019-09-03",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "mazurek-conviction-aktuality"
+    ],
+    "candidateId": "psk-milan-mazurek",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-milan-mazurek-sabaka-earlier-final-report",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR 22. januára 2026 uviedla, že skorší rozsudok okresného súdu z 25. augusta 2023 v spojení s rozsudkom Krajského súdu v Prešove z 29. júla 2025 bol právoplatný a uložil Milanovi Mazurekovi zaplatiť Petrovi Sabakovi 15-tisíc eur."
+    },
+    "period": "rozsudky 2023-08-25 a 2025-07-29; správa 2026-01-22",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "mazurek-sabaka-tasr-stvr"
+    ],
+    "candidateId": "psk-milan-mazurek",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-samuel-migal-june-project-criticism",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "TASR 5. júna 2026 informovala, že Progresívne Slovensko vyzvalo Samuela Migaľa zastaviť projekt obnovy Slovensko.sk a počkať na posudky; projekt už predtým kritizovalo združenie Slovensko.Digital."
+    },
+    "period": "2026-06-05",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-migal-project-pause-tasr-2026"
+    ],
+    "candidateId": "psk-samuel-migal",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-samuel-migal-project-pause",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "TASR 5. júna 2026 uviedla, že Samuel Migaľ požiadal dozornú radu NASES, aby zatiaľ neschválila podpis zmlúv na obnovu portálu Slovensko.sk."
+    },
+    "period": "2026-06-05",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-migal-project-pause-tasr-2026"
+    ],
+    "candidateId": "psk-samuel-migal",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-samuel-migal-october-contract-report",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Lenka Klobučníková v Aktuality.sk 9. októbra 2026 informovala, že NASES z rezortu vedeného Samuelom Migaľom uzatvorila s GlobalTel zmluvu na softvér a prevádzku portálu Slovensko.sk za 90 429 593,85 eura."
+    },
+    "period": "zmluva 2026-10-08; správa 2026-10-09",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-migal-slovensko-contract-report-2026",
+      "recheck-migal-slovensko-contract-2026"
+    ],
+    "candidateId": "psk-samuel-migal",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-peter-dzurilla-tatry-dispute-beginning",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Marek Nemec v Aktuality.sk uviedol, že súdnemu sporu predchádzal policajný výsluch primátora Jozefa Štefaňáka ako podozrivého v súvislosti s trestným oznámením pre nebezpečné vyhrážanie."
+    },
+    "period": "správa 2026-05-27",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "poprad-review-5ba767b78ea5d230"
+    ],
+    "candidateId": "psk-peter-dzurilla",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-jozef-stefanak-tatry-dispute-beginning",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Marek Nemec v Aktuality.sk uviedol, že súdnemu sporu predchádzal policajný výsluch primátora Jozefa Štefaňáka ako podozrivého v súvislosti s trestným oznámením pre nebezpečné vyhrážanie."
+    },
+    "period": "správa 2026-05-27",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "poprad-review-5ba767b78ea5d230"
+    ],
+    "candidateId": "psk-jozef-stefanak",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-anton-hrabko-bankruptcy-opening",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Okresný súd Prešov uznesením z 5. januára 2021 vyhlásil konkurz na majetok Antona Hrabka v konaní 3OdK/312/2020; uznesenie bolo zverejnené v Obchodnom vestníku 12. januára 2021."
+    },
+    "period": "rozhodnutie 2021-01-05; zverejnenie 2021-01-12",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-hrabko-bankruptcy-opening-2021"
+    ],
+    "candidateId": "psk-anton-hrabko",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-anton-hrabko-bankruptcy-termination",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Správca JUDr. Peter Novosad v Obchodnom vestníku 5. marca 2021 oznámil, že konkurz Antona Hrabka v konaní 3OdK/312/2020 sa končí, pretože konkurzná podstata nepokryje náklady konkurzu."
+    },
+    "period": "2021-03-05",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-hrabko-bankruptcy-termination-2021"
+    ],
+    "candidateId": "psk-anton-hrabko",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-vladimir-luteran-procedural-notice",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Obchodný vestník 31. decembra 2025 zverejnil oznámenie súdneho exekútora o doručovaní upovedomenia o začatí exekúcie voči Vladimírovi Luteránovi v konaní 89EX 854/25."
+    },
+    "period": "2025-12-31",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-luteran-enforcement-2025"
+    ],
+    "candidateId": "psk-vladimir-luteran",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-vladimir-luteran-execution-origin",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Oznámenie exekútora v konaní 89EX 854/25 uvádza ako podklad exekúcie titul Všeobecnej zdravotnej poisťovne zo 17. júla 2024."
+    },
+    "period": "titul 2024-07-17; oznámenie 2025-12-31",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-luteran-enforcement-2025"
+    ],
+    "candidateId": "psk-vladimir-luteran",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-darina-nakatova-bankruptcy-start",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Okresný súd Prešov uznesením z 30. marca 2015 začal konkurzné konanie voči Darine Ňakatovej v konaní 2K/18/2015; uznesenie bolo zverejnené 8. apríla 2015."
+    },
+    "period": "rozhodnutie 2015-03-30; zverejnenie 2015-04-08",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-nakatova-bankruptcy-start-2015"
+    ],
+    "candidateId": "psk-darina-nakatova",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-darina-nakatova-bankruptcy-final",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Okresný súd Prešov v oznámení zverejnenom 4. novembra 2016 uviedol, že konkurz Dariny Ňakatovej v konaní 2K/18/2015 bol zrušený po splnení konečného rozvrhu výťažku a uznesenie nadobudlo právoplatnosť 21. októbra 2016."
+    },
+    "period": "rozhodnutie 2016-09-28; právoplatnosť 2016-10-21; zverejnenie 2016-11-04",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-nakatova-bankruptcy-final-2016"
+    ],
+    "candidateId": "psk-darina-nakatova",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-darina-nakatova-debt-relief",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Okresný súd Prešov uznesením z 21. apríla 2017 rozhodol o oddlžení Dariny Ňakatovej v konaní 2NcKR/1/2016; uznesenie bolo zverejnené v Obchodnom vestníku 27. apríla 2017 a uvádza, že odvolanie nie je prípustné."
+    },
+    "period": "rozhodnutie 2017-04-21; zverejnenie 2017-04-27",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-nakatova-debt-relief-2017"
+    ],
+    "candidateId": "psk-darina-nakatova",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-nicole-rubisova-hazard-origin",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Ivan Kriššák v SITA 18. decembra 2024 informoval, že Úrad pre reguláciu hazardných hier udelil v Ľuboticiach licencie napriek nesúhlasnému stanovisku obce; spor sa týkal účinnosti obecného zákazu hazardu a lehoty jeho oznámenia."
+    },
+    "period": "2024-12-18",
+    "sourceIds": [
+      "recheck-lubotice-hazard-sita-2024"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-nicole-rubisova",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-nicole-rubisova-hazard-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Nicole Rubisová pre SITA uviedla, že obec Ľubotice podala v súvislosti s licenciami na hazard podnet na prokuratúru a prijala nové nariadenie o zákaze hazardu."
+    },
+    "period": "2024-12-18",
+    "sourceIds": [
+      "recheck-lubotice-hazard-sita-2024"
+    ],
+    "checkedAt": "2026-10-14",
+    "candidateId": "psk-nicole-rubisova",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-stanislav-sestak-sfz-2024-opening",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Disciplinárna komisia SFZ v rozhodnutí U1670, zverejnenom 24. mája 2024, začala voči Stanislavovi Šestákovi konanie pre hrubé nešportové prejavy voči pracovníkovi SFZ počas stretnutia Humenné – Tatran Prešov."
+    },
+    "period": "2024-05-24",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-sfz-2024-44"
+    ],
+    "candidateId": "psk-stanislav-sestak",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-stanislav-sestak-sfz-2024-fine",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Disciplinárna komisia SFZ v rozhodnutí U1834, zverejnenom 14. júna 2024, uložila Stanislavovi Šestákovi pokutu 1 000 eur a príkaz písomne sa ospravedlniť Jakubovi Čavojovi; proti rozhodnutiu bolo možné podať odvolanie."
+    },
+    "period": "2024-06-14",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-sfz-2024-47"
+    ],
+    "candidateId": "psk-stanislav-sestak",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-stanislav-sestak-sfz-2024-appeal",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "text": {
+      "sk": "Disciplinárna komisia SFZ v rozhodnutí U1847, zverejnenom 21. júna 2024, uviedla, že Šesták podal 20. júna odvolanie proti sankcii; komisia mu v plnom rozsahu nevyhovela a vec postúpila Odvolacej komisii SFZ."
+    },
+    "period": "odvolanie 2024-06-20; zverejnenie 2024-06-21",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-sfz-2024-48"
+    ],
+    "candidateId": "psk-stanislav-sestak",
+    "label": {
+      "sk": "Procesné oznámenie"
+    }
+  },
+  {
+    "id": "recheck-psk-stanislav-sestak-sfz-2024-paid-report",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "Michal Šášky a Zoran Boškovič v Denníku N 3. septembra 2024 informovali, že Šesták zaplatil pokutu uloženú v disciplinárnej veci týkajúcej sa Jakuba Čavoja."
+    },
+    "period": "2024-09-03",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-michel-sestak-paid-dennikn"
+    ],
+    "candidateId": "psk-stanislav-sestak",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-stanislav-sestak-cavoj-response",
+    "category": "controversies",
+    "kind": "response",
+    "text": {
+      "sk": "Stanislav Šesták v Denníku N uviedol, že Jakubovi Čavojovi chcel povedať svoj názor na jeho postup vo veci futbalistu Dragana Andrića."
+    },
+    "period": "2024-09-03",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "recheck-michel-sestak-paid-dennikn"
+    ],
+    "candidateId": "psk-stanislav-sestak",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-andrea-turcanova-dismissals-beginning",
+    "category": "controversies",
+    "kind": "media_report",
+    "text": {
+      "sk": "RTVS v reportáži Róberta Lattu uviedla, že Andrea Turčanová prepustila tri úradníčky po tom, čo mesto podalo odpor proti platobnému rozkazu za búracie práce po lehote."
+    },
+    "period": "udalosť 2020; správa 2023-09-20",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "presov-review-original-14f4de6c2509d554"
+    ],
+    "candidateId": "psk-andrea-turcanova",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    }
+  },
+  {
+    "id": "recheck-psk-stefan-pcola-kino-dispute-beginning",
+    "candidateId": "psk-stefan-pcola",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "TASR 14. decembra 2021 informovala, že poslanec Igor Wzoš zvažoval trestné oznámenie pre predaj kina Máj v Poprade a neúspešne navrhol zrušenie predaja v programe zastupiteľstva; viceprimátor Štefan Pčola na jeho postup reagoval."
+    },
+    "period": "2021-12-14",
+    "checkedAt": "2026-10-14",
+    "sourceIds": [
+      "events-a-wzos-kino-2021"
+    ]
   }
 ]

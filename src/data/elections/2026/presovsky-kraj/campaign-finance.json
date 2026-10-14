@@ -59,7 +59,9 @@
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
       "campaign-accounts-candidates-2026",
-      "campaign-accounts-parties-2026"
+      "campaign-accounts-parties-2026",
+      "poprad-review-eabe5eca2370ec4d",
+      "psk-finance-bank-danko"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014",
@@ -87,13 +89,31 @@
     ],
     "partyIds": [],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK1009000000005251304925",
+      "verificationMethod": "candidate_site",
       "sourceIds": [
-        "psk-finance-bank-danko",
         "poprad-review-eabe5eca2370ec4d",
-        "campaign-accounts-candidates-2026"
+        "psk-finance-bank-danko"
       ],
-      "reason": "Kandidátska stránka odkazuje na účet kampane, ale pri kontrole bankový web zobrazil len obal aplikácie bez čitateľného majiteľa a transakcií. Účet preto nie je označený ako overený; z tohto obmedzenia nevyvodzujeme porušenie povinnosti."
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Poprad",
+          "sourceIds": [
+            "poprad-review-eabe5eca2370ec4d",
+            "pp-mayor-2026"
+          ]
+        },
+        {
+          "attribute": "office",
+          "value": "kandidát na primátora mesta Poprad",
+          "sourceIds": [
+            "poprad-review-eabe5eca2370ec4d",
+            "pp-mayor-2026"
+          ]
+        }
+      ]
     }
   },
   {
@@ -224,7 +244,8 @@
             "pp-mayor-2026"
           ]
         }
-      ]
+      ],
+      "verificationMethod": "direct"
     }
   },
   {
@@ -241,7 +262,9 @@
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
       "campaign-accounts-candidates-2026",
-      "campaign-accounts-parties-2026"
+      "campaign-accounts-parties-2026",
+      "poprad-review-74e95e33182278f0",
+      "psk-finance-bank-ledecky"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014",
@@ -271,13 +294,31 @@
       "psk-party-myslovensko"
     ],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK5502000000007293487351&CN",
+      "verificationMethod": "candidate_site",
       "sourceIds": [
-        "psk-finance-bank-ledecky",
         "poprad-review-74e95e33182278f0",
-        "campaign-accounts-candidates-2026"
+        "psk-finance-bank-ledecky"
       ],
-      "reason": "Kandidátska stránka odkazuje na účet kampane, ale pri kontrole bankový web zobrazil len obal aplikácie bez čitateľného majiteľa a transakcií. Účet preto nie je označený ako overený; z tohto obmedzenia nevyvodzujeme porušenie povinnosti."
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Poprad",
+          "sourceIds": [
+            "poprad-review-74e95e33182278f0",
+            "pp-mayor-2026"
+          ]
+        },
+        {
+          "attribute": "office",
+          "value": "kandidát na primátora mesta Poprad",
+          "sourceIds": [
+            "poprad-review-74e95e33182278f0",
+            "pp-mayor-2026"
+          ]
+        }
+      ]
     }
   },
   {
@@ -2995,7 +3036,9 @@
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
       "campaign-accounts-candidates-2026",
-      "campaign-accounts-parties-2026"
+      "campaign-accounts-parties-2026",
+      "presov-review-original-77c101c89108e2dc",
+      "psk-finance-bank-benes"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014",
@@ -3023,13 +3066,31 @@
     ],
     "partyIds": [],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK2002000000007251888755&CN",
+      "verificationMethod": "candidate_site",
       "sourceIds": [
-        "psk-finance-bank-benes",
         "presov-review-original-77c101c89108e2dc",
-        "campaign-accounts-candidates-2026"
+        "psk-finance-bank-benes"
       ],
-      "reason": "Kandidátska stránka odkazuje na účet kampane, ale pri kontrole bankový web zobrazil len obal aplikácie bez čitateľného majiteľa a transakcií. Účet preto nie je označený ako overený; z tohto obmedzenia nevyvodzujeme porušenie povinnosti."
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Prešov",
+          "sourceIds": [
+            "presov-review-original-77c101c89108e2dc",
+            "po-mayor-2026"
+          ]
+        },
+        {
+          "attribute": "office",
+          "value": "kandidát na primátora mesta Prešov",
+          "sourceIds": [
+            "presov-review-original-77c101c89108e2dc",
+            "po-mayor-2026"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3094,7 +3155,8 @@
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
       "campaign-accounts-candidates-2026",
-      "campaign-accounts-parties-2026"
+      "campaign-accounts-parties-2026",
+      "psk-finance-web-hagyari-home"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014",
@@ -3122,12 +3184,38 @@
     ],
     "partyIds": [],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "iban": "SK6809000000005192445639",
+      "verificationMethod": "candidate_site",
       "sourceIds": [
-        "psk-finance-web-hagyari-home",
-        "campaign-accounts-candidates-2026"
+        "psk-finance-web-hagyari-home"
       ],
-      "reason": "Kandidátska stránka zverejňuje IBAN účtu kampane. Bankový záznam majiteľa nebol dostupný na overenie; bankový odkaz odvodený len zo vzoru URL nepovažujeme za potvrdený."
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Prešov",
+          "sourceIds": [
+            "psk-finance-web-hagyari-home",
+            "po-mayor-2026"
+          ]
+        },
+        {
+          "attribute": "office",
+          "value": "kandidát na primátora mesta Prešov",
+          "sourceIds": [
+            "psk-finance-web-hagyari-home",
+            "po-mayor-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "Voľby 2026",
+          "sourceIds": [
+            "psk-finance-web-hagyari-home",
+            "po-mayor-2026"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3144,7 +3232,9 @@
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
       "campaign-accounts-candidates-2026",
-      "campaign-accounts-parties-2026"
+      "campaign-accounts-parties-2026",
+      "psk-finance-finance-own-mochnacky",
+      "psk-finance-bank-mochnacky"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014",
@@ -3179,13 +3269,31 @@
       "psk-party-za-ludi"
     ],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK7609000000005248302072",
+      "verificationMethod": "candidate_site",
       "sourceIds": [
-        "psk-finance-bank-mochnacky",
         "psk-finance-finance-own-mochnacky",
-        "campaign-accounts-candidates-2026"
+        "psk-finance-bank-mochnacky"
       ],
-      "reason": "Kandidátska stránka odkazuje na účet kampane, ale pri kontrole bankový web zobrazil len obal aplikácie bez čitateľného majiteľa a transakcií. Účet preto nie je označený ako overený; z tohto obmedzenia nevyvodzujeme porušenie povinnosti."
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Prešov",
+          "sourceIds": [
+            "psk-finance-finance-own-mochnacky",
+            "po-mayor-2026"
+          ]
+        },
+        {
+          "attribute": "office",
+          "value": "kandidát na primátora mesta Prešov",
+          "sourceIds": [
+            "psk-finance-finance-own-mochnacky",
+            "po-mayor-2026"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3271,7 +3379,8 @@
             "po-mayor-2026"
           ]
         }
-      ]
+      ],
+      "verificationMethod": "direct"
     }
   },
   {
@@ -8304,7 +8413,9 @@
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
       "campaign-accounts-candidates-2026",
-      "campaign-accounts-parties-2026"
+      "campaign-accounts-parties-2026",
+      "geci-fio-account-original",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014",
@@ -8330,13 +8441,66 @@
     ],
     "partyIds": [],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2403587220",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
         "geci-fio-account-original",
-        "tis-election-s26",
-        "campaign-accounts-candidates-2026"
+        "tis-election-s26"
       ],
-      "reason": "Banková stránka uvádza Ing. Marián Geci a index Transparency International Slovensko ho spája s krajskou kandidatúrou. Chýbajú dva ďalšie dostatočné znaky na potvrdenie majiteľa ako osoby z Roztokov; účet zostáva neoverený."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "presovsky-kraj-2026",
+        "checkedAt": "2026-10-14",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "psk-marian-geci",
+            "name": "Marián Geci",
+            "municipality": "Roztoky",
+            "ageAtElection": 56,
+            "sourceIds": [
+              "finance-national-chairs-2026"
+            ],
+            "decision": "retained",
+            "reason": "Po zlúčení súbežných kandidatúr podľa mena, obce a veku zostala v štyroch úplných celoštátnych zoznamoch jediná osoba s týmto menom. Iný zlučiteľný kandidát ani protichodný údaj nebol zistený."
+          }
+        ],
+        "remainingCandidateId": "psk-marian-geci",
+        "accountSourceIds": [
+          "geci-fio-account-original",
+          "tis-election-s26"
+        ]
+      }
     }
   },
   {
@@ -8677,7 +8841,8 @@
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
       "campaign-accounts-candidates-2026",
-      "campaign-accounts-parties-2026"
+      "campaign-accounts-parties-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014",
@@ -8703,12 +8868,65 @@
     ],
     "partyIds": [],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5511000000002974103031",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "tis-election-s26",
-        "campaign-accounts-candidates-2026"
+        "tis-election-s26"
       ],
-      "reason": "Index Transparency International Slovensko odkazuje na účet pri Samuelovi Migaľovi. Bankový web neumožnil prečítať majiteľa; totožnosť majiteľa a kandidáta nie je uzavretá."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "presovsky-kraj-2026",
+        "checkedAt": "2026-10-14",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "psk-samuel-migal",
+            "name": "Samuel Migaľ",
+            "municipality": "Čaklov",
+            "ageAtElection": 44,
+            "sourceIds": [
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Po zlúčení súbežných kandidatúr podľa mena, obce a veku zostala v štyroch úplných celoštátnych zoznamoch jediná osoba s týmto menom. Iný zlučiteľný kandidát ani protichodný údaj nebol zistený."
+          }
+        ],
+        "remainingCandidateId": "psk-samuel-migal",
+        "accountSourceIds": [
+          "tis-election-s26"
+        ]
+      }
     }
   },
   {
@@ -10182,7 +10400,8 @@
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
       "campaign-accounts-candidates-2026",
-      "campaign-accounts-parties-2026"
+      "campaign-accounts-parties-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014",
@@ -10213,11 +10432,68 @@
       "psk-party-sloboda-a-solidarita"
     ],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002978098057",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
+        "campaign-accounts-candidates-2026",
+        "tis-election-s26"
       ],
-      "reason": "Ministerstvo uvádza účet pri zhodnom mene. Samotné meno v indexe nestačí na potvrdenie identity majiteľa účtu dvoma ďalšími znakmi."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "presovsky-kraj-2026",
+        "checkedAt": "2026-10-14",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "psk-ingrida-gorcovska",
+            "name": "Ingrida Gorcovská",
+            "municipality": "Veľký Šariš",
+            "ageAtElection": 41,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Po zlúčení súbežných kandidatúr podľa mena, obce a veku zostala v štyroch úplných celoštátnych zoznamoch jediná osoba s týmto menom. Iný zlučiteľný kandidát ani protichodný údaj nebol zistený."
+          }
+        ],
+        "remainingCandidateId": "psk-ingrida-gorcovska",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      }
     }
   },
   {
@@ -10472,26 +10748,83 @@
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
       "campaign-accounts-candidates-2026",
-      "campaign-accounts-parties-2026"
+      "campaign-accounts-parties-2026",
+      "psk-recheck-kall-bank"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014",
       "campaign-faq-candidates-2026",
       "campaign-faq-candidate-reports-2026"
     ],
-    "ownExpenses": "unknown",
-    "expenseSourceIds": [],
+    "ownExpenses": "yes",
+    "expenseSourceIds": [
+      "psk-recheck-kall-bank"
+    ],
     "campaignOperator": "unknown",
     "operatorSourceIds": [],
     "otherCandidacies": "exhaustive",
-    "candidacySearchNote": "Skontrolované úplné celoštátne zoznamy zaregistrovaných kandidátov MV SR pre štyri súbežné voľby 24. 10. 2026; pri zhode mena overený vek a obec. Menovci s odlišným vekom alebo obcou neboli priradení. Stav zoznamov overený 14. 10. 2026; neskoršie zmeny tento snímok nezahŕňa.",
+    "candidacySearchNote": "Skontrolované úplné celoštátne zoznamy zaregistrovaných kandidátov MV SR pre štyri súbežné voľby 24. 10. 2026; pri zhode mena overený vek a obec. Menovci s odlišným vekom alebo obcou neboli priradení. Stav zoznamov overený 14. 10. 2026; neskoršie zmeny tento snímok nezahŕňa. Banková stránka obsahuje uskutočnené platby výslovne označené ako výdavky kampane. Celkové náklady, príjmy a údaje darcov z toho nevyvodzujeme.",
     "headCandidacies": [],
     "partyIds": [],
     "account": {
-      "status": "not_listed",
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2903571719",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
-      ]
+        "psk-recheck-kall-bank"
+      ],
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "presovsky-kraj-2026",
+        "checkedAt": "2026-10-14",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "psk-viliam-kall",
+            "name": "Viliam Kall",
+            "municipality": "Veľký Šariš",
+            "ageAtElection": 39,
+            "sourceIds": [
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Po zlúčení súbežných kandidatúr podľa mena, obce a veku zostala v štyroch úplných celoštátnych zoznamoch jediná osoba s týmto menom. Iný zlučiteľný kandidát ani protichodný údaj nebol zistený."
+          }
+        ],
+        "remainingCandidateId": "psk-viliam-kall",
+        "accountSourceIds": [
+          "psk-recheck-kall-bank"
+        ]
+      }
     }
   },
   {
@@ -12044,7 +12377,10 @@
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
       "campaign-accounts-candidates-2026",
-      "campaign-accounts-parties-2026"
+      "campaign-accounts-parties-2026",
+      "psk-recheck-visnovsky-support",
+      "psk-recheck-visnovsky-home",
+      "psk-recheck-visnovsky-bank"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014",
@@ -12063,10 +12399,70 @@
       "psk-party-progresivne-slovensko"
     ],
     "account": {
-      "status": "not_listed",
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2403465039",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
-      ]
+        "psk-recheck-visnovsky-support",
+        "psk-recheck-visnovsky-home",
+        "psk-recheck-visnovsky-bank"
+      ],
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "presovsky-kraj-2026",
+        "checkedAt": "2026-10-14",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "psk-peter-visnovsky",
+            "name": "Peter Višňovský",
+            "municipality": "Svinia",
+            "ageAtElection": 35,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Po zlúčení súbežných kandidatúr podľa mena, obce a veku zostala v štyroch úplných celoštátnych zoznamoch jediná osoba s týmto menom. Iný zlučiteľný kandidát ani protichodný údaj nebol zistený."
+          }
+        ],
+        "remainingCandidateId": "psk-peter-visnovsky",
+        "accountSourceIds": [
+          "psk-recheck-visnovsky-support",
+          "psk-recheck-visnovsky-home",
+          "psk-recheck-visnovsky-bank"
+        ]
+      }
     }
   },
   {

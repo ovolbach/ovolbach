@@ -1,0 +1,264 @@
+{
+  "checkedAt": "2026-10-14",
+  "baseCommit": "e2ce363",
+  "branch": "codex/psk-account-events",
+  "status": "implemented_and_independently_reviewed_global_external_link_gate_failed",
+  "gates": [
+    {
+      "name": "unit",
+      "command": "npm test",
+      "exitCode": 0,
+      "capturedOutputSha256": "8349693232d6c556f0907d58b2cd16a8d8e9e577e2a909e741dedcdbc8963420",
+      "durationSeconds": 21.11,
+      "summary": "62 files; 480 tests passed; zero skipped. Existing nginx integration cases executed."
+    },
+    {
+      "name": "data",
+      "command": "npm run validate:data",
+      "exitCode": 0,
+      "capturedOutputSha256": "8c37cb03dcbfef651f009d0f5613817a5719f73db48dc978a59150a364da6122",
+      "durationSeconds": 2.36,
+      "summary": "2 cycles, 7 city contexts, 7 published, 2 regional contexts; zero issues."
+    },
+    {
+      "name": "release",
+      "command": "npm run validate:release",
+      "exitCode": 0,
+      "capturedOutputSha256": "f7048dcda9007874c5a191f6a9c28814df6ae73241ad3b879a3a43eadec0ce5a",
+      "durationSeconds": 2.31,
+      "summary": "2 cycles, 7 city contexts, 7 published, 2 regional contexts; zero issues."
+    },
+    {
+      "name": "coverage",
+      "command": "npm run report:coverage",
+      "exitCode": 0,
+      "capturedOutputSha256": "3d077a90e6aa9b9c7d4291b23487c89337fbd8b51af734ee7dd976e7fc2d406b",
+      "durationSeconds": 1.89,
+      "summary": "All published contexts releaseReady=true; exactly8 categories per person; zero pending."
+    },
+    {
+      "name": "build",
+      "command": "npm run build",
+      "exitCode": 0,
+      "capturedOutputSha256": "93bf6f4cd65761396abd62236278ca458c45a3502618d20979c6da14453c9bea",
+      "durationSeconds": 31.68,
+      "summary": "823 generated HTML pages; 813 Pagefind indexable pages; Astro check zero errors, warnings or hints."
+    },
+    {
+      "name": "seo",
+      "command": "npm run check:seo",
+      "exitCode": 0,
+      "capturedOutputSha256": "87969a9908c206ff210097e18c3e2e804fc4a8872ceef8f53b50cdd1979315d4",
+      "durationSeconds": 2.94,
+      "summary": "813 canonical indexable pages; 9 noindex comparison tools; 1 noindex404."
+    },
+    {
+      "name": "html",
+      "command": "npm run check:html",
+      "exitCode": 0,
+      "capturedOutputSha256": "a5f3caa1ae17e8be2f52cf1994c4c0a897d5a89d948d605fc6136be27b83d40f",
+      "durationSeconds": 19.1,
+      "summary": "W3C Nu Checker26.10.2:823 files; zero errors/warnings."
+    },
+    {
+      "name": "storage",
+      "command": "npm run check:storage",
+      "exitCode": 0,
+      "capturedOutputSha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd",
+      "durationSeconds": 23.28,
+      "summary": "Static browser persistence/editorial checks passed."
+    },
+    {
+      "name": "links",
+      "command": "npm run check:links",
+      "exitCode": 1,
+      "capturedOutputSha256": "e99c6d713d890c7f73643c152070145ddfb184f45544ddc83ed44357279aa4ff",
+      "durationSeconds": 225.15,
+      "summary": "1866 URLs checked;7 preexisting-source failures;46 manual-review statuses. Zero new-source failures. Both timeout URLs reopened separately withHTTP200; five historical Lubokuban pages still503."
+    },
+    {
+      "name": "e2e",
+      "command": "npm run test:e2e -- --config .internal/psk-account-events/playwright.config.ts",
+      "exitCode": 1,
+      "capturedOutputSha256": "e22935cea11ed5f948cce5fea79fe6d7272c83dc46e1a3b3720395ded0507ec6",
+      "durationSeconds": 385.71,
+      "summary": "1 failed; 2 skipped; 267 passed (6.4m)"
+    },
+    {
+      "name": "diff",
+      "command": "git diff --check",
+      "exitCode": 0,
+      "capturedOutputSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "durationSeconds": 0.23,
+      "summary": "git diff --check passed."
+    },
+    {
+      "name": "e2e-focused-retry",
+      "command": "PLAYWRIGHT_BROWSERS_PATH=/tmp/ovolbach-browser LD_LIBRARY_PATH=/tmp/ovolbach-browser-libs/extracted/usr/lib/x86_64-linux-gnu npm run test:e2e -- --config .internal/psk-account-events/playwright.config.ts --project=desktop --grep '/zilina/2026/zdroje/'",
+      "exitCode": 0,
+      "capturedOutputSha256": "db31eca596e9dbac899fe7c04806fff43e42db0990a46297ddfca38bced6615c",
+      "summary": "One initially timed-out desktop Žilina source privacy/accessibility case passed in28.7seconds, unchanged30-secondtimeout/test code;1passed34.0seconds total."
+    }
+  ],
+  "e2eCombined": {
+    "status": "all_distinct_cases_passed_after_focused_retry",
+    "passedDistinctCases": 268,
+    "skipped": 2,
+    "initialRun": {
+      "exitCode": 1,
+      "passed": 267,
+      "failed": 1,
+      "skipped": 2
+    },
+    "retry": {
+      "name": "e2e-focused-retry",
+      "command": "PLAYWRIGHT_BROWSERS_PATH=/tmp/ovolbach-browser LD_LIBRARY_PATH=/tmp/ovolbach-browser-libs/extracted/usr/lib/x86_64-linux-gnu npm run test:e2e -- --config .internal/psk-account-events/playwright.config.ts --project=desktop --grep '/zilina/2026/zdroje/'",
+      "exitCode": 0,
+      "capturedOutputSha256": "db31eca596e9dbac899fe7c04806fff43e42db0990a46297ddfca38bced6615c",
+      "summary": "One initially timed-out desktop Žilina source privacy/accessibility case passed in28.7seconds, unchanged30-secondtimeout/test code;1passed34.0seconds total."
+    },
+    "timeoutMsUnchanged": 30000,
+    "reason": "One desktop large-source-page accessibility case exceeded30seconds in the full run; exact same case passed independently in28.7seconds. No test-code, timeout, product-code or skip change. Two skips are existing desktop exclusions for mobile-only layout assertions."
+  },
+  "environment": {
+    "node": "22.22.1",
+    "NGINX_BIN": "/tmp/ovolbach-nginx/extracted/usr/sbin/nginx",
+    "VNU_JAVA": "/home/sergey/codex/ovolbach/ovolbach/.superpowers/vnu/vnu-runtime-image/bin/java",
+    "PLAYWRIGHT_BROWSERS_PATH": "/tmp/ovolbach-browser",
+    "browserLibraries": "/tmp/ovolbach-browser-libs/extracted/usr/lib/x86_64-linux-gnu",
+    "previewPort": 45317,
+    "sandbox": "Existing local-server/tsx IPC tests require socket permissions; commands executed with allowed sandbox escalation."
+  },
+  "researchArtifact": "presov-poprad-2026-account-events-recheck.json",
+  "researchArtifactSha256": "34b0cdf46cb1929bffad5120dffaf5a9ef759e01c96df2a1f6486f0e4f916ade",
+  "reviewArtifact": "presov-poprad-2026-recheck-review.json",
+  "reviewArtifactSha256": "70b4cd4c6e094c8084429dafd3039c4ecfede18ba31c82247570d16113e252ca",
+  "snapshotHashes": {
+    "src/data/elections/2026/presovsky-kraj/claims.json": "4d65b9f4b907c6b455f43d02f4b39f63027147d351562e00e7cf16c2cacbdf6e",
+    "src/data/elections/2026/presovsky-kraj/campaign-finance.json": "20d0ad9be6b74d0b5e4290ca08be11eeb6469ed8afcc3b841d81747a2af8a314",
+    "src/data/elections/2026/presovsky-kraj/research-coverage.json": "e39a8c6b5f4c473a039070907246c159c7bb0ede74f89b0df6e38b0fef3ec6a1",
+    "src/data/sources.json": "80b299eee99c1467b3e49cac383edf8e4852505a316e4f6d34984201b81a7cb5",
+    "research/presov-poprad-2026.json": "319bf7a94320cd27ba80dc7596616b07c832db7e671baa1a0a4185bb644257e6"
+  },
+  "externalLinkResults": {
+    "checked": 1866,
+    "failures": [
+      {
+        "index": 325,
+        "status": "503",
+        "reachable": false,
+        "manualReview": false,
+        "timedOut": false,
+        "url": "https://www.lubokuban.sk/robert-dubravec/",
+        "finalUrl": "https://www.lubokuban.sk/robert-dubravec/",
+        "sourceIds": [
+          "rk-kuban-dubravec-profile-2022"
+        ],
+        "existingAtBaseCommit": true
+      },
+      {
+        "index": 326,
+        "status": "503",
+        "reachable": false,
+        "manualReview": false,
+        "timedOut": false,
+        "url": "https://www.lubokuban.sk/program/",
+        "finalUrl": "https://www.lubokuban.sk/program/",
+        "sourceIds": [
+          "rk-kuban-programme-2022"
+        ],
+        "existingAtBaseCommit": true
+      },
+      {
+        "index": 379,
+        "status": "503",
+        "reachable": false,
+        "manualReview": false,
+        "timedOut": false,
+        "url": "https://www.lubokuban.sk/marian-pales/",
+        "finalUrl": "https://www.lubokuban.sk/marian-pales/",
+        "sourceIds": [
+          "rk-pales-campaign-statement"
+        ],
+        "existingAtBaseCommit": true
+      },
+      {
+        "index": 382,
+        "status": "503",
+        "reachable": false,
+        "manualReview": false,
+        "timedOut": false,
+        "url": "https://www.lubokuban.sk/peter-stupak/",
+        "finalUrl": "https://www.lubokuban.sk/peter-stupak/",
+        "sourceIds": [
+          "rk-stupak-campaign-statement"
+        ],
+        "existingAtBaseCommit": true
+      },
+      {
+        "index": 397,
+        "status": "503",
+        "reachable": false,
+        "manualReview": false,
+        "timedOut": false,
+        "url": "https://www.lubokuban.sk/ludovit-betko/",
+        "finalUrl": "https://www.lubokuban.sk/ludovit-betko/",
+        "sourceIds": [
+          "rk-kuban-betko-profile-2022"
+        ],
+        "existingAtBaseCommit": true
+      },
+      {
+        "index": 1065,
+        "status": "transport error",
+        "reachable": false,
+        "manualReview": false,
+        "timedOut": true,
+        "url": "https://www.zuspmb.sk/content/rada-skoly",
+        "finalUrl": "https://www.zuspmb.sk/content/rada-skoly",
+        "sourceIds": [
+          "dk-zus-schoolboard-c3"
+        ],
+        "existingAtBaseCommit": true
+      },
+      {
+        "index": 1665,
+        "status": "transport error",
+        "reachable": false,
+        "manualReview": false,
+        "timedOut": true,
+        "url": "https://hnonline.sk/parlamentne-volby-2023/96100840-kandidatka-strany-progresivne-slovensko-ps-pre-parlamentne-volby",
+        "finalUrl": "https://hnonline.sk/parlamentne-volby-2023/96100840-kandidatka-strany-progresivne-slovensko-ps-pre-parlamentne-volby",
+        "sourceIds": [
+          "presov-review-original-18ca1a8a74fe6826"
+        ],
+        "existingAtBaseCommit": true
+      }
+    ],
+    "manualReview": 46,
+    "separateTimeoutRetries": [
+      {
+        "url": "https://www.zuspmb.sk/content/rada-skoly",
+        "status": 200,
+        "sha256": "4106d1ddb2f26b605e261ea5ad5139649576844061d71f9f3c2c2535bc387f20",
+        "checkedAt": "2026-10-14"
+      },
+      {
+        "url": "https://hnonline.sk/parlamentne-volby-2023/96100840-kandidatka-strany-progresivne-slovensko-ps-pre-parlamentne-volby",
+        "status": 200,
+        "sha256": "2506453e982020c6b2db0cc6e364a36c72e1b4395d84920652c4635d2e6a4e9b",
+        "checkedAt": "2026-10-14"
+      }
+    ]
+  },
+  "renderInspection": {
+    "scopePeople": 320,
+    "profilePages": 320,
+    "newClaimBlocks": 119,
+    "referencedSourceLinks": 120,
+    "verifiedAccountBlocks": 12,
+    "result": "Every scoped candidate profile renders all applicable new facts in the event section with exact text/all source links; verified account URLs or IBANs agree with data."
+  },
+  "preservation": "All approved Žilina-cycle files retain original byte hashes, verified by full unit suite. Existing PSK claim text/IDs/periods/sourceIds are unchanged; eight category-only moves.",
+  "publication": "No site deployment or remote push."
+}

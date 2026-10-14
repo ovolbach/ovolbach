@@ -1,0 +1,73 @@
+{
+  "reviewer": "fresh independent whole-patch read-only reviewer",
+  "baseCommit": "e2ce363",
+  "reviewedAt": "2026-10-14",
+  "scope": "Working-tree diff and new report/tests; code, public data, research journal, private query receipts and selected original primary/media/candidate evidence. No tracked/index/HEAD/branch mutations.",
+  "strengths": [
+    "Old direct and candidate_site methods retain two distinct identity attributes. The register_exclusion exception requires a dated PSK 2026 dossier, four distinct official register families, one retained person, account source containment and ballot name/age consistency.",
+    "Independently reparsed all four saved national XLSX originals: 6560, 40184, 56 and 2472 rows; file SHA256 values match public dossiers. All five exclusion accounts have exactly one merged namesake person, including whitespace-normalized repeated Višňovský registrations.",
+    "Verified the hashes of all 472 finance and 488 event query references against actual saved JSON receipts. Query strings match actual receipts; one explicitly redacted Leco identity query is intentionally privacy-minimized. All 320 persons occur in each research domain.",
+    "Public verified account status remains singular. Candidate-published URL/IBAN rendering and optional-URL link checking are consistent, and financeSourceIds preserves source scoping. Ownership does not automatically set expense/operator evidence.",
+    "119 added facts across 38 profiles and exactly eight category-only moves; no removed claims, no existing source metadata changes, no changed Žilina data. All new claim sources resolve and are represented by category coverage.",
+    "All 30 new official_outcome claims reference official primary sources. Sampled original SFZ decisions and appeal notices, Ňakatová/Kašo/Čureja court/executor notices and TA3 correction support the preserved procedural distinctions. No new current debt or guilt assertion identified.",
+    "Reviewed finance original pages/links and bank identities selectively; independently confirmed relevant Hagyari IBAN evidence, Kall/Višňovský bank owners and exact candidate-site link targets. Saved account transactions remain outside public evidence export.",
+    "Regression tests cover incomplete/ambiguous dossiers, old identity safeguards, voluntary council accounts, IBAN-only presentation, event context, corrections and audit coverage."
+  ],
+  "issues": {
+    "critical": [],
+    "important": [],
+    "minor": []
+  },
+  "declinedToJudge": [],
+  "verification": [
+    {
+      "command": "npx vitest run tests/unit/psk-account-attribution.test.ts tests/unit/psk-event-recheck.test.ts tests/unit/psk-recheck-audit.test.ts tests/unit/presov-poprad-finance.test.ts --reporter=dot",
+      "executedByReviewer": true,
+      "exitCode": 0,
+      "summary": "4 files; 40 tests passed"
+    },
+    {
+      "command": "git diff --check",
+      "executedByReviewer": true,
+      "exitCode": 0
+    },
+    {
+      "command": "Independent Python read-only consistency/receipt/XLSX inspections",
+      "executedByReviewer": true,
+      "exitCode": 0,
+      "summary": "No missing query receipt hashes, dangling new claim sources, missing new claim coverage sources, or modified historical source records; all four register counts and hashes confirmed."
+    }
+  ],
+  "recommendations": [
+    "Complete the already-running full release gates and append their linked output audit before claiming release readiness. Those intentionally pending documentation blocks are not defects in this frozen code/data review."
+  ],
+  "assessment": {
+    "ready": "yes",
+    "reasoning": "No actionable correctness, evidence, privacy, or runtime defect found in the reviewed patch. This approval applies to the frozen implementation/research content and remains subject to completion of the executor’s full release gates and final audit recording."
+  },
+  "limitations": [
+    "Original-source review was risk-based, not a second complete all-320 research investigation. All query receipts were mechanically reconciled; selected primary/media originals were substantively reread.",
+    "Automated review is not a human editorial or legal opinion. CRE paid live lookup was explicitly not performed; recorded REPLIK limitations and historical-only statements are preserved."
+  ],
+  "reviewedFileSha256": {
+    "research/presov-poprad-2026.json": "52fa903cdf7c79f7a641897cf7e5ca6cd86a68fea6e1f735173da4b2f3e73997",
+    "scripts/check-external-links.ts": "06ea8cd4b7c584c7a834d661a764ad9475c56f7672460da1bd194d0423c303f9",
+    "src/components/CampaignFinance.astro": "d7b5836d908deaa5d52c446dc7ce5b0ac16cc9512636a3d020213cc3f3529ae0",
+    "src/data/elections/2026/presovsky-kraj/campaign-finance.json": "20d0ad9be6b74d0b5e4290ca08be11eeb6469ed8afcc3b841d81747a2af8a314",
+    "src/data/elections/2026/presovsky-kraj/claims.json": "4d65b9f4b907c6b455f43d02f4b39f63027147d351562e00e7cf16c2cacbdf6e",
+    "src/data/elections/2026/presovsky-kraj/research-coverage.json": "e39a8c6b5f4c473a039070907246c159c7bb0ede74f89b0df6e38b0fef3ec6a1",
+    "src/data/sources.json": "80b299eee99c1467b3e49cac383edf8e4852505a316e4f6d34984201b81a7cb5",
+    "src/lib/campaign-finance.ts": "286ea04dea0d5c901dbfe4b9a29e02fdf5c4a3a20d94276a0e92d1554da82b79",
+    "src/lib/schemas.ts": "d5fe9309471f365d3872b6188e7871d54802405c3ca51c2977ba904b3e8faaaa",
+    "src/lib/validate-dataset.ts": "bf19ff3031a25400e3dc99fef32dfaa2265e48557dcf724c2a6a453b75a128c0",
+    "tests/e2e/presov-poprad.spec.ts": "ec54e99e0dfd4bc3687b10e3e6631664a078aa72f53f85d38ad349605e4071e1",
+    "tests/unit/presov-poprad-finance.test.ts": "ec2310b7cbf272acb1f905b14589c10cfc9b36af5f839a3cf5f74983943c29c0",
+    "research/presov-poprad-2026-account-events-recheck.json": "5b7a76ccea4c88d2af77c679100d244532a1b917217b85f855eeb1e93138b90f",
+    "tests/unit/psk-account-attribution.test.ts": "5eaad9a406c4018e105624d346287bce9f08ff0579fea66ede75b504f82b8fd8",
+    "tests/unit/psk-event-recheck.test.ts": "04f6eb28e3139d68a40818e2b9dff262c3c2ad147514ce5c439d4862dfd3509f",
+    "tests/unit/psk-recheck-audit.test.ts": "d8c5643a75e10a4d3dce9135ac461d68d6e493d690eae193b89a5d042380ce1d"
+  },
+  "model": "gpt-6-astra",
+  "privateArtifactSha256": "1fe132796f28a64b1467c264e545da73605fe0a2c32bc8253740e20f0a965eb4",
+  "postReviewDocumentation": "Only linked gate results, hashes and audit status were completed after the frozen-content review; the reviewed code and public data did not change."
+}

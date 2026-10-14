@@ -34,7 +34,7 @@ describe('PSK finance review', () => {
     expect(getFinanceDuties(record).account).toBe('conditional');
     expect(getFinanceDuties(record).report).toBe('required');
   });
-  it('verifies readable bank owners through their own campaign links and preserves unreadable or name-only accounts', async () => {
+  it('keeps bank-backed expenses separate from attribution through campaign sites and complete national registers', async () => {
     const data = await loadElectionCycle(2026, 'presovsky-kraj');
     for (const [candidateId, url] of [
       ['psk-jozef-kralik', 'https://ib.fio.sk/ib/transparent?a=2303443369'],
@@ -49,7 +49,9 @@ describe('PSK finance review', () => {
       expect(getFinanceDuties(record)).toEqual({ account: 'required', report: 'required' });
     }
     for (const id of ['psk-anton-danko', 'psk-rastislav-mochnacky', 'psk-artur-benes', 'psk-roderik-ledecky', 'psk-pavel-hagyari', 'psk-marian-geci', 'psk-samuel-migal']) {
-      expect(data.campaignFinance.find((row) => row.candidateId === id)?.account, id).toMatchObject({ status: 'unverified' });
+      const record = data.campaignFinance.find((row) => row.candidateId === id)!;
+      expect(record.account, id).toMatchObject({ status: 'verified' });
+      expect(record.ownExpenses, id).toBe('unknown');
     }
   });
   it('explains conditional duties when an external mayor candidacy has no verified population', async () => {

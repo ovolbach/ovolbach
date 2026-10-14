@@ -114,6 +114,33 @@ export function validateDataset(data: GuideData, mode: 'draft' | 'release'): Val
     if (!candidateIds.has(record.candidateId)) push(issues, 'unknown_candidate', record.id, record.candidateId);
     if (financeCandidateIds.has(record.candidateId)) push(issues, 'duplicate_campaign_finance', record.id, record.candidateId);
     financeCandidateIds.add(record.candidateId);
+    if (record.account.status === 'verified' && record.account.verificationMethod === 'register_exclusion' && record.account.exclusionEvidence) {
+      const registerUrls = {
+        mayor: 'https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/150_oso/OSO26_ZZK-Starosta.xlsx',
+        'city-council': 'https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/150_oso/OSO26_ZZK-Poslanci.xlsx',
+        'region-chair': 'https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/140_vuc/VUC26_ZZK-Predseda.xlsx',
+        'region-council': 'https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/140_vuc/VUC26_ZZK-Poslanci.xlsx',
+      };
+      const evidence = record.account.exclusionEvidence;
+      for (const register of evidence.registers) {
+        const source = validated.sources.find((item) => item.id === register.sourceId);
+        if (!source || source.type !== 'official' || source.url !== registerUrls[register.kind]) {
+          push(issues, 'invalid_exclusion_register', record.id, register.sourceId);
+        }
+      }
+      const candidate = validated.candidates.find((item) => item.id === record.candidateId);
+      const retained = evidence.matches.find((item) => item.decision === 'retained');
+      const nameKey = (name: string) => name.normalize('NFD').replace(/\p{M}/gu, '').toLocaleLowerCase('sk').replace(/\s+/g, ' ').trim();
+      const ballotAges = validated.candidacies.filter((item) => item.candidateId === record.candidateId).map((item) => item.ageAtElection);
+      if (candidate && retained && (nameKey(retained.name) !== nameKey(`${candidate.givenName} ${candidate.familyName}`)
+        || ballotAges.some((age) => age !== retained.ageAtElection))) {
+        push(issues, 'exclusion_identity_mismatch', record.id, record.candidateId);
+      }
+      const registerIds = new Set(evidence.registers.map((item) => item.sourceId));
+      for (const match of evidence.matches) {
+        if (!match.sourceIds.some((sourceId) => registerIds.has(sourceId))) push(issues, 'invalid_exclusion_match', record.id, match.candidateId);
+      }
+    }
     for (const partyId of record.partyIds) {
       const party = validated.financeParties.find((item) => item.id === partyId);
       if (!financePartyIds.has(partyId)) push(issues, 'unknown_finance_party', record.id, partyId);

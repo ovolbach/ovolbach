@@ -168,8 +168,6 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "poprad-review-71d2c2eed78a88fe",
-      "poprad-review-805e83945d94c83e",
       "poprad-review-primary-39"
     ],
     "checkedAt": "2026-10-14"
@@ -180,7 +178,10 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "poprad-review-71d2c2eed78a88fe"
+      "poprad-review-71d2c2eed78a88fe",
+      "events-a-danko-barracks-start",
+      "events-a-danko-barracks-development",
+      "events-a-danko-industry-2025"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -255,7 +256,6 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "poprad-review-dennikn-4717868",
       "poprad-review-primary-39"
     ],
     "checkedAt": "2026-10-14"
@@ -266,7 +266,8 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "poprad-review-dennikn-4717868"
+      "poprad-review-dennikn-4717868",
+      "events-a-frantiska-origin-2025"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -581,8 +582,13 @@
     "id": "coverage-psk-martin-baloga-controversies",
     "candidateId": "psk-martin-baloga",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-baloga-fee-start",
+      "events-a-baloga-fee-followup",
+      "events-a-poprad-session-2022-beginning",
+      "events-a-poprad-session-2022-later"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -1161,13 +1167,8 @@
     "id": "coverage-psk-ondrej-kavka-media",
     "candidateId": "psk-ondrej-kavka",
     "category": "media",
-    "status": "found",
-    "sourceIds": [
-      "poprad-review-e0dcbd89a3f3a050",
-      "poprad-review-primary-16",
-      "poprad-review-4ab43f92f43ac8db",
-      "poprad-review-805e83945d94c83e"
-    ],
+    "status": "searched_none",
+    "sourceIds": [],
     "checkedAt": "2026-10-14"
   },
   {
@@ -1177,7 +1178,9 @@
     "status": "found",
     "sourceIds": [
       "poprad-review-4ab43f92f43ac8db",
-      "poprad-review-primary-16"
+      "poprad-review-primary-16",
+      "poprad-review-e0dcbd89a3f3a050",
+      "events-a-kavka-followup-2019"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -1542,8 +1545,11 @@
     "id": "coverage-psk-frantisek-majersky-controversies",
     "candidateId": "psk-frantisek-majersky",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning",
+      "events-a-poprad-session-2022-later"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -1833,8 +1839,11 @@
     "id": "coverage-psk-jozef-nazarej-controversies",
     "candidateId": "psk-jozef-nazarej",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-nazarej-city2023",
+      "events-a-nazarej-city2024"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -2707,10 +2716,8 @@
     "id": "coverage-psk-jozef-svagerko-media",
     "candidateId": "psk-jozef-svagerko",
     "category": "media",
-    "status": "found",
-    "sourceIds": [
-      "poprad-review-primary-29"
-    ],
+    "status": "searched_none",
+    "sourceIds": [],
     "checkedAt": "2026-10-14"
   },
   {
@@ -2719,7 +2726,8 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "poprad-review-primary-29"
+      "poprad-review-primary-29",
+      "events-a-wzos-wiretap-2018"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -3022,8 +3030,13 @@
     "id": "coverage-psk-igor-wzos-controversies",
     "candidateId": "psk-igor-wzos",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-wzos-wiretap-2018",
+      "events-a-wzos-kino-2021",
+      "events-a-poprad-session-2022-beginning",
+      "events-a-poprad-session-2022-later"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -3542,8 +3555,12 @@
     "id": "coverage-psk-slavomir-bozon-controversies",
     "candidateId": "psk-slavomir-bozon",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning",
+      "events-a-poprad-session-2022-later",
+      "events-a-baloga-fee-start"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -3781,8 +3798,11 @@
     "id": "coverage-psk-patricia-bujnakova-controversies",
     "candidateId": "psk-patricia-bujnakova",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning",
+      "events-a-poprad-session-2022-later"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -4284,8 +4304,12 @@
     "id": "coverage-psk-marcel-hascak-controversies",
     "candidateId": "psk-marcel-hascak",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning",
+      "events-a-poprad-session-2022-later",
+      "events-a-poprad-hockey-councillors-response-2022"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -4753,7 +4777,6 @@
     "category": "media",
     "status": "found",
     "sourceIds": [
-      "poprad-review-76f85c8fbde40e09",
       "poprad-review-f7af515cb9894633"
     ],
     "checkedAt": "2026-10-14"
@@ -4764,8 +4787,7 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "poprad-review-76f85c8fbde40e09",
-      "poprad-review-f7af515cb9894633"
+      "poprad-review-76f85c8fbde40e09"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -4904,8 +4926,14 @@
     "id": "coverage-psk-peter-leco-controversies",
     "candidateId": "psk-peter-leco",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-leco-notice-2023",
+      "events-a-leco-notice-2024-health",
+      "events-a-leco-notice-2024-tax",
+      "events-a-leco-notice-2022-health",
+      "events-a-leco-notice-2023-health"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -5061,8 +5089,11 @@
     "id": "coverage-psk-helena-mezenska-controversies",
     "candidateId": "psk-helena-mezenska",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning",
+      "events-a-poprad-session-2022-later"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -5224,8 +5255,10 @@
     "id": "coverage-psk-stefan-pcola-controversies",
     "candidateId": "psk-stefan-pcola",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-wzos-kino-2021"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -5594,8 +5627,12 @@
     "id": "coverage-psk-david-skokan-controversies",
     "candidateId": "psk-david-skokan",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-poprad-session-2022-beginning",
+      "events-a-poprad-session-2022-later",
+      "events-a-poprad-hockey-councillors-response-2022"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -6130,7 +6167,11 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "presov-review-original-fd52d542c30ff57a"
+      "presov-review-original-fd52d542c30ff57a",
+      "events-a-stadium-corrected-2024",
+      "events-a-demolition-referral-2020",
+      "events-a-demolition-development-2021",
+      "events-a-demolition-development-2022"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -6232,8 +6273,10 @@
     "id": "coverage-psk-pavel-hagyari-controversies",
     "candidateId": "psk-pavel-hagyari",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-hagyari-midibus-2011"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -6431,7 +6474,10 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "presov-review-original-41005d478ca95ad2"
+      "presov-review-original-41005d478ca95ad2",
+      "events-a-stadium-corrected-2024",
+      "events-a-presov-bus-audit-2025",
+      "events-a-presov-tatran-audit-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -7066,8 +7112,11 @@
     "id": "coverage-psk-marian-damankos-controversies",
     "candidateId": "psk-marian-damankos",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-presov-bus-audit-2025",
+      "events-a-presov-tatran-audit-2026"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -8361,8 +8410,7 @@
     "sourceIds": [
       "presov-review-original-7456df7a77761001",
       "po-council-2026",
-      "psk-7-roster-2026",
-      "presov-review-original-58da162f28bc3a6d"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -9372,8 +9420,7 @@
     "sourceIds": [
       "presov-review-original-b8feed5545d6e8e8",
       "po-council-2026",
-      "psk-7-roster-2026",
-      "presov-review-original-8e52ce7c838399cc"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -9734,8 +9781,7 @@
     "sourceIds": [
       "presov-review-original-4ba4cec2c7442ea6",
       "po-council-2026",
-      "psk-7-roster-2026",
-      "presov-review-original-cb7ba9fc0921ddc1"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -11493,8 +11539,10 @@
     "id": "coverage-psk-janette-langova-controversies",
     "candidateId": "psk-janette-langova",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "events-a-langova-legal-reply-2014"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -11560,8 +11608,7 @@
     "sourceIds": [
       "presov-review-original-7456df7a77761001",
       "po-council-2026",
-      "psk-7-roster-2026",
-      "presov-review-original-67d617b6fd3b8a76"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -12139,9 +12186,7 @@
       "presov-review-original-91395919be7bf1dc",
       "presov-review-original-0752ddb7af343fd8",
       "po-council-2026",
-      "psk-7-roster-2026",
-      "presov-review-original-4f63caaca56290ce",
-      "presov-review-original-6f25005f4b376124"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -12236,8 +12281,7 @@
     "sourceIds": [
       "presov-review-original-1de5bc1f933afa6e",
       "po-council-2026",
-      "psk-7-roster-2026",
-      "presov-review-original-1ad55968fd76ba45"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -14051,10 +14095,7 @@
     "sourceIds": [
       "presov-review-original-4c796e51d3c03739",
       "po-council-2026",
-      "psk-7-roster-2026",
-      "presov-review-original-1a62627e34a806d3",
-      "presov-review-original-1abba3cd791ea96c",
-      "presov-review-original-faf51bea29a24073"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -14582,8 +14623,12 @@
     "id": "coverage-psk-martin-durisin-controversies",
     "candidateId": "psk-martin-durisin",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "recheck-durisin-dismissal-tasr-2017",
+      "recheck-presov-riding-ta3-2025",
+      "recheck-presov-riding-agreement-2025"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -15632,8 +15677,19 @@
     "id": "coverage-psk-lubos-michel-controversies",
     "candidateId": "psk-lubos-michel",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "recheck-sfz-2024-44",
+      "recheck-sfz-2024-47",
+      "recheck-sfz-2024-48",
+      "recheck-michel-sestak-paid-dennikn",
+      "recheck-sfz-2025-19",
+      "recheck-sfz-2025-25",
+      "recheck-sfz-2026-30",
+      "recheck-sfz-2026-45",
+      "events-a-presov-tatran-audit-2026",
+      "recheck-michel-komarno-response-sportsk-2026"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -16217,7 +16273,9 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "cureja-enforcement-2024"
+      "cureja-enforcement-2024",
+      "recheck-cureja-service-july-2025",
+      "recheck-cureja-service-august-2025"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -16527,7 +16585,8 @@
     "status": "found",
     "sourceIds": [
       "kaso-personal-bankruptcy-register",
-      "kaso-bankruptcy-termination"
+      "kaso-bankruptcy-termination",
+      "recheck-kaso-bankruptcy-opening-2023"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -16757,10 +16816,8 @@
     "id": "coverage-psk-milan-majersky-media",
     "candidateId": "psk-milan-majersky",
     "category": "media",
-    "status": "found",
-    "sourceIds": [
-      "majersky-2023-statement-stvr"
-    ],
+    "status": "searched_none",
+    "sourceIds": [],
     "checkedAt": "2026-10-14"
   },
   {
@@ -16851,10 +16908,8 @@
     "id": "coverage-psk-milan-mazurek-media",
     "candidateId": "psk-milan-mazurek",
     "category": "media",
-    "status": "found",
-    "sourceIds": [
-      "mazurek-conviction-aktuality"
-    ],
+    "status": "searched_none",
+    "sourceIds": [],
     "checkedAt": "2026-10-14"
   },
   {
@@ -16946,7 +17001,10 @@
     "category": "controversies",
     "status": "found",
     "sourceIds": [
-      "migal-tender-zive"
+      "migal-tender-zive",
+      "recheck-migal-project-pause-tasr-2026",
+      "recheck-migal-slovensko-contract-report-2026",
+      "recheck-migal-slovensko-contract-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -17019,10 +17077,8 @@
     "id": "coverage-psk-jan-stanko-media",
     "candidateId": "psk-jan-stanko",
     "category": "media",
-    "status": "found",
-    "sourceIds": [
-      "stanko-respirator-ereport"
-    ],
+    "status": "searched_none",
+    "sourceIds": [],
     "checkedAt": "2026-10-14"
   },
   {
@@ -17173,10 +17229,8 @@
     "id": "coverage-psk-peter-dzurilla-media",
     "candidateId": "psk-peter-dzurilla",
     "category": "media",
-    "status": "found",
-    "sourceIds": [
-      "poprad-review-5ba767b78ea5d230"
-    ],
+    "status": "searched_none",
+    "sourceIds": [],
     "checkedAt": "2026-10-14"
   },
   {
@@ -17386,18 +17440,18 @@
     "id": "coverage-psk-milan-jambor-media",
     "candidateId": "psk-milan-jambor",
     "category": "media",
-    "status": "found",
-    "sourceIds": [
-      "poprad-review-40c277a98733977e"
-    ],
+    "status": "searched_none",
+    "sourceIds": [],
     "checkedAt": "2026-10-14"
   },
   {
     "id": "coverage-psk-milan-jambor-controversies",
     "candidateId": "psk-milan-jambor",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "poprad-review-40c277a98733977e"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -18398,10 +18452,8 @@
     "id": "coverage-psk-jozef-stefanak-media",
     "candidateId": "psk-jozef-stefanak",
     "category": "media",
-    "status": "found",
-    "sourceIds": [
-      "poprad-review-5ba767b78ea5d230"
-    ],
+    "status": "searched_none",
+    "sourceIds": [],
     "checkedAt": "2026-10-14"
   },
   {
@@ -19879,9 +19931,7 @@
     "status": "found",
     "sourceIds": [
       "presov-review-original-18ca1a8a74fe6826",
-      "psk-7-roster-2026",
-      "presov-review-original-a3d306b743803079",
-      "presov-review-original-a53db32951b4a230"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -20193,8 +20243,11 @@
     "id": "coverage-psk-anton-hrabko-controversies",
     "candidateId": "psk-anton-hrabko",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "recheck-hrabko-bankruptcy-opening-2021",
+      "recheck-hrabko-bankruptcy-termination-2021"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -20406,8 +20459,7 @@
     "status": "found",
     "sourceIds": [
       "presov-review-original-1de5bc1f933afa6e",
-      "psk-7-roster-2026",
-      "presov-review-original-07f2d21e61a75b5b"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -21083,8 +21135,7 @@
     "status": "found",
     "sourceIds": [
       "presov-review-original-e8e5b09db544d38b",
-      "psk-7-roster-2026",
-      "presov-review-original-e79f4e08b0b55263"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -21372,8 +21423,10 @@
     "id": "coverage-psk-vladimir-luteran-controversies",
     "candidateId": "psk-vladimir-luteran",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "recheck-luteran-enforcement-2025"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -21440,8 +21493,7 @@
     "status": "found",
     "sourceIds": [
       "presov-review-original-9dae9713614ee96f",
-      "psk-7-roster-2026",
-      "presov-review-original-5f398b104b599c0a"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -21876,8 +21928,12 @@
     "id": "coverage-psk-darina-nakatova-controversies",
     "candidateId": "psk-darina-nakatova",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "recheck-nakatova-bankruptcy-start-2015",
+      "recheck-nakatova-bankruptcy-final-2016",
+      "recheck-nakatova-debt-relief-2017"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -22086,8 +22142,7 @@
     "status": "found",
     "sourceIds": [
       "presov-review-original-fc59818864020ef1",
-      "psk-7-roster-2026",
-      "presov-review-original-c48eb15778570229"
+      "psk-7-roster-2026"
     ],
     "checkedAt": "2026-10-14"
   },
@@ -22540,8 +22595,10 @@
     "id": "coverage-psk-nicole-rubisova-controversies",
     "candidateId": "psk-nicole-rubisova",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "recheck-lubotice-hazard-sita-2024"
+    ],
     "checkedAt": "2026-10-14"
   },
   {
@@ -22751,8 +22808,13 @@
     "id": "coverage-psk-stanislav-sestak-controversies",
     "candidateId": "psk-stanislav-sestak",
     "category": "controversies",
-    "status": "searched_none",
-    "sourceIds": [],
+    "status": "found",
+    "sourceIds": [
+      "recheck-sfz-2024-44",
+      "recheck-sfz-2024-47",
+      "recheck-sfz-2024-48",
+      "recheck-michel-sestak-paid-dennikn"
+    ],
     "checkedAt": "2026-10-14"
   },
   {

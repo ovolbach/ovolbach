@@ -164,5 +164,39 @@
     "src/data/elections/2026/presovsky-kraj/municipalities/presov/config.json": "34f8d98da58eacc69c31234004bcc76797fb97500bff2300e24327c1abcdf45b",
     "src/data/elections/2026/presovsky-kraj/regional/config.json": "40befc8dd421fe5f685f4836ae65407d4922b9755add8dad71a78d54e8e869c1",
     "src/data/elections/2026/presovsky-kraj/research-coverage.json": "f67f3f8a531926ba6ea71b8e2ac7eec4b0f2e3d94031013d501a469af756c900"
+  },
+  "accountEventsRecheck": {
+    "checkedAt": "2026-10-14",
+    "baseCommit": "e2ce363",
+    "researchArtifact": "presov-poprad-2026-account-events-recheck.json",
+    "researchArtifactSha256": "34b0cdf46cb1929bffad5120dffaf5a9ef759e01c96df2a1f6486f0e4f916ade",
+    "verificationArtifact": "presov-poprad-2026-recheck-verification.json",
+    "verificationArtifactSha256": "d6581c1fcd4d05178f09c33d3b8b1347ba45100444f9fd121e01586a3da1ea8f",
+    "reviewArtifact": "presov-poprad-2026-recheck-review.json",
+    "reviewArtifactSha256": "70b4cd4c6e094c8084429dafd3039c4ecfede18ba31c82247570d16113e252ca",
+    "status": "implemented_and_independently_reviewed_global_external_link_gate_failed",
+    "counts": {
+      "people": 320,
+      "candidacies": 402,
+      "claims": 1117,
+      "eventClaims": 162,
+      "coverageStatuses": {
+        "found": 997,
+        "searched_none": 1563
+      },
+      "sourcesAdded": 56
+    },
+    "financeStatuses": {
+      "not_listed": 308,
+      "verified": 12
+    },
+    "snapshotHashes": {
+      "src/data/elections/2026/presovsky-kraj/claims.json": "4d65b9f4b907c6b455f43d02f4b39f63027147d351562e00e7cf16c2cacbdf6e",
+      "src/data/elections/2026/presovsky-kraj/campaign-finance.json": "20d0ad9be6b74d0b5e4290ca08be11eeb6469ed8afcc3b841d81747a2af8a314",
+      "src/data/elections/2026/presovsky-kraj/research-coverage.json": "e39a8c6b5f4c473a039070907246c159c7bb0ede74f89b0df6e38b0fef3ec6a1",
+      "src/data/sources.json": "80b299eee99c1467b3e49cac383edf8e4852505a316e4f6d34984201b81a7cb5",
+      "research/presov-poprad-2026.json": "319bf7a94320cd27ba80dc7596616b07c832db7e671baa1a0a4185bb644257e6"
+    },
+    "note": "Other fields in this earlier audit document describe the prior998-claim snapshot. This linked follow-up supersedes it for the current account/event recheck; historical receipts and decisions remain preserved."
   }
 }

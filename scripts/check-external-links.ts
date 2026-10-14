@@ -3,7 +3,7 @@ import { loadAllElectionCycles, loadGlobalSources } from '../src/lib/load-guide-
 
 const [sources, cycles] = await Promise.all([loadGlobalSources(), loadAllElectionCycles()]);
 const accounts = cycles.flatMap((cycle) => [
-  ...cycle.campaignFinance.flatMap((record) => record.account.status === 'verified' ? [{ id: record.id, url: record.account.url }] : []),
+  ...cycle.campaignFinance.flatMap((record) => record.account.status === 'verified' && record.account.url ? [{ id: record.id, url: record.account.url }] : []),
   ...cycle.financeParties.flatMap((party) => party.account.status === 'registered' ? [{ id: party.id, url: party.account.url }] : []),
 ]);
 const results = await checkExternalLinks([...sources, ...accounts], fetch);

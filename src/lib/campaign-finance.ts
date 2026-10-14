@@ -47,7 +47,12 @@ export function financeSourceIds(record: CampaignFinance): string[] {
     ...record.sourceIds, ...record.legalSourceIds, ...record.expenseSourceIds, ...record.operatorSourceIds,
     ...record.headCandidacies.flatMap((head) => head.sourceIds),
     ...(record.account.status === 'verified'
-      ? [...record.account.sourceIds, ...record.account.identity.flatMap((item) => item.sourceIds)]
+      ? [...record.account.sourceIds, ...record.account.identity.flatMap((item) => item.sourceIds),
+        ...(record.account.exclusionEvidence ? [
+          ...record.account.exclusionEvidence.registers.map((row) => row.sourceId),
+          ...record.account.exclusionEvidence.matches.flatMap((row) => row.sourceIds),
+          ...record.account.exclusionEvidence.accountSourceIds,
+        ] : [])]
       : record.account.sourceIds),
     ...(record.reportSourceId ? [record.reportSourceId] : []),
   ])];
