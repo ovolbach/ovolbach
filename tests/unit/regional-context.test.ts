@@ -4,7 +4,7 @@ import { getOfficialCandidacies } from '../../src/lib/official-facts';
 import { validateDataset } from '../../src/lib/validate-dataset';
 import { assembleRegionalContext, candidateProfilePath, publishedProfileRoutes } from '../../src/lib/regional-context';
 
-const cities = await listPublishedElectionContexts();
+const cities = (await listPublishedElectionContexts()).filter((context) => context.regionSlug === 'zilinsky-kraj' && context.year === 2026);
 const region = assembleRegionalContext(cities);
 
 describe('one regional profile per chair candidate', () => {

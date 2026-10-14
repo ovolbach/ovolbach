@@ -88,11 +88,12 @@ test('search navigation preserves selection within its scope and resets it acros
   expect(new URL(page.url()).searchParams.getAll('kandidat')).toEqual([]);
 });
 
-test('sitemap contains 460 unique profiles and excludes comparison routes', async ({ request }) => {
+test('sitemap retains 460 unique Žilina-cycle profiles and excludes comparison routes', async ({ request }) => {
   const response = await request.get('/sitemap.xml');
   expect(response.status()).toBe(200);
   const sitemap = await response.text();
-  expect([...sitemap.matchAll(/<loc>([^<]*\/kandidat\/[^<]+)<\/loc>/g)]).toHaveLength(460);
+  const profiles = [...sitemap.matchAll(/<loc>([^<]*\/kandidat\/[^<]+)<\/loc>/g)].map((match) => match[1]!);
+  expect(profiles.filter((url) => /\/(?:zilinsky-kraj|dolny-kubin|liptovsky-mikulas|martin|ruzomberok|zilina)\/2026\//.test(url))).toHaveLength(460);
   expect(sitemap).toContain(`https://ovolbach.sk${REGION}kandidat/anna-belousovova/`);
   expect(sitemap).not.toMatch(/\/(?:martin|dolny-kubin|liptovsky-mikulas|zilina|ruzomberok)\/2026\/kandidat\/anna-belousovova\//);
   expect(sitemap).not.toContain('/porovnat/');

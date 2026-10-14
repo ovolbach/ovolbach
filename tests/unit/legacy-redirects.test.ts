@@ -6,7 +6,8 @@ import { listPublishedElectionContexts } from '../../src/lib/load-guide-data';
 import { candidateProfilePath } from '../../src/lib/regional-context';
 
 const { candidates } = await loadGuideData();
-const contexts = await listPublishedElectionContexts();
+const contexts = (await listPublishedElectionContexts())
+  .filter((context) => context.regionSlug === 'zilinsky-kraj' && context.year === 2026);
 const lm = contexts.find((context) => context.citySlug === 'liptovsky-mikulas')!;
 
 const basePath = '/liptovsky-mikulas/2026';
@@ -59,6 +60,7 @@ describe('legacy election URLs', () => {
   });
 
   it('redirects all 35 municipal chair profiles directly, in every URL variant', () => {
+    expect(contexts).toHaveLength(5);
     const chairs = candidates.filter((candidate) => lm.data.candidacies.some((row) => row.candidateId === candidate.id && row.electionId === 'region-chair'));
     expect(chairs).toHaveLength(7);
     for (const context of contexts) {

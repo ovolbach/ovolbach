@@ -7,7 +7,7 @@ function slugifyName(value: string): string {
 }
 
 describe('public candidate URLs', () => {
-  it('uses readable name slugs and disambiguates both pairs of namesakes', () => {
+  it('uses readable name slugs and disambiguates all namesakes', () => {
     const urbanovic = candidates.filter((candidate) => slugifyName(`${candidate.givenName} ${candidate.familyName}`) === 'rudolf-urbanovic');
     expect(urbanovic.map((candidate) => candidate.slug).sort()).toEqual([
       'rudolf-urbanovic-ing',
@@ -15,10 +15,17 @@ describe('public candidate URLs', () => {
     ]);
     const stanovsky = candidates.filter((candidate) => slugifyName(`${candidate.givenName} ${candidate.familyName}`) === 'martin-stanovsky');
     expect(stanovsky.map((candidate) => candidate.slug).sort()).toEqual(['martin-stanovsky-30', 'martin-stanovsky-53']);
-    const namesakes = [...urbanovic, ...stanovsky];
-
-    for (const candidate of candidates.filter((item) => !namesakes.includes(item))) {
-      expect(candidate.slug, candidate.id).toBe(slugifyName(`${candidate.givenName} ${candidate.familyName}`));
+    const groups = new Map<string, typeof candidates>();
+    for (const candidate of candidates) {
+      const name = slugifyName(`${candidate.givenName} ${candidate.familyName}`);
+      groups.set(name, [...(groups.get(name) ?? []), candidate]);
+    }
+    for (const [name, people] of groups) {
+      if (people.length === 1) expect(people[0]!.slug, people[0]!.id).toBe(name);
+      else {
+        expect(new Set(people.map((row) => row.slug)).size).toBe(people.length);
+        for (const person of people) expect(person.slug, person.id).toMatch(new RegExp(`^${name}(?:-[a-z0-9-]+)?$`));
+      }
     }
   });
 });

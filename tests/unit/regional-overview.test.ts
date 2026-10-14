@@ -3,7 +3,8 @@ import { listPublishedElectionContexts } from '../../src/lib/load-guide-data';
 import { assembleRegionalContext } from '../../src/lib/regional-context';
 import { getRegionalChairBallot } from '../../src/lib/selectors';
 
-const region = assembleRegionalContext(await listPublishedElectionContexts());
+const region = assembleRegionalContext((await listPublishedElectionContexts())
+  .filter((context) => context.regionSlug === 'zilinsky-kraj' && context.year === 2026));
 
 describe('regional overview chair ballot', () => {
   it('shows seven chair candidates in ballot order without duplicating their council candidacies', () => {

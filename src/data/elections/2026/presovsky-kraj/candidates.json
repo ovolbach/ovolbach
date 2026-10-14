@@ -1,0 +1,3523 @@
+[
+  {
+    "id": "psk-mikulas-bobak",
+    "slug": "mikulas-bobak",
+    "displayName": "Mikuláš BOBÁK, Ing.",
+    "givenName": "Mikuláš",
+    "familyName": "BOBÁK",
+    "sourceIds": [
+      "pp-mayor-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-anton-danko",
+    "slug": "anton-danko",
+    "displayName": "Anton DANKO, Ing.",
+    "givenName": "Anton",
+    "familyName": "DANKO",
+    "sourceIds": [
+      "pp-mayor-2026",
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-patrik-frantiska",
+    "slug": "patrik-frantiska",
+    "displayName": "Patrik FRANTIŠKA, Ing.",
+    "givenName": "Patrik",
+    "familyName": "FRANTIŠKA",
+    "sourceIds": [
+      "pp-mayor-2026",
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-jozef-kralik",
+    "slug": "jozef-kralik",
+    "displayName": "Jozef KRÁLIK, Ing. arch.",
+    "givenName": "Jozef",
+    "familyName": "KRÁLIK",
+    "sourceIds": [
+      "pp-mayor-2026",
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing. arch."
+  },
+  {
+    "id": "psk-roderik-ledecky",
+    "slug": "roderik-ledecky",
+    "displayName": "Roderik LEDECKÝ, Mgr.",
+    "givenName": "Roderik",
+    "familyName": "LEDECKÝ",
+    "sourceIds": [
+      "pp-mayor-2026",
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-boris-bahno",
+    "slug": "boris-bahno",
+    "displayName": "Boris BAHNO, Mgr.",
+    "givenName": "Boris",
+    "familyName": "BAHNO",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-martin-baloga",
+    "slug": "martin-baloga",
+    "displayName": "Martin BALOGA, Ing. arch., PhD.",
+    "givenName": "Martin",
+    "familyName": "BALOGA",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing. arch., PhD."
+  },
+  {
+    "id": "psk-simona-brtanova",
+    "slug": "simona-brtanova",
+    "displayName": "Simona BRTÁŇOVÁ, Mgr.",
+    "givenName": "Simona",
+    "familyName": "BRTÁŇOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-gabriela-budzakova",
+    "slug": "gabriela-budzakova",
+    "displayName": "Gabriela BUDZÁKOVÁ",
+    "givenName": "Gabriela",
+    "familyName": "BUDZÁKOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-michal-bugos",
+    "slug": "michal-bugos",
+    "displayName": "Michal BUGOŠ, Mgr.",
+    "givenName": "Michal",
+    "familyName": "BUGOŠ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-juraj-husar",
+    "slug": "juraj-husar",
+    "displayName": "Juraj HUSÁR",
+    "givenName": "Juraj",
+    "familyName": "HUSÁR",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-tatiana-husarova",
+    "slug": "tatiana-husarova",
+    "displayName": "Tatiana HUSÁROVÁ, Mgr., MBA",
+    "givenName": "Tatiana",
+    "familyName": "HUSÁROVÁ",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Mgr., MBA"
+  },
+  {
+    "id": "psk-radoslav-ivan",
+    "slug": "radoslav-ivan",
+    "displayName": "Radoslav IVAN, Ing. arch.",
+    "givenName": "Radoslav",
+    "familyName": "IVAN",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing. arch."
+  },
+  {
+    "id": "psk-jakub-jochman",
+    "slug": "jakub-jochman",
+    "displayName": "Jakub JOCHMAN, Ing.",
+    "givenName": "Jakub",
+    "familyName": "JOCHMAN",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-ondrej-kavka",
+    "slug": "ondrej-kavka",
+    "displayName": "Ondrej KAVKA, Ing.",
+    "givenName": "Ondrej",
+    "familyName": "KAVKA",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-marek-krucek",
+    "slug": "marek-krucek",
+    "displayName": "Marek KRUČEK",
+    "givenName": "Marek",
+    "familyName": "KRUČEK",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-filip-kubani",
+    "slug": "filip-kubani",
+    "displayName": "Filip KUBÁNI",
+    "givenName": "Filip",
+    "familyName": "KUBÁNI",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-stanislav-kulka",
+    "slug": "stanislav-kulka",
+    "displayName": "Stanislav KUĽKA",
+    "givenName": "Stanislav",
+    "familyName": "KUĽKA",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-jozef-lences",
+    "slug": "jozef-lences",
+    "displayName": "Jozef LENČÉŠ, Ing.",
+    "givenName": "Jozef",
+    "familyName": "LENČÉŠ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-frantisek-majersky",
+    "slug": "frantisek-majersky",
+    "displayName": "František MAJERSKÝ, Mgr.",
+    "givenName": "František",
+    "familyName": "MAJERSKÝ",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-peter-marusin",
+    "slug": "peter-marusin",
+    "displayName": "Peter MARUŠIN, Ing.",
+    "givenName": "Peter",
+    "familyName": "MARUŠIN",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-marek-michalko",
+    "slug": "marek-michalko",
+    "displayName": "Marek MICHALKO, Ing.",
+    "givenName": "Marek",
+    "familyName": "MICHALKO",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-elena-mozolova",
+    "slug": "elena-mozolova",
+    "displayName": "Elena MOZOLOVÁ, Ing.",
+    "givenName": "Elena",
+    "familyName": "MOZOLOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-jozef-nazarej",
+    "slug": "jozef-nazarej",
+    "displayName": "Jozef NAZAREJ",
+    "givenName": "Jozef",
+    "familyName": "NAZAREJ",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-anna-ondrusekova",
+    "slug": "anna-ondrusekova",
+    "displayName": "Anna ONDRUŠEKOVÁ, PaedDr.",
+    "givenName": "Anna",
+    "familyName": "ONDRUŠEKOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "PaedDr."
+  },
+  {
+    "id": "psk-rastislav-ovsonka",
+    "slug": "rastislav-ovsonka",
+    "displayName": "Rastislav OVŠONKA",
+    "givenName": "Rastislav",
+    "familyName": "OVŠONKA",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-barbora-palovcikova",
+    "slug": "barbora-palovcikova",
+    "displayName": "Barbora PALOVČIKOVÁ, Ing.",
+    "givenName": "Barbora",
+    "familyName": "PALOVČIKOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-michal-pazitny",
+    "slug": "michal-pazitny",
+    "displayName": "Michal PAŽITNÝ, Ing.",
+    "givenName": "Michal",
+    "familyName": "PAŽITNÝ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-marcel-polomsky",
+    "slug": "marcel-polomsky",
+    "displayName": "Marcel POLOMSKÝ, Ing.",
+    "givenName": "Marcel",
+    "familyName": "POLOMSKÝ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-marian-saraka",
+    "slug": "marian-saraka",
+    "displayName": "Marián SARAKA, Ing.",
+    "givenName": "Marián",
+    "familyName": "SARAKA",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-alexandra-sidor",
+    "slug": "alexandra-sidor",
+    "displayName": "Alexandra SIDOR, Ing.",
+    "givenName": "Alexandra",
+    "familyName": "SIDOR",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-peter-siska",
+    "slug": "peter-siska",
+    "displayName": "Peter SISKA, Ing.",
+    "givenName": "Peter",
+    "familyName": "SISKA",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-lubomir-slavkovsky",
+    "slug": "lubomir-slavkovsky",
+    "displayName": "Ľubomír SLAVKOVSKÝ, Ing.",
+    "givenName": "Ľubomír",
+    "familyName": "SLAVKOVSKÝ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-dana-slejzakova",
+    "slug": "dana-slejzakova",
+    "displayName": "Dana SLEJZÁKOVÁ, Mgr.",
+    "givenName": "Dana",
+    "familyName": "SLEJZÁKOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-jaroslav-scurka",
+    "slug": "jaroslav-scurka",
+    "displayName": "Jaroslav ŠČURKA, Ing., PhD., MSc.",
+    "givenName": "Jaroslav",
+    "familyName": "ŠČURKA",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing., PhD., MSc."
+  },
+  {
+    "id": "psk-jozef-svagerko",
+    "slug": "jozef-svagerko",
+    "displayName": "Jozef ŠVAGERKO, Ing.",
+    "givenName": "Jozef",
+    "familyName": "ŠVAGERKO",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-zuzana-tobisova",
+    "slug": "zuzana-tobisova",
+    "displayName": "Zuzana TOBISOVÁ, PaedDr.",
+    "givenName": "Zuzana",
+    "familyName": "TOBISOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "PaedDr."
+  },
+  {
+    "id": "psk-stanislav-tomka",
+    "slug": "stanislav-tomka",
+    "displayName": "Stanislav TOMKA, Ing.",
+    "givenName": "Stanislav",
+    "familyName": "TOMKA",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-maria-vojtassakova",
+    "slug": "maria-vojtassakova",
+    "displayName": "Mária VOJTAŠŠÁKOVÁ, PaedDr.",
+    "givenName": "Mária",
+    "familyName": "VOJTAŠŠÁKOVÁ",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "PaedDr."
+  },
+  {
+    "id": "psk-igor-wzos",
+    "slug": "igor-wzos",
+    "displayName": "Igor WZOŠ, Mgr.",
+    "givenName": "Igor",
+    "familyName": "WZOŠ",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-daniel-baca",
+    "slug": "daniel-baca",
+    "displayName": "Daniel BAČA, Ing.",
+    "givenName": "Daniel",
+    "familyName": "BAČA",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-peter-bacik",
+    "slug": "peter-bacik",
+    "displayName": "Peter BAČÍK, Ing.",
+    "givenName": "Peter",
+    "familyName": "BAČÍK",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-daniel-baltazarovic",
+    "slug": "daniel-baltazarovic",
+    "displayName": "Daniel BALTAZÁROVIČ",
+    "givenName": "Daniel",
+    "familyName": "BALTAZÁROVIČ",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-michal-baran",
+    "slug": "michal-baran",
+    "displayName": "Michal BARAN, PhDr., PhD., MBA",
+    "givenName": "Michal",
+    "familyName": "BARAN",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "PhDr., PhD., MBA"
+  },
+  {
+    "id": "psk-marian-barilla",
+    "slug": "marian-barilla",
+    "displayName": "Marián BARILLA, Ing., MBA",
+    "givenName": "Marián",
+    "familyName": "BARILLA",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing., MBA"
+  },
+  {
+    "id": "psk-roman-bekes",
+    "slug": "roman-bekes",
+    "displayName": "Roman BEKEŠ, Bc.",
+    "givenName": "Roman",
+    "familyName": "BEKEŠ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-slavomir-bozon",
+    "slug": "slavomir-bozon",
+    "displayName": "Slavomír BOŽOŇ, Ing.",
+    "givenName": "Slavomír",
+    "familyName": "BOŽOŇ",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-peter-brenisin",
+    "slug": "peter-brenisin",
+    "displayName": "Peter BRENIŠIN, MUDr.",
+    "givenName": "Peter",
+    "familyName": "BRENIŠIN",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "MUDr."
+  },
+  {
+    "id": "psk-blazena-budzakova",
+    "slug": "blazena-budzakova",
+    "displayName": "Blažena BUDZÁKOVÁ, Mgr. art. et Mgr.",
+    "givenName": "Blažena",
+    "familyName": "BUDZÁKOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr. art. et Mgr."
+  },
+  {
+    "id": "psk-patricia-bujnakova",
+    "slug": "patricia-bujnakova",
+    "displayName": "Patrícia BUJŇÁKOVÁ, PaedDr",
+    "givenName": "Patrícia",
+    "familyName": "BUJŇÁKOVÁ",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "PaedDr"
+  },
+  {
+    "id": "psk-libor-burger",
+    "slug": "libor-burger",
+    "displayName": "Libor BURGER, Mgr.",
+    "givenName": "Libor",
+    "familyName": "BURGER",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-petra-comisso",
+    "slug": "petra-comisso",
+    "displayName": "Petra COMISSO, Mgr.",
+    "givenName": "Petra",
+    "familyName": "COMISSO",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-gabriela-cubova",
+    "slug": "gabriela-cubova",
+    "displayName": "Gabriela ČUBOVÁ, PaedDr., PhD.",
+    "givenName": "Gabriela",
+    "familyName": "ČUBOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "PaedDr., PhD."
+  },
+  {
+    "id": "psk-jozef-dubasak",
+    "slug": "jozef-dubasak",
+    "displayName": "Jozef DUBAŠÁK",
+    "givenName": "Jozef",
+    "familyName": "DUBAŠÁK",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-pavol-garaj",
+    "slug": "pavol-garaj",
+    "displayName": "Pavol GARAJ, Mgr.",
+    "givenName": "Pavol",
+    "familyName": "GARAJ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-viera-gibalova",
+    "slug": "viera-gibalova",
+    "displayName": "Viera GIBALOVÁ, Ing.",
+    "givenName": "Viera",
+    "familyName": "GIBALOVÁ",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-marcel-hascak",
+    "slug": "marcel-hascak",
+    "displayName": "Marcel HAŠČÁK",
+    "givenName": "Marcel",
+    "familyName": "HAŠČÁK",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-rastislav-horak",
+    "slug": "rastislav-horak",
+    "displayName": "Rastislav HORÁK, Mgr.",
+    "givenName": "Rastislav",
+    "familyName": "HORÁK",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-marek-jucha",
+    "slug": "marek-jucha",
+    "displayName": "Marek JUCHA",
+    "givenName": "Marek",
+    "familyName": "JUCHA",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-peter-kandrac",
+    "slug": "peter-kandrac",
+    "displayName": "Peter KANDRÁČ",
+    "givenName": "Peter",
+    "familyName": "KANDRÁČ",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-ladislav-karkusz",
+    "slug": "ladislav-karkusz",
+    "displayName": "Ladislav KARKUSZ, Mgr.",
+    "givenName": "Ladislav",
+    "familyName": "KARKUSZ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-jan-kostka",
+    "slug": "jan-kostka",
+    "displayName": "Ján KOSTKA, Ing.",
+    "givenName": "Ján",
+    "familyName": "KOSTKA",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-matus-kosicky",
+    "slug": "matus-kosicky",
+    "displayName": "Matúš KOŠICKÝ, Mgr.",
+    "givenName": "Matúš",
+    "familyName": "KOŠICKÝ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-arne-krotak",
+    "slug": "arne-krotak",
+    "displayName": "Arne KROTÁK",
+    "givenName": "Arne",
+    "familyName": "KROTÁK",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-slavomir-kysela",
+    "slug": "slavomir-kysela",
+    "displayName": "Slavomír KYSEĽA",
+    "givenName": "Slavomír",
+    "familyName": "KYSEĽA",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-peter-leco",
+    "slug": "peter-leco",
+    "displayName": "Peter LECO",
+    "givenName": "Peter",
+    "familyName": "LECO",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-alena-madzinova",
+    "slug": "alena-madzinova",
+    "displayName": "Alena MADZINOVÁ, Mgr.",
+    "givenName": "Alena",
+    "familyName": "MADZINOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-helena-mezenska",
+    "slug": "helena-mezenska",
+    "displayName": "Helena MEZENSKÁ, Mgr.",
+    "givenName": "Helena",
+    "familyName": "MEZENSKÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-erika-nazarejova",
+    "slug": "erika-nazarejova",
+    "displayName": "Erika NAZAREJOVÁ",
+    "givenName": "Erika",
+    "familyName": "NAZAREJOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-stefan-pcola",
+    "slug": "stefan-pcola",
+    "displayName": "Štefan PČOLA, Mgr.",
+    "givenName": "Štefan",
+    "familyName": "PČOLA",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-jan-pitonak",
+    "slug": "jan-pitonak",
+    "displayName": "Ján PITOŇÁK, JUDr.",
+    "givenName": "Ján",
+    "familyName": "PITOŇÁK",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-monika-polanova",
+    "slug": "monika-polanova",
+    "displayName": "Monika POĽANOVÁ, RNDr.",
+    "givenName": "Monika",
+    "familyName": "POĽANOVÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "RNDr."
+  },
+  {
+    "id": "psk-peter-semancik",
+    "slug": "peter-semancik",
+    "displayName": "Peter SEMANČÍK, Ing.",
+    "givenName": "Peter",
+    "familyName": "SEMANČÍK",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-peter-sklenka",
+    "slug": "peter-sklenka",
+    "displayName": "Peter SKLENKA, Mgr.",
+    "givenName": "Peter",
+    "familyName": "SKLENKA",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-david-skokan",
+    "slug": "david-skokan",
+    "displayName": "Dávid SKOKAN, MBA",
+    "givenName": "Dávid",
+    "familyName": "SKOKAN",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "psk-martin-slodicak",
+    "slug": "martin-slodicak",
+    "displayName": "Martin SLODIČÁK",
+    "givenName": "Martin",
+    "familyName": "SLODIČÁK",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-ivan-solovic",
+    "slug": "ivan-solovic",
+    "displayName": "Ivan SOLOVIČ, doc. MUDr., CSc., univ. prof.",
+    "givenName": "Ivan",
+    "familyName": "SOLOVIČ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "doc. MUDr., CSc., univ. prof."
+  },
+  {
+    "id": "psk-viera-stavna",
+    "slug": "viera-stavna",
+    "displayName": "Viera STAVNÁ, Mgr.",
+    "givenName": "Viera",
+    "familyName": "STAVNÁ",
+    "sourceIds": [
+      "pp-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-erik-sevcik",
+    "slug": "erik-sevcik",
+    "displayName": "Erik ŠEVČÍK",
+    "givenName": "Erik",
+    "familyName": "ŠEVČÍK",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "psk-rastislav-zacher",
+    "slug": "rastislav-zacher",
+    "displayName": "Rastislav ZACHER, Mgr., PhD.",
+    "givenName": "Rastislav",
+    "familyName": "ZACHER",
+    "sourceIds": [
+      "pp-council-2026",
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Mgr., PhD."
+  },
+  {
+    "id": "psk-artur-benes",
+    "slug": "artur-benes",
+    "displayName": "Artúr BENES, Ing.",
+    "givenName": "Artúr",
+    "familyName": "BENES",
+    "sourceIds": [
+      "po-mayor-2026",
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-martin-estocak",
+    "slug": "martin-estocak",
+    "displayName": "Martin EŠTOČÁK, JUDr.",
+    "givenName": "Martin",
+    "familyName": "EŠTOČÁK",
+    "sourceIds": [
+      "po-mayor-2026",
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-pavel-hagyari",
+    "slug": "pavel-hagyari",
+    "displayName": "Pavel HAGYARI, JUDr., PhD., MBA",
+    "givenName": "Pavel",
+    "familyName": "HAGYARI",
+    "sourceIds": [
+      "po-mayor-2026",
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "JUDr., PhD., MBA"
+  },
+  {
+    "id": "psk-rastislav-mochnacky",
+    "slug": "rastislav-mochnacky",
+    "displayName": "Rastislav MOCHNACKÝ, Ing.",
+    "givenName": "Rastislav",
+    "familyName": "MOCHNACKÝ",
+    "sourceIds": [
+      "po-mayor-2026",
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-frantisek-olha",
+    "slug": "frantisek-olha",
+    "displayName": "František OĽHA, Ing.",
+    "givenName": "František",
+    "familyName": "OĽHA",
+    "sourceIds": [
+      "po-mayor-2026",
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-svetlana-pavlovicova",
+    "slug": "svetlana-pavlovicova",
+    "displayName": "Svetlana PAVLOVIČOVÁ, PhDr. Ing., MBA",
+    "givenName": "Svetlana",
+    "familyName": "PAVLOVIČOVÁ",
+    "sourceIds": [
+      "po-mayor-2026",
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PhDr. Ing., MBA"
+  },
+  {
+    "id": "psk-jan-ahlers",
+    "slug": "jan-ahlers",
+    "displayName": "Ján AHLERS, MUDr., MPH, MBA",
+    "givenName": "Ján",
+    "familyName": "AHLERS",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "MUDr., MPH, MBA"
+  },
+  {
+    "id": "psk-marek-andrejov",
+    "slug": "marek-andrejov",
+    "displayName": "Marek ANDREJOV, Bc.",
+    "givenName": "Marek",
+    "familyName": "ANDREJOV",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-lukas-belej",
+    "slug": "lukas-belej",
+    "displayName": "Lukáš BELEJ, Mgr.",
+    "givenName": "Lukáš",
+    "familyName": "BELEJ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-milos-bizub",
+    "slug": "milos-bizub",
+    "displayName": "Miloš BIZUB, Bc.",
+    "givenName": "Miloš",
+    "familyName": "BIZUB",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-marek-ciz",
+    "slug": "marek-ciz",
+    "displayName": "Marek ČIŽ, Ing.",
+    "givenName": "Marek",
+    "familyName": "ČIŽ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-slavka-corejova",
+    "slug": "slavka-corejova",
+    "displayName": "Slávka ČOREJOVÁ, PaedDr.",
+    "givenName": "Slávka",
+    "familyName": "ČOREJOVÁ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PaedDr."
+  },
+  {
+    "id": "psk-marian-damankos",
+    "slug": "marian-damankos",
+    "displayName": "Marián DAMANKOŠ, PhDr., PhD.",
+    "givenName": "Marián",
+    "familyName": "DAMANKOŠ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PhDr., PhD."
+  },
+  {
+    "id": "psk-slavomir-danko",
+    "slug": "slavomir-danko",
+    "displayName": "Slavomír DAŇKO",
+    "givenName": "Slavomír",
+    "familyName": "DAŇKO",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-jozef-demcak",
+    "slug": "jozef-demcak",
+    "displayName": "Jozef DEMČÁK, Ing.",
+    "givenName": "Jozef",
+    "familyName": "DEMČÁK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-marian-estocko",
+    "slug": "marian-estocko",
+    "displayName": "Marián ESTOČKO, Ing.",
+    "givenName": "Marián",
+    "familyName": "ESTOČKO",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-martin-filipak",
+    "slug": "martin-filipak",
+    "displayName": "Martin FILIPÁK, Mgr.",
+    "givenName": "Martin",
+    "familyName": "FILIPÁK",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-lukas-havrilla",
+    "slug": "lukas-havrilla",
+    "displayName": "Lukáš HAVRILLA, RNDr.",
+    "givenName": "Lukáš",
+    "familyName": "HAVRILLA",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "RNDr."
+  },
+  {
+    "id": "psk-juraj-hudac",
+    "slug": "juraj-hudac",
+    "displayName": "Juraj HUDÁČ, Ing.",
+    "givenName": "Juraj",
+    "familyName": "HUDÁČ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-richard-klucar",
+    "slug": "richard-klucar",
+    "displayName": "Richard KLUČÁR, Mgr.",
+    "givenName": "Richard",
+    "familyName": "KLUČÁR",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-mikulas-komanicky",
+    "slug": "mikulas-komanicky",
+    "displayName": "Mikuláš KOMANICKÝ, PhDr.",
+    "givenName": "Mikuláš",
+    "familyName": "KOMANICKÝ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "id": "psk-viera-kucharova",
+    "slug": "viera-kucharova",
+    "displayName": "Viera KUCHÁROVÁ, Ing.",
+    "givenName": "Viera",
+    "familyName": "KUCHÁROVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-jana-lukosikova",
+    "slug": "jana-lukosikova",
+    "displayName": "Jana LUKOŠÍKOVÁ, Mgr.",
+    "givenName": "Jana",
+    "familyName": "LUKOŠÍKOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-ladislav-maras",
+    "slug": "ladislav-maras",
+    "displayName": "Ladislav MARAS, JUDr.",
+    "givenName": "Ladislav",
+    "familyName": "MARAS",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-michal-michnak",
+    "slug": "michal-michnak",
+    "displayName": "Michal MICHŇÁK, Ing.",
+    "givenName": "Michal",
+    "familyName": "MICHŇÁK",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-peter-mocak",
+    "slug": "peter-mocak",
+    "displayName": "Peter MOCÁK, Mgr.",
+    "givenName": "Peter",
+    "familyName": "MOCÁK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-silvia-odelgova",
+    "slug": "silvia-odelgova",
+    "displayName": "Silvia ODELGOVÁ, PhDr.",
+    "givenName": "Silvia",
+    "familyName": "ODELGOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "id": "psk-marian-palencar",
+    "slug": "marian-palencar",
+    "displayName": "Marián PALENČAR, Ing.",
+    "givenName": "Marián",
+    "familyName": "PALENČAR",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-stefan-simocko",
+    "slug": "stefan-simocko",
+    "displayName": "Štefan ŠIMOČKO, Mgr.",
+    "givenName": "Štefan",
+    "familyName": "ŠIMOČKO",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-peter-sulik",
+    "slug": "peter-sulik",
+    "displayName": "Peter ŠULÍK",
+    "givenName": "Peter",
+    "familyName": "ŠULÍK",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-igor-tkac",
+    "slug": "igor-tkac",
+    "displayName": "Igor TKÁČ, Mgr.",
+    "givenName": "Igor",
+    "familyName": "TKÁČ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-peter-ulicny",
+    "slug": "peter-ulicny",
+    "displayName": "Peter ULIČNÝ, MDDr.",
+    "givenName": "Peter",
+    "familyName": "ULIČNÝ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "MDDr."
+  },
+  {
+    "id": "psk-martin-angelovic",
+    "slug": "martin-angelovic",
+    "displayName": "Martin ANGELOVIČ, RNDr., PhD.",
+    "givenName": "Martin",
+    "familyName": "ANGELOVIČ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "RNDr., PhD."
+  },
+  {
+    "id": "psk-richard-bachinger",
+    "slug": "richard-bachinger",
+    "displayName": "Richard BACHINGER, Bc.",
+    "givenName": "Richard",
+    "familyName": "BACHINGER",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-martina-copakova",
+    "slug": "martina-copakova",
+    "displayName": "Martina COPÁKOVÁ",
+    "givenName": "Martina",
+    "familyName": "COPÁKOVÁ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-martin-dolinsky",
+    "slug": "martin-dolinsky",
+    "displayName": "Martin DOLINSKÝ, Bc.",
+    "givenName": "Martin",
+    "familyName": "DOLINSKÝ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-richard-drutarovsky",
+    "slug": "richard-drutarovsky",
+    "displayName": "Richard DRUTAROVSKÝ, Ing.",
+    "givenName": "Richard",
+    "familyName": "DRUTAROVSKÝ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-jozef-dusenka",
+    "slug": "jozef-dusenka",
+    "displayName": "Jozef DUŠENKA, Ing.",
+    "givenName": "Jozef",
+    "familyName": "DUŠENKA",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-lenka-kohaniova",
+    "slug": "lenka-kohaniova",
+    "displayName": "Lenka KOHÁNIOVÁ, Ing.",
+    "givenName": "Lenka",
+    "familyName": "KOHÁNIOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-petra-kokincak",
+    "slug": "petra-kokincak",
+    "displayName": "Petra KOKINČÁK, Ing.",
+    "givenName": "Petra",
+    "familyName": "KOKINČÁK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-jaroslava-kutajova",
+    "slug": "jaroslava-kutajova",
+    "displayName": "Jaroslava KUTAJOVÁ, Mgr.",
+    "givenName": "Jaroslava",
+    "familyName": "KUTAJOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-peter-lukac",
+    "slug": "peter-lukac",
+    "displayName": "Peter LUKÁČ, Ing.",
+    "givenName": "Peter",
+    "familyName": "LUKÁČ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-jan-luteran",
+    "slug": "jan-luteran",
+    "displayName": "Ján LUTERÁN, JUDr.",
+    "givenName": "Ján",
+    "familyName": "LUTERÁN",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-juraj-macek",
+    "slug": "juraj-macek",
+    "displayName": "Juraj MACEK",
+    "givenName": "Juraj",
+    "familyName": "MACEK",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-frantisek-martinka",
+    "slug": "frantisek-martinka",
+    "displayName": "František MARTINKA, Mgr.",
+    "givenName": "František",
+    "familyName": "MARTINKA",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-radoslav-pavlisin",
+    "slug": "radoslav-pavlisin",
+    "displayName": "Radoslav PAVLIŠIN, PhDr.",
+    "givenName": "Radoslav",
+    "familyName": "PAVLIŠIN",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "id": "psk-martina-rohrbock",
+    "slug": "martina-rohrbock",
+    "displayName": "Martina ROHRBÖCK",
+    "givenName": "Martina",
+    "familyName": "ROHRBÖCK",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-robert-stasko",
+    "slug": "robert-stasko",
+    "displayName": "Róbert STAŠKO, Ing.",
+    "givenName": "Róbert",
+    "familyName": "STAŠKO",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-patrik-bencik",
+    "slug": "patrik-bencik",
+    "displayName": "Patrik BENČÍK, JUDr.",
+    "givenName": "Patrik",
+    "familyName": "BENČÍK",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-jan-benko",
+    "slug": "jan-benko",
+    "displayName": "Ján BENKO, Mgr., PhD.",
+    "givenName": "Ján",
+    "familyName": "BENKO",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr., PhD."
+  },
+  {
+    "id": "psk-marek-brendza",
+    "slug": "marek-brendza",
+    "displayName": "Marek BRENDZA",
+    "givenName": "Marek",
+    "familyName": "BRENDZA",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-kristina-fialkova",
+    "slug": "kristina-fialkova",
+    "displayName": "Kristína FIALKOVÁ",
+    "givenName": "Kristína",
+    "familyName": "FIALKOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-dominika-jurcova",
+    "slug": "dominika-jurcova",
+    "displayName": "Dominika JURČOVÁ",
+    "givenName": "Dominika",
+    "familyName": "JURČOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-david-klucerovsky",
+    "slug": "david-klucerovsky",
+    "displayName": "Dávid KLUČEROVSKÝ, Mgr., MBA",
+    "givenName": "Dávid",
+    "familyName": "KLUČEROVSKÝ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr., MBA"
+  },
+  {
+    "id": "psk-marta-kollarova",
+    "slug": "marta-kollarova",
+    "displayName": "Marta KOLLÁROVÁ, Ing., PhD.",
+    "givenName": "Marta",
+    "familyName": "KOLLÁROVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing., PhD."
+  },
+  {
+    "id": "psk-jozef-kurilla",
+    "slug": "jozef-kurilla",
+    "displayName": "Jozef KURILLA, Ing., PhD., MBA",
+    "givenName": "Jozef",
+    "familyName": "KURILLA",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing., PhD., MBA"
+  },
+  {
+    "id": "psk-eva-lipkova",
+    "slug": "eva-lipkova",
+    "displayName": "Eva LIPKOVÁ, Mgr.",
+    "givenName": "Eva",
+    "familyName": "LIPKOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-jozef-malinovsky",
+    "slug": "jozef-malinovsky",
+    "displayName": "Jozef MALINOVSKÝ, Mgr.",
+    "givenName": "Jozef",
+    "familyName": "MALINOVSKÝ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-alexander-nazarej",
+    "slug": "alexander-nazarej",
+    "displayName": "Alexander NAZAREJ",
+    "givenName": "Alexander",
+    "familyName": "NAZAREJ",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-pavol-neupauer",
+    "slug": "pavol-neupauer",
+    "displayName": "Pavol NEUPAUER, Mgr.",
+    "givenName": "Pavol",
+    "familyName": "NEUPAUER",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-matej-pavlik",
+    "slug": "matej-pavlik",
+    "displayName": "Matej PAVLÍK, Mgr.",
+    "givenName": "Matej",
+    "familyName": "PAVLÍK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-monika-plancarova",
+    "slug": "monika-plancarova",
+    "displayName": "Monika PLANČÁROVÁ, Mgr.",
+    "givenName": "Monika",
+    "familyName": "PLANČÁROVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-michal-roman",
+    "slug": "michal-roman",
+    "displayName": "Michal ROMAN, Mgr. Ing.",
+    "givenName": "Michal",
+    "familyName": "ROMAN",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr. Ing."
+  },
+  {
+    "id": "psk-denis-tirpak",
+    "slug": "denis-tirpak",
+    "displayName": "Denis TIRPÁK, Ing., PhD., MSc., MBA",
+    "givenName": "Denis",
+    "familyName": "TIRPÁK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing., PhD., MSc., MBA"
+  },
+  {
+    "id": "psk-jozef-varga",
+    "slug": "jozef-varga",
+    "displayName": "Jozef VARGA",
+    "givenName": "Jozef",
+    "familyName": "VARGA",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-imrich-andrejcak",
+    "slug": "imrich-andrejcak",
+    "displayName": "Imrich ANDREJČÁK, doc. Ing., PhD.",
+    "givenName": "Imrich",
+    "familyName": "ANDREJČÁK",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "doc. Ing., PhD."
+  },
+  {
+    "id": "psk-katarina-burgrova",
+    "slug": "katarina-burgrova",
+    "displayName": "Katarína BURGROVÁ, Mgr., PhD.",
+    "givenName": "Katarína",
+    "familyName": "BURGROVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr., PhD."
+  },
+  {
+    "id": "psk-renata-fedorcikova",
+    "slug": "renata-fedorcikova",
+    "displayName": "Renáta FEDORČÍKOVÁ, Ing., PhD.",
+    "givenName": "Renáta",
+    "familyName": "FEDORČÍKOVÁ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing., PhD."
+  },
+  {
+    "id": "psk-zuzana-hamrackova",
+    "slug": "zuzana-hamrackova",
+    "displayName": "Zuzana HAMRÁČKOVÁ, Mgr.",
+    "givenName": "Zuzana",
+    "familyName": "HAMRÁČKOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-emil-chlapecek",
+    "slug": "emil-chlapecek",
+    "displayName": "Emil CHLAPEČEK, Mgr.",
+    "givenName": "Emil",
+    "familyName": "CHLAPEČEK",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-igor-kivader",
+    "slug": "igor-kivader",
+    "displayName": "Igor KIVADER",
+    "givenName": "Igor",
+    "familyName": "KIVADER",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-martin-kovalcik",
+    "slug": "martin-kovalcik",
+    "displayName": "Martin KOVALČÍK, Ing., MBA",
+    "givenName": "Martin",
+    "familyName": "KOVALČÍK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing., MBA"
+  },
+  {
+    "id": "psk-iveta-kozuchova",
+    "slug": "iveta-kozuchova",
+    "displayName": "Iveta KOŽUCHOVÁ",
+    "givenName": "Iveta",
+    "familyName": "KOŽUCHOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-janette-langova",
+    "slug": "janette-langova",
+    "displayName": "Janette LANGOVÁ, PhDr., MBA",
+    "givenName": "Janette",
+    "familyName": "LANGOVÁ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PhDr., MBA"
+  },
+  {
+    "id": "psk-michaela-molnarova",
+    "slug": "michaela-molnarova",
+    "displayName": "Michaela MOLNÁROVÁ, Ing. Mgr., MBA",
+    "givenName": "Michaela",
+    "familyName": "MOLNÁROVÁ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing. Mgr., MBA"
+  },
+  {
+    "id": "psk-miroslav-novak",
+    "slug": "miroslav-novak",
+    "displayName": "Miroslav NOVÁK, Ing.",
+    "givenName": "Miroslav",
+    "familyName": "NOVÁK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-david-richard-obrocnik",
+    "slug": "david-richard-obrocnik",
+    "displayName": "Dávid Richard OBROČNÍK",
+    "givenName": "Dávid Richard",
+    "familyName": "OBROČNÍK",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-patricia-popovicova",
+    "slug": "patricia-popovicova",
+    "displayName": "Patrícia POPOVIČOVÁ, Mgr.",
+    "givenName": "Patrícia",
+    "familyName": "POPOVIČOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-daniel-skurka",
+    "slug": "daniel-skurka",
+    "displayName": "Daniel SKURKA",
+    "givenName": "Daniel",
+    "familyName": "SKURKA",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-ondrej-sarnik",
+    "slug": "ondrej-sarnik",
+    "displayName": "Ondrej ŠARNÍK",
+    "givenName": "Ondrej",
+    "familyName": "ŠARNÍK",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-patrik-tomic",
+    "slug": "patrik-tomic",
+    "displayName": "Patrik TOMIČ, PaedDr., MBA",
+    "givenName": "Patrik",
+    "familyName": "TOMIČ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "PaedDr., MBA"
+  },
+  {
+    "id": "psk-marek-varga",
+    "slug": "marek-varga",
+    "displayName": "Marek VARGA, Ing.",
+    "givenName": "Marek",
+    "familyName": "VARGA",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-peter-basista",
+    "slug": "peter-basista",
+    "displayName": "Peter BAŠISTA",
+    "givenName": "Peter",
+    "familyName": "BAŠISTA",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-miroslav-benko",
+    "slug": "miroslav-benko",
+    "displayName": "Miroslav BENKO, PaedDr., PhD., MBA, LL.M.",
+    "givenName": "Miroslav",
+    "familyName": "BENKO",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PaedDr., PhD., MBA, LL.M."
+  },
+  {
+    "id": "psk-viktor-cop",
+    "slug": "viktor-cop",
+    "displayName": "Viktor ČOP, Ing.",
+    "givenName": "Viktor",
+    "familyName": "ČOP",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-ivana-fedakova",
+    "slug": "ivana-fedakova",
+    "displayName": "Ivana FEDÁKOVÁ, Ing.",
+    "givenName": "Ivana",
+    "familyName": "FEDÁKOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-vladimir-felbaba",
+    "slug": "vladimir-felbaba",
+    "displayName": "Vladimír FEĽBABA, JUDr. Mgr.",
+    "givenName": "Vladimír",
+    "familyName": "FEĽBABA",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "JUDr. Mgr."
+  },
+  {
+    "id": "psk-marta-fertalova",
+    "slug": "marta-fertalova",
+    "displayName": "Marta FERTAĽOVÁ, Mgr.",
+    "givenName": "Marta",
+    "familyName": "FERTAĽOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-lubica-gobanova",
+    "slug": "lubica-gobanova",
+    "displayName": "Ľubica GOBANOVÁ, PhDr.",
+    "givenName": "Ľubica",
+    "familyName": "GOBANOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "id": "psk-tomas-kolarik",
+    "slug": "tomas-kolarik",
+    "displayName": "Tomáš KOLÁRIK, Mgr.",
+    "givenName": "Tomáš",
+    "familyName": "KOLÁRIK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-marek-kosc",
+    "slug": "marek-kosc",
+    "displayName": "Marek KOŠČ, Bc., MBA",
+    "givenName": "Marek",
+    "familyName": "KOŠČ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Bc., MBA"
+  },
+  {
+    "id": "psk-filip-krajnak",
+    "slug": "filip-krajnak",
+    "displayName": "Filip KRAJŇÁK, Mgr.",
+    "givenName": "Filip",
+    "familyName": "KRAJŇÁK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-peter-krajnak",
+    "slug": "peter-krajnak",
+    "displayName": "Peter KRAJŇÁK, Mgr.",
+    "givenName": "Peter",
+    "familyName": "KRAJŇÁK",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-radoslav-krehel",
+    "slug": "radoslav-krehel",
+    "displayName": "Radoslav KREHEĽ, Ing., PhD.",
+    "givenName": "Radoslav",
+    "familyName": "KREHEĽ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing., PhD."
+  },
+  {
+    "id": "psk-katarina-krizickova",
+    "slug": "katarina-krizickova",
+    "displayName": "Katarína KRIŽIČKOVÁ, PhDr., DiS.",
+    "givenName": "Katarína",
+    "familyName": "KRIŽIČKOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "PhDr., DiS."
+  },
+  {
+    "id": "psk-stanislav-lukac",
+    "slug": "stanislav-lukac",
+    "displayName": "Stanislav LUKÁČ, Mgr.",
+    "givenName": "Stanislav",
+    "familyName": "LUKÁČ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-ludovit-malaga",
+    "slug": "ludovit-malaga",
+    "displayName": "Ľudovít MALAGA, Ing.",
+    "givenName": "Ľudovít",
+    "familyName": "MALAGA",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-lubos-petra",
+    "slug": "lubos-petra",
+    "displayName": "Ľuboš PETRA",
+    "givenName": "Ľuboš",
+    "familyName": "PETRA",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-matej-petrus",
+    "slug": "matej-petrus",
+    "displayName": "Matej PETRUŠ",
+    "givenName": "Matej",
+    "familyName": "PETRUŠ",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-pavol-sabol",
+    "slug": "pavol-sabol",
+    "displayName": "Pavol SABOL, Ing. arch.",
+    "givenName": "Pavol",
+    "familyName": "SABOL",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing. arch."
+  },
+  {
+    "id": "psk-marek-saloka",
+    "slug": "marek-saloka",
+    "displayName": "Marek SALOKA, Mgr.",
+    "givenName": "Marek",
+    "familyName": "SALOKA",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-lubomir-srnka",
+    "slug": "lubomir-srnka",
+    "displayName": "Ľubomír SRNKA, Ing.",
+    "givenName": "Ľubomír",
+    "familyName": "SRNKA",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-peter-stutika",
+    "slug": "peter-stutika",
+    "displayName": "Peter ŠTUTIKA, Ing.",
+    "givenName": "Peter",
+    "familyName": "ŠTUTIKA",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-rudolf-voit",
+    "slug": "rudolf-voit",
+    "displayName": "Rudolf VOIT",
+    "givenName": "Rudolf",
+    "familyName": "VOIT",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-ondrej-adamcak",
+    "slug": "ondrej-adamcak",
+    "displayName": "Ondrej ADAMČÁK",
+    "givenName": "Ondrej",
+    "familyName": "ADAMČÁK",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-martin-ander",
+    "slug": "martin-ander",
+    "displayName": "Martin ANDER, Bc.",
+    "givenName": "Martin",
+    "familyName": "ANDER",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-lukas-anderko",
+    "slug": "lukas-anderko",
+    "displayName": "Lukáš ANDERKO",
+    "givenName": "Lukáš",
+    "familyName": "ANDERKO",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-stefania-andrascikova",
+    "slug": "stefania-andrascikova",
+    "displayName": "Štefánia ANDRAŠČÍKOVÁ, doc. PhDr., PhD., MPH",
+    "givenName": "Štefánia",
+    "familyName": "ANDRAŠČÍKOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "doc. PhDr., PhD., MPH"
+  },
+  {
+    "id": "psk-jan-andrejko",
+    "slug": "jan-andrejko",
+    "displayName": "Ján ANDREJKO, Mgr., PhD., LL.M.",
+    "givenName": "Ján",
+    "familyName": "ANDREJKO",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr., PhD., LL.M."
+  },
+  {
+    "id": "psk-marcela-antolova",
+    "slug": "marcela-antolova",
+    "displayName": "Marcela ANTOLOVÁ, PhDr.",
+    "givenName": "Marcela",
+    "familyName": "ANTOLOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "id": "psk-miroslav-barna",
+    "slug": "miroslav-barna",
+    "displayName": "Miroslav BARNA, Ing.",
+    "givenName": "Miroslav",
+    "familyName": "BARNA",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-dalibor-caban",
+    "slug": "dalibor-caban",
+    "displayName": "Dalibor CABAN",
+    "givenName": "Dalibor",
+    "familyName": "CABAN",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-richard-circ",
+    "slug": "richard-circ",
+    "displayName": "Richard ČIRČ",
+    "givenName": "Richard",
+    "familyName": "ČIRČ",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-peter-dolezal",
+    "slug": "peter-dolezal",
+    "displayName": "Peter DOLEŽAL",
+    "givenName": "Peter",
+    "familyName": "DOLEŽAL",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-richard-dubovicky",
+    "slug": "richard-dubovicky",
+    "displayName": "Richard DUBOVICKÝ, Bc., MBA",
+    "givenName": "Richard",
+    "familyName": "DUBOVICKÝ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Bc., MBA"
+  },
+  {
+    "id": "psk-martin-durisin",
+    "slug": "martin-durisin",
+    "displayName": "Martin ĎURIŠIN, PhDr., PhD.",
+    "givenName": "Martin",
+    "familyName": "ĎURIŠIN",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PhDr., PhD."
+  },
+  {
+    "id": "psk-michal-hudak",
+    "slug": "michal-hudak",
+    "displayName": "Michal HUDÁK, Mgr.",
+    "givenName": "Michal",
+    "familyName": "HUDÁK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-lea-jopekova",
+    "slug": "lea-jopekova",
+    "displayName": "Lea JOPEKOVÁ, Mgr.",
+    "givenName": "Lea",
+    "familyName": "JOPEKOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-andrej-jurc",
+    "slug": "andrej-jurc",
+    "displayName": "Andrej JURČ, Mgr.",
+    "givenName": "Andrej",
+    "familyName": "JURČ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-patrik-kalafut",
+    "slug": "patrik-kalafut",
+    "displayName": "Patrik KALAFUT, Ing.",
+    "givenName": "Patrik",
+    "familyName": "KALAFUT",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-jan-kastan",
+    "slug": "jan-kastan",
+    "displayName": "Ján KAŠTAN, Mgr.",
+    "givenName": "Ján",
+    "familyName": "KAŠTAN",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-pavol-komar",
+    "slug": "pavol-komar",
+    "displayName": "Pavol KOMÁR, JUDr.",
+    "givenName": "Pavol",
+    "familyName": "KOMÁR",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-ludmila-konyova",
+    "slug": "ludmila-konyova",
+    "displayName": "Ľudmila KÓNYOVÁ, PhDr.",
+    "givenName": "Ľudmila",
+    "familyName": "KÓNYOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "id": "psk-lukas-kremen",
+    "slug": "lukas-kremen",
+    "displayName": "Lukáš KŘEMEN, Bc.",
+    "givenName": "Lukáš",
+    "familyName": "KŘEMEN",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-marian-licak",
+    "slug": "marian-licak",
+    "displayName": "Marián LIČÁK, Ing.",
+    "givenName": "Marián",
+    "familyName": "LIČÁK",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-martin-lukac",
+    "slug": "martin-lukac",
+    "displayName": "Martin LUKÁČ, Ing., MBA",
+    "givenName": "Martin",
+    "familyName": "LUKÁČ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing., MBA"
+  },
+  {
+    "id": "psk-lenka-magdoskova-dzurickova",
+    "slug": "lenka-magdoskova-dzurickova",
+    "displayName": "Lenka MAGDOŠKOVÁ DZURIČKOVÁ",
+    "givenName": "Lenka",
+    "familyName": "MAGDOŠKOVÁ DZURIČKOVÁ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-michal-mamrilla",
+    "slug": "michal-mamrilla",
+    "displayName": "Michal MAMRILLA",
+    "givenName": "Michal",
+    "familyName": "MAMRILLA",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-miroslav-mandrik",
+    "slug": "miroslav-mandrik",
+    "displayName": "Miroslav MANDRIK, Ing.",
+    "givenName": "Miroslav",
+    "familyName": "MANDRIK",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-veronika-michalovova",
+    "slug": "veronika-michalovova",
+    "displayName": "Veronika MICHALOVOVÁ, Ing., MBA, LL.M., MSc.",
+    "givenName": "Veronika",
+    "familyName": "MICHALOVOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing., MBA, LL.M., MSc."
+  },
+  {
+    "id": "psk-lubos-michel",
+    "slug": "lubos-michel",
+    "displayName": "Ľuboš MICHEĽ, Mgr.",
+    "givenName": "Ľuboš",
+    "familyName": "MICHEĽ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-michael-miklosko",
+    "slug": "michael-miklosko",
+    "displayName": "Michael MIKLOŠKO, Ing.",
+    "givenName": "Michael",
+    "familyName": "MIKLOŠKO",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-daniela-mrouahova",
+    "slug": "daniela-mrouahova",
+    "displayName": "Daniela MROUAHOVÁ, MUDr.",
+    "givenName": "Daniela",
+    "familyName": "MROUAHOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "MUDr."
+  },
+  {
+    "id": "psk-zuzana-ondrejcakova",
+    "slug": "zuzana-ondrejcakova",
+    "displayName": "Zuzana ONDREJČÁKOVÁ, Mgr.",
+    "givenName": "Zuzana",
+    "familyName": "ONDREJČÁKOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-martin-pistej",
+    "slug": "martin-pistej",
+    "displayName": "Martin PIŠTEJ",
+    "givenName": "Martin",
+    "familyName": "PIŠTEJ",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-emil-rohac",
+    "slug": "emil-rohac",
+    "displayName": "Emil ROHÁČ, Ing.",
+    "givenName": "Emil",
+    "familyName": "ROHÁČ",
+    "sourceIds": [
+      "po-council-2026",
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-daniel-rusin",
+    "slug": "daniel-rusin",
+    "displayName": "Daniel RUŠIN, Ing., PhD.",
+    "givenName": "Daniel",
+    "familyName": "RUŠIN",
+    "sourceIds": [
+      "po-council-2026"
+    ],
+    "titlesAfter": "Ing., PhD."
+  },
+  {
+    "id": "psk-zuzana-tkacova",
+    "slug": "zuzana-tkacova",
+    "displayName": "Zuzana TKÁČOVÁ",
+    "givenName": "Zuzana",
+    "familyName": "TKÁČOVÁ",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "psk-drahomir-cureja",
+    "slug": "drahomir-cureja",
+    "displayName": "Drahomír ČUREJA",
+    "givenName": "Drahomír",
+    "familyName": "ČUREJA",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-marian-geci",
+    "slug": "marian-geci",
+    "displayName": "Marián GECI, Ing.",
+    "givenName": "Marián",
+    "familyName": "GECI",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-lubomir-golias",
+    "slug": "lubomir-golias",
+    "displayName": "Ľubomír GOLIAŠ",
+    "givenName": "Ľubomír",
+    "familyName": "GOLIAŠ",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-jozef-istok",
+    "slug": "jozef-istok",
+    "displayName": "Jozef IŠTOK",
+    "givenName": "Jozef",
+    "familyName": "IŠTOK",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-zoltan-kaso",
+    "slug": "zoltan-kaso",
+    "displayName": "Zoltán KAŠO",
+    "givenName": "Zoltán",
+    "familyName": "KAŠO",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-judita-lassakova",
+    "slug": "judita-lassakova",
+    "displayName": "Judita LAŠŠÁKOVÁ, Mgr.",
+    "givenName": "Judita",
+    "familyName": "LAŠŠÁKOVÁ",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-monika-leskova",
+    "slug": "monika-leskova",
+    "displayName": "Monika LEŠKOVÁ, Mgr.",
+    "givenName": "Monika",
+    "familyName": "LEŠKOVÁ",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-milan-majersky",
+    "slug": "milan-majersky",
+    "displayName": "Milan MAJERSKÝ, PaedDr., PhD.",
+    "givenName": "Milan",
+    "familyName": "MAJERSKÝ",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ],
+    "titlesAfter": "PaedDr., PhD."
+  },
+  {
+    "id": "psk-milan-mazurek",
+    "slug": "milan-mazurek",
+    "displayName": "Milan MAZUREK, Bc.",
+    "givenName": "Milan",
+    "familyName": "MAZUREK",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-samuel-migal",
+    "slug": "samuel-migal",
+    "displayName": "Samuel MIGAĽ, Mgr.",
+    "givenName": "Samuel",
+    "familyName": "MIGAĽ",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-jan-stanko",
+    "slug": "jan-stanko",
+    "displayName": "Ján STANKO",
+    "givenName": "Ján",
+    "familyName": "STANKO",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-gabriel-bodnar",
+    "slug": "gabriel-bodnar",
+    "displayName": "Gabriel BODNÁR, JUDr.",
+    "givenName": "Gabriel",
+    "familyName": "BODNÁR",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-peter-dzurilla",
+    "slug": "peter-dzurilla",
+    "displayName": "Peter DZURILLA, JUDr. Mgr., MBA, LL.M.",
+    "givenName": "Peter",
+    "familyName": "DZURILLA",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "JUDr. Mgr., MBA, LL.M."
+  },
+  {
+    "id": "psk-milan-dzurman",
+    "slug": "milan-dzurman",
+    "displayName": "Milan DŽURMAN",
+    "givenName": "Milan",
+    "familyName": "DŽURMAN",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-janka-hollova",
+    "slug": "janka-hollova",
+    "displayName": "Janka HOLLOVÁ, MUDr.",
+    "givenName": "Janka",
+    "familyName": "HOLLOVÁ",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "MUDr."
+  },
+  {
+    "id": "psk-milan-jambor",
+    "slug": "milan-jambor",
+    "displayName": "Milan JAMBOR",
+    "givenName": "Milan",
+    "familyName": "JAMBOR",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-gabriel-jamnicky",
+    "slug": "gabriel-jamnicky",
+    "displayName": "Gabriel JAMNICKÝ, PaedDr.",
+    "givenName": "Gabriel",
+    "familyName": "JAMNICKÝ",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "PaedDr."
+  },
+  {
+    "id": "psk-jozef-janiga",
+    "slug": "jozef-janiga",
+    "displayName": "Jozef JANIGA, Ing., MBA",
+    "givenName": "Jozef",
+    "familyName": "JANIGA",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing., MBA"
+  },
+  {
+    "id": "psk-martin-lajos",
+    "slug": "martin-lajos",
+    "displayName": "Martin LAJOŠ, MUDr.",
+    "givenName": "Martin",
+    "familyName": "LAJOŠ",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "MUDr."
+  },
+  {
+    "id": "psk-martin-lavko",
+    "slug": "martin-lavko",
+    "displayName": "Martin LAVKO, Ing.",
+    "givenName": "Martin",
+    "familyName": "LAVKO",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-adrian-lopata",
+    "slug": "adrian-lopata",
+    "displayName": "Adrián LOPATA",
+    "givenName": "Adrián",
+    "familyName": "LOPATA",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-darina-luscikova",
+    "slug": "darina-luscikova",
+    "displayName": "Darina LUŠČÍKOVÁ, Ing., PhD.",
+    "givenName": "Darina",
+    "familyName": "LUŠČÍKOVÁ",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing., PhD."
+  },
+  {
+    "id": "psk-katarina-maj-vrabelova",
+    "slug": "katarina-maj-vrabelova",
+    "displayName": "Katarína MAJ VRÁBELOVÁ, Ing.",
+    "givenName": "Katarína",
+    "familyName": "MAJ VRÁBELOVÁ",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-michal-materny",
+    "slug": "michal-materny",
+    "displayName": "Michal MATERNÝ, Mgr.",
+    "givenName": "Michal",
+    "familyName": "MATERNÝ",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-miroslav-michalak",
+    "slug": "miroslav-michalak",
+    "displayName": "Miroslav MICHAĽÁK",
+    "givenName": "Miroslav",
+    "familyName": "MICHAĽÁK",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-jan-mokos",
+    "slug": "jan-mokos",
+    "displayName": "Ján MOKOŠ, Ing.",
+    "givenName": "Ján",
+    "familyName": "MOKOŠ",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-lucia-nemesova",
+    "slug": "lucia-nemesova",
+    "displayName": "Lucia NEMEŠOVÁ",
+    "givenName": "Lucia",
+    "familyName": "NEMEŠOVÁ",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-peter-pompa",
+    "slug": "peter-pompa",
+    "displayName": "Peter POMPA, JUDr.",
+    "givenName": "Peter",
+    "familyName": "POMPA",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-dalibor-stromcek",
+    "slug": "dalibor-stromcek",
+    "displayName": "Dalibor STROMČEK, Ing.",
+    "givenName": "Dalibor",
+    "familyName": "STROMČEK",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-jozef-stefanak",
+    "slug": "jozef-stefanak",
+    "displayName": "Jozef ŠTEFAŇÁK, Bc.",
+    "givenName": "Jozef",
+    "familyName": "ŠTEFAŇÁK",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-ivana-svagrovska",
+    "slug": "ivana-svagrovska",
+    "displayName": "Ivana ŠVAGROVSKÁ, MUDr.",
+    "givenName": "Ivana",
+    "familyName": "ŠVAGROVSKÁ",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ],
+    "titlesAfter": "MUDr."
+  },
+  {
+    "id": "psk-jaroslav-vajda",
+    "slug": "jaroslav-vajda",
+    "displayName": "Jaroslav VAJDA",
+    "givenName": "Jaroslav",
+    "familyName": "VAJDA",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-stefan-vartovnik",
+    "slug": "stefan-vartovnik",
+    "displayName": "Štefan VARTOVNÍK",
+    "givenName": "Štefan",
+    "familyName": "VARTOVNÍK",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-ivan-zaborsky",
+    "slug": "ivan-zaborsky",
+    "displayName": "Ivan ZÁBORSKÝ",
+    "givenName": "Ivan",
+    "familyName": "ZÁBORSKÝ",
+    "sourceIds": [
+      "psk-6-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-jozef-babincak",
+    "slug": "jozef-babincak",
+    "displayName": "Jozef BABINČÁK, Mgr.",
+    "givenName": "Jozef",
+    "familyName": "BABINČÁK",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-jozef-baca",
+    "slug": "jozef-baca",
+    "displayName": "Jozef BAČA, Bc.",
+    "givenName": "Jozef",
+    "familyName": "BAČA",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-kamila-balazova",
+    "slug": "kamila-balazova",
+    "displayName": "Kamila BALÁŽOVÁ, Mgr.",
+    "givenName": "Kamila",
+    "familyName": "BALÁŽOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-jiri-ballarin",
+    "slug": "jiri-ballarin",
+    "displayName": "Jiří BALLARIN, Ing.",
+    "givenName": "Jiří",
+    "familyName": "BALLARIN",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-marian-belusko",
+    "slug": "marian-belusko",
+    "displayName": "Marián BELUŠKO, Mgr.",
+    "givenName": "Marián",
+    "familyName": "BELUŠKO",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-peter-cvengros",
+    "slug": "peter-cvengros",
+    "displayName": "Peter CVENGROŠ, MUDr., MPH, MHA",
+    "givenName": "Peter",
+    "familyName": "CVENGROŠ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "MUDr., MPH, MHA"
+  },
+  {
+    "id": "psk-vladimir-cech",
+    "slug": "vladimir-cech",
+    "displayName": "Vladimír ČECH, Mgr.",
+    "givenName": "Vladimír",
+    "familyName": "ČECH",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-lubomir-cervenak",
+    "slug": "lubomir-cervenak",
+    "displayName": "Ľubomír ČERVEŇÁK, Ing.",
+    "givenName": "Ľubomír",
+    "familyName": "ČERVEŇÁK",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-ingrid-dolezalova",
+    "slug": "ingrid-dolezalova",
+    "displayName": "Ingrid DOLEŽALOVÁ, PhDr.",
+    "givenName": "Ingrid",
+    "familyName": "DOLEŽALOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "id": "psk-richard-elias",
+    "slug": "richard-elias",
+    "displayName": "Richard ELIÁŠ, JUDr.",
+    "givenName": "Richard",
+    "familyName": "ELIÁŠ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-margita-fabianova",
+    "slug": "margita-fabianova",
+    "displayName": "Margita FABIÁNOVÁ",
+    "givenName": "Margita",
+    "familyName": "FABIÁNOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-martin-fecko",
+    "slug": "martin-fecko",
+    "displayName": "Martin FECKO, Ing.",
+    "givenName": "Martin",
+    "familyName": "FECKO",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-jaroslav-fogas",
+    "slug": "jaroslav-fogas",
+    "displayName": "Jaroslav FOGAŠ",
+    "givenName": "Jaroslav",
+    "familyName": "FOGAŠ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-martin-gmitro",
+    "slug": "martin-gmitro",
+    "displayName": "Martin GMITRO, JUDr.",
+    "givenName": "Martin",
+    "familyName": "GMITRO",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-katarina-golodzejova",
+    "slug": "katarina-golodzejova",
+    "displayName": "Katarína GOLODŽEJOVÁ, Mgr.",
+    "givenName": "Katarína",
+    "familyName": "GOLODŽEJOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-ingrida-gorcovska",
+    "slug": "ingrida-gorcovska",
+    "displayName": "Ingrida GORCOVSKÁ, Mgr.",
+    "givenName": "Ingrida",
+    "familyName": "GORCOVSKÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-maria-halatova",
+    "slug": "maria-halatova",
+    "displayName": "Mária HALÁTOVÁ, Ing.",
+    "givenName": "Mária",
+    "familyName": "HALÁTOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-tomas-halicky",
+    "slug": "tomas-halicky",
+    "displayName": "Tomáš HALICKÝ",
+    "givenName": "Tomáš",
+    "familyName": "HALICKÝ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-eva-harsaghy",
+    "slug": "eva-harsaghy",
+    "displayName": "Eva HARSÁGHY, Ing.",
+    "givenName": "Eva",
+    "familyName": "HARSÁGHY",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-anton-hrabko",
+    "slug": "anton-hrabko",
+    "displayName": "Anton HRABKO",
+    "givenName": "Anton",
+    "familyName": "HRABKO",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-miroslav-hvizdos",
+    "slug": "miroslav-hvizdos",
+    "displayName": "Miroslav HVIZDOŠ",
+    "givenName": "Miroslav",
+    "familyName": "HVIZDOŠ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-richard-janos",
+    "slug": "richard-janos",
+    "displayName": "Richard JÁNOŠ, Bc. Ing.",
+    "givenName": "Richard",
+    "familyName": "JÁNOŠ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Bc. Ing."
+  },
+  {
+    "id": "psk-viliam-kall",
+    "slug": "viliam-kall",
+    "displayName": "Viliam KALL, JUDr.",
+    "givenName": "Viliam",
+    "familyName": "KALL",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "JUDr."
+  },
+  {
+    "id": "psk-jan-katica",
+    "slug": "jan-katica",
+    "displayName": "Ján KATICA",
+    "givenName": "Ján",
+    "familyName": "KATICA",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-emil-kicura",
+    "slug": "emil-kicura",
+    "displayName": "Emil KIČURA, Ing.",
+    "givenName": "Emil",
+    "familyName": "KIČURA",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-pavol-kleban",
+    "slug": "pavol-kleban",
+    "displayName": "Pavol KLEBAN, Ing.",
+    "givenName": "Pavol",
+    "familyName": "KLEBAN",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-radovan-kmec",
+    "slug": "radovan-kmec",
+    "displayName": "Radovan KMEC",
+    "givenName": "Radovan",
+    "familyName": "KMEC",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-igor-kocisko",
+    "slug": "igor-kocisko",
+    "displayName": "Igor KOČIŠKO, Ing.",
+    "givenName": "Igor",
+    "familyName": "KOČIŠKO",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-peter-kohut",
+    "slug": "peter-kohut",
+    "displayName": "Peter KOHÚT, Ing., CSc.",
+    "givenName": "Peter",
+    "familyName": "KOHÚT",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing., CSc."
+  },
+  {
+    "id": "psk-martin-kozelka",
+    "slug": "martin-kozelka",
+    "displayName": "Martin KOZELKA",
+    "givenName": "Martin",
+    "familyName": "KOZELKA",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-marek-laba",
+    "slug": "marek-laba",
+    "displayName": "Marek LABA, Ing.",
+    "givenName": "Marek",
+    "familyName": "LABA",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-viera-lescakova",
+    "slug": "viera-lescakova",
+    "displayName": "Viera LEŠČÁKOVÁ, PaedDr.",
+    "givenName": "Viera",
+    "familyName": "LEŠČÁKOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PaedDr."
+  },
+  {
+    "id": "psk-lubomir-lesko",
+    "slug": "lubomir-lesko",
+    "displayName": "Ľubomír LEŠKO, Ing. Mgr.",
+    "givenName": "Ľubomír",
+    "familyName": "LEŠKO",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing. Mgr."
+  },
+  {
+    "id": "psk-jozef-lukac-52",
+    "slug": "jozef-lukac-52",
+    "displayName": "Jozef LUKÁČ, PhDr.",
+    "givenName": "Jozef",
+    "familyName": "LUKÁČ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PhDr."
+  },
+  {
+    "id": "psk-jozef-lukac-35",
+    "slug": "jozef-lukac-35",
+    "displayName": "Jozef LUKÁČ, doc. Ing., PhD.",
+    "givenName": "Jozef",
+    "familyName": "LUKÁČ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "doc. Ing., PhD."
+  },
+  {
+    "id": "psk-vladimir-luteran",
+    "slug": "vladimir-luteran",
+    "displayName": "Vladimír LUTERÁN, Ing.",
+    "givenName": "Vladimír",
+    "familyName": "LUTERÁN",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-vladimir-magac",
+    "slug": "vladimir-magac",
+    "displayName": "Vladimír MAGAČ",
+    "givenName": "Vladimír",
+    "familyName": "MAGAČ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-olga-makarova",
+    "slug": "olga-makarova",
+    "displayName": "Oľga MAKAROVÁ, Ing.",
+    "givenName": "Oľga",
+    "familyName": "MAKAROVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-filip-malat",
+    "slug": "filip-malat",
+    "displayName": "Filip MALÁT, Ing.",
+    "givenName": "Filip",
+    "familyName": "MALÁT",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-stanislav-mathia",
+    "slug": "stanislav-mathia",
+    "displayName": "Stanislav MATHIA, Mgr.",
+    "givenName": "Stanislav",
+    "familyName": "MATHIA",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-maria-miklusova",
+    "slug": "maria-miklusova",
+    "displayName": "Mária MIKLUŠOVÁ",
+    "givenName": "Mária",
+    "familyName": "MIKLUŠOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-ondrej-mizenko",
+    "slug": "ondrej-mizenko",
+    "displayName": "Ondrej MIŽENKO",
+    "givenName": "Ondrej",
+    "familyName": "MIŽENKO",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-darina-nakatova",
+    "slug": "darina-nakatova",
+    "displayName": "Darina ŇAKATOVÁ, PhDr., PhD.",
+    "givenName": "Darina",
+    "familyName": "ŇAKATOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PhDr., PhD."
+  },
+  {
+    "id": "psk-peter-olah",
+    "slug": "peter-olah",
+    "displayName": "Peter OLÁH, B.A., Dr.h.c.",
+    "givenName": "Peter",
+    "familyName": "OLÁH",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "B.A., Dr.h.c."
+  },
+  {
+    "id": "psk-jozef-olajos",
+    "slug": "jozef-olajos",
+    "displayName": "Jozef OLAJOŠ, Ing.",
+    "givenName": "Jozef",
+    "familyName": "OLAJOŠ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-eva-opinova",
+    "slug": "eva-opinova",
+    "displayName": "Eva OPINOVÁ",
+    "givenName": "Eva",
+    "familyName": "OPINOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-gabriel-pala",
+    "slug": "gabriel-pala",
+    "displayName": "Gabriel PAĽA, prof. ThDr. PaedDr. Ing., PhD.",
+    "givenName": "Gabriel",
+    "familyName": "PAĽA",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "prof. ThDr. PaedDr. Ing., PhD."
+  },
+  {
+    "id": "psk-jan-pavuk-69",
+    "slug": "jan-pavuk-69",
+    "displayName": "Ján PAVUK, Ing.",
+    "givenName": "Ján",
+    "familyName": "PAVUK",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-jan-pavuk-59",
+    "slug": "jan-pavuk-59",
+    "displayName": "Ján PAVUK",
+    "givenName": "Ján",
+    "familyName": "PAVUK",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-ludovit-petik",
+    "slug": "ludovit-petik",
+    "displayName": "Ľudovít PETIK",
+    "givenName": "Ľudovít",
+    "familyName": "PETIK",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-peter-pribula",
+    "slug": "peter-pribula",
+    "displayName": "Peter PRIBULA, Bc.",
+    "givenName": "Peter",
+    "familyName": "PRIBULA",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Bc."
+  },
+  {
+    "id": "psk-nicole-rubisova",
+    "slug": "nicole-rubisova",
+    "displayName": "Nicole RUBISOVÁ, Mgr.",
+    "givenName": "Nicole",
+    "familyName": "RUBISOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-edita-sedlakova",
+    "slug": "edita-sedlakova",
+    "displayName": "Edita SEDLÁKOVÁ",
+    "givenName": "Edita",
+    "familyName": "SEDLÁKOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-stanislav-stach",
+    "slug": "stanislav-stach",
+    "displayName": "Stanislav STACH, Ing.",
+    "givenName": "Stanislav",
+    "familyName": "STACH",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-stanislav-sestak",
+    "slug": "stanislav-sestak",
+    "displayName": "Stanislav ŠESTÁK",
+    "givenName": "Stanislav",
+    "familyName": "ŠESTÁK",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-jozef-soltis",
+    "slug": "jozef-soltis",
+    "displayName": "Jozef ŠOLTIS, Ing.",
+    "givenName": "Jozef",
+    "familyName": "ŠOLTIS",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-stanislav-svaby",
+    "slug": "stanislav-svaby",
+    "displayName": "Stanislav ŠVÁBY",
+    "givenName": "Stanislav",
+    "familyName": "ŠVÁBY",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-pavol-timko",
+    "slug": "pavol-timko",
+    "displayName": "Pavol TIMKO",
+    "givenName": "Pavol",
+    "familyName": "TIMKO",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-robert-tkac",
+    "slug": "robert-tkac",
+    "displayName": "Róbert TKÁČ",
+    "givenName": "Róbert",
+    "familyName": "TKÁČ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-lubomir-todor",
+    "slug": "lubomir-todor",
+    "displayName": "Ľubomír TOĎOR, Ing. Bc.",
+    "givenName": "Ľubomír",
+    "familyName": "TOĎOR",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing. Bc."
+  },
+  {
+    "id": "psk-andrea-turcanova",
+    "slug": "andrea-turcanova",
+    "displayName": "Andrea TURČANOVÁ, Ing.",
+    "givenName": "Andrea",
+    "familyName": "TURČANOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-tomas-tutoky",
+    "slug": "tomas-tutoky",
+    "displayName": "Tomáš TUTOKY, Ing.",
+    "givenName": "Tomáš",
+    "familyName": "TUTOKY",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "psk-richard-varga",
+    "slug": "richard-varga",
+    "displayName": "Richard VARGA",
+    "givenName": "Richard",
+    "familyName": "VARGA",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-gabriela-viazankova",
+    "slug": "gabriela-viazankova",
+    "displayName": "Gabriela VIAZANKOVÁ, Mgr.",
+    "givenName": "Gabriela",
+    "familyName": "VIAZANKOVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-peter-visnovsky",
+    "slug": "peter-visnovsky",
+    "displayName": "Peter VIŠŇOVSKÝ, Mgr.",
+    "givenName": "Peter",
+    "familyName": "VIŠŇOVSKÝ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "psk-stanislav-volansky",
+    "slug": "stanislav-volansky",
+    "displayName": "Stanislav VOLANSKÝ",
+    "givenName": "Stanislav",
+    "familyName": "VOLANSKÝ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  },
+  {
+    "id": "psk-eva-weberova",
+    "slug": "eva-weberova",
+    "displayName": "Eva WEBEROVÁ, PhDr., MBA",
+    "givenName": "Eva",
+    "familyName": "WEBEROVÁ",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ],
+    "titlesAfter": "PhDr., MBA"
+  },
+  {
+    "id": "psk-marian-zelenak",
+    "slug": "marian-zelenak",
+    "displayName": "Marián ZELEŇÁK",
+    "givenName": "Marián",
+    "familyName": "ZELEŇÁK",
+    "sourceIds": [
+      "psk-7-roster-2026"
+    ]
+  }
+]

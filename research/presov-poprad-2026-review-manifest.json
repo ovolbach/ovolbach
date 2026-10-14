@@ -1,0 +1,2246 @@
+{
+  "snapshotDate": "2026-10-14",
+  "method": "Independent read-only automated domain reviews and final patch review; not a human editorial or legal opinion. Raw private identity values are not published.",
+  "independentReviewers": 6,
+  "journalReviewArtifacts": [
+    {
+      "scope": "poprad-evidence-review",
+      "artifactSha256": "2df6a463a2b392426f4f02137911fc26adb1681fff97adcc492dc08f327b0f76",
+      "categoryBoundsSha256": "d26cf3d84101e333bfea873ad2b53f62a12372205cf3af46b14127c2dfab86a1",
+      "sourceCount": 217,
+      "proposedClaimCount": 195,
+      "categoryRecordCount": 824,
+      "statusCounts": {
+        "reviewed_positive": 319,
+        "reviewed_bounded_negative": 505
+      },
+      "method": "Independent automated read-only original-source review; not a human editorial or legal opinion."
+    },
+    {
+      "scope": "presov-evidence-review",
+      "artifactSha256": "9175cb42581b27902df5739c0abb79311d00e0ddddfa264e1c85aaa16a011cc4",
+      "categoryBoundsSha256": "812fb91ad43b71046dfec8363a864809381e9f775ccfc30ad2a7b4a72b048c48",
+      "sourceCount": 322,
+      "proposedClaimCount": 382,
+      "categoryRecordCount": 1648,
+      "statusCounts": {
+        "found": 599,
+        "bounded_no_sufficient_evidence": 1049
+      },
+      "method": "Independent automated read-only original-source review; not a human editorial or legal opinion."
+    },
+    {
+      "scope": "psk-evidence-review",
+      "artifactSha256": "22757ed00333e69024a4720c555be5418f8669862ef1ee6a828eb7d39b0753b7",
+      "categoryBoundsSha256": "4d91eb740851d9a002ad371b354da63b1cd743b5b1ed195eb603c118802eedb8",
+      "sourceCount": 74,
+      "proposedClaimCount": 65,
+      "categoryRecordCount": 88,
+      "statusCounts": {
+        "found": 64,
+        "searched_none": 24
+      },
+      "method": "Independent automated read-only original-source review; not a human editorial or legal opinion."
+    },
+    {
+      "scope": "presov-employment-office-review",
+      "artifact": "adjudications.json",
+      "artifactSha256": "ecd43ef55cb87c13dcc2f10bcad8c2b4bd3e1e32c20ab59007845193fedbb5c6",
+      "summary": {
+        "recordCount": 278,
+        "candidateCount": 155,
+        "statusCounts": {
+          "found": 135,
+          "searched_none": 143
+        },
+        "categoryStatusCounts": {
+          "employment_business": {
+            "found": 70,
+            "searched_none": 66
+          },
+          "public_office": {
+            "found": 65,
+            "searched_none": 77
+          }
+        },
+        "inputHeldLeadReferenceCount": 1347,
+        "uniqueHeldKeyCount": 730,
+        "uniqueCanonicalGroupCount": 679,
+        "newAtomicProposalCount": 47,
+        "newSourceCount": 40,
+        "remainingUnresolvedCount": 0
+      },
+      "method": "Independent read-only domain adjudication of original sources and identity bridges; incorporated by the final publication reviewer."
+    },
+    {
+      "scope": "presov-history-assets-review",
+      "artifact": "adjudications.json",
+      "artifactSha256": "cabdf32754a0e46c32067bb67a934b94a549931bff367d3a87449287e7817e1b",
+      "summary": {
+        "inputRecordCount": 101,
+        "recordCount": 101,
+        "uniqueHeldOriginalKeys": 94,
+        "statusCounts": {
+          "found": 79,
+          "searched_none": 22
+        },
+        "statusByCategory": {
+          "previous_elections": {
+            "found": 59,
+            "searched_none": 6
+          },
+          "asset_declarations": {
+            "found": 15,
+            "searched_none": 1
+          },
+          "controversies": {
+            "searched_none": 15,
+            "found": 5
+          }
+        },
+        "newAtomicProposalCount": 30,
+        "newSourceProposalCount": 11,
+        "remainingUnresolvedRecordCount": 0,
+        "externalCorrectedProposalReferences": 1,
+        "integrationRequired": true
+      },
+      "method": "Independent read-only domain adjudication of original sources and identity bridges; incorporated by the final publication reviewer."
+    },
+    {
+      "scope": "presov-history-assets-review",
+      "artifact": "poprad-index-publication-proposals.json",
+      "artifactSha256": "573cbea54659d5be48e763df7db46d1b2e869322c98be594eae7aa7b3113f565",
+      "summary": {
+        "recordCount": 16,
+        "found": 16,
+        "searched_none": 0,
+        "newAtomicProposalCount": 16,
+        "newSourceProposalCount": 1,
+        "remainingUnresolvedRecordCount": 0
+      },
+      "method": "Independent read-only domain adjudication of original sources and identity bridges; incorporated by the final publication reviewer."
+    }
+  ],
+  "popradFinalPublicationReview": {
+    "checkedAt": "2026-10-14",
+    "scope": "Exactly56 additionalpublication proposals:20programme,20media,16Popradindexpublication; no broader research or publicwrites.",
+    "status": "56/56 source-safe proposals matchactualpublic snapshot afterthreeaccepted corrections",
+    "inputDigests": {
+      ".internal/presov-poprad-2026/root-publication-claims.json": "8ba0ab521d61a0444d5e467ddae40cce28f713077012680be20ba8328df17743",
+      ".internal/presov-history-assets-review/poprad-index-publication-proposals.json": "573cbea54659d5be48e763df7db46d1b2e869322c98be594eae7aa7b3113f565",
+      "src/data/elections/2026/presovsky-kraj/claims.json": "3c250ca1e3f5eaedfa62e06b866a619ac571d9bf81e5c06220f342db9bbdcdd0",
+      "src/data/sources.json": "4d02f43c6613def375a1bbb2185517789810dd6e44640c1678c4d13eca05c270",
+      "src/data/elections/2026/presovsky-kraj/campaign-finance.json": "e72fa6591071bf37997f5f2ff0bdf70d572b1f5da07fff041668cbb2e6981248"
+    },
+    "counts": {
+      "proposals": 56,
+      "actualPublicMatches": 56,
+      "programme": 20,
+      "media": 20,
+      "assetIndexPublication": 16,
+      "uniqueReferencedSources": 31,
+      "resolvedCorrections": 3,
+      "remainingActionableCorrections": 0
+    },
+    "resolvedCorrections": [
+      {
+        "claimId": "claim-psk-arne-krotak-media-original-report",
+        "acceptedPublicText": "SITA 8. marca 2018 informovala o rozhodnutí Arneho Krotáka nepokračovať v aktívnej hráčskej kariére."
+      },
+      {
+        "claimId": "claim-psk-frantisek-majersky-media-original-report",
+        "acceptedPublicText": "Martina Biróova v SITA 19. augusta 2026 informovala o vyhlásení Františka Majerského, že nebude kandidovať na primátora Popradu."
+      },
+      {
+        "claimId": "claim-psk-zuzana-tobisova-programme-original-statement",
+        "acceptedPublicText": "Zuzana Tobisová na stránke S Dankom uvádza, že Anton Danko ako primátor Popradu pre ňu predstavuje istotu a stabilitu."
+      }
+    ],
+    "records": [
+      {
+        "claimId": "claim-psk-simona-brtanova-programme-original-statement",
+        "candidateId": "psk-simona-brtanova",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-f34a00b78a32f55b"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "ef24d4a247e00fb6145e2143937e0530db186c214bd7b43e0ae22d711975cf2d",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-gabriela-budzakova-programme-original-statement",
+        "candidateId": "psk-gabriela-budzakova",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-97ba98b438bd16c5"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "3c03ca1e340978a0c1b33f7ba64ac4185089e38359f5463517480781799404c6",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-radoslav-ivan-programme-original-statement",
+        "candidateId": "psk-radoslav-ivan",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-1b548258c172e6b5"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "31b22d9d02964186612e7e3764222d2b2dff79015b1b43223b75b6c5140ef824",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-ondrej-kavka-programme-original-statement",
+        "candidateId": "psk-ondrej-kavka",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-60b70dee04721154"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "9ecf0fb73713cf28e3aea9401f1a87724d76cb0f90b5bc99662b977d00e985bd",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-frantisek-majersky-programme-original-statement",
+        "candidateId": "psk-frantisek-majersky",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-76f1673a8d97adeb",
+          "poprad-review-primary-03"
+        ],
+        "period": "program pre komunálne voľby 2026",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "19dff3741aad2111aff152bb2d8d5098cd486c127a9d7b86c67845011906d714",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-rastislav-ovsonka-programme-original-statement",
+        "candidateId": "psk-rastislav-ovsonka",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-00e7f7171e9fe674",
+          "poprad-review-76f1673a8d97adeb",
+          "poprad-review-primary-03"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "02739555266fcac0f6b144c9dcaa706eea8dd2ab6f9bcede818dee29e391d9db",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-marcel-polomsky-programme-original-statement",
+        "candidateId": "psk-marcel-polomsky",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-76f1673a8d97adeb",
+          "poprad-review-primary-03"
+        ],
+        "period": "program pre komunálne voľby 2026",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "25a54438f61a1c34abd22225b24367e9708ccb924f2004408685e3478ee520f6",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-alexandra-sidor-programme-original-statement",
+        "candidateId": "psk-alexandra-sidor",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-5290f7c563f66eeb"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "3b051c02fc1981d035c8b21e03b54a7485027e6fb7f4510c3e8a458d8e814725",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-zuzana-tobisova-programme-original-statement",
+        "candidateId": "psk-zuzana-tobisova",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-b287cbb2233236c0"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "397567689f822b671e9f63c2240f0b0e0c07450e22f265a687af68cb9f092fa0",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-michal-baran-programme-original-statement",
+        "candidateId": "psk-michal-baran",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-07b17658301df9c2"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "f950429325e388411698f1e60d0d69c2fe6e96d02eeca2e313277096e9eca9a6",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-blazena-budzakova-programme-original-statement",
+        "candidateId": "psk-blazena-budzakova",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-b7ebc81fd584271e"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "f6a8d915d131cd0f830c236159fac8b198ce1a4970899a464e735dd47671700d",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-petra-comisso-programme-original-statement",
+        "candidateId": "psk-petra-comisso",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-b502439ee06fad09"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "26c5c087f0359188bae0b278e1d39faafceff66501280ca2452bf47bea5ca5a6",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-gabriela-cubova-programme-original-statement",
+        "candidateId": "psk-gabriela-cubova",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-fb9fc48640bb412c"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "1446da4148568fa3e17e72d122036e31c9bf72e695b057033caab4aa6cfacee5",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-pavol-garaj-programme-original-statement",
+        "candidateId": "psk-pavol-garaj",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-a89a3ee177f7ffc9"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "615b99a348ce8aa664f6aea5774b1574c6134c61614239a56a49bbac1dfb60ec",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-slavomir-kysela-programme-original-statement",
+        "candidateId": "psk-slavomir-kysela",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-76f1673a8d97adeb",
+          "poprad-review-primary-03"
+        ],
+        "period": "program pre komunálne voľby 2026",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "9034ced935fbda457b80b7479182f05b9ab08b6fbefb91b49cf0dc5d6bf69c5c",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-peter-leco-programme-original-statement",
+        "candidateId": "psk-peter-leco",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-76f1673a8d97adeb",
+          "poprad-review-primary-03"
+        ],
+        "period": "program pre komunálne voľby 2026",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "b1f7e1271415a7776d1a06db79d2924087b74ea0911f645917b188a2435cd3e3",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-erika-nazarejova-programme-original-statement",
+        "candidateId": "psk-erika-nazarejova",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-76f1673a8d97adeb",
+          "poprad-review-primary-03"
+        ],
+        "period": "program pre komunálne voľby 2026",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "da2e38a83a61ec793eb5f982d0d0bd035545c82de94c789cd71090f0f3146136",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-stefan-pcola-programme-original-statement",
+        "candidateId": "psk-stefan-pcola",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-dbb6beedd22cac45"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "239e6f11c605d7c3bdde7b997c321bc4f5dd9c356985cb4cf962cdfb91678357",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-monika-polanova-programme-original-statement",
+        "candidateId": "psk-monika-polanova",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-76f1673a8d97adeb",
+          "poprad-review-primary-03"
+        ],
+        "period": "program pre komunálne voľby 2026",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "7e7fd2f33c3fd943b266d4109b0404336eca81a97ffd91e346115c6e21b6d5bd",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-rastislav-zacher-programme-original-statement",
+        "candidateId": "psk-rastislav-zacher",
+        "category": "programme_statements",
+        "sourceIds": [
+          "poprad-review-65e69165a0315a5c"
+        ],
+        "period": "web overený 14.10.2026; dátum zverejnenia neuvedený",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "9172999ee730b92ba4dcc5d2e8851307019dfe7a6e128fce89e6fa2ba097f71f",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-mikulas-bobak-media-original-report",
+        "candidateId": "psk-mikulas-bobak",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-primary-39"
+        ],
+        "period": "2026-09-10",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "cf2431f6dafc8b01466de8bb71c676268611ecfa9d01942a4b3e6da332656135",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-anton-danko-media-original-report",
+        "candidateId": "psk-anton-danko",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-primary-39"
+        ],
+        "period": "2026-09-10",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "ff61b52e1fa3a37e08231a8194c2c4b9d9ec43a803db5aa9f2e3753f529d4650",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-patrik-frantiska-media-original-report",
+        "candidateId": "psk-patrik-frantiska",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-primary-39"
+        ],
+        "period": "2026-09-10",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "dc0f1923cb284c85024a2d5c233ea0b6e03f021b3dbee9fa83df43a460062bf7",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-jozef-kralik-media-original-report",
+        "candidateId": "psk-jozef-kralik",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-primary-39"
+        ],
+        "period": "2026-09-10",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "4d0c2e92fe0932d59dace5f4038e1203c1691ce6c9f609b23d0737b5793a90f9",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-roderik-ledecky-media-original-report",
+        "candidateId": "psk-roderik-ledecky",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-primary-39"
+        ],
+        "period": "2026-09-10",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "77d4114ede9084681403134cc5b644fc01962753ef6b3965a7f2c2c358149d44",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-tatiana-husarova-media-original-report",
+        "candidateId": "psk-tatiana-husarova",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-805e83945d94c83e"
+        ],
+        "period": "2025-10-29",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "4f229e686f33bb946ef079c1cc19d4fea3945b66b47a5987bbf9367a3f239802",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-michal-baran-media-original-report",
+        "candidateId": "psk-michal-baran",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-805e83945d94c83e"
+        ],
+        "period": "2025-10-29",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "8a7fdce3f4802e26d111e936dc48693fe3f4ccf2d37aa8c42feda90a6742e161",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-stefan-pcola-media-original-report",
+        "candidateId": "psk-stefan-pcola",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-805e83945d94c83e"
+        ],
+        "period": "2025-10-29",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "6dc344e927f342fd161ae07fedb7ac4fa964b529873c8b164649ffbf493b6f01",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-frantisek-majersky-media-original-report",
+        "candidateId": "psk-frantisek-majersky",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-a1a5d05ef2008d45"
+        ],
+        "period": "2026-08-19",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "0ba2df5b15aaac3b3481d6a95116be3f9eef92b57fa194a843d9d671f24bcdda",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-rastislav-ovsonka-media-original-report",
+        "candidateId": "psk-rastislav-ovsonka",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-68b17cf02eaced48"
+        ],
+        "period": "2018-09-07",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "6f9d94e7437c3031fed291493cbb142c4b7132faf8373d390c0bd2bc6ab8a4b6",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-marian-saraka-media-original-report",
+        "candidateId": "psk-marian-saraka",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-99d7fb07c7be42f4"
+        ],
+        "period": "2022-10-18",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "6a900e03eff043f14de8248ee9d57579de462e12230ebf5ae05d71557547c42e",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-arne-krotak-media-original-report",
+        "candidateId": "psk-arne-krotak",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-f7af515cb9894633"
+        ],
+        "period": "2018-03-08",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "7d91407f5dbfc03082628f26671a0e5e8c877ec5b54ffbcb19ffc74917caeda8",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-jan-pitonak-media-original-report",
+        "candidateId": "psk-jan-pitonak",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-5116cbca47d85934"
+        ],
+        "period": "2026-07-02",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "e7a13530c0c2cafc539dc6a381c7d25bd0f654c63d59b87c4ccf1c1a55d5c2ce",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-drahomir-cureja-media-original-report",
+        "candidateId": "psk-drahomir-cureja",
+        "category": "media",
+        "sourceIds": [
+          "chair-roundup-aktuality"
+        ],
+        "period": "2026-10-02",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "7f37ed8528a8f749a9e6b084244d163ec8f4eb5ee43ed0d3a85fbd1c9c5744aa",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-marian-geci-media-original-report",
+        "candidateId": "psk-marian-geci",
+        "category": "media",
+        "sourceIds": [
+          "geci-statement-tasr"
+        ],
+        "period": "2026-04-13",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "e507896729f02148ea18f622f3d72e139f95bacf0d10868da869a22590600d02",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-lubomir-golias-media-original-report",
+        "candidateId": "psk-lubomir-golias",
+        "category": "media",
+        "sourceIds": [
+          "chair-questionnaire-kosice"
+        ],
+        "period": "2026-09-29",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "26e48e9e3d829bc8f5665238381b4411d472a63442d77e7d8b8618e7dfc4b4e4",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-jozef-istok-media-original-report",
+        "candidateId": "psk-jozef-istok",
+        "category": "media",
+        "sourceIds": [
+          "chair-questionnaire-kosice"
+        ],
+        "period": "2026-09-29",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "e31636d2907aa8d18192d63e30e3faa997b6354c7731b8071cc4280eef4b4d8f",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-samuel-migal-media-original-report",
+        "candidateId": "psk-samuel-migal",
+        "category": "media",
+        "sourceIds": [
+          "chair-questionnaire-kosice"
+        ],
+        "period": "2026-09-29",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "585056f460ec12cc453861d723a5bc843952b761f59f09d532ae2c0c2b198618",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-milan-jambor-media-original-report",
+        "candidateId": "psk-milan-jambor",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-40c277a98733977e"
+        ],
+        "period": "2025-06-27",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "204aceed4b84adc4e423783f94870f207923e646b2b691eb388860e64427fdbd",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-psk-ivana-svagrovska-media-original-report",
+        "candidateId": "psk-ivana-svagrovska",
+        "category": "media",
+        "sourceIds": [
+          "poprad-review-40c277a98733977e"
+        ],
+        "period": "2025-06-27",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "0558cf5c3c31c6e8d0c8ad9b507f1c0d7577c2930c77622e69a36a5c0f7244b9",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-martin-baloga-publication-2023",
+        "candidateId": "psk-martin-baloga",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "741569ef29fdb156ef9351f8ebdc556ee6a2ecfc8ef0e579378b10724fe66d66",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-tatiana-husarova-publication-2023",
+        "candidateId": "psk-tatiana-husarova",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "65f77bc333ed2d7899f4c04ff595603b4099f5711e4ddd404626bbcd5cdb21fe",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-ondrej-kavka-publication-2023",
+        "candidateId": "psk-ondrej-kavka",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "539588b68d8c6b76d3035322550acd3492bfac8d8c2a4d0a1eb55cb4667dd9f2",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-anna-ondrusekova-publication-2023",
+        "candidateId": "psk-anna-ondrusekova",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "1053bdc8466c0445abed17a19e9a65bf0b2afc5d56f3ef8829da6185f4ca4bd4",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-marian-saraka-publication-2022",
+        "candidateId": "psk-marian-saraka",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "statistics-municipal-2018-tables",
+          "poprad-history-assets-sita-candidates-2018"
+        ],
+        "period": "2022; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "65d564f2a5f390224f841256b70d77aa03c90b96327c88bc448bb83ee56c0bd0",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-jozef-svagerko-publication-2023",
+        "candidateId": "psk-jozef-svagerko",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "74daf6cf7e22648470ace5a460618a4524cb8034e8fef4588c2f158e50ae0d1c",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-michal-baran-publication-2023",
+        "candidateId": "psk-michal-baran",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "7319fd2caa1d21c57b2996f09b20bf8bbedcf4a28b91b8bf389a195546ef238f",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-marian-barilla-publication-2023",
+        "candidateId": "psk-marian-barilla",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "a9a429b54eeb1f3f6912dcc1729d31d9f001f736495aa379b004214de59173f9",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-slavomir-bozon-publication-2023",
+        "candidateId": "psk-slavomir-bozon",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "c29f39086152e0347ab8ec7657cffab5d9c293385ad592ed27209e233a02ace9",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-peter-brenisin-publication-2023",
+        "candidateId": "psk-peter-brenisin",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "356a8d9e03baac7fb7420070c5f5384bf0164b5c189bd3065ee861242e820bd5",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-patricia-bujnakova-publication-2023",
+        "candidateId": "psk-patricia-bujnakova",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "ee5232c0aacc72d7d559dacf8faa93726240538cd0496a0e4adba2acb0295e75",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-jozef-dubasak-publication-2022",
+        "candidateId": "psk-jozef-dubasak",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "statistics-municipal-2018-tables",
+          "poprad-history-assets-sita-candidates-2018"
+        ],
+        "period": "2022; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "3896162b28a36a9955a879f459af0b6917078dad28f1268f878c5bb2f2a97334",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-marcel-hascak-publication-2023",
+        "candidateId": "psk-marcel-hascak",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "a0185e2ffbdf92af52ee1ed6ecdef74bd3a7b05314c36664b2d0228e20492146",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-alena-madzinova-publication-2022",
+        "candidateId": "psk-alena-madzinova",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2022; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "a5ec1cd2c746619484b5279d7ec8c12def527a0e7e366bc658952c29fe511993",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-helena-mezenska-publication-2023",
+        "candidateId": "psk-helena-mezenska",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "61fd8f7e7faa96f1d16092eaa55215d9d954b599b20dd987beef55861f6a5710",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-david-skokan-publication-2023",
+        "candidateId": "psk-david-skokan",
+        "category": "asset_declarations",
+        "sourceIds": [
+          "poprad-review-a2c30c81d9c0d1ba",
+          "poprad-review-pp-current-deputies"
+        ],
+        "period": "2023; iba zverejnenie podľa oficiálneho indexu",
+        "checkedAt": "2026-10-14",
+        "publicTextSha256": "0a12aad92de26fd00ecca5f68823515b50bfc23ced034056a44e8f6b371daa27",
+        "verdict": "accept",
+        "identity": "Named person and additional locality/age/profession/currentorhistoricalrole/directcandidate-institution context independently checked; no name-only join.",
+        "limit": "Explicit candidate orteam statement / dated signedreport / named officialindexpublication only, according to category."
+      }
+    ],
+    "sourceReadReceipts": [
+      {
+        "sourceId": "chair-questionnaire-kosice",
+        "url": "https://www.kosiceonline.sk/volby-2026-o-post-presovskeho-zupana-zabojuje-11-kandidatov-temou-je-zamestnanie-ci-odliv-mladych",
+        "originalFile": ".internal/presov-poprad-2026/recheck-psk-evidence-review-chair-questionnaire-kosice.html",
+        "originalSha256": "384ecbf78510963699deb86e2e522b728dae405e8ec0aadf9fc0148d5054b7ad",
+        "textFile": ".internal/presov-poprad-2026/recheck-psk-evidence-review-chair-questionnaire-kosice.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "chair-roundup-aktuality",
+        "url": "https://www.aktuality.sk/clanok/eIRfp23/kompletny-zoznam-kandidatov-na-zupana-pre-presovsky-kraj-vo-volbach-do-vuc-2026/",
+        "originalFile": ".internal/presov-poprad-2026/recheck-psk-evidence-review-chair-roundup-aktuality.html",
+        "originalSha256": "36a63b1fdfb379fe3e315fbda3de7547c486ab65345e1736c1b8b2e32235f780",
+        "textFile": ".internal/presov-poprad-2026/recheck-psk-evidence-review-chair-roundup-aktuality.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "geci-statement-tasr",
+        "url": "https://www.teraz.sk/najnovsie/o-post-predsedu-presovskeho-kraja-zabo/954881-clanok.html",
+        "originalFile": ".internal/presov-poprad-2026/recheck-psk-evidence-review-geci-statement-tasr.html",
+        "originalSha256": "da12274586efbb4834e205e50ec5b36678f87f18602783740c65e8a7cdf622e9",
+        "textFile": ".internal/presov-poprad-2026/recheck-psk-evidence-review-geci-statement-tasr.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-history-assets-sita-candidates-2018",
+        "url": "https://sita.sk/komunalne-volby-poprad-2018-kandidati-na-primatora-a-poslancov-mestskeho-zastupitelstva/",
+        "originalFile": ".internal/presov-poprad-2026/original-59b56d1fb760e598.html",
+        "originalSha256": "a316b833fbfd095b4c8f48df876394dde72933efbc2a10c5fa3b7d5324dbe40d",
+        "textFile": ".internal/presov-poprad-2026/original-59b56d1fb760e598.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-00e7f7171e9fe674",
+        "url": "https://popradcania.sk/kandidati/rastislav-ovsonka",
+        "originalFile": ".internal/presov-poprad-2026/original-00e7f7171e9fe674.html",
+        "originalSha256": "39a3ee012ebcb1624b17e0530dc74f592de3d4bc789045adaad493c3a07cc1ed",
+        "textFile": ".internal/presov-poprad-2026/original-00e7f7171e9fe674.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-07b17658301df9c2",
+        "url": "https://www.sdankom.sk/kandidat/michal-baran",
+        "originalFile": ".internal/presov-poprad-2026/original-07b17658301df9c2.html",
+        "originalSha256": "cb63334a13eb163bc5640df7f4c17d5552640006cc2bc50bd9889ef6be70aada",
+        "textFile": ".internal/presov-poprad-2026/original-07b17658301df9c2.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-1b548258c172e6b5",
+        "url": "https://www.sdankom.sk/kandidat/radoslav-ivan",
+        "originalFile": ".internal/presov-poprad-2026/original-1b548258c172e6b5.html",
+        "originalSha256": "2e9c6e03ca371730c216b5d1179aabf8fba1f8313ec863d9b5d376c60b8cfa4e",
+        "textFile": ".internal/presov-poprad-2026/original-1b548258c172e6b5.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-40c277a98733977e",
+        "url": "https://www.teraz.sk/spravy/primatorka-svitu-vyzvu-poslancov-na-od/889139-clanok.html",
+        "originalFile": ".internal/presov-poprad-2026/original-40c277a98733977e.html",
+        "originalSha256": "52400e83548dd919bbf966c561553182650388d084282f2ffdbbb5f7ca8fc04a",
+        "textFile": ".internal/presov-poprad-2026/original-40c277a98733977e.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-5116cbca47d85934",
+        "url": "https://spravy.stvr.sk/2026/07/izraelcania-sa-vracaju-do-tatier-poprad-po-siedmich-rokoch-obnovil-priame-lety-z-tel-avivu/",
+        "originalFile": ".internal/presov-poprad-2026/original-5116cbca47d85934.html",
+        "originalSha256": "4e084c697f1b9e155139c8caa1ad4646bac5bad037bdf5bf8bdf0646a91f4893",
+        "textFile": ".internal/presov-poprad-2026/original-5116cbca47d85934.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-5290f7c563f66eeb",
+        "url": "https://www.sdankom.sk/kandidat/alexandra-sidor",
+        "originalFile": ".internal/presov-poprad-2026/original-5290f7c563f66eeb.html",
+        "originalSha256": "0863da8331997022a7312f08fbc4bfbbeb4ec2391e896814d501606ed7c1b9d7",
+        "textFile": ".internal/presov-poprad-2026/original-5290f7c563f66eeb.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-60b70dee04721154",
+        "url": "https://www.sdankom.sk/kandidat/ondrej-kavka",
+        "originalFile": ".internal/presov-poprad-2026/original-60b70dee04721154.html",
+        "originalSha256": "9da03270901603cb5684e0554b6e9b256947834328600447cb8012208513683c",
+        "textFile": ".internal/presov-poprad-2026/original-60b70dee04721154.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-65e69165a0315a5c",
+        "url": "https://www.sdankom.sk/kandidat/rastislav-zacher",
+        "originalFile": ".internal/presov-poprad-2026/original-65e69165a0315a5c.html",
+        "originalSha256": "db2705527d0d7d8ebb2c1c65a20023b26a183ac72ecab9a941b35b1a9cea4086",
+        "textFile": ".internal/presov-poprad-2026/original-65e69165a0315a5c.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-68b17cf02eaced48",
+        "url": "https://www.teraz.sk/hokej/za-uspechom-su-odchovanci-poprad/347199-clanok.html",
+        "originalFile": ".internal/presov-poprad-2026/original-68b17cf02eaced48.html",
+        "originalSha256": "5207607cfb085e8350a293f1e57fd0f29e0f90a54a4c226273163b8e6c8ef2bd",
+        "textFile": ".internal/presov-poprad-2026/original-68b17cf02eaced48.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-76f1673a8d97adeb",
+        "url": "https://popradcania.sk/kandidati",
+        "originalFile": ".internal/presov-poprad-2026/original-76f1673a8d97adeb.html",
+        "originalSha256": "f775473626eec70a9e957b2d9383a155500b501467bd21e567678c3b497f3e88",
+        "textFile": ".internal/presov-poprad-2026/original-76f1673a8d97adeb.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-805e83945d94c83e",
+        "url": "https://sita.sk/primator-popradu-danko-bude-znova-kandidovat-predstavil-aj-svoj-tim-video/",
+        "originalFile": ".internal/presov-poprad-2026/original-805e83945d94c83e.html",
+        "originalSha256": "538e73531b315e79c85daee4911c8e628b9162b8bfd33ddf46e41ca4b76634a5",
+        "textFile": ".internal/presov-poprad-2026/original-805e83945d94c83e.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-97ba98b438bd16c5",
+        "url": "https://www.sdankom.sk/kandidat/gabriela-budzakova",
+        "originalFile": ".internal/presov-poprad-2026/original-97ba98b438bd16c5.html",
+        "originalSha256": "a5b55e20d6f334131cd3fd8e4cb43d4306cf3830b03752ecaaa34b1e05303964",
+        "textFile": ".internal/presov-poprad-2026/original-97ba98b438bd16c5.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-99d7fb07c7be42f4",
+        "url": "https://www.teraz.sk/regionalne-a-komunalne-presov-/msaraka-sa-vzdal-kandidatury-v-poprade/667986-clanok.html",
+        "originalFile": ".internal/presov-poprad-2026/original-99d7fb07c7be42f4.html",
+        "originalSha256": "4bca71925c89df30ab700dac5690839cbda83cda42f07a26c0268ab70c1630bf",
+        "textFile": ".internal/presov-poprad-2026/original-99d7fb07c7be42f4.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-a1a5d05ef2008d45",
+        "url": "https://sita.sk/frantisek-majersky-nebude-kandidovat-za-primatora-popradu-chce-viest-silny-tim-do-mestskeho-zastupitelstva/",
+        "originalFile": ".internal/presov-poprad-2026/original-a1a5d05ef2008d45.html",
+        "originalSha256": "b1eeac1d315fb765d561216eb264c2f6eafac5e1e0e8bc3c5bbb8abb5ab8722f",
+        "textFile": ".internal/presov-poprad-2026/original-a1a5d05ef2008d45.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-a2c30c81d9c0d1ba",
+        "url": "https://www.poprad.sk/uradne-tlaciva?SearchModel.OfficialDocumentType=majetkove-priznanie&page=1",
+        "originalFile": ".internal/presov-poprad-2026/root-latest-poprad-review-a2c30c81d9c0d1ba.html",
+        "originalSha256": "0ed12aed0cf1ffe543bd1391abdb3343c9190a850378a800015ebe87e7df5ef5",
+        "textFile": ".internal/presov-poprad-2026/root-latest-poprad-review-a2c30c81d9c0d1ba.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-a89a3ee177f7ffc9",
+        "url": "https://www.sdankom.sk/kandidat/pavol-garaj",
+        "originalFile": ".internal/presov-poprad-2026/original-a89a3ee177f7ffc9.html",
+        "originalSha256": "4b6bae98a999a6d6ecb47f5b893da819914a4781b9753789e3127c16e13d9349",
+        "textFile": ".internal/presov-poprad-2026/original-a89a3ee177f7ffc9.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-b287cbb2233236c0",
+        "url": "https://www.sdankom.sk/kandidat/paeddr-zuzana-tobisova",
+        "originalFile": ".internal/presov-poprad-2026/original-b287cbb2233236c0.html",
+        "originalSha256": "6eea2b0b5cf543e0a95bbf8669de71a86076a88c837fc6b95f850b64c2268fcc",
+        "textFile": ".internal/presov-poprad-2026/original-b287cbb2233236c0.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-b502439ee06fad09",
+        "url": "https://www.sdankom.sk/kandidat/petra-comisso",
+        "originalFile": ".internal/presov-poprad-2026/original-b502439ee06fad09.html",
+        "originalSha256": "9c58b55fa623350b5ab1d62b63b1362dc7ffcb4729cd768084b6497747ae9f28",
+        "textFile": ".internal/presov-poprad-2026/original-b502439ee06fad09.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-b7ebc81fd584271e",
+        "url": "https://www.sdankom.sk/kandidat/blazena-budzakova",
+        "originalFile": ".internal/presov-poprad-2026/original-b7ebc81fd584271e.html",
+        "originalSha256": "9660b9f7837ddd2ecf673c77eb45aae90bd749636f578b893c5ce62bbb301dec",
+        "textFile": ".internal/presov-poprad-2026/original-b7ebc81fd584271e.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-dbb6beedd22cac45",
+        "url": "https://www.sdankom.sk/kandidat/mgr-stefan-pcola",
+        "originalFile": ".internal/presov-poprad-2026/original-dbb6beedd22cac45.html",
+        "originalSha256": "3fc49b18f50f71f1b9c1ca136381ba583869c43942345940110c82129678ca53",
+        "textFile": ".internal/presov-poprad-2026/original-dbb6beedd22cac45.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-f34a00b78a32f55b",
+        "url": "https://www.sdankom.sk/kandidat/simona-brtanova",
+        "originalFile": ".internal/presov-poprad-2026/original-f34a00b78a32f55b.html",
+        "originalSha256": "52888e8f159b1e50f9f85229161b1cdd09162f1f26f24b9fe847924b77154fbc",
+        "textFile": ".internal/presov-poprad-2026/original-f34a00b78a32f55b.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-f7af515cb9894633",
+        "url": "https://sita.sk/arne-krotak-ukoncil-karieru-v-hk-poprad-dovodom-su-aj-udajne-nezhody-s-trenerom-ozimakom/",
+        "originalFile": ".internal/presov-poprad-2026/original-f7af515cb9894633.html",
+        "originalSha256": "d458688af42dc5ddfda861174659d7cfcee67dd32f63f586b804adfb10ce48af",
+        "textFile": ".internal/presov-poprad-2026/original-f7af515cb9894633.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-fb9fc48640bb412c",
+        "url": "https://www.sdankom.sk/kandidat/gabriela-cubova",
+        "originalFile": ".internal/presov-poprad-2026/original-fb9fc48640bb412c.html",
+        "originalSha256": "3446af37cf2ab006c6687ffb49d23f000358d70633f40d8c520c97d8e9496660",
+        "textFile": ".internal/presov-poprad-2026/original-fb9fc48640bb412c.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-pp-current-deputies",
+        "url": "https://www.poprad.sk/kontakty?SearchModel.SearchText=&SearchModel.Department=Poslanci_MsZ",
+        "originalFile": ".internal/presov-poprad-2026/pp-current-deputies.html",
+        "originalSha256": "19ea2281000f4a9ed8fdbc074824dd13dc37a44c2048dccf40b9bd64b0218d36",
+        "textFile": ".internal/presov-poprad-2026/pp-current-deputies.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-primary-03",
+        "url": "https://popradcania.sk/program",
+        "originalFile": ".internal/poprad-evidence-review/review-fetch-03.html",
+        "originalSha256": "a27024908765d60446b5b6d2a6831dfd8dca4d0527997fb3738bf6bd7aace79d",
+        "textFile": ".internal/poprad-evidence-review/review-fetch-03.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "poprad-review-primary-39",
+        "url": "https://www.teraz.sk/spravy/o-post-primatora-maju-v-poprade-zauje/991203-clanok.html",
+        "originalFile": ".internal/poprad-evidence-review/review-fetch-39.html",
+        "originalSha256": "2de603038078f9a4cde18b51e1644b9a263c3dbab2f3cec4fa85f942343679ff",
+        "textFile": ".internal/poprad-evidence-review/review-fetch-39.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      },
+      {
+        "sourceId": "statistics-municipal-2018-tables",
+        "url": "https://volby.statistics.sk/oso/oso2018/files/OSO_2018_xlsx.zip",
+        "originalFile": ".internal/presov-poprad-2026/statistics-municipal-2018-tables.html",
+        "originalSha256": "403f7a1bb3d4e4397b8307d951b70c3aae573723a0a4fc5df1eb369811a281e5",
+        "textFile": ".internal/presov-poprad-2026/statistics-municipal-2018-tables.txt",
+        "checkedAt": "2026-10-14",
+        "readMode": "independent original content and targeted publication assertion inspection"
+      }
+    ],
+    "mediaChecks": [
+      {
+        "claimId": "claim-psk-mikulas-bobak-media-original-report",
+        "sourceId": "poprad-review-primary-39",
+        "author": "TASR",
+        "publishedAt": "2026-09-10",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-anton-danko-media-original-report",
+        "sourceId": "poprad-review-primary-39",
+        "author": "TASR",
+        "publishedAt": "2026-09-10",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-patrik-frantiska-media-original-report",
+        "sourceId": "poprad-review-primary-39",
+        "author": "TASR",
+        "publishedAt": "2026-09-10",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-jozef-kralik-media-original-report",
+        "sourceId": "poprad-review-primary-39",
+        "author": "TASR",
+        "publishedAt": "2026-09-10",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-roderik-ledecky-media-original-report",
+        "sourceId": "poprad-review-primary-39",
+        "author": "TASR",
+        "publishedAt": "2026-09-10",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-tatiana-husarova-media-original-report",
+        "sourceId": "poprad-review-805e83945d94c83e",
+        "author": "Mária Frisová",
+        "publishedAt": "2025-10-29",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-michal-baran-media-original-report",
+        "sourceId": "poprad-review-805e83945d94c83e",
+        "author": "Mária Frisová",
+        "publishedAt": "2025-10-29",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-stefan-pcola-media-original-report",
+        "sourceId": "poprad-review-805e83945d94c83e",
+        "author": "Mária Frisová",
+        "publishedAt": "2025-10-29",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-frantisek-majersky-media-original-report",
+        "sourceId": "poprad-review-a1a5d05ef2008d45",
+        "author": "Martina Biróova",
+        "publishedAt": "2026-08-19",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-rastislav-ovsonka-media-original-report",
+        "sourceId": "poprad-review-68b17cf02eaced48",
+        "author": "TASR",
+        "publishedAt": "2018-09-07",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-marian-saraka-media-original-report",
+        "sourceId": "poprad-review-99d7fb07c7be42f4",
+        "author": "TASR",
+        "publishedAt": "2022-10-18",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-arne-krotak-media-original-report",
+        "sourceId": "poprad-review-f7af515cb9894633",
+        "author": "SITA Slovenská tlačová agentúra",
+        "publishedAt": "2018-03-08",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-jan-pitonak-media-original-report",
+        "sourceId": "poprad-review-5116cbca47d85934",
+        "author": "Miriam Hozzová",
+        "publishedAt": "2026-07-02",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-drahomir-cureja-media-original-report",
+        "sourceId": "chair-roundup-aktuality",
+        "author": "Robo Hakl",
+        "publishedAt": "2026-10-02",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-marian-geci-media-original-report",
+        "sourceId": "geci-statement-tasr",
+        "author": "TASR",
+        "publishedAt": "2026-04-13",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-lubomir-golias-media-original-report",
+        "sourceId": "chair-questionnaire-kosice",
+        "author": "Terézia Čokotová",
+        "publishedAt": "2026-09-29",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-jozef-istok-media-original-report",
+        "sourceId": "chair-questionnaire-kosice",
+        "author": "Terézia Čokotová",
+        "publishedAt": "2026-09-29",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-samuel-migal-media-original-report",
+        "sourceId": "chair-questionnaire-kosice",
+        "author": "Terézia Čokotová",
+        "publishedAt": "2026-09-29",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-milan-jambor-media-original-report",
+        "sourceId": "poprad-review-40c277a98733977e",
+        "author": "TASR",
+        "publishedAt": "2025-06-27",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      },
+      {
+        "claimId": "claim-psk-ivana-svagrovska-media-original-report",
+        "sourceId": "poprad-review-40c277a98733977e",
+        "author": "TASR",
+        "publishedAt": "2025-06-27",
+        "verdict": "accept_dated_attributed_report",
+        "limit": "Report only; no extra present office,charge,legal finality or unsupported conclusion."
+      }
+    ],
+    "assetPublicationChecks": [
+      {
+        "claimId": "claim-poprad-history-assets-psk-martin-baloga-publication-2023",
+        "candidateId": "psk-martin-baloga",
+        "indexEntryTitle": "Ing. arch. Martin Baloga PhD. za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-tatiana-husarova-publication-2023",
+        "candidateId": "psk-tatiana-husarova",
+        "indexEntryTitle": "Mgr. Tatiana Husárová MBA za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-ondrej-kavka-publication-2023",
+        "candidateId": "psk-ondrej-kavka",
+        "indexEntryTitle": "Ing. Ondrej Kavka za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-anna-ondrusekova-publication-2023",
+        "candidateId": "psk-anna-ondrusekova",
+        "indexEntryTitle": "PaedDr. Anna Ondrušeková za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-marian-saraka-publication-2022",
+        "candidateId": "psk-marian-saraka",
+        "indexEntryTitle": "Marián Saraka za rok 2022",
+        "declarationYear": 2022,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-jozef-svagerko-publication-2023",
+        "candidateId": "psk-jozef-svagerko",
+        "indexEntryTitle": "Ing. Jozef Švagerko za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-michal-baran-publication-2023",
+        "candidateId": "psk-michal-baran",
+        "indexEntryTitle": "PhDr. Michal Baran PhD., MBA za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-marian-barilla-publication-2023",
+        "candidateId": "psk-marian-barilla",
+        "indexEntryTitle": "Ing. Marián Barilla MBA za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-slavomir-bozon-publication-2023",
+        "candidateId": "psk-slavomir-bozon",
+        "indexEntryTitle": "Ing. Slavomír Božoň za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-peter-brenisin-publication-2023",
+        "candidateId": "psk-peter-brenisin",
+        "indexEntryTitle": "MUDr. Peter Brenišin za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-patricia-bujnakova-publication-2023",
+        "candidateId": "psk-patricia-bujnakova",
+        "indexEntryTitle": "PaedDr. Patrícia Bujňáková za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-jozef-dubasak-publication-2022",
+        "candidateId": "psk-jozef-dubasak",
+        "indexEntryTitle": "Jozef Dubašák za rok 2022",
+        "declarationYear": 2022,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-marcel-hascak-publication-2023",
+        "candidateId": "psk-marcel-hascak",
+        "indexEntryTitle": "Marcel Haščák za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-alena-madzinova-publication-2022",
+        "candidateId": "psk-alena-madzinova",
+        "indexEntryTitle": "Mgr. Alena Madzinová za rok 2022",
+        "declarationYear": 2022,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-helena-mezenska-publication-2023",
+        "candidateId": "psk-helena-mezenska",
+        "indexEntryTitle": "Mgr. Helena Mezenská za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      },
+      {
+        "claimId": "claim-poprad-history-assets-psk-david-skokan-publication-2023",
+        "candidateId": "psk-david-skokan",
+        "indexEntryTitle": "Dávid Skokan MBA za rok 2023",
+        "declarationYear": 2023,
+        "verdict": "accept_publication_only",
+        "limit": "No contents,income,checkbox,dateofsubmission,present office or continuousservice asserted."
+      }
+    ],
+    "historicalDeclarationIdentityBridges": [
+      {
+        "candidateId": "psk-marian-saraka",
+        "name": "Marián Saraka",
+        "municipality": "Poprad",
+        "age2018": 38,
+        "age2026": 46,
+        "professionalField": "vedúci dopravy",
+        "officialHistoricalRole": "elected municipal councillor2018",
+        "officialTable": "OSO_2018_tab06.xlsx",
+        "officialRow": 3572,
+        "innerXlsxSha256": "9a0b4aec1976a2576c34be8683875701d0f2939eb756b24c285143661d78ab11",
+        "indexYear": 2022,
+        "verdict": "name plus age/locality/profession/historical institutional role verified",
+        "limit": "Indexpublication2022 only; no uninterrupted service or currentoffice inferred."
+      },
+      {
+        "candidateId": "psk-jozef-dubasak",
+        "name": "Jozef Dubašák",
+        "municipality": "Poprad",
+        "age2018": 41,
+        "age2026": 49,
+        "professionalField": "administratívny pracovník",
+        "officialHistoricalRole": "elected municipal councillor2018",
+        "officialTable": "OSO_2018_tab06.xlsx",
+        "officialRow": 3580,
+        "innerXlsxSha256": "9a0b4aec1976a2576c34be8683875701d0f2939eb756b24c285143661d78ab11",
+        "indexYear": 2022,
+        "verdict": "name plus age/locality/profession/historical institutional role verified",
+        "limit": "Indexpublication2022 only; no uninterrupted service or currentoffice inferred."
+      }
+    ],
+    "highRiskFinalStatus": {
+      "finance": "Králik yes/verified flags supported by actual bankheader and exactowncampaignlink, withPoprad/mayor/2026 identity. Prior three unique dated campaigndebits retained as individual evidence only. No totals,donors,personalincome/wealth conclusion. Other unverified bankidentities not upgraded by this review.",
+      "quote": "Existing Bobák10word quotation remains exact withoriginalpunctuation andfirstperson; no new quote added in56proposals.",
+      "controversies": "Prior independently accepted16 report/response texts unchanged inactualpublicdata; reporters andperiods retained. Three Poprad reports moved toMedia retainmedia_report kind; responses remain separate. No newofficialoutcome,factualallegation,charge or finality inferred in56proposals. The otherthree categoryoverrides were checked onlyas unchangedcategorymoves; their substantive sourceadjudication belongs to the separatePSKreview.",
+      "publicationLimit": "This is scoped factual/editorial source review, not whole-branch code review, legalopinion, deploymentpermission or proof that publicinformation is exhaustive."
+    },
+    "priorReportResponseContinuity": [
+      {
+        "claimId": "claim-psk-ondrej-kavka-controversies-1",
+        "candidateId": "psk-ondrej-kavka",
+        "kind": "media_report",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-ondrej-kavka-controversies-2",
+        "candidateId": "psk-ondrej-kavka",
+        "kind": "response",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-ondrej-kavka-media-1",
+        "candidateId": "psk-ondrej-kavka",
+        "kind": "media_report",
+        "category": "media",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-michal-materny-media-1",
+        "candidateId": "psk-michal-materny",
+        "kind": "response",
+        "category": "media",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-patrik-frantiska-controversies-1",
+        "candidateId": "psk-patrik-frantiska",
+        "kind": "media_report",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-patrik-frantiska-controversies-2",
+        "candidateId": "psk-patrik-frantiska",
+        "kind": "response",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-jozef-stefanak-controversies-1",
+        "candidateId": "psk-jozef-stefanak",
+        "kind": "media_report",
+        "category": "media",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-jozef-stefanak-controversies-2",
+        "candidateId": "psk-jozef-stefanak",
+        "kind": "response",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-peter-dzurilla-controversies-1",
+        "candidateId": "psk-peter-dzurilla",
+        "kind": "media_report",
+        "category": "media",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-peter-dzurilla-controversies-2",
+        "candidateId": "psk-peter-dzurilla",
+        "kind": "response",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-jozef-svagerko-controversies-1",
+        "candidateId": "psk-jozef-svagerko",
+        "kind": "media_report",
+        "category": "media",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-jozef-svagerko-controversies-2",
+        "candidateId": "psk-jozef-svagerko",
+        "kind": "response",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-anton-danko-controversies-1",
+        "candidateId": "psk-anton-danko",
+        "kind": "media_report",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-anton-danko-controversies-2",
+        "candidateId": "psk-anton-danko",
+        "kind": "response",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-arne-krotak-controversies-1",
+        "candidateId": "psk-arne-krotak",
+        "kind": "media_report",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      },
+      {
+        "claimId": "claim-psk-arne-krotak-controversies-2",
+        "candidateId": "psk-arne-krotak",
+        "kind": "response",
+        "category": "controversies",
+        "verdict": "approved bounded wording retained"
+      }
+    ],
+    "verificationCommand": "python3 .internal/poprad-evidence-review/verify-publication-56.py",
+    "publicFilesModifiedByReviewer": false,
+    "errors": []
+  },
+  "popradHighRiskSignoff": {
+    "finance": "Owner/label and own primary exact banklink matched;three individually dated campaignlabelled debits reopened;no totals,income,donors or personalwealth inference. Danko swapped officeincome categories not summed. OtheremptyJS bankpages not asserted as zero spend.",
+    "quotations": "One ownwebsite10word quote exactly matches reopened original with punctuation/person preserved. Otherprogramme facts explicitly attributed and dated/bounded.",
+    "identity": "Namesakes excluded using publicage/date/locality/entity corroboration. Siska corrected after independentvisualPDF;3matches and2conflicts among5correct currentextracts. NoDOB/address/contact values published.",
+    "controversies": "Eight media_reports andeight responses are separate,explicitly credited and dated. No official_outcome claims or inferred charges/finality.2014Danko inrem,2017Krotak challenge+cityresponse,2018Švagerko nonfinal,2018/2019Kavka,2025Františka publicpreview,2026Štefaňák/Dzurilla proceduralreports;outcome search boundaries retained."
+  },
+  "quoteCheck": [
+    {
+      "claimId": "proposed-psk-mikulas-bobak-programme_statements-4",
+      "sourceId": "poprad-review-f1b006c6f6e52a99",
+      "exactTextAndPunctuationMatch": true,
+      "wordCount": 10,
+      "firstPersonPreserved": true
+    }
+  ],
+  "presovFinalSummary": {
+    "checkedAt": "2026-10-14",
+    "scopeCandidateCount": 206,
+    "recordCount": 1648,
+    "statusCounts": {
+      "found": 599,
+      "bounded_no_sufficient_evidence": 1049
+    },
+    "pendingOrHeldRecordCount": 0,
+    "sameCategoryAtomicClaimGate": "verified against accepted proposed claims plus canonical existing publichistoricalclaims; basic exempt",
+    "sourceReferenceGate": "pass",
+    "schemasGate": "pass",
+    "actualSearchBoundary": "Seven nonbasic candidate/category query families plus a separately documented finance query. Basic category directly reconciled against current official2026 lists. Full authentic collected originals mechanically triaged; every remaining eligible held positive passage manually adjudicated with original receipt/digests, dates/identity/category checks. Negative means no sufficient evidence inside this boundary, not nonexistence.",
+    "categoryStatusCounts": {
+      "basic": {
+        "found": 206
+      },
+      "employment_business": {
+        "found": 82,
+        "bounded_no_sufficient_evidence": 124
+      },
+      "public_office": {
+        "found": 67,
+        "bounded_no_sufficient_evidence": 139
+      },
+      "previous_elections": {
+        "found": 120,
+        "bounded_no_sufficient_evidence": 86
+      },
+      "programme_statements": {
+        "found": 47,
+        "bounded_no_sufficient_evidence": 159
+      },
+      "asset_declarations": {
+        "found": 15,
+        "bounded_no_sufficient_evidence": 191
+      },
+      "media": {
+        "found": 56,
+        "bounded_no_sufficient_evidence": 150
+      },
+      "controversies": {
+        "bounded_no_sufficient_evidence": 200,
+        "found": 6
+      }
+    },
+    "files": {
+      "final-proposed-claims.json": {
+        "sha256": "cb13635f603bdc164a54ba3a07d5ed3b529e1995a27933c10f55b7372f25d5ec",
+        "count": 382
+      },
+      "final-proposed-sources.json": {
+        "sha256": "0c34f4047db1802fed9040822653e66f3a63dc226da7893943908cb67f1c3633",
+        "count": 322
+      },
+      "findings-presov.json": {
+        "sha256": "41149c40b6fc654834717ec96a4df0070fdb299fde05a7104d2010a712f560bb"
+      },
+      "category-bounds.json": {
+        "sha256": "812fb91ad43b71046dfec8363a864809381e9f775ccfc30ad2a7b4a72b048c48"
+      }
+    },
+    "commands": [
+      {
+        "command": "node --import tsx .internal/presov-evidence-review/verify-presov-findings.ts",
+        "exitCode": 0,
+        "counts": {
+          "sources": 322,
+          "claims": 382,
+          "records": 1648,
+          "people": 206
+        }
+      },
+      {
+        "command": "python3 .internal/presov-evidence-review/verify-final-category-bounds.py",
+        "exitCode": 0
+      }
+    ],
+    "sourceTypeCompatibility": {
+      "sourceIds": [
+        "presov-employment-office-original-1c6869397ed005d0",
+        "presov-employment-office-original-94d8e5ca66d02dd2",
+        "presov-employment-office-original-a6808b4b13ae18a8",
+        "presov-employment-office-original-0a90fc37e0d2fe99"
+      ],
+      "basis": "First-party institutional/employer pages and primaryFutbalnet member register; official means primary issuer, publisher preserved, no professional media authorship inferred."
+    },
+    "publicationLimits": [
+      "Publicdata/code/Git/deployment untouched bythisreviewer. Root performs final publicintegration, canonical-source dedup and all release gates.",
+      "Inaccessible originals, identity mismatches and absence of two matching attributes stay in documented exclusions/access boundaries; no missing source text reconstructed.",
+      "No full DOB, private address/contact, donor/family detail, aggregate wealth or inferred sole campaign operator published in proposed claims.",
+      "Oľha owncampaign-labelled outgoingexpense evidence yes; campaign operator remains unknown. Hagyari ownprimaryIBAN only; no invented banklink."
+    ]
+  },
+  "finalCodeReview": {
+    "schemaVersion": 1,
+    "reviewKind": "independent_automated_read_only_code_data_journal_and_built_artifact_review",
+    "baseCommit": "2403899512cbad7a67ee139ad17860b520a4cd04",
+    "reviewedAt": "2026-10-14T14:19:13.911230+00:00",
+    "snapshotDate": "2026-10-14",
+    "publicFileMutation": false,
+    "scratchWriteOnly": true,
+    "verdict": {
+      "actionableFindings": [],
+      "unresolvedActionableFindingCount": 0,
+      "implementationReady": true,
+      "allGlobalReleaseGatesPassed": false,
+      "assessment": "No unresolved actionable patch findings. Code, new cohort data, journal and built routes passed the documented checks. The global external-link gate remains failed on historical sources and must not be described as passed.",
+      "humanSignoff": false,
+      "methodLimit": "Independent automated evidence review; no human editorial or legal signoff."
+    },
+    "scope": {
+      "included": [
+        "new 2026 Poprad and Presov municipal cycle",
+        "all 11 PSK registered chair candidates and shared profiles",
+        "complete PSK council districts 6/7",
+        "regional homepage hierarchy and route isolation",
+        "campaign finance and historical outcome corrections",
+        "public claim attribution,source metadata and privacy boundaries",
+        "closed research journal and actual query receipt distinction",
+        "built profiles,sitemap,official candidacy notice,polling lists",
+        "redirect/storage/SEO/HTML and browser validation evidence"
+      ],
+      "excluded": [
+        {
+          "behavior": "deployment",
+          "reason": "Outside authorized task scope;no deployment performed."
+        },
+        {
+          "behavior": "reopening unrelated historical research",
+          "reason": "User required preservation of approved historical data;historical external failures are separately disclosed."
+        }
+      ],
+      "noBroadResearchInFinalPass": true
+    },
+    "counts": {
+      "newPeople": 320,
+      "newRegistrations": 402,
+      "newClaims": 998,
+      "coverageRecords": 2560,
+      "found": 983,
+      "searchedNone": 1577,
+      "pending": 0,
+      "actualNonbasicAndFinanceQueries": 2560,
+      "basicDirectOfficialChecks": 402,
+      "addedSourceRecords": 601,
+      "oldSourceRecordsPreserved": 1171,
+      "duplicatePublicSourceUrls": 0,
+      "originalMetadata": 6071,
+      "originalDownloaded": 5560,
+      "originalUnavailable": 502,
+      "reviewerOriginalRead": 9,
+      "discoveryOnly": 0,
+      "publishedCities": 7,
+      "publishedRegions": 2,
+      "newPSKProfiles": 320,
+      "preservedZilinaProfiles": 460,
+      "totalProfiles": 780,
+      "sitemapIndexableEntries": 813,
+      "sitemapComparisonEntries": 0,
+      "newClaimSourceLinksRendered": 1826,
+      "popradPollingStations": 44,
+      "presovPollingStations": 66,
+      "regionalRegisteredChairCards": 11,
+      "officialCandidacyUpdates": 1
+    },
+    "independentChecks": [
+      {
+        "command": "npm test -- tests/unit/presov-poprad-release.test.ts tests/unit/presov-poprad-evidence.test.ts tests/unit/presov-poprad-finance.test.ts tests/unit/presov-poprad-roster.test.ts tests/unit/presov-poprad-preservation.test.ts tests/unit/multiple-regions.test.ts tests/unit/city-catalogue.test.ts tests/unit/polling-groups.test.ts tests/unit/check-external-links.test.ts",
+        "exitCode": 0,
+        "result": "9 files and 39 tests passed",
+        "executionEvidence": "Direct reviewer execution;tool transcript retained."
+      },
+      {
+        "command": "node --import tsx --input-type=module -",
+        "exitCode": 0,
+        "method": "Inline read-only audit invoked validateDataset(data, release),publishedProfileRoutes,regionalCandidacyUpdates and summarizeElectionHistory on actual data.",
+        "result": "0 release issues;780 routes;one source-backed formal notice;Mazurek 2022 regional: 1 participation / 1 win and Stanko: 1 participation / 0 wins."
+      },
+      {
+        "command": "python3 -",
+        "exitCode": 0,
+        "method": "Inline read-only journal audit matched every query/category against actual SHA-addressed saved receipt;checked claim candidate/category joins,source/original references and preserved base sources.",
+        "result": "0 reference or receipt issues;2560 real nonbasic+finance queries distinct from402 direct basic source checks."
+      },
+      {
+        "command": "node --import tsx --input-type=module -",
+        "exitCode": 0,
+        "method": "Inline read-only generated-file inspection matched actual candidate identity and unique sitemap entries for every 780 profiles;located all 998 new claim blocks and every 1826 referenced source links.",
+        "result": "0 route,sitemap,claim or source-link issues;formal notice,homepage hierarchy,finance correction and 44/66 polling lists rendered."
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0,
+        "result": "No whitespace issues."
+      }
+    ],
+    "observedGateEvidence": [
+      {
+        "path": ".internal/presov-poprad-2026/final-unit-nginx.log",
+        "sha256": "da42428d68c155b30ec9ef2f55ac36b1a7f9ca1d05431f570f7f3b3f550a76b7",
+        "command": "npm test",
+        "exitCode": 0,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "447 passed; 59 files; NGINX_BIN enabled by root"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-validate-data.log",
+        "sha256": "8c37cb03dcbfef651f009d0f5613817a5719f73db48dc978a59150a364da6122",
+        "command": "npm run validate:data",
+        "exitCode": 0,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "cycles=2 contexts=7 published=7 regional=2 issues=0"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-validate-release.log",
+        "sha256": "f7048dcda9007874c5a191f6a9c28814df6ae73241ad3b879a3a43eadec0ce5a",
+        "command": "npm run validate:release",
+        "exitCode": 0,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "cycles=2 contexts=7 published=7 regional=2 issues=0"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-coverage.log",
+        "sha256": "3e76803d63d7d8fb5295e82b16d7c79e575f0c328eca6193495ec0b04ea0c4a4",
+        "command": "npm run report:coverage",
+        "exitCode": 0,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "releaseReady=true pending=0"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-build.log",
+        "sha256": "28a2c0f14599cd1d3c0027b4b526582769589772c82503f781cacf26327eda95",
+        "command": "npm run build",
+        "exitCode": 0,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "169 Astro files: 0 errors, 0 warnings, 0 hints; 813 Pagefind pages"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-seo.log",
+        "sha256": "87969a9908c206ff210097e18c3e2e804fc4a8872ceef8f53b50cdd1979315d4",
+        "command": "npm run check:seo",
+        "exitCode": 0,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "813 canonical indexable pages; 9 noindex comparisons; 1 noindex 404"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-html.log",
+        "sha256": "a463a30e8df03f5386851b28ef6ad09a6748aa6e5de449dce5fec02ed4acea27",
+        "command": "npm run check:html",
+        "exitCode": 0,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "823 HTML files: 0 errors, 0 warnings"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-storage.log",
+        "sha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd",
+        "command": "npm run check:storage",
+        "exitCode": 0,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "passed after local queue helper renamed consumeNextGroup"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-redirects.log",
+        "sha256": "ab0008c8b8e3a629e00206969baf6757059de94a85d9296afa8db4ef6ed4740f",
+        "command": "npm run check:redirects",
+        "exitCode": 0,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "294 redirects across 49 old routes ; 18 regional profiles return 200;unknown routes return 404"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-e2e.log",
+        "sha256": "1c753455b8e87f3582b9598e92ea014d2abfee9440a498c9a11a8857dd9f1ad5",
+        "command": "npm run test:e2e -- --config=.internal/presov-poprad-2026/playwright-isolated.config.ts --workers=4",
+        "exitCode": 1,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "250 passed, 14 failed, 2 skipped; complete initial suite evidence retained"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-e2e-rerun.log",
+        "sha256": "fee9ae2a1cdfd522f204c4fbe02b018e66c411f96a7131486a60985a04418356",
+        "command": "npm run test:e2e -- --config=.internal/presov-poprad-2026/playwright-isolated.config.ts --last-failed --workers=1 --timeout=90000",
+        "exitCode": 0,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "all 14 previously failed cases passed; combined 264 passed and 2 intentional skips"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/final-links.log",
+        "sha256": "b0ffe3b3e8317c1bdea45d2c58e57543a6976daa39bbd8269d607435387f1aae",
+        "command": "npm run check:links",
+        "exitCode": 1,
+        "exitCodeBasis": "Root execution report;reviewer read actual log and independently inspected resulting artifacts.",
+        "result": "1808 checked; 7 initial failures, all historical source IDs"
+      },
+      {
+        "path": ".internal/presov-poprad-2026/legacy-link-final-retry.log",
+        "sha256": "7c1c18cc499e401e3a8ad5da8c92ad010e296132a8513048a3f5b734d76638ef",
+        "command": null,
+        "exitCode": null,
+        "exitCodeBasis": "Retry log inspected;not an independent full-gate pass.",
+        "result": "one old ZUS original recovered;five old lubokuban HTTP 503 responses and old mprk timeout remain"
+      }
+    ],
+    "externalGlobalGate": {
+      "passed": false,
+      "checkedUrlCount": 1808,
+      "initialFailures": 7,
+      "remainingAfterTargetedRetry": 6,
+      "newSourceFailures": 0,
+      "allInitialFailuresExistedInBase": true,
+      "recoveredOnRetry": {
+        "sourceId": "dk-zus-schoolboard-c3",
+        "result": "Readable official original retrieved on retry."
+      },
+      "remainingFailures": [
+        {
+          "sourceId": "rk-kuban-dubravec-profile-2022",
+          "status": "HTTP503"
+        },
+        {
+          "sourceId": "rk-kuban-programme-2022",
+          "status": "HTTP503"
+        },
+        {
+          "sourceId": "rk-pales-campaign-statement",
+          "status": "HTTP503"
+        },
+        {
+          "sourceId": "rk-stupak-campaign-statement",
+          "status": "HTTP503"
+        },
+        {
+          "sourceId": "rk-kuban-betko-profile-2022",
+          "status": "HTTP503"
+        },
+        {
+          "sourceId": "rk-mestsky-podnik-about-current",
+          "status": "transport timeout"
+        }
+      ],
+      "policy": "No failure-policy weakening and no historical fact/source mutation. Do not claim every release gate passed."
+    },
+    "resolvedFindings": [
+      "Consolidated duplicate 2022 regional election results and full substitute outcomes.",
+      "Included verified external mayor nomination parties despite unresolved population.",
+      "Corrected feminine office wording and removed duplicate office claim.",
+      "Guarded empty scoped party nomination paragraph.",
+      "Resolved missing original metadata keys with honest access limitations.",
+      "Renamed ordinary queue helper to avoid storage-check false positive.",
+      "Corrected E2E district-required,conditional-finance and global-snapshot expectations;all failed cases passed rerun."
+    ],
+    "hashes": {
+      "runtimeAndContracts": {
+        "scripts/check-regional-redirects.ts": "8b564e832966bcdaaa1ca956a34a629155eacc6de6436324f266b49e9c6ce207",
+        "src/components/CampaignFinance.astro": "f84bfb97313b92eb9cd86dd981ed8f209504825ef48b349a6d35597d622bbc0d",
+        "src/components/RegionalOverview.astro": "d81a10afb56bdfa3bf55bcc313c2bee5f374bbba3116a520efa4e4c8c7549c3f",
+        "src/lib/campaign-finance.ts": "ac8d94121c0efd13e5d943df355727721050ea4731f4f86868a4b62377a6d29d",
+        "src/lib/check-external-links.ts": "5a1e298554d55f602af98bb1415ceeaa1efe5e863f5b60daa86758f795d61c08",
+        "src/lib/polling-groups.ts": "3530eeaded0ffb5123f8ad8a36eee6c62313bd4b6a17675b69a5542d1d2ed47b",
+        "src/lib/regional-context.ts": "e0da2d33b36301d8ee61bb2b88256a657411ee3e245a565fc2ce5e73eb27718f",
+        "src/pages/[city]/[year]/ako-volit.astro": "789aa4126431584edb0bfb3338344de0c0b6ae34f98ebf5f4b03ca655e4d698b",
+        "src/pages/index.astro": "72b3bd7cd1ea736de4f66d61aa965c72eef4c7c70ba907bc03867e37d70fa508",
+        "src/lib/load-guide-data.ts": "166591314fc13198d70aabbabf065d5af07625c2d3f8c7eb51f3548e3187b4d9",
+        "src/lib/schemas.ts": "0e4bffd4a36fcd76bf917f806db64bbab5ab803c28f7b8836aea44413a7e2f7e",
+        "src/lib/profile-content.ts": "80440edc2773bf5946d6620a238a19428f371230f1f20da4e1eb993af84f3770",
+        "src/lib/seo-metadata.ts": "f805d198799d27cb4447defe09a23077b188d500b192b07a6d4a97b1f955756a",
+        "src/scripts/district-selection.ts": "a6ac9352dd9fcf3cde294dcd04809a508e74f847053670e8419ef36d9f49d9ff"
+      },
+      "newCycleAndGlobalData": {
+        "research/presov-poprad-2026.json": "cc4ef2fc08d2c46b5bfcfbaccab6166511c486c943e3ecfa414f4ab10015c4e6",
+        "src/data/elections/2026/presovsky-kraj/campaign-finance-parties.json": "fe85256b2769ef3676f4dc5a3f239ff5d0041df6f4a947e3913d5fe4e03578c7",
+        "src/data/elections/2026/presovsky-kraj/campaign-finance.json": "e72fa6591071bf37997f5f2ff0bdf70d572b1f5da07fff041668cbb2e6981248",
+        "src/data/elections/2026/presovsky-kraj/candidacies.json": "b788c47f798c6b602459801c3d77919f0c5524bb04e864d1d7854a5179f06bdd",
+        "src/data/elections/2026/presovsky-kraj/candidates.json": "3d6bc515e6222a1bfda6ff50b3444e9657a21e5b651bba98682188a59d339073",
+        "src/data/elections/2026/presovsky-kraj/claims.json": "3c250ca1e3f5eaedfa62e06b866a619ac571d9bf81e5c06220f342db9bbdcdd0",
+        "src/data/elections/2026/presovsky-kraj/districts.json": "86e2ff60b2e4646fd344d6dd101ef342eb3b3f124b65ecfe8512c50e8509d550",
+        "src/data/elections/2026/presovsky-kraj/elections.json": "e33aa181093f929b109e6e589916af43b88d6d62aacea06ac21d088b7b49cb37",
+        "src/data/elections/2026/presovsky-kraj/municipalities/poprad/config.json": "37226d7d846723448043e6338d103e8df89ceef46aa80a0a33b284ba7cc55b8f",
+        "src/data/elections/2026/presovsky-kraj/municipalities/poprad/polling-stations.json": "05b56218e5603b4633a7796b87564d0bfeb9eab7db67f6716711868de4daafcf",
+        "src/data/elections/2026/presovsky-kraj/municipalities/presov/config.json": "34f8d98da58eacc69c31234004bcc76797fb97500bff2300e24327c1abcdf45b",
+        "src/data/elections/2026/presovsky-kraj/regional/config.json": "40befc8dd421fe5f685f4836ae65407d4922b9755add8dad71a78d54e8e869c1",
+        "src/data/elections/2026/presovsky-kraj/research-coverage.json": "f67f3f8a531926ba6ea71b8e2ac7eec4b0f2e3d94031013d501a469af756c900",
+        "src/data/sources.json": "4d02f43c6613def375a1bbb2185517789810dd6e44640c1678c4d13eca05c270"
+      },
+      "officialAndPreservationFixtures": {
+        "tests/fixtures/presov-poprad-official-roster.json": "9d9e9fa200da8029c372ebd530a3a57fe304f982bab5d96b1cd147be3d1a3802",
+        "tests/fixtures/presov-poprad-history-2022.json": "d1022fdb1fdbfd95e1b31dbd387556c4527a64e35fa9abca2381e8389758dfd0",
+        "tests/fixtures/presov-poprad-history-2017.json": "9c072079ca2a61c39024369b614df3826d8f184e5a851252fe973f16fcc45ff9",
+        "tests/fixtures/presov-poprad-zilina-preservation.json": "da32b1d4895d129b4a5332690b69d55c254c0e8d802c6bc57c9e6936a398c2d8"
+      },
+      "builtSamples": {
+        "dist/index.html": "7cdd409934489efeba39edf68d0a33576ddcd4d198dd740cb4d8d0926b992307",
+        "dist/presovsky-kraj/2026/index.html": "ee85247de45ff02d738d481f6622176302efbe2303d5e7631be0c1050961c05d",
+        "dist/poprad/2026/ako-volit/index.html": "44fd45ca093b5da7d321f0302b2c9eda13710b99fe69ea6f80571278e5ff46b5",
+        "dist/presov/2026/ako-volit/index.html": "1f201c3ff05c9939e50b2b24303a3bd466995f64ecc23908fa9aeaf598b4143d",
+        "dist/presov/2026/kandidat/ingrid-dolezalova/index.html": "58a55c0c523c09299aff8efe4633d0892005f96e67661b6c617989e65463a74f",
+        "dist/sitemap.xml": "4df864fc42fedc421d42765effa806cac59aba36f40b2c96d3fe4b0674c408b9"
+      },
+      "independentDomainReviews": [
+        {
+          "scope": "poprad-evidence-review",
+          "artifactSha256": "2df6a463a2b392426f4f02137911fc26adb1681fff97adcc492dc08f327b0f76",
+          "categoryBoundsSha256": "d26cf3d84101e333bfea873ad2b53f62a12372205cf3af46b14127c2dfab86a1",
+          "sourceCount": 217,
+          "proposedClaimCount": 195,
+          "categoryRecordCount": 824,
+          "statusCounts": {
+            "reviewed_positive": 319,
+            "reviewed_bounded_negative": 505
+          },
+          "method": "Independent automated read-only original-source review; not a human editorial or legal opinion."
+        },
+        {
+          "scope": "presov-evidence-review",
+          "artifactSha256": "9175cb42581b27902df5739c0abb79311d00e0ddddfa264e1c85aaa16a011cc4",
+          "categoryBoundsSha256": "812fb91ad43b71046dfec8363a864809381e9f775ccfc30ad2a7b4a72b048c48",
+          "sourceCount": 322,
+          "proposedClaimCount": 382,
+          "categoryRecordCount": 1648,
+          "statusCounts": {
+            "found": 599,
+            "bounded_no_sufficient_evidence": 1049
+          },
+          "method": "Independent automated read-only original-source review; not a human editorial or legal opinion."
+        },
+        {
+          "scope": "psk-evidence-review",
+          "artifactSha256": "22757ed00333e69024a4720c555be5418f8669862ef1ee6a828eb7d39b0753b7",
+          "categoryBoundsSha256": "4d91eb740851d9a002ad371b354da63b1cd743b5b1ed195eb603c118802eedb8",
+          "sourceCount": 74,
+          "proposedClaimCount": 65,
+          "categoryRecordCount": 88,
+          "statusCounts": {
+            "found": 64,
+            "searched_none": 24
+          },
+          "method": "Independent automated read-only original-source review; not a human editorial or legal opinion."
+        },
+        {
+          "scope": "presov-employment-office-review",
+          "artifact": "adjudications.json",
+          "artifactSha256": "ecd43ef55cb87c13dcc2f10bcad8c2b4bd3e1e32c20ab59007845193fedbb5c6",
+          "summary": {
+            "recordCount": 278,
+            "candidateCount": 155,
+            "statusCounts": {
+              "found": 135,
+              "searched_none": 143
+            },
+            "categoryStatusCounts": {
+              "employment_business": {
+                "found": 70,
+                "searched_none": 66
+              },
+              "public_office": {
+                "found": 65,
+                "searched_none": 77
+              }
+            },
+            "inputHeldLeadReferenceCount": 1347,
+            "uniqueHeldKeyCount": 730,
+            "uniqueCanonicalGroupCount": 679,
+            "newAtomicProposalCount": 47,
+            "newSourceCount": 40,
+            "remainingUnresolvedCount": 0
+          },
+          "method": "Independent read-only domain adjudication of original sources and identity bridges; incorporated by the final publication reviewer."
+        },
+        {
+          "scope": "presov-history-assets-review",
+          "artifact": "adjudications.json",
+          "artifactSha256": "cabdf32754a0e46c32067bb67a934b94a549931bff367d3a87449287e7817e1b",
+          "summary": {
+            "inputRecordCount": 101,
+            "recordCount": 101,
+            "uniqueHeldOriginalKeys": 94,
+            "statusCounts": {
+              "found": 79,
+              "searched_none": 22
+            },
+            "statusByCategory": {
+              "previous_elections": {
+                "found": 59,
+                "searched_none": 6
+              },
+              "asset_declarations": {
+                "found": 15,
+                "searched_none": 1
+              },
+              "controversies": {
+                "searched_none": 15,
+                "found": 5
+              }
+            },
+            "newAtomicProposalCount": 30,
+            "newSourceProposalCount": 11,
+            "remainingUnresolvedRecordCount": 0,
+            "externalCorrectedProposalReferences": 1,
+            "integrationRequired": true
+          },
+          "method": "Independent read-only domain adjudication of original sources and identity bridges; incorporated by the final publication reviewer."
+        },
+        {
+          "scope": "presov-history-assets-review",
+          "artifact": "poprad-index-publication-proposals.json",
+          "artifactSha256": "573cbea54659d5be48e763df7db46d1b2e869322c98be594eae7aa7b3113f565",
+          "summary": {
+            "recordCount": 16,
+            "found": 16,
+            "searched_none": 0,
+            "newAtomicProposalCount": 16,
+            "newSourceProposalCount": 1,
+            "remainingUnresolvedRecordCount": 0
+          },
+          "method": "Independent read-only domain adjudication of original sources and identity bridges; incorporated by the final publication reviewer."
+        }
+      ]
+    },
+    "privacy": "Only counts,public source IDs,relative repository paths,commands,hashes and bounded review results retained. No private addresses, full birth dates, personal contacts, donor details, source bodies or search snippets copied.",
+    "publicFileMutationMeaning": "This reviewer did not edit public files; implementation changes were made by the root agent."
+  },
+  "sourceMetadataCorrection": {
+    "sourceId": "presov-employment-office-original-ea2c7748524671f3",
+    "reason": "Necessary public EduPage signature parameter was wrongly stripped by the collector canonicalizer. Working URL restored from the school index; independent original PDF digest matches exactly. No claim or identity changed.",
+    "proofArtifactSha256": "6a0b43bf2db59a3c5e38f170fd523445384cb2e02a42e630f396f417553c76d3",
+    "finalSourceUrl": "https://cloud-4.edupage.org/cloud/Rocenka_2022_-_web.pdf?z%3AXhkyfDJNB9SnPCKB9wjVtxB6Svwq6%2F8gwRXduWzSXT4fXJy7Ew%2FsxiCf6LVgr0yX"
+  },
+  "finalPublicClaimSha256": "3c250ca1e3f5eaedfa62e06b866a619ac571d9bf81e5c06220f342db9bbdcdd0",
+  "finalJournalSha256": "cc4ef2fc08d2c46b5bfcfbaccab6166511c486c943e3ecfa414f4ab10015c4e6",
+  "remainingActionablePatchFindings": 0,
+  "globalExternalLinkGate": "failed_on_preexisting_origins"
+}

@@ -1,6 +1,6 @@
 ---
 import SourceLink from './SourceLink.astro';
-import { financeSourceIds, getFinanceDuties, partyFinanceSourceIds, reportDeadline } from '../lib/campaign-finance';
+import { financeDutyText, financeSourceIds, getFinanceDuties, partyFinanceSourceIds, reportDeadline } from '../lib/campaign-finance';
 import type { CampaignFinance, FinanceParty, Source } from '../lib/schemas';
 import type { OfficialCandidacy } from '../lib/official-facts';
 
@@ -14,16 +14,7 @@ const deadline = reportDeadline(record.electionDate);
 const beforeDeadline = record.checkedAt <= deadline;
 const sourceIds = [...new Set([...financeSourceIds(record), ...parties.flatMap(partyFinanceSourceIds)])];
 const operatorLabels = { unknown: hasPartyNomination ? 'Z overených zdrojov nie je určené, či výdavky znáša kandidát, politická strana alebo obaja.' : 'Z overených zdrojov nie je určené, či kandidát vynakladá prostriedky na vlastnú kampaň.', candidate: 'Kandidát.', party: 'Politická strana.', both: 'Kandidát aj politická strana.', none: 'Kampaň sa nevedie.' };
-const accountText = !eligibleHead
-  ? 'Pre samostatnú poslaneckú kandidatúru sa nevyžaduje. Kandidát na starostu alebo primátora obce do 5 000 obyvateľov tiež nemá túto povinnosť.'
-  : duties.account === 'required' ? 'Vyžaduje sa pre vlastné financovanie kampane.'
-  : duties.account === 'not_required' ? 'Nevyžaduje sa, ak kandidát nevynakladá žiadne prostriedky na vlastnú kampaň.'
-  : `Vyžaduje sa, ak kandidát vynakladá prostriedky na vlastnú kampaň.${hasPartyNomination ? ' Samotná nominácia stranou neurčuje, kto kampaň financuje.' : ''}`;
-const reportText = !eligibleHead
-  ? 'Pre samostatnú poslaneckú kandidatúru sa nevyžaduje verejná správa kandidáta podľa § 6 ods. 15. Táto povinnosť sa nevzťahuje ani na starostu alebo primátora obce do 5 000 obyvateľov.'
-  : duties.report === 'required' ? 'Vyžaduje sa verejná správa kandidáta podľa § 6 ods. 15.'
-  : duties.report === 'not_required' ? 'Samostatná správa kandidáta sa nevyžaduje, ak jeho kampaň financuje iba strana; strana vykazuje svoje výdavky.'
-  : 'Vyžaduje sa pri vlastnej kampani kandidáta podľa § 6 ods. 15 a 17. Pri kampani financovanej iba stranou vykazuje výdavky strana.';
+const { account: accountText, report: reportText } = financeDutyText(record, hasPartyNomination);
 ---
 
 <section class="campaign-finance" data-campaign-finance aria-labelledby="campaign-finance-title">
@@ -57,7 +48,7 @@ const reportText = !eligibleHead
   {hasPartyNomination && (
     <>
       <h3>Transparentné účty a správy politických strán</h3>
-      {hasIndependentCandidacy && <p data-party-nominations>Stranícke nominácie tohto kandidáta: {partyNominations.map((nomination) => `${nomination.election} — ${nomination.affiliation}`).join('; ')}. V ďalšej overenej kandidatúre vystupuje ako nezávislý kandidát.</p>}
+      {hasIndependentCandidacy && partyNominations.length > 0 && <p data-party-nominations>Stranícke nominácie tohto kandidáta: {partyNominations.map((nomination) => `${nomination.election} — ${nomination.affiliation}`).join('; ')}. V ďalšej overenej kandidatúre vystupuje ako nezávislý kandidát.</p>}
       <p>Uvedené sú strany z overených nominácií. Odkaz na účet strany nepotvrdzuje financovanie tohto kandidáta; transakcie celej strany nemožno priradiť jednému kandidátovi.</p>
       <ul class="campaign-finance__parties">
         {parties.map((party) => (
@@ -76,7 +67,7 @@ const reportText = !eligibleHead
   {record.headCandidacies.length > 0 && (
     <>
       <p>Overené kandidatúry na funkciu predsedu kraja, starostu alebo primátora, ktoré vstupujú do posúdenia:</p>
-      <ul>{record.headCandidacies.map((head) => <li>{head.office === 'region-chair' ? 'Predseda kraja' : 'Starosta / primátor'} — {head.locality}{head.population !== undefined ? ` (${head.population.toLocaleString('sk-SK')} obyvateľov ku dňu vyhlásenia volieb)` : ''}.</li>)}</ul>
+      <ul>{record.headCandidacies.map((head) => <li>{head.office === 'region-chair' ? 'Predseda kraja' : 'Starosta / primátor'} — {head.locality}{head.population !== undefined ? ` (${head.population.toLocaleString('sk-SK')} obyvateľov; úradne zverejnený počet pre voľby)` : ''}.</li>)}</ul>
     </>
   )}
   <p>{record.candidacySearchNote} {record.otherCandidacies === 'not_exhaustive' && !eligibleHead && 'Prípadná ďalšia kandidatúra na predsedu kraja alebo na starostu či primátora obce nad 5 000 obyvateľov môže zmeniť povinnosť účtu a správy.'}</p>

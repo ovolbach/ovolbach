@@ -14,6 +14,36 @@ export interface RegionalElectionContext {
 
 export type ProfilePageContext = ElectionContext | RegionalElectionContext;
 
+export function regionalCandidacyUpdates(context: Pick<RegionalElectionContext, 'year' | 'data'>) {
+  return context.data.claims.filter((claim) => claim.category === 'basic' && claim.kind === 'official_outcome'
+    && claim.period?.startsWith(`${context.year}-`))
+    .toSorted((a, b) => (b.period ?? '').localeCompare(a.period ?? '', 'sk'));
+}
+
+export interface CityCatalogueGroup {
+  regionSlug: string;
+  regionName: string;
+  year: number;
+  basePath: string;
+  cities: ElectionContext[];
+}
+
+export function groupCityCatalogue(contexts: readonly ElectionContext[]): CityCatalogueGroup[] {
+  const groups = new Map<string, CityCatalogueGroup>();
+  for (const city of contexts.filter((row) => row.status === 'published')) {
+    const key = `${city.regionSlug}/${city.year}`;
+    let group = groups.get(key);
+    if (!group) {
+      group = { regionSlug: city.regionSlug, regionName: city.regionName, year: city.year,
+        basePath: `/${city.regionSlug}/${city.year}/`, cities: [] };
+      groups.set(key, group);
+    }
+    group.cities.push(city);
+  }
+  for (const group of groups.values()) group.cities.sort((a, b) => a.cityName.localeCompare(b.cityName, 'sk'));
+  return [...groups.values()].sort((a, b) => a.regionName.localeCompare(b.regionName, 'sk') || b.year - a.year);
+}
+
 export function isRegionalContext(context: ProfilePageContext): context is RegionalElectionContext {
   return 'kind' in context && context.kind === 'regional';
 }

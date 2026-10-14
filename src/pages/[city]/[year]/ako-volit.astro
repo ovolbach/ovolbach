@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SourceLink from '../../../components/SourceLink.astro';
-import martinPollingStations from '../../../data/elections/2026/zilinsky-kraj/municipalities/martin/polling-stations.json';
+import { pollingGroupsForContext } from '../../../lib/polling-groups';
 import { listPublishedElectionContexts, type ElectionContext } from '../../../lib/load-guide-data';
 
 export async function getStaticPaths() {
@@ -21,10 +21,7 @@ const regionChair = election('region-chair');
 const regionCouncil = election('region-council');
 const ballotCount = data.elections.length;
 const ballotSummarySourceIds = [...new Set(data.elections.flatMap((item) => item.sourceIds))];
-const cityWidePolling = context.citySlug === 'martin' && context.year === 2026;
-const pollingGroups = cityWidePolling
-  ? [{ id: 'martin-2026-polling', anchor: 'miestnosti-martin-2026', name: 'Volebné okrsky v meste Martin', pollingStations: martinPollingStations, sourceIds: ['mt-city-polling-2026', 'mt-town-only-polling-2026'] }]
-  : cityDistricts.map((district) => ({ ...district, anchor: `miestnosti-obvod-${district.number}` }));
+const { cityWide: cityWidePolling, groups: pollingGroups } = pollingGroupsForContext(context);
 ---
 
 <BaseLayout title={`Ako voliť | ${context.cityName} ${context.year} | ovolbach.sk`} description={`Praktický prehľad hlasovacích lístkov v meste ${context.cityName} v roku ${context.year}.`} context={context} breadcrumbs={[{ label: 'Mestá, kraje a roky', href: '/' }, { label: `${context.cityName} ${context.year}`, href: context.basePath }, { label: 'Ako voliť', href: `${context.basePath}ako-volit/` }]}>
@@ -59,8 +56,9 @@ const pollingGroups = cityWidePolling
       <h2 id="polling-places">Volebné miestnosti</h2>
       <p>Vyhľadajte svoju ulicu alebo mestskú časť v rozpise okrskov.</p>
       {cityWidePolling && <p data-polling-limitation>
-        Priradenie okrskov k mestským volebným obvodom nebolo potvrdené. Úplný mestský rozpis uvádzame podľa ulíc a územia. Pre voličov s trvalým pobytom iba na mesto Martin je pripojené osobitné oficiálne oznámenie. Overené 3. 10. 2026.
-        <SourceLink recordId="martin-polling-limitation" sourceIds={['mt-city-polling-2026', 'mt-town-only-polling-2026']} sources={data.sources} />
+        Priradenie okrskov k mestským volebným obvodom nebolo potvrdené. Úplný mestský rozpis uvádzame podľa ulíc a územia.
+        {context.citySlug === 'martin' ? ' Pre voličov s trvalým pobytom iba na mesto Martin je pripojené osobitné oficiálne oznámenie. Overené 3. 10. 2026.' : ' Overené 14. 10. 2026.'}
+        <SourceLink recordId={`${context.citySlug}-polling-limitation`} sourceIds={pollingGroups[0]!.sourceIds} sources={data.sources} />
       </p>}
       <nav aria-label={cityWidePolling ? 'Rozpis volebných okrskov' : 'Volebné miestnosti podľa obvodu'}>
         <ul>{pollingGroups.map((group) => <li><a href={`#${group.anchor}`}>{group.name}</a></li>)}</ul>

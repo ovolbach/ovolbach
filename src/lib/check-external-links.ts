@@ -41,7 +41,8 @@ export async function checkExternalLinks(
   const cancel = dependencies.clearTimeout ?? ((handle: unknown) => globalThis.clearTimeout(handle as ReturnType<typeof setTimeout>));
   const createAbortController = dependencies.createAbortController ?? (() => new AbortController());
 
-  return Promise.all(sourceGroups(sources).map(async ({ url, sourceIds }) => {
+  const groups = sourceGroups(sources);
+  const check = async ({ url, sourceIds }: typeof groups[number]): Promise<LinkResult> => {
     let lastError: unknown;
     let timedOut = false;
 
@@ -90,5 +91,16 @@ export async function checkExternalLinks(
       attempts: 2,
       error: timedOut ? `Request timed out after ${timeoutMs}ms` : String(lastError),
     };
-  }));
+  };
+
+  const results: LinkResult[] = new Array(groups.length);
+  let next = 0;
+  const consumeNextGroup = async () => {
+    while (next < groups.length) {
+      const index = next++;
+      results[index] = await check(groups[index]!);
+    }
+  };
+  await Promise.all(Array.from({ length: Math.min(8, groups.length) }, consumeNextGroup));
+  return results;
 }

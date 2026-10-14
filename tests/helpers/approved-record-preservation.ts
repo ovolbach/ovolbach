@@ -8,6 +8,7 @@ type Correction = { path: string; id: string; before: RecordValue | null; after:
 type DateCorrection = { claimId: string; before: string; after: string };
 const corrections: Correction[] = [];
 const dates: DateCorrection[] = [];
+const approvedMerges = JSON.parse(readFileSync(new URL('../fixtures/approved-coverage-merge.json', import.meta.url), 'utf8'));
 for (const filename of ['martin-media-review-2026.json', 'ruzomberok-media-review-2026.json', 'dolny-kubin-media-review-2026.json', 'campaign-account-recheck-2026-10-04.json']) {
   const url = new URL(`research/${filename}`, root);
   if (!existsSync(url)) continue;
@@ -38,6 +39,11 @@ export function preservesApprovedRecord(path: string, id: string, current: Recor
     if (hash === expectedHash) return true;
     if (visited.has(hash)) continue;
     visited.add(hash);
+    // The protected base contains a canonical merge of two separately audited
+    // additions. Accept only its exact recorded value, never an arbitrary union.
+    for (const approvedMerge of approvedMerges) if (path === approvedMerge.path && id === approvedMerge.id && fingerprint(approvedMerge.current) === hash) {
+      queue.push(...approvedMerge.parents);
+    }
     for (const row of corrections) if (row.path === path && row.id === id && fingerprint(row.after) === hash) queue.push(row.before);
     if (value && path === `${cycle}claims.json`) {
       for (const row of dates) if (row.claimId === id && value.checkedAt === row.after) queue.push({ ...value, checkedAt: row.before });

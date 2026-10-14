@@ -25,7 +25,8 @@ test('independent-only profiles expose candidate finance without a party-account
   await expect(page.locator('[data-personal-account]')).toHaveCount(1);
   await expect(page.locator('[data-finance-report-duty]')).toHaveAttribute('data-finance-report-duty', 'required');
   await page.goto(`${BASE}peter-bonko/`);
-  await expect(page.locator('[data-campaign-finance]')).toContainText('Pre samostatnú poslaneckú kandidatúru sa nevyžaduje');
+  await expect(page.locator('[data-finance-account-duty]')).toHaveAttribute('data-finance-account-duty', 'conditional');
+  await expect(page.locator('[data-finance-account-duty]')).toContainText('Povinnosť je podmienená ďalšou kandidatúrou');
 });
 test('mixed candidacies retain party accounts with the specific party nomination', async ({ page }) => {
   await page.goto(`${BASE}tomas-medved/`);
@@ -50,7 +51,8 @@ test('finance distinguishes personal and coalition accounts and shows the source
 });
 test('council duties remain explicit and the rechecked chair account is linked', async ({ page }) => {
   await page.goto(`${BASE}peter-bonko/`);
-  await expect(page.locator('[data-campaign-finance]')).toContainText('Pre samostatnú poslaneckú kandidatúru sa nevyžaduje');
+  await expect(page.locator('[data-finance-report-duty]')).toHaveAttribute('data-finance-report-duty', 'conditional');
+  await expect(page.locator('[data-finance-report-duty]')).toContainText('Povinnosť je podmienená ďalšou kandidatúrou');
   await expect(page.locator('[data-campaign-finance]')).toContainText('ďalších kandidatúr');
   await page.goto(profileFor('anna-belousovova'));
   await expect(page.locator('[data-campaign-finance] [data-personal-account]')).toHaveAttribute('href', 'https://ib.fio.sk/ib/transparent?a=2603546837');

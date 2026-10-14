@@ -5,11 +5,13 @@ import ComparisonSelection from './ComparisonSelection.astro';
 import SourceLink from './SourceLink.astro';
 import type { ElectionContext } from '../lib/load-guide-data';
 import type { RegionalElectionContext } from '../lib/regional-context';
+import { regionalCandidacyUpdates } from '../lib/regional-context';
 import { getRegionalChairBallot } from '../lib/selectors';
 
 interface Props { context: RegionalElectionContext; cityContexts: ElectionContext[]; }
 const { context, cityContexts } = Astro.props;
 const ballot = getRegionalChairBallot(context.data);
+const updates = regionalCandidacyUpdates(context);
 const districts = cityContexts.map((city) => {
   const district = city.data.districts.find((row) => row.id === city.regionalDistrictId && row.kind === 'region');
   if (!district) throw new Error(`Missing regional district: ${city.regionalDistrictId}`);
@@ -25,10 +27,19 @@ const heading = `${context.regionName} – voľby ${context.year}`;
   context={context} pageKind="collection"
   breadcrumbs={[{ label: 'Mestá, kraje a roky', href: '/' }, { label: `${context.regionName} ${context.year}`, href: context.basePath }]}>
   <h1>{heading}</h1>
-  <p>Prehľad kandidátov na predsedu Žilinského samosprávneho kraja a odkazy na kandidátov do krajského zastupiteľstva podľa spracovaných volebných obvodov. Profily obsahujú overené údaje a odkazy na zdroje.</p>
+  <p>Prehľad kandidátov na predsedu samosprávneho kraja a odkazy na kandidátov do krajského zastupiteľstva podľa spracovaných volebných obvodov. Profily obsahujú overené údaje a odkazy na zdroje.</p>
   <p data-election-date>Oficiálne zoznamy kandidátov pre voľby <time datetime={ballot.election.electionDate}>{ballot.election.electionDate}</time>.
     <SourceLink recordId="regional-election-date" sourceIds={ballot.election.sourceIds} sources={context.data.sources} />
   </p>
+  {updates.length > 0 && <section class="claim-section" aria-labelledby="registration-updates">
+    <h2 id="registration-updates">Úradné oznámenia o kandidatúrach</h2>
+    {updates.map((claim) => <article class="claim" data-candidacy-update data-claim>
+      <h3>{claim.label.sk}</h3>
+      <p class="claim__period">{claim.period} · Overené {claim.checkedAt}</p>
+      <p data-sourced-text={claim.id}>{claim.text.sk}</p>
+      <SourceLink recordId={claim.id} sourceIds={claim.sourceIds} sources={context.data.sources} />
+    </article>)}
+  </section>}
   <ComparisonSelection basePath={context.basePath} catalogueHref={`${context.basePath}#kandidati`} />
   <div id="kandidati">
     <BallotSection ballot={ballot} sources={context.data.sources} headingLevel="h2" context={context} />

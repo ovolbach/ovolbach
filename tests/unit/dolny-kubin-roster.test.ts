@@ -83,7 +83,7 @@ describe('Dolný Kubín official electorate and sourced research', () => {
   });
 
   it('keeps the existing guides and approved research intact', async () => {
-    for (const [citySlug, people, ballots, claims] of [['liptovsky-mikulas', 91, 109, 629], ['ruzomberok', 79, 100, 597]] as const) {
+    for (const [citySlug, people, ballots, claims] of [['liptovsky-mikulas', 91, 109, 632], ['ruzomberok', 79, 100, 600]] as const) {
       const { data } = await loadElectionContext({ citySlug, year: 2026 });
       expect(data.candidates).toHaveLength(people);
       expect(data.candidacies).toHaveLength(ballots);

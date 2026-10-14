@@ -2,26 +2,23 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { SITE_TITLE } from '../config/site';
 import { listPublishedElectionContexts } from '../lib/load-guide-data';
-import { regionalContexts } from '../lib/regional-context';
+import { groupCityCatalogue } from '../lib/regional-context';
 
 const contexts = await listPublishedElectionContexts();
-const regions = regionalContexts(contexts);
+const regions = groupCityCatalogue(contexts);
 const snapshotDate = contexts.map((context) => context.snapshotDate).sort().at(-1)!;
 ---
 
 <BaseLayout title={SITE_TITLE} description="Katalóg komunálnych a krajských volieb podľa mesta, kraja a roku." snapshotDate={snapshotDate} pageKind="collection">
   <h1>Mestá, kraje a roky</h1>
   <p>Vyberte mesto alebo kraj a rok volieb. Staršie roky zostávajú dostupné ako archív.</p>
-  <h2>Kraje</h2>
-  <ul class="region-year-catalogue">
-    {regions.map((context) => (
-      <li><a href={context.basePath}>{context.regionName} — {context.year}</a></li>
-    ))}
-  </ul>
-  <h2>Mestá</h2>
-  <ul class="city-year-catalogue">
-    {contexts.map((context) => (
-      <li><a href={context.basePath}>{context.cityName} — {context.year}</a></li>
-    ))}
-  </ul>
+  {regions.map((region) => (
+    <section class="region-year-catalogue" aria-labelledby={`region-${region.regionSlug}-${region.year}`}>
+      <h2 id={`region-${region.regionSlug}-${region.year}`}><a href={region.basePath}>{region.regionName} — {region.year}</a></h2>
+      <h3>Mestá</h3>
+      <ul class="city-year-catalogue">
+        {region.cities.map((city) => <li><a href={city.basePath}>{city.cityName} — {city.year}</a></li>)}
+      </ul>
+    </section>
+  ))}
 </BaseLayout>

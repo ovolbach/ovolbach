@@ -2,12 +2,25 @@ import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import { preservesApprovedRecord } from '../helpers/approved-record-preservation';
+import approvedMerges from '../fixtures/approved-coverage-merge.json';
 
 const audit = JSON.parse(readFileSync('research/martin-media-review-2026.json', 'utf8'));
 const financeAudit = JSON.parse(readFileSync('research/campaign-account-recheck-2026-10-04.json', 'utf8'));
 const hash = (value: unknown) => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 
 describe('required audited record corrections', () => {
+  it('preserves the exact canonical union already present in the protected base, rejecting extra sources', () => {
+    for (const approvedMerge of approvedMerges) {
+    const currentSources = new Set(approvedMerge.current.sourceIds);
+    const parentSources = new Set(approvedMerge.parents.flatMap((row) => row.sourceIds)
+      .map((id) => approvedMerge.sourceAliases.find((alias) => alias.from === id)?.to ?? id));
+    expect(currentSources).toEqual(parentSources);
+    const row = audit.recordChanges.find((change: { id: string }) => change.id === approvedMerge.id);
+    expect(preservesApprovedRecord(approvedMerge.path, approvedMerge.id, approvedMerge.current, hash(row.before))).toBe(true);
+    expect(preservesApprovedRecord(approvedMerge.path, approvedMerge.id,
+      { ...approvedMerge.current, sourceIds: [...approvedMerge.current.sourceIds, 'unaudited-source'] }, hash(row.before))).toBe(false);
+    }
+  });
   it('rejects reverting every superseded Martin record, including documented removals', () => {
     for (const row of audit.recordChanges) {
       if (JSON.stringify(row.before) === JSON.stringify(row.after)) continue;

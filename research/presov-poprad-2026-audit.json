@@ -1,0 +1,168 @@
+{
+  "snapshotDate": "2026-10-14",
+  "electionDate": "2026-10-24",
+  "baseCommit": "2403899",
+  "branch": "codex/presov-poprad-2026",
+  "researchStatus": "closed",
+  "releaseStatus": "implementation_verified_global_external_link_gate_failed",
+  "scope": "Poprad a Prešov: komunálne voľby, všetci kandidáti na predsedu PSK a úplné krajské obvody 6 a 7 vrátane kandidátov z iných obcí. Verejný web je slovenský. Nasadenie nebolo súčasťou práce.",
+  "counts": {
+    "people": 320,
+    "registrations": 402,
+    "claims": 998,
+    "claimsByCategory": {
+      "basic": 1,
+      "previous_elections": 317,
+      "programme_statements": 142,
+      "public_office": 111,
+      "employment_business": 225,
+      "asset_declarations": 80,
+      "controversies": 35,
+      "media": 87
+    },
+    "claimsByKind": {
+      "official_outcome": 7,
+      "election_result": 309,
+      "fact": 477,
+      "quote": 1,
+      "declaration": 77,
+      "media_report": 109,
+      "response": 18
+    },
+    "categories": 2560,
+    "coverageStatuses": {
+      "found": 983,
+      "searched_none": 1577
+    },
+    "actualTargetedQueries": 2560,
+    "nonbasicResearchQueries": 2240,
+    "financeQueries": 320,
+    "basicDirectChecks": 320,
+    "globalSources": 1772,
+    "newSources": 601,
+    "originalMetadataRecords": 6071,
+    "originalReceiptStatuses": {
+      "original_downloaded": 5560,
+      "unavailable": 502,
+      "reviewer_original_read": 9
+    },
+    "financeRecords": 320,
+    "financeParties": 29,
+    "financeAccountStatuses": {
+      "not_listed": 310,
+      "unverified": 8,
+      "verified": 2
+    },
+    "oldPreservedPeople": 460
+  },
+  "ballots": {
+    "poprad": {
+      "mayorCandidates": 5,
+      "cityCouncilCandidates": 79,
+      "cityCouncilDistrictCounts": [
+        37,
+        42
+      ],
+      "citySeats": [
+        9,
+        10
+      ],
+      "regionalDistrict": 6,
+      "regionalCouncilCandidates": 49,
+      "regionalSeats": 8,
+      "pollingStations": 44,
+      "pollingBoundary": "Oficiálny celomestský zoznam. Priradenie všetkých okrskov k mestským obvodom nebolo nezávisle potvrdené a nie je vymyslené."
+    },
+    "presov": {
+      "mayorCandidates": 6,
+      "cityCouncilCandidates": 138,
+      "cityCouncilDistrictCounts": [
+        27,
+        16,
+        19,
+        19,
+        22,
+        35
+      ],
+      "citySeats": [
+        7,
+        3,
+        4,
+        5,
+        4,
+        8
+      ],
+      "regionalDistrict": 7,
+      "regionalCouncilCandidates": 114,
+      "regionalSeats": 15,
+      "pollingStations": 66
+    },
+    "pskChairCandidates": 11
+  },
+  "implementation": [
+    "Nové publikované kontexty /poprad/2026/, /presov/2026/ a /presovsky-kraj/2026/ obsahujú profily, porovnanie, zdroje a návody hlasovania. Predsednícke profily majú spoločné krajské adresy.",
+    "Hlavná stránka má jeden H1. Každý kraj a rok tvorí H2 so svojím odkazom a vnoreným H3 Mestá. Testované sú publikované kontexty, slovenské abecedné poradie a roky od najnovšieho.",
+    "Verejné schémy API sú zachované. Všetky staré JSON súbory Žilinského kraja sú nezmenené po bajtoch; všetkých 1171 pôvodných zdrojových záznamov zostalo presných. Zachovaných je 460 pôvodných profilov.",
+    "Historické presmerovania sú výslovne obmedzené na 49 pôvodných trás Žilinského kraja 2026; overených je aj 18 výsledných predsedníckych profilov oboch krajov."
+  ],
+  "researchCorrections": [
+    "Peter SISKA je presný oficiálny tvar; nesprávne vyhľadávanie Šiška bolo vylúčené a nahradené skutočným výskumom správneho mena. Opravené bolo parsovanie Martina ROHRBÖCK a Dávid Richard OBROČNÍK. Miestny oficiálny tvar Peter BAČÍK zostal zachovaný; odlišný centrálny tvar Bačik je explicitne zaznamenaný.",
+    "Úplná oficiálna tabuľka výsledkov 2022 obnovila 69 výsledkov s postavením náhradníka. Status X Saraka a Ivan Záborský je podľa otvorenej oficiálnej legendy vzdaná alebo odvolaná kandidatúra. Duplicitné výsledky boli odstránené; všetkých 309 výsledkov má štruktúrovaný výsledok a úplné zdrojované znenie.",
+    "Aktuálny prešovský dokument 2482594 nahradil nedostupný 2482012. Hlavná 105 patrí k okrsku 31. Päť zalomených adries volebných miestností bolo opravených po vizuálnom čítaní originálu.",
+    "Laššáková má samostatné datované úradné oznámenie. Mediálne oznámenia Kašo a Lešková neboli povýšené na úradný protokol.",
+    "Nezávislá záverečná kontrola zúžila Krotákovo tvrdenie na ukončenie aktívnej hráčskej kariéry, Majerského na jedno vyhlásenie o nekandidovaní a Tobisovej tvrdenie na jej doslovný význam o istote a stabilite. Všetkých 56 záverečných doplnení sa zhoduje s publikovanými údajmi.",
+    "V odkaze EduPage zostal potrebný verejný parameter s prázdnou hodnotou. Pracujúci odkaz bol overený zo školského indexu a má totožný odtlačok originálneho PDF. Názvy stránok Fio boli obnovené podľa pôvodného title."
+  ],
+  "searchBoundary": "Každý človek má sedem skutočných tematických vyhľadávaní a samostatné vyhľadávanie financovania, spolu 2560 uložených dotazov. Basic používa priame úradné originály a úplné porovnanie 402 kandidatúr, nie vymyslený vyhľadávací dotaz. Stiahnutie alebo extrakcia samotné neznamenajú schválenie faktu. Každé pozitívne rozhodnutie mimo basic má prijaté tvrdenie tej istej kategórie.",
+  "baselineHarnessCorrections": "Pred zmenami mal základ 2403899 šesť zlyhaných testov v piatich súboroch: zastarané počty, kanonické aliasy zdrojov, menovci SEO a už schválené zlúčenie coverage. Opravené boli iba testové očakávania podľa doložených existujúcich údajov a úzko povolený presný fixture zlúčenia. Pôvodný historický fakt nebol zmenený. Viackrajové testy teraz izolujú pôvodnú kohortu; dátum globálnej stránky a podmienené vysvetlenie financovania majú aktualizované overenia.",
+  "financeBoundary": {
+    "otherVerifiedHeadCandidacies": 42,
+    "municipalitiesSearched": 32,
+    "excludedHeadNamesakes": 9,
+    "verifiedPopulationNotices": 13,
+    "unresolvedExternalMayorPopulationPeople": 19,
+    "verifiedAccounts": "Králik a Oľha: čitateľný vlastník bankového účtu, totožný odkaz na vlastnom volebnom webe a skutočné debety označené ako kampaň. Žiadny súčet výdavkov, darcov alebo osobného majetku sa neodvodzuje.",
+    "otherAccountMeaning": "Osem unverified záznamov zachováva hranicu totožnosti alebo čitateľnosti. 310 not_listed znamená nenájdenie mena v indexe MV SR, nie neexistenciu účtu alebo porušenie zákona.",
+    "duties": "Stranícke záznamy zahŕňajú všetky potvrdené ďalšie nominácie na starostu alebo primátora. Neúplne potvrdený počet obyvateľov zachováva podmienenú povinnosť. Nominácia sama nepreukazuje výdavky ani prevádzkovateľa kampane."
+  },
+  "remainingLimits": [
+    "Globálny check:links skončil exit 1: sedem starých adries nebolo dostupných. Samostatný opakovaný pokus otvoril ZUŠ; päť adries Lubokuban zostalo HTTP 503 a MPRK nedostupné po limite čakania. Žiadna nová adresa zdroja nezlyhala. Úplne zelený release nie je tvrdený.",
+    "Pri 19 ďalších kandidátoch na starostu nie je potvrdený rozhodujúci počet obyvateľov. Táto explicitná finančná hranica nepredstavuje pending výskumnú kategóriu.",
+    "Platené, JavaScriptové a nedostupné originály majú zdokumentované hranice prístupu. Tvrdenia vychádzajú iba z skutočne čítaných originálov alebo viditeľných náhľadov. Úryvok výsledku vyhľadávania nenahrádza originál.",
+    "searched_none znamená, že v zaznamenanom výskume do 14. októbra nebol nájdený dostatočne spoľahlivý dôkaz. Neznamená, že informácia neexistuje."
+  ],
+  "verificationSummary": {
+    "unitPassed": 447,
+    "unitSkipped": 0,
+    "e2ePassedAfterRerun": 264,
+    "e2eSkipped": 2,
+    "htmlFiles": 823,
+    "htmlErrors": 0,
+    "htmlWarnings": 0,
+    "indexablePages": 813,
+    "candidateProfiles": 780,
+    "pending": 0,
+    "independentReviewers": 6,
+    "remainingActionablePatchFindings": 0,
+    "externalGlobalGatePassed": false
+  },
+  "evidenceFiles": {
+    "journal": "research/presov-poprad-2026.json",
+    "verification": "research/presov-poprad-2026-verification.json",
+    "independentReviews": "research/presov-poprad-2026-review-manifest.json"
+  },
+  "snapshotDataSha256": {
+    "src/data/elections/2026/presovsky-kraj/campaign-finance-parties.json": "fe85256b2769ef3676f4dc5a3f239ff5d0041df6f4a947e3913d5fe4e03578c7",
+    "src/data/elections/2026/presovsky-kraj/campaign-finance.json": "e72fa6591071bf37997f5f2ff0bdf70d572b1f5da07fff041668cbb2e6981248",
+    "src/data/elections/2026/presovsky-kraj/candidacies.json": "b788c47f798c6b602459801c3d77919f0c5524bb04e864d1d7854a5179f06bdd",
+    "src/data/elections/2026/presovsky-kraj/candidates.json": "3d6bc515e6222a1bfda6ff50b3444e9657a21e5b651bba98682188a59d339073",
+    "src/data/elections/2026/presovsky-kraj/claims.json": "3c250ca1e3f5eaedfa62e06b866a619ac571d9bf81e5c06220f342db9bbdcdd0",
+    "src/data/elections/2026/presovsky-kraj/districts.json": "86e2ff60b2e4646fd344d6dd101ef342eb3b3f124b65ecfe8512c50e8509d550",
+    "src/data/elections/2026/presovsky-kraj/elections.json": "e33aa181093f929b109e6e589916af43b88d6d62aacea06ac21d088b7b49cb37",
+    "src/data/elections/2026/presovsky-kraj/municipalities/poprad/config.json": "37226d7d846723448043e6338d103e8df89ceef46aa80a0a33b284ba7cc55b8f",
+    "src/data/elections/2026/presovsky-kraj/municipalities/poprad/polling-stations.json": "05b56218e5603b4633a7796b87564d0bfeb9eab7db67f6716711868de4daafcf",
+    "src/data/elections/2026/presovsky-kraj/municipalities/presov/config.json": "34f8d98da58eacc69c31234004bcc76797fb97500bff2300e24327c1abcdf45b",
+    "src/data/elections/2026/presovsky-kraj/regional/config.json": "40befc8dd421fe5f685f4836ae65407d4922b9755add8dad71a78d54e8e869c1",
+    "src/data/elections/2026/presovsky-kraj/research-coverage.json": "f67f3f8a531926ba6ea71b8e2ac7eec4b0f2e3d94031013d501a469af756c900"
+  }
+}

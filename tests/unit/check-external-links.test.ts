@@ -9,6 +9,21 @@ const sources = (urls: string[]) => urls.map((url, index) => ({
 }));
 
 describe('checkExternalLinks', () => {
+  it('bounds concurrent requests when additional regions enlarge the source register, preserving result order', async () => {
+    const input = sources(Array.from({ length: 40 }, (_, i) => `https://example.test/${i}`));
+    let active = 0;
+    let peak = 0;
+    const results = await checkExternalLinks(input, async () => {
+      active += 1;
+      peak = Math.max(peak, active);
+      await Promise.resolve();
+      active -= 1;
+      return new Response(null, { status: 204 });
+    });
+    expect(peak).toBeLessThanOrEqual(8);
+    expect(results.map((row) => row.url)).toEqual(input.map((row) => row.url));
+    expect(results.every((row) => row.reachable)).toBe(true);
+  });
   it('deduplicates URLs while retaining all linked source IDs', async () => {
     let calls = 0;
     const result = await checkExternalLinks(sources(['https://example.test/a', 'https://example.test/a']), async () => {

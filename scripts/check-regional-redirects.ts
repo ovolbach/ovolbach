@@ -7,7 +7,7 @@ import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { promisify } from 'node:util';
 import { listPublishedElectionContexts } from '../src/lib/load-guide-data';
-import { assembleRegionalContext, candidateProfilePath } from '../src/lib/regional-context';
+import { assembleRegionalContext, candidateProfilePath, regionalContexts } from '../src/lib/regional-context';
 
 // Run the production nginx configuration against the actual build, without
 // changing the system nginx installation or listening on a public interface.
@@ -20,7 +20,9 @@ let configPath: string | undefined;
 
 try {
   const contexts = await listPublishedElectionContexts();
-  const region = assembleRegionalContext(contexts);
+  const legacyCities = contexts.filter((context) => context.regionSlug === 'zilinsky-kraj' && context.year === 2026);
+  const region = assembleRegionalContext(legacyCities);
+  const regions = regionalContexts(contexts);
   const config = await readFile('deploy/nginx/default.conf', 'utf8');
   const site = path.resolve('dist');
   const socket = createServer();
@@ -54,7 +56,7 @@ try {
   }
   assert(ready, 'nginx did not start');
 
-  const redirects = contexts.flatMap((context) => region.data.candidates.map((candidate) => ({
+  const redirects = legacyCities.flatMap((context) => region.data.candidates.map((candidate) => ({
     old: `${context.basePath}kandidat/${candidate.slug}`, target: candidateProfilePath(region, candidate.id),
   })));
   const entries = [...config.matchAll(/^\s*~(\S+)\s+(\/zilinsky-kraj\/2026\/kandidat\/\S+);\s*#\s*candidate-\d+\s*$/gm)];
@@ -74,8 +76,8 @@ try {
       checks++;
     }
   }
-  for (const candidate of region.data.candidates) {
-    const route = candidateProfilePath(region, candidate.id);
+  for (const currentRegion of regions) for (const candidate of currentRegion.data.candidates) {
+    const route = candidateProfilePath(currentRegion, candidate.id);
     const response = await get(`${route}${query}`);
     assert.equal(response.status, 200, route);
     assert(response.body.includes(`data-candidate-id="${candidate.id}"`), `${route}: candidate identity missing`);
@@ -84,7 +86,7 @@ try {
   for (const route of ['/martin/2026/kandidat/not-a-candidate/', '/zilinsky-kraj/2026/kandidat/not-a-candidate/', '/neexistuje/2026/kandidat/anna-belousovova/']) {
     assert.equal((await get(route)).status, 404, route);
   }
-  console.log(`nginx: ${checks} redirects checked (${redirects.length} old routes), ${region.data.candidates.length} final profiles return 200, unknown routes return 404`);
+  console.log(`nginx: ${checks} redirects checked (${redirects.length} old routes), ${regions.reduce((sum, item) => sum + item.data.candidates.length, 0)} final profiles return 200, unknown routes return 404`);
 } finally {
   if (server && configPath) {
     await execFileAsync(nginxBin, ['-s', 'quit', '-p', `${prefix}/`, '-c', configPath]).catch(() => server?.kill());

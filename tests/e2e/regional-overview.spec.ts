@@ -12,9 +12,10 @@ const DISTRICTS = [
 test('main catalogue opens the published regional overview alongside the cities', async ({ page }) => {
   await page.goto('/');
   await expect(page.getByRole('heading', { level: 1 })).toHaveText('Mestá, kraje a roky');
-  await expect(page.getByRole('heading', { level: 2, name: 'Kraje', exact: true })).toBeVisible();
-  await expect(page.getByRole('heading', { level: 2, name: 'Mestá', exact: true })).toBeVisible();
-  await expect(page.locator('.city-year-catalogue a')).toHaveCount(5);
+  const group = page.locator('.region-year-catalogue').filter({ has: page.locator(`h2 a[href="${REGION}"]`) });
+  await expect(group.locator('h2')).toHaveText('Žilinský samosprávny kraj — 2026');
+  await expect(group.getByRole('heading', { level: 3, name: 'Mestá', exact: true })).toBeVisible();
+  await expect(group.locator('.city-year-catalogue a')).toHaveCount(5);
   await page.getByRole('main').locator(`a[href="${REGION}"]`).click();
   await expect(page).toHaveURL(REGION);
   await expect(page.getByRole('heading', { level: 1 })).toHaveText('Žilinský samosprávny kraj – voľby 2026');
@@ -119,7 +120,8 @@ test('regional overview has collection SEO, sourced date and one sitemap entry',
     .toEqual(['https://ovolbach.sk/', `https://ovolbach.sk${REGION}`]);
   const sitemap = await (await request.get('/sitemap.xml')).text();
   expect(sitemap.split(`<loc>https://ovolbach.sk${REGION}</loc>`)).toHaveLength(2);
-  expect([...sitemap.matchAll(/<loc>([^<]*\/kandidat\/[^<]+)<\/loc>/g)]).toHaveLength(460);
+  const profiles = [...sitemap.matchAll(/<loc>([^<]*\/kandidat\/[^<]+)<\/loc>/g)].map((match) => match[1]!);
+  expect(profiles.filter((url) => /\/(?:zilinsky-kraj|dolny-kubin|liptovsky-mikulas|martin|ruzomberok|zilina)\/2026\//.test(url))).toHaveLength(460);
   expect(sitemap).not.toContain('/porovnat/');
 });
 

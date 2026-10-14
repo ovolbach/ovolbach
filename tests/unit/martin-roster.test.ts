@@ -125,7 +125,7 @@ describe('Martin official 2026 electorate and research', () => {
   it('preserves existing city electorates while adding documented shared-candidate research', async () => {
     const followup = JSON.parse(await readFile('research/martin-media-review-2026.json', 'utf8'));
     expect(followup.sharedAddedClaimIds).toHaveLength(17);
-    for (const [citySlug, people, ballots, claims] of [['liptovsky-mikulas', 91, 109, 621], ['ruzomberok', 79, 100, 520]] as const) {
+    for (const [citySlug, people, ballots, claims] of [['liptovsky-mikulas', 91, 109, 632], ['ruzomberok', 79, 100, 600]] as const) {
       const { data } = await loadElectionContext({ citySlug, year: 2026 });
       expect(data.candidates).toHaveLength(people);
       expect(data.candidacies).toHaveLength(ballots);

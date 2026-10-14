@@ -1,0 +1,180 @@
+[
+  {
+    "baseCommit": "2403899",
+    "path": "src/data/elections/2026/zilinsky-kraj/research-coverage.json",
+    "id": "coverage-candidate-85-controversies",
+    "current": {
+      "id": "coverage-candidate-85-controversies",
+      "candidateId": "candidate-85",
+      "category": "controversies",
+      "status": "found",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "hlavnespravy-belousovova-rizman-2026",
+        "sita-belousovova-slap-2010",
+        "sita-belousovova-committee-2010",
+        "mt-mr-belousovova-rizman-followup-source-2026",
+        "dkm0-belousovova-disciplinary-motion-2010"
+      ]
+    },
+    "parents": [
+      {
+        "id": "coverage-candidate-85-controversies",
+        "candidateId": "candidate-85",
+        "category": "controversies",
+        "status": "found",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "hlavnespravy-belousovova-rizman-2026",
+          "sita-belousovova-slap-2010",
+          "sita-belousovova-committee-2010",
+          "mt-mr-belousovova-rizman-followup-source-2026"
+        ]
+      },
+      {
+        "id": "coverage-candidate-85-controversies",
+        "candidateId": "candidate-85",
+        "category": "controversies",
+        "status": "found",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "hlavnespravy-belousovova-rizman-2026",
+          "sita-belousovova-slap-2010",
+          "sita-belousovova-committee-2010",
+          "dkm0-belousovova-followup-2026",
+          "dkm0-belousovova-disciplinary-motion-2010"
+        ]
+      }
+    ],
+    "auditPaths": [
+      "research/martin-media-review-2026.json",
+      "research/dolny-kubin-media-review-2026.json"
+    ],
+    "reason": "Existing base record is the canonical union of independently audited coverage additions. No historical public record changes.",
+    "sourceAliases": [
+      {
+        "from": "dkm0-belousovova-followup-2026",
+        "to": "mt-mr-belousovova-rizman-followup-source-2026",
+        "url": "https://www.hlavnespravy.sk/belousovova-reaguje-na-kritiku-rizmana-ospravedlnit-by-sa-mal-niekto-iny-nie-ja/4209086"
+      }
+    ]
+  },
+  {
+    "baseCommit": "2403899",
+    "path": "src/data/elections/2026/zilinsky-kraj/research-coverage.json",
+    "id": "coverage-candidate-88-controversies",
+    "current": {
+      "id": "coverage-candidate-88-controversies",
+      "candidateId": "candidate-88",
+      "category": "controversies",
+      "status": "found",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "aktuality-jurinova-kovacic-dismissal-2025",
+        "aktuality-jurinova-museum-origin-2023",
+        "sp21-jurinova-vszp-response-2026",
+        "mt-mr-jurinova-paid-interview-2026",
+        "dkm0-jurinova-hospital-origin-2026",
+        "dkm0-jurinova-vszp-early-response-2026"
+      ]
+    },
+    "parents": [
+      {
+        "id": "coverage-candidate-88-controversies",
+        "candidateId": "candidate-88",
+        "category": "controversies",
+        "status": "found",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "aktuality-jurinova-kovacic-dismissal-2025",
+          "aktuality-jurinova-museum-origin-2023",
+          "sp21-jurinova-vszp-response-2026",
+          "mt-mr-jurinova-paid-interview-2026"
+        ]
+      },
+      {
+        "id": "coverage-candidate-88-controversies",
+        "candidateId": "candidate-88",
+        "category": "controversies",
+        "status": "found",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "aktuality-jurinova-kovacic-dismissal-2025",
+          "aktuality-jurinova-museum-origin-2023",
+          "sp21-jurinova-vszp-response-2026",
+          "dkm0-jurinova-hospital-origin-2026",
+          "dkm0-jurinova-vszp-early-response-2026",
+          "dkm0-jurinova-interview-september-2026"
+        ]
+      }
+    ],
+    "auditPaths": [
+      "research/martin-media-review-2026.json",
+      "research/dolny-kubin-media-review-2026.json"
+    ],
+    "reason": "Existing base record is the canonical union of independently audited coverage additions. No historical public record changes.",
+    "sourceAliases": [
+      {
+        "from": "dkm0-jurinova-interview-september-2026",
+        "to": "mt-mr-jurinova-paid-interview-2026",
+        "url": "https://www.zilinskyvecernik.sk/clanok/rozhovor-erika-jurinova-kraj-nema-byt-o-velkych-slovach-ma-fungovat/17935/"
+      }
+    ]
+  },
+  {
+    "baseCommit": "2403899",
+    "path": "src/data/elections/2026/zilinsky-kraj/research-coverage.json",
+    "id": "coverage-candidate-90-controversies",
+    "current": {
+      "id": "coverage-candidate-90-controversies",
+      "candidateId": "candidate-90",
+      "category": "controversies",
+      "status": "found",
+      "checkedAt": "2026-10-03",
+      "sourceIds": [
+        "echr-lucansky-notification-2025",
+        "vop-lucansky-intervention-2026",
+        "pravda-parliament-incidents-2026",
+        "kanal1-lucansky-incident-response-2026",
+        "nrsr-kolikova-statement-2026-05-06",
+        "dkm0-lucansky-echr-response-march-2026"
+      ]
+    },
+    "parents": [
+      {
+        "id": "coverage-candidate-90-controversies",
+        "candidateId": "candidate-90",
+        "category": "controversies",
+        "status": "found",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "echr-lucansky-notification-2025",
+          "vop-lucansky-intervention-2026",
+          "pravda-parliament-incidents-2026",
+          "kanal1-lucansky-incident-response-2026"
+        ]
+      },
+      {
+        "id": "coverage-candidate-90-controversies",
+        "candidateId": "candidate-90",
+        "category": "controversies",
+        "status": "found",
+        "checkedAt": "2026-10-03",
+        "sourceIds": [
+          "echr-lucansky-notification-2025",
+          "vop-lucansky-intervention-2026",
+          "nrsr-kolikova-statement-2026-05-06",
+          "pravda-parliament-incidents-2026",
+          "kanal1-lucansky-incident-response-2026",
+          "dkm0-lucansky-echr-response-march-2026"
+        ]
+      }
+    ],
+    "auditPaths": [
+      "research/martin-media-review-2026.json",
+      "research/dolny-kubin-media-review-2026.json"
+    ],
+    "reason": "Existing base record is the canonical union of independently audited coverage additions. No historical public record changes.",
+    "sourceAliases": []
+  }
+]

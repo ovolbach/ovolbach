@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
-import { loadElectionContext } from '../../src/lib/load-guide-data';
+import { loadElectionContext, loadGlobalSources } from '../../src/lib/load-guide-data';
 import baseline from '../fixtures/dolny-kubin-media-baseline.json';
 
 const auditPath = 'research/dolny-kubin-media-review-2026.json';
@@ -32,7 +32,15 @@ describe('Dolný Kubín additional media and event continuity review', () => {
     if (!audit) return;
     const { data } = await loadCity();
     const people = new Set(data.candidates.map((row) => row.id));
-    const sources = new Map(data.sources.map((row) => [row.id, row]));
+    const sources = new Map((await loadGlobalSources()).map((row) => [row.id, row]));
+    // Audit receipts may retain a branch-local ID after the global source
+    // registry deduplicated the exact canonical URL during integration.
+    for (const person of audit.candidates) for (const receipt of person.reopenedSources) {
+      if (!sources.has(receipt.sourceId)) {
+        const canonical = [...sources.values()].find((source) => source.url === receipt.url);
+        if (canonical) sources.set(receipt.sourceId, canonical);
+      }
+    }
     const claims = new Map(data.claims.map((row) => [row.id, row]));
     const traced = new Set(audit.eventChains.flatMap((chain: { origin: { claimIds: string[] }; intermediate: { claimIds: string[] }[]; responses: { claimIds: string[] }[]; latest: { claimIds: string[] } }) =>
       [chain.origin, ...(chain.intermediate ?? []), ...(chain.responses ?? []), chain.latest].flatMap((step) => step.claimIds)));

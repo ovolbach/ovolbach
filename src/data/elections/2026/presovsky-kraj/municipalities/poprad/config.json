@@ -1,0 +1,14 @@
+{
+  "cityName": "Poprad",
+  "status": "published",
+  "snapshotDate": "2026-10-14",
+  "cityDistrictIds": [
+    "2026-pp-city-1",
+    "2026-pp-city-2"
+  ],
+  "regionalDistrictId": "2026-psk-region-6",
+  "contestIds": {
+    "mayor": "2026-pp-mayor",
+    "city-council": "2026-pp-city-council"
+  }
+}

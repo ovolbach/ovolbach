@@ -23,6 +23,25 @@ export function reportDeadline(electionDate: string): string {
   return date.toISOString().slice(0, 10);
 }
 
+export function financeDutyText(record: CampaignFinance, hasPartyNomination: boolean): { account: string; report: string } {
+  const duties = getFinanceDuties(record);
+  const eligibleHead = record.headCandidacies.some((head) => head.office === 'region-chair' || (head.population ?? 0) > 5000);
+  const unresolvedEligibility = !eligibleHead && record.otherCandidacies === 'not_exhaustive';
+  const conditional = 'Povinnosť je podmienená ďalšou kandidatúrou a počtom obyvateľov obce. Rozsah overenia je uvedený nižšie.';
+  return {
+    account: unresolvedEligibility && duties.account === 'conditional' ? conditional
+      : !eligibleHead && !unresolvedEligibility ? 'Pre samostatnú poslaneckú kandidatúru sa nevyžaduje. Kandidát na starostu alebo primátora obce do 5 000 obyvateľov tiež nemá túto povinnosť.'
+      : duties.account === 'required' ? 'Vyžaduje sa pre vlastné financovanie kampane.'
+      : duties.account === 'not_required' ? 'Nevyžaduje sa, ak kandidát nevynakladá žiadne prostriedky na vlastnú kampaň.'
+      : `Vyžaduje sa, ak kandidát vynakladá prostriedky na vlastnú kampaň.${hasPartyNomination ? ' Samotná nominácia stranou neurčuje, kto kampaň financuje.' : ''}`,
+    report: unresolvedEligibility ? conditional
+      : !eligibleHead ? 'Pre samostatnú poslaneckú kandidatúru sa nevyžaduje verejná správa kandidáta podľa § 6 ods. 15. Táto povinnosť sa nevzťahuje ani na starostu alebo primátora obce do 5 000 obyvateľov.'
+      : duties.report === 'required' ? 'Vyžaduje sa verejná správa kandidáta podľa § 6 ods. 15.'
+      : duties.report === 'not_required' ? 'Samostatná správa kandidáta sa nevyžaduje, ak jeho kampaň financuje iba strana; strana vykazuje svoje výdavky.'
+      : 'Vyžaduje sa pri vlastnej kampani kandidáta podľa § 6 ods. 15 a 17. Pri kampani financovanej iba stranou vykazuje výdavky strana.',
+  };
+}
+
 export function financeSourceIds(record: CampaignFinance): string[] {
   return [...new Set([
     ...record.sourceIds, ...record.legalSourceIds, ...record.expenseSourceIds, ...record.operatorSourceIds,

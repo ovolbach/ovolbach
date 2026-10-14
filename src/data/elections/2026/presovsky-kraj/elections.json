@@ -1,0 +1,81 @@
+[
+  {
+    "id": "mayor",
+    "contestId": "2026-pp-mayor",
+    "title": {
+      "sk": "Voľby primátora mesta Poprad"
+    },
+    "level": "city",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "pp-mayor-2026"
+    ]
+  },
+  {
+    "id": "city-council",
+    "contestId": "2026-pp-city-council",
+    "title": {
+      "sk": "Voľby do Mestského zastupiteľstva mesta Poprad"
+    },
+    "level": "city",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "pp-council-2026"
+    ]
+  },
+  {
+    "id": "mayor",
+    "contestId": "2026-po-mayor",
+    "title": {
+      "sk": "Voľby primátora mesta Prešov"
+    },
+    "level": "city",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "po-mayor-2026"
+    ]
+  },
+  {
+    "id": "city-council",
+    "contestId": "2026-po-city-council",
+    "title": {
+      "sk": "Voľby do Mestského zastupiteľstva mesta Prešov"
+    },
+    "level": "city",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "po-council-2026"
+    ]
+  },
+  {
+    "id": "region-chair",
+    "contestId": "2026-psk-region-chair",
+    "title": {
+      "sk": "Voľby predsedu Prešovského samosprávneho kraja"
+    },
+    "level": "region",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "psk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "region-council",
+    "contestId": "2026-psk-region-council",
+    "title": {
+      "sk": "Voľby do Zastupiteľstva Prešovského samosprávneho kraja"
+    },
+    "level": "region",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "psk-6-roster-2026",
+      "psk-7-roster-2026"
+    ]
+  }
+]
