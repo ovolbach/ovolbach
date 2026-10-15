@@ -1,0 +1,466 @@
+{
+  "reviewedAt": "2026-10-15T17:51:53.450997+00:00",
+  "scope": "Exact immutable history delta002 and two immutable audit sidecars, read-only review.",
+  "decision": "approved_for_exact_bounded_integration",
+  "deltaSha256": "2643c9e00962561b7c7f1b926bfc17f7947485f90ee4b9c2bdc95724280b4bf0",
+  "publicCopyByteIdentical": true,
+  "sidecarsApproved": {
+    ".internal/four-cities-recheck/history/2014-council-name-counts.json": "4fd4fb9640eae95b3c76d7da60d4ce782d053f4f11951164f521edc3fa115d64",
+    ".internal/four-cities-recheck/history/retained-baseline-identity-crosscheck.json": "9093a75e7663016353cd3be9689a00a38ceba709c5683e8105a85b6bea1a5cf9"
+  },
+  "frozen702HashesUnchanged": {
+    ".internal/four-cities-recheck/history/freeze-702/proposals.json": "b27a4b25728ebfc73f62a81903864276ce55dd0a42ad48e619d1054d354f1578",
+    ".internal/four-cities-recheck/history/freeze-702/accepted-roster.json": "dd7bfc1a6c49242299d9499ebf348a7972e6670f9ad3503dcc36c9b593e653b9",
+    ".internal/four-cities-recheck/history/freeze-702/journal.json": "6712c49695bd0f94bfdb9ea4eeda25dbad2289cae12545edf910df047a5508e1",
+    ".internal/four-cities-recheck/history/freeze-702/expected-totals.json": "4fe2522d4952a6f9036810281f3abb9b1e5efc30ab8af5c7334b5f8b8d5eaede",
+    ".internal/four-cities-recheck/history/freeze-702/unresolved-worklist.json": "43fcdcaeab9a17951ab61b0d6548dc34724ce0633fd51ded2e45828651573135"
+  },
+  "findings": [],
+  "counts": {
+    "newClaimsAndContests": 29,
+    "newSources": 8,
+    "responseHashesIndependentlyVerified": 25,
+    "coverageUpserts": 26,
+    "resultingFourOfficeContests": 731,
+    "nonwithdrawnParticipations": 727,
+    "elected": 366,
+    "withdrawn": 4,
+    "currentCandidatesWithExpectedTotals": 546
+  },
+  "independentChecks": [
+    "Independent logical-record semicolon parsing reads20830 nationwide2014winner rows including25Trenčín rows. The quoted first header cell contains a newline; physical-first-line delimiter inference is invalid. No frozen702accepted contest references that formerly malformed table.",
+    "All15 BB own signed8Oct2014 HTML name paragraphs independently extracted with own age and enclosing district/ordinal. Selected official district+ballot rows all have winnerflag1; precinct vote sums independently match delta and nationwide winner table. Draft/final ordinals remain separate; no guessed cause or neighbouring age. All11 age-supported but status-held BB rows likewise checked. Priehodová reported62 remains excluded.",
+    "All4 new Trenčín official council winner rows checked for exact own name/city/votes/elected. Authentic7Oct2014TASR age observations remain separate from15Nov election. Chronicle p172 explicitly joins mayoral Vaňo1692 to defended council mandate; p173 explicitly joins mayoral Birošová1525 to new council mandate. These direct same-person passages close the dual-office link, not whole-document proximity. Signed current2026 own blocks anchor Forgáč51/deputy and Mičega56/regional-office director and expressly date council careers from2014.",
+    "Mego own TASR6Nov2016age52/Drietoma clause checked. Official supplementary XLSX membertab15ownrow28 says622/elected/SMER-SD; other winner members agree. Municipal newsletterp5 explicitly gives election5Nov2016,622and63.79%.30Nov oath is not a separate contest.2018 own candidate/result rows match741/78.41%/elected and exact complete SMER-SD/Drietoma anchor.",
+    "Becík signed current2026 original identifies incumbent NSK chair/Hlas and explicitly describes Dvory mayor elected four years after2010, eight years of service and third2022 win. Official2014 ownrow1419/elected and2018 ownrow1416/100.0%/elected verified; displayed100.00% is equivalent, not a computed percentage.",
+    "Gogola independently age-and-BB joined2013 original identifies mayor; TASR chronology explicitly dates2010–2014 and outgoing-mayor original reports2014 loss. Official2010 ownrow13842/elected and2014ownrow4248/not-elected checked.",
+    "Four complete-specific-party own official anchors verified: Berényi2017age50/DolnéSaliby/SMK-MKP; Daňo2022age62/Nemšová/KDH; Maláň2022age45/Soblahov/KDH; Csenger2017age52/Želiezovce/SMK-MKP.2014winner municipality and complete party match each separately age/current-municipality-joined person. Generic independence and coalition overlap are not used.",
+    "Only2previously approved actual-age-date metadata corrections; result dates/outcomes unchanged. All29 full result phrases match structured metadata. Combined731 person/date/office/locality contests are unique; all546expected counters recomputed, withdrawn excluded from participation.26coverage IDs preserved, source sets exactly old coverage union new claim sources and contain every accepted previous-election claim source.",
+    "Media ledger exactSHA57a3a85faab13d90f1b150eb268a9fb28f0edf0190677b3348210a6798cdd062 checked:299attempts/272readable/27HTTP403. Access metrics are not factual approval.",
+    "Independently rebuilt2014raw discovery union from39298selected precinct rows→1916candidates plus20498additional national winners (332national rows already covered), total22414. All546exact-name counts AND every logical-row locator match sidecar:139name matches across121people,54changed counts. Namesake counts imply no accepted identity.",
+    "Independently rendered/read all4Trnava2018original pages: Šurin47/district1/ballot25; VargaBabeľová38/district2/ballot30; Ryšavá32/district4/ballot30; Kubál30/district5/ballot16. National2018candidate/result exact XML rows and archive/member hashes verified;446/2.25%,581/2.83%,374/3.45%,389/3.20% agree. All4candidate-status cells are blank; subtype remains unknown, no invented substitute class."
+  ],
+  "BBOriginalRowChecks": [
+    {
+      "candidateId": "bbsk-viera-dubacova",
+      "articleDistrict": "1",
+      "articleBallot": "12",
+      "ownAge": 52,
+      "officialDistrict": "1",
+      "officialBallot": "12",
+      "votes": 1939,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-pavol-katreniak",
+      "articleDistrict": "1",
+      "articleBallot": "20",
+      "ownAge": 56,
+      "officialDistrict": "1",
+      "officialBallot": "20",
+      "votes": 1415,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-marcel-pecnik",
+      "articleDistrict": "1",
+      "articleBallot": "34",
+      "ownAge": 31,
+      "officialDistrict": "1",
+      "officialBallot": "34",
+      "votes": 1447,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-katarina-cizmarova",
+      "articleDistrict": "2",
+      "articleBallot": "4",
+      "ownAge": 58,
+      "officialDistrict": "2",
+      "officialBallot": "4",
+      "votes": 565,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-matej-bucko",
+      "articleDistrict": "3",
+      "articleBallot": "7",
+      "ownAge": 27,
+      "officialDistrict": "3",
+      "officialBallot": "7",
+      "votes": 1365,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-jakub-gajdosik",
+      "articleDistrict": "3",
+      "articleBallot": "15",
+      "ownAge": 29,
+      "officialDistrict": "3",
+      "officialBallot": "15",
+      "votes": 1355,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-milan-lichy",
+      "articleDistrict": "3",
+      "articleBallot": "33",
+      "ownAge": 53,
+      "officialDistrict": "3",
+      "officialBallot": "33",
+      "votes": 1450,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-matus-molitoris",
+      "articleDistrict": "3",
+      "articleBallot": "39",
+      "ownAge": 28,
+      "officialDistrict": "3",
+      "officialBallot": "39",
+      "votes": 1096,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-michal-skantar",
+      "articleDistrict": "3",
+      "articleBallot": "59",
+      "ownAge": 32,
+      "officialDistrict": "3",
+      "officialBallot": "59",
+      "votes": 1121,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-martin-turcan",
+      "articleDistrict": "3",
+      "articleBallot": "63",
+      "ownAge": 32,
+      "officialDistrict": "3",
+      "officialBallot": "63",
+      "votes": 1175,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-daniel-karas",
+      "articleDistrict": "4",
+      "articleBallot": "36",
+      "ownAge": 39,
+      "officialDistrict": "4",
+      "officialBallot": "36",
+      "votes": 1949,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-hana-kasova",
+      "articleDistrict": "4",
+      "articleBallot": "38",
+      "ownAge": 38,
+      "officialDistrict": "4",
+      "officialBallot": "38",
+      "votes": 1409,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-igor-kasper",
+      "articleDistrict": "4",
+      "articleBallot": "39",
+      "ownAge": 34,
+      "officialDistrict": "4",
+      "officialBallot": "39",
+      "votes": 2098,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-marek-modransky",
+      "articleDistrict": "4",
+      "articleBallot": "51",
+      "ownAge": 35,
+      "officialDistrict": "4",
+      "officialBallot": "51",
+      "votes": 1408,
+      "winnerTableAgrees": true
+    },
+    {
+      "candidateId": "bbsk-milan-smado",
+      "articleDistrict": "4",
+      "articleBallot": "76",
+      "ownAge": 60,
+      "officialDistrict": "4",
+      "officialBallot": "76",
+      "votes": 1941,
+      "winnerTableAgrees": true
+    }
+  ],
+  "newRowsReviewed": [
+    {
+      "candidateId": "bbsk-viera-dubacova",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1939,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-pavol-katreniak",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1415,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-marcel-pecnik",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1447,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-katarina-cizmarova",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 565,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-matej-bucko",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1365,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-jakub-gajdosik",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1355,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-milan-lichy",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1450,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-matus-molitoris",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1096,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-michal-skantar",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1121,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-martin-turcan",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1175,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-daniel-karas",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1949,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-hana-kasova",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1409,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-igor-kasper",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 2098,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-marek-modransky",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1408,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-milan-smado",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Banská Bystrica",
+      "votes": 1941,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "tsk-danica-birosova",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Trenčín",
+      "votes": 840,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "tsk-tomas-vano",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Trenčín",
+      "votes": 1451,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "tsk-jan-forgac",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Trenčín",
+      "votes": 1061,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "tsk-milos-micega",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Trenčín",
+      "votes": 1426,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "tsk-jaroslav-mego",
+      "date": "2016-11-05",
+      "office": "mayor",
+      "locality": "Drietoma",
+      "votes": 622,
+      "percentage": "63.79",
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "tsk-jaroslav-mego",
+      "date": "2018-11-10",
+      "office": "mayor",
+      "locality": "Drietoma",
+      "votes": 741,
+      "percentage": "78.41",
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "nsk-branislav-becik",
+      "date": "2014-11-15",
+      "office": "mayor",
+      "locality": "Dvory nad Žitavou",
+      "votes": 1419,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "nsk-branislav-becik",
+      "date": "2018-11-10",
+      "office": "mayor",
+      "locality": "Dvory nad Žitavou",
+      "votes": 1416,
+      "percentage": "100.00",
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-peter-gogola",
+      "date": "2010-11-27",
+      "office": "mayor",
+      "locality": "Banská Bystrica",
+      "votes": 13842,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "bbsk-peter-gogola",
+      "date": "2014-11-15",
+      "office": "mayor",
+      "locality": "Banská Bystrica",
+      "votes": 4248,
+      "percentage": null,
+      "outcome": "not_elected"
+    },
+    {
+      "candidateId": "ttsk-jozsef-berenyi",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Dolné Saliby",
+      "votes": 496,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "tsk-peter-dano",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Nemšová",
+      "votes": 910,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "tsk-juraj-malan",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Soblahov",
+      "votes": 469,
+      "percentage": null,
+      "outcome": "elected"
+    },
+    {
+      "candidateId": "nsk-tibor-csenger",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "locality": "Želiezovce",
+      "votes": 666,
+      "percentage": null,
+      "outcome": "elected"
+    }
+  ],
+  "limits": [
+    "Approval applies only to exact delta and named sidecars; it does not imply all historical participation is known.",
+    "Final public journal must apply the reviewed raw-count/held/roster corrections without modifying frozen artifacts.",
+    "Production integration/preservation and complete release gates require separate root verification.",
+    "No production or frozen edits by reviewer; no private address/fullDOB/contact export."
+  ],
+  "researchCompletionApproved": false,
+  "releaseApproved": false
+}

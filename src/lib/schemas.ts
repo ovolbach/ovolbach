@@ -1,5 +1,8 @@
 import { z } from 'zod';
 import { isSafeOutboundSourceUrl } from './source-url';
+import fourCityAccountCandidateIds from '../data/campaign-account-exclusion-four-cities-2026.json' with { type: 'json' };
+
+const fourCityAccountCohort = new Set(fourCityAccountCandidateIds);
 
 export type LocalizedText = { sk: string; en?: string };
 export type ElectionId = 'mayor' | 'city-council' | 'region-chair' | 'region-council';
@@ -274,7 +277,7 @@ const financeIdentitySchema = z.object({
 }).strict();
 const financeUrl = requiredString.refine((value) => isSafeOutboundSourceUrl(value) && new URL(value).protocol === 'https:', 'Expected safe HTTPS account URL');
 const financeExclusionEvidenceSchema = z.object({
-  scope: z.literal('presovsky-kraj-2026'), checkedAt: isoDate,
+  scope: z.enum(['presovsky-kraj-2026', 'four-cities-2026']), checkedAt: isoDate,
   registers: z.array(z.object({
     kind: z.enum(['mayor', 'city-council', 'region-chair', 'region-council']), sourceId: id,
     sha256: z.string().regex(/^[a-f0-9]{64}$/), rowCount: z.number().int().positive(), complete: z.literal(true),
@@ -329,10 +332,13 @@ export const campaignFinanceSchema = z.object({
     if (!account.url && !account.iban) ctx.addIssue({ code: 'custom', message: 'Verified account needs a published URL or IBAN' });
     if (account.verificationMethod === 'register_exclusion') {
       const evidence = account.exclusionEvidence;
-      if (!record.candidateId.startsWith('psk-') || record.electionDate !== '2026-10-24' || !evidence
+      const approvedCohort = evidence?.scope === 'presovsky-kraj-2026'
+        ? record.candidateId.startsWith('psk-')
+        : evidence?.scope === 'four-cities-2026' && fourCityAccountCohort.has(record.candidateId);
+      if (!approvedCohort || record.electionDate !== '2026-10-24' || !evidence
         || evidence.remainingCandidateId !== record.candidateId || evidence.checkedAt > record.checkedAt
         || evidence.accountSourceIds.some((sourceId) => !account.sourceIds.includes(sourceId))) {
-        ctx.addIssue({ code: 'custom', message: 'Exclusion needs a dated PSK 2026 dossier for this candidate and account' });
+        ctx.addIssue({ code: 'custom', message: 'Exclusion needs a dated approved-cohort 2026 dossier for this candidate and account' });
       }
     } else {
       if (new Set(account.identity.map((item) => item.attribute)).size < 2) ctx.addIssue({ code: 'custom', message: 'Identity needs two distinct attributes beyond the name' });

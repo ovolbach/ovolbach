@@ -1,0 +1,4240 @@
+{
+  "checkedAt": "2026-10-15T18:14:41.339235+00:00",
+  "baseline": "82a3542",
+  "scope": "four-cities-2026",
+  "candidateCount": 546,
+  "publicLanguage": "sk",
+  "cities": {
+    "Trnava": {
+      "regionId": "trnavsky-kraj",
+      "candidates": 135,
+      "accounts": {
+        "before": {
+          "not_listed": 127,
+          "unverified": 4,
+          "verified": 4
+        },
+        "after": {
+          "not_listed": 125,
+          "verified": 10
+        },
+        "changedRecords": [
+          {
+            "candidateId": "ttsk-robert-dohal",
+            "name": "Róbert DOHÁL, Ing.",
+            "before": "unverified",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "campaign-accounts-candidates-2026",
+              "tis-election-s26"
+            ]
+          },
+          {
+            "candidateId": "ttsk-peter-hambalek",
+            "name": "Peter HAMBÁLEK, Ing.",
+            "before": "unverified",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "campaign-accounts-candidates-2026",
+              "tis-election-s26"
+            ]
+          },
+          {
+            "candidateId": "ttsk-stefan-pollak",
+            "name": "Štefan POLLÁK, Mgr.",
+            "before": "unverified",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "campaign-accounts-candidates-2026",
+              "tis-election-s26"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozef-viskupic",
+            "name": "Jozef VISKUPIČ, Mgr.",
+            "before": "not_listed",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "tis-election-s26"
+            ]
+          },
+          {
+            "candidateId": "ttsk-branislav-baros",
+            "name": "Branislav BAROŠ, Ing.",
+            "before": "unverified",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "campaign-accounts-candidates-2026",
+              "tis-election-s26",
+              "four-city-recheck-bank-ttsk-branislav-baros"
+            ]
+          },
+          {
+            "candidateId": "ttsk-lubica-horvathova",
+            "name": "Ľubica HORVÁTHOVÁ, Mgr.",
+            "before": "verified",
+            "after": "verified",
+            "method": "candidate_site",
+            "sourceIds": [
+              "tt-campaign-horvathova-2026",
+              "tt-bank-4-2026",
+              "campaign-accounts-candidates-2026"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozef-obselka",
+            "name": "Jozef OBSELKA, Ing.",
+            "before": "not_listed",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "tis-election-s26",
+              "four-city-recheck-bank-ttsk-jozef-obselka"
+            ]
+          }
+        ]
+      },
+      "events": {
+        "addedFacts": 9,
+        "addedFactsByKind": {
+          "media_report": 4,
+          "response": 3,
+          "official_outcome": 1,
+          "fact": 1
+        },
+        "candidateCountWithAddedFacts": 4,
+        "facts": [
+          {
+            "claimId": "ttsk-jaroslav-cehlarik-droba-judgment-report-20260629",
+            "candidateId": "ttsk-jaroslav-cehlarik",
+            "name": "Jaroslav CEHLÁRIK, Mgr.",
+            "kind": "media_report",
+            "label": "Správa o civilnom spore",
+            "text": "Slávka Ambrová v SITA.sk 29. júna 2026 informovala, že Jaroslav Cehlárik uspel v civilnom spore s Jurajom Drobom o výroky na Facebooku; podľa správy súd Drobovi uložil verejné ospravedlnenie a náhradu nemajetkovej ujmy 15-tisíc eur.",
+            "period": "správa z 2026-06-29; civilný spor o výroky z roku 2020",
+            "sourceIds": [
+              "recheck-cehlarik-droba-sita-20260629",
+              "recheck-cehlarik-identity-sita-20260827"
+            ]
+          },
+          {
+            "claimId": "ttsk-jaroslav-cehlarik-droba-execution-response-20260629",
+            "candidateId": "ttsk-jaroslav-cehlarik",
+            "name": "Jaroslav CEHLÁRIK, Mgr.",
+            "kind": "response",
+            "label": "Cehlárikovo vyjadrenie o splnení povinností",
+            "text": "Jaroslav Cehlárik pre SITA.sk uviedol, že Juraj Droba po začatí exekučného konania zaplatil priznané odškodnenie a trovy a zverejnil verejné ospravedlnenie.",
+            "period": "správa z 2026-06-29; civilný spor o výroky z roku 2020",
+            "sourceIds": [
+              "recheck-cehlarik-droba-sita-20260629",
+              "recheck-cehlarik-identity-sita-20260827"
+            ]
+          },
+          {
+            "claimId": "ttsk-ivan-bocko-election-petition-official-20221207",
+            "candidateId": "ttsk-ivan-bocko",
+            "name": "Ivan BOČKO",
+            "kind": "official_outcome",
+            "label": "Odmietnutie volebnej žaloby",
+            "text": "Najvyšší správny súd SR uznesením 12Svp/24/2022 zo 7. decembra 2022 odmietol žalobu o ústavnosť a zákonnosť volieb starostu Bohdanoviec nad Trnavou, v ktorej bol žalovaným Ivan Bočko. Poučenie uvádza, že proti rozhodnutiu nie je prípustný opravný prostriedok.",
+            "period": "2022-12-07",
+            "sourceIds": [
+              "recheck-events-stage-69b7826d1f73f48e"
+            ]
+          },
+          {
+            "claimId": "ttsk-ivan-bocko-election-petition-trigger-20221111",
+            "candidateId": "ttsk-ivan-bocko",
+            "name": "Ivan BOČKO",
+            "kind": "fact",
+            "label": "Podanie volebnej žaloby",
+            "text": "Najvyšší správny súd SR v uznesení 12Svp/24/2022 uviedol, že 11. novembra 2022 dostal volebnú žalobu proti zvoleniu Ivana Bočka za starostu Bohdanoviec nad Trnavou. Žalobca namietal obmedzenia pri sledovaní sčítania hlasov; ide o tvrdenia žalobcu, nie o súdom preukázané volebné pochybenia.",
+            "period": "podanie doručené 2022-11-11",
+            "sourceIds": [
+              "recheck-events-stage-69b7826d1f73f48e"
+            ]
+          },
+          {
+            "claimId": "ttsk-simon-stefunko-proxy-vote-report-20150428",
+            "candidateId": "ttsk-simon-stefunko",
+            "name": "Šimon ŠTEFUNKO, PhDr.",
+            "kind": "media_report",
+            "label": "Správa o hlasovaní za neprítomného kolegu",
+            "text": "Patrik Pokorný v trnava-live.sk 28. apríla 2015 informoval, že Adam Peciar pri rokovaní mestského zastupiteľstva hlasoval za vtedy neprítomného Šimona Štefunka a záležitosť mala byť postúpená mandátovej komisii.",
+            "period": "2015-04-28",
+            "sourceIds": [
+              "recheck-events-focus-f08656f0580a9819",
+              "recheck-events-focus-319f375f5b18b2fe"
+            ]
+          },
+          {
+            "claimId": "ttsk-simon-stefunko-proxy-vote-response-20150428",
+            "candidateId": "ttsk-simon-stefunko",
+            "name": "Šimon ŠTEFUNKO, PhDr.",
+            "kind": "response",
+            "label": "Štefunkovo ospravedlnenie",
+            "text": "Šimon Štefunko sa podľa trnava-live.sk za vzniknutú situáciu ospravedlnil; uviedol, že nebola úmyselná a s Adamom Peciarom si podľa neho zle rozumeli.",
+            "period": "reakcia z 2015-04-28",
+            "sourceIds": [
+              "recheck-events-focus-f08656f0580a9819"
+            ]
+          },
+          {
+            "claimId": "ttsk-simon-stefunko-proxy-vote-later-report-20150430",
+            "candidateId": "ttsk-simon-stefunko",
+            "name": "Šimon ŠTEFUNKO, PhDr.",
+            "kind": "media_report",
+            "label": "Neskoršia správa o funkciách v komisiách",
+            "text": "SITA 30. apríla 2015 s odvolaním na primátora Petra Bročku informovala, že Šimon Štefunko a Adam Peciar sa po incidente vzdali funkcií predsedov a podpredsedov komisií mestského zastupiteľstva. Správa súčasne uviedla, že hlasovanie má ešte prešetriť mandátová komisia.",
+            "period": "2015-04-30",
+            "sourceIds": [
+              "recheck-events-focus-bec0ee3cc7a76d86"
+            ]
+          },
+          {
+            "claimId": "ttsk-marian-viskupic-defence-gas-contract-report-20120810",
+            "candidateId": "ttsk-marian-viskupic",
+            "name": "Marián VISKUPIČ, RNDr. Ing.",
+            "kind": "media_report",
+            "label": "Správa o výhrade ministra k zmluve",
+            "text": "SITA 10. augusta 2012 sprostredkovala tvrdenie ministra obrany Martina Glváča, že Marián Viskupič ako bývalý šéf sekcie majetku a infraštruktúry nevydal pokyn na súťaž o dodávku plynu a rokoval iba s SPP. Ide o ministrovo tvrdenie; správa nepreukazuje osobný právoplatný postih Viskupiča.",
+            "period": "2012-08-10",
+            "sourceIds": [
+              "recheck-events-lead-b27ce5fb73b3d41a",
+              "recheck-events-viskupic-official-bio2011",
+              "recheck-events-viskupic-tasr-bio2020"
+            ]
+          },
+          {
+            "claimId": "ttsk-ivan-bocko-election-petition-response-20221121",
+            "candidateId": "ttsk-ivan-bocko",
+            "name": "Ivan BOČKO",
+            "kind": "response",
+            "label": "Bočkovo vtedajšie vyjadrenie",
+            "text": "Ivan Bočko podľa SITA 21. novembra 2022 uviedol, že nevie, čo neúspešný kandidát v žalobe namieta, a Najvyšší správny súd ho v tejto veci zatiaľ nekontaktoval. Ide o jeho vtedajšie vyjadrenie pred rozhodnutím zo 7. decembra 2022.",
+            "period": "reakcia z 2022-11-21",
+            "sourceIds": [
+              "recheck-events-stage-aaac47149da6506f"
+            ]
+          }
+        ],
+        "categoryMoves": []
+      },
+      "history": {
+        "beforeConfirmedContestsAllRetainedOffices": 109,
+        "afterConfirmedContestsAllRetainedOffices": 175,
+        "participations": 173,
+        "wins": 88,
+        "addedParticipations": 65,
+        "addedWithdrawnCandidacies": 1,
+        "addedContests": [
+          {
+            "candidateId": "ttsk-jozsef-berenyi",
+            "name": "József BERÉNYI, Mgr.",
+            "office": "regional_chair",
+            "contestId": "2017-11-04-2-regional_chair",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-jozsef-berenyi-history-2017-11-04-regional_chair-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozsef-berenyi",
+            "name": "József BERÉNYI, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-jozsef-berenyi-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozsef-berenyi",
+            "name": "József BERÉNYI, Mgr.",
+            "office": "regional_chair",
+            "contestId": "2013-11-09-2-regional_chair",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-jozsef-berenyi-history-2013-11-09-regional_chair-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozsef-berenyi",
+            "name": "József BERÉNYI, Mgr.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-jozsef-berenyi-history-2013-11-09-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozsef-berenyi",
+            "name": "József BERÉNYI, Mgr.",
+            "office": "regional_council",
+            "contestId": "2001-12-01-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-jozsef-berenyi-history-2001-12-01-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozsef-berenyi",
+            "name": "József BERÉNYI, Mgr.",
+            "office": "regional_council",
+            "contestId": "2009-11-14-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-jozsef-berenyi-history-2009-11-14-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jaroslav-cehlarik",
+            "name": "Jaroslav CEHLÁRIK, Mgr.",
+            "office": "regional_chair",
+            "contestId": "2017-11-04-2-regional_chair",
+            "outcome": "withdrawn",
+            "claimIds": [
+              "ttsk-jaroslav-cehlarik-history-2017-11-04-regional_chair-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jaroslav-cehlarik",
+            "name": "Jaroslav CEHLÁRIK, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "ttsk-jaroslav-cehlarik-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-matej-lancaric",
+            "name": "Matej LANČARIČ, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-matej-lancaric-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-matej-lancaric",
+            "name": "Matej LANČARIČ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-matej-lancaric-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-matej-lancaric",
+            "name": "Matej LANČARIČ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-matej-lancaric-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozef-viskupic",
+            "name": "Jozef VISKUPIČ, Mgr.",
+            "office": "regional_chair",
+            "contestId": "2017-11-04-2-regional_chair",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-jozef-viskupic-history-2017-11-04-regional_chair-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozef-viskupic",
+            "name": "Jozef VISKUPIČ, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-jozef-viskupic-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-gabriela-cabanova",
+            "name": "Gabriela CABANOVÁ, RNDr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-gabriela-cabanova-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-katarina-durkova",
+            "name": "Katarína ĎURKOVÁ, PhDr., PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-katarina-durkova-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-magdalena-eliasova",
+            "name": "Magdaléna ELIÁŠOVÁ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-magdalena-eliasova-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jana-fridrichova",
+            "name": "Jana FRIDRICHOVÁ, MUDr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-jana-fridrichova-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marian-galbavy",
+            "name": "Marián GALBAVÝ, Mgr. Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-marian-galbavy-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marian-galbavy",
+            "name": "Marián GALBAVÝ, Mgr. Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-marian-galbavy-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marian-galbavy",
+            "name": "Marián GALBAVÝ, Mgr. Ing.",
+            "office": "mayor",
+            "contestId": "2018-11-10-506745-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-marian-galbavy-history-2018-11-10-mayor-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marian-galbavy",
+            "name": "Marián GALBAVÝ, Mgr. Ing.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-marian-galbavy-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marta-gubricka",
+            "name": "Marta GUBRICKÁ, PaedDr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "ttsk-marta-gubricka-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marta-gubricka",
+            "name": "Marta GUBRICKÁ, PaedDr.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-marta-gubricka-history-2013-11-09-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-martin-halaksa",
+            "name": "Martin HALAKSA, PhDr., PhD.",
+            "office": "regional_council",
+            "contestId": "2005-11-26-2-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-martin-halaksa-history-2005-11-26-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-lubica-horvathova",
+            "name": "Ľubica HORVÁTHOVÁ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-lubica-horvathova-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-stanislav-hric",
+            "name": "Stanislav HRIC, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-stanislav-hric-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jan-jobb",
+            "name": "Ján JOBB, Ing.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-2-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-jan-jobb-history-2013-11-09-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marcel-krajco",
+            "name": "Marcel KRAJČO, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-marcel-krajco-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-branislav-kramar",
+            "name": "Branislav KRAMÁR, MUDr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-branislav-kramar-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-branislav-kramar",
+            "name": "Branislav KRAMÁR, MUDr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-branislav-kramar-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-branislav-kramar",
+            "name": "Branislav KRAMÁR, MUDr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-branislav-kramar-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-milos-kristofik",
+            "name": "Miloš KRIŠTOFÍK, PhDr.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-2-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-milos-kristofik-history-2013-11-09-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-stefan-kristofik",
+            "name": "Štefan KRIŠTOFÍK, MUDr., MPH",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "ttsk-stefan-kristofik-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-stefan-kristofik",
+            "name": "Štefan KRIŠTOFÍK, MUDr., MPH",
+            "office": "regional_council",
+            "contestId": "2013-11-09-2-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-stefan-kristofik-history-2013-11-09-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-stefan-kristofik",
+            "name": "Štefan KRIŠTOFÍK, MUDr., MPH",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-stefan-kristofik-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-stefan-kristofik",
+            "name": "Štefan KRIŠTOFÍK, MUDr., MPH",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-stefan-kristofik-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-peter-markovic",
+            "name": "Peter MARKOVIČ, Ing.",
+            "office": "regional_council",
+            "contestId": "2005-11-26-2-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-peter-markovic-history-2005-11-26-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-rastislav-mraz",
+            "name": "Rastislav MRÁZ, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-rastislav-mraz-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-rastislav-mraz",
+            "name": "Rastislav MRÁZ, Mgr.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-2-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-rastislav-mraz-history-2013-11-09-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-rastislav-mraz",
+            "name": "Rastislav MRÁZ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-rastislav-mraz-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-rastislav-mraz",
+            "name": "Rastislav MRÁZ, Mgr.",
+            "office": "mayor",
+            "contestId": "2018-11-10-506745-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-rastislav-mraz-history-2018-11-10-mayor-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-rastislav-mraz",
+            "name": "Rastislav MRÁZ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-rastislav-mraz-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marek-nesticky",
+            "name": "Marek NEŠTICKÝ, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-marek-nesticky-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marek-nesticky",
+            "name": "Marek NEŠTICKÝ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-marek-nesticky-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marek-nesticky",
+            "name": "Marek NEŠTICKÝ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-marek-nesticky-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-tibor-pekarcik",
+            "name": "Tibor PEKARČÍK, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-tibor-pekarcik-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-tibor-pekarcik",
+            "name": "Tibor PEKARČÍK, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-tibor-pekarcik-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-tibor-pekarcik",
+            "name": "Tibor PEKARČÍK, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-tibor-pekarcik-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozef-remenar",
+            "name": "Jozef REMENÁR",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "ttsk-jozef-remenar-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozef-remenar",
+            "name": "Jozef REMENÁR",
+            "office": "mayor",
+            "contestId": "2018-11-10-506851-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-jozef-remenar-history-2018-11-10-mayor-506851"
+            ]
+          },
+          {
+            "candidateId": "ttsk-ondrej-stefanik",
+            "name": "Ondrej ŠTEFÁNIK, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-ondrej-stefanik-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-marian-viskupic",
+            "name": "Marián VISKUPIČ, RNDr. Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-marian-viskupic-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-eva-nemcovska",
+            "name": "Eva NEMČOVSKÁ, PhDr., PhD., MPH",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-eva-nemcovska-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-martin-uhlik",
+            "name": "Martin UHLÍK, Mgr., PhD.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "ttsk-martin-uhlik-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-martin-uhlik",
+            "name": "Martin UHLÍK, Mgr., PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-martin-uhlik-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-martin-uhlik",
+            "name": "Martin UHLÍK, Mgr., PhD.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-martin-uhlik-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-igor-valek",
+            "name": "Igor VÁLEK, Ing.",
+            "office": "mayor",
+            "contestId": "2018-11-10-506745-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "ttsk-igor-valek-history-2018-11-10-mayor-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-vladimir-ekhardt",
+            "name": "Vladimír EKHARDT, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-vladimir-ekhardt-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-peter-halada",
+            "name": "Peter HALADA, Ing.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-peter-halada-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-richard-sladek",
+            "name": "Richard SLÁDEK, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-richard-sladek-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-daniel-kravec",
+            "name": "Daniel KRAVEC, Mgr., LL.M.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "ttsk-daniel-kravec-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-simon-stefunko",
+            "name": "Šimon ŠTEFUNKO, PhDr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-2-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "ttsk-simon-stefunko-history-2017-11-04-regional_council-2"
+            ]
+          },
+          {
+            "candidateId": "ttsk-simon-stefunko",
+            "name": "Šimon ŠTEFUNKO, PhDr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-simon-stefunko-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-simon-stefunko",
+            "name": "Šimon ŠTEFUNKO, PhDr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-simon-stefunko-history-2014-11-15-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-tatiana-vavrova",
+            "name": "Tatiana VAVROVÁ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506745-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-tatiana-vavrova-history-2018-11-10-municipal_council-506745"
+            ]
+          },
+          {
+            "candidateId": "ttsk-jozsef-berenyi",
+            "name": "József BERÉNYI, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-dolnesaliby-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "ttsk-jozsef-berenyi-history-2014-11-15-dolnesaliby-municipal_council"
+            ]
+          }
+        ],
+        "outcomeCorrections": [
+          {
+            "candidateId": "ttsk-zuzana-bosnakova",
+            "name": "Zuzana BOŠNÁKOVÁ, JUDr. Bc.",
+            "office": "mayor",
+            "contestId": "2022-506745-mayor",
+            "before": "not_elected",
+            "after": "withdrawn"
+          }
+        ],
+        "fourOfficeContests": 175,
+        "fourOfficeParticipations": 173,
+        "fourOfficeWins": 88
+      },
+      "removedClaims": []
+    },
+    "Trenčín": {
+      "regionId": "trenciansky-kraj",
+      "candidates": 114,
+      "accounts": {
+        "before": {
+          "not_listed": 110,
+          "unverified": 1,
+          "verified": 3
+        },
+        "after": {
+          "not_listed": 109,
+          "verified": 5
+        },
+        "changedRecords": [
+          {
+            "candidateId": "tsk-michal-bratranec",
+            "name": "Michal Bratranec",
+            "before": "unverified",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "campaign-accounts-candidates-2026",
+              "tis-election-s26"
+            ]
+          },
+          {
+            "candidateId": "tsk-natalia-svitkova",
+            "name": "Ing. Natália Svítková",
+            "before": "not_listed",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "tis-election-s26"
+            ]
+          }
+        ]
+      },
+      "events": {
+        "addedFacts": 10,
+        "addedFactsByKind": {
+          "media_report": 6,
+          "response": 4
+        },
+        "candidateCountWithAddedFacts": 4,
+        "facts": [
+          {
+            "claimId": "tsk-kamil-bystricky-substitute-mandate-report-20131023",
+            "candidateId": "tsk-kamil-bystricky",
+            "name": "Mgr. Kamil Bystrický",
+            "kind": "media_report",
+            "label": "Správa o návrhu náhradníka",
+            "text": "Milan Kráľ v Pravde 23. októbra 2013 informoval, že Krajský súd v Trenčíne zamietol návrh Kamila Bystrického, ktorý sa ako náhradník domáhal poslaneckého miesta pre spornú dohodu dovtedajšieho poslanca s mestom. Správa označila rozhodnutie za definitívne bez možnosti odvolania.",
+            "period": "správa z 2013-10-23",
+            "sourceIds": [
+              "recheck-events-stage-56c8d506b4642049"
+            ]
+          },
+          {
+            "claimId": "tsk-kamil-bystricky-substitute-mandate-response-20131023",
+            "candidateId": "tsk-kamil-bystricky",
+            "name": "Mgr. Kamil Bystrický",
+            "kind": "response",
+            "label": "Bystrického reakcia",
+            "text": "Kamil Bystrický podľa Pravdy s rozhodnutím nesúhlasil, chcel sa poradiť s právnikom o ďalšom postupe a uviedol, že spor nechce vzdať.",
+            "period": "reakcia z 2013-10-23",
+            "sourceIds": [
+              "recheck-events-stage-56c8d506b4642049"
+            ]
+          },
+          {
+            "claimId": "tsk-jozef-hrdlicka-party-billboard-verdict-report-20260626",
+            "candidateId": "tsk-jozef-hrdlicka",
+            "name": "Ing. PhDr. Jozef Hrdlička, PhD.",
+            "kind": "media_report",
+            "label": "Správa o rozhodnutí v kauze KSS",
+            "text": "Richard Nemec v Noviny.sk 26. júna 2026 informoval o podľa správy právoplatnom rozhodnutí Špecializovaného trestného súdu v kauze billboardovej kampane KSS, ktoré sa týkalo strany a siedmich členov jej vedenia. Správa nemenovala všetkých siedmich odsúdených.",
+            "period": "správa z 2026-06-26",
+            "sourceIds": [
+              "tn-event-17632519448bb19e"
+            ]
+          },
+          {
+            "claimId": "tsk-tomas-vano-advertising-proceeding-report-20190923",
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "kind": "media_report",
+            "label": "Správa o konaní pre účinkovanie v reklame",
+            "text": "SITA 23. septembra 2019 informovala o konaní proti Tomášovi Vaňovi pre účinkovanie v reklame na nealkoholické pivo. Citovala záver krajskej komisie z 10. júna, podľa ktorej videoklip napĺňal znaky reklamy.",
+            "period": "2019-06-10; správa z 2019-09-23",
+            "sourceIds": [
+              "recheck-events-lead-ad930d7e7fdde41f"
+            ]
+          },
+          {
+            "claimId": "tsk-tomas-vano-advertising-response-20190923",
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "kind": "response",
+            "label": "Vaňova reakcia",
+            "text": "Tomáš Vaňo podľa SITA uviedol, že v klipe účinkoval ako člen dychovej hudby Textilanka, nie ako poslanec; osobne podľa neho honorár nedostal a odmena súboru mala slúžiť na jeho rozvoj.",
+            "period": "reakcia z 2019-09-23",
+            "sourceIds": [
+              "recheck-events-lead-ad930d7e7fdde41f"
+            ]
+          },
+          {
+            "claimId": "tsk-tomas-vano-advertising-council-stage-report-20190923",
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "kind": "media_report",
+            "label": "Správa o hlasovaní zastupiteľstva",
+            "text": "SITA 23. septembra 2019 uviedla, že krajské zastupiteľstvo neprijalo uznesenie o preukázaní porušenia zákona Tomášom Vaňom, keď sa 34 z 38 prítomných zdržalo hlasovania. O uložení pokuty preto vôbec nehlasovalo.",
+            "period": "2019-09-23",
+            "sourceIds": [
+              "recheck-events-lead-ad930d7e7fdde41f"
+            ]
+          },
+          {
+            "claimId": "tsk-martin-barcak-zlatovce-property-report-20100503",
+            "candidateId": "tsk-martin-barcak",
+            "name": "Martin Barčák",
+            "kind": "media_report",
+            "label": "Správa o výpožičke kultúrneho strediska",
+            "text": "Milan Kráľ v Pravde 3. mája 2010 informoval o bezplatnej výpožičke kultúrneho strediska v Zlatovciach združeniu Občania pre Trenčín, ktorému predsedal Martin Barčák a ktorého člen Tomáš Vaňo bol aj vo výberovej komisii. Kritiku konfliktu záujmov pripísal Aliancii Fair-play; úradné rozhodnutie o porušení zákona neuviedol.",
+            "period": "2010-05-03",
+            "sourceIds": [
+              "recheck-events-lead-6f7e02c43fe75fe6",
+              "tn-current-council-2026"
+            ]
+          },
+          {
+            "claimId": "tsk-tomas-vano-zlatovce-property-report-20100503",
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "kind": "media_report",
+            "label": "Správa o výpožičke kultúrneho strediska",
+            "text": "Milan Kráľ v Pravde 3. mája 2010 informoval o bezplatnej výpožičke kultúrneho strediska v Zlatovciach združeniu Občania pre Trenčín, ktorému predsedal Martin Barčák a ktorého člen Tomáš Vaňo bol aj vo výberovej komisii. Kritiku konfliktu záujmov pripísal Aliancii Fair-play; úradné rozhodnutie o porušení zákona neuviedol.",
+            "period": "2010-05-03",
+            "sourceIds": [
+              "recheck-events-lead-6f7e02c43fe75fe6",
+              "tn-current-council-2026"
+            ]
+          },
+          {
+            "claimId": "tsk-martin-barcak-zlatovce-property-response-20100503",
+            "candidateId": "tsk-martin-barcak",
+            "name": "Martin Barčák",
+            "kind": "response",
+            "label": "Barčákovo vyjadrenie",
+            "text": "Martin Barčák podľa Pravdy vysvetlil zámer organizovať v stredisku kultúrne podujatia a uviedol, že príjmy združenia sa majú vložiť späť do kultúry.",
+            "period": "vyjadrenie z 2010-05-03",
+            "sourceIds": [
+              "recheck-events-lead-6f7e02c43fe75fe6"
+            ]
+          },
+          {
+            "claimId": "tsk-tomas-vano-zlatovce-property-response-20100503",
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "kind": "response",
+            "label": "Vaňova reakcia",
+            "text": "Tomáš Vaňo pre Pravdu uznal, že jeho účasť vo výberovej komisii môže byť spochybnená; uviedol, že pri opakovaní by členstvo v komisii odmietol.",
+            "period": "reakcia z 2010-05-03",
+            "sourceIds": [
+              "recheck-events-lead-6f7e02c43fe75fe6"
+            ]
+          }
+        ],
+        "categoryMoves": [
+          {
+            "claimId": "tsk-jan-kvasnica-reported-assault-victim-2025",
+            "candidateId": "tsk-jan-kvasnica",
+            "name": "Ján Kvasnica",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "tn-event-24ec64f7f09d9269"
+            ]
+          },
+          {
+            "claimId": "tsk-tomas-vano-historical-media-2013",
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "tn-lifecycle-3487853fb7ef6188"
+            ]
+          },
+          {
+            "claimId": "tsk-simona-zacharova-signed-media-profile-2026",
+            "candidateId": "tsk-simona-zacharova",
+            "name": "PhDr. Simona Zacharová, MBA",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "tn-lifecycle-87579d380cd743aa"
+            ]
+          },
+          {
+            "claimId": "tsk-simon-zdarsky-stvr-school-report-2025",
+            "candidateId": "tsk-simon-zdarsky",
+            "name": "MUDr. Šimon Žďárský",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "tn-supplement-c89aca2ed721ba54"
+            ]
+          },
+          {
+            "claimId": "tsk-jan-forgac-reviewed-media-media-649b85ecc235a9d0",
+            "candidateId": "tsk-jan-forgac",
+            "name": "Mgr. Ján Forgáč",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "tn-media-649b85ecc235a9d0"
+            ]
+          },
+          {
+            "claimId": "tsk-zuzana-frajkova-durmekova-senior-housing-media-2024",
+            "candidateId": "tsk-zuzana-frajkova-durmekova",
+            "name": "PhDr. Zuzana Frajková Ďurmeková",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "tn-media-9733a8062cb15e35",
+              "tn-media-8db1b25186ff31f1"
+            ]
+          },
+          {
+            "claimId": "tsk-jaroslav-mego-sme-prison-contract-media-2026",
+            "candidateId": "tsk-jaroslav-mego",
+            "name": "Jaroslav Mego",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "tn-reader-mego"
+            ]
+          }
+        ]
+      },
+      "history": {
+        "beforeConfirmedContestsAllRetainedOffices": 91,
+        "afterConfirmedContestsAllRetainedOffices": 162,
+        "participations": 162,
+        "wins": 87,
+        "addedParticipations": 71,
+        "addedWithdrawnCandidacies": 0,
+        "addedContests": [
+          {
+            "candidateId": "tsk-danica-birosova",
+            "name": "JUDr. Danica Birošová",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-danica-birosova-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-danica-birosova",
+            "name": "JUDr. Danica Birošová",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-danica-birosova-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-danica-birosova",
+            "name": "JUDr. Danica Birošová",
+            "office": "mayor",
+            "contestId": "2018-11-10-505820-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-danica-birosova-history-2018-11-10-mayor-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-danica-birosova",
+            "name": "JUDr. Danica Birošová",
+            "office": "mayor",
+            "contestId": "2014-11-15-trencin-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-danica-birosova-history-2014-11-15-mayor-trencin"
+            ]
+          },
+          {
+            "candidateId": "tsk-jan-forgac",
+            "name": "Mgr. Ján Forgáč",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-jan-forgac-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-milos-micega",
+            "name": "Ing. Miloš Mičega, MBA, LL.M.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-milos-micega-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-milos-micega",
+            "name": "Ing. Miloš Mičega, MBA, LL.M.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-milos-micega-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-milos-micega",
+            "name": "Ing. Miloš Mičega, MBA, LL.M.",
+            "office": "mayor",
+            "contestId": "2018-11-10-505820-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-milos-micega-history-2018-11-10-mayor-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-drahomir-drozd",
+            "name": "Mgr. Drahomír Drozd",
+            "office": "regional_council",
+            "contestId": "2013-11-09-3-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-drahomir-drozd-history-2013-11-09-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-jan-kmet",
+            "name": "Mgr. Ján Kmeť, PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-jan-kmet-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-richard-medal",
+            "name": "Mgr. Richard Medal",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-richard-medal-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-michal-mosko",
+            "name": "Mgr. Michal Moško, MBA",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-michal-mosko-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-richard-scepko",
+            "name": "Ing. Richard Ščepko",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-richard-scepko-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-marian-betak",
+            "name": "Ing. arch. Marián Beták",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-marian-betak-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-lubomir-bobak",
+            "name": "Mgr. Ľubomír  Bobák",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-lubomir-bobak-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-dominik-gabriel",
+            "name": "Bc. Dominik Gabriel",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-dominik-gabriel-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-dominik-gabriel",
+            "name": "Bc. Dominik Gabriel",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-dominik-gabriel-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-peter-hostak",
+            "name": "Peter Hošták, PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-peter-hostak-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-patrik-zak",
+            "name": "Patrik Žák, B.S.B.A.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-3-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-patrik-zak-history-2013-11-09-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-patrik-zak",
+            "name": "Patrik Žák, B.S.B.A.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-patrik-zak-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-miloslav-baco",
+            "name": "Mgr. Miloslav Baco",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-miloslav-baco-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-miloslav-baco",
+            "name": "Mgr. Miloslav Baco",
+            "office": "regional_council",
+            "contestId": "2013-11-09-3-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-miloslav-baco-history-2013-11-09-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-miloslav-baco",
+            "name": "Mgr. Miloslav Baco",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-miloslav-baco-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-juraj-bakos",
+            "name": "Mgr. Juraj Bakoš",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-juraj-bakos-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-juraj-bakos",
+            "name": "Mgr. Juraj Bakoš",
+            "office": "regional_council",
+            "contestId": "2013-11-09-3-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-juraj-bakos-history-2013-11-09-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-juraj-bakos",
+            "name": "Mgr. Juraj Bakoš",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-juraj-bakos-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-kamil-bystricky",
+            "name": "Mgr. Kamil Bystrický",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-kamil-bystricky-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-lubomir-horny",
+            "name": "Ľubomír  Horný",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-lubomir-horny-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-ladislav-matejka",
+            "name": "Ing. Ladislav Matejka",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-ladislav-matejka-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-ladislav-matejka",
+            "name": "Ing. Ladislav Matejka",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-ladislav-matejka-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-ivan-slany",
+            "name": "Ing. Ivan Slaný",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-ivan-slany-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-martin-smolka",
+            "name": "JUDr. Martin Smolka",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-martin-smolka-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-martin-smolka",
+            "name": "JUDr. Martin Smolka",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-martin-smolka-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-martin-trepac",
+            "name": "Bc. Martin Trepáč",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-martin-trepac-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-martin-barcak",
+            "name": "Martin Barčák",
+            "office": "regional_council",
+            "contestId": "2013-11-09-3-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-martin-barcak-history-2013-11-09-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-martin-barcak",
+            "name": "Martin Barčák",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-martin-barcak-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-ivan-hudcovsky",
+            "name": "Ivan Hudcovský",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-ivan-hudcovsky-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-josef-kolar",
+            "name": "Mgr. Ing. Josef Kolář, MBA",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-josef-kolar-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-marcel-meravy",
+            "name": "Marcel Meravý",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-marcel-meravy-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-vladimir-poruban",
+            "name": "Ing. Vladimír Poruban",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-vladimir-poruban-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-vladimir-poruban",
+            "name": "Ing. Vladimír Poruban",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-vladimir-poruban-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-juraj-stilicha",
+            "name": "Mgr. Ing. Juraj Štilicha, LL.M.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-juraj-stilicha-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-tomas-vano-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "office": "regional_council",
+            "contestId": "2013-11-09-3-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-tomas-vano-history-2013-11-09-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-tomas-vano-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "office": "mayor",
+            "contestId": "2014-11-15-trencin-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-tomas-vano-history-2014-11-15-mayor-trencin"
+            ]
+          },
+          {
+            "candidateId": "tsk-jaroslav-baska",
+            "name": "Ing. Jaroslav Baška",
+            "office": "regional_chair",
+            "contestId": "2017-11-04-3-regional_chair",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-jaroslav-baska-history-2017-11-04-regional_chair-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-jaroslav-baska",
+            "name": "Ing. Jaroslav Baška",
+            "office": "regional_chair",
+            "contestId": "2013-11-09-3-regional_chair",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-jaroslav-baska-history-2013-11-09-regional_chair-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-peter-dano",
+            "name": "MUDr. Peter Daňo",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-peter-dano-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-peter-dano",
+            "name": "MUDr. Peter Daňo",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-506281-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-peter-dano-history-2018-11-10-municipal_council-506281"
+            ]
+          },
+          {
+            "candidateId": "tsk-peter-dano",
+            "name": "MUDr. Peter Daňo",
+            "office": "mayor",
+            "contestId": "2010-11-27-nemsova-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-peter-dano-history-2010-11-27-mayor-nemsova"
+            ]
+          },
+          {
+            "candidateId": "tsk-jozef-habanik",
+            "name": "doc. Ing. Jozef Habánik, PhD.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-jozef-habanik-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-jozef-habanik",
+            "name": "doc. Ing. Jozef Habánik, PhD.",
+            "office": "regional_council",
+            "contestId": "2005-11-26-3-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-jozef-habanik-history-2005-11-26-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-jozef-hrdlicka",
+            "name": "Ing. PhDr. Jozef Hrdlička, PhD.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-3-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-jozef-hrdlicka-history-2013-11-09-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-jozef-hrdlicka",
+            "name": "Ing. PhDr. Jozef Hrdlička, PhD.",
+            "office": "regional_chair",
+            "contestId": "2005-11-26-3-regional_chair",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-jozef-hrdlicka-history-2005-11-26-regional_chair-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-anton-kysel",
+            "name": "Mgr. Anton Kysel",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-anton-kysel-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-maria-machova",
+            "name": "Bc. Mária Machová",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-maria-machova-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-juraj-malan",
+            "name": "Ing. Juraj Maláň",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-juraj-malan-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-juraj-malan",
+            "name": "Ing. Juraj Maláň",
+            "office": "regional_council",
+            "contestId": "2013-11-09-3-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "tsk-juraj-malan-history-2013-11-09-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-jaroslav-mego",
+            "name": "Jaroslav Mego",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "tsk-jaroslav-mego-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-stanislav-svatik",
+            "name": "MVDr. Stanislav Svatik",
+            "office": "regional_council",
+            "contestId": "2017-11-04-3-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-stanislav-svatik-history-2017-11-04-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-stanislav-svatik",
+            "name": "MVDr. Stanislav Svatik",
+            "office": "regional_council",
+            "contestId": "2005-11-26-3-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-stanislav-svatik-history-2005-11-26-regional_council-3"
+            ]
+          },
+          {
+            "candidateId": "tsk-simon-zdarsky",
+            "name": "MUDr. Šimon Žďárský",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-simon-zdarsky-history-2018-11-10-municipal_council-505820"
+            ]
+          },
+          {
+            "candidateId": "tsk-danica-birosova",
+            "name": "JUDr. Danica Birošová",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-danica-birosova-history-2014-11-15-505820-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "tsk-tomas-vano",
+            "name": "Ing. Tomáš Vaňo, MBA",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-tomas-vano-history-2014-11-15-505820-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "tsk-jan-forgac",
+            "name": "Mgr. Ján Forgáč",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-jan-forgac-history-2014-11-15-505820-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "tsk-milos-micega",
+            "name": "Ing. Miloš Mičega, MBA, LL.M.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-505820-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-milos-micega-history-2014-11-15-505820-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "tsk-jaroslav-mego",
+            "name": "Jaroslav Mego",
+            "office": "mayor",
+            "contestId": "2016-11-05-drietoma-mayor",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-jaroslav-mego-history-2016-11-05-drietoma-mayor"
+            ]
+          },
+          {
+            "candidateId": "tsk-jaroslav-mego",
+            "name": "Jaroslav Mego",
+            "office": "mayor",
+            "contestId": "2018-11-10-505960-mayor",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-jaroslav-mego-history-2018-11-10-505960-mayor"
+            ]
+          },
+          {
+            "candidateId": "tsk-peter-dano",
+            "name": "MUDr. Peter Daňo",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-nemsova-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-peter-dano-history-2014-11-15-nemsova-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "tsk-juraj-malan",
+            "name": "Ing. Juraj Maláň",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-soblahov-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "tsk-juraj-malan-history-2014-11-15-soblahov-municipal_council"
+            ]
+          }
+        ],
+        "outcomeCorrections": [],
+        "fourOfficeContests": 161,
+        "fourOfficeParticipations": 161,
+        "fourOfficeWins": 87
+      },
+      "removedClaims": []
+    },
+    "Nitra": {
+      "regionId": "nitriansky-kraj",
+      "candidates": 166,
+      "accounts": {
+        "before": {
+          "not_listed": 162,
+          "verified": 3,
+          "unverified": 1
+        },
+        "after": {
+          "verified": 8,
+          "not_listed": 158
+        },
+        "changedRecords": [
+          {
+            "candidateId": "nsk-marek-hattas",
+            "name": "Marek HATTAS",
+            "before": "not_listed",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "tis-election-s26",
+              "four-city-recheck-bank-nsk-marek-hattas"
+            ]
+          },
+          {
+            "candidateId": "nsk-henrich-varga",
+            "name": "Henrich VARGA, Mgr.",
+            "before": "verified",
+            "after": "verified",
+            "method": "candidate_site",
+            "sourceIds": [
+              "nsk-varga-home-2026",
+              "four-city-recheck-varga-campaign-info"
+            ]
+          },
+          {
+            "candidateId": "nsk-branislav-becik",
+            "name": "Branislav BECÍK, Ing., PhD.",
+            "before": "not_listed",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "tis-election-s26",
+              "four-city-recheck-bank-nsk-branislav-becik"
+            ]
+          },
+          {
+            "candidateId": "nsk-erik-blasko",
+            "name": "Erik BLAŠKO",
+            "before": "unverified",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "campaign-accounts-candidates-2026",
+              "tis-election-s26"
+            ]
+          },
+          {
+            "candidateId": "nsk-jolana-culakova",
+            "name": "Jolana ČULÁKOVÁ, Mgr.",
+            "before": "not_listed",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "tis-election-s26"
+            ]
+          },
+          {
+            "candidateId": "nsk-viktor-nemeth",
+            "name": "Viktor NÉMETH, Mgr.",
+            "before": "not_listed",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "four-city-recheck-bank-nsk-viktor-nemeth"
+            ]
+          }
+        ]
+      },
+      "events": {
+        "addedFacts": 14,
+        "addedFactsByKind": {
+          "media_report": 6,
+          "response": 6,
+          "fact": 1,
+          "official_outcome": 1
+        },
+        "candidateCountWithAddedFacts": 7,
+        "facts": [
+          {
+            "claimId": "nsk-branislav-becik-property-exchange-complaint-report-20250529",
+            "candidateId": "nsk-branislav-becik",
+            "name": "Branislav BECÍK, Ing., PhD.",
+            "kind": "media_report",
+            "label": "Správa o trestnom oznámení",
+            "text": "TASR 29. mája 2025 informovala, že SaS podala na Generálnej prokuratúre SR trestné oznámenie pre podľa nej nevýhodnú zámenu pozemkov Nitrianskeho samosprávneho kraja za penzión v Radave. Ide o podozrenie uvádzané politickými oponentmi, nie o záver o vine Branislava Becíka.",
+            "period": "2025-05-29",
+            "sourceIds": [
+              "recheck-events-stage-cc4c45f5234cbbdf"
+            ]
+          },
+          {
+            "claimId": "nsk-branislav-becik-property-exchange-response-20250529",
+            "candidateId": "nsk-branislav-becik",
+            "name": "Branislav BECÍK, Ing., PhD.",
+            "kind": "response",
+            "label": "Becíkova reakcia",
+            "text": "Branislav Becík podľa TASR odmietol tvrdenia SaS o nevýhodnej zámene; uviedol, že kraj postupoval podľa znaleckých posudkov a objekt získal na pomoc týraným ženám.",
+            "period": "reakcia z 2025-05-29",
+            "sourceIds": [
+              "recheck-events-stage-cc4c45f5234cbbdf"
+            ]
+          },
+          {
+            "claimId": "nsk-mikulas-dunda-zdzs-audit-report-20110412",
+            "candidateId": "nsk-mikulas-dunda",
+            "name": "Mikuláš DUNDA, Ing., MPH",
+            "kind": "media_report",
+            "label": "Správa o výhradách ministra k ZDZS",
+            "text": "SITA 12. apríla 2011 sprostredkovala výhrady ministra zdravotníctva Ivana Uhliarika k zmluvám a účtovníctvu bývalého vedenia ZDZS Bratislava, ktorú v roku 2010 dočasne viedol aj Mikuláš Dunda. Správa uvádzala podávanie trestných oznámení na neznámeho páchateľa; nepreukazuje osobnú vinu Dundu.",
+            "period": "2011-04-12",
+            "sourceIds": [
+              "recheck-events-stage-b781b8a8f11ecd5b",
+              "recheck-events-lead-3a52548ad8922eb5",
+              "recheck-events-lead-b2f795efaf75fafa",
+              "nr-employment-orsr-extract-58501-9-current"
+            ]
+          },
+          {
+            "claimId": "nsk-mikulas-dunda-zdzs-audit-response-20110412",
+            "candidateId": "nsk-mikulas-dunda",
+            "name": "Mikuláš DUNDA, Ing., MPH",
+            "kind": "response",
+            "label": "Dundova reakcia",
+            "text": "Mikuláš Dunda pre SITA odmietol podozrenia z odlievania peňazí a kreatívneho účtovníctva; tvrdil, že jeho podpis nebol na medializovaných zmluvách a pri jeho odchode nemala záchranka záväzky.",
+            "period": "reakcia z 2011-04-12",
+            "sourceIds": [
+              "recheck-events-stage-b781b8a8f11ecd5b"
+            ]
+          },
+          {
+            "claimId": "nsk-jan-rejda-gorila-allegations-report-20220817",
+            "candidateId": "nsk-jan-rejda",
+            "name": "Ján REJDA, JUDr. Ing.",
+            "kind": "media_report",
+            "label": "Správa o tvrdeniach zo spisu Gorila",
+            "text": "Tomáš Kyseľ v Aktuality.sk 17. augusta 2022 pripomenul tvrdenia údajného spisu Gorila o odovzdávaní informácií Jánom Rejdom finančnej skupine Penta. Článok zároveň uviedol, že mu prijímanie úplatkov nedokázali a podľa citovaného bývalého vyšetrovateľa v tejto veci nikdy nebol obvinený.",
+            "period": "správa z 2022-08-17",
+            "sourceIds": [
+              "recheck-events-lead-235970ec2b834145",
+              "recheck-events-rejda-official2012bridge"
+            ]
+          },
+          {
+            "claimId": "nsk-jan-rejda-gorila-response-20220817",
+            "candidateId": "nsk-jan-rejda",
+            "name": "Ján REJDA, JUDr. Ing.",
+            "kind": "response",
+            "label": "Rejdova reakcia",
+            "text": "Ján Rejda v stanovisku zverejnenom Aktuality.sk uviedol, že v odpočúvanom byte vykonával nahlásenú operatívno-spravodajskú činnosť a zo stretnutí vznikali služobné záznamy. Poprel odovzdávanie informácií Pente za odmenu.",
+            "period": "reakcia z 2022-08-17",
+            "sourceIds": [
+              "recheck-events-lead-235970ec2b834145"
+            ]
+          },
+          {
+            "claimId": "nsk-martin-kusenda-theatre-dispute-report-20160211",
+            "candidateId": "nsk-martin-kusenda",
+            "name": "Martin KUSENDA, Mgr. art.",
+            "kind": "media_report",
+            "label": "Správa o spore v divadle",
+            "text": "TASR 11. februára 2016 informovala o výpovediach pracovníkov Starého divadla Karola Spišáka v Nitre po spore s riaditeľom Martinom Kusendom. Odchádzajúci členovia súboru kritizovali jeho vedenie aj postup zriaďovateľa.",
+            "period": "2016-02-11",
+            "sourceIds": [
+              "recheck-events-lead-4a754e0db232e94d",
+              "nr-lead-1138-press-original"
+            ]
+          },
+          {
+            "claimId": "nsk-martin-kusenda-theatre-dispute-response-20160211",
+            "candidateId": "nsk-martin-kusenda",
+            "name": "Martin KUSENDA, Mgr. art.",
+            "kind": "response",
+            "label": "Kusendova reakcia",
+            "text": "Martin Kusenda pre TASR uviedol, že situácia ho mrzí a považuje ju za vyvrcholenie dlhoročných vnútorných sporov. Kritiku odmietal a tvrdil, že kolegom sa snažil vyjsť v ústrety.",
+            "period": "reakcia z 2016-02-11",
+            "sourceIds": [
+              "recheck-events-lead-4a754e0db232e94d"
+            ]
+          },
+          {
+            "claimId": "nsk-veronika-gabcikova-theatre-dispute-report-20160211",
+            "candidateId": "nsk-veronika-gabcikova",
+            "name": "Veronika GABČÍKOVÁ, Mgr. art.",
+            "kind": "media_report",
+            "label": "Správa o účasti v pracovnom spore",
+            "text": "TASR 11. februára 2016 menovala dramaturgičku Veroniku Gabčíkovú medzi pracovníkmi Starého divadla Karola Spišáka, ktorí podali výpoveď po spore s vedením. V udalosti vystupovala ako odchádzajúca zamestnankyňa a kritička, nie ako obvinená.",
+            "period": "2016-02-11",
+            "sourceIds": [
+              "recheck-events-lead-4a754e0db232e94d"
+            ]
+          },
+          {
+            "claimId": "nsk-veronika-gabcikova-theatre-dispute-response-20160211",
+            "candidateId": "nsk-veronika-gabcikova",
+            "name": "Veronika GABČÍKOVÁ, Mgr. art.",
+            "kind": "response",
+            "label": "Gabčíkovej vyjadrenie",
+            "text": "Veronika Gabčíková podľa TASR kritizovala umelecký vývoj divadla a spôsob výberu riaditeľa; zodpovednosť za situáciu pripisovala aj Nitrianskemu samosprávnemu kraju ako zriaďovateľovi.",
+            "period": "vyjadrenie z 2016-02-11",
+            "sourceIds": [
+              "recheck-events-lead-4a754e0db232e94d"
+            ]
+          },
+          {
+            "claimId": "nsk-marek-hattas-strabag-settlement-report-20221011",
+            "candidateId": "nsk-marek-hattas",
+            "name": "Marek HATTAS",
+            "kind": "media_report",
+            "label": "Správa o spornom mimosúdnom vyrovnaní",
+            "text": "Dominik Pálka v ta3 11. októbra 2022 pripomenul výhradu prokuratúry k tomu, že Marek Hattas podpísal mimosúdne vyrovnanie so stavebnou spoločnosťou bez predchádzajúceho súhlasu poslancov. Správa sa týkala napojenia priemyselného parku na R1.",
+            "period": "správa z 2022-10-11",
+            "sourceIds": [
+              "recheck-events-lead-269d62c6bd07507f"
+            ]
+          },
+          {
+            "claimId": "nsk-marek-hattas-strabag-settlement-response-20221011",
+            "candidateId": "nsk-marek-hattas",
+            "name": "Marek HATTAS",
+            "kind": "response",
+            "label": "Hattasova reakcia",
+            "text": "Marek Hattas v diskusii ta3 uviedol, že spor mesto zdedilo a najatá advokátska kancelária upozornila na riziko miliónovej platby pri pokračovaní súdneho sporu. Tým vysvetľoval rozhodnutie uzavrieť vyrovnanie.",
+            "period": "reakcia z 2022-10-11",
+            "sourceIds": [
+              "recheck-events-lead-269d62c6bd07507f"
+            ]
+          },
+          {
+            "claimId": "nsk-tibor-gaspar-removal-motion1208-trigger-20260313",
+            "candidateId": "nsk-tibor-gaspar",
+            "name": "Tibor GAŠPAR, PaedDr.",
+            "kind": "fact",
+            "label": "Návrh na odvolanie z funkcie",
+            "text": "Parlamentná tlač 1208 s podacou pečiatkou z 13. marca 2026 obsahuje návrh skupiny poslancov na odvolanie Tibora Gašpara z funkcie podpredsedu NR SR. Ide o podaný návrh, nie o rozhodnutie o odvolaní ani o súdne zistenie viny.",
+            "period": "podanie z 2026-03-13",
+            "sourceIds": [
+              "recheck-events-stage-5025f20a5351e980"
+            ]
+          },
+          {
+            "claimId": "nsk-tibor-gaspar-removal-motion1208-program-vote-20260317",
+            "candidateId": "nsk-tibor-gaspar",
+            "name": "Tibor GAŠPAR, PaedDr.",
+            "kind": "official_outcome",
+            "label": "Neschválenie programu schôdze",
+            "text": "Oficiálny záznam NR SR uvádza, že 17. marca 2026 pri hlasovaní č. 2 o programe 48. schôdze k tlači 1208 hlasovalo za 59 a proti 77 poslancov; návrh programu neprešiel. Išlo o hlasovanie o programe schôdze, nie o vecné rozhodnutie o Gašparovom odvolaní.",
+            "period": "2026-03-17",
+            "sourceIds": [
+              "recheck-events-gaspar-motion1208-program-result"
+            ]
+          }
+        ],
+        "categoryMoves": []
+      },
+      "history": {
+        "beforeConfirmedContestsAllRetainedOffices": 125,
+        "afterConfirmedContestsAllRetainedOffices": 209,
+        "participations": 208,
+        "wins": 104,
+        "addedParticipations": 84,
+        "addedWithdrawnCandidacies": 0,
+        "addedContests": [
+          {
+            "candidateId": "nsk-andrej-sitkey",
+            "name": "Andrej SITKEY, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-andrej-sitkey-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-branislav-becik",
+            "name": "Branislav BECÍK, Ing., PhD.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-branislav-becik-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-daniel-balko",
+            "name": "Daniel BALKO, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-daniel-balko-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-daniel-balko",
+            "name": "Daniel BALKO, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-daniel-balko-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-denisa-branikovicova",
+            "name": "Denisa BRANIKOVIČOVÁ",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-denisa-branikovicova-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-dusan-kacer",
+            "name": "Dušan KÁČER, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-dusan-kacer-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-eva-antosova",
+            "name": "Eva ANTOŠOVÁ, Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-eva-antosova-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-eva-antosova",
+            "name": "Eva ANTOŠOVÁ, Ing.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-4-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-eva-antosova-history-2013-11-09-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-eva-antosova",
+            "name": "Eva ANTOŠOVÁ, Ing.",
+            "office": "regional_chair",
+            "contestId": "2005-11-26-4-regional_chair",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-eva-antosova-history-2005-11-26-regional_chair-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-eva-antosova",
+            "name": "Eva ANTOŠOVÁ, Ing.",
+            "office": "regional_council",
+            "contestId": "2005-11-26-4-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-eva-antosova-history-2005-11-26-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-eva-antosova",
+            "name": "Eva ANTOŠOVÁ, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-eva-antosova-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-eva-hudecova",
+            "name": "Eva HUDECOVÁ, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-eva-hudecova-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-eva-hudecova",
+            "name": "Eva HUDECOVÁ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-eva-hudecova-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-frantisek-holly",
+            "name": "František HOLLÝ",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-frantisek-holly-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-ingrid-menky",
+            "name": "Ingrid MEŇKY, PhDr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-ingrid-menky-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-jan-gresso",
+            "name": "Ján GREŠŠO, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-jan-gresso-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-jan-gresso",
+            "name": "Ján GREŠŠO, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-jan-gresso-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-jan-gresso",
+            "name": "Ján GREŠŠO, Mgr.",
+            "office": "mayor",
+            "contestId": "2018-11-10-500011-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-jan-gresso-history-2018-11-10-mayor-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-jan-vanco",
+            "name": "Ján VANČO, PhDr., PhD.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-jan-vanco-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-jan-vanco",
+            "name": "Ján VANČO, PhDr., PhD.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-jan-vanco-history-2013-11-09-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-jan-vanco",
+            "name": "Ján VANČO, PhDr., PhD.",
+            "office": "regional_council",
+            "contestId": "2005-11-26-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-jan-vanco-history-2005-11-26-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-jan-vanco",
+            "name": "Ján VANČO, PhDr., PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-jan-vanco-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-jarmila-kralova",
+            "name": "Jarmila KRÁLOVÁ, Ing., PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-jarmila-kralova-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-jaroslav-doczy",
+            "name": "Jaroslav DÓCZY, Ing., PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-jaroslav-doczy-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-jaroslav-macek",
+            "name": "Jaroslav MAČEK, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-jaroslav-macek-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-jozef-jankovic",
+            "name": "Jozef JANKOVIČ, Mgr.",
+            "office": "mayor",
+            "contestId": "2018-11-10-500712-mayor",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-jozef-jankovic-history-2018-11-10-mayor-500712"
+            ]
+          },
+          {
+            "candidateId": "nsk-jozef-jankovic",
+            "name": "Jozef JANKOVIČ, Mgr.",
+            "office": "mayor",
+            "contestId": "2014-11-15-rumanova-mayor",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-jozef-jankovic-history-2014-11-15-mayor-rumanova"
+            ]
+          },
+          {
+            "candidateId": "nsk-juraj-gajdos",
+            "name": "Juraj GAJDOŠ, Ing. arch.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-juraj-gajdos-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-juraj-gajdos",
+            "name": "Juraj GAJDOŠ, Ing. arch.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-4-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-juraj-gajdos-history-2013-11-09-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-juraj-gajdos",
+            "name": "Juraj GAJDOŠ, Ing. arch.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-juraj-gajdos-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-katarina-kompasova",
+            "name": "Katarína KOMPASOVÁ, PhDr., PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-katarina-kompasova-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-kristian-cechmanek",
+            "name": "Kristián ČECHMÁNEK, Mgr., PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-kristian-cechmanek-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-ladislav-masik",
+            "name": "Ladislav MÁŠIK, JUDr., LL.M., MBA",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-ladislav-masik-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-ladislav-turba",
+            "name": "Ladislav TURBA",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-ladislav-turba-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-lubomir-klestinec",
+            "name": "Ľubomír KLEŠTINEC, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-lubomir-klestinec-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-lubomir-klestinec",
+            "name": "Ľubomír KLEŠTINEC, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-lubomir-klestinec-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-lubomir-moravcik",
+            "name": "Ľubomír MORAVČÍK, Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-lubomir-moravcik-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-lubomir-moravcik",
+            "name": "Ľubomír MORAVČÍK, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-lubomir-moravcik-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-lukas-hnilica",
+            "name": "Lukáš HNILICA, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-lukas-hnilica-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-marek-hattas",
+            "name": "Marek HATTAS",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-marek-hattas-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-marek-hattas",
+            "name": "Marek HATTAS",
+            "office": "mayor",
+            "contestId": "2018-11-10-500011-mayor",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-marek-hattas-history-2018-11-10-mayor-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-marek-illes",
+            "name": "Marek ILLÉŠ, Ing., PhD.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-marek-illes-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-marta-racova",
+            "name": "Marta RÁCOVÁ, RNDr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-marta-racova-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-marta-racova",
+            "name": "Marta RÁCOVÁ, RNDr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-marta-racova-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-mikulas-dunda",
+            "name": "Mikuláš DUNDA, Ing., MPH",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-mikulas-dunda-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-milos-dovicovic",
+            "name": "Miloš DOVIČOVIČ, Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-milos-dovicovic-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-milos-dovicovic",
+            "name": "Miloš DOVIČOVIČ, Ing.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-4-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-milos-dovicovic-history-2013-11-09-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-milos-dovicovic",
+            "name": "Miloš DOVIČOVIČ, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-milos-dovicovic-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-milos-macho",
+            "name": "Miloš MACHO, Ing.",
+            "office": "regional_council",
+            "contestId": "2005-11-26-4-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-milos-macho-history-2005-11-26-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-miloslav-hatala",
+            "name": "Miloslav HATALA, Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-miloslav-hatala-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-miloslav-hatala",
+            "name": "Miloslav HATALA, Ing.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-miloslav-hatala-history-2013-11-09-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-miloslav-hatala",
+            "name": "Miloslav HATALA, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-miloslav-hatala-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-miloslav-spotak",
+            "name": "Miloslav ŠPOTÁK, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-miloslav-spotak-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-miroslav-gut",
+            "name": "Miroslav GUT, Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-miroslav-gut-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-miroslav-gut",
+            "name": "Miroslav GUT, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-miroslav-gut-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-pavel-varga",
+            "name": "Pavel VARGA",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-pavel-varga-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-pavol-deglovic",
+            "name": "Pavol DEGLOVIČ",
+            "office": "regional_council",
+            "contestId": "2005-11-26-4-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-pavol-deglovic-history-2005-11-26-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-pavol-obertas",
+            "name": "Pavol OBERTÁŠ",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-pavol-obertas-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-bakay",
+            "name": "Peter BAKAY, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-peter-bakay-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-kostal",
+            "name": "Peter KOŠŤÁL, Ing., PhD.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-peter-kostal-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-kostal",
+            "name": "Peter KOŠŤÁL, Ing., PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-peter-kostal-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-mezei",
+            "name": "Peter MEZEI, Ing., Ing. arch.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-peter-mezei-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-oremus",
+            "name": "Peter OREMUS, Ing., PhD.",
+            "office": "regional_chair",
+            "contestId": "2017-11-04-4-regional_chair",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-peter-oremus-history-2017-11-04-regional_chair-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-oremus",
+            "name": "Peter OREMUS, Ing., PhD.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-peter-oremus-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-oremus",
+            "name": "Peter OREMUS, Ing., PhD.",
+            "office": "regional_chair",
+            "contestId": "2013-11-09-4-regional_chair",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-peter-oremus-history-2013-11-09-regional_chair-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-oremus",
+            "name": "Peter OREMUS, Ing., PhD.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-peter-oremus-history-2013-11-09-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-oremus",
+            "name": "Peter OREMUS, Ing., PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-peter-oremus-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-oremus",
+            "name": "Peter OREMUS, Ing., PhD.",
+            "office": "mayor",
+            "contestId": "2018-11-10-500011-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-peter-oremus-history-2018-11-10-mayor-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-peter-pukan",
+            "name": "Peter PUKAN, Ing.",
+            "office": "mayor",
+            "contestId": "2025-09-06-500135-mayor",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-peter-pukan-history-2025-09-06-mayor-500135"
+            ]
+          },
+          {
+            "candidateId": "nsk-petra-ajdariova",
+            "name": "Petra AJDARIOVÁ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-petra-ajdariova-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-roman-agh",
+            "name": "Roman ÁGH, Ing., MBA",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-roman-agh-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-stefan-stefek",
+            "name": "Štefan ŠTEFEK, Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-stefan-stefek-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-stefan-stefek",
+            "name": "Štefan ŠTEFEK, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-stefan-stefek-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-stefan-stefek",
+            "name": "Štefan ŠTEFEK, Ing.",
+            "office": "mayor",
+            "contestId": "2018-11-10-500011-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-stefan-stefek-history-2018-11-10-mayor-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-tibor-csenger",
+            "name": "Tibor CSENGER, Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-tibor-csenger-history-2017-11-04-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-tibor-csenger",
+            "name": "Tibor CSENGER, Ing.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-4-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-tibor-csenger-history-2013-11-09-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-veronika-gabcikova",
+            "name": "Veronika GABČÍKOVÁ, Mgr. art.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-veronika-gabcikova-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-vladislav-borik",
+            "name": "Vladislav BORÍK, Ing., PhD.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-4-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "nsk-vladislav-borik-history-2013-11-09-regional_council-4"
+            ]
+          },
+          {
+            "candidateId": "nsk-zuzana-uhrikova",
+            "name": "Zuzana UHRÍKOVÁ, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500011-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "nsk-zuzana-uhrikova-history-2018-11-10-municipal_council-500011"
+            ]
+          },
+          {
+            "candidateId": "nsk-branislav-banyi",
+            "name": "Branislav BÁNYI, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-500933-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-branislav-banyi-history-2014-11-15-municipal_council-500933"
+            ]
+          },
+          {
+            "candidateId": "nsk-branislav-banyi",
+            "name": "Branislav BÁNYI, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-500933-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-branislav-banyi-history-2018-11-10-municipal_council-500933"
+            ]
+          },
+          {
+            "candidateId": "nsk-branislav-becik",
+            "name": "Branislav BECÍK, Ing., PhD.",
+            "office": "mayor",
+            "contestId": "2014-11-15-dvorynadzitavou-mayor",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-branislav-becik-history-2014-11-15-dvorynadzitavou-mayor"
+            ]
+          },
+          {
+            "candidateId": "nsk-branislav-becik",
+            "name": "Branislav BECÍK, Ing., PhD.",
+            "office": "mayor",
+            "contestId": "2018-11-10-503177-mayor",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-branislav-becik-history-2018-11-10-503177-mayor"
+            ]
+          },
+          {
+            "candidateId": "nsk-tibor-csenger",
+            "name": "Tibor CSENGER, Ing.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-zeliezovce-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "nsk-tibor-csenger-history-2014-11-15-zeliezovce-municipal_council"
+            ]
+          }
+        ],
+        "outcomeCorrections": [],
+        "fourOfficeContests": 208,
+        "fourOfficeParticipations": 208,
+        "fourOfficeWins": 104
+      },
+      "removedClaims": [
+        {
+          "claimId": "nsk-jozef-dvonc-regiojet-complaint-report-2016",
+          "candidateId": "nsk-jozef-dvonc",
+          "name": "Jozef DVONČ, doc. Ing., CSc."
+        },
+        {
+          "claimId": "nsk-jozef-dvonc-regiojet-police-prosecutor-report-2016",
+          "candidateId": "nsk-jozef-dvonc",
+          "name": "Jozef DVONČ, doc. Ing., CSc."
+        },
+        {
+          "claimId": "nsk-jozef-dvonc-regiojet-response-2016",
+          "candidateId": "nsk-jozef-dvonc",
+          "name": "Jozef DVONČ, doc. Ing., CSc."
+        }
+      ]
+    },
+    "Banská Bystrica": {
+      "regionId": "banskobystricky-kraj",
+      "candidates": 131,
+      "accounts": {
+        "before": {
+          "unverified": 4,
+          "not_listed": 124,
+          "verified": 3
+        },
+        "after": {
+          "unverified": 1,
+          "not_listed": 123,
+          "verified": 7
+        },
+        "changedRecords": [
+          {
+            "candidateId": "bbsk-tomas-sobota",
+            "name": "Tomáš SOBOTA, Ing. arch.",
+            "before": "unverified",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "campaign-accounts-candidates-2026",
+              "tis-election-s26"
+            ]
+          },
+          {
+            "candidateId": "bbsk-ondrej-veres",
+            "name": "Ondrej VEREŠ",
+            "before": "unverified",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "campaign-accounts-candidates-2026",
+              "tis-election-s26",
+              "four-city-recheck-bank-bbsk-ondrej-veres"
+            ]
+          },
+          {
+            "candidateId": "bbsk-roman-malatinec",
+            "name": "Roman MALATINEC, Mgr. art.",
+            "before": "not_listed",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "tis-election-s26"
+            ]
+          },
+          {
+            "candidateId": "bbsk-jaroslav-rusina",
+            "name": "Jaroslav RUSINA",
+            "before": "unverified",
+            "after": "verified",
+            "method": "register_exclusion",
+            "sourceIds": [
+              "campaign-accounts-candidates-2026",
+              "tis-election-s26",
+              "four-city-recheck-bank-bbsk-jaroslav-rusina"
+            ]
+          }
+        ]
+      },
+      "events": {
+        "addedFacts": 18,
+        "addedFactsByKind": {
+          "media_report": 7,
+          "response": 6,
+          "official_outcome": 4,
+          "fact": 1
+        },
+        "candidateCountWithAddedFacts": 6,
+        "facts": [
+          {
+            "claimId": "bbsk-jan-nosko-declaration-fine-report-20260602",
+            "candidateId": "bbsk-jan-nosko",
+            "name": "Ján NOSKO, MUDr.",
+            "kind": "media_report",
+            "label": "Správa o rozhodnutí výboru",
+            "text": "TASR 2. júna 2026 informovala, že Výbor NR SR pre nezlučiteľnosť funkcií rozhodol pre neúplné majetkové priznanie uložiť Jánovi Noskovi pokutu vo výške troch mesačných platov. Správa citovala potvrdenie predsedníčky výboru Veroniky Remišovej.",
+            "period": "2026-06-02; aktualizácia článku o 18:47",
+            "sourceIds": [
+              "recheck-events-stage-8c5c09792cd52505"
+            ]
+          },
+          {
+            "claimId": "bbsk-ondrej-lunter-declaration-fine-report-20260602",
+            "candidateId": "bbsk-ondrej-lunter",
+            "name": "Ondrej LUNTER, Mgr.",
+            "kind": "media_report",
+            "label": "Správa o rozhodnutí výboru",
+            "text": "TASR 2. júna 2026 informovala, že Výbor NR SR pre nezlučiteľnosť funkcií rozhodol pre neúplné majetkové priznanie uložiť Ondrejovi Lunterovi pokutu vo výške troch mesačných platov. Správa citovala potvrdenie predsedníčky výboru Veroniky Remišovej.",
+            "period": "2026-06-02; aktualizácia článku o 18:47",
+            "sourceIds": [
+              "recheck-events-stage-8c5c09792cd52505"
+            ]
+          },
+          {
+            "claimId": "bbsk-jan-nosko-declaration-fine-response-20260602",
+            "candidateId": "bbsk-jan-nosko",
+            "name": "Ján NOSKO, MUDr.",
+            "kind": "response",
+            "label": "Noskova reakcia",
+            "text": "Ján Nosko pre TASR uviedol, že predpokladá, že nedopatrením neuviedol funkciu konateľa v spoločnosti Dom kultúry; namietal, že za ňu nepoberal odmenu. Podľa jeho reakcie mu k 2. júnu 2026 oficiálne rozhodnutie a jeho odôvodnenie ešte neboli doručené.",
+            "period": "reakcia z 2026-06-02",
+            "sourceIds": [
+              "recheck-events-stage-8c5c09792cd52505"
+            ]
+          },
+          {
+            "claimId": "bbsk-ondrej-lunter-declaration-fine-response-20260602",
+            "candidateId": "bbsk-ondrej-lunter",
+            "name": "Ondrej LUNTER, Mgr.",
+            "kind": "response",
+            "label": "Lunterova reakcia",
+            "text": "Ondrej Lunter pre TASR uviedol, že predpokladá, že nedopatrením neuviedol funkcie vyplývajúce z funkcie predsedu kraja, za ktoré podľa neho nepoberá príjem. Podľa jeho reakcie k 2. júnu 2026 oficiálne vyrozumenie a odôvodnenie rozhodnutia ešte nedostal.",
+            "period": "reakcia z 2026-06-02",
+            "sourceIds": [
+              "recheck-events-stage-8c5c09792cd52505"
+            ]
+          },
+          {
+            "claimId": "bbsk-marek-modransky-sad-poprad-trigger-report-20250331",
+            "candidateId": "bbsk-marek-modransky",
+            "name": "Marek MODRANSKÝ, Mgr., LL.M.",
+            "kind": "media_report",
+            "label": "Správa o podnete akcionárov SAD Poprad",
+            "text": "Marek Nemec v Aktuality.sk 31. marca 2025 informoval, že akcionári SAD Poprad po spornom prenechaní správy autobusovej stanice spoločnosti Tatra Express odvolali manažment v decembri 2023 a začiatkom roka 2024 podali trestné oznámenie. Medzi dotknutými manažérmi menoval Mareka Modranského.",
+            "period": "udalosti 2023–2024; správa z 2025-03-31",
+            "sourceIds": [
+              "recheck-events-lead-85e3a76602156ed2"
+            ]
+          },
+          {
+            "claimId": "bbsk-marek-modransky-sad-poprad-charge-report-20250331",
+            "candidateId": "bbsk-marek-modransky",
+            "name": "Marek MODRANSKÝ, Mgr., LL.M.",
+            "kind": "media_report",
+            "label": "Správa o vznesení obvinenia",
+            "text": "Aktuality.sk s odvolaním na hovorcu Krajskej prokuratúry v Prešove informovali, že 20. januára 2025 boli v kauze SAD Poprad obvinené tri osoby z porušovania povinnosti pri správe cudzieho majetku. Redakcia medzi nimi identifikovala Mareka Modranského; obvinenie nie je rozhodnutím o vine.",
+            "period": "obvinenie podľa správy z 2025-03-31",
+            "sourceIds": [
+              "recheck-events-lead-85e3a76602156ed2"
+            ]
+          },
+          {
+            "claimId": "bbsk-marek-modransky-sad-poprad-response-20250403",
+            "candidateId": "bbsk-marek-modransky",
+            "name": "Marek MODRANSKÝ, Mgr., LL.M.",
+            "kind": "response",
+            "label": "Modranského odmietnutie podozrení",
+            "text": "Marek Modranský v podpísanom blogu 3. apríla 2025 odmietol podozrenia zo svojho pôsobenia v SAD Poprad. Tvrdil, že väčšinový akcionár poznal a schvaľoval projekt správy stanice a že peniaze neboli prevádzané v jeho prospech.",
+            "period": "reakcia z 2025-04-03",
+            "sourceIds": [
+              "recheck-events-modransky-own-response"
+            ]
+          },
+          {
+            "claimId": "bbsk-marek-modransky-sad-poprad-security-order-20241031",
+            "candidateId": "bbsk-marek-modransky",
+            "name": "Marek MODRANSKÝ, Mgr., LL.M.",
+            "kind": "official_outcome",
+            "label": "Zabezpečovacie opatrenie",
+            "text": "Obchodný vestník a uznesenie Najvyššieho súdu SR zaznamenávajú, že Okresný súd Prešov 31. októbra 2024 v konaní 23Cb/96/2024 zriadil záložné právo na obchodný podiel Mareka Modranského na zabezpečenie nároku SAD Poprad. Išlo o dočasné zabezpečenie sporného nároku, nie o konečné rozhodnutie o náhrade škody alebo o trestnej vine.",
+            "period": "uznesenie 2024-10-31; vykonateľnosť podľa vestníka 2024-11-28",
+            "sourceIds": [
+              "recheck-events-modransky-official-charge2025",
+              "recheck-events-modransky-official-5obno2026"
+            ]
+          },
+          {
+            "claimId": "bbsk-marek-modransky-sad-poprad-security-appeal-20250819",
+            "candidateId": "bbsk-marek-modransky",
+            "name": "Marek MODRANSKÝ, Mgr., LL.M.",
+            "kind": "official_outcome",
+            "label": "Odvolanie o zabezpečení nároku",
+            "text": "Najvyšší súd SR v uznesení 5Obno/1/2026 uvádza, že Krajský súd v Košiciach 19. augusta 2025 v konaní 4Cob/112/2025 potvrdil napadnuté výroky zabezpečovacieho opatrenia 23Cb/96/2024. Predmetom tohto štádia bolo dočasné zabezpečenie nároku SAD Poprad, nie konečné posúdenie náhrady škody či trestnej viny.",
+            "period": "odvolacie rozhodnutie z 2025-08-19",
+            "sourceIds": [
+              "recheck-events-modransky-official-5obno2026",
+              "recheck-events-modransky-official-charge2025"
+            ]
+          },
+          {
+            "claimId": "bbsk-marek-modransky-sad-poprad-security-supreme-20260428",
+            "candidateId": "bbsk-marek-modransky",
+            "name": "Marek MODRANSKÝ, Mgr., LL.M.",
+            "kind": "official_outcome",
+            "label": "Odmietnutie dovolania o zabezpečení",
+            "text": "Najvyšší súd SR 28. apríla 2026 v konaní 5Obno/1/2026 odmietol dovolanie proti uzneseniu 4Cob/112/2025. Vysvetlil, že zabezpečovacie opatrenie má dočasnú povahu a nerozhoduje vo veci samej; poučenie nepripúšťa opravný prostriedok. Toto uznesenie neurčuje trestnú vinu ani konečnú výšku náhrady škody.",
+            "period": "2026-04-28",
+            "sourceIds": [
+              "recheck-events-modransky-official-5obno2026",
+              "recheck-events-modransky-official-charge2025"
+            ]
+          },
+          {
+            "claimId": "bbsk-igor-kasper-hacker-complaint-report-20180525",
+            "candidateId": "bbsk-igor-kasper",
+            "name": "Igor KAŠPER, Ing.",
+            "kind": "media_report",
+            "label": "Správa o oznámení poškodeného",
+            "text": "SITA 25. mája 2018 informovala, že Igor Kašper ako mestský a krajský poslanec podal deň predtým trestné oznámenie na neznámeho páchateľa pre prevzatie elektronických účtov a vydieranie. V tejto udalosti vystupoval ako oznamovateľ a poškodený.",
+            "period": "2018-05-24; správa z 2018-05-25",
+            "sourceIds": [
+              "recheck-events-lead-4a4c6b6320baa6eb"
+            ]
+          },
+          {
+            "claimId": "bbsk-igor-kasper-hacker-response-20180525",
+            "candidateId": "bbsk-igor-kasper",
+            "name": "Igor KAŠPER, Ing.",
+            "kind": "response",
+            "label": "Kašperova reakcia",
+            "text": "Igor Kašper podľa SITA považoval hackerský útok za zastrašovanie a uviedol, že sa ním nenechá odradiť od verejného pôsobenia.",
+            "period": "reakcia z 2018-05-25",
+            "sourceIds": [
+              "recheck-events-lead-4a4c6b6320baa6eb"
+            ]
+          },
+          {
+            "claimId": "bbsk-jaroslav-rusina-marketing-complaint-report-20261009",
+            "candidateId": "bbsk-jaroslav-rusina",
+            "name": "Jaroslav RUSINA",
+            "kind": "media_report",
+            "label": "Správa o Rusinových podnetoch",
+            "text": "TASR 9. októbra 2026 informovala, že nezávislý kandidát na predsedu BBSK Jaroslav Rusina podal podnet hlavnému kontrolórovi kraja a ÚVO pre podozrenie z účelového delenia marketingových zákaziek. Ide o jeho podozrenie, nie o úradne potvrdené porušenie.",
+            "period": "podnety 2026-10-08 a 2026-10-09",
+            "sourceIds": [
+              "recheck-events-lead-09e7f2903a7b2655"
+            ]
+          },
+          {
+            "claimId": "bbsk-jaroslav-rusina-marketing-office-response-20261009",
+            "candidateId": "bbsk-jaroslav-rusina",
+            "name": "Jaroslav RUSINA",
+            "kind": "response",
+            "label": "Reakcia Úradu BBSK",
+            "text": "Úrad BBSK podľa TASR Rusinove obvinenia odmietol. Hovorkyňa uviedla, že zdanlivé dve rovnaké objednávky predstavovali jednu objednávku duplicitne zverejnenú pre chybu systému.",
+            "period": "reakcia z 2026-10-09",
+            "sourceIds": [
+              "recheck-events-lead-09e7f2903a7b2655"
+            ]
+          },
+          {
+            "claimId": "bbsk-peter-gogola-google-billboards-report-20141017",
+            "candidateId": "bbsk-peter-gogola",
+            "name": "Peter GOGOLA, Mgr.",
+            "kind": "media_report",
+            "label": "Správa o výhrade spoločnosti Google",
+            "text": "Dagmar Teliščáková v Pravde 17. októbra 2014 informovala, že Google žiadal nápravu pre predvolebné bilbordy Petra Gogolu, ktoré napodobňovali vizuál jeho vyhľadávača. Správa neuvádza podanú žalobu ani súdne rozhodnutie.",
+            "period": "2014-10-17",
+            "sourceIds": [
+              "recheck-events-lead-9681232e779b97d4"
+            ]
+          },
+          {
+            "claimId": "bbsk-peter-gogola-google-billboards-response-20141017",
+            "candidateId": "bbsk-peter-gogola",
+            "name": "Peter GOGOLA, Mgr.",
+            "kind": "response",
+            "label": "Gogolova reakcia",
+            "text": "Peter Gogola pre Pravdu uviedol, že podobu bilbordov právne preveril a podľa neho do práv Google nezasiahli. Potvrdil prijatie podnetu spoločnosti a zadanie právnej analýzy.",
+            "period": "reakcia z 2014-10-17",
+            "sourceIds": [
+              "recheck-events-lead-9681232e779b97d4"
+            ]
+          },
+          {
+            "claimId": "bbsk-jan-nosko-threat-victim-procedure-20260112",
+            "candidateId": "bbsk-jan-nosko",
+            "name": "Ján NOSKO, MUDr.",
+            "kind": "fact",
+            "label": "Postavenie poškodeného v konaní",
+            "text": "Uznesenie Okresnej prokuratúry Banská Bystrica z 12. januára 2026 uvádza primátora Jána Noska ako poškodeného v konaní pre nebezpečné vyhrážanie v súvislosti s emailom z mája 2025. Nosko v tejto veci nevystupoval ako obvinený.",
+            "period": "udalosti máj 2025; uznesenie 2026-01-12",
+            "sourceIds": [
+              "recheck-events-stage-9723e2a6b9305f69"
+            ]
+          },
+          {
+            "claimId": "bbsk-jan-nosko-threat-prosecutor-stage-20260112",
+            "candidateId": "bbsk-jan-nosko",
+            "name": "Ján NOSKO, MUDr.",
+            "kind": "official_outcome",
+            "label": "Rozhodnutie prokuratúry s možnosťou sťažnosti",
+            "text": "Okresná prokuratúra Banská Bystrica uznesením 3 Pv 150/25/6601-22 z 12. januára 2026 zastavila trestné stíhanie obvinenej osoby vo veci vyhrážania, v ktorej bol Ján Nosko poškodeným. Poučenie pripúšťa sťažnosť do troch pracovných dní s odkladným účinkom; dokument sám nedokladá právoplatnosť.",
+            "period": "2026-01-12",
+            "sourceIds": [
+              "recheck-events-stage-9723e2a6b9305f69"
+            ]
+          }
+        ],
+        "categoryMoves": [
+          {
+            "claimId": "bbsk-miriam-lapunikova-dated-event-report",
+            "candidateId": "bbsk-miriam-lapunikova",
+            "name": "Miriam LAPUNÍKOVÁ, Ing., MBA",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "bb-event-6b64b91b8964"
+            ]
+          },
+          {
+            "claimId": "bbsk-miroslav-suja-dated-event-report",
+            "candidateId": "bbsk-miroslav-suja",
+            "name": "Miroslav SUJA, PaedDr. Mgr., PhD., MBA, LL.M., MSc.",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "bb-event-suja-hearing20250904"
+            ]
+          },
+          {
+            "claimId": "bbsk-martin-halas-dated-event-report",
+            "candidateId": "bbsk-martin-halas",
+            "name": "Martin HALÁS, Ing.",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "bb-event-halas-20261002"
+            ]
+          },
+          {
+            "claimId": "bbsk-jozef-balaz-independent-media-publication",
+            "candidateId": "bbsk-jozef-balaz",
+            "name": "Jozef BALÁŽ, MUDr.",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "bb-independent-media-ebf613f6875807"
+            ]
+          },
+          {
+            "claimId": "bbsk-david-kapusta-personality-publication20241220",
+            "candidateId": "bbsk-david-kapusta",
+            "name": "David KAPUSTA, Ing. Mgr.",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "bb-event-kapusta-court20241220"
+            ]
+          },
+          {
+            "claimId": "bbsk-jan-nosko-stadium-publication20230207",
+            "candidateId": "bbsk-jan-nosko",
+            "name": "Ján NOSKO, MUDr.",
+            "from": "media",
+            "to": "controversies",
+            "sourceIds": [
+              "bb-event-56b704ff8dd2"
+            ]
+          }
+        ]
+      },
+      "history": {
+        "beforeConfirmedContestsAllRetainedOffices": 109,
+        "afterConfirmedContestsAllRetainedOffices": 193,
+        "participations": 191,
+        "wins": 88,
+        "addedParticipations": 84,
+        "addedWithdrawnCandidacies": 0,
+        "addedContests": [
+          {
+            "candidateId": "bbsk-marian-kotleba",
+            "name": "Marian KOTLEBA, Ing. Mgr.",
+            "office": "regional_chair",
+            "contestId": "2013-11-09-6-regional_chair",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-marian-kotleba-history-2013-11-09-regional_chair-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marian-kotleba",
+            "name": "Marian KOTLEBA, Ing. Mgr.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-6-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-marian-kotleba-history-2013-11-09-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marian-kotleba",
+            "name": "Marian KOTLEBA, Ing. Mgr.",
+            "office": "regional_chair",
+            "contestId": "2009-11-14-6-regional_chair",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-marian-kotleba-history-2009-11-14-regional_chair-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-matus-molitoris",
+            "name": "Matúš MOLITORIS, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-matus-molitoris-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-matus-molitoris",
+            "name": "Matúš MOLITORIS, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-matus-molitoris-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-jan-nosko",
+            "name": "Ján NOSKO, MUDr.",
+            "office": "mayor",
+            "contestId": "2018-11-10-508438-mayor",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-jan-nosko-history-2018-11-10-mayor-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-lucia-fabriciusova",
+            "name": "Lucia FABRICIUSOVÁ, JUDr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-lucia-fabriciusova-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-pavol-katreniak",
+            "name": "Pavol KATRENIAK, Mgr. Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-pavol-katreniak-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-miriam-lapunikova",
+            "name": "Miriam LAPUNÍKOVÁ, Ing., MBA",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-miriam-lapunikova-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marcel-pecnik",
+            "name": "Marcel PECNÍK, PhDr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-marcel-pecnik-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marcel-pecnik",
+            "name": "Marcel PECNÍK, PhDr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-marcel-pecnik-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-ivan-uhrik",
+            "name": "Ivan UHRÍK, Ing. Bc., PhD.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-ivan-uhrik-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-jakub-gajdosik",
+            "name": "Jakub GAJDOŠÍK, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-jakub-gajdosik-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-jakub-gajdosik",
+            "name": "Jakub GAJDOŠÍK, Mgr.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-6-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-jakub-gajdosik-history-2013-11-09-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-jakub-gajdosik",
+            "name": "Jakub GAJDOŠÍK, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-jakub-gajdosik-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marek-kliment",
+            "name": "Marek KLIMENT",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-marek-kliment-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-milan-lichy",
+            "name": "Milan LICHÝ, Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-milan-lichy-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-milan-lichy",
+            "name": "Milan LICHÝ, Ing.",
+            "office": "regional_council",
+            "contestId": "2005-11-26-6-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-milan-lichy-history-2005-11-26-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-milan-lichy",
+            "name": "Milan LICHÝ, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-milan-lichy-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-miroslav-luptak",
+            "name": "Miroslav LUPTÁK",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-miroslav-luptak-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-martin-majling",
+            "name": "Martin MAJLING, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-martin-majling-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-anton-minarik",
+            "name": "Anton MINÁRIK, PaedDr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-anton-minarik-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-anton-minarik",
+            "name": "Anton MINÁRIK, PaedDr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-anton-minarik-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-michal-skantar",
+            "name": "Michal ŠKANTÁR, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-michal-skantar-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-jana-tolicova",
+            "name": "Jana TOLIČOVÁ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-jana-tolicova-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-martin-turcan",
+            "name": "Martin TURČAN, Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-martin-turcan-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-martin-turcan",
+            "name": "Martin TURČAN, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-martin-turcan-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-jozef-balaz",
+            "name": "Jozef BALÁŽ, MUDr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-jozef-balaz-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-katarina-cizmarova",
+            "name": "Katarína ČIŽMÁROVÁ, doc. RNDr. , CSc.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-6-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-katarina-cizmarova-history-2013-11-09-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-katarina-cizmarova",
+            "name": "Katarína ČIŽMÁROVÁ, doc. RNDr. , CSc.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-katarina-cizmarova-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marek-odalos",
+            "name": "Marek ODALOŠ",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-marek-odalos-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-matej-bucko",
+            "name": "Matej BUČKO",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-matej-bucko-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-peter-gogola",
+            "name": "Peter GOGOLA, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-peter-gogola-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-peter-gogola",
+            "name": "Peter GOGOLA, Mgr.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-6-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-peter-gogola-history-2013-11-09-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-peter-gogola",
+            "name": "Peter GOGOLA, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-peter-gogola-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-klaudia-hruskova",
+            "name": "Klaudia HRUŠKOVÁ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-klaudia-hruskova-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-daniel-karas",
+            "name": "Daniel KARAS, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-daniel-karas-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-daniel-karas",
+            "name": "Daniel KARAS, Mgr.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-6-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-daniel-karas-history-2013-11-09-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-daniel-karas",
+            "name": "Daniel KARAS, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-daniel-karas-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-hana-kasova",
+            "name": "Hana KASOVÁ, Ing. arch.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-hana-kasova-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marek-modransky",
+            "name": "Marek MODRANSKÝ, Mgr., LL.M.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-marek-modransky-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marek-modransky",
+            "name": "Marek MODRANSKÝ, Mgr., LL.M.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-marek-modransky-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-erika-karova",
+            "name": "Erika KAROVÁ",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-erika-karova-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-erika-karova",
+            "name": "Erika KAROVÁ",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-erika-karova-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-roman-miskar",
+            "name": "Roman MIŠKÁR",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-roman-miskar-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marek-ondras",
+            "name": "Marek ONDRÁŠ, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-marek-ondras-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-ludmila-priehodova",
+            "name": "Ľudmila PRIEHODOVÁ, Ing. arch.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-ludmila-priehodova-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-ludmila-priehodova",
+            "name": "Ľudmila PRIEHODOVÁ, Ing. arch.",
+            "office": "regional_council",
+            "contestId": "2005-11-26-6-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-ludmila-priehodova-history-2005-11-26-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-ludmila-priehodova",
+            "name": "Ľudmila PRIEHODOVÁ, Ing. arch.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-ludmila-priehodova-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-igor-kasper",
+            "name": "Igor KAŠPER, Ing.",
+            "office": "regional_chair",
+            "contestId": "2017-11-04-6-regional_chair",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-igor-kasper-history-2017-11-04-regional_chair-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-igor-kasper",
+            "name": "Igor KAŠPER, Ing.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-igor-kasper-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-igor-kasper",
+            "name": "Igor KAŠPER, Ing.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-igor-kasper-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-igor-kasper",
+            "name": "Igor KAŠPER, Ing.",
+            "office": "mayor",
+            "contestId": "2018-11-10-508438-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-igor-kasper-history-2018-11-10-mayor-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-milan-smado",
+            "name": "Milan SMÄDO",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-milan-smado-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-ondrej-lunter",
+            "name": "Ondrej LUNTER, Mgr.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-ondrej-lunter-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-roman-malatinec",
+            "name": "Roman MALATINEC, Mgr. art.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-roman-malatinec-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-roman-malatinec",
+            "name": "Roman MALATINEC, Mgr. art.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-6-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-roman-malatinec-history-2013-11-09-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-roman-malatinec",
+            "name": "Roman MALATINEC, Mgr. art.",
+            "office": "regional_council",
+            "contestId": "2005-11-26-6-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-roman-malatinec-history-2005-11-26-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-roman-malatinec",
+            "name": "Roman MALATINEC, Mgr. art.",
+            "office": "mayor",
+            "contestId": "2014-11-15-korytarky-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-roman-malatinec-history-2014-11-15-mayor-korytarky"
+            ]
+          },
+          {
+            "candidateId": "bbsk-miroslav-suja",
+            "name": "Miroslav SUJA, PaedDr. Mgr., PhD., MBA, LL.M., MSc.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-miroslav-suja-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-miroslav-suja",
+            "name": "Miroslav SUJA, PaedDr. Mgr., PhD., MBA, LL.M., MSc.",
+            "office": "regional_council",
+            "contestId": "2013-11-09-6-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-miroslav-suja-history-2013-11-09-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-viera-dubacova",
+            "name": "Viera DUBAČOVÁ, Mgr. art.",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-viera-dubacova-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-david-kapusta",
+            "name": "David KAPUSTA, Ing. Mgr.",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-david-kapusta-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marta-klacanova",
+            "name": "Marta KLAČANOVÁ",
+            "office": "mayor",
+            "contestId": "2021-10-23-508985-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-marta-klacanova-history-2021-10-23-mayor-508985"
+            ]
+          },
+          {
+            "candidateId": "bbsk-ivan-kostur",
+            "name": "Ivan KOSTÚR",
+            "office": "regional_council",
+            "contestId": "2017-11-04-6-regional_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-ivan-kostur-history-2017-11-04-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-ivan-kostur",
+            "name": "Ivan KOSTÚR",
+            "office": "regional_council",
+            "contestId": "2013-11-09-6-regional_council",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-ivan-kostur-history-2013-11-09-regional_council-6"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marek-vyhnicka",
+            "name": "Marek VYHNIČKA",
+            "office": "municipal_council",
+            "contestId": "2018-11-10-508438-municipal_council",
+            "outcome": "substitute",
+            "claimIds": [
+              "bbsk-marek-vyhnicka-history-2018-11-10-municipal_council-508438"
+            ]
+          },
+          {
+            "candidateId": "bbsk-viera-dubacova",
+            "name": "Viera DUBAČOVÁ, Mgr. art.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-viera-dubacova-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-pavol-katreniak",
+            "name": "Pavol KATRENIAK, Mgr. Ing.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-pavol-katreniak-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marcel-pecnik",
+            "name": "Marcel PECNÍK, PhDr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-marcel-pecnik-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-katarina-cizmarova",
+            "name": "Katarína ČIŽMÁROVÁ, doc. RNDr. , CSc.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-katarina-cizmarova-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-matej-bucko",
+            "name": "Matej BUČKO",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-matej-bucko-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-jakub-gajdosik",
+            "name": "Jakub GAJDOŠÍK, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-jakub-gajdosik-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-milan-lichy",
+            "name": "Milan LICHÝ, Ing.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-milan-lichy-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-matus-molitoris",
+            "name": "Matúš MOLITORIS, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-matus-molitoris-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-michal-skantar",
+            "name": "Michal ŠKANTÁR, Ing.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-michal-skantar-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-martin-turcan",
+            "name": "Martin TURČAN, Ing.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-martin-turcan-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-daniel-karas",
+            "name": "Daniel KARAS, Mgr.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-daniel-karas-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-hana-kasova",
+            "name": "Hana KASOVÁ, Ing. arch.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-hana-kasova-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-igor-kasper",
+            "name": "Igor KAŠPER, Ing.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-igor-kasper-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-marek-modransky",
+            "name": "Marek MODRANSKÝ, Mgr., LL.M.",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-marek-modransky-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-milan-smado",
+            "name": "Milan SMÄDO",
+            "office": "municipal_council",
+            "contestId": "2014-11-15-508438-municipal_council",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-milan-smado-history-2014-11-15-508438-municipal_council"
+            ]
+          },
+          {
+            "candidateId": "bbsk-peter-gogola",
+            "name": "Peter GOGOLA, Mgr.",
+            "office": "mayor",
+            "contestId": "2010-11-27-508438-mayor",
+            "outcome": "elected",
+            "claimIds": [
+              "bbsk-peter-gogola-history-2010-11-27-508438-mayor"
+            ]
+          },
+          {
+            "candidateId": "bbsk-peter-gogola",
+            "name": "Peter GOGOLA, Mgr.",
+            "office": "mayor",
+            "contestId": "2014-11-15-508438-mayor",
+            "outcome": "not_elected",
+            "claimIds": [
+              "bbsk-peter-gogola-history-2014-11-15-508438-mayor"
+            ]
+          }
+        ],
+        "outcomeCorrections": [],
+        "fourOfficeContests": 187,
+        "fourOfficeParticipations": 185,
+        "fourOfficeWins": 87
+      },
+      "removedClaims": []
+    }
+  },
+  "boundaries": [
+    "Údaj searched_none znamená iba výsledok zdokumentovaného vyhľadávania k dátumu kontroly.",
+    "Zachytené originály, bankové transakcie a súkromné identifikačné údaje zostávajú mimo verejného exportu.",
+    "Úplnosť historických účastí je obmedzená dostupnosťou oficiálnych zoznamov neúspešných kandidátov, stavových legiend a identifikačných údajov; konkrétne medzery sú v historických denníkoch.",
+    "Nejednoznačné menné zhody nie sú publikované ako udalosti kandidáta. Výnimka register_exclusion sa týka iba účtov schválenej skupiny."
+  ],
+  "sourceCatalogue": "../../src/data/sources.json",
+  "verification": "verification.json",
+  "accessAndAmbiguityByCity": "access-and-ambiguity-by-city.json"
+}

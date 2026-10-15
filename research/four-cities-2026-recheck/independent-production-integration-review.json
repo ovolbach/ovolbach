@@ -1,0 +1,39 @@
+{
+  "checkedAt": "2026-10-15T17:53:37.919960+00:00",
+  "scope": "Independent simulation from immutable HEAD baseline plus reviewed account/event/history proposals, exact Dvonč correction and historydelta002. No production writes.",
+  "baselineCommit": "82a35429b8ac6adf53a666affca9c1576ec1efe3",
+  "financeCount": 546,
+  "financeDifferent": [],
+  "claimCount": 2024,
+  "claimMissing": [],
+  "claimExtra": [],
+  "claimDifferent": [],
+  "coverageCount": 4368,
+  "coverageDifferent": [],
+  "sourceCount": 2862,
+  "sourceDifferent": [],
+  "sourceExtra": [],
+  "baselineSourcesExactPrefix": true,
+  "inputHashes": {
+    ".internal/four-cities-recheck/accounts/proposals.json": "1f7f4b5d2056525d85d1c3ae0198d586a3a8f56f898bf70cddc2cf5b580da65e",
+    ".internal/four-cities-recheck/events/proposals.json": "a52898cc64a3c1a7dfe4e2c098ed88faaa7d27a66ba00bb3e01570218099419c",
+    ".internal/four-cities-recheck/history/freeze-702/proposals.json": "b27a4b25728ebfc73f62a81903864276ce55dd0a42ad48e619d1054d354f1578",
+    ".internal/four-cities-recheck/history/delta-002-reviewed-additions.json": "2643c9e00962561b7c7f1b926bfc17f7947485f90ee4b9c2bdc95724280b4bf0",
+    ".internal/four-cities-recheck/events/dvonc-identity-correction.json": "267688cf1e410556093757ec16db1c9041498682469f7e78e44bd3456fa6fd8d"
+  },
+  "productionHashes": {
+    "src/data/elections/2026/trnavsky-kraj/claims.json": "d11321e5ca41604fd9e9f32db13b92236b95564cf050fc41e2bd840bc0193958",
+    "src/data/elections/2026/trnavsky-kraj/campaign-finance.json": "e3ded83b38da1e479a35c19dc719ca945c1fc939612c6b8bcff3d40d408cbb22",
+    "src/data/elections/2026/trnavsky-kraj/research-coverage.json": "a576e6afc70a59d72f45fe0b71a140403c040a8a089f3b78e3b91b42dbd341f3",
+    "src/data/elections/2026/trenciansky-kraj/claims.json": "fb1ea9413bdb55ef7fb3b8260e9de47f51443a2e24082f2e2aecff9105c7581f",
+    "src/data/elections/2026/trenciansky-kraj/campaign-finance.json": "f9141db29c232bc9acbf456afbf89c636c44eaa4aa25e262d45b751c869d4d40",
+    "src/data/elections/2026/trenciansky-kraj/research-coverage.json": "8795d8cfc6c97793275b7a39f22d92ac9bf959051d16e5b6bce8ad66eda99ea3",
+    "src/data/elections/2026/nitriansky-kraj/claims.json": "4f5cbbc9578e638a1cb92e8a74d899c20afb4b7424a381df8cb3229c88b94a1b",
+    "src/data/elections/2026/nitriansky-kraj/campaign-finance.json": "f84705be6246abcad88b0ff25742ad5b7aa7aa39e094bf6bcdeb9bfaacb143df",
+    "src/data/elections/2026/nitriansky-kraj/research-coverage.json": "b16c0624d45c39941a54b10a872c37ec26e761d8d45113c81eaf6b6b9b2622fe",
+    "src/data/elections/2026/banskobystricky-kraj/claims.json": "98adf5aba5b9867bbf4cf176fe03d66805836e639c660b4e3d2cc9a7481b0cb5",
+    "src/data/elections/2026/banskobystricky-kraj/campaign-finance.json": "a4e0aa6687981f2ee3921a87821c21ce0501b22f78e023d8b49f7c78dfbf12d7",
+    "src/data/elections/2026/banskobystricky-kraj/research-coverage.json": "2e79ef695d38b2103f9f4158ec43cdb3fa238bad7bfa6ef36ff31f353c7cc70e"
+  },
+  "releaseApproval": false
+}

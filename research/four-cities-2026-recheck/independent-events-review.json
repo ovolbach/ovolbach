@@ -1,0 +1,83 @@
+{
+  "reviewType": "Independent read-only final events proposal, cohort journal and exact correction delta review",
+  "checkedAt": "2026-10-15T17:22:13.267761+00:00",
+  "decision": "approved_for_bounded_integration_with_journal_review_delta",
+  "researchCompletionApproved": false,
+  "releaseApproved": false,
+  "scope": "The final 51-claim event proposal, 32 sources, 13 category moves and 45 coverage updates, together with the reviewed journal correction. This does not close the separate historical discovery queue or approve repository release gates.",
+  "artifacts": [
+    {
+      "path": ".internal/four-cities-recheck/events/proposals.json",
+      "sha256": "a52898cc64a3c1a7dfe4e2c098ed88faaa7d27a66ba00bb3e01570218099419c"
+    },
+    {
+      "path": ".internal/four-cities-recheck/events/final-review-delta.json",
+      "sha256": "6d9f3374e5233983672880102f621f421a5d0afcf264021fcda9624d85bf8dde"
+    },
+    {
+      "path": ".internal/four-cities-recheck/events/journal-review-delta.json",
+      "sha256": "c51dd8e01ff2558f6e1ce847c4fd3f57e181daa1fde09dcc019cdd0cc152bd96"
+    },
+    {
+      "path": "research/four-cities-2026-recheck/events-journal.json",
+      "sha256": "8bf059ab397fb3750342d66c9c363239f60bb13810d98789842f1b8a2acae766"
+    },
+    {
+      "path": "research/four-cities-2026-recheck/events-query-receipts.json",
+      "sha256": "226da47926f52aee558be7bc4d0b5fc33b70d0b1c41b2e8a078ce518faf73d67"
+    },
+    {
+      "path": "research/four-cities-2026-recheck/events-original-receipts.json",
+      "sha256": "3f8661ce50a18db7b7f31311af28378cc6a320c41f557cf10dcebb326f69996c"
+    },
+    {
+      "path": "research/four-cities-2026-recheck/events-lead-adjudications.json",
+      "sha256": "5e14e329a5c38a76636c6014de8042c7a82a3008553514fc9c236890b2393746"
+    }
+  ],
+  "counts": {
+    "candidateIds": 546,
+    "eventFamilies": 63,
+    "newOrUpdatedClaims": 51,
+    "newSources": 32,
+    "categoryMoves": 13,
+    "coverageUpdates": 45,
+    "actualRetainedSearchCalls": 351,
+    "actualQueries": 1347,
+    "downloadedOriginalByteHashesVerified": 622,
+    "explicitSourceAccessLimitations": 34,
+    "browserReceiptHashesVerified": 3,
+    "boundedIdentityOrSourceExclusions": 7,
+    "selectedDossiersPending": 0
+  },
+  "findings": [
+    {
+      "id": "EVENTS-REVIEW-BINDINGS",
+      "severity": "low",
+      "status": "resolved_by_reviewed_journal_delta",
+      "detail": "Two Jozef Viskupič families originally asserted original review with no original bindings. The correction binds two actually read Čistý deň originals and changes transport to an explicit discovery-only bounded exclusion; neither family adds candidate claims."
+    }
+  ],
+  "checksCompleted": [
+    "Verified full proposal, initial-to-final delta and public artifact hashes. All 33 initially reviewed claim objects are unchanged; the final delta contains exactly 18 additional claims.",
+    "Verified all 546 distinct candidates have actual exact-name public-event and official-domain query bindings. Every binding points to the correct candidate ID and query index; no substring-only person attribution is used.",
+    "Independently counted 351 retained calls and 1,347 actual queries. Returned references, source downloads and browser opens remain separately counted.",
+    "Verified all 622 downloadable original byte hashes. Thirty-four inaccessible shell originals are explicitly labelled and are not counted as readable originals. Three browser-only receipt hashes are verified and correctly distinguished from original-response-byte hashes.",
+    "Read the 18 additional claims against their signed, agency or official originals. Checked the 11 added source originals, authors and canonical/request URL relationships.",
+    "Visually checked parliamentary motion 1208 page 1, filing stamp 13 March 2026, exact candidate and deputy-speaker office. Independently read the 17 March official agenda vote: 59 for, 77 against. Proposed claims preserve its procedural scope.",
+    "Read the Nosko threat-case original: he is the injured party, prosecution concerns another person, and the complaint instruction has suspensive effect. No finality, sender identity, contact information or medical details are exported in the claims.",
+    "Checked Viskupič’s career bridge using the official MOD source and TASR biography, with matching age cohort and municipality. Reviewed the dramaturg/theatre, municipal-office and current-mayor bridges for the other new event families.",
+    "Confirmed the new reports distinguish allegations, institutional conduct, responses, complainants and victims from personal guilt or a final merits decision.",
+    "Simulated all 13 category moves against immutable HEAD baseline claims; each preserves every field except category. All 45 coverage updates agree with final claim presence and exact source unions.",
+    "Verified all 51 proposed claims bind to exactly one event family. After applying the correction, every family with accepted claims has a reviewed-original receipt; source exclusions and discovery-only families remain explicit.",
+    "Independently checked the journal correction’s two cited Čistý deň originals at the specified passages and hashes. The transport family no longer claims an original read.",
+    "Verified the two source metadata corrections affect sources introduced in this research scope: the Supreme Court decision date is not mislabelled as publication, and the Dunda source uses its reopened canonical URL.",
+    "Checked public event exports for private email, phone and IP values from the Nosko original; none were found. Raw originals and browser article text remain outside public exports."
+  ],
+  "boundaries": [
+    "Approval is for a bounded recheck, not an exhaustive claim that all public events or proceedings have been found.",
+    "Seven identity or independent-source exclusions remain explicitly documented and produce no unsupported new claims.",
+    "The journal correction must be applied to the public events journal before release; its frozen base hash is preserved for audit.",
+    "Actual production integration and repository release gates still need final verification. The separate historical discovery queue remains unfinished."
+  ]
+}

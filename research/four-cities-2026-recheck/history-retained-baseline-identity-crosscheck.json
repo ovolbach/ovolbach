@@ -1,0 +1,254 @@
+{
+  "checkedAt": "2026-10-15",
+  "status": "four_retained_baseline_identities_verified_subtype_boundary_unchanged",
+  "count": 4,
+  "sourceReceipts": [
+    {
+      "key": "trnava2018-local-index-1",
+      "sourceId": "history-recheck-6541eea29635958b",
+      "url": "https://www.trnava.sk/userfiles/file/Zounam%20zareg.kandid.%20poslanci4.pdf",
+      "checkedAt": "2026-10-15T16:12:31.671309+00:00",
+      "sha256": "6cf53eb7dd24c1ee0658c7843e923abd682c543d24d0a480c125715dce255015",
+      "bytes": 350871,
+      "status": 200
+    },
+    {
+      "key": "oso2018-download-links-OSO_2018_okrsky-xlsx",
+      "sourceId": "statistics-municipal-candidates-2018",
+      "url": "https://volby.statistics.sk/oso/oso2018/files/OSO_2018_okrsky-xlsx.zip",
+      "checkedAt": "2026-10-15T16:05:24.571710+00:00",
+      "sha256": "da964107a22133fe47cd2ad9b5a09d9ea4bd4f0a04c8e8173851e00b57b71786",
+      "bytes": 8678236,
+      "status": 200
+    }
+  ],
+  "xlsxMemberReceipts": [
+    {
+      "archiveSourceId": "statistics-municipal-candidates-2018",
+      "member": "OSO_2018_tab0d.xlsx",
+      "sha256": "a53a72b91697a0ad95fdde16b0846b51a41169479e7142fc107e34e70ee4f436",
+      "bytes": 747704
+    },
+    {
+      "archiveSourceId": "statistics-municipal-candidates-2018",
+      "member": "OSO_2018_tab08e.xlsx",
+      "sha256": "b82b93d883ca8e3b252ce508641a77d4e0a95a28b74d7e707ea548bf79bffd41",
+      "bytes": 981912
+    }
+  ],
+  "records": [
+    {
+      "candidateId": "ttsk-ivana-varga-babelova",
+      "candidateName": "Ivana Varga Babeľová",
+      "claimIds": [
+        "ttsk-ivana-varga-babelova-previous_elections-1-2026"
+      ],
+      "contestId": "2018-506745-city-council",
+      "office": "municipal_council",
+      "date": "2018-11-10",
+      "historicalIdentity": {
+        "municipality": "Trnava",
+        "publishedElectionAge": 38,
+        "ageFieldDate": "2018-11-10",
+        "sourceId": "history-recheck-6541eea29635958b",
+        "sourceKey": "trnava2018-local-index-1",
+        "rowContext": {
+          "page": 2,
+          "headingPage": 1,
+          "district": "2",
+          "districtLabel": "Trnava – Západ",
+          "ballot": "30",
+          "age": 38,
+          "visuallyChecked": true,
+          "method": "Read own numbered name/age clause and district heading on original scan. A heading on the prior page continues through this numbered row."
+        }
+      },
+      "currentIdentity": {
+        "municipality": "Trnava",
+        "publishedElectionAge": 46,
+        "ageFieldDate": "2026-10-24",
+        "sourceIds": [
+          "tt-official-4-2026"
+        ]
+      },
+      "identityDecision": "name_plus_municipality_and_compatible_age_intervals_verified",
+      "ageComparisonMethod": "Overlap of possible birth-date intervals with actual election dates; no date of birth exported.",
+      "nationalRows": {
+        "candidateMember": "OSO_2018_tab0d.xlsx",
+        "candidateRow": 2589,
+        "resultMember": "OSO_2018_tab08e.xlsx",
+        "resultRow": 2570,
+        "district": "2",
+        "ballot": "30",
+        "votes": 446,
+        "percentage": "2.25",
+        "sourceId": "statistics-municipal-candidates-2018",
+        "officialCandidateStatusCell": ""
+      },
+      "retainedOutcome": "not_elected",
+      "subtypeDecision": "Retain existing baseline outcome with explicit boundary. Participation, exact identity, votes and the blank official candidate-status cell are verified; no complete local commission substitute list was located, so a precise nonwinner/substitute subtype is not freshly certified.",
+      "changesToClaimsOrTotals": false
+    },
+    {
+      "candidateId": "ttsk-kristina-rysava",
+      "candidateName": "Kristína Ryšavá",
+      "claimIds": [
+        "ttsk-kristina-rysava-previous_elections-1-2026"
+      ],
+      "contestId": "2018-506745-city-council",
+      "office": "municipal_council",
+      "date": "2018-11-10",
+      "historicalIdentity": {
+        "municipality": "Trnava",
+        "publishedElectionAge": 32,
+        "ageFieldDate": "2018-11-10",
+        "sourceId": "history-recheck-6541eea29635958b",
+        "sourceKey": "trnava2018-local-index-1",
+        "rowContext": {
+          "page": 4,
+          "headingPage": 3,
+          "district": "4",
+          "districtLabel": "Trnava – Východ",
+          "ballot": "30",
+          "age": 32,
+          "visuallyChecked": true,
+          "method": "Read own numbered name/age clause and district heading on original scan. A heading on the prior page continues through this numbered row."
+        }
+      },
+      "currentIdentity": {
+        "municipality": "Trnava",
+        "publishedElectionAge": 40,
+        "ageFieldDate": "2026-10-24",
+        "sourceIds": [
+          "tt-official-4-2026"
+        ]
+      },
+      "identityDecision": "name_plus_municipality_and_compatible_age_intervals_verified",
+      "ageComparisonMethod": "Overlap of possible birth-date intervals with actual election dates; no date of birth exported.",
+      "nationalRows": {
+        "candidateMember": "OSO_2018_tab0d.xlsx",
+        "candidateRow": 2645,
+        "resultMember": "OSO_2018_tab08e.xlsx",
+        "resultRow": 2620,
+        "district": "4",
+        "ballot": "30",
+        "votes": 581,
+        "percentage": "2.83",
+        "sourceId": "statistics-municipal-candidates-2018",
+        "officialCandidateStatusCell": ""
+      },
+      "retainedOutcome": "not_elected",
+      "subtypeDecision": "Retain existing baseline outcome with explicit boundary. Participation, exact identity, votes and the blank official candidate-status cell are verified; no complete local commission substitute list was located, so a precise nonwinner/substitute subtype is not freshly certified.",
+      "changesToClaimsOrTotals": false
+    },
+    {
+      "candidateId": "ttsk-marian-kubal",
+      "candidateName": "Marián Kubál",
+      "claimIds": [
+        "ttsk-marian-kubal-previous_elections-1-2026"
+      ],
+      "contestId": "2018-506745-city-council",
+      "office": "municipal_council",
+      "date": "2018-11-10",
+      "historicalIdentity": {
+        "municipality": "Trnava",
+        "publishedElectionAge": 30,
+        "ageFieldDate": "2018-11-10",
+        "sourceId": "history-recheck-6541eea29635958b",
+        "sourceKey": "trnava2018-local-index-1",
+        "rowContext": {
+          "page": 4,
+          "headingPage": 4,
+          "district": "5",
+          "districtLabel": "Trnava – Juh",
+          "ballot": "16",
+          "age": 30,
+          "visuallyChecked": true,
+          "method": "Read own numbered name/age clause and district heading on original scan. A heading on the prior page continues through this numbered row."
+        }
+      },
+      "currentIdentity": {
+        "municipality": "Trnava",
+        "publishedElectionAge": 38,
+        "ageFieldDate": "2026-10-24",
+        "sourceIds": [
+          "tt-official-4-2026"
+        ]
+      },
+      "identityDecision": "name_plus_municipality_and_compatible_age_intervals_verified",
+      "ageComparisonMethod": "Overlap of possible birth-date intervals with actual election dates; no date of birth exported.",
+      "nationalRows": {
+        "candidateMember": "OSO_2018_tab0d.xlsx",
+        "candidateRow": 2669,
+        "resultMember": "OSO_2018_tab08e.xlsx",
+        "resultRow": 2656,
+        "district": "5",
+        "ballot": "16",
+        "votes": 374,
+        "percentage": "3.45",
+        "sourceId": "statistics-municipal-candidates-2018",
+        "officialCandidateStatusCell": ""
+      },
+      "retainedOutcome": "not_elected",
+      "subtypeDecision": "Retain existing baseline outcome with explicit boundary. Participation, exact identity, votes and the blank official candidate-status cell are verified; no complete local commission substitute list was located, so a precise nonwinner/substitute subtype is not freshly certified.",
+      "changesToClaimsOrTotals": false
+    },
+    {
+      "candidateId": "ttsk-stanislav-surin",
+      "candidateName": "Stanislav Šurin",
+      "claimIds": [
+        "ttsk-stanislav-surin-previous_elections-1-2026"
+      ],
+      "contestId": "2018-506745-city-council",
+      "office": "municipal_council",
+      "date": "2018-11-10",
+      "historicalIdentity": {
+        "municipality": "Trnava",
+        "publishedElectionAge": 47,
+        "ageFieldDate": "2018-11-10",
+        "sourceId": "history-recheck-6541eea29635958b",
+        "sourceKey": "trnava2018-local-index-1",
+        "rowContext": {
+          "page": 1,
+          "headingPage": 1,
+          "district": "1",
+          "districtLabel": "Trnava – Stred",
+          "ballot": "25",
+          "age": 47,
+          "visuallyChecked": true,
+          "method": "Read own numbered name/age clause and district heading on original scan. A heading on the prior page continues through this numbered row."
+        }
+      },
+      "currentIdentity": {
+        "municipality": "Trnava",
+        "publishedElectionAge": 55,
+        "ageFieldDate": "2026-10-24",
+        "sourceIds": [
+          "tt-official-4-2026"
+        ]
+      },
+      "identityDecision": "name_plus_municipality_and_compatible_age_intervals_verified",
+      "ageComparisonMethod": "Overlap of possible birth-date intervals with actual election dates; no date of birth exported.",
+      "nationalRows": {
+        "candidateMember": "OSO_2018_tab0d.xlsx",
+        "candidateRow": 2557,
+        "resultMember": "OSO_2018_tab08e.xlsx",
+        "resultRow": 2534,
+        "district": "1",
+        "ballot": "25",
+        "votes": 389,
+        "percentage": "3.20",
+        "sourceId": "statistics-municipal-candidates-2018",
+        "officialCandidateStatusCell": ""
+      },
+      "retainedOutcome": "not_elected",
+      "subtypeDecision": "Retain existing baseline outcome with explicit boundary. Participation, exact identity, votes and the blank official candidate-status cell are verified; no complete local commission substitute list was located, so a precise nonwinner/substitute subtype is not freshly certified.",
+      "changesToClaimsOrTotals": false
+    }
+  ],
+  "limitations": [
+    "This sidecar does not add four new findings or certify substitute subtypes.",
+    "The four existing claims remain explicitly retained baseline records in the frozen702 roster.",
+    "No frozen artifact or delta002 bytes are changed."
+  ]
+}

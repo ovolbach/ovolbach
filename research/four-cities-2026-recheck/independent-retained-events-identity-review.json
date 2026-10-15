@@ -1,0 +1,4489 @@
+{
+  "reviewedAt": "2026-10-15T17:43:26.012073+00:00",
+  "scope": "Bounded independent cross-check of every retained baseline event family against current2026 person identity, plus mapping to the previously reviewed51-upsert frozen proposal. All63 journal families included. No production or frozen edits.",
+  "journalInputSha256": "503f169e5129a3a8e0f6bdf726c558a4a7ae07a289d804a968af7730d00a0249",
+  "decision": "current_person_identity_supported_after_approved_dvonc_removal",
+  "familyCount": 63,
+  "acceptedFamilyCount": 58,
+  "retainedBaselineFamilies": 39,
+  "currentPersonAssessments": 52,
+  "newAdditionalIdentityFindings": [],
+  "resolvedFinding": "Dvonč had compatible age only;3claims removed in separate reviewed267688cf1e410556093757ec16db1c9041498682469f7e78e44bd3456fa6fd8d delta. No baseline-preservation exception applied.",
+  "method": "Compare current official rows, explicit prior identity grounds, independently reviewed official history anchors and original-read contexts. Re-read all high-risk registry own rows and compute election-day age privately; inspect current/career source bridges for changed office/retired occupations. Earlier initial/final content reviews remain the source of detailed lifecycle checks; this is not a claim to have read every paragraph of every source anew.",
+  "criticalIndependentChecks": [
+    "Železnik ownDOB1974→52/Trnava; Kitta1981→44/Trnava; Blaško1973→53/Nitra; Macho1960→66/Nitra; Papp1976→50/Čeľadice in both notices; Kabáč1976→50/Medzibrod.",
+    "Džmura filingp1 own1983→43/BB; Kapusta own1989→37/BB; exact private dates not exported.",
+    "Longauer invoice exact name +BB+assistant work; exact identifier equality with own insurer row, identifier not exported.",
+    "Suja direct official parliamentary profile own1976→50 andDetva; party contextRepublika, not old job projected forward.",
+    "Halás current2026 direct Donovaly/party/candidacy relocation story supports chalet family; older election identity remains held separately.",
+    "Gogola current publisher connects through independent age+BB official historical rows to former-mayor events.",
+    "Dohál current TASR64/agricultural engineer and Cehlárik current candidacy/Opoj/TASPO bridge; readable browser originals contain actual named questions, not just open metadata."
+  ],
+  "applicationVerification": {
+    "dvoncClaimsRemaining": 0,
+    "dvoncJournalAcceptedClaims": [],
+    "targetedTestEvidence": "Root log .internal/four-cities-recheck/logs/dvonc-identity-green.log inspected:2files/20tests pass."
+  },
+  "people": [
+    {
+      "candidateId": "bbsk-david-kapusta",
+      "currentOfficialAnchor": {
+        "name": "David KAPUSTA, Ing. Mgr.",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 37,
+        "occupation": "daňový supervízor",
+        "affiliations": [
+          "Sloboda a solidarita",
+          "Kdh - kresťanskodemokratické hnutie",
+          "Progresívne Slovensko",
+          "Hnutie Slovensko",
+          "Demokrati"
+        ]
+      },
+      "matchingDimensions": [
+        "Banská Bystrica",
+        "official compatible age/history plus named civil filing"
+      ],
+      "bridgeAssessment": "Official2018 age29/current37 plus same city connects current councillor. Own civil-filing header birthyear1989 computes37 and BB independently matches; published court follow-up refers to that councillor.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2018-11-10-508438-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "David Kapusta",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 29,
+                "historicalDate": "2018-11-10",
+                "current": 37,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bbsk-roster-region-council-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-municipal_council-508438-1",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "David Kapusta",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 33,
+                "historicalDate": "2022-10-29",
+                "current": 37,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bbsk-roster-region-council-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-kapusta-dzmura-civil-2023"
+      ],
+      "supportingPublicSourceIds": [
+        "bb-event-kapusta-court20241220",
+        "bb-event-kapusta-dzmura-filing20230530"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-igor-kasper",
+      "currentOfficialAnchor": {
+        "name": "Igor KAŠPER, Ing.",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 46,
+        "occupation": "manažér, lektor",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Banská Bystrica",
+        "official age and verified council/mayor-candidate career"
+      ],
+      "bridgeAssessment": "Official2017 age37/current46 and same municipality independently joins current person. Signed2018 hacker report names that mayoral candidate/councillor; interviewer2012 identifies same municipal role.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2017-11-04-6-regional_chair",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Igor Kašper",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 37,
+                "historicalDate": "2017-11-04",
+                "current": 46,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026",
+              "bbsk-roster-region-council-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2017-11-04-6-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Igor Kašper",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 37,
+                "historicalDate": "2017-11-04",
+                "current": 46,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026",
+              "bbsk-roster-region-council-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-kasper-hacker"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-lead-4a4c6b6320baa6eb"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-jan-nosko",
+      "currentOfficialAnchor": {
+        "name": "Ján NOSKO, MUDr.",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 65,
+        "occupation": "primátor",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Banská Bystrica",
+        "current mayor occupation and official age chain"
+      ],
+      "bridgeAssessment": "Current municipal mayor biography,2026 ballot and2018/2022 official age/locality independently anchor the person. Stadium/declaration/threat-victim stories identify that incumbent; victim is not accused.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2018-11-10-508438-mayor",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Ján Nosko",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 57,
+                "historicalDate": "2018-11-10",
+                "current": 65,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-mayor-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-mayor-508438",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Ján Nosko",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 61,
+                "historicalDate": "2022-10-29",
+                "current": 65,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-mayor-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-nosko-lunter-declarations-2026",
+        "bbsk-nosko-katreniak-stadium",
+        "bbsk-nosko-threat-victim-2025"
+      ],
+      "supportingPublicSourceIds": [
+        "bb-event-56b704ff8dd2",
+        "recheck-events-stage-8c5c09792cd52505",
+        "recheck-events-stage-9723e2a6b9305f69"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-jaroslav-rusina",
+      "currentOfficialAnchor": {
+        "name": "Jaroslav RUSINA",
+        "municipality": "Medzibrod",
+        "ageAtElection": 46,
+        "occupation": "servisný špecialista",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "current2026 BBSK chair candidacy",
+        "independent current election context"
+      ],
+      "bridgeAssessment": "TASR9Oct2026 directly identifies current independent BBSK chair contender; current official register and owned campaign align. It is his attributed complaint, not an adverse UVO outcome against him.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2022-mayor-508764",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Jaroslav Rusina",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Medzibrod"
+              },
+              {
+                "type": "age",
+                "historical": 42,
+                "historicalDate": "2022-10-29",
+                "current": 46,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bbsk-roster-region-chair-2026",
+              "bbsk-roster-region-council-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-municipal_council-508764-1",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Jaroslav Rusina",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Medzibrod"
+              },
+              {
+                "type": "age",
+                "historical": 42,
+                "historicalDate": "2022-10-29",
+                "current": 46,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bbsk-roster-region-chair-2026",
+              "bbsk-roster-region-council-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-rusina-uvo-2026"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-lead-09e7f2903a7b2655"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-jozef-balaz",
+      "currentOfficialAnchor": {
+        "name": "Jozef BALÁŽ, MUDr.",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 47,
+        "occupation": "lekár",
+        "affiliations": [
+          "Kdh - kresťanskodemokratické hnutie"
+        ]
+      },
+      "matchingDimensions": [
+        "Banská Bystrica",
+        "official2022/current age and verified municipal council"
+      ],
+      "bridgeAssessment": "Official2022 age43/current47 and same city independently anchor current councillor. Municipal parking response names that city councillor, not a national or Czech namesake; medical occupation is not projected onto the dispute.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2018-11-10-508438-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Jozef Baláž",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 39,
+                "historicalDate": "2018-11-10",
+                "current": 47,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-municipal_council-508438-4",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Jozef Baláž",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 43,
+                "historicalDate": "2022-10-29",
+                "current": 47,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-balaz-parking-2025"
+      ],
+      "supportingPublicSourceIds": [
+        "bb-independent-media-ebf613f6875807"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-juraj-dzmura",
+      "currentOfficialAnchor": {
+        "name": "Juraj DŽMURA, JUDr.",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 43,
+        "occupation": "prednosta",
+        "affiliations": [
+          "Hlas - sociálna demokracia"
+        ]
+      },
+      "matchingDimensions": [
+        "Banská Bystrica",
+        "own civil-filing birthyear1983 computes43; current district-head role"
+      ],
+      "bridgeAssessment": "Own plaintiff header on filingp1 supplies compatible age43 and BB; separate official/public report identifies current district office head. This current-person bridge does not depend on Kapusta being the other party or on titles alone.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "bbsk-kapusta-dzmura-civil-2023"
+      ],
+      "supportingPublicSourceIds": [
+        "bb-event-kapusta-court20241220",
+        "bb-event-kapusta-dzmura-filing20230530"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-marek-modransky",
+      "currentOfficialAnchor": {
+        "name": "Marek MODRANSKÝ, Mgr., LL.M.",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 47,
+        "occupation": "dopravný expert",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Banská Bystrica",
+        "official1979/age47 and direct transport-expert/current council career"
+      ],
+      "bridgeAssessment": "Official commercial-court notice exact own1979/BB is compatible47 and current BB. Signed report and current council/ballot transport-expert role directly connect current person to SAD cases; separate civil temporary-security case is not merged with criminal matter.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2017-11-04-6-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Marek Modranský",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 38,
+                "historicalDate": "2017-11-04",
+                "current": 47,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026",
+              "bbsk-roster-region-council-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2018-11-10-508438-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Marek Modranský",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 39,
+                "historicalDate": "2018-11-10",
+                "current": 47,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026",
+              "bbsk-roster-region-council-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-modransky-sad-criminal",
+        "bbsk-modransky-sad-security"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-lead-85e3a76602156ed2",
+        "recheck-events-modransky-official-5obno2026",
+        "recheck-events-modransky-official-charge2025",
+        "recheck-events-modransky-own-response"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-marian-kotleba",
+      "currentOfficialAnchor": {
+        "name": "Marian KOTLEBA, Ing. Mgr.",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 49,
+        "occupation": "predseda politickej strany",
+        "affiliations": [
+          "Kotlebovci - ľudová strana naše Slovensko"
+        ]
+      },
+      "matchingDimensions": [
+        "political-party chair occupation",
+        "ĽSNS/current party and compatible official age"
+      ],
+      "bridgeAssessment": "Official/candidate sources plus current party leadership independently anchor current person. Court/probation/property originals concern that party chair; birthyear1977 agrees with49 and exact public chronology.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2009-11-14-6-regional_chair",
+          "date": "2009-11-14",
+          "identityJoin": {
+            "name": "Marian Kotleba",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 32,
+                "historicalDate": "2009-11-14",
+                "current": 49,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-mayor-2026",
+              "bbsk-roster-region-chair-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2013-11-09-6-regional_chair",
+          "date": "2013-11-09",
+          "identityJoin": {
+            "name": "Marian Kotleba",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 36,
+                "historicalDate": "2013-11-09",
+                "current": 49,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-mayor-2026",
+              "bbsk-roster-region-chair-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-kotleba-bridge-2024",
+        "bbsk-kotleba-cheques",
+        "bbsk-kotleba-property-2026"
+      ],
+      "supportingPublicSourceIds": [
+        "bb-event-kotleba-bridge",
+        "bb-event-kotleba-chronology2022",
+        "bb-event-kotleba-nrsr-annual2022",
+        "bb-event-kotleba-probation2024",
+        "bb-event-kotleba-property20260727",
+        "bb-event-kotleba-property20260819",
+        "bb-event-kotleba-response20220405",
+        "bb-event-kotleba-supreme2022"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-martin-halas",
+      "currentOfficialAnchor": {
+        "name": "Martin HALÁS, Ing.",
+        "municipality": "Donovaly",
+        "ageAtElection": 54,
+        "occupation": "ekonóm",
+        "affiliations": [
+          "Právo na pravdu"
+        ]
+      },
+      "matchingDimensions": [
+        "Donovaly",
+        "current Právo na pravdu/2026 candidacy and economic career"
+      ],
+      "bridgeAssessment": "Signed2Oct2026 article directly identifies current Donovaly mayoral candidate, Právo na pravdu and recent move to that locality. Signed2024 article names the economist and same chalet/company. This direct current-person bridge justifies chalet events, but does not automatically approve held2009/2014 elections in other municipalities.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "bbsk-halas-ppa-chalet-2026"
+      ],
+      "supportingPublicSourceIds": [
+        "bb-event-halas-20261002"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-miriam-lapunikova",
+      "currentOfficialAnchor": {
+        "name": "Miriam LAPUNÍKOVÁ, Ing., MBA",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 46,
+        "occupation": "riaditeľka nemocnice",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Banská Bystrica",
+        "hospital-director occupation and official age38-to46"
+      ],
+      "bridgeAssessment": "Official2026 occupation and municipal/hospital identity agree; official2018/current age and same city provide independent bridge. Signed2025 article explicitly identifies Roosevelt hospital director/city councillor.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2018-11-10-508438-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Miriam Lapuníková",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 38,
+                "historicalDate": "2018-11-10",
+                "current": 46,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-municipal_council-508438-1",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Miriam Lapuníková",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 42,
+                "historicalDate": "2022-10-29",
+                "current": 46,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-lapunikova-war-2025"
+      ],
+      "supportingPublicSourceIds": [
+        "bb-event-6b64b91b8964"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-miroslav-suja",
+      "currentOfficialAnchor": {
+        "name": "Miroslav SUJA, PaedDr. Mgr., PhD., MBA, LL.M., MSc.",
+        "municipality": "Detva",
+        "ageAtElection": 50,
+        "occupation": "konateľ",
+        "affiliations": [
+          "Republika"
+        ]
+      },
+      "matchingDimensions": [
+        "Detva",
+        "official parliamentary birthyear1976 computes50 and Republika"
+      ],
+      "bridgeAssessment": "Re-read official Suja parliamentary profile supplies own Detva and exact age compatible with current50; party context agrees. The2025 hearing article identifies Republika deputy leader, connected to that career; current executive occupation is not inferred from old political role.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2013-11-09-6-regional_council",
+          "date": "2013-11-09",
+          "identityJoin": {
+            "name": "Miroslav Suja",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Detva"
+              },
+              {
+                "type": "age",
+                "historical": 37,
+                "historicalDate": "2013-11-09",
+                "current": 50,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bbsk-roster-region-chair-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2017-11-04-6-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Miroslav Suja",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Detva"
+              },
+              {
+                "type": "age",
+                "historical": 41,
+                "historicalDate": "2017-11-04",
+                "current": 50,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bbsk-roster-region-chair-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-suja-road-equipment"
+      ],
+      "supportingPublicSourceIds": [
+        "bb-event-suja-hearing20250904"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-ondrej-lunter",
+      "currentOfficialAnchor": {
+        "name": "Ondrej LUNTER, Mgr.",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 39,
+        "occupation": "predseda samosprávneho kraja",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "current regional-chair occupation",
+        "official compatible age/2026 incumbent identity"
+      ],
+      "bridgeAssessment": "Current official chair ballot and regional role independently anchor person. Contemporary declaration story directly identifies incumbent; tentative reported legal qualification is preserved.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2017-11-04-6-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Ondrej Lunter",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 30,
+                "historicalDate": "2017-11-04",
+                "current": 39,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bbsk-roster-region-chair-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-regional_chair-6",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Ondrej Lunter",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 35,
+                "historicalDate": "2022-10-29",
+                "current": 39,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bbsk-roster-region-chair-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-nosko-lunter-declarations-2026"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-stage-8c5c09792cd52505"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-pavol-katreniak",
+      "currentOfficialAnchor": {
+        "name": "Pavol KATRENIAK, Mgr. Ing.",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 68,
+        "occupation": "pedagóg, poslanec",
+        "affiliations": [
+          "Progresívne Slovensko",
+          "Sloboda a solidarita",
+          "Demokrati",
+          "Hnutie Slovensko",
+          "Občianska konzervatívna strana"
+        ]
+      },
+      "matchingDimensions": [
+        "Banská Bystrica",
+        "official2018/current age plus current councillor role"
+      ],
+      "bridgeAssessment": "Own official ballot age60/current68 and same city identify the current councillor. Original stadium critic is that named councillor; long biography service period is not used as invented per-election outcomes.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2018-11-10-508438-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Pavol Katreniak",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 60,
+                "historicalDate": "2018-11-10",
+                "current": 68,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-municipal_council-508438-1",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Pavol Katreniak",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 64,
+                "historicalDate": "2022-10-29",
+                "current": 68,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-nosko-katreniak-stadium"
+      ],
+      "supportingPublicSourceIds": [],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-peter-gogola",
+      "currentOfficialAnchor": {
+        "name": "Peter GOGOLA, Mgr.",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 58,
+        "occupation": "riaditeľ vydavateľstva",
+        "affiliations": [
+          "Demokratická strana - občianski demokrati Slovenska"
+        ]
+      },
+      "matchingDimensions": [
+        "Banská Bystrica",
+        "official compatible age and former-mayor career"
+      ],
+      "bridgeAssessment": "Official older ballot age45/2013/current58 plus same city connects current publisher to former-mayor career. Original Google2014 source names that mayor; former office is not detached from current age/locality bridge.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2013-11-09-6-regional_council",
+          "date": "2013-11-09",
+          "identityJoin": {
+            "name": "Peter Gogola",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 45,
+                "historicalDate": "2013-11-09",
+                "current": 58,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026",
+              "bbsk-roster-region-council-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2017-11-04-6-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Peter Gogola",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Banská Bystrica"
+              },
+              {
+                "type": "age",
+                "historical": 49,
+                "historicalDate": "2017-11-04",
+                "current": 58,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "bb-roster-city-council-2026",
+              "bbsk-roster-region-council-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "bbsk-gogola-google-2014"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-lead-9681232e779b97d4"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-radoslav-kabac",
+      "currentOfficialAnchor": {
+        "name": "Radoslav KABÁČ, PaedDr. Bc.",
+        "municipality": "Medzibrod",
+        "ageAtElection": 50,
+        "occupation": "učiteľ odborných predmetov",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Medzibrod",
+        "official birthyear1976 computes50"
+      ],
+      "bridgeAssessment": "Own insolvency rows supply current municipality and compatible age50. Bc. title is a name component; not needed for two-attribute join. No private vehicle or property particulars exported.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "bbsk-kabac-bankruptcy-2017"
+      ],
+      "supportingPublicSourceIds": [
+        "bb-kabac-notice2020",
+        "bb-ov-identity-51572b600181"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "bbsk-tobias-longauer",
+      "currentOfficialAnchor": {
+        "name": "Tobiáš LONGAUER",
+        "municipality": "Banská Bystrica",
+        "ageAtElection": 24,
+        "occupation": "asistent poslanca parlamentu",
+        "affiliations": [
+          "Smer - sociálna demokracia"
+        ]
+      },
+      "matchingDimensions": [
+        "Banská Bystrica",
+        "parliamentary-assistant occupation plus exact entity link"
+      ],
+      "bridgeAssessment": "Re-read official parliamentary invoice identifies named person in BB with asistent Vážny6/26, matching current ballot occupation. Exact business identifier from that independently anchored invoice matches the insurer own row. Insurer municipality is not enough alone; no raw identifier/contact/address exported.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "bbsk-longauer-vszp-2026"
+      ],
+      "supportingPublicSourceIds": [
+        "bb-event-edc40e0ce999"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-anna-laurinec-smehilova",
+      "currentOfficialAnchor": {
+        "name": "Anna LAURINEC ŠMEHILOVÁ, PhDr., PhD.",
+        "municipality": "Nitra",
+        "ageAtElection": 47,
+        "occupation": "riaditeľka strediska sociálnych služieb",
+        "affiliations": [
+          "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+          "Progresívne Slovensko",
+          "Kdh - kresťanskodemokratické hnutie",
+          "Sloboda a solidarita",
+          "Demokrati",
+          "Hnutie Slovensko",
+          "Občianska konzervatívna strana"
+        ]
+      },
+      "matchingDimensions": [
+        "Nitra",
+        "official2022/current age and verified regional council"
+      ],
+      "bridgeAssessment": "Official2022 elected identity/current age47 plus municipality independently anchors the current regional councillor named in the property-exchange report.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2022-regional_council-4-403",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Anna Laurinec Šmehilová",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 43,
+                "historicalDate": "2022-10-29",
+                "current": 47,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-council-roster-2026",
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-becik-property-exchange"
+      ],
+      "supportingPublicSourceIds": [],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-branislav-becik",
+      "currentOfficialAnchor": {
+        "name": "Branislav BECÍK, Ing., PhD.",
+        "municipality": "Dvory nad Žitavou",
+        "ageAtElection": 48,
+        "occupation": "predseda samosprávneho kraja",
+        "affiliations": [
+          "Hlas - sociálna demokracia",
+          "Smer - sociálna demokracia",
+          "Slovenská národná strana",
+          "Republika",
+          "Právo na pravdu",
+          "Bratia Slovenska"
+        ]
+      },
+      "matchingDimensions": [
+        "current regional chair occupation",
+        "HLAS/official age48"
+      ],
+      "bridgeAssessment": "Official parliament/current chair sources independently identify role, party and compatible birthyear. The2026 property-exchange report identifies that incumbent, not an unbridged historical mayor namesake.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2017-11-04-4-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Branislav Becík",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Dvory nad Žitavou"
+              },
+              {
+                "type": "age",
+                "historical": 39,
+                "historicalDate": "2017-11-04",
+                "current": 48,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nsk-chair-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-mayor-503177",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Branislav Becík",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Dvory nad Žitavou"
+              },
+              {
+                "type": "age",
+                "historical": 44,
+                "historicalDate": "2022-10-29",
+                "current": 48,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nsk-chair-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-becik-property-exchange"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-stage-cc4c45f5234cbbdf"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-erik-blasko",
+      "currentOfficialAnchor": {
+        "name": "Erik BLAŠKO",
+        "municipality": "Nitra",
+        "ageAtElection": 53,
+        "occupation": "vodič",
+        "affiliations": [
+          "Jednota Slovanov"
+        ]
+      },
+      "matchingDimensions": [
+        "Nitra",
+        "official birthyear1973 computes53"
+      ],
+      "bridgeAssessment": "Own2019 debtor row supplies compatible age and Nitra. Municipality belongs to debtor, not the Nitra court heading. Current occupation need not be projected back onto the insolvency.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2022-mayor-500011",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Erik Blaško",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 49,
+                "historicalDate": "2022-10-29",
+                "current": 53,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nsk-chair-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-regional_council-4-403",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Erik Blaško",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 49,
+                "historicalDate": "2022-10-29",
+                "current": 53,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nsk-chair-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-blasko-bankruptcy-2019"
+      ],
+      "supportingPublicSourceIds": [
+        "nsk-blasko-bankruptcy-order-2019"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-henrich-varga",
+      "currentOfficialAnchor": {
+        "name": "Henrich VARGA, Mgr.",
+        "municipality": "Nitra",
+        "ageAtElection": 46,
+        "occupation": "poslanec samosprávneho kraja",
+        "affiliations": [
+          "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+          "Progresívne Slovensko",
+          "Kdh - kresťanskodemokratické hnutie",
+          "Sloboda a solidarita",
+          "Demokrati",
+          "Hnutie Slovensko",
+          "Občianska konzervatívna strana"
+        ]
+      },
+      "matchingDimensions": [
+        "Nitra",
+        "official2022/current age and regional councillor"
+      ],
+      "bridgeAssessment": "Official2022 age42/current46 plus municipality anchors current council;2026 municipal employment/severance sources identify the same current adviser/councillor. Employment termination is not mixed with an official criminal outcome.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2022-regional_council-4-403",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Henrich Varga",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 42,
+                "historicalDate": "2022-10-29",
+                "current": 46,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-council-roster-2026",
+              "nsk-chair-roster-2026",
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-varga-hattas-severance"
+      ],
+      "supportingPublicSourceIds": [
+        "nr-organisational-change-2026",
+        "nr-varga-severance-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-igor-krsiak",
+      "currentOfficialAnchor": {
+        "name": "Igor KRŠIAK, JUDr.",
+        "municipality": "Nitra",
+        "ageAtElection": 50,
+        "occupation": "právnik",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Nitra",
+        "verified city/regional council and2026 mayor candidacy"
+      ],
+      "bridgeAssessment": "Official historical candidate age/current municipality anchors councillor identity; current signed2026 campaign dispute explicitly identifies this Nitra mayor contender. This is a direct current-election bridge.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2022-mayor-500011",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Igor Kršiak",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 46,
+                "historicalDate": "2022-10-29",
+                "current": 50,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-mayor-roster-2026",
+              "nr-council-roster-2026",
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-municipal_council-500011-7",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Igor Kršiak",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 46,
+                "historicalDate": "2022-10-29",
+                "current": 50,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-mayor-roster-2026",
+              "nr-council-roster-2026",
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-krsiak-lojko-campaign"
+      ],
+      "supportingPublicSourceIds": [
+        "nsk-krsiak-lojko-report-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-jan-rejda",
+      "currentOfficialAnchor": {
+        "name": "Ján REJDA, JUDr. Ing.",
+        "municipality": "Cabaj - Čápor",
+        "ageAtElection": 55,
+        "occupation": "právnik",
+        "affiliations": [
+          "Republika"
+        ]
+      },
+      "matchingDimensions": [
+        "Nitra",
+        "official2012 age40/current55 and exact ballot17"
+      ],
+      "bridgeAssessment": "Signed2022 original explicitly references2012 ballot17; independently read official2012 roster establishes40/Nitra compatible55/current Nitra. This directly closes historical/current identity.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "nsk-rejda-gorila"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-lead-235970ec2b834145",
+        "recheck-events-rejda-official2012bridge"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-marek-hattas",
+      "currentOfficialAnchor": {
+        "name": "Marek HATTAS",
+        "municipality": "Nitra",
+        "ageAtElection": 39,
+        "occupation": "primátor",
+        "affiliations": [
+          "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+          "Progresívne Slovensko",
+          "Kdh - kresťanskodemokratické hnutie",
+          "Sloboda a solidarita",
+          "Demokrati",
+          "Hnutie Slovensko",
+          "Občianska konzervatívna strana"
+        ]
+      },
+      "matchingDimensions": [
+        "Nitra",
+        "current mayor occupation and compatible age"
+      ],
+      "bridgeAssessment": "Current official ballot and institutional mayor/MP sources anchor this person; earlier mayor result and age chain agree. Campaign dispute and legal criticism remain attributed, separate events.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2018-11-10-500011-mayor",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Marek Hattas",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 31,
+                "historicalDate": "2018-11-10",
+                "current": 39,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-mayor-roster-2026",
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2018-11-10-500011-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Marek Hattas",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 31,
+                "historicalDate": "2018-11-10",
+                "current": 39,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-mayor-roster-2026",
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-varga-hattas-severance",
+        "nsk-hattas-music-project",
+        "nsk-hattas-strabag-2021"
+      ],
+      "supportingPublicSourceIds": [
+        "nr-music-project-opponent-report-2026",
+        "nr-organisational-change-2026",
+        "nr-varga-severance-2026",
+        "recheck-events-lead-269d62c6bd07507f"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-martin-kusenda",
+      "currentOfficialAnchor": {
+        "name": "Martin KUSENDA, Mgr. art.",
+        "municipality": "Nitra",
+        "ageAtElection": 48,
+        "occupation": "riaditeľ divadla",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Nitra",
+        "theatre-director professional field/current candidate"
+      ],
+      "bridgeAssessment": "Both current ballot and signed2016 original identify Nitra theatre director; current official/theatre institutional source connects the same named director, with compatible older official age.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2022-regional_chair-4",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Martin Kusenda",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 44,
+                "historicalDate": "2022-10-29",
+                "current": 48,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-council-roster-2026",
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-theatre-employment-2016"
+      ],
+      "supportingPublicSourceIds": [
+        "nr-lead-1138-press-original",
+        "recheck-events-lead-4a754e0db232e94d"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-mikulas-dunda",
+      "currentOfficialAnchor": {
+        "name": "Mikuláš DUNDA, Ing., MPH",
+        "municipality": "Nitra",
+        "ageAtElection": 55,
+        "occupation": "zdravotnícky záchranár",
+        "affiliations": [
+          "Smer - sociálna demokracia",
+          "Hlas - sociálna demokracia"
+        ]
+      },
+      "matchingDimensions": [
+        "Nitra compatible age",
+        "direct emergency-medical career/entity bridge"
+      ],
+      "bridgeAssessment": "Signed2012 originals explicitly connect former ZDZS director to private Nitra ambulance/DZS Optimus; official current identity and entity-role source corroborate. It does not substitute old job attributes for an unanchored current person.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2018-11-10-500011-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Mikuláš Dunda",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 47,
+                "historicalDate": "2018-11-10",
+                "current": 55,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-council-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-municipal_council-500011-5",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Mikuláš Dunda",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 51,
+                "historicalDate": "2022-10-29",
+                "current": 55,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-council-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-dunda-bonus-2011"
+      ],
+      "supportingPublicSourceIds": [
+        "nr-employment-orsr-extract-58501-9-current",
+        "recheck-events-lead-3a52548ad8922eb5",
+        "recheck-events-lead-b2f795efaf75fafa",
+        "recheck-events-stage-b781b8a8f11ecd5b"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-milos-macho",
+      "currentOfficialAnchor": {
+        "name": "Miloš MACHO, Ing.",
+        "municipality": "Nitra",
+        "ageAtElection": 66,
+        "occupation": "dôchodca",
+        "affiliations": [
+          "Jednota Slovanov"
+        ]
+      },
+      "matchingDimensions": [
+        "Nitra",
+        "official birthyear1960 computes66"
+      ],
+      "bridgeAssessment": "Own debtor/header supplies same Nitra residence area and age66 at2026 election. Retired occupation is not used to infer any former job or office; unlike Dvonč, the residence attribute agrees.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2005-11-26-4-regional_council",
+          "date": "2005-11-26",
+          "identityJoin": {
+            "name": "Miloš Macho",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 45,
+                "historicalDate": "2005-11-26",
+                "current": 66,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-municipal_council-500011-2",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Miloš Macho",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 62,
+                "historicalDate": "2022-10-29",
+                "current": 66,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-macho-bankruptcy-2018"
+      ],
+      "supportingPublicSourceIds": [
+        "nsk-macho-bankruptcy-closure-2020"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-robert-svec",
+      "currentOfficialAnchor": {
+        "name": "Róbert ŠVEC, Mgr.",
+        "municipality": "Nitra",
+        "ageAtElection": 50,
+        "occupation": "politológ",
+        "affiliations": [
+          "Slovenské hnutie obrody"
+        ]
+      },
+      "matchingDimensions": [
+        "politology profession/current SHO candidacy",
+        "current age49Aug2026 compatible50Oct and direct presidential-career bridge"
+      ],
+      "bridgeAssessment": "Contemporary STVR candidate profile directly identifies the SHO chair/politology graduate and his2024 presidential run. It links current candidacy to the exact2024 court/response event; no name-only court attribution.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "nsk-svec-nomination-2024"
+      ],
+      "supportingPublicSourceIds": [
+        "nsk-svec-nomination-response-2024",
+        "nsk-svec-nss-nomination-2024"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-slavomir-papp",
+      "currentOfficialAnchor": {
+        "name": "Slavomír PAPP",
+        "municipality": "Čeľadice",
+        "ageAtElection": 50,
+        "occupation": "projektový manažér",
+        "affiliations": [
+          "Právo na pravdu"
+        ]
+      },
+      "matchingDimensions": [
+        "Čeľadice",
+        "official birthyear1976 computes50"
+      ],
+      "bridgeAssessment": "Both2020/2022 own enforcement-debtor fields give Čeľadice and compatible birth date. Case/court or administrator address is not substituted for the debtor municipality; only broad area/age exported.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "nsk-papp-enforcement-2019",
+        "nsk-papp-enforcement-2022"
+      ],
+      "supportingPublicSourceIds": [
+        "nsk-papp-enforcement-notice-2020",
+        "nsk-papp-enforcement-notice-2022"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-stefan-stefek",
+      "currentOfficialAnchor": {
+        "name": "Štefan ŠTEFEK, Ing.",
+        "municipality": "Nitra",
+        "ageAtElection": 59,
+        "occupation": "investičný riaditeľ",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Nitra",
+        "official age/current municipal and regional council bridge"
+      ],
+      "bridgeAssessment": "Official candidate rows age/current municipality independently join current candidate; SITA2019 directly names the2018 Nitra mayoral contender/former deputy and his response.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2017-11-04-4-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Štefan Štefek",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 50,
+                "historicalDate": "2017-11-04",
+                "current": 59,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-council-roster-2026",
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2018-11-10-500011-mayor",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Štefan Štefek",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 51,
+                "historicalDate": "2018-11-10",
+                "current": 59,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-council-roster-2026",
+              "nsk-council-district3-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-stefek-charge-2018"
+      ],
+      "supportingPublicSourceIds": [
+        "nsk-stefek-charge-response-2019"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-tibor-gaspar",
+      "currentOfficialAnchor": {
+        "name": "Tibor GAŠPAR, PaedDr.",
+        "municipality": "Nitra",
+        "ageAtElection": 64,
+        "occupation": "poslanec parlamentu",
+        "affiliations": [
+          "Smer - sociálna demokracia",
+          "Hlas - sociálna demokracia",
+          "Slovenská národná strana"
+        ]
+      },
+      "matchingDimensions": [
+        "current MP occupation",
+        "SMER and exact compatible age64"
+      ],
+      "bridgeAssessment": "Official parliament profile supplies current role, party and birthyear1962 compatible with64. Specific charge/civil/motion stories name that MP/former police president; no same-name-only join.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "nsk-gaspar-privacy-2023",
+        "nsk-gaspar-ocistec",
+        "nsk-gaspar-majersky-civil",
+        "nsk-gaspar-removal-motion1208"
+      ],
+      "supportingPublicSourceIds": [
+        "nsk-gaspar-majersky-suit-2026",
+        "nsk-gaspar-ocistec-hearing-2026",
+        "nsk-gaspar-separate-charge-2024",
+        "nsk-ocistec-latest-hearing-2026",
+        "recheck-events-gaspar-motion1208-program-result",
+        "recheck-events-stage-5025f20a5351e980"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "nsk-veronika-gabcikova",
+      "currentOfficialAnchor": {
+        "name": "Veronika GABČÍKOVÁ, Mgr. art.",
+        "municipality": "Nitra",
+        "ageAtElection": 57,
+        "occupation": "dramaturgička a umelecká riaditeľka divadla",
+        "affiliations": [
+          "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+          "Progresívne Slovensko",
+          "Kdh - kresťanskodemokratické hnutie",
+          "Sloboda a solidarita",
+          "Demokrati",
+          "Hnutie Slovensko",
+          "Občianska konzervatívna strana"
+        ]
+      },
+      "matchingDimensions": [
+        "Nitra",
+        "dramaturgy/theatre artistic role"
+      ],
+      "bridgeAssessment": "Named2016 TASR employee/critic is dramaturgist at the same Nitra theatre; current official candidature and institutional theatre role corroborate profession and locality. Her participation is not described as an accusation against her.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2018-11-10-500011-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Veronika Gabčíková",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Nitra"
+              },
+              {
+                "type": "age",
+                "historical": 49,
+                "historicalDate": "2018-11-10",
+                "current": 57,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "nr-council-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "nsk-theatre-employment-2016"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-lead-4a754e0db232e94d"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "tsk-jan-kvasnica",
+      "currentOfficialAnchor": {
+        "name": "Ján Kvasnica",
+        "municipality": "Trenčianske Stankovce",
+        "ageAtElection": 48,
+        "occupation": "konateľ spoločnosti",
+        "affiliations": [
+          "Demokrati",
+          "Hnutie Slovensko",
+          "Kdh - kresťanskodemokratické hnutie",
+          "Občianska konzervatívna strana",
+          "Progresívne Slovensko",
+          "Sloboda a solidarita"
+        ]
+      },
+      "matchingDimensions": [
+        "Demokrati",
+        "2025 age47/current48"
+      ],
+      "bridgeAssessment": "Victim is identified by exact party leadership context and independently verified age; current executive occupation is also corroborated through named registry role, without treating attack location as residence.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "tsk-kvasnica-assault-2025"
+      ],
+      "supportingPublicSourceIds": [
+        "tn-event-24ec64f7f09d9269"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "tsk-jaroslav-baska",
+      "currentOfficialAnchor": {
+        "name": "Jaroslav Baška, Ing.",
+        "municipality": "Dohňany",
+        "ageAtElection": 51,
+        "occupation": "predseda samosprávneho kraja",
+        "affiliations": [
+          "Smer - sociálna demokracia",
+          "Hlas - sociálna demokracia",
+          "Republika",
+          "Slovenská národná strana"
+        ]
+      },
+      "matchingDimensions": [
+        "current TSK chair occupation",
+        "party/age51 and direct institutional career"
+      ],
+      "bridgeAssessment": "TASR2026 interview expressly identifies51-year-old current TSK chair and coalition. Official chair biography connects former defence minister;2011 reported minister/party role belongs to that bridged career.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2013-11-09-3-regional_chair",
+          "date": "2013-11-09",
+          "identityJoin": {
+            "name": "Jaroslav Baška",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Dohňany"
+              },
+              {
+                "type": "age",
+                "historical": 38,
+                "historicalDate": "2013-11-09",
+                "current": 51,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tsk-chair-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2017-11-04-3-regional_chair",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Jaroslav Baška",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Dohňany"
+              },
+              {
+                "type": "age",
+                "historical": 42,
+                "historicalDate": "2017-11-04",
+                "current": 51,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tsk-chair-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "tsk-baska-surveillance-2011"
+      ],
+      "supportingPublicSourceIds": [
+        "tn-event-19b74e0b5ffcae4b"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "tsk-jaroslav-mego",
+      "currentOfficialAnchor": {
+        "name": "Jaroslav Mego",
+        "municipality": "Drietoma",
+        "ageAtElection": 62,
+        "occupation": "starosta obce",
+        "affiliations": [
+          "Smer - sociálna demokracia",
+          "Hlas - sociálna demokracia",
+          "Republika",
+          "Slovenská národná strana"
+        ]
+      },
+      "matchingDimensions": [
+        "Drietoma",
+        "mayor occupation/official age58-to62 bridge"
+      ],
+      "bridgeAssessment": "Official2022/current ballot independently anchor the Drietoma mayor. Company/RPVS record is separately joined by age and municipality; the SME original identifies that mayor/company and direct response.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2017-11-04-3-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Jaroslav Mego",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Drietoma"
+              },
+              {
+                "type": "age",
+                "historical": 53,
+                "historicalDate": "2017-11-04",
+                "current": 62,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "tn-drietoma-mayor-2022",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Jaroslav Mego",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Drietoma"
+              },
+              {
+                "type": "age",
+                "historical": 58,
+                "historicalDate": "2022-10-29",
+                "current": 62,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "tsk-mego-ilava-2026"
+      ],
+      "supportingPublicSourceIds": [
+        "tn-reader-mego"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "tsk-jozef-hrdlicka",
+      "currentOfficialAnchor": {
+        "name": "Jozef Hrdlička, Ing. PhDr., PhD.",
+        "municipality": "Trenčín",
+        "ageAtElection": 49,
+        "occupation": "historik",
+        "affiliations": [
+          "Komunistická strana Slovenska"
+        ]
+      },
+      "matchingDimensions": [
+        "Trenčín compatible age",
+        "KSS and party-leader career"
+      ],
+      "bridgeAssessment": "Signed SITA2010 biography suppliesTrenčín/age32 compatible with current49, and KSS leadership. Current affiliation and official2022 age45/current49 establish current target; party proceeding is not turned into personal conviction.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2005-11-26-3-regional_chair",
+          "date": "2005-11-26",
+          "identityJoin": {
+            "name": "Jozef Hrdlička",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčín"
+              },
+              {
+                "type": "age",
+                "historical": 28,
+                "historicalDate": "2005-11-26",
+                "current": 49,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2013-11-09-3-regional_council",
+          "date": "2013-11-09",
+          "identityJoin": {
+            "name": "Jozef Hrdlička",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčín"
+              },
+              {
+                "type": "age",
+                "historical": 36,
+                "historicalDate": "2013-11-09",
+                "current": 49,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "tsk-hrdlicka-billboards-2026"
+      ],
+      "supportingPublicSourceIds": [
+        "tn-event-17632519448bb19e"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "tsk-kamil-bystricky",
+      "currentOfficialAnchor": {
+        "name": "Kamil Bystrický, Mgr.",
+        "municipality": "Trenčín",
+        "ageAtElection": 50,
+        "occupation": "kultúrny organizátor",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Trenčín",
+        "time-adjusted age/current city council"
+      ],
+      "bridgeAssessment": "Official2022 age46/current50 plus municipality connects current candidate to the named city councillor in the2013 mandate story; direct current-council evidence supplements the chain.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2018-11-10-505820-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Kamil Bystrický",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčín"
+              },
+              {
+                "type": "age",
+                "historical": 42,
+                "historicalDate": "2018-11-10",
+                "current": 50,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tn-council-roster-2026",
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "tn-trencin-city-council-2022",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Kamil Bystrický",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčín"
+              },
+              {
+                "type": "age",
+                "historical": 46,
+                "historicalDate": "2022-10-29",
+                "current": 50,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tn-council-roster-2026",
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "tsk-bystricky-mandate-2013"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-stage-56c8d506b4642049"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "tsk-martin-barcak",
+      "currentOfficialAnchor": {
+        "name": "Martin Barčák",
+        "municipality": "Trenčín",
+        "ageAtElection": 66,
+        "occupation": "kultúrny pracovník",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Trenčín",
+        "time-adjusted age/current city council"
+      ],
+      "bridgeAssessment": "Official2022 age62/current66 and municipality connect current person to named current city council and older association role; no name-only transfer from unrelated property proceedings.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2013-11-09-3-regional_council",
+          "date": "2013-11-09",
+          "identityJoin": {
+            "name": "Martin Barčák",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčín"
+              },
+              {
+                "type": "age",
+                "historical": 53,
+                "historicalDate": "2013-11-09",
+                "current": 66,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tn-council-roster-2026",
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2018-11-10-505820-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Martin Barčák",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčín"
+              },
+              {
+                "type": "age",
+                "historical": 58,
+                "historicalDate": "2018-11-10",
+                "current": 66,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tn-council-roster-2026",
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "tsk-zlatovce-property-2010"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-lead-6f7e02c43fe75fe6",
+        "tn-current-council-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "tsk-simon-zdarsky",
+      "currentOfficialAnchor": {
+        "name": "Šimon Žďárský, MUDr.",
+        "municipality": "Trenčín",
+        "ageAtElection": 33,
+        "occupation": "rehabilitačný lekár",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Trenčín",
+        "time-adjusted age/current TSK council"
+      ],
+      "bridgeAssessment": "Official2022 age29/current33 and residence joins the current person to the TSK council. School-event originals identify that regional councillor; MUDr. title alone is not counted as an attribute.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2018-11-10-505820-municipal_council",
+          "date": "2018-11-10",
+          "identityJoin": {
+            "name": "Šimon Žďárský",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčín"
+              },
+              {
+                "type": "age",
+                "historical": 25,
+                "historicalDate": "2018-11-10",
+                "current": 33,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "tsk-region-council-2022",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Šimon Žďárský",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčín"
+              },
+              {
+                "type": "age",
+                "historical": 29,
+                "historicalDate": "2022-10-29",
+                "current": 33,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "tsk-zdarsky-school-2025"
+      ],
+      "supportingPublicSourceIds": [
+        "tn-supplement-5ee2041dbf160434",
+        "tn-supplement-c89aca2ed721ba54"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "tsk-simona-zacharova",
+      "currentOfficialAnchor": {
+        "name": "Simona Zacharová, PhDr., MBA",
+        "municipality": "Trenčín",
+        "ageAtElection": 38,
+        "occupation": "splnomocnenkyňa vlády",
+        "affiliations": [
+          "Hlas - sociálna demokracia"
+        ]
+      },
+      "matchingDimensions": [
+        "government envoy occupation",
+        "Hlas nomination"
+      ],
+      "bridgeAssessment": "Current ballot occupation and Hlas nomination are independently matched in signed2026 profile and government appointment record. Qualifications are corroborative name components, not a substitute for these two dimensions.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "tsk-zacharova-ngo-2026"
+      ],
+      "supportingPublicSourceIds": [
+        "tn-event-55bf5fb1f2deb53a",
+        "tn-lifecycle-87579d380cd743aa"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "tsk-tomas-vano",
+      "currentOfficialAnchor": {
+        "name": "Tomáš Vaňo, Ing., MBA",
+        "municipality": "Trenčín",
+        "ageAtElection": 46,
+        "occupation": "manažér",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Trenčín",
+        "time-adjusted age/current city and regional councils"
+      ],
+      "bridgeAssessment": "Official2022 age42/current46 and municipality bind current candidate to the council/mandate/advertising and older association stories. Age observation correction is separately reviewed; each event remains distinct.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2013-11-09-3-regional_council",
+          "date": "2013-11-09",
+          "identityJoin": {
+            "name": "Tomáš Vaňo",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčín"
+              },
+              {
+                "type": "age",
+                "historical": 33,
+                "historicalDate": "2013-11-09",
+                "current": 46,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tn-council-roster-2026",
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2014-11-15-trencin-mayor",
+          "date": "2014-11-15",
+          "identityJoin": {
+            "name": "Tomáš Vaňo",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčín"
+              },
+              {
+                "type": "age",
+                "historical": 34,
+                "historicalDate": "2014-11-15",
+                "current": 46,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tn-council-roster-2026",
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "tsk-vano-mandate-2013",
+        "tsk-vano-advertising",
+        "tsk-zlatovce-property-2010"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-lead-6f7e02c43fe75fe6",
+        "recheck-events-lead-ad930d7e7fdde41f",
+        "tn-current-council-2026",
+        "tn-event-1079e0182fd34b09",
+        "tn-lifecycle-3487853fb7ef6188"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "tsk-zuzana-frajkova-durmekova",
+      "currentOfficialAnchor": {
+        "name": "Zuzana Frajková Ďurmeková, PhDr.",
+        "municipality": "Trenčianske Teplice",
+        "ageAtElection": 56,
+        "occupation": "primátorka mesta",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Trenčianske Teplice",
+        "mayor occupation and official2022/current age"
+      ],
+      "bridgeAssessment": "Official2022 mayor identity age52/current56 plus municipality/continued mayor occupation anchors the senior-centre allegations and responses to current candidate.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "tn-trencianske-teplice-mayor-2022",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Zuzana Frajková Ďurmeková",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trenčianske Teplice"
+              },
+              {
+                "type": "age",
+                "historical": 52,
+                "historicalDate": "2022-10-29",
+                "current": 56,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tsk-council-district9-roster-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "tsk-frajkova-seniors-2024"
+      ],
+      "supportingPublicSourceIds": [
+        "tn-media-8db1b25186ff31f1",
+        "tn-media-9733a8062cb15e35"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-anton-zeleznik",
+      "currentOfficialAnchor": {
+        "name": "Anton ŽELEZNÍK, Ing.",
+        "municipality": "Trnava",
+        "ageAtElection": 52,
+        "occupation": "riaditeľ investičných projektov",
+        "affiliations": [
+          "Alternatíva pre Slovensko"
+        ]
+      },
+      "matchingDimensions": [
+        "Trnava",
+        "official birthyear1974 computes52 at2026 election"
+      ],
+      "bridgeAssessment": "Own insolvency-debtor row, not court location or neighbouring party, supplies compatible birth date and Trnava. Exact private date was used only to check election-day age; no private particulars exported.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "ttsk-zeleznik-bankruptcy-2020"
+      ],
+      "supportingPublicSourceIds": [
+        "tt-anton-zeleznik-closure-2020-2026",
+        "tt-anton-zeleznik-opening-2020-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-branislav-baros",
+      "currentOfficialAnchor": {
+        "name": "Branislav BAROŠ, Ing.",
+        "municipality": "Trnava",
+        "ageAtElection": 53,
+        "occupation": "riaditeľ strojárenskej spoločnosti",
+        "affiliations": [
+          "Trnava pre každého"
+        ]
+      },
+      "matchingDimensions": [
+        "Trnava",
+        "2022 election/current2026 age bridge",
+        "verified prior mayor candidacy"
+      ],
+      "bridgeAssessment": "Official2022 age49/Trnava is independently joined to current53/Trnava. Original commentary identifies that Trnava mayor candidate and local grouping; it does not rely on two historical attributes detached from the current candidate.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2022-506745-mayor",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Branislav Baroš",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trnava"
+              },
+              {
+                "type": "age",
+                "historical": 49,
+                "historicalDate": "2022-10-29",
+                "current": 53,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-2-2026",
+              "tt-official-3-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-506745-city-council",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Branislav Baroš",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trnava"
+              },
+              {
+                "type": "age",
+                "historical": 49,
+                "historicalDate": "2022-10-29",
+                "current": 53,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-2-2026",
+              "tt-official-3-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "ttsk-baros-uhlik-comment"
+      ],
+      "supportingPublicSourceIds": [
+        "tt-lead-3f35f9bc5e44abfe-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-ivan-bocko",
+      "currentOfficialAnchor": {
+        "name": "Ivan BOČKO",
+        "municipality": "Bohdanovce nad Trnavou",
+        "ageAtElection": 41,
+        "occupation": "starosta obce",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Bohdanovce nad Trnavou",
+        "mayor occupation/current2026",
+        "verified2022 age/contest"
+      ],
+      "bridgeAssessment": "Current ballot independently says mayor and municipality. Official2022 election identity/current age and exact court contest distinguish the old procedural dismissal from the current person bridge.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2022-506796-mayor",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Ivan Bočko",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Bohdanovce nad Trnavou"
+              },
+              {
+                "type": "age",
+                "historical": 37,
+                "historicalDate": "2022-10-29",
+                "current": 41,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-2-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-506796-city-council",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Ivan Bočko",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Bohdanovce nad Trnavou"
+              },
+              {
+                "type": "age",
+                "historical": 37,
+                "historicalDate": "2022-10-29",
+                "current": 41,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-2-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "ttsk-bocko-election-2022"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-stage-69b7826d1f73f48e",
+        "recheck-events-stage-aaac47149da6506f",
+        "tt-lead-14e022b04b46ecbe-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-ivan-kopcik",
+      "currentOfficialAnchor": {
+        "name": "Ivan KOPČÍK, Mgr.",
+        "municipality": "Trnava",
+        "ageAtElection": 38,
+        "occupation": "digitálny inovátor, podnikateľ",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Trnava",
+        "time-adjusted age/current council bridge"
+      ],
+      "bridgeAssessment": "Official2022 age34/current38 joins the current person to the Trnava council; named official2025 proceedings and exact resolution identify that councillor.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2022-506745-city-council",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Ivan Kopčík",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trnava"
+              },
+              {
+                "type": "age",
+                "historical": 34,
+                "historicalDate": "2022-10-29",
+                "current": 38,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-4-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "ttsk-declarations-2025"
+      ],
+      "supportingPublicSourceIds": [
+        "tt-city-decisions-june2025-2026",
+        "tt-current-city-council-2026",
+        "tt-lead-c73dbdaf88b861de-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-jaroslav-cehlarik",
+      "currentOfficialAnchor": {
+        "name": "Jaroslav CEHLÁRIK, Mgr.",
+        "municipality": "Opoj",
+        "ageAtElection": 43,
+        "occupation": "riaditeľ",
+        "affiliations": [
+          "Právo na pravdu"
+        ]
+      },
+      "matchingDimensions": [
+        "Opoj",
+        "director/TASPO professional role",
+        "current2026 chair candidacy"
+      ],
+      "bridgeAssessment": "Browser-readable signed2020 original own questions71–72 establish TASPO director and101–102 Opoj home context; current candidacy bridge independently identifies the same director in2026. Historical/current ages are compatible; source claims are not joined by titles alone.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2017-11-04-2-regional_chair",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Jaroslav Cehlárik",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Opoj"
+              },
+              {
+                "type": "age",
+                "historical": 34,
+                "historicalDate": "2017-11-04",
+                "current": 43,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-1-2026",
+              "tt-official-2-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2017-11-04-2-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Jaroslav Cehlárik",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Opoj"
+              },
+              {
+                "type": "age",
+                "historical": 34,
+                "historicalDate": "2017-11-04",
+                "current": 43,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-1-2026",
+              "tt-official-2-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "ttsk-cehlarik-interpreting-2020",
+        "ttsk-cehlarik-droba-2020"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-cehlarik-droba-sita-20260629",
+        "recheck-cehlarik-identity-sita-20260827",
+        "tt-lead-4a1fe35abf3642bd-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-jozef-obselka",
+      "currentOfficialAnchor": {
+        "name": "Jozef OBSELKA, Ing.",
+        "municipality": "Trnava",
+        "ageAtElection": 48,
+        "occupation": "vedúci spoločnosti",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Trnava2026 mayor candidacy",
+        "direct current campaign context"
+      ],
+      "bridgeAssessment": "2026 signed report identifies the current Trnava mayoral campaign, corroborated by contemporary TASR candidate interview and exact campaign slogan. No older unrelated same-name case imported.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "ttsk-obselka-meta-2026"
+      ],
+      "supportingPublicSourceIds": [
+        "tt-lead-4521a6e33f452033-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-marian-viskupic",
+      "currentOfficialAnchor": {
+        "name": "Marián VISKUPIČ, RNDr. Ing.",
+        "municipality": "Šúrovce",
+        "ageAtElection": 49,
+        "occupation": "poslanec národnej rady",
+        "affiliations": [
+          "Progresívne Slovensko",
+          "Sloboda a solidarita",
+          "Kdh - kresťanskodemokratické hnutie",
+          "Demokrati",
+          "Hnutie Slovensko",
+          "Maďarské fórum",
+          "Občianska konzervatívna strana"
+        ]
+      },
+      "matchingDimensions": [
+        "current parliamentary role/party",
+        "compatible age and direct official career biography"
+      ],
+      "bridgeAssessment": "Current parliamentary identity is corroborated by age/party. Official defence biography and TASR biography connect that person directly to the historical defence-section job; the old ministry role is not treated as current-ballot occupation.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2017-11-04-2-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Marián Viskupič",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Šúrovce"
+              },
+              {
+                "type": "age",
+                "historical": 40,
+                "historicalDate": "2017-11-04",
+                "current": 49,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-2-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2022-507636-city-council",
+          "date": "2022-10-29",
+          "identityJoin": {
+            "name": "Marián Viskupič",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Šúrovce"
+              },
+              {
+                "type": "age",
+                "historical": 45,
+                "historicalDate": "2022-10-29",
+                "current": 49,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-2-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "ttsk-marian-viskupic-spp-2012"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-lead-b27ce5fb73b3d41a",
+        "recheck-events-viskupic-official-bio2011",
+        "recheck-events-viskupic-tasr-bio2020"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-martin-uhlik",
+      "currentOfficialAnchor": {
+        "name": "Martin UHLÍK, Mgr., PhD.",
+        "municipality": "Trnava",
+        "ageAtElection": 47,
+        "occupation": "manažér výroby",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Trnava",
+        "time-adjusted age/current council bridge"
+      ],
+      "bridgeAssessment": "Official2022 age43/current47 and municipality connect current person to named current Trnava council. Event originals identify that councillor; Lepšia Trnava context corroborates.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2014-11-15-506745-municipal_council",
+          "date": "2014-11-15",
+          "identityJoin": {
+            "name": "Martin Uhlík",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trnava"
+              },
+              {
+                "type": "age",
+                "historical": 35,
+                "historicalDate": "2014-11-15",
+                "current": 47,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-4-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2017-11-04-2-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Martin Uhlík",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trnava"
+              },
+              {
+                "type": "age",
+                "historical": 38,
+                "historicalDate": "2017-11-04",
+                "current": 47,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-4-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "ttsk-baros-uhlik-comment",
+        "ttsk-declarations-2025"
+      ],
+      "supportingPublicSourceIds": [
+        "tt-city-decisions-june2025-2026",
+        "tt-current-city-council-2026",
+        "tt-lead-3f35f9bc5e44abfe-2026",
+        "tt-lead-c73dbdaf88b861de-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-peter-kitta",
+      "currentOfficialAnchor": {
+        "name": "Peter KITTA, Bc.",
+        "municipality": "Trnava",
+        "ageAtElection": 44,
+        "occupation": "podnikateľ",
+        "affiliations": [
+          "Smer - sociálna demokracia",
+          "Hlas - sociálna demokracia",
+          "Slovenská národná strana",
+          "Republika"
+        ]
+      },
+      "matchingDimensions": [
+        "Trnava",
+        "official birthyear1981 computes44 at2026 election"
+      ],
+      "bridgeAssessment": "Own debtor row supplies the same municipality and exact compatible age. Birthyear1981, not a naive2026-minus44 birthyear1982 assumption; no retirement/job inference needed.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "ttsk-kitta-bankruptcy-2016"
+      ],
+      "supportingPublicSourceIds": [
+        "tt-peter-kitta-opening-2016-2026",
+        "tt-peter-kitta-stage-march2019-2026",
+        "tt-peter-kitta-trustee-removal-2019-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-robert-dohal",
+      "currentOfficialAnchor": {
+        "name": "Róbert DOHÁL, Ing.",
+        "municipality": "Krakovany",
+        "ageAtElection": 64,
+        "occupation": "poľnohospodársky inžinier",
+        "affiliations": [
+          "Alternatíva pre Slovensko"
+        ]
+      },
+      "matchingDimensions": [
+        "agricultural professional field",
+        "Krakovany institutional/local context",
+        "current2026 chair candidacy/age64"
+      ],
+      "bridgeAssessment": "2026 TASR own interview explicitly identifies64-year-old agricultural engineer in this election. The2023 signed original identifies the Krakovany-Stráže agricultural cooperative chairman and regenerative-agriculture work. No private-residence claim is inferred from the cooperative address.",
+      "independentOfficialHistoricalAnchors": [],
+      "acceptedEventIds": [
+        "ttsk-dohal-messages-2023"
+      ],
+      "supportingPublicSourceIds": [
+        "tt-lead-c8774901a38f9426-2026"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    },
+    {
+      "candidateId": "ttsk-simon-stefunko",
+      "currentOfficialAnchor": {
+        "name": "Šimon ŠTEFUNKO, PhDr.",
+        "municipality": "Trnava",
+        "ageAtElection": 35,
+        "occupation": "investičný manažér",
+        "affiliations": []
+      },
+      "matchingDimensions": [
+        "Trnava",
+        "2014 age23/current35"
+      ],
+      "bridgeAssessment": "Signed17Nov2014 profile explicitly identifies the Trnava councillor age23; compatible current35 plus same municipality anchor the proxy-vote originals. This was independently reviewed in the initial proposal scope.",
+      "independentOfficialHistoricalAnchors": [
+        {
+          "contestId": "2014-11-15-506745-municipal_council",
+          "date": "2014-11-15",
+          "identityJoin": {
+            "name": "Šimon Štefunko",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trnava"
+              },
+              {
+                "type": "age",
+                "historical": 23,
+                "historicalDate": "2014-11-15",
+                "current": 35,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-4-2026"
+            ]
+          }
+        },
+        {
+          "contestId": "2017-11-04-2-regional_council",
+          "date": "2017-11-04",
+          "identityJoin": {
+            "name": "Šimon Štefunko",
+            "attributes": [
+              {
+                "type": "municipality",
+                "value": "Trnava"
+              },
+              {
+                "type": "age",
+                "historical": 26,
+                "historicalDate": "2017-11-04",
+                "current": 35,
+                "currentDate": "2026-10-24",
+                "method": "overlapping possible birth-date intervals; birthdays respected"
+              }
+            ],
+            "directBridge": null,
+            "currentSourceIds": [
+              "tt-official-4-2026"
+            ]
+          }
+        }
+      ],
+      "acceptedEventIds": [
+        "ttsk-stefunko-proxy-vote-2015"
+      ],
+      "supportingPublicSourceIds": [
+        "recheck-events-focus-319f375f5b18b2fe",
+        "recheck-events-focus-bec0ee3cc7a76d86",
+        "recheck-events-focus-f08656f0580a9819"
+      ],
+      "decision": "current_person_bridge_supported_in_bounded_review"
+    }
+  ],
+  "families": [
+    {
+      "eventId": "ttsk-dohal-messages-2023",
+      "candidateIds": [
+        "ttsk-robert-dohal"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-robert-dohal-controversies-1-2026",
+        "ttsk-robert-dohal-controversies-2-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "ttsk-robert-dohal-controversies-1-2026",
+        "ttsk-robert-dohal-controversies-2-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "ttsk-robert-dohal"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-obselka-meta-2026",
+      "candidateIds": [
+        "ttsk-jozef-obselka"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-jozef-obselka-controversies-1-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "ttsk-jozef-obselka-controversies-1-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "ttsk-jozef-obselka"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-baros-uhlik-comment",
+      "candidateIds": [
+        "ttsk-branislav-baros",
+        "ttsk-martin-uhlik"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-branislav-baros-controversies-1-2026",
+        "ttsk-martin-uhlik-controversies-1-2026",
+        "ttsk-martin-uhlik-controversies-2-2026",
+        "ttsk-branislav-baros-controversies-2-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "ttsk-branislav-baros-controversies-1-2026",
+        "ttsk-martin-uhlik-controversies-1-2026",
+        "ttsk-martin-uhlik-controversies-2-2026",
+        "ttsk-branislav-baros-controversies-2-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "ttsk-branislav-baros",
+        "ttsk-martin-uhlik"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-declarations-2025",
+      "candidateIds": [
+        "ttsk-ivan-kopcik",
+        "ttsk-martin-uhlik"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-ivan-kopcik-controversies-1-2026",
+        "ttsk-martin-uhlik-controversies-3-2026",
+        "ttsk-ivan-kopcik-controversies-2-2026",
+        "ttsk-martin-uhlik-controversies-4-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "ttsk-ivan-kopcik-controversies-1-2026",
+        "ttsk-martin-uhlik-controversies-3-2026",
+        "ttsk-ivan-kopcik-controversies-2-2026",
+        "ttsk-martin-uhlik-controversies-4-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "ttsk-ivan-kopcik",
+        "ttsk-martin-uhlik"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-cehlarik-interpreting-2020",
+      "candidateIds": [
+        "ttsk-jaroslav-cehlarik"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-jaroslav-cehlarik-controversies-1-2026",
+        "ttsk-jaroslav-cehlarik-controversies-2-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "ttsk-jaroslav-cehlarik-controversies-1-2026",
+        "ttsk-jaroslav-cehlarik-controversies-2-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "ttsk-jaroslav-cehlarik"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-cehlarik-droba-2020",
+      "candidateIds": [
+        "ttsk-jaroslav-cehlarik"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-jaroslav-cehlarik-droba-judgment-report-20260629",
+        "ttsk-jaroslav-cehlarik-droba-execution-response-20260629"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "ttsk-jaroslav-cehlarik"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-bocko-election-2022",
+      "candidateIds": [
+        "ttsk-ivan-bocko"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-ivan-bocko-controversies-1-2026",
+        "ttsk-ivan-bocko-election-petition-official-20221207",
+        "ttsk-ivan-bocko-election-petition-trigger-20221111",
+        "ttsk-ivan-bocko-election-petition-response-20221121"
+      ],
+      "retainedBaselineClaimIds": [
+        "ttsk-ivan-bocko-controversies-1-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "ttsk-ivan-bocko"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-zeleznik-bankruptcy-2020",
+      "candidateIds": [
+        "ttsk-anton-zeleznik"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-anton-zeleznik-controversies-1-2026",
+        "ttsk-anton-zeleznik-debt-relief-2020",
+        "ttsk-anton-zeleznik-controversies-2-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "ttsk-anton-zeleznik-controversies-1-2026",
+        "ttsk-anton-zeleznik-debt-relief-2020",
+        "ttsk-anton-zeleznik-controversies-2-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "ttsk-anton-zeleznik"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-kitta-bankruptcy-2016",
+      "candidateIds": [
+        "ttsk-peter-kitta"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-peter-kitta-controversies-1-2026",
+        "ttsk-peter-kitta-controversies-2-2026",
+        "ttsk-peter-kitta-controversies-3-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "ttsk-peter-kitta-controversies-1-2026",
+        "ttsk-peter-kitta-controversies-2-2026",
+        "ttsk-peter-kitta-controversies-3-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "ttsk-peter-kitta"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-vano-mandate-2013",
+      "candidateIds": [
+        "tsk-tomas-vano"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-tomas-vano-mandate-report-2013",
+        "tsk-tomas-vano-mandate-response-2013",
+        "tsk-tomas-vano-historical-media-2013",
+        "tsk-tomas-vano-mandate-last-proved-report-2013"
+      ],
+      "retainedBaselineClaimIds": [
+        "tsk-tomas-vano-mandate-report-2013",
+        "tsk-tomas-vano-mandate-response-2013",
+        "tsk-tomas-vano-historical-media-2013",
+        "tsk-tomas-vano-mandate-last-proved-report-2013"
+      ],
+      "candidateIdentityAssessments": [
+        "tsk-tomas-vano"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-baska-surveillance-2011",
+      "candidateIds": [
+        "tsk-jaroslav-baska"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-jaroslav-baska-surveillance-report-2011",
+        "tsk-jaroslav-baska-surveillance-response-2011"
+      ],
+      "retainedBaselineClaimIds": [
+        "tsk-jaroslav-baska-surveillance-report-2011",
+        "tsk-jaroslav-baska-surveillance-response-2011"
+      ],
+      "candidateIdentityAssessments": [
+        "tsk-jaroslav-baska"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-zacharova-ngo-2026",
+      "candidateIds": [
+        "tsk-simona-zacharova"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-simona-zacharova-ngo-resignation-demand-2026",
+        "tsk-simona-zacharova-ngo-demand-response-2026",
+        "tsk-simona-zacharova-signed-media-profile-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "tsk-simona-zacharova-ngo-resignation-demand-2026",
+        "tsk-simona-zacharova-ngo-demand-response-2026",
+        "tsk-simona-zacharova-signed-media-profile-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "tsk-simona-zacharova"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-zdarsky-school-2025",
+      "candidateIds": [
+        "tsk-simon-zdarsky"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-simon-zdarsky-school-petition-report-2025",
+        "tsk-simon-zdarsky-school-dispute-later-report-2025",
+        "tsk-simon-zdarsky-school-dispute-response-2025",
+        "tsk-simon-zdarsky-stvr-school-report-2025"
+      ],
+      "retainedBaselineClaimIds": [
+        "tsk-simon-zdarsky-school-petition-report-2025",
+        "tsk-simon-zdarsky-school-dispute-later-report-2025",
+        "tsk-simon-zdarsky-school-dispute-response-2025",
+        "tsk-simon-zdarsky-stvr-school-report-2025"
+      ],
+      "candidateIdentityAssessments": [
+        "tsk-simon-zdarsky"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-frajkova-seniors-2024",
+      "candidateIds": [
+        "tsk-zuzana-frajkova-durmekova"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-zuzana-frajkova-durmekova-senior-housing-initial-report-2024",
+        "tsk-zuzana-frajkova-durmekova-senior-housing-response-2024",
+        "tsk-zuzana-frajkova-durmekova-senior-housing-later-stage-2024",
+        "tsk-zuzana-frajkova-durmekova-senior-housing-media-2024"
+      ],
+      "retainedBaselineClaimIds": [
+        "tsk-zuzana-frajkova-durmekova-senior-housing-initial-report-2024",
+        "tsk-zuzana-frajkova-durmekova-senior-housing-response-2024",
+        "tsk-zuzana-frajkova-durmekova-senior-housing-later-stage-2024",
+        "tsk-zuzana-frajkova-durmekova-senior-housing-media-2024"
+      ],
+      "candidateIdentityAssessments": [
+        "tsk-zuzana-frajkova-durmekova"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-hrdlicka-billboards-2026",
+      "candidateIds": [
+        "tsk-jozef-hrdlicka"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-jozef-hrdlicka-party-verdict-response-2026",
+        "tsk-jozef-hrdlicka-party-billboard-verdict-report-20260626"
+      ],
+      "retainedBaselineClaimIds": [
+        "tsk-jozef-hrdlicka-party-verdict-response-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "tsk-jozef-hrdlicka"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-mego-ilava-2026",
+      "candidateIds": [
+        "tsk-jaroslav-mego"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-jaroslav-mego-sme-prison-contract-media-2026",
+        "tsk-jaroslav-mego-prison-contract-report-2026",
+        "tsk-jaroslav-mego-prison-contract-response-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "tsk-jaroslav-mego-sme-prison-contract-media-2026",
+        "tsk-jaroslav-mego-prison-contract-report-2026",
+        "tsk-jaroslav-mego-prison-contract-response-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "tsk-jaroslav-mego"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-kvasnica-assault-2025",
+      "candidateIds": [
+        "tsk-jan-kvasnica"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-jan-kvasnica-reported-assault-victim-2025"
+      ],
+      "retainedBaselineClaimIds": [
+        "tsk-jan-kvasnica-reported-assault-victim-2025"
+      ],
+      "candidateIdentityAssessments": [
+        "tsk-jan-kvasnica"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-stefek-charge-2018",
+      "candidateIds": [
+        "nsk-stefan-stefek"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-stefan-stefek-charge-report-2018",
+        "nsk-stefan-stefek-charge-quashed-report-2018",
+        "nsk-stefan-stefek-charge-response-2019"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-stefan-stefek-charge-report-2018",
+        "nsk-stefan-stefek-charge-quashed-report-2018",
+        "nsk-stefan-stefek-charge-response-2019"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-stefan-stefek"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-gaspar-privacy-2023",
+      "candidateIds": [
+        "nsk-tibor-gaspar"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-tibor-gaspar-privacy-charge-quashed-2024"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-tibor-gaspar-privacy-charge-quashed-2024"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-tibor-gaspar"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-gaspar-ocistec",
+      "candidateIds": [
+        "nsk-tibor-gaspar"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-tibor-gaspar-ocistec-hearing-2026",
+        "nsk-tibor-gaspar-ocistec-response-2026",
+        "nsk-tibor-gaspar-ocistec-latest-stage-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-tibor-gaspar-ocistec-hearing-2026",
+        "nsk-tibor-gaspar-ocistec-response-2026",
+        "nsk-tibor-gaspar-ocistec-latest-stage-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-tibor-gaspar"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-gaspar-majersky-civil",
+      "candidateIds": [
+        "nsk-tibor-gaspar"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-tibor-gaspar-majersky-civil-suit-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-tibor-gaspar-majersky-civil-suit-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-tibor-gaspar"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-krsiak-lojko-campaign",
+      "candidateIds": [
+        "nsk-igor-krsiak"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-igor-krsiak-lojko-claim-2026",
+        "nsk-igor-krsiak-lojko-response-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-igor-krsiak-lojko-claim-2026",
+        "nsk-igor-krsiak-lojko-response-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-igor-krsiak"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-blasko-bankruptcy-2019",
+      "candidateIds": [
+        "nsk-erik-blasko"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-erik-blasko-bankruptcy-opening-2019",
+        "nsk-erik-blasko-debt-relief-order-2019"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-erik-blasko-bankruptcy-opening-2019",
+        "nsk-erik-blasko-debt-relief-order-2019"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-erik-blasko"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-macho-bankruptcy-2018",
+      "candidateIds": [
+        "nsk-milos-macho"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-milos-macho-bankruptcy-closure-2020"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-milos-macho-bankruptcy-closure-2020"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-milos-macho"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-papp-enforcement-2019",
+      "candidateIds": [
+        "nsk-slavomir-papp"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-slavomir-papp-enforcement-service-2020"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-slavomir-papp-enforcement-service-2020"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-slavomir-papp"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-papp-enforcement-2022",
+      "candidateIds": [
+        "nsk-slavomir-papp"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-slavomir-papp-enforcement-service-2022"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-slavomir-papp-enforcement-service-2022"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-slavomir-papp"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-varga-hattas-severance",
+      "candidateIds": [
+        "nsk-henrich-varga",
+        "nsk-marek-hattas"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-henrich-varga-severance-council-report-2026",
+        "nsk-henrich-varga-severance-hattas-response-2026",
+        "nsk-henrich-varga-severance-varga-response-2026",
+        "nsk-marek-hattas-severance-council-report-2026",
+        "nsk-marek-hattas-severance-hattas-response-2026",
+        "nsk-marek-hattas-severance-varga-response-2026",
+        "nsk-henrich-varga-adviser-position-abolition-primary-2026",
+        "nsk-marek-hattas-adviser-position-abolition-primary-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-henrich-varga-severance-council-report-2026",
+        "nsk-henrich-varga-severance-hattas-response-2026",
+        "nsk-henrich-varga-severance-varga-response-2026",
+        "nsk-marek-hattas-severance-council-report-2026",
+        "nsk-marek-hattas-severance-hattas-response-2026",
+        "nsk-marek-hattas-severance-varga-response-2026",
+        "nsk-henrich-varga-adviser-position-abolition-primary-2026",
+        "nsk-marek-hattas-adviser-position-abolition-primary-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-henrich-varga",
+        "nsk-marek-hattas"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-svec-nomination-2024",
+      "candidateIds": [
+        "nsk-robert-svec"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-robert-svec-presidential-nomination-court-2024",
+        "nsk-robert-svec-presidential-nomination-response-2024"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-robert-svec-presidential-nomination-court-2024",
+        "nsk-robert-svec-presidential-nomination-response-2024"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-robert-svec"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-hattas-music-project",
+      "candidateIds": [
+        "nsk-marek-hattas"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-marek-hattas-music-project-opponent-allegation-2026"
+      ],
+      "retainedBaselineClaimIds": [
+        "nsk-marek-hattas-music-project-opponent-allegation-2026"
+      ],
+      "candidateIdentityAssessments": [
+        "nsk-marek-hattas"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-dvonc-regiojet-2016",
+      "candidateIds": [
+        "nsk-jozef-dvonc"
+      ],
+      "reviewStatus": "excluded_insufficient_current_identity",
+      "acceptedClaimIds": [],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [],
+      "decision": "no_accepted_claims_identity_not_inferred",
+      "boundary": "Dvonč excluded by separately reviewed delta; original content does not identify current person."
+    },
+    {
+      "eventId": "bbsk-kotleba-bridge-2024",
+      "candidateIds": [
+        "bbsk-marian-kotleba"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-marian-kotleba-bridge-report20240928",
+        "bbsk-marian-kotleba-bridge-city-denial20240928"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-marian-kotleba-bridge-report20240928",
+        "bbsk-marian-kotleba-bridge-city-denial20240928"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-marian-kotleba"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-lapunikova-war-2025",
+      "candidateIds": [
+        "bbsk-miriam-lapunikova"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-miriam-lapunikova-war-statement-report20250213",
+        "bbsk-miriam-lapunikova-war-statement-response20250213",
+        "bbsk-miriam-lapunikova-diplomats-response20250213",
+        "bbsk-miriam-lapunikova-dated-event-report"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-miriam-lapunikova-war-statement-report20250213",
+        "bbsk-miriam-lapunikova-war-statement-response20250213",
+        "bbsk-miriam-lapunikova-diplomats-response20250213",
+        "bbsk-miriam-lapunikova-dated-event-report"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-miriam-lapunikova"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-suja-road-equipment",
+      "candidateIds": [
+        "bbsk-miroslav-suja"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-miroslav-suja-hearing20250904",
+        "bbsk-miroslav-suja-hearing-defense20250904",
+        "bbsk-miroslav-suja-dated-event-report"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-miroslav-suja-hearing20250904",
+        "bbsk-miroslav-suja-hearing-defense20250904",
+        "bbsk-miroslav-suja-dated-event-report"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-miroslav-suja"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-halas-ppa-chalet-2026",
+      "candidateIds": [
+        "bbsk-martin-halas"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-martin-halas-ppa-report20261002",
+        "bbsk-martin-halas-ppa-qualification20261002",
+        "bbsk-martin-halas-ppa-response20261002",
+        "bbsk-martin-halas-dated-event-report"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-martin-halas-ppa-report20261002",
+        "bbsk-martin-halas-ppa-qualification20261002",
+        "bbsk-martin-halas-ppa-response20261002",
+        "bbsk-martin-halas-dated-event-report"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-martin-halas"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-kabac-bankruptcy-2017",
+      "candidateIds": [
+        "bbsk-radoslav-kabac"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-radoslav-kabac-bankruptcy-inventory20171114",
+        "bbsk-radoslav-kabac-bankruptcy-notice20200702"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-radoslav-kabac-bankruptcy-inventory20171114",
+        "bbsk-radoslav-kabac-bankruptcy-notice20200702"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-radoslav-kabac"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-longauer-vszp-2026",
+      "candidateIds": [
+        "bbsk-tobias-longauer"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-tobias-longauer-insurance-list20261015"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-tobias-longauer-insurance-list20261015"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-tobias-longauer"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-kapusta-dzmura-civil-2023",
+      "candidateIds": [
+        "bbsk-david-kapusta",
+        "bbsk-juraj-dzmura"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-david-kapusta-personality-filing20230530",
+        "bbsk-david-kapusta-personality-attributed-withdrawal20241220",
+        "bbsk-juraj-dzmura-personality-filing20230530",
+        "bbsk-juraj-dzmura-personality-attributed-withdrawal20241220",
+        "bbsk-david-kapusta-personality-defense20241220",
+        "bbsk-david-kapusta-personality-publication20241220"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-david-kapusta-personality-filing20230530",
+        "bbsk-david-kapusta-personality-attributed-withdrawal20241220",
+        "bbsk-juraj-dzmura-personality-filing20230530",
+        "bbsk-juraj-dzmura-personality-attributed-withdrawal20241220",
+        "bbsk-david-kapusta-personality-defense20241220",
+        "bbsk-david-kapusta-personality-publication20241220"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-david-kapusta",
+        "bbsk-juraj-dzmura"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-kotleba-cheques",
+      "candidateIds": [
+        "bbsk-marian-kotleba"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-marian-kotleba-cheques-supreme20220405",
+        "bbsk-marian-kotleba-cheques-sentence20220405",
+        "bbsk-marian-kotleba-cheques-response20220405",
+        "bbsk-marian-kotleba-cheques-probation-reported20240115",
+        "bbsk-marian-kotleba-cheques-probation-effect-reported20240115"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-marian-kotleba-cheques-supreme20220405",
+        "bbsk-marian-kotleba-cheques-sentence20220405",
+        "bbsk-marian-kotleba-cheques-response20220405",
+        "bbsk-marian-kotleba-cheques-probation-reported20240115",
+        "bbsk-marian-kotleba-cheques-probation-effect-reported20240115"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-marian-kotleba"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-kotleba-property-2026",
+      "candidateIds": [
+        "bbsk-marian-kotleba"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-marian-kotleba-party-transfers-report20260819",
+        "bbsk-marian-kotleba-property-report20260819",
+        "bbsk-marian-kotleba-property-denial20260819",
+        "bbsk-marian-kotleba-property-financing-response20260727"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-marian-kotleba-party-transfers-report20260819",
+        "bbsk-marian-kotleba-property-report20260819",
+        "bbsk-marian-kotleba-property-denial20260819",
+        "bbsk-marian-kotleba-property-financing-response20260727"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-marian-kotleba"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-stefunko-proxy-vote-2015",
+      "candidateIds": [
+        "ttsk-simon-stefunko"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-simon-stefunko-proxy-vote-report-20150428",
+        "ttsk-simon-stefunko-proxy-vote-response-20150428",
+        "ttsk-simon-stefunko-proxy-vote-later-report-20150430"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "ttsk-simon-stefunko"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-viskupic-cisty-den",
+      "candidateIds": [
+        "ttsk-jozef-viskupic"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [],
+      "decision": "no_accepted_claims_identity_not_inferred",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-viskupic-transport",
+      "candidateIds": [
+        "ttsk-jozef-viskupic"
+      ],
+      "reviewStatus": "discovery_only_bounded_exclusion",
+      "acceptedClaimIds": [],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [],
+      "decision": "no_accepted_claims_identity_not_inferred",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-bystricky-mandate-2013",
+      "candidateIds": [
+        "tsk-kamil-bystricky"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-kamil-bystricky-substitute-mandate-report-20131023",
+        "tsk-kamil-bystricky-substitute-mandate-response-20131023"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "tsk-kamil-bystricky"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-vano-advertising",
+      "candidateIds": [
+        "tsk-tomas-vano"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-tomas-vano-advertising-proceeding-report-20190923",
+        "tsk-tomas-vano-advertising-response-20190923",
+        "tsk-tomas-vano-advertising-council-stage-report-20190923"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "tsk-tomas-vano"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-becik-property-exchange",
+      "candidateIds": [
+        "nsk-branislav-becik",
+        "nsk-anna-laurinec-smehilova"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-branislav-becik-property-exchange-complaint-report-20250529",
+        "nsk-branislav-becik-property-exchange-response-20250529"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "nsk-branislav-becik",
+        "nsk-anna-laurinec-smehilova"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-borik-procurement",
+      "candidateIds": [
+        "nsk-vladislav-borik"
+      ],
+      "reviewStatus": "excluded_insufficient_identity_after_bounded_review",
+      "acceptedClaimIds": [],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [],
+      "decision": "no_accepted_claims_identity_not_inferred",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-dunda-bonus-2011",
+      "candidateIds": [
+        "nsk-mikulas-dunda"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-mikulas-dunda-zdzs-audit-report-20110412",
+        "nsk-mikulas-dunda-zdzs-audit-response-20110412"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "nsk-mikulas-dunda"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-nosko-lunter-declarations-2026",
+      "candidateIds": [
+        "bbsk-jan-nosko",
+        "bbsk-ondrej-lunter"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-jan-nosko-declaration-fine-report-20260602",
+        "bbsk-ondrej-lunter-declaration-fine-report-20260602",
+        "bbsk-jan-nosko-declaration-fine-response-20260602",
+        "bbsk-ondrej-lunter-declaration-fine-response-20260602"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "bbsk-jan-nosko",
+        "bbsk-ondrej-lunter"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-nosko-katreniak-stadium",
+      "candidateIds": [
+        "bbsk-jan-nosko",
+        "bbsk-pavol-katreniak"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-jan-nosko-stadium-publication20230207"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-jan-nosko-stadium-publication20230207"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-jan-nosko",
+        "bbsk-pavol-katreniak"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-gogola-delay",
+      "candidateIds": [
+        "bbsk-peter-gogola"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "bbsk-peter-gogola"
+      ],
+      "decision": "no_accepted_claims_identity_not_inferred",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-kasper-hacker",
+      "candidateIds": [
+        "bbsk-igor-kasper"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-igor-kasper-hacker-complaint-report-20180525",
+        "bbsk-igor-kasper-hacker-response-20180525"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "bbsk-igor-kasper"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-rusina-uvo-2026",
+      "candidateIds": [
+        "bbsk-jaroslav-rusina"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-jaroslav-rusina-marketing-complaint-report-20261009",
+        "bbsk-jaroslav-rusina-marketing-office-response-20261009"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "bbsk-jaroslav-rusina"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-modransky-sad-criminal",
+      "candidateIds": [
+        "bbsk-marek-modransky"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-marek-modransky-sad-poprad-trigger-report-20250331",
+        "bbsk-marek-modransky-sad-poprad-charge-report-20250331",
+        "bbsk-marek-modransky-sad-poprad-response-20250403"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "bbsk-marek-modransky"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-modransky-sad-security",
+      "candidateIds": [
+        "bbsk-marek-modransky"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-marek-modransky-sad-poprad-security-order-20241031",
+        "bbsk-marek-modransky-sad-poprad-security-appeal-20250819",
+        "bbsk-marek-modransky-sad-poprad-security-supreme-20260428"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "bbsk-marek-modransky"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-rejda-gorila",
+      "candidateIds": [
+        "nsk-jan-rejda"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-jan-rejda-gorila-allegations-report-20220817",
+        "nsk-jan-rejda-gorila-response-20220817"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "nsk-jan-rejda"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-gaspar-removal-motion1208",
+      "candidateIds": [
+        "nsk-tibor-gaspar"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-tibor-gaspar-removal-motion1208-trigger-20260313",
+        "nsk-tibor-gaspar-removal-motion1208-program-vote-20260317"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "nsk-tibor-gaspar"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-gogola-google-2014",
+      "candidateIds": [
+        "bbsk-peter-gogola"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-peter-gogola-google-billboards-report-20141017",
+        "bbsk-peter-gogola-google-billboards-response-20141017"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "bbsk-peter-gogola"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-theatre-employment-2016",
+      "candidateIds": [
+        "nsk-martin-kusenda",
+        "nsk-veronika-gabcikova"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-martin-kusenda-theatre-dispute-report-20160211",
+        "nsk-martin-kusenda-theatre-dispute-response-20160211",
+        "nsk-veronika-gabcikova-theatre-dispute-report-20160211",
+        "nsk-veronika-gabcikova-theatre-dispute-response-20160211"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "nsk-martin-kusenda",
+        "nsk-veronika-gabcikova"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "ttsk-marian-viskupic-spp-2012",
+      "candidateIds": [
+        "ttsk-marian-viskupic"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "ttsk-marian-viskupic-defence-gas-contract-report-20120810"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "ttsk-marian-viskupic"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "nsk-hattas-strabag-2021",
+      "candidateIds": [
+        "nsk-marek-hattas"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "nsk-marek-hattas-strabag-settlement-report-20221011",
+        "nsk-marek-hattas-strabag-settlement-response-20221011"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "nsk-marek-hattas"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "tsk-zlatovce-property-2010",
+      "candidateIds": [
+        "tsk-martin-barcak",
+        "tsk-tomas-vano"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "tsk-martin-barcak-zlatovce-property-report-20100503",
+        "tsk-tomas-vano-zlatovce-property-report-20100503",
+        "tsk-martin-barcak-zlatovce-property-response-20100503",
+        "tsk-tomas-vano-zlatovce-property-response-20100503"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "tsk-martin-barcak",
+        "tsk-tomas-vano"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-nosko-threat-victim-2025",
+      "candidateIds": [
+        "bbsk-jan-nosko"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-jan-nosko-threat-victim-procedure-20260112",
+        "bbsk-jan-nosko-threat-prosecutor-stage-20260112"
+      ],
+      "retainedBaselineClaimIds": [],
+      "candidateIdentityAssessments": [
+        "bbsk-jan-nosko"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    },
+    {
+      "eventId": "bbsk-balaz-parking-2025",
+      "candidateIds": [
+        "bbsk-jozef-balaz"
+      ],
+      "reviewStatus": "bounded_original_review",
+      "acceptedClaimIds": [
+        "bbsk-jozef-balaz-independent-media-publication"
+      ],
+      "retainedBaselineClaimIds": [
+        "bbsk-jozef-balaz-independent-media-publication"
+      ],
+      "candidateIdentityAssessments": [
+        "bbsk-jozef-balaz"
+      ],
+      "decision": "identity_supported_for_accepted_claims",
+      "boundary": null
+    }
+  ],
+  "limitations": [
+    "No broad new discovery in this cross-check.",
+    "History delta002, final integration preservation and complete release gates still require separate verification.",
+    "No private addresses/fullDOB/personal contacts/raw business identifiers exported."
+  ],
+  "noReleaseApproval": true
+}

@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-15",
+  "actualRetainedSearchCalls": 2,
+  "actualQueries": 8,
+  "queryReceipts": [
+    {
+      "checkedAt": "2026-10-15",
+      "queries": [
+        "\"Rastislav Hazucha\" Hrušovany voľby",
+        "\"Lívia Voleková\" \"Biely Kostol\"",
+        "\"Lívia Voleková\" Bučany 2022",
+        "\"Jaroslav Mego\" \"2018\" \"54\""
+      ],
+      "privateReceiptSha256": "eb1fbf65c15805c012860b512b8c1efec9d95d4dc363be7b88175eee89bd5bb6"
+    },
+    {
+      "checkedAt": "2026-10-15",
+      "queries": [
+        "\"Jozef Dvonč\" \"2026\" \"kandiduje\"",
+        "\"Jozef Dvonč\" Babindol primátor",
+        "\"Jozef Dvonč\" Babindol životopis",
+        "\"Dvonč\" \"2026\" \"bývalý primátor\""
+      ],
+      "privateReceiptSha256": "010715386ef90959f7e3db7884dadcfb57e2c946afbf6d724df4b9d524d453ce"
+    }
+  ],
+  "decisionsSk": [
+    "Dvonč: nedoložený druhý nezávislý znak k dnešnému kandidátovi; nepriradené historické voľby a odstránené tri pôvodné udalostné fakty.",
+    "Hazucha/Hrušovany, Kubík/Bzovská Lehôtka a Voleková/Biely Kostol zostávajú bez doloženého mosta; bez nových účastí.",
+    "Mego/Drietoma2016: prečítaná TASR výslovne uvádza52rokov; prijatie a úradný dátum volieb sú v samostatnej schválenej oprave."
+  ],
+  "researchReferences": [
+    "history-root-original-dispositions.json",
+    "history-delta-002-reviewed-additions.json",
+    "independent-dvonc-identity-review.json"
+  ]
+}

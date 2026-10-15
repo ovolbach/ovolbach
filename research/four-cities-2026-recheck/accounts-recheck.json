@@ -1,0 +1,4094 @@
+{
+  "scope": "four-cities-2026",
+  "checkedAt": "2026-10-15",
+  "candidateCount": 546,
+  "candidateIds": [
+    "bbsk-adrian-kostur",
+    "bbsk-alzbeta-pazakova",
+    "bbsk-andrej-saxon",
+    "bbsk-anna-maruskova",
+    "bbsk-anton-minarik",
+    "bbsk-atila-beres",
+    "bbsk-branislav-bosak",
+    "bbsk-branislav-kovacik",
+    "bbsk-csilla-droppova",
+    "bbsk-daniel-karas",
+    "bbsk-david-kapusta",
+    "bbsk-diana-javorcikova",
+    "bbsk-dusan-strelec",
+    "bbsk-eduard-genserek",
+    "bbsk-erika-karova",
+    "bbsk-eva-hupkova",
+    "bbsk-hana-kasova",
+    "bbsk-hubert-stoksa",
+    "bbsk-igor-kasper",
+    "bbsk-ivan-kosa",
+    "bbsk-ivan-kostur",
+    "bbsk-ivan-paricka",
+    "bbsk-ivan-simko",
+    "bbsk-ivan-uhrik",
+    "bbsk-ivana-figuli",
+    "bbsk-iveta-noskova",
+    "bbsk-jakub-gajdosik",
+    "bbsk-jakub-mestan",
+    "bbsk-jakub-sedlacek",
+    "bbsk-jan-cimerman",
+    "bbsk-jan-nosko",
+    "bbsk-jana-mesarkinova",
+    "bbsk-jana-nekyova",
+    "bbsk-jana-tolicova",
+    "bbsk-jana-ziarova",
+    "bbsk-jaroslav-brada",
+    "bbsk-jaroslav-rusina",
+    "bbsk-jozef-balaz",
+    "bbsk-jozef-lovas",
+    "bbsk-jozef-mak",
+    "bbsk-jozef-sedilek",
+    "bbsk-jozef-tomanik",
+    "bbsk-juraj-bencik",
+    "bbsk-juraj-dzmura",
+    "bbsk-juraj-oravec",
+    "bbsk-juraj-sipula",
+    "bbsk-katarina-albertova",
+    "bbsk-katarina-cizmarova",
+    "bbsk-klaudia-hruskova",
+    "bbsk-lubomir-debnar",
+    "bbsk-lubos-vrbicky",
+    "bbsk-lucia-fabriciusova",
+    "bbsk-ludmila-priehodova",
+    "bbsk-lukas-berec",
+    "bbsk-magdalena-kovac-mergova",
+    "bbsk-marcel-pecnik",
+    "bbsk-marek-kliment",
+    "bbsk-marek-modransky",
+    "bbsk-marek-odalos",
+    "bbsk-marek-ondras",
+    "bbsk-marek-vyhnicka",
+    "bbsk-maria-debnarova",
+    "bbsk-maria-detvaj-sedlarova",
+    "bbsk-marian-kotleba",
+    "bbsk-marian-lunter",
+    "bbsk-marian-michael-mackovic",
+    "bbsk-marta-klacanova",
+    "bbsk-marta-medzihradska",
+    "bbsk-martin-halas",
+    "bbsk-martin-hanes",
+    "bbsk-martin-kubik",
+    "bbsk-martin-majling",
+    "bbsk-martin-pechovsky",
+    "bbsk-martin-repasky",
+    "bbsk-martin-tistan",
+    "bbsk-martin-turcan",
+    "bbsk-martin-vrabel",
+    "bbsk-martin-zudel",
+    "bbsk-matej-bucko",
+    "bbsk-matej-rudnicky",
+    "bbsk-matej-ruttkay",
+    "bbsk-matus-molitoris",
+    "bbsk-matus-zazrivec",
+    "bbsk-michal-albert",
+    "bbsk-michal-skantar",
+    "bbsk-milan-belko",
+    "bbsk-milan-hroncek",
+    "bbsk-milan-lichy",
+    "bbsk-milan-smado",
+    "bbsk-miriam-lapunikova",
+    "bbsk-miroslav-cellar",
+    "bbsk-miroslav-kamensky",
+    "bbsk-miroslav-luptak",
+    "bbsk-miroslav-suja",
+    "bbsk-miroslava-jancova",
+    "bbsk-miroslava-vranovska",
+    "bbsk-olga-betkova",
+    "bbsk-ondrej-lunter",
+    "bbsk-ondrej-veres",
+    "bbsk-patricia-holikova",
+    "bbsk-patrik-trnka",
+    "bbsk-pavel-bartosik",
+    "bbsk-pavel-filo",
+    "bbsk-pavol-katreniak",
+    "bbsk-pavol-puskeiler",
+    "bbsk-peter-brozman",
+    "bbsk-peter-gogola",
+    "bbsk-peter-kadasi",
+    "bbsk-peter-luptak",
+    "bbsk-peter-plancik",
+    "bbsk-peter-vida",
+    "bbsk-radoslav-kabac",
+    "bbsk-radovan-lapunik",
+    "bbsk-roman-bencik",
+    "bbsk-roman-malatinec",
+    "bbsk-roman-miskar",
+    "bbsk-roman-psenak",
+    "bbsk-ruzena-mataseje",
+    "bbsk-sarah-sonkol",
+    "bbsk-silvia-cochova",
+    "bbsk-stanislav-hupian",
+    "bbsk-tibor-fuchs",
+    "bbsk-tobias-longauer",
+    "bbsk-tomas-huta",
+    "bbsk-tomas-sobota",
+    "bbsk-tomas-tornyos",
+    "bbsk-veronika-koskova",
+    "bbsk-viera-dubacova",
+    "bbsk-vladimir-ivan",
+    "bbsk-zuzana-galatova",
+    "bbsk-zuzana-hujova",
+    "nsk-adam-filip",
+    "nsk-andrea-matova",
+    "nsk-andrej-praznovsky",
+    "nsk-andrej-sitkey",
+    "nsk-andrej-skoda",
+    "nsk-anna-laurinec-smehilova",
+    "nsk-antonia-janeckova",
+    "nsk-artur-bekmatov",
+    "nsk-beata-acova",
+    "nsk-branislav-banyi",
+    "nsk-branislav-becik",
+    "nsk-daniel-balko",
+    "nsk-daniela-bako",
+    "nsk-david-kis",
+    "nsk-denisa-branikovicova",
+    "nsk-dusan-kacer",
+    "nsk-dusan-malovec",
+    "nsk-edita-vnuckova",
+    "nsk-erik-blasko",
+    "nsk-erik-duchon",
+    "nsk-eva-antosova",
+    "nsk-eva-hudecova",
+    "nsk-ferdinand-vitek",
+    "nsk-filip-ziak",
+    "nsk-frantisek-holly",
+    "nsk-hana-balisova",
+    "nsk-henrich-bencik",
+    "nsk-henrich-varga",
+    "nsk-igor-krsiak",
+    "nsk-igor-urbanik",
+    "nsk-ingrid-menky",
+    "nsk-ingrid-sabikova",
+    "nsk-ivan-barta",
+    "nsk-ivan-rac",
+    "nsk-jakub-neupauer",
+    "nsk-jakub-pikna",
+    "nsk-jan-gresso",
+    "nsk-jan-rejda",
+    "nsk-jan-vanco",
+    "nsk-jana-durkova",
+    "nsk-jarmila-kralova",
+    "nsk-jaroslav-brezina",
+    "nsk-jaroslav-doczy",
+    "nsk-jaroslav-macek",
+    "nsk-jolana-culakova",
+    "nsk-jozef-dvonc",
+    "nsk-jozef-horvath",
+    "nsk-jozef-jankovic",
+    "nsk-jozef-mikulasik",
+    "nsk-julius-kysler",
+    "nsk-juraj-duncic",
+    "nsk-juraj-gajdos",
+    "nsk-juraj-kovac",
+    "nsk-karol-suchan",
+    "nsk-katarina-bojkovska",
+    "nsk-katarina-kompasova",
+    "nsk-katarina-kovacova",
+    "nsk-katarina-ranusa-koncosova",
+    "nsk-katarina-welnitzova",
+    "nsk-kristian-cechmanek",
+    "nsk-ladislav-masik",
+    "nsk-ladislav-turba",
+    "nsk-lubomir-baranik",
+    "nsk-lubomir-klestinec",
+    "nsk-lubomir-moravcik",
+    "nsk-lukas-celinak",
+    "nsk-lukas-hnilica",
+    "nsk-lukas-schober",
+    "nsk-marcela-cavojova",
+    "nsk-marcela-starekova",
+    "nsk-marek-fuska",
+    "nsk-marek-hattas",
+    "nsk-marek-illes",
+    "nsk-marek-kuruc",
+    "nsk-maria-cok-steinemannova",
+    "nsk-maria-lorinczova",
+    "nsk-maria-orsagova",
+    "nsk-marian-kukucka",
+    "nsk-marian-paulisz",
+    "nsk-mario-sturdik",
+    "nsk-marta-racova",
+    "nsk-martin-belan",
+    "nsk-martin-bodis",
+    "nsk-martin-domcek",
+    "nsk-martin-horvath",
+    "nsk-martin-kusenda",
+    "nsk-martin-palkovic",
+    "nsk-martin-pasulkas",
+    "nsk-martin-presinsky",
+    "nsk-martina-dubaiova",
+    "nsk-martina-mojtova",
+    "nsk-matej-szaraz",
+    "nsk-matus-kroslak",
+    "nsk-mikulas-dunda",
+    "nsk-milan-biro",
+    "nsk-milos-dovicovic",
+    "nsk-milos-macho",
+    "nsk-miloslav-hatala",
+    "nsk-miloslav-spotak",
+    "nsk-miroslav-gut",
+    "nsk-miroslav-horniak",
+    "nsk-miroslav-maly",
+    "nsk-monika-maliskova",
+    "nsk-norbert-miklas",
+    "nsk-ondrej-durica",
+    "nsk-ondrej-sedivy",
+    "nsk-patricia-dimov",
+    "nsk-patrik-trubini",
+    "nsk-paulina-simoncicova",
+    "nsk-pavel-varga",
+    "nsk-pavol-deglovic",
+    "nsk-pavol-lehotak",
+    "nsk-pavol-obertas",
+    "nsk-pavol-pipiska",
+    "nsk-pavol-zamecnik",
+    "nsk-peter-bakay",
+    "nsk-peter-bihari",
+    "nsk-peter-chudy",
+    "nsk-peter-kellner",
+    "nsk-peter-kisska",
+    "nsk-peter-kostal",
+    "nsk-peter-lukacik",
+    "nsk-peter-mezei",
+    "nsk-peter-oremus",
+    "nsk-peter-peciar",
+    "nsk-peter-polak-50",
+    "nsk-peter-polak-52",
+    "nsk-peter-pukan",
+    "nsk-peter-urban",
+    "nsk-petra-ajdariova",
+    "nsk-petra-grebacova",
+    "nsk-rastislav-hazucha",
+    "nsk-regina-vitekova",
+    "nsk-renata-farmadinova",
+    "nsk-richard-turanovic",
+    "nsk-robert-ambra",
+    "nsk-robert-hipp",
+    "nsk-robert-miklos",
+    "nsk-robert-svec",
+    "nsk-robert-zilik",
+    "nsk-roman-agh",
+    "nsk-roman-bogdanov",
+    "nsk-romana-strizova",
+    "nsk-rudolf-olach",
+    "nsk-simona-farnadyova",
+    "nsk-slavomir-balis",
+    "nsk-slavomir-papp",
+    "nsk-stefan-bagin",
+    "nsk-stefan-korman",
+    "nsk-stefan-kosovan",
+    "nsk-stefan-polacik",
+    "nsk-stefan-stefek",
+    "nsk-svorad-petruska",
+    "nsk-tibor-csenger",
+    "nsk-tibor-danac",
+    "nsk-tibor-gaspar",
+    "nsk-tibor-zapletal",
+    "nsk-tomas-kralik",
+    "nsk-tomas-svoren",
+    "nsk-veronika-gabcikova",
+    "nsk-viktor-nemeth",
+    "nsk-vladimir-vnuk",
+    "nsk-vladislav-borik",
+    "nsk-vojtech-fray",
+    "nsk-zdenko-svoboda",
+    "nsk-zuzana-uhrikova",
+    "tsk-adriana-kovacova",
+    "tsk-adriana-martosova",
+    "tsk-alexander-biros",
+    "tsk-andrea-jakubcova",
+    "tsk-andrej-docar",
+    "tsk-andrej-gavenda",
+    "tsk-anton-kysel",
+    "tsk-bohumil-kern",
+    "tsk-branislav-liska",
+    "tsk-danica-birosova",
+    "tsk-daniel-galas",
+    "tsk-dominik-gabriel",
+    "tsk-drahomir-drozd",
+    "tsk-drahoslav-bocak",
+    "tsk-dusan-struhacka",
+    "tsk-eduard-filo",
+    "tsk-elena-gogolakova",
+    "tsk-erik-mician",
+    "tsk-ervin-olesnan",
+    "tsk-eva-pastorkova",
+    "tsk-ivan-hudcovsky",
+    "tsk-ivan-kubica",
+    "tsk-ivan-slany",
+    "tsk-jakub-halgos",
+    "tsk-jan-culy",
+    "tsk-jan-delincak",
+    "tsk-jan-fabicovic",
+    "tsk-jan-forgac",
+    "tsk-jan-kmet",
+    "tsk-jan-kvasnica",
+    "tsk-jan-plasil",
+    "tsk-jan-sivak",
+    "tsk-jana-ovesna",
+    "tsk-jana-stefanekova",
+    "tsk-jaroslav-baska",
+    "tsk-jaroslav-mego",
+    "tsk-josef-kolar",
+    "tsk-jozef-bakos",
+    "tsk-jozef-habanik",
+    "tsk-jozef-hrdlicka",
+    "tsk-juraj-bakos",
+    "tsk-juraj-hajso",
+    "tsk-juraj-huserka",
+    "tsk-juraj-machunka",
+    "tsk-juraj-malan",
+    "tsk-juraj-stilicha",
+    "tsk-kamil-bystricky",
+    "tsk-karina-penzesova",
+    "tsk-ladislav-matejka",
+    "tsk-ladislav-paska",
+    "tsk-lubomir-bobak",
+    "tsk-lubomir-choleva",
+    "tsk-lubomir-horny",
+    "tsk-lubomir-vavrus",
+    "tsk-lubos-chorvat",
+    "tsk-lucia-nemesova",
+    "tsk-lukas-kecera",
+    "tsk-marcel-frano",
+    "tsk-marcel-meravy",
+    "tsk-marek-brozek",
+    "tsk-marek-mizenko",
+    "tsk-maria-kebiskova",
+    "tsk-maria-machova",
+    "tsk-marian-betak",
+    "tsk-marian-bohus",
+    "tsk-marian-cvecka",
+    "tsk-mario-markech",
+    "tsk-martin-barcak",
+    "tsk-martin-diweg-pukanec",
+    "tsk-martin-kvasnica",
+    "tsk-martin-petrik",
+    "tsk-martin-smolka",
+    "tsk-martin-stefanik",
+    "tsk-martin-trepac",
+    "tsk-martina-benovicova",
+    "tsk-martina-gabrhelova",
+    "tsk-michaela-kobzova",
+    "tsk-michal-bratranec",
+    "tsk-michal-mosko",
+    "tsk-milos-micega",
+    "tsk-miloslav-baco",
+    "tsk-monika-velackova",
+    "tsk-nada-lorencova",
+    "tsk-natalia-svitkova",
+    "tsk-patrik-zak",
+    "tsk-pavol-golan",
+    "tsk-pavol-sulovsky",
+    "tsk-peter-bohunicky",
+    "tsk-peter-dano",
+    "tsk-peter-hostak",
+    "tsk-peter-mikulas",
+    "tsk-peter-pilathy",
+    "tsk-rastislav-harakal",
+    "tsk-richard-medal",
+    "tsk-richard-scepko",
+    "tsk-richard-zimanyi",
+    "tsk-robert-hartmann",
+    "tsk-robert-svehla",
+    "tsk-roman-lackovic",
+    "tsk-simon-zdarsky",
+    "tsk-simona-zacharova",
+    "tsk-slavomira-propperova",
+    "tsk-stanislav-svatik",
+    "tsk-tomas-michalik",
+    "tsk-tomas-prno",
+    "tsk-tomas-vano",
+    "tsk-valeria-merava",
+    "tsk-veronika-hluchanova",
+    "tsk-vladimir-poruban",
+    "tsk-zdenka-brisudova",
+    "tsk-zdenko-marousek",
+    "tsk-zuzana-bednarova",
+    "tsk-zuzana-frajkova-durmekova",
+    "tsk-zuzana-misakova",
+    "ttsk-adrian-kobetic",
+    "ttsk-andrea-banova",
+    "ttsk-andrea-cajkova",
+    "ttsk-andrea-svata",
+    "ttsk-andrej-brnik",
+    "ttsk-anton-zeleznik",
+    "ttsk-boris-aresta",
+    "ttsk-branislav-baros",
+    "ttsk-branislav-kramar",
+    "ttsk-daniel-kravec",
+    "ttsk-daniela-prosmanova",
+    "ttsk-david-matula",
+    "ttsk-erik-elias",
+    "ttsk-erik-hrnciarik",
+    "ttsk-erik-matovic",
+    "ttsk-eva-nemcovska",
+    "ttsk-frantisek-drgon",
+    "ttsk-gabriela-cabanova",
+    "ttsk-gabriela-sykorova",
+    "ttsk-igor-valek",
+    "ttsk-ina-mruskovicova",
+    "ttsk-ivan-bocko",
+    "ttsk-ivan-kopcik",
+    "ttsk-ivan-matusek",
+    "ttsk-ivana-varga-babelova",
+    "ttsk-ivo-didov",
+    "ttsk-jan-chalama",
+    "ttsk-jan-jobb",
+    "ttsk-jan-uhnavy",
+    "ttsk-jan-vlasko",
+    "ttsk-jana-fridrichova",
+    "ttsk-jaroslav-cehlarik",
+    "ttsk-jaroslav-skoda",
+    "ttsk-josef-filip-kozon",
+    "ttsk-jozef-mitosinka",
+    "ttsk-jozef-obselka",
+    "ttsk-jozef-remenar",
+    "ttsk-jozef-studenc",
+    "ttsk-jozef-sust",
+    "ttsk-jozef-viskupic",
+    "ttsk-jozsef-berenyi",
+    "ttsk-juraj-badura",
+    "ttsk-juraj-horvath",
+    "ttsk-juraj-rezbarik",
+    "ttsk-kashif-butt",
+    "ttsk-katarina-durkova",
+    "ttsk-kristian-kolev",
+    "ttsk-kristina-bolemanova",
+    "ttsk-kristina-rysava",
+    "ttsk-ladislav-rolnik",
+    "ttsk-livia-volekova",
+    "ttsk-lubica-gergelyova",
+    "ttsk-lubica-horvathova",
+    "ttsk-lucia-francescato",
+    "ttsk-ludovit-zambokrethy",
+    "ttsk-lukas-bednar",
+    "ttsk-lukas-gressak",
+    "ttsk-lukas-ihnat",
+    "ttsk-magdalena-eliasova",
+    "ttsk-marcel-krajco",
+    "ttsk-marcel-odumorek",
+    "ttsk-marcel-skorec",
+    "ttsk-marek-domes",
+    "ttsk-marek-meciar",
+    "ttsk-marek-nesticky",
+    "ttsk-marek-nic",
+    "ttsk-marek-polonec",
+    "ttsk-maria-benova",
+    "ttsk-maria-bullova",
+    "ttsk-marian-gabris",
+    "ttsk-marian-galbavy",
+    "ttsk-marian-kubal",
+    "ttsk-marian-prazenka",
+    "ttsk-marian-schwarz",
+    "ttsk-marian-viskupic",
+    "ttsk-marta-gubricka",
+    "ttsk-martin-bachraty",
+    "ttsk-martin-halaksa",
+    "ttsk-martin-hanak",
+    "ttsk-martin-kleiman",
+    "ttsk-martin-nano",
+    "ttsk-martin-pullmann",
+    "ttsk-martin-uhlik",
+    "ttsk-martina-sarvaicova",
+    "ttsk-matej-cagala",
+    "ttsk-matej-gasparovic",
+    "ttsk-matej-lancaric",
+    "ttsk-matej-pivoluska",
+    "ttsk-michal-kossi",
+    "ttsk-michal-lipovsky",
+    "ttsk-milan-balaz",
+    "ttsk-milan-hejduk",
+    "ttsk-milan-sokolovsky",
+    "ttsk-milos-cmarada",
+    "ttsk-milos-kristofik",
+    "ttsk-milos-kysel",
+    "ttsk-ondrej-stefanik",
+    "ttsk-patrik-holic",
+    "ttsk-patrik-ondrejech",
+    "ttsk-pavol-hluchy",
+    "ttsk-peter-halada",
+    "ttsk-peter-hambalek",
+    "ttsk-peter-karol",
+    "ttsk-peter-kitta",
+    "ttsk-peter-kvasnicak",
+    "ttsk-peter-markovic",
+    "ttsk-peter-morvay",
+    "ttsk-peter-neslusan",
+    "ttsk-petra-helt",
+    "ttsk-rastislav-mraz",
+    "ttsk-richard-bohunicky",
+    "ttsk-richard-sladek",
+    "ttsk-robert-dohal",
+    "ttsk-robert-frimmel",
+    "ttsk-robert-mucuta",
+    "ttsk-robert-smak",
+    "ttsk-silvia-jakabova",
+    "ttsk-simon-stefunko",
+    "ttsk-stanislav-hric",
+    "ttsk-stanislav-surin",
+    "ttsk-stefan-kristofik",
+    "ttsk-stefan-liptak",
+    "ttsk-stefan-pollak",
+    "ttsk-tana-polackova",
+    "ttsk-tatiana-vavrova",
+    "ttsk-tibor-pekarcik",
+    "ttsk-tomas-drobny",
+    "ttsk-tomas-foltin",
+    "ttsk-tomas-koppl",
+    "ttsk-tomas-vahalik",
+    "ttsk-viera-vancova",
+    "ttsk-viktor-krizan",
+    "ttsk-vladimir-ekhardt",
+    "ttsk-vladimir-ondrejicka",
+    "ttsk-zuzana-bosnakova"
+  ],
+  "regions": [
+    {
+      "region": "trnavsky-kraj",
+      "candidateCount": 135,
+      "candidatesSha256": "cdcd94766c4864c52a3fad6c23d47268157301cb6715039aa042eff888921660",
+      "financeSha256": "2ed9b9bd6578a9229d4de745ffbecd39ad4a05e0397f01a87c09cc6c9fe09e09"
+    },
+    {
+      "region": "trenciansky-kraj",
+      "candidateCount": 114,
+      "candidatesSha256": "de836dc4a32f4ab5c795ccb2a480db63d054dfabc99059f33c427702311bad3a",
+      "financeSha256": "5c4e333d0e499f034a981b4be000a5848cf0e61217d0ff4d6ae9a1d1b599d5fa"
+    },
+    {
+      "region": "nitriansky-kraj",
+      "candidateCount": 166,
+      "candidatesSha256": "1ab7cee6ef1032c67a1cb8e29ebdfeeaadb5f798afd415ddbdaefdca3dbd4d0f",
+      "financeSha256": "06198641f2d9651f2dc2bd508af75165135037906ab4248f2092aaf6388a61e2"
+    },
+    {
+      "region": "banskobystricky-kraj",
+      "candidateCount": 131,
+      "candidatesSha256": "42d221a4f36ca22423c61cfc971a4c040f36856288f16abfcb584c50dc01e171",
+      "financeSha256": "8811529af84be2b8a83add473d3cffa4de1bf7b10eadeb0908100a6dd3e8e69d"
+    }
+  ],
+  "beforeCounts": {
+    "not_listed": 523,
+    "unverified": 10,
+    "verified": 13
+  },
+  "afterCounts": {
+    "not_listed": 515,
+    "verified": 30,
+    "unverified": 1
+  },
+  "verifiedMethods": {
+    "register_exclusion": 17,
+    "candidate_site": 13
+  },
+  "ministryIndexEntryCounts": {
+    "candidateAccounts": 295,
+    "partyAccounts": 23
+  },
+  "registers": [
+    {
+      "kind": "mayor",
+      "sourceId": "finance-national-mayors-2026",
+      "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+      "rowCount": 6560,
+      "complete": true
+    },
+    {
+      "kind": "city-council",
+      "sourceId": "finance-national-councillors-2026",
+      "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+      "rowCount": 40184,
+      "complete": true
+    },
+    {
+      "kind": "region-chair",
+      "sourceId": "finance-national-chairs-2026",
+      "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+      "rowCount": 56,
+      "complete": true
+    },
+    {
+      "kind": "region-council",
+      "sourceId": "finance-national-regional-councillors-2026",
+      "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+      "rowCount": 2472,
+      "complete": true
+    }
+  ],
+  "searches": {
+    "actualCandidateNameQueries": 546,
+    "batches": 137,
+    "knownCandidateOwnedSourceCount": 70,
+    "additionalOriginalReadCount": 140
+  },
+  "statusChanges": [
+    {
+      "candidateId": "bbsk-jaroslav-rusina",
+      "from": "unverified",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "bbsk-ondrej-veres",
+      "from": "unverified",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "bbsk-roman-malatinec",
+      "from": "not_listed",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "bbsk-tomas-sobota",
+      "from": "unverified",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "nsk-branislav-becik",
+      "from": "not_listed",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "nsk-erik-blasko",
+      "from": "unverified",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "nsk-jolana-culakova",
+      "from": "not_listed",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "nsk-marek-hattas",
+      "from": "not_listed",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "nsk-viktor-nemeth",
+      "from": "not_listed",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "tsk-michal-bratranec",
+      "from": "unverified",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "tsk-natalia-svitkova",
+      "from": "not_listed",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "ttsk-branislav-baros",
+      "from": "unverified",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "ttsk-jozef-obselka",
+      "from": "not_listed",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "ttsk-jozef-viskupic",
+      "from": "not_listed",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "ttsk-peter-hambalek",
+      "from": "unverified",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "ttsk-robert-dohal",
+      "from": "unverified",
+      "to": "verified",
+      "method": "register_exclusion"
+    },
+    {
+      "candidateId": "ttsk-stefan-pollak",
+      "from": "unverified",
+      "to": "verified",
+      "method": "register_exclusion"
+    }
+  ],
+  "preservedCandidateSiteVerifications": [
+    {
+      "candidateId": "ttsk-matej-lancaric",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "tt-campaign-lancaric-2026"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "discovery-1abffdf568f86b13f5",
+          "url": "https://matejlancaric.sk/",
+          "checkedAt": "2026-10-15T16:08:51.735848+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "27e5e95e71f03605ea9df54239c9172f8140cf3accec5de77801ad8daf5f63ad",
+          "bytes": 709438,
+          "textLength": 17239,
+          "receiptSha256": "1cbf226fffe8dd562530151c6e85aa9c667bd128173fecea534404c09573a126"
+        }
+      ],
+      "exactIban": "SK2483300000002103532834",
+      "exactUrl": "https://ib.fio.sk/ib/transparent?a=2103532834",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Trnava",
+          "sourceIds": [
+            "tt-campaign-lancaric-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "Voľby predsedu TTSK 2026",
+          "sourceIds": [
+            "tt-campaign-lancaric-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-ttsk-matej-lancaric",
+          "url": "https://ib.fio.sk/ib/transparent?a=2103532834",
+          "checkedAt": "2026-10-15T16:03:54.829697+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "fa519b6fe2fda2f881e1b2c83c00df479f276ad2373e4ecec1b5e2bd61e02861",
+          "bytes": 19232,
+          "textLength": 2122,
+          "receiptSha256": "ba1a4070dc235fd521b5211d899326d6f51dff32e5578817a4818171d57047ba"
+        },
+        "mode": "readable_owner",
+        "iban": "SK2483300000002103532834"
+      }
+    },
+    {
+      "candidateId": "ttsk-andrea-cajkova",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "tt-campaign-cajkova-2026"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "tt-campaign-cajkova-2026",
+          "url": "https://cajkova.trnavaplus.sk/",
+          "checkedAt": "2026-10-15T16:02:32.434514+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "5b6c237083c2d81c719cbb95fcd7e41ca549f834028a81ee98a12b2bed929512",
+          "bytes": 57683,
+          "textLength": 4609,
+          "receiptSha256": "175d4a552b4b0aceef54a83c3d09f255d6a339411a9a2dc58e6bfbf61c6049bb"
+        }
+      ],
+      "exactIban": "SK2683300000002103461212",
+      "exactUrl": "https://ib.fio.sk/ib/transparent?a=2103461212",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Trnava",
+          "sourceIds": [
+            "tt-campaign-cajkova-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "Voľby primátora mesta Trnava 2026",
+          "sourceIds": [
+            "tt-campaign-cajkova-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-ttsk-andrea-cajkova",
+          "url": "https://ib.fio.sk/ib/transparent?a=2103461212",
+          "checkedAt": "2026-10-15T16:03:54.929320+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "3137757230cbd520bf9d76f161068d64c43586ee8726fe5a0e8f32e98ff3d8a8",
+          "bytes": 15747,
+          "textLength": 911,
+          "receiptSha256": "8fe9528c0d3888d12d8fb8d2451dce84e1e4b04f0826e17621edec1e3676133d"
+        },
+        "mode": "readable_owner",
+        "iban": "SK2683300000002103461212"
+      }
+    },
+    {
+      "candidateId": "ttsk-lubica-horvathova",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "tt-campaign-horvathova-2026"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "tt-campaign-horvathova-2026",
+          "url": "https://lubicahorvathova.sk/",
+          "checkedAt": "2026-10-15T16:02:32.481422+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "ba67aa20473977dff40e67ef984f69bc8bb23ec1dfd91302ed525a9aaa43fc48",
+          "bytes": 179404,
+          "textLength": 31717,
+          "receiptSha256": "24e87884a4a9496f3bd7be9df79824fd01f9b3731fca399c7bbecb3096e3ba5d"
+        }
+      ],
+      "exactIban": "SK6609000000005244601702",
+      "exactUrl": "https://transparentneucty.sk/#/ucet/SK6609000000005244601702",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Trnava",
+          "sourceIds": [
+            "tt-campaign-horvathova-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "Voľby primátora mesta Trnava 2026",
+          "sourceIds": [
+            "tt-campaign-horvathova-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-ttsk-lubica-horvathova",
+          "url": "https://transparentneucty.sk/#/ucet/SK6609000000005244601702",
+          "checkedAt": "2026-10-15T16:03:54.932038+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "abd91da767f59eabbf1bad2a20e69850d2a7c8cdf66b0df8cc75034f60262384",
+          "bytes": 1404,
+          "textLength": 19,
+          "receiptSha256": "5a280933b39dfd0f2a6adfeda94fccf0e0308b3485f8675c633153a64ab2debe"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "ttsk-eva-nemcovska",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "tt-campaign-nemcovska-2026"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "tt-campaign-nemcovska-2026",
+          "url": "https://evanemcovska.sk/",
+          "checkedAt": "2026-10-15T16:02:32.719602+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "41557fac37bcf5cacef2501912203ce73a66eec0f1e13b3c23495ef30939ba7d",
+          "bytes": 102444,
+          "textLength": 18049,
+          "receiptSha256": "4b203bcfb54d647c58c14d83d60ed16569ea0d43f6e9b3374017cda27d09e20f"
+        }
+      ],
+      "exactIban": "SK1609000000005243966670",
+      "exactUrl": "https://transparentneucty.sk/#/ucet/SK1609000000005243966670",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Trnava",
+          "sourceIds": [
+            "tt-campaign-nemcovska-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "Voľby primátora mesta Trnava 2026",
+          "sourceIds": [
+            "tt-campaign-nemcovska-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-discovery-7d0ddfb87a84b4",
+          "url": "https://www.transparentneucty.sk/#/ucet/SK1609000000005243966670",
+          "checkedAt": "2026-10-15T16:04:02.289941+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "abd91da767f59eabbf1bad2a20e69850d2a7c8cdf66b0df8cc75034f60262384",
+          "bytes": 1404,
+          "textLength": 19,
+          "receiptSha256": "2c1c8392040440ca9c62def4affa68d52fcf8c60054385a59863dc80ab78afdb"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "tsk-jan-forgac",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "tn-original-eb21e105d718a879"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "tn-original-eb21e105d718a879",
+          "url": "https://janforgac.sk/",
+          "checkedAt": "2026-10-15T16:02:32.077119+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "3c70c45b616748a38f89309c42761a6828fabe050b183f6a0d4d0b4ecd7589a7",
+          "bytes": 80086,
+          "textLength": 4454,
+          "receiptSha256": "62751de8411b7476ff7830ff28f4164eda6f45617974c82648891c8fb15ca309"
+        }
+      ],
+      "exactIban": "SK5609000000005244130365",
+      "exactUrl": "https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Trenčín",
+          "sourceIds": [
+            "tn-original-eb21e105d718a879",
+            "tn-mayor-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "primátor mesta Trenčín 2026",
+          "sourceIds": [
+            "tn-original-eb21e105d718a879",
+            "tn-mayor-roster-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-tsk-jan-forgac",
+          "url": "https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365",
+          "checkedAt": "2026-10-15T16:03:55.023767+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "abd91da767f59eabbf1bad2a20e69850d2a7c8cdf66b0df8cc75034f60262384",
+          "bytes": 1404,
+          "textLength": 19,
+          "receiptSha256": "061103946abc670bbe0e2a52f3e50b3b8c9db3dd1f4d8153a7a7dddd20239d0c"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "tsk-milos-micega",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "tn-original-8be1a1dc6460a486"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "tn-original-8be1a1dc6460a486",
+          "url": "https://micega.sk/",
+          "checkedAt": "2026-10-15T16:02:31.191031+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "8ef516468468cbbeb8127735bf6e46fae0180ccc5b6ce9d2f40ca6e87b01de48",
+          "bytes": 32958,
+          "textLength": 5034,
+          "receiptSha256": "1c6d67bee31ec2182c4b4a9165f7a888be29bf147ed8ac6784e3fe26236f784d"
+        }
+      ],
+      "exactIban": "SK3909000000005250312966",
+      "exactUrl": null,
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Trenčín",
+          "sourceIds": [
+            "tn-original-8be1a1dc6460a486",
+            "tn-mayor-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "primátor mesta Trenčín 2026",
+          "sourceIds": [
+            "tn-original-8be1a1dc6460a486",
+            "tn-mayor-roster-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "mode": "only_iban_published",
+        "note": "Na kandidátovej stránke je len IBAN; bankový odkaz nebol vymyslený."
+      }
+    },
+    {
+      "candidateId": "tsk-jaroslav-baska",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "tn-original-cd2c9298dcf579b6"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "tn-original-cd2c9298dcf579b6",
+          "url": "https://www.vaszupan.sk/",
+          "checkedAt": "2026-10-15T16:02:31.300153+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "73b8cbf7a68447defca1edcc1529e71507990d79ca21eedf69a7adac35b7d814",
+          "bytes": 140104,
+          "textLength": 5127,
+          "receiptSha256": "67632d45348d76270ac459085605e13b5fb87d4747c0c6bbe0f133bf7233ea52"
+        }
+      ],
+      "exactIban": "SK1283300000002603527601",
+      "exactUrl": "https://ib.fio.sk/ib/transparent?a=2603527601",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Dohňany",
+          "sourceIds": [
+            "tn-original-cd2c9298dcf579b6",
+            "tsk-chair-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "predseda Trenčianskeho samosprávneho kraja 2026",
+          "sourceIds": [
+            "tn-original-cd2c9298dcf579b6",
+            "tsk-chair-roster-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-tsk-jaroslav-baska",
+          "url": "https://ib.fio.sk/ib/transparent?a=2603527601",
+          "checkedAt": "2026-10-15T16:03:55.026121+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "2616ef5a491a4a7f22352364a9d316f97af12ce2995230251ec736559f1a2bed",
+          "bytes": 20178,
+          "textLength": 2724,
+          "receiptSha256": "93b5b2cd146e9754041bc35b689c1020db89816160d9ebbb1fd2623d6acc9353"
+        },
+        "mode": "readable_owner",
+        "iban": "SK1283300000002603527601"
+      }
+    },
+    {
+      "candidateId": "nsk-marek-illes",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "nr-illes-programme-2026"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "nr-illes-programme-2026",
+          "url": "https://marekilles.sk/volebny-program",
+          "checkedAt": "2026-10-15T16:02:28.082143+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "597d11ca0807d276cada43334a3d2b0f22450df654e472e4740fb6121a91a9ad",
+          "bytes": 43392,
+          "textLength": 8254,
+          "receiptSha256": "130f13595ee17d4376b1968956ad93102b81dea7d8efc2e4c94b0a2620fd23eb"
+        }
+      ],
+      "exactIban": "SK3109000000005250367721",
+      "exactUrl": "https://www.transparentneucty.sk/#/ucet/SK3109000000005250367721",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Nitra",
+          "sourceIds": [
+            "nr-illes-programme-2026",
+            "nr-mayor-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "primátor mesta Nitra 2026",
+          "sourceIds": [
+            "nr-illes-programme-2026",
+            "nr-mayor-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-nsk-marek-illes",
+          "url": "https://www.transparentneucty.sk/#/ucet/SK3109000000005250367721",
+          "checkedAt": "2026-10-15T16:03:55.259543+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "abd91da767f59eabbf1bad2a20e69850d2a7c8cdf66b0df8cc75034f60262384",
+          "bytes": 1404,
+          "textLength": 19,
+          "receiptSha256": "23a7dd2c8ce4d8103dd91574b65fc1e6426967c3e62af8f4440813e4ba651be1"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "nsk-igor-krsiak",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "nr-krsiak-programme-2026"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "nr-krsiak-programme-2026",
+          "url": "https://igorkrsiak.sk/program/",
+          "checkedAt": "2026-10-15T16:02:28.136279+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "bc113ba439915e0beddd23fe3db041dd2fee53ea2df02489d362353167e3b0d2",
+          "bytes": 174138,
+          "textLength": 10935,
+          "receiptSha256": "429b8fb76e115dbc8e76e783d54178bf9764ff11b4528ac760e1c94a6395c8b6"
+        }
+      ],
+      "exactIban": "SK1009000000005189469947",
+      "exactUrl": "https://www.transparentneucty.sk/#/ucet/SK1009000000005189469947",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Nitra",
+          "sourceIds": [
+            "nr-krsiak-programme-2026",
+            "nr-mayor-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "primátor mesta Nitra 2026",
+          "sourceIds": [
+            "nr-krsiak-programme-2026",
+            "nr-mayor-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-nsk-igor-krsiak",
+          "url": "https://www.transparentneucty.sk/#/ucet/SK1009000000005189469947",
+          "checkedAt": "2026-10-15T16:03:55.273914+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "abd91da767f59eabbf1bad2a20e69850d2a7c8cdf66b0df8cc75034f60262384",
+          "bytes": 1404,
+          "textLength": 19,
+          "receiptSha256": "000c2f766663b88d17f7ed47b2fc5368df241387f07a247d86d4f8025f82b61b"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "nsk-henrich-varga",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "nsk-varga-home-2026",
+        "four-city-recheck-varga-campaign-info"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "nsk-varga-home-2026",
+          "url": "https://lepsizupan.sk/",
+          "checkedAt": "2026-10-15T16:02:30.173493+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "9f3aa9c64c89f0def074e769bdab2a22004939cdfd0539970eb09676018d394b",
+          "bytes": 105156,
+          "textLength": 4046,
+          "receiptSha256": "96434f18a3a09ab1e354bce6c458eebc6f932495dfdf87492b42d21a10451ded"
+        },
+        {
+          "key": "discovery-a7a7200b9e6b84d5c9",
+          "url": "https://lepsizupan.sk/informacie-o-kampani/",
+          "checkedAt": "2026-10-15T16:09:01.455437+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "898a59a219455d6e039b2479fe5788ab202c89b4d02d112d8da861c830cd583d",
+          "bytes": 57418,
+          "textLength": 1092,
+          "receiptSha256": "1067ba955a895d839dff1fc2b43059254a97430692e48b1ebe0d76fd58063893"
+        }
+      ],
+      "exactIban": "SK2083300000002903426140",
+      "exactUrl": "https://ib.fio.sk/ib/transparent?a=2903426140",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Nitra",
+          "sourceIds": [
+            "nsk-varga-home-2026",
+            "nsk-chair-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "predseda Nitrianskeho samosprávneho kraja 2026",
+          "sourceIds": [
+            "nsk-varga-home-2026",
+            "nsk-chair-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-nsk-henrich-varga",
+          "url": "https://ib.fio.sk/ib/transparent?a=2903426140",
+          "checkedAt": "2026-10-15T16:03:55.103651+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "5ac4a15dead5bac2b7083a6fad69994e491cc49f20c3ef14cf5a8c6d1c9d87da",
+          "bytes": 26904,
+          "textLength": 4411,
+          "receiptSha256": "340f6c2fe1039328704e1881e1e7602f20f1af004ac8019486fbb08fdc9c8213"
+        },
+        "mode": "readable_owner",
+        "iban": "SK2083300000002903426140"
+      }
+    },
+    {
+      "candidateId": "bbsk-matus-molitoris",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "bb-molitoris-site"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "bb-molitoris-site",
+          "url": "https://www.molitoris.sk/",
+          "checkedAt": "2026-10-15T16:02:25.357800+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "f73abf758dcf410e0a052dbfddcedb606a8fdb4584dc8ddd645af4a0ee8798f2",
+          "bytes": 44580,
+          "textLength": 11826,
+          "receiptSha256": "044786ed1a8fc463506bb178e336b86d8c353b05af9b4d8ae92616a712e74b43"
+        }
+      ],
+      "exactIban": "SK6183300000002503499252",
+      "exactUrl": "https://ib.fio.sk/ib/transparent?a=2503499252",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica",
+          "sourceIds": [
+            "bb-molitoris-site",
+            "bb-roster-mayor-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "Nezávislý kandidát na primátora mesta v roku 2026",
+          "sourceIds": [
+            "bb-molitoris-site",
+            "bb-roster-mayor-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-bbsk-matus-molitoris",
+          "url": "https://ib.fio.sk/ib/transparent?a=2503499252",
+          "checkedAt": "2026-10-15T16:03:55.117660+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "7985a7ce321b9207d25c170aa39a3a826f58f0dfa75f82c6ce23df53724fdfbc",
+          "bytes": 20060,
+          "textLength": 2231,
+          "receiptSha256": "b8bc38045a21392281548986d8bf2c4a82837965f657610cfe1d3252337cea0b"
+        },
+        "mode": "readable_owner",
+        "iban": "SK6183300000002503499252"
+      }
+    },
+    {
+      "candidateId": "bbsk-jan-nosko",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "bb-nosko-campaign-site"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "bb-nosko-campaign-site",
+          "url": "https://www.jannosko.sk/",
+          "checkedAt": "2026-10-15T16:02:25.449303+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "50bde18987ca85e094224406dd219eb9ecadae4b26bf4b23585e6242a2b9a298",
+          "bytes": 82721,
+          "textLength": 8285,
+          "receiptSha256": "278e4a0e01f2add52f9246a5639432eecb3b6c9be7f8a8eea03307f94ee80966"
+        }
+      ],
+      "exactIban": "SK5609000000005251324467",
+      "exactUrl": "https://www.transparentneucty.sk/#/ucet/SK5609000000005251324467",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica",
+          "sourceIds": [
+            "bb-nosko-campaign-site",
+            "bb-current-mayor"
+          ]
+        },
+        {
+          "attribute": "office",
+          "value": "Primátor mesta Banská Bystrica, kandidát vo voľbách 2026",
+          "sourceIds": [
+            "bb-nosko-campaign-site",
+            "bb-current-mayor",
+            "bb-roster-mayor-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-bbsk-jan-nosko",
+          "url": "https://www.transparentneucty.sk/#/ucet/SK5609000000005251324467",
+          "checkedAt": "2026-10-15T16:03:55.294674+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "abd91da767f59eabbf1bad2a20e69850d2a7c8cdf66b0df8cc75034f60262384",
+          "bytes": 1404,
+          "textLength": 19,
+          "receiptSha256": "1cc4729841db5f296cd68693444dff077e3c89a341a34e67f732e2ce97ec7648"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "bbsk-ondrej-lunter",
+      "verificationMethod": "candidate_site",
+      "siteSourceIds": [
+        "bb-closure-lunter-programme"
+      ],
+      "siteReadReceipts": [
+        {
+          "key": "bb-closure-lunter-programme",
+          "url": "https://ondrejlunter.sk/program/moderna-infrastruktura/",
+          "checkedAt": "2026-10-15T16:02:24.985617+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "680125749eb83ad83cbbe3b79014d58495b9d743f336fefe0d1ceb0da85324ad",
+          "bytes": 178061,
+          "textLength": 11252,
+          "receiptSha256": "d57e0a4dc7511cd09240c28cc511c146274f36a40e079b361c89594bf8f4a11d"
+        }
+      ],
+      "exactIban": "SK2309000000005247265417",
+      "exactUrl": "https://www.transparentneucty.sk/#/ucet/SK2309000000005247265417",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica",
+          "sourceIds": [
+            "bb-closure-lunter-programme",
+            "bbsk-roster-region-chair-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "Kandidát na predsedu BBSK2026",
+          "sourceIds": [
+            "bb-closure-lunter-programme",
+            "bbsk-roster-region-chair-2026"
+          ]
+        }
+      ],
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-bbsk-ondrej-lunter",
+          "url": "https://www.transparentneucty.sk/#/ucet/SK2309000000005247265417",
+          "checkedAt": "2026-10-15T16:03:55.192266+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "abd91da767f59eabbf1bad2a20e69850d2a7c8cdf66b0df8cc75034f60262384",
+          "bytes": 1404,
+          "textLength": 19,
+          "receiptSha256": "73fe73c63444abf5036296dfbc536558e5fada3ef88bd46b50303747d7e9c83b"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    }
+  ],
+  "registerExclusionVerifications": [
+    {
+      "candidateId": "bbsk-jaroslav-rusina",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "bbsk-jaroslav-rusina",
+            "name": "Jaroslav Rusina",
+            "municipality": "Medzibrod",
+            "ageAtElection": 46,
+            "sourceIds": [
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "bbsk-jaroslav-rusina",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26",
+          "four-city-recheck-bank-bbsk-jaroslav-rusina"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-chairs-2026",
+          "row": 41,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Jaroslav Rusina",
+          "municipality": "Medzibrod",
+          "ageAtElection": 46,
+          "occupationOfficial": "servisný špecialista",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 1413,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Jaroslav Rusina",
+          "municipality": "Medzibrod",
+          "ageAtElection": 46,
+          "occupationOfficial": "servisný špecialista",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26",
+          "four-city-recheck-bank-bbsk-jaroslav-rusina"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts. Odkaz aj presné meno sú zároveň v oficiálnom indexe osobitných platobných účtov kandidátov MV SR.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/154",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 168,
+            "personName": "Jaroslav Rusina",
+            "municipalityOrRegion": "BBSK",
+            "regionCode": "BB",
+            "isRegionalFunction": true,
+            "account": "https://ib.fio.sk/ib/transparent?a=2103520286"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "ministryExactNamedLink": [
+          {
+            "name": "Jaroslav Rusina",
+            "normalizedName": "jaroslav rusina",
+            "urls": [
+              "https://ib.fio.sk/ib/transparent?a=2103520286"
+            ]
+          }
+        ],
+        "basis": "MV SR 2026 exact named campaign-account link and TIS 2026 personal account field plus four-register uniqueness; bank readable_owner."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-bbsk-jaroslav-rusina",
+          "url": "https://ib.fio.sk/ib/transparent?a=2103520286",
+          "checkedAt": "2026-10-15T16:03:55.200369+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "c8c94eada6be8e62891b47c658e3ce00c8b1c5ebd30611cff48d14733194c68c",
+          "bytes": 13526,
+          "textLength": 525,
+          "receiptSha256": "a10f7600c38430538a003ba9fb81ae4023572d91aa2a1c3927e9fdb50640eb94"
+        },
+        "mode": "readable_owner",
+        "iban": "SK9683300000002103520286"
+      }
+    },
+    {
+      "candidateId": "bbsk-ondrej-veres",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "bbsk-ondrej-veres",
+            "name": "Ondrej Vereš",
+            "municipality": "Banská Bystrica",
+            "ageAtElection": 51,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "bbsk-ondrej-veres",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26",
+          "four-city-recheck-bank-bbsk-ondrej-veres"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-mayors-2026",
+          "row": 2966,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Ondrej Vereš",
+          "municipality": "Banská Bystrica",
+          "ageAtElection": 51,
+          "occupationOfficial": "zoraďovač",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-councillors-2026",
+          "row": 19095,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Ondrej  Vereš",
+          "municipality": "Banská Bystrica",
+          "ageAtElection": 51,
+          "occupationOfficial": "zoraďovač",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 1422,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Ondrej Vereš",
+          "municipality": "Banská Bystrica",
+          "ageAtElection": 51,
+          "occupationOfficial": "zoraďovač",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26",
+          "four-city-recheck-bank-bbsk-ondrej-veres"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts. Odkaz aj presné meno sú zároveň v oficiálnom indexe osobitných platobných účtov kandidátov MV SR.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/263",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 284,
+            "personName": "Ondrej Vereš",
+            "municipalityOrRegion": "Banská Bystrica",
+            "regionCode": "BB",
+            "isRegionalFunction": false,
+            "account": "https://ib.fio.sk/ib/transparent?a=2903594064"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "ministryExactNamedLink": [
+          {
+            "name": "Ondrej Vereš",
+            "normalizedName": "ondrej veres",
+            "urls": [
+              "https://ib.fio.sk/ib/transparent?a=2903594064"
+            ]
+          }
+        ],
+        "basis": "MV SR 2026 exact named campaign-account link and TIS 2026 personal account field plus four-register uniqueness; bank readable_owner."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-bbsk-ondrej-veres",
+          "url": "https://ib.fio.sk/ib/transparent?a=2903594064",
+          "checkedAt": "2026-10-15T16:03:55.176836+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "f1e6eb8588b8f69cf7008d0d845fe659322cda289cc2f8b07f95eb9487fa9b94",
+          "bytes": 13522,
+          "textLength": 519,
+          "receiptSha256": "5f7eedf8ebc14e6ae32fbf500616ba8acc0426c36ef7b995300a991a8a0067ca"
+        },
+        "mode": "readable_owner",
+        "iban": "SK4683300000002903594064"
+      }
+    },
+    {
+      "candidateId": "bbsk-roman-malatinec",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "bbsk-roman-malatinec",
+            "name": "Roman Malatinec",
+            "municipality": "Korytárky",
+            "ageAtElection": 45,
+            "sourceIds": [
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "bbsk-roman-malatinec",
+        "accountSourceIds": [
+          "tis-election-s26"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-chairs-2026",
+          "row": 39,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Roman Malatinec",
+          "municipality": "Korytárky",
+          "ageAtElection": 45,
+          "occupationOfficial": "poslanec národnej rady",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 1465,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Roman Malatinec",
+          "municipality": "Korytárky",
+          "ageAtElection": 45,
+          "occupationOfficial": "poslanec národnej rady",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "tis-election-s26"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/16",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 20,
+            "personName": "Roman Malatinec",
+            "municipalityOrRegion": "BBSK",
+            "regionCode": "BB",
+            "isRegionalFunction": true,
+            "account": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000007246317253"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "basis": "TIS 2026 personal account field plus four-register uniqueness; bank javascript_shell. The ministry candidate-account index does not list this name."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "tis-bank-bbsk-roman-malatinec",
+          "url": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000007246317253",
+          "checkedAt": "2026-10-15T16:12:18.769958+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "d96804fea725ac44409cde626ff578d9177cb983e5cd459b212cd6852acd8950",
+          "bytes": 22563,
+          "textLength": 1,
+          "receiptSha256": "976676d942cedc7a8cb0bccb396036c4881d30ac25ecabcf650b282eeb6eb9a6"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "bbsk-tomas-sobota",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "bbsk-tomas-sobota",
+            "name": "Tomáš Sobota",
+            "municipality": "Banská Bystrica",
+            "ageAtElection": 52,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "bbsk-tomas-sobota",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-mayors-2026",
+          "row": 2965,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Tomáš Sobota",
+          "municipality": "Banská Bystrica",
+          "ageAtElection": 52,
+          "occupationOfficial": "architekt - urbanista",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-councillors-2026",
+          "row": 19087,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Tomáš Sobota",
+          "municipality": "Banská Bystrica",
+          "ageAtElection": 52,
+          "occupationOfficial": "architekt-urbanista",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 1415,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Tomáš Sobota",
+          "municipality": "Banská Bystrica",
+          "ageAtElection": 52,
+          "occupationOfficial": "architekt-urbanista",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts. Odkaz aj presné meno sú zároveň v oficiálnom indexe osobitných platobných účtov kandidátov MV SR.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/84",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 95,
+            "personName": "Tomáš Sobota",
+            "municipalityOrRegion": "Banská Bystrica",
+            "regionCode": "BB",
+            "isRegionalFunction": false,
+            "account": "https://moja.csob.sk/transparent-accounts/98b324eb1750b68eb120abdeb62a46565fd69b2897e812aff3d4883644c091ac"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "ministryExactNamedLink": [
+          {
+            "name": "Ing. arch. Tomáš Sobota",
+            "normalizedName": "tomas sobota",
+            "urls": [
+              "https://moja.csob.sk/transparent-accounts/98b324eb1750b68eb120abdeb62a46565fd69b2897e812aff3d4883644c091ac"
+            ]
+          }
+        ],
+        "basis": "MV SR 2026 exact named campaign-account link and TIS 2026 personal account field plus four-register uniqueness; bank javascript_shell."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-bbsk-tomas-sobota",
+          "url": "https://moja.csob.sk/transparent-accounts/98b324eb1750b68eb120abdeb62a46565fd69b2897e812aff3d4883644c091ac",
+          "checkedAt": "2026-10-15T16:03:55.157377+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "3ec6237399ff6dff42582dda0868a874eb90c6ef95bf41bb5a01525dc327a743",
+          "bytes": 16150,
+          "textLength": 21,
+          "receiptSha256": "69ad501f85ec4aa8240bdc1166bada0c949ba2d5302034354078522dbbea6b44"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "nsk-branislav-becik",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "nsk-branislav-becik",
+            "name": "Branislav Becík",
+            "municipality": "Dvory nad Žitavou",
+            "ageAtElection": 48,
+            "sourceIds": [
+              "finance-national-chairs-2026"
+            ],
+            "decision": "retained",
+            "reason": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "nsk-branislav-becik",
+        "accountSourceIds": [
+          "tis-election-s26",
+          "four-city-recheck-bank-nsk-branislav-becik"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-chairs-2026",
+          "row": 22,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Branislav Becík",
+          "municipality": "Dvory nad Žitavou",
+          "ageAtElection": 48,
+          "occupationOfficial": "predseda samosprávneho kraja",
+          "decision": "retained_single_record",
+          "mergeEvidence": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "tis-election-s26",
+          "four-city-recheck-bank-nsk-branislav-becik"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/69",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 79,
+            "personName": "Branislav Becík",
+            "municipalityOrRegion": "NSK",
+            "regionCode": "NR",
+            "isRegionalFunction": true,
+            "account": "https://ib.fio.sk/ib/transparent?a=2303560514"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "basis": "TIS 2026 personal account field plus four-register uniqueness; bank readable_owner. The ministry candidate-account index does not list this name.",
+        "minimalBankPurposePassage": {
+          "sourceId": "four-city-recheck-bank-nsk-branislav-becik",
+          "receipt": {
+            "key": "discovery-5a8f10f9b040c5fa5c",
+            "url": "https://ib.fio.sk/ib/transparent?a=2303560514",
+            "checkedAt": "2026-10-15T16:08:59.657029+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "75f52eb08bbd694d36c7302cb661efef47a2286451ec8ae16383900b6028b949",
+            "bytes": 20023,
+            "textLength": 2989,
+            "receiptSha256": "8fc5fa7cf5a3958f54576bbde37b6c3bf6559d026158a13e1db16ab2bf596292"
+          },
+          "exactLabel": "Fin vypomoc komunalne volby 2026",
+          "extractedTextStart": 2894,
+          "extractedTextEnd": 2926,
+          "extractedTextSha256": "78b153eb0e9058f6def241761dba3f9a83fb6825b38d1662e57116eb32243bf4",
+          "privateTransactionDetailsOmitted": true
+        }
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "discovery-5a8f10f9b040c5fa5c",
+          "url": "https://ib.fio.sk/ib/transparent?a=2303560514",
+          "checkedAt": "2026-10-15T16:08:59.657029+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "75f52eb08bbd694d36c7302cb661efef47a2286451ec8ae16383900b6028b949",
+          "bytes": 20023,
+          "textLength": 2989,
+          "receiptSha256": "8fc5fa7cf5a3958f54576bbde37b6c3bf6559d026158a13e1db16ab2bf596292"
+        },
+        "mode": "readable_owner",
+        "iban": "SK4083300000002303560514"
+      }
+    },
+    {
+      "candidateId": "nsk-erik-blasko",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "nsk-erik-blasko",
+            "name": "Erik Blaško",
+            "municipality": "Nitra",
+            "ageAtElection": 53,
+            "sourceIds": [
+              "finance-national-chairs-2026"
+            ],
+            "decision": "retained",
+            "reason": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "nsk-erik-blasko",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-chairs-2026",
+          "row": 23,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Erik Blaško",
+          "municipality": "Nitra",
+          "ageAtElection": 53,
+          "occupationOfficial": "vodič",
+          "decision": "retained_single_record",
+          "mergeEvidence": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts. Odkaz aj presné meno sú zároveň v oficiálnom indexe osobitných platobných účtov kandidátov MV SR.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/227",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 247,
+            "personName": "Erik Blaško",
+            "municipalityOrRegion": "NSK",
+            "regionCode": "NR",
+            "isRegionalFunction": true,
+            "account": "https://moja.csob.sk/transparent-accounts/8ade1dc3ec2ea9278447f973592eee0b4ae08b7b7d56fc057f5e971b92fa373d"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "ministryExactNamedLink": [
+          {
+            "name": "Erik Blaško",
+            "normalizedName": "erik blasko",
+            "urls": [
+              "https://moja.csob.sk/transparent-accounts/8ade1dc3ec2ea9278447f973592eee0b4ae08b7b7d56fc057f5e971b92fa373d"
+            ]
+          }
+        ],
+        "basis": "MV SR 2026 exact named campaign-account link and TIS 2026 personal account field plus four-register uniqueness; bank javascript_shell."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-nsk-erik-blasko",
+          "url": "https://moja.csob.sk/transparent-accounts/8ade1dc3ec2ea9278447f973592eee0b4ae08b7b7d56fc057f5e971b92fa373d",
+          "checkedAt": "2026-10-15T16:03:55.076277+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "3ec6237399ff6dff42582dda0868a874eb90c6ef95bf41bb5a01525dc327a743",
+          "bytes": 16150,
+          "textLength": 21,
+          "receiptSha256": "156ed586ed3b99f3bad22221ab70b60b5fa26f138f87cdc2f45b4a1c6658801e"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "nsk-jolana-culakova",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "nsk-jolana-culakova",
+            "name": "Jolana Čuláková",
+            "municipality": "Výčapy - Opatovce",
+            "ageAtElection": 59,
+            "sourceIds": [
+              "finance-national-councillors-2026",
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "nsk-jolana-culakova",
+        "accountSourceIds": [
+          "tis-election-s26"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-councillors-2026",
+          "row": 12119,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Jolana Čuláková",
+          "municipality": "Výčapy - Opatovce",
+          "ageAtElection": 59,
+          "occupationOfficial": "redaktorka",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-chairs-2026",
+          "row": 25,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Jolana Čuláková",
+          "municipality": "Výčapy - Opatovce",
+          "ageAtElection": 59,
+          "occupationOfficial": "redaktorka",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 846,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Jolana Čuláková",
+          "municipality": "Výčapy - Opatovce",
+          "ageAtElection": 59,
+          "occupationOfficial": "redaktorka",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "tis-election-s26"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/229",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 249,
+            "personName": "Jolana Čuláková",
+            "municipalityOrRegion": "NSK",
+            "regionCode": "NR",
+            "isRegionalFunction": true,
+            "account": "https://www.transparentneucty.sk/#/ucet/SK0909000000005254061877"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "basis": "TIS 2026 personal account field plus four-register uniqueness; bank javascript_shell. The ministry candidate-account index does not list this name."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "tis-bank-nsk-jolana-culakova",
+          "url": "https://www.transparentneucty.sk/#/ucet/SK0909000000005254061877",
+          "checkedAt": "2026-10-15T16:12:18.766541+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "abd91da767f59eabbf1bad2a20e69850d2a7c8cdf66b0df8cc75034f60262384",
+          "bytes": 1404,
+          "textLength": 19,
+          "receiptSha256": "a8fb2d57d480489b9e51205e32c49fc8d0915adeb397f79e03ffe8decd05bfe1"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "nsk-marek-hattas",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "nsk-marek-hattas",
+            "name": "Marek Hattas",
+            "municipality": "Nitra",
+            "ageAtElection": 39,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "nsk-marek-hattas",
+        "accountSourceIds": [
+          "tis-election-s26",
+          "four-city-recheck-bank-nsk-marek-hattas"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-mayors-2026",
+          "row": 1790,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Marek Hattas",
+          "municipality": "Nitra",
+          "ageAtElection": 39,
+          "occupationOfficial": "primátor",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 860,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Marek Hattas",
+          "municipality": "Nitra",
+          "ageAtElection": 39,
+          "occupationOfficial": "primátor",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "tis-election-s26",
+          "four-city-recheck-bank-nsk-marek-hattas"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/23",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 27,
+            "personName": "Marek Hattas",
+            "municipalityOrRegion": "Nitra",
+            "regionCode": "NR",
+            "isRegionalFunction": false,
+            "account": "https://ib.fio.sk/ib/transparent?a=2201440255"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "basis": "TIS 2026 personal account field plus four-register uniqueness; bank readable_owner. The ministry candidate-account index does not list this name."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "tis-bank-nsk-marek-hattas",
+          "url": "https://ib.fio.sk/ib/transparent?a=2201440255",
+          "checkedAt": "2026-10-15T16:12:18.768427+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "65dbad6e150b5e71528cfe4b8783bdca16fa18cb914b176dd45ce054ff2e676d",
+          "bytes": 13522,
+          "textLength": 523,
+          "receiptSha256": "b479d9fd929d77b221042c47ddb7c9a5fdef51d7df6ac829fb3680342b1cb3d6"
+        },
+        "mode": "readable_owner",
+        "iban": "SK1483300000002201440255"
+      }
+    },
+    {
+      "candidateId": "nsk-viktor-nemeth",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "nsk-viktor-nemeth",
+            "name": "Viktor Németh",
+            "municipality": "Vráble",
+            "ageAtElection": 33,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "nsk-viktor-nemeth",
+        "accountSourceIds": [
+          "four-city-recheck-bank-nsk-viktor-nemeth"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-mayors-2026",
+          "row": 1838,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Viktor Németh",
+          "municipality": "Vráble",
+          "ageAtElection": 33,
+          "occupationOfficial": "primátor mesta",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-councillors-2026",
+          "row": 12086,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Viktor Németh",
+          "municipality": "Vráble",
+          "ageAtElection": 33,
+          "occupationOfficial": "primátor mesta",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 883,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Viktor Németh",
+          "municipality": "Vráble",
+          "ageAtElection": 33,
+          "occupationOfficial": "primátor mesta",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "explicit_bank_election_label",
+        "sourceIds": [
+          "four-city-recheck-bank-nsk-viktor-nemeth"
+        ],
+        "electionLabel": "Volby Vrable 2026",
+        "note": "Čitateľný originál banky označuje platbu ako voľby vo Vrábľoch 2026; bez publikovania sumy, transakčných strán alebo ostatných platieb. Nevyvodzuje sa z toho vlastný výdavok ani prevádzkovateľ kampane.",
+        "minimalBankPurposePassage": {
+          "sourceId": "four-city-recheck-bank-nsk-viktor-nemeth",
+          "receipt": {
+            "key": "followup-2ed49845df302d37bd",
+            "url": "https://ib.fio.sk/ib/transparent?a=2002281255",
+            "checkedAt": "2026-10-15T16:10:23.456578+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "8bc7922a6664ba9b4a98483ba2b8eb2112146adcb710d95ff947a4aee682f937",
+            "bytes": 15727,
+            "textLength": 915,
+            "receiptSha256": "20c895e6261f5b0522bd820be64534af006121e624fdf716b0272138d639657f"
+          },
+          "exactLabel": "Volby Vrable 2026",
+          "extractedTextStart": 644,
+          "extractedTextEnd": 661,
+          "extractedTextSha256": "e423d167f42a5d911f3dc47716fd59531bcf5ecd1f2cd3b4f539a0146aebfda2",
+          "privateTransactionDetailsOmitted": true
+        }
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "followup-2ed49845df302d37bd",
+          "url": "https://ib.fio.sk/ib/transparent?a=2002281255",
+          "checkedAt": "2026-10-15T16:10:23.456578+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "8bc7922a6664ba9b4a98483ba2b8eb2112146adcb710d95ff947a4aee682f937",
+          "bytes": 15727,
+          "textLength": 915,
+          "receiptSha256": "20c895e6261f5b0522bd820be64534af006121e624fdf716b0272138d639657f"
+        },
+        "mode": "readable_owner",
+        "iban": "SK4483300000002002281255"
+      }
+    },
+    {
+      "candidateId": "tsk-michal-bratranec",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "tsk-michal-bratranec",
+            "name": "Michal Bratranec",
+            "municipality": "Trenčín",
+            "ageAtElection": 51,
+            "sourceIds": [
+              "finance-national-mayors-2026"
+            ],
+            "decision": "retained",
+            "reason": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "tsk-michal-bratranec",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-mayors-2026",
+          "row": 1402,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Michal Bratranec",
+          "municipality": "Trenčín",
+          "ageAtElection": 51,
+          "occupationOfficial": "šofér",
+          "decision": "retained_single_record",
+          "mergeEvidence": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts. Odkaz aj presné meno sú zároveň v oficiálnom indexe osobitných platobných účtov kandidátov MV SR.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/255",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 276,
+            "personName": "Michal Bratranec",
+            "municipalityOrRegion": "Trenčín",
+            "regionCode": "TN",
+            "isRegionalFunction": false,
+            "account": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1311000000002971142668"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "ministryExactNamedLink": [
+          {
+            "name": "Michal Bratranec",
+            "normalizedName": "michal bratranec",
+            "urls": [
+              "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1311000000002971142668"
+            ]
+          }
+        ],
+        "basis": "MV SR 2026 exact named campaign-account link and TIS 2026 personal account field plus four-register uniqueness; bank unavailable."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-tsk-michal-bratranec",
+          "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1311000000002971142668",
+          "checkedAt": "2026-10-15T16:03:55.021471+00:00",
+          "access": "unavailable",
+          "status": 403,
+          "sha256": "93eeb89367e0ec6b3c1b1f650cf57ee6c507bd6b42ed37ddf6ec74d5183c7c6d",
+          "bytes": 5837,
+          "receiptSha256": "975362b0ef61988aa7fe67004febb6403bc49331125b650df1317e1d7a457a4d"
+        },
+        "mode": "unavailable",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "tsk-natalia-svitkova",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "tsk-natalia-svitkova",
+            "name": "Natália Svítková",
+            "municipality": "Prievidza",
+            "ageAtElection": 39,
+            "sourceIds": [
+              "finance-national-councillors-2026",
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "tsk-natalia-svitkova",
+        "accountSourceIds": [
+          "tis-election-s26"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-councillors-2026",
+          "row": 8608,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Natália Svítková",
+          "municipality": "Prievidza",
+          "ageAtElection": 39,
+          "occupationOfficial": "predsedníčka gymnastického klubu, poslankyňa mestského zastupiteľstva",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-chairs-2026",
+          "row": 21,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Natália Svítková",
+          "municipality": "Prievidza",
+          "ageAtElection": 39,
+          "occupationOfficial": "manažérka partnerských vzťahov a spoluprác",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 646,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Natália Svítková",
+          "municipality": "Prievidza",
+          "ageAtElection": 39,
+          "occupationOfficial": "manažérka partnerských vzťahov a spoluprác",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "tis-election-s26"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/27",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 31,
+            "personName": "Natália Svítková",
+            "municipalityOrRegion": "TSK",
+            "regionCode": "TN",
+            "isRegionalFunction": true,
+            "account": "https://moja.csob.sk/transparent-accounts/edde427a4974b76e9a9c43fb2f23434bea8c796b02dc283df109d3b719abf3c5"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "basis": "TIS 2026 personal account field plus four-register uniqueness; bank javascript_shell. The ministry candidate-account index does not list this name."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "tis-bank-tsk-natalia-svitkova",
+          "url": "https://moja.csob.sk/transparent-accounts/edde427a4974b76e9a9c43fb2f23434bea8c796b02dc283df109d3b719abf3c5",
+          "checkedAt": "2026-10-15T16:12:18.639486+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "3ec6237399ff6dff42582dda0868a874eb90c6ef95bf41bb5a01525dc327a743",
+          "bytes": 16150,
+          "textLength": 21,
+          "receiptSha256": "56f0c5f6755cf68b9640ca5b0d1284bc21dcaec62794e2913a636125b60b54e2"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "ttsk-branislav-baros",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-branislav-baros",
+            "name": "Branislav Baroš",
+            "municipality": "Trnava",
+            "ageAtElection": 53,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-branislav-baros",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26",
+          "four-city-recheck-bank-ttsk-branislav-baros"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-mayors-2026",
+          "row": 817,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Branislav Baroš",
+          "municipality": "Trnava",
+          "ageAtElection": 53,
+          "occupationOfficial": "riaditeľ strojárskej spoločnosti",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 446,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Branislav Baroš",
+          "municipality": "Trnava",
+          "ageAtElection": 53,
+          "occupationOfficial": "riaditeľ strojárenskej spoločnosti",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26",
+          "four-city-recheck-bank-ttsk-branislav-baros"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts. Odkaz aj presné meno sú zároveň v oficiálnom indexe osobitných platobných účtov kandidátov MV SR.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/21",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 25,
+            "personName": "Branislav Baroš",
+            "municipalityOrRegion": "Trnava",
+            "regionCode": "TT",
+            "isRegionalFunction": false,
+            "account": "https://ib.fio.sk/ib/transparent?a=2003423219"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "ministryExactNamedLink": [
+          {
+            "name": "Ing. Branislav Baroš",
+            "normalizedName": "branislav baros",
+            "urls": [
+              "https://ib.fio.sk/ib/transparent?a=2003423219"
+            ]
+          }
+        ],
+        "basis": "MV SR 2026 exact named campaign-account link and TIS 2026 personal account field plus four-register uniqueness; bank readable_owner."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-ttsk-branislav-baros",
+          "url": "https://ib.fio.sk/ib/transparent?a=2003423219",
+          "checkedAt": "2026-10-15T16:03:54.920633+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "56ddcc118946a339e9cfdff21bf5c4cfb94911192ae5dfa6ec82df824834108a",
+          "bytes": 21964,
+          "textLength": 3051,
+          "receiptSha256": "4ea3356309d23244148e3e401681432b97cbbbf8a6616b4c8848ef1a5d59ce5f"
+        },
+        "mode": "readable_owner",
+        "iban": "SK1883300000002003423219"
+      }
+    },
+    {
+      "candidateId": "ttsk-jozef-obselka",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-jozef-obselka",
+            "name": "Jozef Obselka",
+            "municipality": "Trnava",
+            "ageAtElection": 48,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-jozef-obselka",
+        "accountSourceIds": [
+          "tis-election-s26",
+          "four-city-recheck-bank-ttsk-jozef-obselka"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-mayors-2026",
+          "row": 821,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Jozef Obselka",
+          "municipality": "Trnava",
+          "ageAtElection": 48,
+          "occupationOfficial": "vedúci spoločnosti",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-councillors-2026",
+          "row": 5794,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Jozef Obselka",
+          "municipality": "Trnava",
+          "ageAtElection": 48,
+          "occupationOfficial": "vedúci spoločnosti",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "tis-election-s26",
+          "four-city-recheck-bank-ttsk-jozef-obselka"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/252",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 273,
+            "personName": "Jozef Obselka",
+            "municipalityOrRegion": "Trnava",
+            "regionCode": "TT",
+            "isRegionalFunction": false,
+            "account": "https://ib.fio.sk/ib/transparent?a=2703569040"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "basis": "TIS 2026 personal account field plus four-register uniqueness; bank readable_owner. The ministry candidate-account index does not list this name."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "discovery-5d2e0359c46da2f749",
+          "url": "https://ib.fio.sk/ib/transparent?a=2703569040",
+          "checkedAt": "2026-10-15T16:08:53.333775+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "bd1e533ea240385f2c2944e9f3a5cc7e8eab46afb4a6e11c7efcc437af1f7877",
+          "bytes": 21793,
+          "textLength": 3488,
+          "receiptSha256": "d7789fa25f437938fcd79afef277852f94090db0be6b253ef725c78cff83b02c"
+        },
+        "mode": "readable_owner",
+        "iban": "SK9883300000002703569040"
+      }
+    },
+    {
+      "candidateId": "ttsk-jozef-viskupic",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-jozef-viskupic",
+            "name": "Jozef Viskupič",
+            "municipality": "Trnava",
+            "ageAtElection": 50,
+            "sourceIds": [
+              "finance-national-chairs-2026"
+            ],
+            "decision": "retained",
+            "reason": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-jozef-viskupic",
+        "accountSourceIds": [
+          "tis-election-s26"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-chairs-2026",
+          "row": 17,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Jozef Viskupič",
+          "municipality": "Trnava",
+          "ageAtElection": 50,
+          "occupationOfficial": "predseda samosprávneho kraja",
+          "decision": "retained_single_record",
+          "mergeEvidence": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "tis-election-s26"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/34",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 38,
+            "personName": "Jozef Viskupič",
+            "municipalityOrRegion": "TTSK",
+            "regionCode": "TT",
+            "isRegionalFunction": true,
+            "account": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6511000000002975088953"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "basis": "TIS 2026 personal account field plus four-register uniqueness; bank unavailable. The ministry candidate-account index does not list this name."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "tis-bank-ttsk-jozef-viskupic",
+          "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6511000000002975088953",
+          "checkedAt": "2026-10-15T16:12:18.638026+00:00",
+          "access": "unavailable",
+          "status": 403,
+          "sha256": "808dfe2614df4df48af577adcb6b029c0030a6808173e99a1229bcb5660b232a",
+          "bytes": 5837,
+          "receiptSha256": "e8aa488d3de47e6308e1c90db52527133c810d157065389f235aaa39356cd3e7"
+        },
+        "mode": "unavailable",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "ttsk-peter-hambalek",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-peter-hambalek",
+            "name": "Peter Hambálek",
+            "municipality": "Trnava",
+            "ageAtElection": 44,
+            "sourceIds": [
+              "finance-national-councillors-2026",
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-peter-hambalek",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-councillors-2026",
+          "row": 5836,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Peter Hambálek",
+          "municipality": "Trnava",
+          "ageAtElection": 44,
+          "occupationOfficial": "generálny štátny radca",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-chairs-2026",
+          "row": 14,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Peter Hambálek",
+          "municipality": "Trnava",
+          "ageAtElection": 44,
+          "occupationOfficial": "generálny štátny radca",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 463,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Peter Hambálek",
+          "municipality": "Trnava",
+          "ageAtElection": 44,
+          "occupationOfficial": "generálny štátny radca",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts. Odkaz aj presné meno sú zároveň v oficiálnom indexe osobitných platobných účtov kandidátov MV SR.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/134",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 146,
+            "personName": "Peter Hambálek",
+            "municipalityOrRegion": "TTSK",
+            "regionCode": "TT",
+            "isRegionalFunction": true,
+            "account": "https://www.transparentneucty.sk/#/ucet/SK7009000000005249684527"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "ministryExactNamedLink": [
+          {
+            "name": "Ing. Peter Hambálek",
+            "normalizedName": "peter hambalek",
+            "urls": [
+              "https://www.transparentneucty.sk/#/ucet/SK7009000000005249684527"
+            ]
+          }
+        ],
+        "basis": "MV SR 2026 exact named campaign-account link and TIS 2026 personal account field plus four-register uniqueness; bank javascript_shell."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-ttsk-peter-hambalek",
+          "url": "https://www.transparentneucty.sk/#/ucet/SK7009000000005249684527",
+          "checkedAt": "2026-10-15T16:03:54.829089+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "abd91da767f59eabbf1bad2a20e69850d2a7c8cdf66b0df8cc75034f60262384",
+          "bytes": 1404,
+          "textLength": 19,
+          "receiptSha256": "b2e535a4ff1424df9f0e162f65d62b1ba453b99a230eab709c9b4dc429ef9c2f"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "ttsk-robert-dohal",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-robert-dohal",
+            "name": "Róbert Dohál",
+            "municipality": "Krakovany",
+            "ageAtElection": 64,
+            "sourceIds": [
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-robert-dohal",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-chairs-2026",
+          "row": 13,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Róbert Dohál",
+          "municipality": "Krakovany",
+          "ageAtElection": 64,
+          "occupationOfficial": "poľnohospodársky inžinier",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 378,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Róbert Dohál",
+          "municipality": "Krakovany",
+          "ageAtElection": 64,
+          "occupationOfficial": "poľnohospodársky inžinier",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts. Odkaz aj presné meno sú zároveň v oficiálnom indexe osobitných platobných účtov kandidátov MV SR.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/179",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 193,
+            "personName": "Róbert Dohál",
+            "municipalityOrRegion": "TTSK",
+            "regionCode": "TT",
+            "isRegionalFunction": true,
+            "account": "https://transparentneucty.sk/#/ucet/SK1109000000005250498158"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "ministryExactNamedLink": [
+          {
+            "name": "Ing. Róbert Dohál",
+            "normalizedName": "robert dohal",
+            "urls": [
+              "https://transparentneucty.sk/#/ucet/SK1109000000005250498158"
+            ]
+          }
+        ],
+        "basis": "MV SR 2026 exact named campaign-account link and TIS 2026 personal account field plus four-register uniqueness; bank javascript_shell."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-ttsk-robert-dohal",
+          "url": "https://transparentneucty.sk/#/ucet/SK1109000000005250498158",
+          "checkedAt": "2026-10-15T16:03:54.828218+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "abd91da767f59eabbf1bad2a20e69850d2a7c8cdf66b0df8cc75034f60262384",
+          "bytes": 1404,
+          "textLength": 19,
+          "receiptSha256": "706b6059a26a6cda3f6d30c61171e721ffe1a07075b45316d7f5b27b43a0cb47"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    },
+    {
+      "candidateId": "ttsk-stefan-pollak",
+      "dossier": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-stefan-pollak",
+            "name": "Štefan Pollák",
+            "municipality": "Veľké Blahovo",
+            "ageAtElection": 43,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026",
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-stefan-pollak",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      },
+      "registerRows": [
+        {
+          "sourceId": "finance-national-mayors-2026",
+          "row": 350,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Štefan Pollák",
+          "municipality": "Veľké Blahovo",
+          "ageAtElection": 43,
+          "occupationOfficial": "účtovník",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-councillors-2026",
+          "row": 2963,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Štefan Pollák",
+          "municipality": "Veľké Blahovo",
+          "ageAtElection": 43,
+          "occupationOfficial": "účtovník",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-chairs-2026",
+          "row": 16,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Štefan Pollák",
+          "municipality": "Veľké Blahovo",
+          "ageAtElection": 43,
+          "occupationOfficial": "účtovník",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        },
+        {
+          "sourceId": "finance-national-regional-councillors-2026",
+          "row": 304,
+          "sheet": "xl/worksheets/sheet1.xml",
+          "name": "Štefan Pollák",
+          "municipality": "Veľké Blahovo",
+          "ageAtElection": 43,
+          "occupationOfficial": "účtovník",
+          "decision": "merged_same_person",
+          "mergeEvidence": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj."
+        }
+      ],
+      "campaignPurpose": {
+        "kind": "current_campaign_account_index",
+        "sourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ],
+        "note": "Čerstvo otvorený dataset TIS je výslovne pre voľby 24. októbra 2026; presný odkaz je v osobnom poli account pri mene a príslušnej obci/kraji, oddelene od partyAccounts. Odkaz aj presné meno sú zároveň v oficiálnom indexe osobitných platobných účtov kandidátov MV SR.",
+        "readablePurposeBridge": {
+          "sourceId": "tis-election-s26",
+          "receipt": {
+            "key": "tis-election-s26",
+            "url": "https://tiacms.transparency.sk/elections/election/s-26",
+            "checkedAt": "2026-10-15T16:10:23.465678+00:00",
+            "access": "original_downloaded",
+            "status": 200,
+            "sha256": "504c6786b371cff75e42b73c0c1083ad49a68f8291be26b8c265a43bb69a0c2c",
+            "bytes": 324202,
+            "textLength": 324202,
+            "receiptSha256": "9d9479ba6ff03a78cef7fcd35e266257a36028a52949a50f09126435e1422c21"
+          },
+          "jsonPointer": "/candidates/224",
+          "exactFields": {
+            "election": {
+              "uid": 1,
+              "type": "s",
+              "year": 2026,
+              "date": "2026-10-24",
+              "dateSecondRound": null
+            },
+            "candidateUid": 244,
+            "personName": "Štefan Pollák",
+            "municipalityOrRegion": "TTSK",
+            "regionCode": "TT",
+            "isRegionalFunction": true,
+            "account": "https://moja.csob.sk/transparent-accounts/eeba407b93bd562e7697d22079dc57bc8d5bd12fdada6aabc6a521d3418860e1"
+          },
+          "partyAccountsNotUsedForPersonalAttribution": true
+        },
+        "ministryExactNamedLink": [
+          {
+            "name": "Mgr. Štefan Pollák",
+            "normalizedName": "stefan pollak",
+            "urls": [
+              "https://moja.csob.sk/transparent-accounts/eeba407b93bd562e7697d22079dc57bc8d5bd12fdada6aabc6a521d3418860e1"
+            ]
+          }
+        ],
+        "basis": "MV SR 2026 exact named campaign-account link and TIS 2026 personal account field plus four-register uniqueness; bank javascript_shell."
+      },
+      "bankAccess": {
+        "receipt": {
+          "key": "bank-ttsk-stefan-pollak",
+          "url": "https://moja.csob.sk/transparent-accounts/eeba407b93bd562e7697d22079dc57bc8d5bd12fdada6aabc6a521d3418860e1",
+          "checkedAt": "2026-10-15T16:03:54.841726+00:00",
+          "access": "original_downloaded",
+          "status": 200,
+          "sha256": "3ec6237399ff6dff42582dda0868a874eb90c6ef95bf41bb5a01525dc327a743",
+          "bytes": 16150,
+          "textLength": 21,
+          "receiptSha256": "508f6417e29002c4ccaf0c4dc81bfd7e1d470b9ce5c346698758687fd3059b5f"
+        },
+        "mode": "javascript_shell",
+        "iban": null
+      }
+    }
+  ],
+  "residualUncertainty": {
+    "unverifiedCandidateIds": [
+      "bbsk-diana-javorcikova"
+    ],
+    "sameNameBankAccountsWithoutCampaignPurpose": [
+      "bbsk-eva-hupkova",
+      "nsk-marek-fuska",
+      "nsk-stefan-korman",
+      "tsk-lubomir-bobak",
+      "tsk-peter-bohunicky",
+      "ttsk-jaroslav-cehlarik"
+    ],
+    "blockedOriginals": [
+      {
+        "key": "discovery-18d855b8c118296eda",
+        "url": "https://regiony.zoznam.sk/volby-2026-na-kampane-uz-isli-miliony-kto-mina-najviac-velky-prehlad-kandidatov-na-primatorov-a-zupanov/",
+        "checkedAt": "2026-10-15T16:08:51.732525+00:00",
+        "access": "unavailable",
+        "status": 403,
+        "sha256": "53a2316be817096c28997dc556cd0d597547bb82d4f471d4d97d65932c2a7dbd",
+        "bytes": 5922,
+        "receiptSha256": "02b5bc86ea810e9d19373269faf9f31769f0ed157f9976461b2efebfc5abe40e"
+      },
+      {
+        "key": "discovery-07e5929fee0e82882a",
+        "url": "https://dennikn.sk/3114609/majerskeho-mrzi-co-hovoril-o-financovani-kampane-kuseho-a-ziada-odchod-bratislavskeho-vedenia/",
+        "checkedAt": "2026-10-15T16:08:53.086377+00:00",
+        "access": "unavailable",
+        "status": 403,
+        "sha256": "2c81bedbd4f5d6e7e409eaa640b5eaf3a81805f7f66fdad55a5cc79c4d1d7db2",
+        "bytes": 5917,
+        "receiptSha256": "47ee6d65038acec56769ba2dbefdaf8aa9bad030ab75dd6672d2e4cddcbfcfe5"
+      },
+      {
+        "key": "discovery-3235afc8202b426bee",
+        "url": "https://www.micega.sk/data/micega.sk/documents/Zaznam-z-komisie-09-06-2015.pdf",
+        "checkedAt": "2026-10-15T16:08:53.923218+00:00",
+        "access": "unavailable",
+        "status": 404,
+        "sha256": "4e2f3baa34dd12592aae26867fef4550a0b6b14a7e399100760f8554d9a6c128",
+        "bytes": 4222,
+        "receiptSha256": "98ddb071fb097de038428704fbe794e5fb9f81d0fb4a77d15828d269958353df"
+      },
+      {
+        "key": "discovery-0d858b1b380ff20fcd",
+        "url": "https://dennikn.sk/blog/864681/stranicki-kandidati-ignoruju-zmysel-transparentnych-uctov/",
+        "checkedAt": "2026-10-15T16:08:58.316351+00:00",
+        "access": "unavailable",
+        "status": 403,
+        "sha256": "33c58c4249acf9d3a8ae60da40715be4ed19ba67b2989fd20d040ba8af6b4be4",
+        "bytes": 5778,
+        "receiptSha256": "dd06eaf7d86ca4aa806c54584021522c8d99039fbd2e0f0d46e842b9e3a447a6"
+      },
+      {
+        "key": "discovery-18108dc2f369d28849",
+        "url": "https://www.topky.sk/cl/1001009/1646959/Transparentny-ucet-oznamili-ministerstvu-zatial-deviati-kandidati-na-sefov-VUC",
+        "checkedAt": "2026-10-15T16:08:58.362827+00:00",
+        "access": "unavailable",
+        "status": 403,
+        "sha256": "4df1edb7b11189619e35a8a963921a1096fc7b8654b3a79d986e9ec4093d621d",
+        "bytes": 5874,
+        "receiptSha256": "3ddd549b9af620a0f28fe6f587ff14676182aa0a75834bd5c15bac29fbc99f40"
+      },
+      {
+        "key": "discovery-f60f09ff6823b648ad",
+        "url": "https://branislavbecik.sk/zasady-ochrany-osobnych-udajov/",
+        "checkedAt": "2026-10-15T16:09:00.181926+00:00",
+        "access": "unavailable",
+        "status": 404,
+        "sha256": "d696ea78cd275295d4b000e9306249d42293979e99882e2234df100dc98f7c9e",
+        "bytes": 9946,
+        "receiptSha256": "e1de7e21b60924a202faa7d0eece46741e45af58bfbbd96d624ef568d81abc9a"
+      },
+      {
+        "key": "discovery-6da692d2773aad198c",
+        "url": "https://www.malezaluzie.sk/storage/dokumenty/2022/kandidati-zastupitelstvo-nsk.pdf",
+        "checkedAt": "2026-10-15T16:09:03.375537+00:00",
+        "access": "unavailable",
+        "status": 404,
+        "sha256": "6948144272d7b4e3c1304df234ece6dbd9f43b4a5f9f1a327b68c50cbacbe08d",
+        "bytes": 13901,
+        "receiptSha256": "ae9e7ffc40de0ab5d8a7294aea3c0f33803d1ed6ff8cd055c34765b041f9d8d6"
+      },
+      {
+        "key": "discovery-ad2ec348169bdde824",
+        "url": "https://marekilles.sk/index.html",
+        "checkedAt": "2026-10-15T16:09:03.654560+00:00",
+        "access": "unavailable",
+        "status": 404,
+        "sha256": "66679851bfb0c3ec916bb05843731eeffc649d5d894e5f1cb3eef994278a50a2",
+        "bytes": 16949,
+        "receiptSha256": "979d7a6779be601bb77973fcea95671a0c4ba33d937e6a022f6e292180e5d2c8"
+      },
+      {
+        "key": "discovery-dba3c1da6dd3bdebca",
+        "url": "https://www.ondrejdurica.sk/",
+        "checkedAt": "2026-10-15T16:09:04.149925+00:00",
+        "access": "unavailable",
+        "status": 500,
+        "sha256": "ff161875117f304460c2f7b0cae1ce4c59e5a66caa8767db27cfd3c760c331ed",
+        "bytes": 5440,
+        "receiptSha256": "31a7092e81e5b480bb2a8a5e4a8b5bc383f04783436a4fff4609a7be77e73a8b"
+      },
+      {
+        "key": "discovery-8331b613af2b0dacb6",
+        "url": "https://parlamentnevolby.zoznam.sk/cl/slovenska-narodna-strana/",
+        "checkedAt": "2026-10-15T16:09:04.206019+00:00",
+        "access": "unavailable",
+        "status": 403,
+        "sha256": "c8cd88cb1aef60d12659c17aa619bc2e9b35006536dc0b872abd3f7b2d01f73c",
+        "bytes": 5639,
+        "receiptSha256": "95f0dcb40e80e2873258436dab03ed5433c8d2f81ed9cf21822e8aa5a20f9159"
+      },
+      {
+        "key": "discovery-01d360e271142d5100",
+        "url": "https://www.dianajavorcikova.sk/wp-content/uploads/2022/12/Diana_Javorcikova_Sprava_o_prostriedkoch_vynalozenych-na_volebnu_kampan.pdf",
+        "checkedAt": "2026-10-15T16:09:05.843301+00:00",
+        "access": "unavailable",
+        "status": 404,
+        "sha256": "931dd5a576f219d420e85667da82c4365526231d249a1502fc80dac07b7cb900",
+        "bytes": 49604,
+        "receiptSha256": "d92f42854805b97c8e3ceb6ad2663c9db4e5f87dea01bbe55a5651ae93c1fcdf"
+      },
+      {
+        "key": "discovery-7ad03dc9b0f25b3231",
+        "url": "https://dennikn.sk/401489/prvy-kotlebov-problem-so-zakonom-parlamente-ignoroval-transparentny-ucet/",
+        "checkedAt": "2026-10-15T16:09:06.399384+00:00",
+        "access": "unavailable",
+        "status": 403,
+        "sha256": "3ecb22f6a2f7d66b92a44a9696a479a55436a59f26a18762e34309e6a5075153",
+        "bytes": 5829,
+        "receiptSha256": "6214c42c8c9ec469917531e0865f57a7c13090a8653994f505f93d08fdf15132"
+      },
+      {
+        "key": "discovery-c3d87fdee956272fe3",
+        "url": "https://www.topky.sk/cl/10/2378861/Kotlebovci-vedu-kampan-velmi-podivne--Transparentny-ucet-a-giganticke-vybery--doba-kesu-neskoncila-",
+        "checkedAt": "2026-10-15T16:09:06.434535+00:00",
+        "access": "unavailable",
+        "status": 403,
+        "sha256": "b9b2472d41897f719ecaa554d411430ccb5cc3c8be65053b161d82da46dafdd0",
+        "bytes": 5944,
+        "receiptSha256": "a03938f175e3e873e63fd1aa864ae2e932d8ac37b297848dbd186d952690bd86"
+      },
+      {
+        "key": "discovery-af458963e0bb140fe4",
+        "url": "https://www.pokladnica.sk/sk/transparentne-ucty/detail?SK8581800000007000685849=",
+        "checkedAt": "2026-10-15T16:09:07.511944+00:00",
+        "access": "unavailable",
+        "status": 500,
+        "sha256": "cb1b5e8d76194e828f850db02bf1862c4da2714b103d62dc33f0a81f3d8bf2e4",
+        "bytes": 7099,
+        "receiptSha256": "2c87e4a7009510ea6e72bc9ed1e879cfe5d6860e1c5d1325c9a4d3ab30517007"
+      },
+      {
+        "key": "discovery-34f6c201e5680175ac",
+        "url": "https://pechovsky.sk/CV_pechovsky_europass.pdf",
+        "checkedAt": "2026-10-15T16:09:07.788509+00:00",
+        "access": "unavailable",
+        "status": 404,
+        "sha256": "047c713e5d6f0fa4d31482f9009dd64bfa832c25bb38fdfa2dc085936ee7c780",
+        "bytes": 3348,
+        "receiptSha256": "865144b1632e600689934cb12857cb18df82665e07d2f9601a6e39ca18146b21"
+      },
+      {
+        "key": "discovery-3c0fcd03196a75888b",
+        "url": "https://www.matejruttkay.sk/business-partners",
+        "checkedAt": "2026-10-15T16:09:08.856303+00:00",
+        "access": "unavailable",
+        "status": 404,
+        "sha256": "de53b83fb5343f9af2dab594752a7ca0acf141bf6c48e15d9000e8877cda6602",
+        "bytes": 79361,
+        "receiptSha256": "6ab369e89437ce474a86f3c2f15794495ce2f4706565ad047a20b008dc5bd497"
+      },
+      {
+        "key": "discovery-b37a75173712c6a683",
+        "url": "https://www.dianajavorcikova.sk/wp-content/uploads/2022/09/letak_Hanes.pdf",
+        "checkedAt": "2026-10-15T16:09:08.865927+00:00",
+        "access": "unavailable",
+        "status": 404,
+        "sha256": "789411da8cb04c3a0eeca6af2cb1aa0167ef86f66fc2e23527ce6cb485463264",
+        "bytes": 49544,
+        "receiptSha256": "d8fdb7a7321e262987b693b6e1900af4e247d296c94ac47ebda7f4f8021c2d52"
+      },
+      {
+        "key": "discovery-b66910d6a47697ca65",
+        "url": "https://blog.sme.sk/transparency/politika/ked-su-transparentne-ucty-netransparentne",
+        "checkedAt": "2026-10-15T16:09:12.787075+00:00",
+        "access": "unavailable",
+        "status": 403,
+        "sha256": "d4e6222b30910f9e20f8b94c859d1777e7cf00c96dc693966ae05adeadf6bacd",
+        "bytes": 23137,
+        "receiptSha256": "09f19c27349e92122723b36c3e97a7b48998c15bc59f8c54dafbd689e13b4390"
+      },
+      {
+        "key": "discovery-bb528d64f91c11fdf7",
+        "url": "https://dennikn.sk/blog/2942248/do-volieb-zostava-100-dni-kandidati-sa-s-transparentnostou-nepretrhnu/",
+        "checkedAt": "2026-10-15T16:09:12.891135+00:00",
+        "access": "unavailable",
+        "status": 403,
+        "sha256": "96f2d57eb76a56a16ad8df11f61ecdca82ba4d26680f2d0e112b21e5d4c22483",
+        "bytes": 5838,
+        "receiptSha256": "4fe8695efb4cd219e7c74adfae1991874eadc78c1a1589ba93269ba838b7f544"
+      }
+    ],
+    "note": "Vyhľadávanie pokrýva verejne indexované zdroje, oba indexy MV SR, aktuálny dataset TIS, všetky známe odkazy na kandidátske weby a relevantné nájdené originály. Neprístupné originály neboli nahradené úryvkami. Žiadny osobný účet nebol odvodený z financovania politickej strany. Bankové detaily, kontakty a surové telá zostávajú mimo verejného exportu."
+  },
+  "unrelatedFinanceFacts": "Vlastné výdavky, prevádzkovateľ kampane, stranícke nominácie, iné kandidatúry a všetky ostatné pôvodné finančné fakty ostali zachované. Aktuálna stránka Evy Nemčovskej uvádza výdavky kampane, čo je samostatné preveriteľné vodidlo pre prípadnú ďalšiu úpravu."
+}

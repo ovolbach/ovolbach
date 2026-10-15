@@ -47,7 +47,8 @@
     "checkedAt": "2026-10-15",
     "sourceIds": [
       "finance-national-mayors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -75,11 +76,67 @@
     ],
     "partyIds": [],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1311000000002971142668",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
+        "campaign-accounts-candidates-2026",
+        "tis-election-s26"
       ],
-      "reason": "Oficiálny index uvádza rovnomenný účet; bankový originál vrátil HTTP 403 a chýbajú dva nezávislé identifikačné atribúty majiteľa."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "tsk-michal-bratranec",
+            "name": "Michal Bratranec",
+            "municipality": "Trenčín",
+            "ageAtElection": 51,
+            "sourceIds": [
+              "finance-national-mayors-2026"
+            ],
+            "decision": "retained",
+            "reason": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "tsk-michal-bratranec",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      },
+      "iban": "SK1311000000002971142668"
     }
   },
   {
@@ -2808,7 +2865,8 @@
       "finance-national-councillors-2026",
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -2841,10 +2899,66 @@
       "tn-party-sloboda-a-solidarita"
     ],
     "account": {
-      "status": "not_listed",
+      "status": "verified",
+      "url": "https://moja.csob.sk/transparent-accounts/edde427a4974b76e9a9c43fb2f23434bea8c796b02dc283df109d3b719abf3c5",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
-      ]
+        "tis-election-s26"
+      ],
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "tsk-natalia-svitkova",
+            "name": "Natália Svítková",
+            "municipality": "Prievidza",
+            "ageAtElection": 39,
+            "sourceIds": [
+              "finance-national-councillors-2026",
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "tsk-natalia-svitkova",
+        "accountSourceIds": [
+          "tis-election-s26"
+        ]
+      }
     }
   },
   {

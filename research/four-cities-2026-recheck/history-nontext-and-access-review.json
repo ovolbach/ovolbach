@@ -1,0 +1,1323 @@
+{
+  "checkedAt": "2026-10-15",
+  "status": "complete_bounded_source_type_and_access_review",
+  "inputPath": ".internal/four-cities-recheck/discovery-review/other-passages-private.json",
+  "inputSha256": "1f219e2e0d7019f1a89872aea330de604a7a325825df31543c848659f4524a8b",
+  "reviewedUrlCount": 36,
+  "initialScanOrNontextCount": 9,
+  "initialUnavailableCount": 27,
+  "newHistoricalContestsProposed": 0,
+  "sourceReadingBoundary": "All36 URLs have an explicit type/access disposition.3 scanned originals were visually reviewed in full;6 nontext responses were inspected as shells/empty responses. All27 unavailable URLs received original-browser fallback. Substantive fallback body was recovered for4 URLs; one additional canonical Košice roster was read. Unavailable bodies, shell titles and snippets never establish a person or historical outcome.",
+  "frozenEventFilesModified": false,
+  "productionFilesModified": false,
+  "rawCaptureRoot": "Raw originals retained outside repository; no public raw capture export.",
+  "records": [
+    {
+      "inputIndex": 310,
+      "url": "https://obeckecerovce.sk/subory/kecerovce_kronika_1999_2020.pdf",
+      "sourceType": "municipal_chronicle_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Official Kecerovce chronicle URL is unavailable by live fetch and browser. No exact cohort person was established; the discovery title is not a historical finding.",
+      "queriedCandidateIds": [
+        "ttsk-vladimir-ekhardt",
+        "ttsk-erik-elias",
+        "ttsk-marian-gabris",
+        "ttsk-matej-gasparovic"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0310.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 404,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "f0191a9fcf6593c0688542dc36adcca0d675d4b73422e511504117ba634bf4c0",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "ac30b3bf1ef7d001bae5abb6cfa31b5c65ce64999eccf43ca1c4dfc88c6d5b7a",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-310.json",
+        "sha256": "e3ba1d102a6605dcaf686d031cf60feec5c34d4369a15e761d22ce087c449a89",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 346,
+      "url": "https://www.meulovo.cz/file/1592996",
+      "sourceType": "czech_municipal_election_protocol_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Czech municipal protocol URL returns404 in both retrieval paths. No cohort identity or Slovak municipal/regional contest is accepted.",
+      "queriedCandidateIds": [
+        "ttsk-daniel-kravec",
+        "ttsk-milos-kysel",
+        "ttsk-michal-lipovsky",
+        "ttsk-stefan-liptak"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0346.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 404,
+      "initialContentType": "text/html; charset=utf-8",
+      "initialReceiptSha256": "237ae3fb7c5211c958ea954817bae000adf25ad4aed2669a44f5cd9c610f4c05",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "ec24e4e14bcc20df6a0dee1a1ec0ee82a6805767f5305000ef7fca5bae432b4c",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-346.json",
+        "sha256": "02482ef0eff9000a07e390040d9f7bfff85fe0359eaaad130413756d6f88a083",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 399,
+      "url": "https://anyflip.com/wiby/fyol/basic/",
+      "sourceType": "third_party_flipbook_copy_unavailable",
+      "disposition": "bounded_secondary_source_exclusion",
+      "reason": "AnyFlip election booklet is inaccessible.2022 official municipal/regional originals control; the secondary copy supplies no independent result or identity.",
+      "queriedCandidateIds": [
+        "tsk-michal-bratranec",
+        "tsk-jan-forgac",
+        "tsk-milos-micega",
+        "tsk-jozef-bakos",
+        "tsk-andrea-jakubcova",
+        "tsk-maria-kebiskova",
+        "tsk-lukas-kecera",
+        "tsk-jan-kmet",
+        "tsk-adriana-martosova",
+        "tsk-peter-mikulas",
+        "tsk-lucia-nemesova",
+        "tsk-ervin-olesnan",
+        "tsk-martin-diweg-pukanec",
+        "tsk-marcel-frano",
+        "tsk-andrej-gavenda",
+        "tsk-elena-gogolakova",
+        "tsk-ladislav-paska",
+        "tsk-peter-pilathy",
+        "tsk-vladimir-poruban",
+        "tsk-jana-stefanekova"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0399.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 403,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "99b49926e94d69e2f6b9e6b0220a8db730f698fdabcadb833d9fb4cf3345d6c4",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "684e63b41a6bba0f821b88663ad381f047cfd7f2a60a88a39a03914a2e15bea7",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-399.json",
+        "sha256": "f231fd69ba603fddc8cd9a224c2852d0e3d92c28fecac31c7c25a84d35ecfddf",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 426,
+      "url": "https://anyflip.com/wiby/fyol/basic",
+      "sourceType": "third_party_flipbook_copy_unavailable",
+      "disposition": "bounded_secondary_source_exclusion",
+      "reason": "Trailing-slash variant ofq399, also403. Two URL attempts do not create two independent sources or candidate matches.",
+      "queriedCandidateIds": [
+        "tsk-andrea-jakubcova",
+        "tsk-maria-kebiskova",
+        "tsk-lukas-kecera",
+        "tsk-jan-kmet"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0426.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 403,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "067306fee0c7f95db302e6a32cbb55530a914d6aced9d25c2b44065eea8fe6cf",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "58bc4368ce585f4cba43d81547b6b26e5ee7492ed31159ab559c68328d96bfa6",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-426.json",
+        "sha256": "e8573b1718b0693d5ec65a6f5162699d3e17234d8ba5303c31f44a531cbc1629",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 454,
+      "url": "https://blog.sme.sk/scepko/nezaradene/trenciansky-primator-by-mal-vratit-odmeny",
+      "sourceType": "signed_personal_blog_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Named blogger opinion, not independent journalism or an official result. Browser fallback also failed; do not reconstruct criticism or author history.",
+      "queriedCandidateIds": [
+        "tsk-richard-scepko",
+        "tsk-marian-betak",
+        "tsk-lubomir-bobak",
+        "tsk-marian-bohus"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0454.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 403,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "bba44fa3d8d6da5bb5d70102bf630eb0e91dc1ac3ee518dbaa1165430cc88676",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "ee7889b8c242b1a894889ee84677662a55335f57d8a7eef41798a0afa9cb4cf6",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-blogs.json",
+        "sha256": "f3343912dbcb4cd13b76921b0faa1ab18ed74ca9b35e7be39056747777bfa378",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 458,
+      "url": "https://www.old.kysak.sk/files/NR12_Vzdanie-sa-a-odvolanie.pdf",
+      "sourceType": "national_parliament_withdrawal_notice_unavailable",
+      "disposition": "outside_four_historical_offices_and_access_exclusion",
+      "reason": "2012 national-parliament withdrawal notice is outside the four requested municipal/regional offices. TLS and browser retrieval failed; no withdrawal status attributed to any target.",
+      "queriedCandidateIds": [
+        "tsk-richard-scepko",
+        "tsk-marian-betak",
+        "tsk-lubomir-bobak",
+        "tsk-marian-bohus"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0458.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": null,
+      "initialContentType": null,
+      "initialReceiptSha256": "b1e068f9d5a0ea900a0d34735db4136ccbaa3c4476c37300cae0f343f6eee340",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-458.json",
+        "sha256": "d18918c631539bd22d161351703be37752a3503a19246f881c8c3bfd8bf78abe",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 470,
+      "url": "https://www.nimnica.eu/e_download.php?file=data%2Feditor%2F96sk_4.pdf&original=Zoznam+zaregistrovanych+kandidatov+zastupitelstvo+TSK.pdf",
+      "sourceType": "official_regional_candidate_list_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Municipal-hosted TSK candidate-list link is unavailable. Potential roster family, but no document year/person/identity was approved from title or snippets; use reconciled official regional rosters.",
+      "queriedCandidateIds": [
+        "tsk-adriana-martosova",
+        "tsk-peter-mikulas",
+        "tsk-lucia-nemesova",
+        "tsk-ervin-olesnan"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0470.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 404,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "e0a10ecdfbe9d8ece189346ed934bcb2f5aa99e6ac63d268646ef348d3331c9e",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "727d80904562c32cdb61339adc71292ab6f9b311568daccb89823fa9aeaea9c5",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-470.json",
+        "sha256": "c307410acf3201eb6de5fb5cdacb0fd2c0aaa747318e521b6a5f4b7d7c9ec363",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 473,
+      "url": "https://gisolan.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2006-2010/poslanci",
+      "sourceType": "official_city_roster_alias_tls_failure",
+      "disposition": "canonical_alternative_read_no_identity_join",
+      "reason": "Malformed-certificate alias of Košice2006–2010. Canonical official roster was reopened and read. It includes an engineer Ján Forgáč, but gives no two-attribute bridge to the selected Trenčín candidate; no cohort join.",
+      "queriedCandidateIds": [
+        "tsk-adriana-martosova",
+        "tsk-peter-mikulas",
+        "tsk-lucia-nemesova",
+        "tsk-ervin-olesnan"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0473.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": null,
+      "initialContentType": null,
+      "initialReceiptSha256": "7728030456c0e7497b15fd20b313dc969f812f3905c1fb5c96e86634e7cca588",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false,
+        "browserLines": [
+          23,
+          63
+        ]
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-473.json",
+        "sha256": "33745633f02f1e10b24d5d75d87a01d0ad7ff5329a4c05aae8a968050e0e870e",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      },
+      "alternativeReadReceipts": [
+        {
+          "path": "private-capture:browser-alternative-kosice2006.json",
+          "sha256": "2518ffa621f2fcdb915676d94646d1ca9de76dcdc658d1cfd3762ab02fb88404"
+        }
+      ],
+      "noIdentityJoinReason": "An exact-name engineer in Košice2006 roster is not linked by two additional attributes to current Trenčín Ján Forgáč."
+    },
+    {
+      "inputIndex": 481,
+      "url": "https://www.bobot.sk/data/docs/doc_1_20131110_004348_Vysledky_1.pdf",
+      "sourceType": "official_local_regional_results_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Bobot local2013 regional-result PDF is unavailable in shell and browser. A locality subtotal cannot establish a regional total/status even if recovered; no facts reconstructed.",
+      "queriedCandidateIds": [
+        "tsk-richard-zimanyi",
+        "tsk-patrik-zak",
+        "tsk-miloslav-baco",
+        "tsk-juraj-bakos"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0481.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 404,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "e191eaeed87037507b0a6e7c759d68530b2e24781518279775d7c90f41d9aec0",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "71889d371c716867326804d896c134d417763c8a4b235526e1a7ddbccf680b2e",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-481.json",
+        "sha256": "2e2601862af26458ed6c4aab1cc90457bd10dc32322e5a1534c200b53a42f20b",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 509,
+      "url": "https://www.trencin21.sk/co-je-volebna-iniciativa-obcania-pre-trencin-21-642.htm",
+      "sourceType": "political_initiative_owned_page_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Trenčín21 initiative article is inaccessible. It could establish only attributed initiative statements, not registered candidacy, result or uninterrupted party membership.",
+      "queriedCandidateIds": [
+        "tsk-martin-diweg-pukanec",
+        "tsk-marcel-frano",
+        "tsk-andrej-gavenda",
+        "tsk-elena-gogolakova"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0509.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": null,
+      "initialContentType": null,
+      "initialReceiptSha256": "e02b247d55eea9f0fe6fd9e5b384c98024246b0cf7c1954991ead7f679df12ac",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-509.json",
+        "sha256": "0d0c33fa50603e2b40a845157ab0bb79d9530887a1168c6c5098b0357f7a698d",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 609,
+      "url": "https://volby.transparency.sk/financovanie/majetkove-priznania/funkcionar/BaskJaro",
+      "sourceType": "ngo_aggregation_javascript_shell",
+      "disposition": "shell_not_substantive_evidence",
+      "reason": "Raw HTML and browser show only JavaScript shell for TIS asset-declaration route. No declaration/role/history fields were readable; authoritative office declarations must supply facts.",
+      "queriedCandidateIds": [
+        "tsk-jaroslav-baska",
+        "tsk-daniel-galas",
+        "tsk-lubomir-choleva",
+        "tsk-natalia-svitkova"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:discovery-fbf7c11f63232230b1.receipt.json",
+      "initialAccess": "original_downloaded",
+      "initialStatus": 200,
+      "initialContentType": "text/html",
+      "initialReceiptSha256": "7a8994793331357089b9bffb62390f225d8f81180ee4e20a101f5b6f552f0ab3",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalBodySha256": "6b8e60da0d6b9af42b77827c3115e94cd6524036880cf14ca3e1f6b50d1f6fb9",
+      "originalHashVerified": true,
+      "readBounds": {
+        "method": "raw_response_type_inspection",
+        "bodyPath": "private-capture:discovery-fbf7c11f63232230b1.body",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-shells.json",
+        "sha256": "6b323995e1acd88c289d0033cc8caf85525cea1fb713e89064a7220205959910",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 610,
+      "url": "https://volby.transparency.sk/samosprava2022/kandidati/Jaroslav.Ba%C5%A1ka~TSK",
+      "sourceType": "ngo_aggregation_javascript_shell",
+      "disposition": "shell_not_substantive_evidence",
+      "reason": "TIS2022 candidate route has exactly the same shell-byte SHA asq609. Neither URL proves a candidate record or acts as independent corroboration.",
+      "queriedCandidateIds": [
+        "tsk-jaroslav-baska",
+        "tsk-daniel-galas",
+        "tsk-lubomir-choleva",
+        "tsk-natalia-svitkova"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:discovery-6c85cb0fa294ab7cc5.receipt.json",
+      "initialAccess": "original_downloaded",
+      "initialStatus": 200,
+      "initialContentType": "text/html",
+      "initialReceiptSha256": "32275a8b8438e56e1f0715e623f5a090d8cae7983b2467dfaf0d50ec0a03ba2d",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalBodySha256": "6b8e60da0d6b9af42b77827c3115e94cd6524036880cf14ca3e1f6b50d1f6fb9",
+      "originalHashVerified": true,
+      "readBounds": {
+        "method": "raw_response_type_inspection",
+        "bodyPath": "private-capture:discovery-6c85cb0fa294ab7cc5.body",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-shells.json",
+        "sha256": "6b323995e1acd88c289d0033cc8caf85525cea1fb713e89064a7220205959910",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 699,
+      "url": "https://old.limbach.sk/volby-do-nr-sr/vysledky-volieb-do-organov-samospravy-obci-konane-dna-27-novembra-2010-v-obci-limbach/",
+      "sourceType": "official_other_municipality_results_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Limbach2010 result page is inaccessible at old and current-host paths. No exact-person link to any of the four query targets is established; no result inferred.",
+      "queriedCandidateIds": [
+        "tsk-jan-sivak",
+        "tsk-stanislav-svatik",
+        "tsk-pavol-sulovsky",
+        "tsk-monika-velackova"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0699.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": null,
+      "initialContentType": null,
+      "initialReceiptSha256": "1b907977cefd619c0886096cec98917664ff5536ac79471b9926099a06aa7ecd",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-699.json",
+        "sha256": "8238a57691f48b61da617af883107efd01644649d10b00600691d690d87ab98a",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      },
+      "alternativeReadReceipts": [
+        {
+          "path": "private-capture:browser-alternative-limbach2010.json",
+          "sha256": "8118b1a76512778c19912be97252f5f6bf1646992cd3965621c60e6cf7db1f75"
+        }
+      ]
+    },
+    {
+      "inputIndex": 700,
+      "url": "https://old.limbach.sk/volby-do-nr-sr/kandidati-do-komunalnych-volieb/",
+      "sourceType": "official_other_municipality_candidate_page_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Limbach candidate page is inaccessible. Municipality/name context alone does not join a past record to any target candidate.",
+      "queriedCandidateIds": [
+        "tsk-jan-sivak",
+        "tsk-stanislav-svatik",
+        "tsk-pavol-sulovsky",
+        "tsk-monika-velackova"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0700.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": null,
+      "initialContentType": null,
+      "initialReceiptSha256": "6d8404ea64239ab151bc47e8927651ff48dd3ec5b5db52927bc0aa9a50ec4315",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-700.json",
+        "sha256": "057d412075bb21e49ea762d1b303f700cd0c040ebc567c5ad95bb9587f5ade9f",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 782,
+      "url": "https://nitra.sk/komisie-pri-mz/komisia-mestskeho-zastupitelstva-v-nitre-pre-zivotne-prostredie-verejny-poriadok-a-komunalne-cinnosti/",
+      "sourceType": "official_current_city_commission_page_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Nitra commission URL and plausible relocated official path are inaccessible. No membership or historical election result is reconstructed; commission membership would not prove election.",
+      "queriedCandidateIds": [
+        "nsk-filip-ziak",
+        "nsk-frantisek-holly",
+        "nsk-hana-balisova",
+        "nsk-henrich-bencik",
+        "nsk-martin-pasulkas",
+        "nsk-martin-presinsky",
+        "nsk-martina-dubaiova",
+        "nsk-martina-mojtova"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0782.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 404,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "f91b2a1d531fbb52c887470fc635bd663cc281c10d0d5c8a8f0dfc2a56e70c36",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "4cddc650e9df081a78e095a74e45369f6b6508eb7c96197436af08e675208c6a",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-782.json",
+        "sha256": "22c0dfb0df8cc7fd90f5f407d41e2fdec625b11ae949ed6e0961c9aef48985af",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      },
+      "alternativeReadReceipts": [
+        {
+          "path": "private-capture:browser-alternative-nitraCommission.json",
+          "sha256": "fadc75ace851d5c8c31e141e6a6c48cc654b93d12cfbbcc07d95aa28cb7be680"
+        }
+      ]
+    },
+    {
+      "inputIndex": 789,
+      "url": "https://wikipedia.slaser.fr/content/wikipedia_en_all_maxi_2025-08/International_Volleyball_Hall_of_Fame",
+      "sourceType": "empty_encyclopedia_mirror_response",
+      "disposition": "empty_response_not_evidence",
+      "reason": "The captured response has zero bytes and the empty-body SHA. Browser fallback fails. A volleyball encyclopedia route provides no candidate history or identity evidence.",
+      "queriedCandidateIds": [
+        "nsk-filip-ziak",
+        "nsk-frantisek-holly",
+        "nsk-hana-balisova",
+        "nsk-henrich-bencik"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0789.receipt.json",
+      "initialAccess": "original_downloaded",
+      "initialStatus": 200,
+      "initialContentType": null,
+      "initialReceiptSha256": "64663e9cbef3fa88d3b86956903b8ce85b76430fed0d8a5472330acd98938c8e",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalBodySha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "originalHashVerified": true,
+      "readBounds": {
+        "method": "raw_response_type_inspection",
+        "bodyPath": "private-capture:q-0789.body",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-789.json",
+        "sha256": "30ce7b0bdafe8c94210961c04dfa09843d03e78a75ad511eb988cf20199f2e1e",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 810,
+      "url": "https://www.sas.sk/clanok/11683/predstavujeme-kandidata-na-nitrianskeho-zupana",
+      "sourceType": "party_owned_javascript_shell",
+      "disposition": "shell_not_substantive_evidence",
+      "reason": "SaS page returns only a generic application shell in raw HTML and browser. No named subject, election year, nomination or registration fact was verified.",
+      "queriedCandidateIds": [
+        "nsk-henrich-varga",
+        "nsk-igor-krsiak",
+        "nsk-igor-urbanik",
+        "nsk-ingrid-menky"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0810.receipt.json",
+      "initialAccess": "original_downloaded",
+      "initialStatus": 200,
+      "initialContentType": "text/html",
+      "initialReceiptSha256": "968b88156aa32510042a16b633f58414e003528ad87284edd551cec473bf8dfb",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalBodySha256": "12f222239bbfd7724adc141105f32de4d871a965a4436a6b92439713cafc3dc7",
+      "originalHashVerified": true,
+      "readBounds": {
+        "method": "raw_response_type_inspection",
+        "bodyPath": "private-capture:q-0810.body",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-shells.json",
+        "sha256": "6b323995e1acd88c289d0033cc8caf85525cea1fb713e89064a7220205959910",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 861,
+      "url": "https://blog.sme.sk/culakova/politika/ako-mi-volby-zaklopali-na-celo",
+      "sourceType": "signed_personal_blog_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Jolana Čuláková election-themed blog failed browser fallback as well as live fetch. Do not infer candidacy or registered result from its title.",
+      "queriedCandidateIds": [
+        "nsk-jaroslav-macek",
+        "nsk-jolana-culakova",
+        "nsk-jozef-dvonc",
+        "nsk-jozef-horvath"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0861.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 403,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "1691f6fb9fea825e7f7eec536bf636c546341fd2c9de3878ac9f0d2367e98a23",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "c1e4df5acadc6f9f9dd86a340d12d3d523c19b17855c11c1d56aec2274adbe21",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-blogs.json",
+        "sha256": "f3343912dbcb4cd13b76921b0faa1ab18ed74ca9b35e7be39056747777bfa378",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 919,
+      "url": "https://www.malezaluzie.sk/storage/dokumenty/2022/kandidati-zastupitelstvo-nsk.pdf",
+      "sourceType": "official_regional_candidate_list_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Malé Zálužie-hosted2022 NSK list is unavailable. No exact row can be approved from this URL; use independently reconciled official2022 regional originals.",
+      "queriedCandidateIds": [
+        "nsk-lukas-schober",
+        "nsk-marcela-cavojova",
+        "nsk-marcela-starekova",
+        "nsk-marek-fuska"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0919.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 404,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "e90084cad2d3d76d4891dbe48ef8fb91c096131ba9f884e4f443b5fb344c9c92",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "6948144272d7b4e3c1304df234ece6dbd9f43b4a5f9f1a327b68c50cbacbe08d",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-919.json",
+        "sha256": "084ea76b31ca36f17ac6c674d17232b2963e978a9e1613278833533840adc981",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 973,
+      "url": "https://www.karlovaves.sk/wp-content/uploads/2022/12/KV_12-01_22_web.pdf",
+      "sourceType": "official_local_newspaper_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Karlova Ves December2022–January2023 local newspaper failed TLS and browser. No election row or identity bridge was read; four query targets are not automatically document subjects.",
+      "queriedCandidateIds": [
+        "nsk-matej-szaraz",
+        "nsk-matus-kroslak",
+        "nsk-mikulas-dunda",
+        "nsk-milan-biro"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-0973.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": null,
+      "initialContentType": null,
+      "initialReceiptSha256": "f1e3e49d6a7423e70e44c8d3088d10b7364d606f45de13140376ae54cfefedf9",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-973.json",
+        "sha256": "a3a650e088867daced7a04c5e4570093400782fde3ca69fe35907ac33e92eac4",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 1064,
+      "url": "https://is.muni.cz/th/yhfdd/?id=242565",
+      "sourceType": "institutional_repository_antibot_shell",
+      "disposition": "repository_content_not_read_no_join",
+      "reason": "Raw response is JavaScript computational anti-bot challenge, not a thesis. Both URL forms failed browser retrieval. A thesis-title/name match would not alone prove a municipal/regional political role or current candidate identity.",
+      "queriedCandidateIds": [
+        "nsk-peter-pukan",
+        "nsk-peter-urban",
+        "nsk-petra-ajdariova",
+        "nsk-petra-grebacova"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1064.receipt.json",
+      "initialAccess": "original_downloaded",
+      "initialStatus": 200,
+      "initialContentType": "text/html; charset=utf-8",
+      "initialReceiptSha256": "30ad56fa5f13098702bfa168f0d972ccd04731034bb04c917cf8a4cd9618116d",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalBodySha256": "360db7a83ffe0a101040a00f208eef63fef58d13f830f6cc90e2c3a690b0c721",
+      "originalHashVerified": true,
+      "readBounds": {
+        "method": "raw_response_type_inspection",
+        "bodyPath": "private-capture:q-1064.body",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-shells.json",
+        "sha256": "6b323995e1acd88c289d0033cc8caf85525cea1fb713e89064a7220205959910",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      },
+      "alternativeReadReceipts": [
+        {
+          "path": "private-capture:browser-alternative-muni.json",
+          "sha256": "a56f8ad4d1eb217dee325c02b9a0ddc5652d3374415c0eb257d7904c4da5ab6c"
+        }
+      ]
+    },
+    {
+      "inputIndex": 1093,
+      "url": "https://nitra.zoznam.sk/stefan-stefek-oznamil-svoju-kandidaturu-na-post-nitrianskeho-primatora-kandidovat-bude-ako-nezavisly/",
+      "sourceType": "tasr_attributed_professional_news",
+      "disposition": "browser_original_read_historical_context_only",
+      "reason": "Browser original recovered, TASR credit and candidate body read. It announces Štefek intention to run independently and reports former deputy-mayor role2006–2014. Announcement is not registration or election result; article publication date was not displayed in the inspected body.",
+      "queriedCandidateIds": [
+        "nsk-stefan-stefek",
+        "nsk-svorad-petruska",
+        "nsk-tibor-csenger",
+        "nsk-tibor-danac"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1093.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 403,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "2372a22b79dc698eaa88b2e2771d7ac09b00d382468b22ea6bb625b9c55776b0",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [
+        {
+          "candidateId": "nsk-stefan-stefek",
+          "status": "corroborating_context_requires_official_contest_record",
+          "attributesObserved": [
+            "Nitra municipality and councillor identity",
+            "reported deputy-mayor office2006–2014",
+            "reported water-company investment-director role"
+          ],
+          "limit": "TASR announcement proves only the attributed announcement/history report; neither registration nor result nor article date inferred."
+        }
+      ],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "335738013f36e58a53fbd657acdd2a275d95b4c413a95ca7919de5fbe51a62e5",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": true,
+        "browserLines": [
+          218,
+          239
+        ]
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-1093.json",
+        "sha256": "f84b3ea4eb914d9dd0a1dd09080fe2f505b5bf973869d8be4070d5a2ef1f0eda",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 1124,
+      "url": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=578759",
+      "sourceType": "official_scanned_legislative_amendment",
+      "disposition": "read_not_historical_election_result",
+      "reason": "All3 pages visually read: amendment by MP Zdenko Svoboda to print1023, social-economy contribution rules and prospective2026 effect. It is legislative activity, not a municipal/regional candidacy/result. No adoption is inferred.",
+      "queriedCandidateIds": [
+        "nsk-vojtech-fray",
+        "nsk-zdenko-svoboda",
+        "nsk-zuzana-uhrikova",
+        "bbsk-diana-javorcikova"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1124.receipt.json",
+      "initialAccess": "original_downloaded",
+      "initialStatus": 200,
+      "initialContentType": "application/pdf",
+      "initialReceiptSha256": "2eacc30f295d04b890615d8370634eef46bb70a97bc8d3769f30be57042ecf19",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalBodySha256": "48a7f7212123d138a2419554077228f80cf563362ad08c7de68f93430e6cec55",
+      "originalHashVerified": true,
+      "readBounds": {
+        "method": "manual_visual_scan_review",
+        "pages": [
+          1,
+          2,
+          3
+        ],
+        "bodyPath": "private-capture:q-1124.body"
+      }
+    },
+    {
+      "inputIndex": 1154,
+      "url": "https://www.rakoci.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2002-2006/poslanci",
+      "sourceType": "official_city_roster_alias_tls_failure",
+      "disposition": "bounded_access_exclusion_after_canonical_index_review",
+      "reason": "Košice2002–2006 alias has certificate mismatch. Canonical councillor URL timed out; official2002–2006 archive index was read but does not itself supply a councillor roster. No candidate identity or office is approved.",
+      "queriedCandidateIds": [
+        "bbsk-ondrej-veres",
+        "bbsk-atila-beres",
+        "bbsk-branislav-bosak",
+        "bbsk-peter-brozman"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1154.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": null,
+      "initialContentType": null,
+      "initialReceiptSha256": "3a966b84cb8b9a9c87b09f641d504f28e6905f3f04a104c5e06e0a45f105b89c",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-1154.json",
+        "sha256": "139d08a72114a5dc64607f88c7fc6965caae3c4d3c16fba81c6697e5e96a726e",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      },
+      "alternativeReadReceipts": [
+        {
+          "path": "private-capture:browser-alternative-kosice2002.json",
+          "sha256": "93b8d96be429630d38882c4b151bf96aa1294d4277e4bb3378564315f3a4a814"
+        },
+        {
+          "path": "private-capture:browser-alternative-kosice2002-index.json",
+          "sha256": "e73d6858a788e2c39306dd497692dc118a14a328f13b20482661a92c4f46dc51"
+        }
+      ]
+    },
+    {
+      "inputIndex": 1179,
+      "url": "https://blog.sme.sk/lapunikova/politika/preco-som-sa-rozhodla-kandidovat",
+      "sourceType": "candidate_owned_signed_blog",
+      "disposition": "browser_original_read_attributed_statement_only",
+      "reason": "Browser original fully recovered and read:5November2018, updated6November2018; author explains intention to run for BB council. Hospital leadership and BB context corroborate author identity, but official registration/result must come from election authority.",
+      "queriedCandidateIds": [
+        "bbsk-miriam-lapunikova",
+        "bbsk-jozef-lovas",
+        "bbsk-jozef-mak",
+        "bbsk-martin-repasky"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1179.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 403,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "e4b7c2be7d63118247c4d22590568ca3b8e287afc9a32a0b2c673f53d724bb7b",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [
+        {
+          "candidateId": "bbsk-miriam-lapunikova",
+          "status": "owned_attributed_candidacy_statement_and_identity_context",
+          "attributesObserved": [
+            "Banská Bystrica context",
+            "Roosevelt hospital-director role",
+            "public birth-year cohort agrees with2026 official age"
+          ],
+          "period": "2018-11-05; updated2018-11-06",
+          "limit": "Not an official candidacy-registration or result record."
+        }
+      ],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "c755403f055a8e7ed477f0b5ba74c97095fe20c72097bbf9d7f35dd577d9c1c7",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": true,
+        "browserLines": [
+          91,
+          150
+        ]
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-blogs.json",
+        "sha256": "f3343912dbcb4cd13b76921b0faa1ab18ed74ca9b35e7be39056747777bfa378",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 1190,
+      "url": "https://www.riecka.sk/e_download.php?file=data%2Feditor%2F68sk_5.pdf&original=Vo%C4%BEby+V%C3%9AC.pdf",
+      "sourceType": "officially_hosted_scanned_annotated_ballots",
+      "disposition": "read_discovery_and_identity_only",
+      "reason": "Both scanned pages visually read: BBSK chair and district1 councillor ballot sheets bearing regional-election-commission seal, with handwritten local counts. Copy has no visible contest date/protocol status. Printed name/age/profession/municipality may corroborate independently dated records; handwritten marks are not certified contest totals or elected status.",
+      "queriedCandidateIds": [
+        "bbsk-martin-tistan",
+        "bbsk-silvia-cochova",
+        "bbsk-martin-kubik",
+        "bbsk-marcel-pecnik",
+        "bbsk-ivan-kostur",
+        "bbsk-jakub-mestan",
+        "bbsk-iveta-noskova",
+        "bbsk-juraj-sipula"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1190.receipt.json",
+      "initialAccess": "original_downloaded",
+      "initialStatus": 200,
+      "initialContentType": "application/pdf",
+      "initialReceiptSha256": "a89e03fb9c46024bd0c1d6746a4adffaa3ec9324859014f754974c7dc79ce252",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [
+        {
+          "status": "printed_attributes_only_no_certified_result",
+          "candidateIdsObserved": [
+            "bbsk-marian-kotleba",
+            "bbsk-igor-kasper",
+            "bbsk-marcel-pecnik",
+            "bbsk-martin-tistan",
+            "bbsk-ivan-kostur",
+            "bbsk-marek-kliment",
+            "bbsk-milan-lichy",
+            "bbsk-peter-gogola",
+            "bbsk-ludmila-priehodova"
+          ],
+          "yearBoundary": "Printed roles/age patterns are consistent with2017; this annotated copy itself does not show a date, so official dated originals must establish contest year.",
+          "limit": "No handwritten counts or elected status approved."
+        }
+      ],
+      "originalBodySha256": "223023271f868e11981ec53bc75b78c485a25dda6da03f6c7a3ad5ce81084315",
+      "originalHashVerified": true,
+      "readBounds": {
+        "method": "manual_visual_scan_review",
+        "pages": [
+          1,
+          2
+        ],
+        "bodyPath": "private-capture:q-1190.body"
+      }
+    },
+    {
+      "inputIndex": 1228,
+      "url": "https://cz.doczz.net/doc/126081/hlu%C4%8D%C3%ADnsk%C3%A9-noviny",
+      "sourceType": "third_party_czech_local_newspaper_copy_unavailable",
+      "disposition": "bounded_secondary_source_exclusion",
+      "reason": "Doczz copy of Hlučín local newspaper is inaccessible. No Slovak cohort identity or historical contest is accepted from title or country context.",
+      "queriedCandidateIds": [
+        "bbsk-marek-kliment",
+        "bbsk-veronika-koskova",
+        "bbsk-milan-lichy",
+        "bbsk-tobias-longauer"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1228.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 403,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "efe1bdc441f80ac3f94c7adcbc0ccf290238d4eb31a3fb54a4faafcef8f281ca",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "c4639b1ff70b9a6e8bc8fd00270da4240ed20ace8847844e4c86124999630b28",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-1228.json",
+        "sha256": "1c89c1a31d1163b12b14d306ac95a7c027e4acb81d38e1d5d6d715e5befb660f",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 1249,
+      "url": "https://www.fotovoltaickafasada.cz/",
+      "sourceType": "commercial_javascript_application_shell",
+      "disposition": "not_historical_or_identity_evidence",
+      "reason": "Raw HTML identifies a Czech BIPV commercial landing page; browser has zero text lines. No cohort person or political role was verified. It is not an official business register or election source.",
+      "queriedCandidateIds": [
+        "bbsk-sarah-sonkol",
+        "bbsk-jana-tolicova",
+        "bbsk-tomas-tornyos",
+        "bbsk-martin-turcan"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1249.receipt.json",
+      "initialAccess": "original_downloaded",
+      "initialStatus": 200,
+      "initialContentType": "text/html; charset=utf-8",
+      "initialReceiptSha256": "10a5e0f326c3b30f27207d11f9f08a483337260d804653de44e13f86641e9acd",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalBodySha256": "4fe92768127f43cc0ca23e6776daad675158f651f09c401c1b3511f5adb73c12",
+      "originalHashVerified": true,
+      "readBounds": {
+        "method": "raw_response_type_inspection",
+        "bodyPath": "private-capture:q-1249.body",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-1249.json",
+        "sha256": "387b00ab884f3c7f4e9df8eff77c8119758cbe7801ac29270a060893c9e45e56",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 1263,
+      "url": "https://old.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2002-2006/poslanci",
+      "sourceType": "official_city_roster_alias_tls_failure",
+      "disposition": "bounded_access_exclusion_after_canonical_index_review",
+      "reason": "Old Košice2002–2006 alias fails TLS/browser. Canonical archive index is readable, but does not itself prove a named councillor or connect one to current cohort.",
+      "queriedCandidateIds": [
+        "bbsk-katarina-cizmarova",
+        "bbsk-marek-odalos",
+        "bbsk-juraj-oravec",
+        "bbsk-matej-ruttkay"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1263.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": null,
+      "initialContentType": null,
+      "initialReceiptSha256": "f65068beb7e017aa8b46e79b5ba501a232e0769d9303dae6ee510d75a05bf2fb",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-1263.json",
+        "sha256": "0fa7d0bd5e1d9b2a00cb94a72046dbb987e0a8176b33a8f13384caf8f9d7ad98",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      },
+      "alternativeReadReceipts": [
+        {
+          "path": "private-capture:browser-alternative-kosice2002.json",
+          "sha256": "93b8d96be429630d38882c4b151bf96aa1294d4277e4bb3378564315f3a4a814"
+        },
+        {
+          "path": "private-capture:browser-alternative-kosice2002-index.json",
+          "sha256": "e73d6858a788e2c39306dd497692dc118a14a328f13b20482661a92c4f46dc51"
+        }
+      ]
+    },
+    {
+      "inputIndex": 1265,
+      "url": "https://women.volleybox.net/katarina-dudasova-p42326/teammates",
+      "sourceType": "third_party_sports_collaborator_database_unavailable",
+      "disposition": "bounded_secondary_source_exclusion",
+      "reason": "Volleybox teammates/collaborators route is inaccessible. Team-page associations cannot establish a political candidacy or identity bridge without named corroborating attributes.",
+      "queriedCandidateIds": [
+        "bbsk-katarina-cizmarova",
+        "bbsk-marek-odalos",
+        "bbsk-juraj-oravec",
+        "bbsk-matej-ruttkay"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1265.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 403,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "af751c6f327f43f0f67c5e1213177b12caa73f6fcfe5ad3604ffa8390e8937d4",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "040dedd79773445cd8ba7a828bc9c159f0f4360eaaf41a34548b5edcffb52312",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-1265.json",
+        "sha256": "a7496e823e9b02b37400d16f4409468f0f5e69a845ed9f0e2e802217f3a3efcb",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 1297,
+      "url": "https://www.audicentru.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2002-2006/poslanci",
+      "sourceType": "official_city_roster_alias_tls_failure",
+      "disposition": "bounded_access_exclusion_after_canonical_index_review",
+      "reason": "Additional Košice2002–2006 alias fails certificate/browser access. It is not independent evidence merely because hostname differs; canonical archive index supplies no accepted person match.",
+      "queriedCandidateIds": [
+        "bbsk-ivan-kosa",
+        "bbsk-branislav-kovacik",
+        "bbsk-marian-michael-mackovic",
+        "bbsk-ruzena-mataseje"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1297.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": null,
+      "initialContentType": null,
+      "initialReceiptSha256": "74274ecd9b50acae0ebcedcd2b8a5246d8a1d423432133c48bbda870fa059c2e",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-1297.json",
+        "sha256": "637476f0ebf06246504b5429a6905579c6af8259e728f629d3818fed3e619a5e",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      },
+      "alternativeReadReceipts": [
+        {
+          "path": "private-capture:browser-alternative-kosice2002.json",
+          "sha256": "93b8d96be429630d38882c4b151bf96aa1294d4277e4bb3378564315f3a4a814"
+        },
+        {
+          "path": "private-capture:browser-alternative-kosice2002-index.json",
+          "sha256": "e73d6858a788e2c39306dd497692dc118a14a328f13b20482661a92c4f46dc51"
+        }
+      ]
+    },
+    {
+      "inputIndex": 1310,
+      "url": "https://blog.sme.sk/medzihradska/spolocnost/hladaju-sa-volici-smeru",
+      "sourceType": "signed_personal_political_opinion_blog",
+      "disposition": "browser_original_read_no_historical_office_fact",
+      "reason": "Browser body91–116 read:2013 opinion about voting, with2014 update. It provides neither registered candidacy nor public-office/result history. A personal voting statement is not party-membership proof; same-name author not joined by name alone.",
+      "queriedCandidateIds": [
+        "bbsk-marta-medzihradska",
+        "bbsk-marek-modransky",
+        "bbsk-alzbeta-pazakova",
+        "bbsk-roman-psenak"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1310.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 403,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "33fd65c526a1e22a761ca24be98d6fe371f5e2b9343fbbc17613de15ce8ff320",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "ab4691b938c84fdc0f49048eeec9ab406fdb6d3a574cefdb4c8bde45e0d94c05",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": true,
+        "browserLines": [
+          91,
+          116
+        ]
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-blogs.json",
+        "sha256": "f3343912dbcb4cd13b76921b0faa1ab18ed74ca9b35e7be39056747777bfa378",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 1347,
+      "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/200_selfgov22/sg22_56kampan_bb/BB_LunterOndrej.pdf",
+      "sourceType": "official_campaign_finance_pdf_unavailable_content",
+      "disposition": "browser_pdf_metadata_only_not_historical_result",
+      "reason": "Live official PDF404; browser identifies a1-page PDF, but exposes no text and screenshot retrieval failed. No contents read or reconstructed. Campaign report is a finance-source family, not proof of votes/status or2026 campaign duties.",
+      "queriedCandidateIds": [
+        "bbsk-milan-smado",
+        "bbsk-hubert-stoksa",
+        "bbsk-michal-albert",
+        "bbsk-ondrej-lunter"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1347.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 404,
+      "initialContentType": "text/html",
+      "initialReceiptSha256": "70a8a2d030ac20da7c01dad4b23a730916619295779260ba389f2a71df1c9fc7",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-1347.json",
+        "sha256": "9608c29246ffb18e5ff58a9a424dcd90074dcbe7fc01ca3249a99d82799006c0",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      },
+      "screenshotAttemptReceipt": {
+        "path": "private-capture:browser-lunter-screenshot.json",
+        "sha256": "99b7977ad07b656d6551c6c5475b722f35db917d44eb50da77be8d7267688be1"
+      }
+    },
+    {
+      "inputIndex": 1361,
+      "url": "https://www.irozhlas.cz/zpravy-tag/volby?page=197",
+      "sourceType": "public_broadcaster_generic_election_tag_archive",
+      "disposition": "browser_original_read_no_cohort_subject",
+      "reason": "Browser recovered generic iROZHLAS tag archive; inspected article summaries concern Czech national politics around2010. No exact cohort target or municipal/regional identity was established.",
+      "queriedCandidateIds": [
+        "bbsk-roman-malatinec",
+        "bbsk-peter-plancik",
+        "bbsk-jaroslav-rusina",
+        "bbsk-miroslav-suja"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1361.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": 403,
+      "initialContentType": "text/html; charset=UTF-8",
+      "initialReceiptSha256": "cc1027c7bd339fe3d38b6f0e1e0a1571dd1ca34fdf6a003407bf5d4ad1ed8cf3",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "unavailableResponseSha256": "5f7f99f9ef1103fd9e8583afe3af6c6798aea406842a782ab0e2dafd14ec7095",
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": true,
+        "browserLines": [
+          141,
+          237
+        ]
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-1361.json",
+        "sha256": "ec344080b50ddd19e55762cea063906fcf0af3e56199c32acfe55299daa99ae8",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 1368,
+      "url": "https://www.zivotpo.sk/clanky/clanok/7224/V%C3%BDsledky%20volieb%20za%20prim%C3%A1torov%20a%20starostov%20jednotliv%C3%BDch%20obc%C3%AD%20Pre%C5%A1ovsk%C3%A9ho%20kraja/",
+      "sourceType": "secondary_other_region_mayoral_results_unavailable",
+      "disposition": "bounded_access_exclusion",
+      "reason": "Prešov-region mayoral-results article remains inaccessible. No exact cohort person was established and no result is taken from discovery title/snippet.",
+      "queriedCandidateIds": [
+        "bbsk-miroslav-cellar",
+        "bbsk-lubomir-debnar",
+        "bbsk-viera-dubacova",
+        "bbsk-juraj-dzmura"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:q-1368.receipt.json",
+      "initialAccess": "unavailable",
+      "initialStatus": null,
+      "initialContentType": null,
+      "initialReceiptSha256": "a5c43e2384a84e814e4b4f3e9f5cfc9d094f58abfbe8dba4f3d043f70bf5c391",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [],
+      "originalHashVerified": false,
+      "readBounds": {
+        "method": "live_failure_and_original_browser_fallback",
+        "substantiveContentRead": false
+      },
+      "browserReceipt": {
+        "path": "private-capture:browser-q-1368.json",
+        "sha256": "0cb03c9154ea522fe043248377119324d933e9bce9a8d34b41e1fd454ff0338a",
+        "hashKind": "browser_tool_receipt_not_original_bytes"
+      }
+    },
+    {
+      "inputIndex": 1411,
+      "url": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=348653",
+      "sourceType": "official_scanned_parliamentary_committee_attachments",
+      "disposition": "read_corroborating_identity_only_outside_four_offices",
+      "reason": "All4 pages read:2010 national party lists and culture/media committee resolutions25 of7September2010 and31 of5October2010. These anchor the attached lists to the2010 parliamentary campaign. No parliamentary contest is added to the four requested historical offices.",
+      "queriedCandidateIds": [
+        "bbsk-jozef-tomanik",
+        "bbsk-marek-vyhnicka"
+      ],
+      "candidateBindingBoundary": "These IDs identify original search targets, not automatically persons established in this source.",
+      "initialReceiptPath": "private-capture:stage-1e50ef94be9bf09e.receipt.json",
+      "initialAccess": "original_downloaded",
+      "initialStatus": 200,
+      "initialContentType": "application/pdf",
+      "initialReceiptSha256": "40ca5b2b564bab7857f28b92b5111ac91ff23f5429ec32d90d4153e68229dce6",
+      "approvedNewHistoricalContest": false,
+      "actionableIdentityFindings": [
+        {
+          "candidateId": "bbsk-jozef-tomanik",
+          "status": "corroborating_only_no_new_contest",
+          "page": 1,
+          "partyList": 8,
+          "candidateNumber": 139,
+          "historicalAttributes": {
+            "age": 24,
+            "municipality": "Banská Bystrica",
+            "occupation": "riaditeľ podniku"
+          },
+          "provenance": "Page3 official committee resolution25,7September2010 explicitly refers to the2010 parliamentary campaign; page4 resolution31 is dated5October2010.",
+          "currentComparison": "Current official2026 age40 and business occupation are compatible. Current municipality and actual municipal/regional record must be checked independently before using this bridge.",
+          "limit": "National parliamentary contest is outside scope and is not proposed."
+        }
+      ],
+      "originalBodySha256": "0c14d127b58d1e73bc0e8c2d3fc46e4d5563072ffc0368ba22cc6cff4957c003",
+      "originalHashVerified": true,
+      "readBounds": {
+        "method": "manual_visual_scan_review",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "bodyPath": "private-capture:stage-1e50ef94be9bf09e.body"
+      }
+    }
+  ],
+  "privateInputSha256": "ae30fdc474bb6eef112a242c003a5498a6274107ce818417f94cc69de53529ab",
+  "publicExportNote": "Private filesystem locations replaced by opaque capture basenames; evidence digests and bounded findings preserved."
+}

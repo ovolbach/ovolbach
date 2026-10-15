@@ -1,0 +1,147 @@
+[
+  {
+    "candidateId": "tsk-lubomir-choleva",
+    "contestId": "sk-national-council-2023",
+    "office": "national_council",
+    "outcome": "not_elected",
+    "date": "30. 9. 2023",
+    "claimIds": [
+      "tsk-lubomir-choleva-national-council-outcome-2023"
+    ],
+    "sourceIds": [
+      "tn-history-2023-all-results"
+    ],
+    "checkedAt": "2026-10-15",
+    "boundary": "Previously approved record retained; this four-office recheck does not reopen national, European or presidential elections."
+  },
+  {
+    "candidateId": "nsk-robert-svec",
+    "contestId": "2024-slovakia-president-round1",
+    "office": "president",
+    "outcome": "withdrawn",
+    "date": "23. 3. 2024",
+    "claimIds": [
+      "nsk-robert-svec-president-withdrawal-2024"
+    ],
+    "sourceIds": [
+      "president-candidates-2024",
+      "president-withdrawal-snina-2024"
+    ],
+    "checkedAt": "2026-10-15",
+    "boundary": "Previously approved record retained; this four-office recheck does not reopen national, European or presidential elections."
+  },
+  {
+    "candidateId": "bbsk-peter-brozman",
+    "contestId": "2023-sk-national-council",
+    "office": "national_council",
+    "outcome": "substitute",
+    "date": "Voľby 30.9.2023",
+    "claimIds": [
+      "bbsk-peter-brozman-national-council2023"
+    ],
+    "sourceIds": [
+      "bb-candidate-nr2023-03",
+      "nrsr2023-preference-table",
+      "nrsr2023-elected-mp-table",
+      "nrsr2023-party-mandates-table",
+      "kaso-nrsr-2023-withdrawal"
+    ],
+    "checkedAt": "2026-10-15",
+    "boundary": "Previously approved record retained; this four-office recheck does not reopen national, European or presidential elections."
+  },
+  {
+    "candidateId": "bbsk-magdalena-kovac-mergova",
+    "contestId": "2023-sk-national-council",
+    "office": "national_council",
+    "outcome": "substitute",
+    "date": "Voľby 30.9.2023",
+    "claimIds": [
+      "bbsk-magdalena-kovac-mergova-national-council2023"
+    ],
+    "sourceIds": [
+      "bb-candidate-nr2023-03",
+      "nrsr2023-preference-table",
+      "nrsr2023-elected-mp-table",
+      "nrsr2023-party-mandates-table",
+      "kaso-nrsr-2023-withdrawal"
+    ],
+    "checkedAt": "2026-10-15",
+    "boundary": "Previously approved record retained; this four-office recheck does not reopen national, European or presidential elections."
+  },
+  {
+    "candidateId": "bbsk-jan-cimerman",
+    "contestId": "2023-sk-national-council",
+    "office": "national_council",
+    "outcome": "not_elected",
+    "date": "Voľby 30.9.2023",
+    "claimIds": [
+      "bbsk-jan-cimerman-national-council2023"
+    ],
+    "sourceIds": [
+      "bb-candidate-nr2023-07",
+      "nrsr2023-preference-table",
+      "nrsr2023-elected-mp-table",
+      "nrsr2023-party-mandates-table",
+      "kaso-nrsr-2023-withdrawal"
+    ],
+    "checkedAt": "2026-10-15",
+    "boundary": "Previously approved record retained; this four-office recheck does not reopen national, European or presidential elections."
+  },
+  {
+    "candidateId": "bbsk-klaudia-hruskova",
+    "contestId": "2023-sk-national-council",
+    "office": "national_council",
+    "outcome": "not_elected",
+    "date": "Voľby 30.9.2023",
+    "claimIds": [
+      "bbsk-klaudia-hruskova-national-council2023"
+    ],
+    "sourceIds": [
+      "bb-candidate-nr2023-21",
+      "nrsr2023-preference-table",
+      "nrsr2023-elected-mp-table",
+      "nrsr2023-party-mandates-table",
+      "kaso-nrsr-2023-withdrawal"
+    ],
+    "checkedAt": "2026-10-15",
+    "boundary": "Previously approved record retained; this four-office recheck does not reopen national, European or presidential elections."
+  },
+  {
+    "candidateId": "bbsk-miroslav-cellar",
+    "contestId": "2023-sk-national-council",
+    "office": "national_council",
+    "outcome": "substitute",
+    "date": "Voľby 30.9.2023",
+    "claimIds": [
+      "bbsk-miroslav-cellar-national-council2023"
+    ],
+    "sourceIds": [
+      "mt-tomas-zanovit-nr2023-ballot",
+      "nrsr2023-preference-table",
+      "nrsr2023-elected-mp-table",
+      "nrsr2023-party-mandates-table",
+      "kaso-nrsr-2023-withdrawal"
+    ],
+    "checkedAt": "2026-10-15",
+    "boundary": "Previously approved record retained; this four-office recheck does not reopen national, European or presidential elections."
+  },
+  {
+    "candidateId": "bbsk-roman-malatinec",
+    "contestId": "2023-sk-national-council",
+    "office": "national_council",
+    "outcome": "elected",
+    "date": "Voľby 30.9.2023",
+    "claimIds": [
+      "bbsk-roman-malatinec-national-council2023"
+    ],
+    "sourceIds": [
+      "mt-tomas-zanovit-nr2023-ballot",
+      "nrsr2023-preference-table",
+      "nrsr2023-elected-mp-table",
+      "nrsr2023-party-mandates-table",
+      "kaso-nrsr-2023-withdrawal"
+    ],
+    "checkedAt": "2026-10-15",
+    "boundary": "Previously approved record retained; this four-office recheck does not reopen national, European or presidential elections."
+  }
+]

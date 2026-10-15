@@ -36,7 +36,13 @@ describe('four new cities: complete 2026 research', () => {
       expect(coverage.map((item) => item.category).sort(), candidate.id).toEqual([...researchCategories].sort());
       expect(data.campaignFinance.filter((item) => item.candidateId === candidate.id), candidate.id).toHaveLength(1);
     }
-    expect(data.campaignFinance.some((item) => item.account.status === 'verified' && item.account.verificationMethod === 'register_exclusion')).toBe(false);
+    for (const record of data.campaignFinance) {
+      if (record.account.status === 'verified' && record.account.verificationMethod === 'register_exclusion') {
+        expect(record.account.exclusionEvidence).toMatchObject({
+          scope: 'four-cities-2026', remainingCandidateId: record.candidateId,
+        });
+      }
+    }
   });
 
   it.each(cities)('preserves every reconciled official ballot row and seat count for %s', async (citySlug) => {

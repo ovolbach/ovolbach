@@ -1,0 +1,11 @@
+{
+  "reviewedAt": "2026-10-15T17:35:18.147961+00:00",
+  "decision": "approved_for_exact_bounded_application",
+  "deltaPath": ".internal/four-cities-recheck/events/dvonc-identity-correction.json",
+  "deltaSha256": "267688cf1e410556093757ec16db1c9041498682469f7e78e44bd3456fa6fd8d",
+  "verifiedRemovalOriginalHashes": 3,
+  "coverageSourceChoice": "Only current official roster IDs; no unverified adverse links in public coverage. Full source register metadata unchanged.",
+  "journalBoundary": "Exclusion status, no accepted claims, three removed IDs and compatible age only are coherent. Root must also remove candidate existingOrProposedClaimIds/event accepted bindings and update aggregate exclusions/counts when applying.",
+  "requiredPostApplicationVerification": "Targeted regression GREEN and final journal/coverage coherence; this does not approve all retained event identities or release.",
+  "noProductionOrFrozenEditsByReviewer": true
+}

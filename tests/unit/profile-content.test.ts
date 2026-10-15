@@ -88,4 +88,57 @@ describe('profile coverage content', () => {
       sourceIds: ['source-test', 'mayor-source'],
     });
   });
+
+  it.each(['2000', '2022-10-29', '29. 10. 2022', '29.10.2022', '29. októbra 2022', 'voľby 29. októbra 2022', 'Voľby 4.11.2017', 'Voľby 2022'])
+    ('counts a historical result with period %s', (period) => {
+      expect(summarizeElectionHistory([result(period)]).participations).toBe(1);
+    });
+
+  it.each(['1999', '29. 10. 1998', '1998–2002', '2022–2026', 'voľby bez dátumu', '12022'])
+    ('does not guess an eligible election year from period %s', (period) => {
+      expect(summarizeElectionHistory([result(period)]).participations).toBe(0);
+    });
+
+  it('counts two rounds of the same historical contest once and separate offices independently', () => {
+    const firstRound = result('9. 11. 2013');
+    const secondRound = { ...result('23. novembra 2013'), id: 'second-round' };
+    const council = { ...result('9. 11. 2013'), id: 'council', election: {
+      contestId: 'regional-council-2013', office: 'regional_council' as const, outcome: 'substitute' as const,
+    } };
+    expect(summarizeElectionHistory([firstRound, secondRound, council])).toMatchObject({
+      participations: 2, wins: 1, regionalChairWins: 1, deputyWins: 0,
+    });
+  });
+
+  it('excludes withdrawals in Slovak-date periods and detects contradictory results', () => {
+    const withdrawn = { ...result('29. októbra 2022'), election: {
+      contestId: 'regional-chair-test', office: 'regional_chair' as const, outcome: 'withdrawn' as const,
+    } };
+    expect(summarizeElectionHistory([withdrawn])).toMatchObject({ participations: 0, wins: 0, sourceIds: [] });
+    const lost = { ...result('2022'), id: 'conflict', election: {
+      ...result('2022').election!, outcome: 'not_elected' as const,
+    } };
+    expect(() => summarizeElectionHistory([result('29. októbra 2022'), lost])).toThrow('Conflicting election metadata');
+  });
+
+  it('counts distinct offices sharing a legacy election ID and excludes withdrawn-office sources', () => {
+    const mayor = { ...result('voľby 29. 10. 2022'), sourceIds: ['mayor-source'], election: {
+      contestId: 'municipal-2022', office: 'mayor' as const, outcome: 'not_elected' as const,
+    } };
+    const council = { ...result('2022'), id: 'council-result', sourceIds: ['council-source'], election: {
+      contestId: 'municipal-2022', office: 'municipal_council' as const, outcome: 'elected' as const,
+    } };
+    expect(summarizeElectionHistory([mayor, council])).toMatchObject({ participations: 2, wins: 1, deputyWins: 1 });
+    expect(summarizeElectionHistory([{ ...mayor, election: { ...mayor.election, outcome: 'withdrawn' } }, council]))
+      .toMatchObject({ participations: 1, wins: 1, sourceIds: ['council-source'] });
+  });
 });
+
+function result(period: string): Claim {
+  return {
+    id: 'historical-result', candidateId: 'candidate-test', category: 'previous_elections', kind: 'election_result',
+    label: { sk: 'Výsledok volieb' }, text: { sk: 'Oficiálny výsledok: zvolený.' }, period,
+    sourceIds: ['source-test'], checkedAt: '2026-10-15',
+    election: { contestId: 'regional-chair-test', office: 'regional_chair', outcome: 'elected' },
+  };
+}

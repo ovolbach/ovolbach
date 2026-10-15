@@ -22,14 +22,16 @@ export function summarizeElectionHistory(claims: Claim[]): ElectionHistorySummar
   const eligibleClaims: Claim[] = [];
 
   for (const claim of claims) {
-    const year = Number.parseInt(claim.period?.slice(0, 4) ?? '', 10);
+    const years = [...new Set(claim.period?.match(/\b[12]\d{3}\b/g) ?? [])];
+    const year = years.length === 1 ? Number(years[0]) : NaN;
     if (!claim.election || !Number.isInteger(year) || year < 2000) continue;
 
-    const previous = contests.get(claim.election.contestId);
+    const contestKey = `${claim.election.office}:${claim.election.contestId}`;
+    const previous = contests.get(contestKey);
     if (previous && (previous.office !== claim.election.office || previous.outcome !== claim.election.outcome)) {
       throw new Error(`Conflicting election metadata for ${claim.election.contestId}`);
     }
-    contests.set(claim.election.contestId, claim.election);
+    contests.set(contestKey, claim.election);
     eligibleClaims.push(claim);
   }
 
@@ -46,7 +48,7 @@ export function summarizeElectionHistory(claims: Claim[]): ElectionHistorySummar
     regionalChairWins: elected.filter((record) => record.office === 'regional_chair').length,
     presidentWins: elected.filter((record) => record.office === 'president').length,
     sourceIds: [...new Set(eligibleClaims
-      .filter((claim) => participatingIds.has(claim.election!.contestId))
+      .filter((claim) => participatingIds.has(`${claim.election!.office}:${claim.election!.contestId}`))
       .flatMap((claim) => claim.sourceIds))],
   };
 }

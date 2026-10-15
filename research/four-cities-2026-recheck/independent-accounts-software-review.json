@@ -1,0 +1,72 @@
+{
+  "reviewedAt": "2026-10-15",
+  "reviewer": "independent_review",
+  "phase": "accounts-and-software-before-final-integration",
+  "baseline": "82a3542",
+  "proposalSha256": "1f7f4b5d2056525d85d1c3ae0198d586a3a8f56f898bf70cddc2cf5b580da65e",
+  "scope": [
+    "19 proposed finance replacements",
+    "8 new account/candidate sources",
+    "all 17 register_exclusion dossiers",
+    "13 preserved candidate_site accounts",
+    "546 account journals and query-receipt bindings",
+    "src/lib/schemas.ts",
+    "src/lib/profile-content.ts",
+    "fixed 546-ID cohort",
+    "targeted regression tests"
+  ],
+  "verdict": "No actionable critical, important or minor findings in reviewed package. Final integrated-branch review remains pending.",
+  "findings": [],
+  "evidence": {
+    "nationalRegisters": {
+      "method": "Independent ZIP/XML parse of original captured XLSX, separate from proposal parser; verified complete sheet dimensions, every candidate row, original SHA256, exact name matches and age/municipality/occupation consistency.",
+      "rowCounts": {
+        "mayor": 6560,
+        "city-council": 40184,
+        "region-chair": 56,
+        "region-council": 2472
+      },
+      "all17Dossiers": "Each name resolved to exactly one age/municipality group across all four registers; no omitted additional namesake found. Multiple occupations for Natalia Svitkova are compatible concurrent roles, with same age and municipality."
+    },
+    "campaignPurpose": {
+      "tis16": "Read original 2026 TIS JSON and checked all 16 exact candidate JSON pointers, personal account field, election date and locale. partyAccounts was not used as ownership.",
+      "nemeth": "Read original Fio owner header naming Viktor Nemeth and verified the exact Volby Vrable 2026 passage/offset and extracted-text digest. No expenditure or operator inference.",
+      "bankModes": {
+        "readable_owner": 7,
+        "javascript_shell": 8,
+        "unavailable": 2
+      },
+      "blockedAndShells": "Bounded explicitly in journals; verification rests on readable current TIS personal account declaration and four-register uniqueness, with ministry exact named links where available.",
+      "candidateSites13": "Checked preserved exact IBAN in text or exact bank URL in original HTML and candidate/campaign context. Varga campaign-information page prints IBAN; Horvathova restored URL comes from exact named ministry index."
+    },
+    "excludedLeads": "Read bank owner headers for all 9 different_owner cases and all 6 same-name accounts lacking 2026 campaign-purpose evidence. No donor name accepted as owner; no duty or party nomination used to exclude a voluntary account. Diana Javorcikova remains unverified because TIS personal account is empty and PS account is in partyAccounts.",
+    "digests": "Verified all 250 exported receipt-file hashes and available original body SHA256 values; zero mismatches. Verified all 546 exact ID/person/query bindings and hashes across 137 actual search batches.",
+    "counts": {
+      "verified": 30,
+      "candidate_site": 13,
+      "register_exclusion": 17,
+      "unverified": 1,
+      "not_listed": 515
+    },
+    "scopeAndPreservation": "Fixed IDs are unique and equal the exact 546 candidates in the four approved regional datasets. New scope rejects arbitrary matching prefixes; original PSK branch unchanged. Every replacement preserves finance fields outside account/sourceIds/checkedAt.",
+    "software": "Date extraction accepts one distinct explicit four-digit year >=2000; office plus contestId deduplicates repeated rounds and separates different offices. Withdrawn contests and their sources excluded; conflicting outcomes for same office/contest throw. Existing name-plus-two-attribute requirement retained outside exclusion method.",
+    "privacy": "Reviewed public proposal and account journals contain minimal names/municipality/age/role/account attribution data and receipt metadata; original bank bodies, transaction parties, balances, private addresses and full birthdates remain outside exports."
+  },
+  "verification": [
+    {
+      "command": "npm test -- tests/unit/profile-content.test.ts tests/unit/four-cities-account-exclusion.test.ts",
+      "exitCode": 0,
+      "summary": "2 files,31 tests passed"
+    },
+    {
+      "command": "independent Python read-only XLSX/TIS/digest/cohort/proposal reconciliation",
+      "exitCode": 0,
+      "summary": "All checks above passed"
+    }
+  ],
+  "limitations": [
+    "This reviews the immutable accounts proposal plus pending software changes; no assessment of unseen event/history proposals or final integration yet.",
+    "Receipts authenticate integrity of the captured originals; this review reads those originals and does not independently repeat live network downloads.",
+    "Automated checks supplement the manual evidence review and do not establish exhaustive real-world account discovery."
+  ]
+}

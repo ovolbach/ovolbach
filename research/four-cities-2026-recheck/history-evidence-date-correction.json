@@ -1,0 +1,143 @@
+{
+  "checkedAt": "2026-10-15",
+  "type": "evidence_metadata_correction",
+  "frozenBaseRosterSha256": "dd7bfc1a6c49242299d9499ebf348a7972e6670f9ad3503dcc36c9b593e653b9",
+  "reason": "TASR reports age on 7 October 2014, separately from election day 15 November. Both joins remain age-compatible; official result claims and counters are unchanged.",
+  "claimUpserts": [],
+  "acceptedRosterCorrections": [
+    {
+      "candidateId": "tsk-danica-birosova",
+      "contestId": "2014-11-15-trencin-mayor",
+      "office": "mayor",
+      "oldAgeObservationDate": "2014-11-15",
+      "correctAgeObservationDate": "2014-10-07",
+      "acceptedRosterReplacement": {
+        "candidateId": "tsk-danica-birosova",
+        "candidateName": "Danica Birošová",
+        "contestId": "2014-11-15-trencin-mayor",
+        "office": "mayor",
+        "date": "2014-11-15",
+        "locality": "Trenčín",
+        "localityCode": "trencin",
+        "outcome": "not_elected",
+        "votes": 1525,
+        "percentage": null,
+        "percentageAvailability": "not published in the reviewed table; not calculated",
+        "claimIds": [
+          "tsk-danica-birosova-history-2014-11-15-mayor-trencin"
+        ],
+        "sourceIds": [
+          "statistics-mayor-results-2014",
+          "history-recheck-ee48ffab8b829499"
+        ],
+        "identityJoin": {
+          "name": "Danica Birošová",
+          "attributes": [
+            {
+              "type": "municipality",
+              "value": "Trenčín"
+            },
+            {
+              "type": "age",
+              "historical": 57,
+              "historicalDate": "2014-10-07",
+              "current": 69,
+              "currentDate": "2026-10-24",
+              "method": "Age explicitly reported on the TASR publication date; overlap with the current official election-age interval is verified. Election date remains a separate result date."
+            }
+          ],
+          "directBridge": null,
+          "currentSourceIds": [
+            "tn-mayor-roster-2026"
+          ]
+        },
+        "evidenceRows": {
+          "candidate": 1803,
+          "result": 1803,
+          "localAge": {
+            "sourceKey": "root-trencin2014-tasr-age",
+            "rowContextVerified": true,
+            "independentReview": "Root read the authenticated TASR original of 7 October 2014: the own clause names the 57-year-old lawyer JUDr. Danica Birošová as a Trenčín mayor candidate. The official chronicle clipping is only corroboration.",
+            "ageObservationDate": "2014-10-07"
+          },
+          "localOutcome": null
+        },
+        "sourceKeys": [
+          "open-oso-2014-OSO_2014_tab11",
+          "open-oso-2014-OSO_2014_tab11",
+          "root-trencin2014-tasr-age"
+        ],
+        "rounds": [],
+        "verificationStatus": "fresh_original_reconciled"
+      }
+    },
+    {
+      "candidateId": "tsk-tomas-vano",
+      "contestId": "2014-11-15-trencin-mayor",
+      "office": "mayor",
+      "oldAgeObservationDate": "2014-11-15",
+      "correctAgeObservationDate": "2014-10-07",
+      "acceptedRosterReplacement": {
+        "candidateId": "tsk-tomas-vano",
+        "candidateName": "Tomáš Vaňo",
+        "contestId": "2014-11-15-trencin-mayor",
+        "office": "mayor",
+        "date": "2014-11-15",
+        "locality": "Trenčín",
+        "localityCode": "trencin",
+        "outcome": "not_elected",
+        "votes": 1692,
+        "percentage": null,
+        "percentageAvailability": "not published in the reviewed table; not calculated",
+        "claimIds": [
+          "tsk-tomas-vano-history-2014-11-15-mayor-trencin"
+        ],
+        "sourceIds": [
+          "statistics-mayor-results-2014",
+          "history-recheck-ee48ffab8b829499"
+        ],
+        "identityJoin": {
+          "name": "Tomáš Vaňo",
+          "attributes": [
+            {
+              "type": "municipality",
+              "value": "Trenčín"
+            },
+            {
+              "type": "age",
+              "historical": 34,
+              "historicalDate": "2014-10-07",
+              "current": 46,
+              "currentDate": "2026-10-24",
+              "method": "Age explicitly reported on the TASR publication date; overlap with the current official election-age interval is verified. Election date remains a separate result date."
+            }
+          ],
+          "directBridge": null,
+          "currentSourceIds": [
+            "tn-council-roster-2026",
+            "tsk-council-district9-roster-2026"
+          ]
+        },
+        "evidenceRows": {
+          "candidate": 1802,
+          "result": 1802,
+          "localAge": {
+            "sourceKey": "root-trencin2014-tasr-age",
+            "rowContextVerified": true,
+            "independentReview": "Root read the authenticated TASR original of 7 October 2014: the own clause names the 34-year-old manager Bc. Tomáš Vaňo as a Trenčín mayor candidate. The official chronicle clipping is only corroboration; the separate national council row has the same name and municipality.",
+            "ageObservationDate": "2014-10-07"
+          },
+          "localOutcome": null
+        },
+        "sourceKeys": [
+          "open-oso-2014-OSO_2014_tab11",
+          "open-oso-2014-OSO_2014_tab11",
+          "root-trencin2014-tasr-age"
+        ],
+        "rounds": [],
+        "verificationStatus": "fresh_original_reconciled"
+      }
+    }
+  ],
+  "appliedBy": "root; original immutable delta retained in internal research with its original SHA256"
+}

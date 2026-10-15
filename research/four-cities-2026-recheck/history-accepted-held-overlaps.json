@@ -1,0 +1,73 @@
+{
+  "checkedAt": "2026-10-15",
+  "boundarySk": "Pracovný zoznam počíta zdrojové riadky a ich medzery, nie iba nepotvrdené voľby. Pri štyroch zachovaných účastiach zostáva neúplný podtyp výsledku. Samostatný vrábeľský mestský archív zase dopĺňa účasť mimo ústrednej čiastočnej tabuľky. Žiadny z týchto prípadov sa nepočíta dvakrát.",
+  "acceptedHeldSubtypeOverlaps": [
+    {
+      "candidateId": "ttsk-stanislav-surin",
+      "contestId": "2018-506745-city-council",
+      "date": "2018-11-10",
+      "office": "municipal_council",
+      "locality": "Trnava",
+      "acceptedClaimIds": [
+        "ttsk-stanislav-surin-previous_elections-1-2026"
+      ],
+      "sourceRowGap": [
+        "explicit final official outcome, including substitute status where relevant"
+      ],
+      "reasonSk": "Potvrdená účasť, totožnosť a základný stav nezvoleného sú zachované. Presný podtyp náhradníka v miestnej zápisnici chýba; zdrojový riadok preto ostáva v zozname obmedzení, bez ďalšieho započítania."
+    },
+    {
+      "candidateId": "ttsk-ivana-varga-babelova",
+      "contestId": "2018-506745-city-council",
+      "date": "2018-11-10",
+      "office": "municipal_council",
+      "locality": "Trnava",
+      "acceptedClaimIds": [
+        "ttsk-ivana-varga-babelova-previous_elections-1-2026"
+      ],
+      "sourceRowGap": [
+        "explicit final official outcome, including substitute status where relevant"
+      ],
+      "reasonSk": "Potvrdená účasť, totožnosť a základný stav nezvoleného sú zachované. Presný podtyp náhradníka v miestnej zápisnici chýba; zdrojový riadok preto ostáva v zozname obmedzení, bez ďalšieho započítania."
+    },
+    {
+      "candidateId": "ttsk-kristina-rysava",
+      "contestId": "2018-506745-city-council",
+      "date": "2018-11-10",
+      "office": "municipal_council",
+      "locality": "Trnava",
+      "acceptedClaimIds": [
+        "ttsk-kristina-rysava-previous_elections-1-2026"
+      ],
+      "sourceRowGap": [
+        "explicit final official outcome, including substitute status where relevant"
+      ],
+      "reasonSk": "Potvrdená účasť, totožnosť a základný stav nezvoleného sú zachované. Presný podtyp náhradníka v miestnej zápisnici chýba; zdrojový riadok preto ostáva v zozname obmedzení, bez ďalšieho započítania."
+    },
+    {
+      "candidateId": "ttsk-marian-kubal",
+      "contestId": "2018-506745-city-council",
+      "date": "2018-11-10",
+      "office": "municipal_council",
+      "locality": "Trnava",
+      "acceptedClaimIds": [
+        "ttsk-marian-kubal-previous_elections-1-2026"
+      ],
+      "sourceRowGap": [
+        "explicit final official outcome, including substitute status where relevant"
+      ],
+      "reasonSk": "Potvrdená účasť, totožnosť a základný stav nezvoleného sú zachované. Presný podtyp náhradníka v miestnej zápisnici chýba; zdrojový riadok preto ostáva v zozname obmedzení, bez ďalšieho započítania."
+    }
+  ],
+  "acceptedOutsideCentralRawTable": [
+    {
+      "candidateId": "nsk-branislav-banyi",
+      "datasetId": "2018-municipal_council",
+      "contestId": "2018-11-10-500933-municipal_council",
+      "acceptedClaimIds": [
+        "nsk-branislav-banyi-history-2018-11-10-municipal_council-500933"
+      ],
+      "reasonSk": "Účasť je doložená samostatne prečítaným mestským archívom Vrábeľ mimo čiastočného ústredného zdrojového súboru. Nie je to nepriradená účasť ani nový duplicitný záznam."
+    }
+  ]
+}

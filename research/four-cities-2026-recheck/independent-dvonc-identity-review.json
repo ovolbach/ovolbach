@@ -1,0 +1,73 @@
+{
+  "reviewedAt": "2026-10-15T17:32:41.117700+00:00",
+  "scope": "Independent read-only re-adjudication of the three baseline RegioJet2016 claims for nsk-jozef-dvonc; no frozen or production files changed.",
+  "decision": "changes_required_before_final_signoff",
+  "supersedes": "The earlier bounded event-content approval did not resolve this current-person identity defect; it must not be treated as approval to retain these three claims.",
+  "rule": {
+    "path": "AGENTS.md",
+    "lines": [
+      95,
+      107
+    ],
+    "requirement": "Name plus two additional matching attributes, with contradictory municipality considered and ambiguous joins excluded."
+  },
+  "currentCandidate": {
+    "candidateId": "nsk-jozef-dvonc",
+    "officialDisplayName": "Jozef DVONČ, doc. Ing., CSc.",
+    "ageAtElection": 72,
+    "occupation": "dôchodca",
+    "municipality": "Babindol",
+    "partyCoalition": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ]
+  },
+  "evidence": [
+    {
+      "sourceId": "nr-dvonc-regiojet-report-2016",
+      "url": "https://www.teraz.sk/ekonomika/trestne-oznamenie-regiojetu-na-primat/224654-clanok.html",
+      "sha256": "e3de1a8884fc4c3cf8df4753824d154f1bc124081b712f0aae48874981abca93",
+      "readContext": "25Oct2016 TASR article identifies the historical Nitra mayor and the complaint/refusal/response. It provides no Babindol, current retiree, current campaign, or party bridge."
+    },
+    {
+      "sourceId": "nr-dvonc-identity-rpvs-2018",
+      "url": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/66803",
+      "sha256": "9242e31013d9d6d60e98c65e4619081b4f17a08062a6ea0b1edceaced0ce8955",
+      "readContext": "Previously independently inspected own row and public-functions table: birth year1954 is compatible with72; name includes the full qualifications; public mayor role binds old sources. Nitra belongs to the residence-address column and is not office-municipality evidence. No private address or full DOB is exported."
+    }
+  ],
+  "attributeAssessment": {
+    "nameAndQualifications": "One name identity component, not an extra attribute for every title.",
+    "compatibleAge": "One corroborating attribute.",
+    "historicalMayorRole": "Binds RPVS to the historical event; current ballot independently says retiree, so this cannot serve as a second matching current-person attribute.",
+    "municipality": "Historical Nitra versus current Babindol; no independently authenticated career or relocation bridge found in the bounded targeted review.",
+    "currentParty": "Coalition is known on current ballot, but the inspected event/identity originals do not independently bridge it to this current person.",
+    "secondIndependentCurrentPersonAttribute": null
+  },
+  "affectedClaimIds": [
+    "nsk-jozef-dvonc-regiojet-complaint-report-2016",
+    "nsk-jozef-dvonc-regiojet-police-prosecutor-report-2016",
+    "nsk-jozef-dvonc-regiojet-response-2016"
+  ],
+  "requiredCorrection": [
+    "Remove all three claims through a separate immutable, reviewed delta.",
+    "Change controversies coverage from found to searched_none if these are its only accepted claims, retaining a truthful dated identity-exclusion explanation.",
+    "Update event family and candidate bindings, accepted-claim counts, original-read/identity gaps and exclusion summaries; retain the original receipts as discovery evidence.",
+    "Do not describe the historical official as a different person with certainty; the join is unresolved. Do not infer exoneration or any new legal outcome."
+  ],
+  "noReleaseApproval": true,
+  "coverageSourceChoiceReview": {
+    "decision": "approved_for_correction_delta",
+    "candidateId": "nsk-jozef-dvonc",
+    "category": "controversies",
+    "status": "searched_none",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "basis": "The official sources anchor the current person only. The bounded search and insufficient-identity exclusion are documented in the journal; searched_none means no sufficiently reliable evidence joined to this candidate. The adverse RegioJet/RPVS source links must be absent from this public coverage record, while every existing global source metadata record and private/original claim snapshot stays unchanged.",
+    "doesNotAssert": "This is not evidence that no such event exists or that the historical official is conclusively a different person."
+  }
+}

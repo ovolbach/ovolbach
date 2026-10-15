@@ -173,7 +173,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -248,7 +250,12 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -397,7 +404,11 @@
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
       "nrsr2023-candidates-table",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -549,7 +560,13 @@
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
       "nrsr2023-candidates-table",
-      "ep2024-candidate-roster-table"
+      "ep2024-candidate-roster-table",
+      "history-recheck-536bc07ec94e429c",
+      "statistics-zsk-chair-results-2022",
+      "history-recheck-6e89c294180dc15c",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab"
     ]
   },
   {
@@ -689,7 +706,10 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "history-recheck-vrable-municipal-archive"
     ]
   },
   {
@@ -774,7 +794,24 @@
       "statistics-regional-outcomes-2022",
       "nrsr2023-candidates-table",
       "ep2024-candidate-roster-table",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "history-recheck-536bc07ec94e429c",
+      "statistics-zsk-chair-results-2022",
+      "history-recheck-6e89c294180dc15c",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d",
+      "statistics-mayor-results-2014",
+      "nr-lead-2662-press-original",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd"
     ]
   },
   {
@@ -811,9 +848,11 @@
     "id": "coverage-nsk-branislav-becik-controversies",
     "candidateId": "nsk-branislav-becik",
     "category": "controversies",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "recheck-events-stage-cc4c45f5234cbbdf"
+    ]
   },
   {
     "id": "coverage-nsk-daniel-balko-basic",
@@ -862,7 +901,20 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "nrsr2023-candidates-table"
+      "nrsr2023-candidates-table",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -937,7 +989,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -1080,7 +1134,12 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -1157,7 +1216,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
       "statistics-municipal-results-legend-2022",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-93705c2828994a0e",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -1300,7 +1364,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -1381,7 +1447,13 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
     ]
   },
   {
@@ -1535,7 +1607,30 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "history-recheck-c14c9caa1e35ea3b",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "history-recheck-83d6e6b194c3e276",
+      "history-recheck-508ddb6452814bd5",
+      "history-recheck-9d1ccb76e166e1ef",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -1618,7 +1713,21 @@
       "statistics-regional-outcomes-2022",
       "nrsr2023-candidates-table",
       "ep2024-candidate-roster-table",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -1832,7 +1941,11 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -2051,7 +2164,11 @@
     "sourceIds": [
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -2147,7 +2264,15 @@
       "statistics-council-votes-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -2232,7 +2357,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -2304,7 +2431,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
       "statistics-municipal-results-legend-2022",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -2519,7 +2651,13 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -2738,7 +2876,23 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd",
+      "history-recheck-00bdd2d4ea30664d"
     ]
   },
   {
@@ -2839,9 +2993,12 @@
     "id": "coverage-nsk-jan-rejda-controversies",
     "candidateId": "nsk-jan-rejda",
     "category": "controversies",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "recheck-events-lead-235970ec2b834145",
+      "recheck-events-rejda-official2012bridge"
+    ]
   },
   {
     "id": "coverage-nsk-jan-vanco-basic",
@@ -2889,7 +3046,28 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "history-recheck-c14c9caa1e35ea3b",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "history-recheck-9d1ccb76e166e1ef",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -3046,7 +3224,15 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -3119,7 +3305,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -3187,9 +3375,13 @@
     "id": "coverage-nsk-jaroslav-doczy-previous_elections",
     "candidateId": "nsk-jaroslav-doczy",
     "category": "previous_elections",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
+    ]
   },
   {
     "id": "coverage-nsk-jaroslav-doczy-programme_statements",
@@ -3254,9 +3446,13 @@
     "id": "coverage-nsk-jaroslav-macek-previous_elections",
     "candidateId": "nsk-jaroslav-macek",
     "category": "previous_elections",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
+    ]
   },
   {
     "id": "coverage-nsk-jaroslav-macek-programme_statements",
@@ -3422,11 +3618,11 @@
     "id": "coverage-nsk-jozef-dvonc-controversies",
     "candidateId": "nsk-jozef-dvonc",
     "category": "controversies",
-    "status": "found",
+    "status": "searched_none",
     "checkedAt": "2026-10-15",
     "sourceIds": [
-      "nr-dvonc-regiojet-report-2016",
-      "nr-dvonc-identity-rpvs-2018"
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
     ]
   },
   {
@@ -3544,7 +3740,16 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "nrsr2023-candidates-table"
+      "nrsr2023-candidates-table",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd",
+      "statistics-mayor-results-2014"
     ]
   },
   {
@@ -3758,7 +3963,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -3828,9 +4035,22 @@
     "id": "coverage-nsk-juraj-gajdos-previous_elections",
     "candidateId": "nsk-juraj-gajdos",
     "category": "previous_elections",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "history-recheck-c14c9caa1e35ea3b",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
+    ]
   },
   {
     "id": "coverage-nsk-juraj-gajdos-programme_statements",
@@ -4065,7 +4285,13 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -4138,7 +4364,12 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -4355,7 +4586,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -4434,7 +4667,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
       "statistics-municipal-results-legend-2022",
-      "nrsr2023-candidates-table"
+      "nrsr2023-candidates-table",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -4513,7 +4751,12 @@
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
       "statistics-municipal-results-legend-2022",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -4591,7 +4834,15 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -4731,7 +4982,18 @@
     "sourceIds": [
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -4814,7 +5076,21 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -4899,7 +5175,13 @@
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
       "nrsr2023-candidates-table",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -4973,9 +5255,13 @@
     "id": "coverage-nsk-lukas-hnilica-previous_elections",
     "candidateId": "nsk-lukas-hnilica",
     "category": "previous_elections",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "history-recheck-93705c2828994a0e",
+      "history-recheck-b5f7d702b090f068"
+    ]
   },
   {
     "id": "coverage-nsk-lukas-hnilica-programme_statements",
@@ -5045,7 +5331,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -5124,7 +5412,13 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "nrsr2023-candidates-table"
+      "nrsr2023-candidates-table",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -5270,7 +5564,13 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "nrsr2023-candidates-table"
+      "nrsr2023-candidates-table",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -5352,7 +5652,14 @@
       "statistics-mayor-candidates-2022",
       "statistics-mayor-votes-2022",
       "statistics-municipal-results-legend-2022",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd",
+      "history-recheck-00bdd2d4ea30664d"
     ]
   },
   {
@@ -5395,7 +5702,8 @@
     "sourceIds": [
       "nr-varga-severance-2026",
       "nr-organisational-change-2026",
-      "nr-music-project-opponent-report-2026"
+      "nr-music-project-opponent-report-2026",
+      "recheck-events-lead-269d62c6bd07507f"
     ]
   },
   {
@@ -5445,7 +5753,18 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -5520,7 +5839,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -5865,7 +6186,9 @@
       "statistics-mayor-votes-2022",
       "statistics-municipal-results-legend-2022",
       "nrsr2023-candidates-table",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
     ]
   },
   {
@@ -5940,7 +6263,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -6019,7 +6344,20 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -6167,7 +6505,11 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "nrsr2023-candidates-table"
+      "nrsr2023-candidates-table",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -6319,7 +6661,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -6394,7 +6738,10 @@
     "sourceIds": [
       "statistics-regional-chair-candidates-2022",
       "regional2022-chair-votes-table",
-      "nrsr2023-candidates-table"
+      "nrsr2023-candidates-table",
+      "history-recheck-536bc07ec94e429c",
+      "statistics-zsk-chair-results-2022",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -6427,9 +6774,12 @@
     "id": "coverage-nsk-martin-kusenda-controversies",
     "candidateId": "nsk-martin-kusenda",
     "category": "controversies",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "recheck-events-lead-4a754e0db232e94d",
+      "nr-lead-1138-press-original"
+    ]
   },
   {
     "id": "coverage-nsk-martin-palkovic-basic",
@@ -6679,7 +7029,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -6756,7 +7108,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -6970,7 +7324,12 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -7001,9 +7360,14 @@
     "id": "coverage-nsk-mikulas-dunda-controversies",
     "candidateId": "nsk-mikulas-dunda",
     "category": "controversies",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "recheck-events-stage-b781b8a8f11ecd5b",
+      "recheck-events-lead-3a52548ad8922eb5",
+      "recheck-events-lead-b2f795efaf75fafa",
+      "nr-employment-orsr-extract-58501-9-current"
+    ]
   },
   {
     "id": "coverage-nsk-milan-biro-basic",
@@ -7050,7 +7414,13 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
     ]
   },
   {
@@ -7133,7 +7503,24 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "history-recheck-c14c9caa1e35ea3b",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -7209,7 +7596,16 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "history-recheck-9d1ccb76e166e1ef",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a"
     ]
   },
   {
@@ -7297,7 +7693,24 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "history-recheck-c14c9caa1e35ea3b",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -7379,7 +7792,16 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {
@@ -7460,7 +7882,20 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -7683,7 +8118,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -8034,7 +8471,9 @@
     "sourceIds": [
       "statistics-mayor-candidates-2022",
       "statistics-mayor-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
     ]
   },
   {
@@ -8176,7 +8615,13 @@
     "sourceIds": [
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -8244,9 +8689,13 @@
     "id": "coverage-nsk-pavol-deglovic-previous_elections",
     "candidateId": "nsk-pavol-deglovic",
     "category": "previous_elections",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "history-recheck-9d1ccb76e166e1ef",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a"
+    ]
   },
   {
     "id": "coverage-nsk-pavol-deglovic-programme_statements",
@@ -8320,7 +8769,11 @@
       "statistics-mayor-votes-2022",
       "statistics-municipal-results-legend-2022",
       "statistics-council-candidates-2022",
-      "statistics-council-votes-2022"
+      "statistics-council-votes-2022",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -8405,7 +8858,13 @@
       "statistics-mayor-votes-2022",
       "statistics-municipal-results-legend-2022",
       "statistics-council-candidates-2022",
-      "statistics-council-votes-2022"
+      "statistics-council-votes-2022",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -8554,7 +9013,13 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -8628,7 +9093,11 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -8838,7 +9307,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -8994,7 +9465,20 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -9143,7 +9627,11 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -9233,7 +9721,31 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "history-recheck-6378b3b3416e84db",
+      "history-recheck-9f03d8af2d52e383",
+      "history-recheck-a7f2bc3578124b1b",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "history-recheck-c5ad68e53ce4f219",
+      "history-recheck-d4d8a53d1cc6668a",
+      "history-recheck-c14c9caa1e35ea3b",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd",
+      "history-recheck-00bdd2d4ea30664d"
     ]
   },
   {
@@ -9376,7 +9888,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -9530,7 +10044,16 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "nrsr2023-candidates-table"
+      "nrsr2023-candidates-table",
+      "history-recheck-536bc07ec94e429c",
+      "statistics-zsk-chair-results-2022",
+      "history-recheck-6e89c294180dc15c",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "history-recheck-c40200b6c4f24501"
     ]
   },
   {
@@ -9603,7 +10126,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -9681,7 +10206,11 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -9895,7 +10424,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -10471,7 +11002,15 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068"
     ]
   },
   {
@@ -10819,7 +11358,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -11172,7 +11713,13 @@
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
-      "nrsr2023-candidates-table"
+      "nrsr2023-candidates-table",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -11256,7 +11803,25 @@
       "statistics-council-votes-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd",
+      "history-recheck-00bdd2d4ea30664d"
     ]
   },
   {
@@ -11424,7 +11989,25 @@
       "statistics-regional-votes-xlsx-2022",
       "statistics-regional-outcomes-2022",
       "nrsr2023-candidates-table",
-      "dk-national-results2020-c3"
+      "dk-national-results2020-c3",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "history-recheck-536bc07ec94e429c",
+      "statistics-zsk-chair-results-2022",
+      "history-recheck-6e89c294180dc15c",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "history-recheck-c14c9caa1e35ea3b",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-elected-2014"
     ]
   },
   {
@@ -11609,7 +12192,9 @@
       "nsk-gaspar-separate-charge-2024",
       "nsk-gaspar-ocistec-hearing-2026",
       "nsk-ocistec-latest-hearing-2026",
-      "nsk-gaspar-majersky-suit-2026"
+      "nsk-gaspar-majersky-suit-2026",
+      "recheck-events-stage-5025f20a5351e980",
+      "recheck-events-gaspar-motion1208-program-result"
     ]
   },
   {
@@ -11846,9 +12431,13 @@
     "id": "coverage-nsk-veronika-gabcikova-previous_elections",
     "candidateId": "nsk-veronika-gabcikova",
     "category": "previous_elections",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
+    ]
   },
   {
     "id": "coverage-nsk-veronika-gabcikova-programme_statements",
@@ -11878,9 +12467,11 @@
     "id": "coverage-nsk-veronika-gabcikova-controversies",
     "candidateId": "nsk-veronika-gabcikova",
     "category": "controversies",
-    "status": "searched_none",
+    "status": "found",
     "checkedAt": "2026-10-15",
-    "sourceIds": []
+    "sourceIds": [
+      "recheck-events-lead-4a754e0db232e94d"
+    ]
   },
   {
     "id": "coverage-nsk-viktor-nemeth-basic",
@@ -11926,7 +12517,11 @@
       "statistics-mayor-votes-2022",
       "statistics-municipal-results-legend-2022",
       "statistics-council-candidates-2022",
-      "statistics-council-votes-2022"
+      "statistics-council-votes-2022",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -12005,7 +12600,9 @@
     "sourceIds": [
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-municipal-results-legend-2022"
+      "statistics-municipal-results-legend-2022",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -12079,7 +12676,13 @@
       "statistics-mayor-candidates-2022",
       "statistics-mayor-votes-2022",
       "statistics-municipal-results-legend-2022",
-      "nrsr2023-candidates-table"
+      "nrsr2023-candidates-table",
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d",
+      "history-recheck-c14c9caa1e35ea3b",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
     ]
   },
   {
@@ -12299,7 +12902,16 @@
       "statistics-municipal-results-legend-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-votes-xlsx-2022",
-      "statistics-regional-outcomes-2022"
+      "statistics-regional-outcomes-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-recheck-b5f7d702b090f068",
+      "history-recheck-93705c2828994a0e"
     ]
   },
   {

@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-15",
+  "candidateId": "nsk-jozef-dvonc",
+  "reviewNote": "review-dvonc-baseline-identity-correction.json",
+  "claimRemovals": [
+    {
+      "claimId": "nsk-jozef-dvonc-regiojet-complaint-report-2016",
+      "candidateId": "nsk-jozef-dvonc",
+      "originalSha256": "4481c9db4eac26b3b42b1307a18208397e2fb4ed681f5c0d52bbd6eb967a5348",
+      "reasonSk": "Zlučiteľný vek je jediný ďalší nezávislý znak k súčasnému kandidátovi. Tituly sú súčasťou mena; staršia funkcia prepojuje dva historické doklady, nie dnešného kandidáta z Babindola. Chýba doložený most zmeny pobytu alebo kariéry; bez priradenia udalosti."
+    },
+    {
+      "claimId": "nsk-jozef-dvonc-regiojet-police-prosecutor-report-2016",
+      "candidateId": "nsk-jozef-dvonc",
+      "originalSha256": "ddbbcb77c0f6406779c6d6a89b416f5445f0538495df19a5b6cdfbed4b254e79",
+      "reasonSk": "Zlučiteľný vek je jediný ďalší nezávislý znak k súčasnému kandidátovi. Tituly sú súčasťou mena; staršia funkcia prepojuje dva historické doklady, nie dnešného kandidáta z Babindola. Chýba doložený most zmeny pobytu alebo kariéry; bez priradenia udalosti."
+    },
+    {
+      "claimId": "nsk-jozef-dvonc-regiojet-response-2016",
+      "candidateId": "nsk-jozef-dvonc",
+      "originalSha256": "aea8d849efe0c9e9e605d228986eee0dc34cc3f704efbd3d650d0cb6c4d80ad5",
+      "reasonSk": "Zlučiteľný vek je jediný ďalší nezávislý znak k súčasnému kandidátovi. Tituly sú súčasťou mena; staršia funkcia prepojuje dva historické doklady, nie dnešného kandidáta z Babindola. Chýba doložený most zmeny pobytu alebo kariéry; bez priradenia udalosti."
+    }
+  ],
+  "coverageUpserts": [
+    {
+      "id": "coverage-nsk-jozef-dvonc-controversies",
+      "candidateId": "nsk-jozef-dvonc",
+      "category": "controversies",
+      "status": "searched_none",
+      "checkedAt": "2026-10-15",
+      "sourceIds": [
+        "nsk-council-district3-roster-2026",
+        "finance-national-regional-councillors-2026"
+      ]
+    }
+  ],
+  "journalCorrection": {
+    "eventId": "nsk-dvonc-regiojet-2016",
+    "reviewStatus": "excluded_insufficient_current_identity",
+    "acceptedClaimIds": [],
+    "removedClaimIds": [
+      "nsk-jozef-dvonc-regiojet-complaint-report-2016",
+      "nsk-jozef-dvonc-regiojet-police-prosecutor-report-2016",
+      "nsk-jozef-dvonc-regiojet-response-2016"
+    ],
+    "reasonSk": "Zlučiteľný vek je jediný ďalší nezávislý znak k súčasnému kandidátovi. Tituly sú súčasťou mena; staršia funkcia prepojuje dva historické doklady, nie dnešného kandidáta z Babindola. Chýba doložený most zmeny pobytu alebo kariéry; bez priradenia udalosti.",
+    "compatibleAttributes": [
+      "time-adjusted age"
+    ],
+    "missingEvidence": [
+      "A second independent current-person attribute; verified residence change or direct career bridge."
+    ]
+  }
+}

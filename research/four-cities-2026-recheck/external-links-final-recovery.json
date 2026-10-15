@@ -1,0 +1,477 @@
+{
+  "command": "node --import tsx .internal/four-cities-recheck/recover-final-links.ts",
+  "checkedAt": "2026-10-15",
+  "startedAt": "2026-10-15T18:09:26.262Z",
+  "finishedAt": "2026-10-15T18:09:47.409Z",
+  "globalGateRemainsFailed": true,
+  "results": [
+    {
+      "url": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=9&PoslanecID=997&sid=poslanci/poslanec",
+      "finalUrl": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=9&PoslanecID=997&sid=poslanci/poslanec",
+      "sourceIds": [
+        "nrsr-blchac-term-9"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=J%C3%A1n.Blch%C3%A1%C4%8D&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=J%C3%A1n.Blch%C3%A1%C4%8D&sid=vnf/oznamenie",
+      "sourceIds": [
+        "nrsr-blchac-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=1",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=1",
+      "sourceIds": [
+        "lm-city-declarations-2024"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?DocID=506758",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?DocID=506758",
+      "sourceIds": [
+        "nrsr-kotian-nomination-2022"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Michal.Kotian&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Michal.Kotian&sid=vnf/oznamenie",
+      "sourceIds": [
+        "nrsr-kotian-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_rozvoj_podnikania__cestovneho_ruchu_a_medzinarodnej_spoluprace/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_rozvoj_podnikania__cestovneho_ruchu_a_medzinarodnej_spoluprace/",
+      "sourceIds": [
+        "lm-commission-business-tourism-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie-mestskeho-zastupitelstva/komisia-kultury/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie-mestskeho-zastupitelstva/komisia-kultury/",
+      "sourceIds": [
+        "lm-commission-culture-2015-2018"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_uzemneho_rozvoja_a_vystavby/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_uzemneho_rozvoja_a_vystavby/",
+      "sourceIds": [
+        "lm-commission-spatial-development-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_bezpecnost_a_ochranu_verejneho_poriadku/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_bezpecnost_a_ochranu_verejneho_poriadku/",
+      "sourceIds": [
+        "lm-commission-public-order-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_dopravy_a_zivotneho_prostredia/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_dopravy_a_zivotneho_prostredia/",
+      "sourceIds": [
+        "lm-commission-transport-environment-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_socialnych_veci__zdravotnictva_a_rozvoja_byvania/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_socialnych_veci__zdravotnictva_a_rozvoja_byvania/",
+      "sourceIds": [
+        "lm-commission-social-health-housing-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_sportu_a_rozvoja_verejneho_zdravia/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_sportu_a_rozvoja_verejneho_zdravia/",
+      "sourceIds": [
+        "lm-commission-sport-public-health-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=2",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=2",
+      "sourceIds": [
+        "lm-declarations-2024-page-2"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Rudolf.Urbanovic&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Rudolf.Urbanovic&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "nrsr-urbanovic-junior-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/",
+      "sourceIds": [
+        "lm-jancusova-declaration-2021"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/?stranka=1",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/?stranka=1",
+      "sourceIds": [
+        "lm-lunicek-declaration-2021"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=5&PoslanecID=86&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=5&PoslanecID=86&sid=poslanci%2Fposlanec",
+      "sourceIds": [
+        "nrsr-belousovova-term5"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=JuriErik&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=JuriErik&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "nrsr-jurinova-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/robert-dubravec/",
+      "finalUrl": "https://www.lubokuban.sk/robert-dubravec/",
+      "sourceIds": [
+        "rk-kuban-dubravec-profile-2022"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/program/",
+      "finalUrl": "https://www.lubokuban.sk/program/",
+      "sourceIds": [
+        "rk-kuban-programme-2022"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/marian-pales/",
+      "finalUrl": "https://www.lubokuban.sk/marian-pales/",
+      "sourceIds": [
+        "rk-pales-campaign-statement"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/peter-stupak/",
+      "finalUrl": "https://www.lubokuban.sk/peter-stupak/",
+      "sourceIds": [
+        "rk-stupak-campaign-statement"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/ludovit-betko/",
+      "finalUrl": "https://www.lubokuban.sk/ludovit-betko/",
+      "sourceIds": [
+        "rk-kuban-betko-profile-2022"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+      "finalUrl": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+      "sourceIds": [
+        "mt-city-polling-2026"
+      ],
+      "status": 404,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Tatiana.Cervenova&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Tatiana.Cervenova&sid=vnf/oznamenie",
+      "sourceIds": [
+        "mt-tatiana-cervenova-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=590370",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=590370",
+      "sourceIds": [
+        "mt-sp-accounts-2025"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Tomas.Zanovit&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Tomas.Zanovit&sid=vnf/oznamenie",
+      "sourceIds": [
+        "mt-tomas-zanovit-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=J%C3%A1n.Danko&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=J%C3%A1n.Danko&sid=vnf/oznamenie",
+      "sourceIds": [
+        "mt-danko-nrsr-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Marcel.Matovcik&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Marcel.Matovcik&sid=vnf/oznamenie",
+      "sourceIds": [
+        "mt-matovcik-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Branislav.Zacharides&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Branislav.Zacharides&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "mt-c3-zacharides-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=1079&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=1079&sid=poslanci%2Fposlanec",
+      "sourceIds": [
+        "mt-c3-vons-parliament8"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=847&sid=poslanci/poslanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=847&sid=poslanci/poslanec",
+      "sourceIds": [
+        "za-c-laurencik-nrsr"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=9&PoslanecID=1197&sid=poslanci/poslanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=9&PoslanecID=1197&sid=poslanci/poslanec",
+      "sourceIds": [
+        "za-c-slysko-nrsr"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://slysko.sk/",
+      "finalUrl": "https://slysko.sk/",
+      "sourceIds": [
+        "za-c-slysko-programme"
+      ],
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 2,
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/zoznam_abc",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/zoznam_abc",
+      "sourceIds": [
+        "za-c-current-nrsr"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.orsr.sk/hladaj_osoba.asp?PR=Piala&MENO=Bohumil&SID=0&T=f0",
+      "finalUrl": "https://www.orsr.sk/hladaj_osoba.asp?PR=Piala&MENO=Bohumil&SID=0&T=f0",
+      "sourceIds": [
+        "za-c-orsr-search-bohumil-piala"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=316258&WFTID=NRDK",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=316258&WFTID=NRDK",
+      "sourceIds": [
+        "rk-alusic-nrsr-submissions-2025"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Jan.Prilepok&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Jan.Prilepok&sid=vnf/oznamenie",
+      "sourceIds": [
+        "dk-prilepok-nrsr-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=306169&WFTID=NRDK",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=306169&WFTID=NRDK",
+      "sourceIds": [
+        "dk-nrsr-declarations-received-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    }
+  ]
+}

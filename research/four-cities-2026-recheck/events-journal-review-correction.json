@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-10-15",
+  "baselineJournalSha256": "8bf059ab397fb3750342d66c9c363239f60bb13810d98789842f1b8a2acae766",
+  "frozenArtifactsModified": false,
+  "eventPatches": [
+    {
+      "eventId": "ttsk-viskupic-cisty-den",
+      "replace": {
+        "originalReadCaptureIds": ["lead-d5886788e8eb1816", "lead-6de8daafa347332f"],
+        "materialSubsequentStagesAndResponse": "Read TASR original79–91 reports18June2021 institutional criminal complaint and an earlier reported civil payment order. Read interview46–51 describes the regional landlord position. These are institutional statements, not a proceeding against the candidate."
+      },
+      "readReceipts": [
+        {"captureId": "lead-d5886788e8eb1816", "originalSha256": "78696f31066bceaca0521e42a2e57737a8991886011f9eaca7196ef125ba5015", "lineStart": 79, "lineEnd": 91},
+        {"captureId": "lead-6de8daafa347332f", "originalSha256": "68eac263f46de4a8dcb91c87ed610f26000f2e33efbd51f6080caf89ccb928f5", "lineStart": 46, "lineEnd": 51}
+      ],
+      "receiptLocation": "Both captures already have specific_passages_reviewed receipts in the frozen events-original-receipts.json; this patch supplies the omitted family binding."
+    },
+    {
+      "eventId": "ttsk-viskupic-transport",
+      "replace": {
+        "reviewStatus": "discovery_only_bounded_exclusion",
+        "initialTrigger": "Regional transport-policy and procurement discovery query.",
+        "materialSubsequentStagesAndResponse": "Follow-up returned transport-policy references. No original was admitted as proof of a candidate-personal proceeding or sanction in this family.",
+        "latestSupportedOutcomeAndLimits": "No exact personal sanction or case was verified. No claim is proposed from this discovery family.",
+        "originalReadCaptureIds": [],
+        "unresolvedGaps": ["Discovery references do not establish a candidate-personal case; no result, closure or present continuation is inferred."]
+      },
+      "receiptLocation": "Retained search lifecycle-041 only; no original-read assertion remains."
+    }
+  ]
+}

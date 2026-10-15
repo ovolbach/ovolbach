@@ -1,0 +1,28 @@
+{
+  "reviewedAt": "2026-10-15T18:10:00.932026+00:00",
+  "scope": "Narrow portability correction to the already reviewed schema implementation: add JSON import attribute on line3. No financial validation, data, cohort membership, URL parsing or profile logic change.",
+  "decision": "approved",
+  "findings": [],
+  "file": "src/lib/schemas.ts",
+  "line": 3,
+  "exactImport": "import fourCityAccountCandidateIds from '../data/campaign-account-exclusion-four-cities-2026.json' with { type: 'json' };",
+  "schemaSha256": "5b214af69e8d1951fcc259692b7100ca7e5c46d86e6d63eda07e43d94ca3658c",
+  "cohortSha256": "0fab12df249ff6bc6710394952b0cbda5d994e4d8440fa27b8ed184d272e1059",
+  "sourcesSha256": "db749ae51c97e4c01a2bfd3299c93ce173a7152d10b9a2e5100b4891c9b12d10",
+  "mainAndWorktreeSchemaCohortSourcesByteIdentical": true,
+  "all12ReviewedDataHashesStillMatch": true,
+  "checks": [
+    "Import attribute matches the working JSON import pattern in tests/e2e/seo.spec.ts and is compatible with the repository Node engine range.",
+    "Existing new Set membership consumer and import target stay identical; explicit JSON module type changes loading metadata, not imported546ID contents or register_exclusion checks.",
+    "Inspected main RED log: Node refuses JSON import without type:json; main GREEN log collects294tests/17files.",
+    "Independently ran npx playwright test --list in worktree:exit0,294tests/17files collected.",
+    "Main/worktree source catalogue bytes match and all12reviewed production data hashes are unchanged; this one-line import correction does not affect the completed external-link input set. Retaining its completed result is appropriate if root preserves the verified input digest."
+  ],
+  "reviewedLogs": {
+    ".internal/four-cities-recheck/logs/json-import-red.log": "afa718b00d3dd1689400579336c799436284697fae40b5368acb7b87ef02d77c",
+    ".internal/four-cities-recheck/logs/json-import-green.log": "dc9e3cf86747ddd842992aa150a814e8e086db687e014e1b43528321957e0772"
+  },
+  "remainingVerification": "Root fresh complete unit/build/browser and remaining release gates after the correction. Test listing verifies collection, not browser execution.",
+  "releaseApproved": false,
+  "reviewerProductionEdits": false
+}

@@ -1,0 +1,6639 @@
+{
+  "checkedAt": "2026-10-15",
+  "datasetId": "2014-municipal_council",
+  "status": "corrected_original_row_counts_only",
+  "frozenJournalSha256": "6712c49695bd0f94bfdb9ea4eeda25dbad2289cae12545edf910df047a5508e1",
+  "method": "Direct normalized full given/family-name lookup in the rebuilt original-row union. Selected-IVIS precinct rows are aggregated by municipality code, district, ballot and full name; nationwide winner rows are retained individually outside normalized municipality/name pairs already covered by selected-IVIS. National duplicates are not inferred away from claim IDs or accepted/held totals. The quoted multiline header is parsed as one CSV record before choosing semicolon. Logical CSV row numbers are distinct from physical lines. No identity or outcome approval is implied by a name match.",
+  "normalization": "Unicode NFKD; ASCII diacritic folding; lower case; keep only a-z and 0-9, identical to research.norm.",
+  "sourceReceipts": [
+    {
+      "key": "oso2014-selected-council-votes",
+      "sourceId": "history-recheck-13ccc60700ad185a",
+      "url": "https://volby.statistics.sk/opendata/oso/2014/OSO_2014_tab14.csv",
+      "checkedAt": "2026-10-15T16:04:18.251995+00:00",
+      "sha256": "775f72e9286d4423f9c36081a7b528dfcbfc7bbfacb21a4020ebc268bdd4e305",
+      "bytes": 3261754,
+      "status": 200
+    },
+    {
+      "key": "open-oso-2014-OSO_2014_tab10",
+      "sourceId": "statistics-municipal-elected-2014",
+      "url": "https://volby.statistics.sk/opendata/oso/2014/OSO_2014_tab10.csv",
+      "checkedAt": "2026-10-15T16:04:15.680338+00:00",
+      "sha256": "1a4e674735d447f82ab3d6be6aab76b426fbee3a79701ad664a69ea03aa0bff4",
+      "bytes": 1045074,
+      "status": 200
+    }
+  ],
+  "counts": {
+    "candidates": 546,
+    "rawSelectedIvisPrecinctRows": 39298,
+    "selectedIvisCandidateRows": 1916,
+    "nationalWinnerRows": 20830,
+    "nationalRowsSuppressedBecauseSelectedIvisAlreadyCoversNameAndMunicipality": 332,
+    "nationalWinnerRowsAddedToUnion": 20498,
+    "unionCandidateRows": 22414,
+    "candidateIdsWithAnyNameMatch": 121,
+    "nameMatchesIncludingUnapprovedNamesakes": 139,
+    "candidateIdsWithChangedCount": 54
+  },
+  "personCycleCountCorrections": [
+    {
+      "candidateId": "ttsk-jozsef-berenyi",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "József Berényi",
+          "municipality": "Dolné Saliby",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            1489
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-jaroslav-cehlarik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-robert-dohal",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-peter-hambalek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-matej-lancaric",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Matej Lančarič",
+          "municipality": "Trnava",
+          "district": "2",
+          "ballot": "14",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18241,
+            18263,
+            18285,
+            18307,
+            18329,
+            18351,
+            18373,
+            18395,
+            18417,
+            18439,
+            18461,
+            18483
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-stefan-pollak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-jozef-viskupic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Jozef Viskupič",
+          "municipality": "Trnava",
+          "district": "4",
+          "ballot": "27",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18826,
+            18853,
+            18880,
+            18907,
+            18934,
+            18961,
+            18988,
+            19015,
+            19042,
+            19069,
+            19096,
+            19123,
+            19150
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-juraj-badura",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-branislav-baros",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-maria-benova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-ivan-bocko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Ivan Bočko",
+          "municipality": "Bohdanovce nad Trnavou",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            2425
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-kristina-bolemanova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-zuzana-bosnakova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-maria-bullova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-kashif-butt",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-gabriela-cabanova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Gabriela Cabanová",
+          "municipality": "Malatíny",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            8368
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-andrea-cajkova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-tomas-drobny",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-katarina-durkova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Katarína Ďurková",
+          "municipality": "Žabokreky nad Nitrou",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4573
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-magdalena-eliasova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-jana-fridrichova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Jana Fridrichová",
+          "municipality": "Trnava",
+          "district": "1",
+          "ballot": "6",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18035,
+            18057,
+            18079,
+            18101,
+            18123,
+            18145,
+            18167,
+            18189,
+            18211
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-marian-galbavy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Marián Galbavý",
+          "municipality": "Trnava",
+          "district": "4",
+          "ballot": "6",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18805,
+            18832,
+            18859,
+            18886,
+            18913,
+            18940,
+            18967,
+            18994,
+            19021,
+            19048,
+            19075,
+            19102,
+            19129
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-marta-gubricka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Marta Gubrická",
+          "municipality": "Trnava",
+          "district": "4",
+          "ballot": "8",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18807,
+            18834,
+            18861,
+            18888,
+            18915,
+            18942,
+            18969,
+            18996,
+            19023,
+            19050,
+            19077,
+            19104,
+            19131
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-martin-halaksa",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-milan-hejduk",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-petra-helt",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-juraj-horvath",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-lubica-horvathova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-stanislav-hric",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Stanislav Hric",
+          "municipality": "Trnava",
+          "district": "5",
+          "ballot": "6",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19156,
+            19176,
+            19196,
+            19216,
+            19236,
+            19256,
+            19276,
+            19296,
+            19316
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-jan-chalama",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-jan-jobb",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Ján Jobb",
+          "municipality": "Trnava",
+          "district": "2",
+          "ballot": "10",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18237,
+            18259,
+            18281,
+            18303,
+            18325,
+            18347,
+            18369,
+            18391,
+            18413,
+            18435,
+            18457,
+            18479
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-josef-filip-kozon",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marcel-krajco",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-branislav-kramar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Branislav Kramár",
+          "municipality": "Trnava",
+          "district": "3",
+          "ballot": "15",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18506,
+            18534,
+            18562,
+            18590,
+            18618,
+            18646,
+            18674,
+            18702,
+            18730,
+            18758,
+            18786
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-milos-kristofik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Miloš Krištofík",
+          "municipality": "Trnava",
+          "district": "5",
+          "ballot": "12",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19162,
+            19182,
+            19202,
+            19222,
+            19242,
+            19262,
+            19282,
+            19302,
+            19322
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-stefan-kristofik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Štefan Krištofík",
+          "municipality": "Trnava",
+          "district": "3",
+          "ballot": "16",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18507,
+            18535,
+            18563,
+            18591,
+            18619,
+            18647,
+            18675,
+            18703,
+            18731,
+            18759,
+            18787
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-peter-kvasnicak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-peter-markovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-david-matula",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-peter-morvay",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-rastislav-mraz",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Rastislav Mráz",
+          "municipality": "Trnava",
+          "district": "5",
+          "ballot": "14",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19164,
+            19184,
+            19204,
+            19224,
+            19244,
+            19264,
+            19284,
+            19304,
+            19324
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-marek-nesticky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Marek Neštický",
+          "municipality": "Trnava",
+          "district": "2",
+          "ballot": "16",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18243,
+            18265,
+            18287,
+            18309,
+            18331,
+            18353,
+            18375,
+            18397,
+            18419,
+            18441,
+            18463,
+            18485
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-vladimir-ondrejicka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-tibor-pekarcik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Tibor Pekarčík",
+          "municipality": "Trnava",
+          "district": "1",
+          "ballot": "19",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18048,
+            18070,
+            18092,
+            18114,
+            18136,
+            18158,
+            18180,
+            18202,
+            18224
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-martin-pullmann",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-jozef-remenar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-robert-smak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-martina-sarvaicova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marcel-skorec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-ondrej-stefanik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marian-viskupic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-livia-volekova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-ludovit-zambokrethy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-anton-zeleznik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-eva-nemcovska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-jozef-obselka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-frantisek-drgon",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-lucia-francescato",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-silvia-jakabova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-peter-kitta",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-adrian-kobetic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-viktor-krizan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-ina-mruskovicova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marek-polonec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-milan-sokolovsky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-andrea-svata",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-gabriela-sykorova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-stanislav-surin",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-jan-uhnavy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-boris-aresta",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-richard-bohunicky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Richard Bohunický",
+          "municipality": "Trnava",
+          "district": "2",
+          "ballot": "3",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18230,
+            18252,
+            18274,
+            18296,
+            18318,
+            18340,
+            18362,
+            18384,
+            18406,
+            18428,
+            18450,
+            18472
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-tomas-foltin",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-martin-hanak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-ivan-kopcik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Ivan Kopčík",
+          "municipality": "Košice-Džungľa",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            17720
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-erik-matovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-peter-neslusan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marek-nic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marian-schwarz",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-jaroslav-skoda",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-martin-uhlik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Martin Uhlík",
+          "municipality": "Trnava",
+          "district": "2",
+          "ballot": "22",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18249,
+            18271,
+            18293,
+            18315,
+            18337,
+            18359,
+            18381,
+            18403,
+            18425,
+            18447,
+            18469,
+            18491
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-tomas-vahalik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-igor-valek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-viera-vancova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-ivana-varga-babelova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-jan-vlasko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-andrea-banova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-lukas-bednar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marek-domes",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-vladimir-ekhardt",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-erik-elias",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marian-gabris",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-matej-gasparovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-peter-halada",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Peter Halada",
+          "municipality": "Trnava",
+          "district": "4",
+          "ballot": "9",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18808,
+            18835,
+            18862,
+            18889,
+            18916,
+            18943,
+            18970,
+            18997,
+            19024,
+            19051,
+            19078,
+            19105,
+            19132
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-pavol-hluchy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-martin-kleiman",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-kristian-kolev",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-tomas-koppl",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marek-meciar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-robert-mucuta",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-martin-nano",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marcel-odumorek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-matej-pivoluska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-ladislav-rolnik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-richard-sladek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-jozef-studenc",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-milan-balaz",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 2,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Milan Baláž",
+          "municipality": "Moravany nad Váhom",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            1850
+          ]
+        },
+        {
+          "historicalName": "Milan Baláž",
+          "municipality": "Košice-Košická Nová Ves",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            17744
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-andrej-brnik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-milos-cmarada",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-robert-frimmel",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-lubica-gergelyova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-lukas-gressak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-lukas-ihnat",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-daniel-kravec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Daniel Kravec",
+          "municipality": "Trnava",
+          "district": "4",
+          "ballot": "17",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18816,
+            18843,
+            18870,
+            18897,
+            18924,
+            18951,
+            18978,
+            19005,
+            19032,
+            19059,
+            19086,
+            19113,
+            19140
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-milos-kysel",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-michal-lipovsky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Michal Lipovský",
+          "municipality": "Šintava",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            1671
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-stefan-liptak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-ivan-matusek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-jozef-mitosinka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-patrik-ondrejech",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-tana-polackova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-kristina-rysava",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-simon-stefunko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Šimon Štefunko",
+          "municipality": "Trnava",
+          "district": "4",
+          "ballot": "25",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            18824,
+            18851,
+            18878,
+            18905,
+            18932,
+            18959,
+            18986,
+            19013,
+            19040,
+            19067,
+            19094,
+            19121,
+            19148
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "ttsk-jozef-sust",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-martin-bachraty",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-matej-cagala",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-ivo-didov",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-patrik-holic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-erik-hrnciarik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-michal-kossi",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marian-kubal",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-marian-prazenka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-tatiana-vavrova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-peter-karol",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-daniela-prosmanova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "ttsk-juraj-rezbarik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Juraj Rezbárik",
+          "municipality": "Trnava",
+          "district": "6",
+          "ballot": "4",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19334,
+            19338
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-danica-birosova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Danica Birošová",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4981
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-michal-bratranec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-jan-forgac",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 3,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Ján Forgáč",
+          "municipality": "Moravany nad Váhom",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            1847
+          ]
+        },
+        {
+          "historicalName": "Ján Forgáč",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4985
+          ]
+        },
+        {
+          "historicalName": "Ján Forgáč",
+          "municipality": "Orovnica",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            13274
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-milos-micega",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Miloš Mičega",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4998
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-jozef-bakos",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Jozef Bakoš",
+          "municipality": "Jakubany",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            16376
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-zuzana-bednarova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Zuzana Bednárová",
+          "municipality": "Prešov",
+          "district": "1",
+          "ballot": "6",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            30185,
+            30231,
+            30277,
+            30323,
+            30369,
+            30415,
+            30461,
+            30507,
+            30553,
+            30599,
+            30645,
+            30691,
+            30737,
+            30783,
+            30829,
+            30875,
+            30921,
+            30967,
+            31013
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-alexander-biros",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-drahoslav-bocak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-zdenka-brisudova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-andrej-docar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-drahomir-drozd",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-jan-fabicovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-robert-hartmann",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-andrea-jakubcova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Andrea Jakubcová",
+          "municipality": "Biely Kostol",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            2409
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-maria-kebiskova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-lukas-kecera",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-jan-kmet",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Ján Kmeť",
+          "municipality": "Budiš",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            8553
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-michaela-kobzova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-richard-medal",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Richard Medal",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            5001
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-michal-mosko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-jana-ovesna",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-richard-scepko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Richard Ščepko",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            5002
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-marian-betak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-lubomir-bobak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-marian-bohus",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-marian-cvecka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-martina-gabrhelova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-dominik-gabriel",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Dominik Gabriel",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4982
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-juraj-hajso",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-jakub-halgos",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-veronika-hluchanova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-peter-hostak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Peter Hošták",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            5000
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-mario-markech",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-adriana-martosova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-peter-mikulas",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-lucia-nemesova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-ervin-olesnan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-richard-zimanyi",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-patrik-zak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Patrik Žák",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4999
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-miloslav-baco",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Miloslav Baco",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4997
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-juraj-bakos",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Juraj Bakoš",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4988
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-peter-bohunicky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-kamil-bystricky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Kamil Bystrický",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4989
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-jan-culy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-jan-delincak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-martin-diweg-pukanec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-marcel-frano",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-andrej-gavenda",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-elena-gogolakova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-lubomir-horny",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Ľubomír Horný",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4991
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-lubos-chorvat",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-bohumil-kern",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-ivan-kubica",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-zdenko-marousek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-ladislav-matejka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Ladislav Matejka",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4990
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-tomas-michalik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-zuzana-misakova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-martin-petrik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 2,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Martin Petrík",
+          "municipality": "Žilina",
+          "district": "8",
+          "ballot": "9",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            24525,
+            24540,
+            24555,
+            24570,
+            24585,
+            24600,
+            24615
+          ]
+        },
+        {
+          "historicalName": "Martin Petrík",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4994
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-jan-plasil",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-ivan-slany",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-martin-smolka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Martin Smolka",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4995
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-dusan-struhacka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-martin-stefanik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Martin Štefánik",
+          "municipality": "Klenovec",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            11549
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-martin-trepac",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-simona-zacharova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-martin-barcak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Martin Barčák",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4993
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-rastislav-harakal",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-ivan-hudcovsky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-josef-kolar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-branislav-liska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-nada-lorencova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-juraj-machunka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-marcel-meravy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-ladislav-paska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-peter-pilathy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-vladimir-poruban",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Vladimír Poruban",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            5005
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-jana-stefanekova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-juraj-stilicha",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-robert-svehla",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-tomas-vano",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Tomáš Vaňo",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            5004
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-lubomir-vavrus",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-jaroslav-baska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-daniel-galas",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-lubomir-choleva",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-natalia-svitkova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-martina-benovicova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-marek-brozek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-peter-dano",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 2,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Peter Dano",
+          "municipality": "Vlčkovce",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            2922
+          ]
+        },
+        {
+          "historicalName": "Peter Daňo",
+          "municipality": "Nemšová",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4821
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-eduard-filo",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Eduard Filo",
+          "municipality": "Trenčín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4983
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-zuzana-frajkova-durmekova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-pavol-golan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-jozef-habanik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-jozef-hrdlicka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-juraj-huserka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-adriana-kovacova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Adriana Kováčová",
+          "municipality": "Čaradice",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            6065
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-jan-kvasnica",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Ján Kvasnica",
+          "municipality": "Málinec",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            10960
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-martin-kvasnica",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-anton-kysel",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-roman-lackovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-maria-machova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-juraj-malan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Juraj Maláň",
+          "municipality": "Soblahov",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4905
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-jaroslav-mego",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Jaroslav Mego",
+          "municipality": "Drietoma",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4633
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-valeria-merava",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-erik-mician",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-marek-mizenko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-eva-pastorkova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-karina-penzesova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-tomas-prno",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-slavomira-propperova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Slavomíra Propperová",
+          "municipality": "Trenčianska Teplá",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4933
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-jan-sivak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Ján Sivák",
+          "municipality": "Prituľany",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            14403
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "tsk-stanislav-svatik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-pavol-sulovsky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-monika-velackova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "tsk-simon-zdarsky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-adam-filip",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-andrea-matova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-andrej-praznovsky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-andrej-sitkey",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Andrej Sitkey",
+          "municipality": "Nitra",
+          "district": "7",
+          "ballot": "21",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            20590,
+            20620,
+            20650,
+            20680,
+            20710,
+            20740,
+            20770,
+            20800,
+            20830,
+            20860,
+            20890,
+            20920,
+            20950,
+            20980,
+            21010,
+            21040
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-andrej-skoda",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-anna-laurinec-smehilova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-antonia-janeckova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-artur-bekmatov",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-beata-acova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Beáta Áčová",
+          "municipality": "Branč",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            6031
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-branislav-banyi",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Branislav Bányi",
+          "municipality": "Vráble",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            6636
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-branislav-becik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-daniel-balko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Daniel Balko",
+          "municipality": "Nitra",
+          "district": "5",
+          "ballot": "1",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            20380,
+            20391,
+            20402,
+            20413,
+            20424,
+            20435,
+            20446,
+            20457,
+            20468
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-daniela-bako",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-david-kis",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-denisa-branikovicova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-dusan-kacer",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Dušan Káčer",
+          "municipality": "Nitra",
+          "district": "4",
+          "ballot": "18",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19713,
+            19751,
+            19789,
+            19827,
+            19865,
+            19903,
+            19941,
+            19979,
+            20017,
+            20055,
+            20093,
+            20131,
+            20169,
+            20207,
+            20245,
+            20283,
+            20321,
+            20359
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-dusan-malovec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-edita-vnuckova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-erik-blasko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-erik-duchon",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-eva-antosova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-eva-hudecova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-ferdinand-vitek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-filip-ziak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-frantisek-holly",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "František Hollý",
+          "municipality": "Nitra",
+          "district": "4",
+          "ballot": "16",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19711,
+            19749,
+            19787,
+            19825,
+            19863,
+            19901,
+            19939,
+            19977,
+            20015,
+            20053,
+            20091,
+            20129,
+            20167,
+            20205,
+            20243,
+            20281,
+            20319,
+            20357
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-hana-balisova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-henrich-bencik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-henrich-varga",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-igor-krsiak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-igor-urbanik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-ingrid-menky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-ingrid-sabikova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-ivan-barta",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-ivan-rac",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Ivan Rác",
+          "municipality": "Zbehy",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            6663
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-jakub-neupauer",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-jakub-pikna",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-jan-gresso",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Ján Greššo",
+          "municipality": "Nitra",
+          "district": "2",
+          "ballot": "6",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19359,
+            19383,
+            19407,
+            19431,
+            19455,
+            19479,
+            19503,
+            19527,
+            19551,
+            19575,
+            19599,
+            19623,
+            19647
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-jan-rejda",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-jan-vanco",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Ján Vančo",
+          "municipality": "Nitra",
+          "district": "2",
+          "ballot": "23",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19376,
+            19400,
+            19424,
+            19448,
+            19472,
+            19496,
+            19520,
+            19544,
+            19568,
+            19592,
+            19616,
+            19640,
+            19664
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-jana-durkova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-jarmila-kralova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-jaroslav-brezina",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-jaroslav-doczy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-jaroslav-macek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Jaroslav Maček",
+          "municipality": "Nitra",
+          "district": "5",
+          "ballot": "5",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            20384,
+            20395,
+            20406,
+            20417,
+            20428,
+            20439,
+            20450,
+            20461,
+            20472
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-jolana-culakova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-jozef-dvonc",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-jozef-horvath",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 5,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Jozef Horváth",
+          "municipality": "Košice",
+          "district": "1",
+          "ballot": "15",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            32752,
+            32787,
+            32822,
+            32857,
+            32892,
+            32927,
+            32962,
+            32997,
+            33032,
+            33067,
+            33102,
+            33137,
+            33172,
+            33207,
+            33242,
+            33277,
+            33312,
+            33347,
+            33382
+          ]
+        },
+        {
+          "historicalName": "Jozef Horváth",
+          "municipality": "Obyce",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            6425
+          ]
+        },
+        {
+          "historicalName": "Jozef Horváth",
+          "municipality": "Ľubica",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            14775
+          ]
+        },
+        {
+          "historicalName": "Jozef Horváth",
+          "municipality": "Richnava",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            20092
+          ]
+        },
+        {
+          "historicalName": "Jozef Horváth",
+          "municipality": "Žehra",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            20252
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-jozef-jankovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-jozef-mikulasik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-julius-kysler",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-juraj-duncic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-juraj-gajdos",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Juraj Gajdoš",
+          "municipality": "Nitra",
+          "district": "4",
+          "ballot": "10",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19705,
+            19743,
+            19781,
+            19819,
+            19857,
+            19895,
+            19933,
+            19971,
+            20009,
+            20047,
+            20085,
+            20123,
+            20161,
+            20199,
+            20237,
+            20275,
+            20313,
+            20351
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-juraj-kovac",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 2,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Juraj Kováč",
+          "municipality": "Chorváty",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            18107
+          ]
+        },
+        {
+          "historicalName": "Juraj Kováč",
+          "municipality": "Vlachovo",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            19814
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-karol-suchan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-katarina-bojkovska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-katarina-kompasova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-katarina-kovacova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Katarína Kováčová",
+          "municipality": "Veľké Vozokany",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            6582
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-katarina-ranusa-koncosova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-katarina-welnitzova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-kristian-cechmanek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-ladislav-masik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Ladislav Mášik",
+          "municipality": "Nitra",
+          "district": "2",
+          "ballot": "13",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19366,
+            19390,
+            19414,
+            19438,
+            19462,
+            19486,
+            19510,
+            19534,
+            19558,
+            19582,
+            19606,
+            19630,
+            19654
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-ladislav-turba",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-lubomir-baranik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-lubomir-klestinec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-lubomir-moravcik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Ľubomír Moravčík",
+          "municipality": "Nitra",
+          "district": "7",
+          "ballot": "13",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            20582,
+            20612,
+            20642,
+            20672,
+            20702,
+            20732,
+            20762,
+            20792,
+            20822,
+            20852,
+            20882,
+            20912,
+            20942,
+            20972,
+            21002,
+            21032
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-lukas-celinak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-lukas-hnilica",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-lukas-schober",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-marcela-cavojova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-marcela-starekova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-marek-fuska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-marek-hattas",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-marek-illes",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-marek-kuruc",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-maria-cok-steinemannova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-maria-lorinczova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-maria-orsagova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-marian-kukucka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-marian-paulisz",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-mario-sturdik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-marta-racova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Marta Rácová",
+          "municipality": "Nitra",
+          "district": "4",
+          "ballot": "30",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19725,
+            19763,
+            19801,
+            19839,
+            19877,
+            19915,
+            19953,
+            19991,
+            20029,
+            20067,
+            20105,
+            20143,
+            20181,
+            20219,
+            20257,
+            20295,
+            20333,
+            20371
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-martin-belan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-martin-bodis",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-martin-domcek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-martin-horvath",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 3,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Martin Horváth",
+          "municipality": "Viničné",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            685
+          ]
+        },
+        {
+          "historicalName": "Martin Horváth",
+          "municipality": "Lošonec",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            2717
+          ]
+        },
+        {
+          "historicalName": "Martin Horváth",
+          "municipality": "Trstín",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            2911
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-martin-kusenda",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-martin-palkovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-martin-pasulkas",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-martin-presinsky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-martina-dubaiova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-martina-mojtova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-matej-szaraz",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-matus-kroslak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-mikulas-dunda",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-milan-biro",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Milan Bíro",
+          "municipality": "Veľké Zálužie",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            6593
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-milos-dovicovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Miloš Dovičovič",
+          "municipality": "Nitra",
+          "district": "4",
+          "ballot": "9",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19704,
+            19742,
+            19780,
+            19818,
+            19856,
+            19894,
+            19932,
+            19970,
+            20008,
+            20046,
+            20084,
+            20122,
+            20160,
+            20198,
+            20236,
+            20274,
+            20312,
+            20350
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-milos-macho",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-miloslav-hatala",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Miloslav Hatala",
+          "municipality": "Nitra",
+          "district": "6",
+          "ballot": "5",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            20483,
+            20496,
+            20509,
+            20522,
+            20535,
+            20548,
+            20561
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-miloslav-spotak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-miroslav-gut",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Miroslav Gut",
+          "municipality": "Nitra",
+          "district": "1",
+          "ballot": "1",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19339,
+            19344,
+            19349
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-miroslav-horniak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-miroslav-maly",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-monika-maliskova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-norbert-miklas",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-ondrej-durica",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-ondrej-sedivy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-patricia-dimov",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-patrik-trubini",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-paulina-simoncicova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-pavel-varga",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Pavel Varga",
+          "municipality": "Nitra",
+          "district": "6",
+          "ballot": "13",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            20491,
+            20504,
+            20517,
+            20530,
+            20543,
+            20556,
+            20569
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-pavol-deglovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-pavol-lehotak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-pavol-obertas",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Pavol Obertáš",
+          "municipality": "Nitra",
+          "district": "4",
+          "ballot": "29",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19724,
+            19762,
+            19800,
+            19838,
+            19876,
+            19914,
+            19952,
+            19990,
+            20028,
+            20066,
+            20104,
+            20142,
+            20180,
+            20218,
+            20256,
+            20294,
+            20332,
+            20370
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-pavol-pipiska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-pavol-zamecnik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-peter-bakay",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-peter-bihari",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-peter-chudy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-peter-kellner",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-peter-kisska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-peter-kostal",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Peter Košťál",
+          "municipality": "Nitra",
+          "district": "7",
+          "ballot": "10",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            20579,
+            20609,
+            20639,
+            20669,
+            20699,
+            20729,
+            20759,
+            20789,
+            20819,
+            20849,
+            20879,
+            20909,
+            20939,
+            20969,
+            20999,
+            21029
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-peter-lukacik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-peter-mezei",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-peter-oremus",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Peter Oremus",
+          "municipality": "Nitra",
+          "district": "7",
+          "ballot": "14",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            20583,
+            20613,
+            20643,
+            20673,
+            20703,
+            20733,
+            20763,
+            20793,
+            20823,
+            20853,
+            20883,
+            20913,
+            20943,
+            20973,
+            21003,
+            21033
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-peter-peciar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-peter-polak-50",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Peter Polák",
+          "municipality": "Lesíček",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            15785
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-peter-polak-52",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Peter Polák",
+          "municipality": "Lesíček",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            15785
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-peter-pukan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-peter-urban",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-petra-ajdariova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Petra Ajdariová",
+          "municipality": "Nitra",
+          "district": "4",
+          "ballot": "1",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            19696,
+            19734,
+            19772,
+            19810,
+            19848,
+            19886,
+            19924,
+            19962,
+            20000,
+            20038,
+            20076,
+            20114,
+            20152,
+            20190,
+            20228,
+            20266,
+            20304,
+            20342
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-petra-grebacova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-rastislav-hazucha",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-regina-vitekova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-renata-farmadinova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-richard-turanovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-robert-ambra",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-robert-hipp",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-robert-miklos",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-robert-svec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Róbert  Švec",
+          "municipality": "Nitra",
+          "district": "7",
+          "ballot": "26",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            20595,
+            20625,
+            20655,
+            20685,
+            20715,
+            20745,
+            20775,
+            20805,
+            20835,
+            20865,
+            20895,
+            20925,
+            20955,
+            20985,
+            21015,
+            21045
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-robert-zilik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-roman-agh",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-roman-bogdanov",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-romana-strizova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-rudolf-olach",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-simona-farnadyova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-slavomir-balis",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-slavomir-papp",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-stefan-bagin",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-stefan-korman",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-stefan-kosovan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-stefan-polacik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-stefan-stefek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Štefan Štefek",
+          "municipality": "Nitra",
+          "district": "7",
+          "ballot": "25",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            20594,
+            20624,
+            20654,
+            20684,
+            20714,
+            20744,
+            20774,
+            20804,
+            20834,
+            20864,
+            20894,
+            20924,
+            20954,
+            20984,
+            21014,
+            21044
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-svorad-petruska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-tibor-csenger",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Tibor Csenger",
+          "municipality": "Želiezovce",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            5979
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "nsk-tibor-danac",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-tibor-gaspar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-tibor-zapletal",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-tomas-kralik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-tomas-svoren",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-veronika-gabcikova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-viktor-nemeth",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-vladimir-vnuk",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-vladislav-borik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-vojtech-fray",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-zdenko-svoboda",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "nsk-zuzana-uhrikova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-diana-javorcikova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-marian-kotleba",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-matus-molitoris",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Matúš Molitoris",
+          "municipality": "Banská Bystrica",
+          "district": "3",
+          "ballot": "39",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25727,
+            25792,
+            25857,
+            25922,
+            25987,
+            26052,
+            26117,
+            26182,
+            26247,
+            26312,
+            26377,
+            26442,
+            26507,
+            26572,
+            26637,
+            26702,
+            26767,
+            26832,
+            26897,
+            26962,
+            27027,
+            27092
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-jan-nosko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-tomas-sobota",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-ondrej-veres",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-atila-beres",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-branislav-bosak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Branislav Bosák",
+          "municipality": "Banská Bystrica",
+          "district": "1",
+          "ballot": "9",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            24630,
+            24685,
+            24740,
+            24795,
+            24850,
+            24905,
+            24960,
+            25015,
+            25070,
+            25125,
+            25180,
+            25235,
+            25290,
+            25345,
+            25400,
+            25455,
+            25510,
+            25565
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-peter-brozman",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-lucia-fabriciusova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Lucia Fabriciusová",
+          "municipality": "Banská Bystrica",
+          "district": "4",
+          "ballot": "15",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            27134,
+            27224,
+            27314,
+            27404,
+            27494,
+            27584,
+            27674,
+            27764,
+            27854,
+            27944,
+            28034,
+            28124,
+            28214,
+            28304,
+            28394,
+            28484,
+            28574,
+            28664,
+            28754,
+            28844,
+            28934,
+            29024,
+            29114,
+            29204,
+            29294,
+            29384,
+            29474,
+            29564,
+            29654,
+            29744,
+            29834,
+            29924,
+            30014,
+            30104
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-ivana-figuli",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-tibor-fuchs",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-patricia-holikova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-pavol-katreniak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 2,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Pavol Katreniak",
+          "municipality": "Banská Bystrica",
+          "district": "1",
+          "ballot": "20",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            24641,
+            24696,
+            24751,
+            24806,
+            24861,
+            24916,
+            24971,
+            25026,
+            25081,
+            25136,
+            25191,
+            25246,
+            25301,
+            25356,
+            25411,
+            25466,
+            25521,
+            25576
+          ]
+        },
+        {
+          "historicalName": "Pavol Katreniak",
+          "municipality": "Istebné",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            8027
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-adrian-kostur",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-magdalena-kovac-mergova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-radovan-lapunik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-miriam-lapunikova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jozef-lovas",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jozef-mak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-martin-repasky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-martin-tistan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-silvia-cochova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-martin-kubik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Martin Kubík",
+          "municipality": "Hronská Dúbrava",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            13119
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-marcel-pecnik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Marcel Pecník",
+          "municipality": "Banská Bystrica",
+          "district": "1",
+          "ballot": "34",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            24655,
+            24710,
+            24765,
+            24820,
+            24875,
+            24930,
+            24985,
+            25040,
+            25095,
+            25150,
+            25205,
+            25260,
+            25315,
+            25370,
+            25425,
+            25480,
+            25535,
+            25590
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-martin-pechovsky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-dusan-strelec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-ivan-uhrik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Ivan Uhrík",
+          "municipality": "Banská Bystrica",
+          "district": "1",
+          "ballot": "52",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            24673,
+            24728,
+            24783,
+            24838,
+            24893,
+            24948,
+            25003,
+            25058,
+            25113,
+            25168,
+            25223,
+            25278,
+            25333,
+            25388,
+            25443,
+            25498,
+            25553,
+            25608
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-jana-ziarova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-pavel-bartosik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Pavel Bartošík",
+          "municipality": "Banská Bystrica",
+          "district": "1",
+          "ballot": "4",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            24625,
+            24680,
+            24735,
+            24790,
+            24845,
+            24900,
+            24955,
+            25010,
+            25065,
+            25120,
+            25175,
+            25230,
+            25285,
+            25340,
+            25395,
+            25450,
+            25505,
+            25560
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-milan-belko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-juraj-bencik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-lukas-berec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-olga-betkova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-maria-detvaj-sedlarova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-csilla-droppova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-pavel-filo",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Pavel Fiľo",
+          "municipality": "Mýtna",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            10994
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-jakub-gajdosik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Jakub Gajdošík",
+          "municipality": "Banská Bystrica",
+          "district": "3",
+          "ballot": "15",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25704,
+            25769,
+            25834,
+            25899,
+            25964,
+            26029,
+            26094,
+            26159,
+            26224,
+            26289,
+            26354,
+            26419,
+            26484,
+            26549,
+            26614,
+            26679,
+            26744,
+            26809,
+            26874,
+            26939,
+            27004,
+            27069
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-milan-hroncek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-eva-hupkova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-peter-kadasi",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Peter Kádaši",
+          "municipality": "Banská Bystrica",
+          "district": "3",
+          "ballot": "22",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25711,
+            25776,
+            25841,
+            25906,
+            25971,
+            26036,
+            26101,
+            26166,
+            26231,
+            26296,
+            26361,
+            26426,
+            26491,
+            26556,
+            26621,
+            26686,
+            26751,
+            26816,
+            26881,
+            26946,
+            27011,
+            27076
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-marek-kliment",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-veronika-koskova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-milan-lichy",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Milan Lichý",
+          "municipality": "Banská Bystrica",
+          "district": "3",
+          "ballot": "33",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25721,
+            25786,
+            25851,
+            25916,
+            25981,
+            26046,
+            26111,
+            26176,
+            26241,
+            26306,
+            26371,
+            26436,
+            26501,
+            26566,
+            26631,
+            26696,
+            26761,
+            26826,
+            26891,
+            26956,
+            27021,
+            27086
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-tobias-longauer",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-marian-lunter",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-miroslav-luptak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Miroslav Lupták",
+          "municipality": "Banská Bystrica",
+          "district": "3",
+          "ballot": "34",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25722,
+            25787,
+            25852,
+            25917,
+            25982,
+            26047,
+            26112,
+            26177,
+            26242,
+            26307,
+            26372,
+            26437,
+            26502,
+            26567,
+            26632,
+            26697,
+            26762,
+            26827,
+            26892,
+            26957,
+            27022,
+            27087
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-peter-luptak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Peter Lupták",
+          "municipality": "Hrabičov",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            13114
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-martin-majling",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Martin Majling",
+          "municipality": "Banská Bystrica",
+          "district": "3",
+          "ballot": "35",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25723,
+            25788,
+            25853,
+            25918,
+            25983,
+            26048,
+            26113,
+            26178,
+            26243,
+            26308,
+            26373,
+            26438,
+            26503,
+            26568,
+            26633,
+            26698,
+            26763,
+            26828,
+            26893,
+            26958,
+            27023,
+            27088
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-anna-maruskova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jana-mesarkinova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-anton-minarik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jana-nekyova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-ivan-paricka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-matej-rudnicky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-andrej-saxon",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-michal-skantar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Michal Škantár",
+          "municipality": "Banská Bystrica",
+          "district": "3",
+          "ballot": "59",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25747,
+            25812,
+            25877,
+            25942,
+            26007,
+            26072,
+            26137,
+            26202,
+            26267,
+            26332,
+            26397,
+            26462,
+            26527,
+            26592,
+            26657,
+            26722,
+            26787,
+            26852,
+            26917,
+            26982,
+            27047,
+            27112
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-sarah-sonkol",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jana-tolicova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-tomas-tornyos",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-martin-turcan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Martin Turčan",
+          "municipality": "Banská Bystrica",
+          "district": "3",
+          "ballot": "63",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25751,
+            25816,
+            25881,
+            25946,
+            26011,
+            26076,
+            26141,
+            26206,
+            26271,
+            26336,
+            26401,
+            26466,
+            26531,
+            26596,
+            26661,
+            26726,
+            26791,
+            26856,
+            26921,
+            26986,
+            27051,
+            27116
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-miroslava-vranovska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-lubos-vrbicky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-martin-zudel",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jozef-balaz",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 5,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Jozef Baláž",
+          "municipality": "Borský Svätý Jur",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            1999
+          ]
+        },
+        {
+          "historicalName": "Jozef Baláž",
+          "municipality": "Lednica",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            3750
+          ]
+        },
+        {
+          "historicalName": "Jozef Baláž",
+          "municipality": "Kanianka",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            4157
+          ]
+        },
+        {
+          "historicalName": "Jozef Baláž",
+          "municipality": "Riečka",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            10396
+          ]
+        },
+        {
+          "historicalName": "Jozef  Baláž",
+          "municipality": "Ostrý Grúň",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            13282
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-katarina-cizmarova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Katarína Čižmárová",
+          "municipality": "Banská Bystrica",
+          "district": "2",
+          "ballot": "4",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25615,
+            25628,
+            25641,
+            25654,
+            25667,
+            25680
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-marek-odalos",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Marek Odaloš",
+          "municipality": "Banská Bystrica",
+          "district": "2",
+          "ballot": "8",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25619,
+            25632,
+            25645,
+            25658,
+            25671,
+            25684
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-juraj-oravec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-matej-ruttkay",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-martin-vrabel",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-roman-bencik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-matej-bucko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Matej Bučko",
+          "municipality": "Banská Bystrica",
+          "district": "3",
+          "ballot": "7",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            25696,
+            25761,
+            25826,
+            25891,
+            25956,
+            26021,
+            26086,
+            26151,
+            26216,
+            26281,
+            26346,
+            26411,
+            26476,
+            26541,
+            26606,
+            26671,
+            26736,
+            26801,
+            26866,
+            26931,
+            26996,
+            27061
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-jan-cimerman",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-zuzana-galatova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-peter-gogola",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-martin-hanes",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-klaudia-hruskova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-stanislav-hupian",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-vladimir-ivan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 2,
+      "frozenNameMatchCount": 0,
+      "matches": [
+        {
+          "historicalName": "Vladimír Ivan",
+          "municipality": "Kremnické Bane",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            13198
+          ]
+        },
+        {
+          "historicalName": "Vladimír Ivan",
+          "municipality": "Mlynica",
+          "district": null,
+          "ballot": null,
+          "sourceId": "statistics-municipal-elected-2014",
+          "sourceKey": "open-oso-2014-OSO_2014_tab10",
+          "logicalCsvRows": [
+            15162
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-daniel-karas",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Daniel Karas",
+          "municipality": "Banská Bystrica",
+          "district": "4",
+          "ballot": "36",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            27154,
+            27244,
+            27334,
+            27424,
+            27514,
+            27604,
+            27694,
+            27784,
+            27874,
+            27964,
+            28054,
+            28144,
+            28234,
+            28324,
+            28414,
+            28504,
+            28594,
+            28684,
+            28774,
+            28864,
+            28954,
+            29044,
+            29134,
+            29224,
+            29314,
+            29404,
+            29494,
+            29584,
+            29674,
+            29764,
+            29854,
+            29944,
+            30034,
+            30124
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-hana-kasova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Hana Kasová",
+          "municipality": "Banská Bystrica",
+          "district": "4",
+          "ballot": "38",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            27156,
+            27246,
+            27336,
+            27426,
+            27516,
+            27606,
+            27696,
+            27786,
+            27876,
+            27966,
+            28056,
+            28146,
+            28236,
+            28326,
+            28416,
+            28506,
+            28596,
+            28686,
+            28776,
+            28866,
+            28956,
+            29046,
+            29136,
+            29226,
+            29316,
+            29406,
+            29496,
+            29586,
+            29676,
+            29766,
+            29856,
+            29946,
+            30036,
+            30126
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-ivan-kosa",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-branislav-kovacik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-marian-michael-mackovic",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-ruzena-mataseje",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-marta-medzihradska",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-marek-modransky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Marek Modranský",
+          "municipality": "Banská Bystrica",
+          "district": "4",
+          "ballot": "51",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            27169,
+            27259,
+            27349,
+            27439,
+            27529,
+            27619,
+            27709,
+            27799,
+            27889,
+            27979,
+            28069,
+            28159,
+            28249,
+            28339,
+            28429,
+            28519,
+            28609,
+            28699,
+            28789,
+            28879,
+            28969,
+            29059,
+            29149,
+            29239,
+            29329,
+            29419,
+            29509,
+            29599,
+            29689,
+            29779,
+            29869,
+            29959,
+            30049,
+            30139
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-alzbeta-pazakova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-roman-psenak",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-pavol-puskeiler",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jakub-sedlacek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-ivan-simko",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-matus-zazrivec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-katarina-albertova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-erika-karova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Erika Karová",
+          "municipality": "Banská Bystrica",
+          "district": "4",
+          "ballot": "37",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            27155,
+            27245,
+            27335,
+            27425,
+            27515,
+            27605,
+            27695,
+            27785,
+            27875,
+            27965,
+            28055,
+            28145,
+            28235,
+            28325,
+            28415,
+            28505,
+            28595,
+            28685,
+            28775,
+            28865,
+            28955,
+            29045,
+            29135,
+            29225,
+            29315,
+            29405,
+            29495,
+            29585,
+            29675,
+            29765,
+            29855,
+            29945,
+            30035,
+            30125
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-roman-miskar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-marek-ondras",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-ludmila-priehodova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Ľudmila Priehodová",
+          "municipality": "Banská Bystrica",
+          "district": "4",
+          "ballot": "65",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            27183,
+            27273,
+            27363,
+            27453,
+            27543,
+            27633,
+            27723,
+            27813,
+            27903,
+            27993,
+            28083,
+            28173,
+            28263,
+            28353,
+            28443,
+            28533,
+            28623,
+            28713,
+            28803,
+            28893,
+            28983,
+            29073,
+            29163,
+            29253,
+            29343,
+            29433,
+            29523,
+            29613,
+            29703,
+            29793,
+            29883,
+            29973,
+            30063,
+            30153
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-jozef-sedilek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-patrik-trnka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-peter-vida",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jaroslav-brada",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-maria-debnarova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-eduard-genserek",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-igor-kasper",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Igor Kašper",
+          "municipality": "Banská Bystrica",
+          "district": "4",
+          "ballot": "39",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            27157,
+            27247,
+            27337,
+            27427,
+            27517,
+            27607,
+            27697,
+            27787,
+            27877,
+            27967,
+            28057,
+            28147,
+            28237,
+            28327,
+            28417,
+            28507,
+            28597,
+            28687,
+            28777,
+            28867,
+            28957,
+            29047,
+            29137,
+            29227,
+            29317,
+            29407,
+            29497,
+            29587,
+            29677,
+            29767,
+            29857,
+            29947,
+            30037,
+            30127
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-milan-smado",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Milan Smädo",
+          "municipality": "Banská Bystrica",
+          "district": "4",
+          "ballot": "76",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            27194,
+            27284,
+            27374,
+            27464,
+            27554,
+            27644,
+            27734,
+            27824,
+            27914,
+            28004,
+            28094,
+            28184,
+            28274,
+            28364,
+            28454,
+            28544,
+            28634,
+            28724,
+            28814,
+            28904,
+            28994,
+            29084,
+            29174,
+            29264,
+            29354,
+            29444,
+            29534,
+            29624,
+            29714,
+            29804,
+            29894,
+            29984,
+            30074,
+            30164
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-hubert-stoksa",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Hubert Štoksa",
+          "municipality": "Banská Bystrica",
+          "district": "4",
+          "ballot": "85",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            27203,
+            27293,
+            27383,
+            27473,
+            27563,
+            27653,
+            27743,
+            27833,
+            27923,
+            28013,
+            28103,
+            28193,
+            28283,
+            28373,
+            28463,
+            28553,
+            28643,
+            28733,
+            28823,
+            28913,
+            29003,
+            29093,
+            29183,
+            29273,
+            29363,
+            29453,
+            29543,
+            29633,
+            29723,
+            29813,
+            29903,
+            29993,
+            30083,
+            30173
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-michal-albert",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-ondrej-lunter",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-roman-malatinec",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-peter-plancik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jaroslav-rusina",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-miroslav-suja",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-miroslav-cellar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-lubomir-debnar",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-viera-dubacova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Viera Dubačová",
+          "municipality": "Banská Bystrica",
+          "district": "1",
+          "ballot": "12",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            24633,
+            24688,
+            24743,
+            24798,
+            24853,
+            24908,
+            24963,
+            25018,
+            25073,
+            25128,
+            25183,
+            25238,
+            25293,
+            25348,
+            25403,
+            25458,
+            25513,
+            25568
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-juraj-dzmura",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-martin-halas",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-zuzana-hujova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-tomas-huta",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-miroslava-jancova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-radoslav-kabac",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-miroslav-kamensky",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-david-kapusta",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-marta-klacanova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-ivan-kostur",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jakub-mestan",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-iveta-noskova",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 1,
+      "frozenNameMatchCount": 1,
+      "matches": [
+        {
+          "historicalName": "Iveta Nosková",
+          "municipality": "Banská Bystrica",
+          "district": "1",
+          "ballot": "31",
+          "sourceId": "history-recheck-13ccc60700ad185a",
+          "sourceKey": "oso2014-selected-council-votes",
+          "logicalCsvRows": [
+            24652,
+            24707,
+            24762,
+            24817,
+            24872,
+            24927,
+            24982,
+            25037,
+            25092,
+            25147,
+            25202,
+            25257,
+            25312,
+            25367,
+            25422,
+            25477,
+            25532,
+            25587
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "bbsk-juraj-sipula",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-jozef-tomanik",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    },
+    {
+      "candidateId": "bbsk-marek-vyhnicka",
+      "datasetId": "2014-municipal_council",
+      "nameMatchCount": 0,
+      "frozenNameMatchCount": 0,
+      "matches": []
+    }
+  ],
+  "limitations": [
+    "The national original is winner-only. Missing losing, withdrawn and substitute rosters are not repaired by these counts.",
+    "Exact-name matches include namesakes and remain separate from approved identity joins.",
+    "Frozen proposal, accepted roster, journal and delta002 bytes remain unchanged."
+  ]
+}

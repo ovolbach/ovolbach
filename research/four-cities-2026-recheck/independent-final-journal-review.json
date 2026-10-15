@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-10-15T17:57:09.598834+00:00",
+  "reviewer": "independent read-only /root/review_final",
+  "scope": "Final public journal/count/exclusion coherence and q1132 title redaction after exact reviewed data integration.",
+  "decision": "approved_for_reviewed_journal_snapshot",
+  "publicArtifactHashes": {
+    "history-journal.json": "d6d934bba82e47b30f59c5a66e8687917bb6ec0fbeb1ba0d53953bf71306a15a",
+    "history-accepted-roster.json": "85e6167136afc511fb1231479aac4b69a8c404a6f67f481d549727c9475c3af3",
+    "history-unresolved-worklist.json": "8ca47944f820838e31d7fb66466f3446defdaf80a9a230f171d791e58a91ed54",
+    "history-discovery-adjudications.json": "671b6b26f445da67cf9676e5efad9da2c43bf50453ad7bd91ea6d6c7df4694ed",
+    "history-independent-other-originals-review.json": "b3614995c49985ece6c59110916a0fc2b9b9537e6ea6ed0308c59b0275f5cd58",
+    "events-journal.json": "503f169e5129a3a8e0f6bdf726c558a4a7ae07a289d804a968af7730d00a0249"
+  },
+  "findings": [],
+  "checks": [
+    "Public history roster exactly equals frozen702 plus29delta002 additions and the two approved age-observation replacements;731unique contests.",
+    "All36036 unique546×66 person-cycle entries present, source-cycle dates/offices resolve consistently, and every acceptedContestCount matches the exact accepted roster. Sum accepted731; public386held records match386worklist records. Pending original/targeted actions are empty.",
+    "All546 corrected2014raw name-match counts equal the independently rebuilt sidecar;139total matches.2014scope clearly distinguishes1916selected-IVIS candidates from20830nationwide winner rows and22414reconciled union rows.",
+    "Four TT2018 subtype ambiguities deliberately overlap accepted and held counters; they remain explicit retained boundaries. Bányi2018 is independently read from Vráble official archive outside the central IVIS raw-name table; zero raw central name matches does not erase that accepted record.",
+    "Combined discovery ledger has1418records and1418distinct URLs; every record has a typed disposition, remainingUnadjudicatedUrls0 and exhaustiveElectionHistoryCertifiedfalse. No no-result inference converted into nonparticipation.",
+    "Events journal retains546candidate bindings/63families,58families with accepted claims,8bounded exclusions and0pending selected event dossiers. Dvonč family/candidate accepted claim lists are empty and removed IDs/gap explicitly preserved.",
+    "Public copied >=1100 review omits q1132sourceTitle entirely and preserves bounded URL/digest, omission reason and privateInputSha2568cd94c1f948c5a182d37bab63a9511813cd5695b04732086b9e566c9ef376b2f. The original private note remains unchanged.",
+    "Scanned every public recheck JSON for the exact private DOB literal(s) from q1132 and [local-home]/ absolute paths:zero matches. No private particulars are reproduced in this review."
+  ],
+  "limits": [
+    "This is a bounded-research and exact snapshot approval; archive/identity/substitute gaps remain explicit.",
+    "Fresh complete release gates and any final code/data changes still need root verification; no release approval from this note."
+  ],
+  "noProductionEditsByReviewer": true,
+  "releaseApproved": false,
+  "privateInputSha256": "1cc7930ec40c4d1357a465a84a838364cc21c1357d3e1cf38541e07f7dc01c38",
+  "publicExportNote": "An embedded local-home path probe was made generic; findings and reviewed artifact hashes preserved."
+}

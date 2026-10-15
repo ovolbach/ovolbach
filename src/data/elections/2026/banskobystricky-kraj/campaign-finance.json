@@ -239,7 +239,8 @@
       "finance-national-mayors-2026",
       "finance-national-councillors-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -272,11 +273,68 @@
       "sloboda-a-solidarita"
     ],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://moja.csob.sk/transparent-accounts/98b324eb1750b68eb120abdeb62a46565fd69b2897e812aff3d4883644c091ac",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
+        "campaign-accounts-candidates-2026",
+        "tis-election-s26"
       ],
-      "reason": "Zhodné meno v registri MV SR; atribúcia účtu vyžaduje ďalšie dve zhodné charakteristiky alebo publikáciu na overenej stránke kandidáta."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "bbsk-tomas-sobota",
+            "name": "Tomáš Sobota",
+            "municipality": "Banská Bystrica",
+            "ageAtElection": 52,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "bbsk-tomas-sobota",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      }
     }
   },
   {
@@ -288,7 +346,9 @@
       "finance-national-mayors-2026",
       "finance-national-councillors-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26",
+      "four-city-recheck-bank-bbsk-ondrej-veres"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -317,11 +377,71 @@
       "strana-vidieka"
     ],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2903594064",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
+        "campaign-accounts-candidates-2026",
+        "tis-election-s26",
+        "four-city-recheck-bank-bbsk-ondrej-veres"
       ],
-      "reason": "Zhodné meno v registri MV SR; atribúcia účtu vyžaduje ďalšie dve zhodné charakteristiky alebo publikáciu na overenej stránke kandidáta."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "bbsk-ondrej-veres",
+            "name": "Ondrej Vereš",
+            "municipality": "Banská Bystrica",
+            "ageAtElection": 51,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "bbsk-ondrej-veres",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26",
+          "four-city-recheck-bank-bbsk-ondrej-veres"
+        ]
+      },
+      "iban": "SK4683300000002903594064"
     }
   },
   {
@@ -3501,7 +3621,8 @@
     "sourceIds": [
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -3528,10 +3649,66 @@
       "strana-vidieka"
     ],
     "account": {
-      "status": "not_listed",
+      "status": "verified",
+      "url": "https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000007246317253",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
-      ]
+        "tis-election-s26"
+      ],
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "bbsk-roman-malatinec",
+            "name": "Roman Malatinec",
+            "municipality": "Korytárky",
+            "ageAtElection": 45,
+            "sourceIds": [
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "bbsk-roman-malatinec",
+        "accountSourceIds": [
+          "tis-election-s26"
+        ]
+      },
+      "iban": "SK6402000000007246317253"
     }
   },
   {
@@ -3595,7 +3772,9 @@
     "sourceIds": [
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26",
+      "four-city-recheck-bank-bbsk-jaroslav-rusina"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -3620,11 +3799,70 @@
     ],
     "partyIds": [],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2103520286",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
+        "campaign-accounts-candidates-2026",
+        "tis-election-s26",
+        "four-city-recheck-bank-bbsk-jaroslav-rusina"
       ],
-      "reason": "Zhodné meno v registri MV SR; atribúcia účtu vyžaduje ďalšie dve zhodné charakteristiky alebo publikáciu na overenej stránke kandidáta."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "bbsk-jaroslav-rusina",
+            "name": "Jaroslav Rusina",
+            "municipality": "Medzibrod",
+            "ageAtElection": 46,
+            "sourceIds": [
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "bbsk-jaroslav-rusina",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26",
+          "four-city-recheck-bank-bbsk-jaroslav-rusina"
+        ]
+      },
+      "iban": "SK9683300000002103520286"
     }
   },
   {

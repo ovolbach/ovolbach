@@ -1,0 +1,99 @@
+{
+  "checkedAt": "2026-10-15T18:16:24.949880+00:00",
+  "scope": "four-cities-2026",
+  "people": 546,
+  "cities": {
+    "Trnava": {
+      "people": 135,
+      "accountsNewlyVerified": 6,
+      "accountsVerifiedTotal": 10,
+      "eventFactsAdded": 9,
+      "mediaFactsMoved": 0,
+      "unsupportedFactsRemoved": 0,
+      "historicalParticipationsAdded": 65,
+      "fourOfficeParticipations": 173,
+      "fourOfficeWins": 88
+    },
+    "Trenčín": {
+      "people": 114,
+      "accountsNewlyVerified": 2,
+      "accountsVerifiedTotal": 5,
+      "eventFactsAdded": 10,
+      "mediaFactsMoved": 7,
+      "unsupportedFactsRemoved": 0,
+      "historicalParticipationsAdded": 71,
+      "fourOfficeParticipations": 161,
+      "fourOfficeWins": 87
+    },
+    "Nitra": {
+      "people": 166,
+      "accountsNewlyVerified": 5,
+      "accountsVerifiedTotal": 8,
+      "eventFactsAdded": 14,
+      "mediaFactsMoved": 0,
+      "unsupportedFactsRemoved": 3,
+      "historicalParticipationsAdded": 84,
+      "fourOfficeParticipations": 208,
+      "fourOfficeWins": 104
+    },
+    "Banská Bystrica": {
+      "people": 131,
+      "accountsNewlyVerified": 4,
+      "accountsVerifiedTotal": 7,
+      "eventFactsAdded": 18,
+      "mediaFactsMoved": 6,
+      "unsupportedFactsRemoved": 0,
+      "historicalParticipationsAdded": 84,
+      "fourOfficeParticipations": 185,
+      "fourOfficeWins": 87
+    }
+  },
+  "sources": {
+    "unchangedBaselinePrefix": 2621,
+    "finalTotal": 2862
+  },
+  "limitations": [
+    "Historické archívy neposkytujú úplné neúspešné kandidátne listiny pre všetky staršie a doplnkové voľby.",
+    "Menné zhody bez dostatočného potvrdenia totožnosti sa nezapočítavajú.",
+    "Neúspešná globálna kontrola externých odkazov zostáva zaznamenaná aj po obnovení časti URL."
+  ],
+  "verification": "verification.json",
+  "checks": {
+    "unit": {
+      "passed": 566,
+      "files": 66
+    },
+    "e2e": {
+      "passed": 292,
+      "skipped": 2,
+      "collected": 294,
+      "skipReason": "Two mobile-only assertions are skipped in the desktop project; they run in the mobile project."
+    },
+    "html": {
+      "files": 1397,
+      "errors": 0,
+      "warnings": 0
+    },
+    "coverage": {
+      "releaseReady": true,
+      "pending": 0
+    },
+    "redirects": {
+      "requests": 294,
+      "legacyRoutes": 49,
+      "finalProfiles200": 43,
+      "unknownRoutes404": true
+    },
+    "externalLinks": {
+      "globalExitCode": 1,
+      "urlGroups": 2919,
+      "initialUnreachable": 39,
+      "manualReview": 51,
+      "newUrlGroups": 251,
+      "newUnreachable": 0,
+      "recoveredOnSeparateRetry": 21,
+      "remainingOnSeparateRetry": 18
+    },
+    "allMandatoryGatesPassed": false
+  }
+}

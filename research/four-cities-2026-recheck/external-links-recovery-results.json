@@ -1,0 +1,474 @@
+{
+  "command": "NODE_EXTRA_CA_CERTS=<verified-intermediate-bundle> node --import tsx .internal/four-cities-recheck/recover-links.ts",
+  "checkedAt": "2026-10-15",
+  "results": [
+    {
+      "url": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=9&PoslanecID=997&sid=poslanci/poslanec",
+      "finalUrl": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=9&PoslanecID=997&sid=poslanci/poslanec",
+      "sourceIds": [
+        "nrsr-blchac-term-9"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=J%C3%A1n.Blch%C3%A1%C4%8D&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=J%C3%A1n.Blch%C3%A1%C4%8D&sid=vnf/oznamenie",
+      "sourceIds": [
+        "nrsr-blchac-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=1",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=1",
+      "sourceIds": [
+        "lm-city-declarations-2024"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_rozvoj_podnikania__cestovneho_ruchu_a_medzinarodnej_spoluprace/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_rozvoj_podnikania__cestovneho_ruchu_a_medzinarodnej_spoluprace/",
+      "sourceIds": [
+        "lm-commission-business-tourism-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie-mestskeho-zastupitelstva/komisia-kultury/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie-mestskeho-zastupitelstva/komisia-kultury/",
+      "sourceIds": [
+        "lm-commission-culture-2015-2018"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_uzemneho_rozvoja_a_vystavby/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_uzemneho_rozvoja_a_vystavby/",
+      "sourceIds": [
+        "lm-commission-spatial-development-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_bezpecnost_a_ochranu_verejneho_poriadku/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_bezpecnost_a_ochranu_verejneho_poriadku/",
+      "sourceIds": [
+        "lm-commission-public-order-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_dopravy_a_zivotneho_prostredia/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_dopravy_a_zivotneho_prostredia/",
+      "sourceIds": [
+        "lm-commission-transport-environment-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_socialnych_veci__zdravotnictva_a_rozvoja_byvania/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_socialnych_veci__zdravotnictva_a_rozvoja_byvania/",
+      "sourceIds": [
+        "lm-commission-social-health-housing-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_sportu_a_rozvoja_verejneho_zdravia/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_sportu_a_rozvoja_verejneho_zdravia/",
+      "sourceIds": [
+        "lm-commission-sport-public-health-2022-2026"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=2",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=2",
+      "sourceIds": [
+        "lm-declarations-2024-page-2"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/",
+      "sourceIds": [
+        "lm-jancusova-declaration-2021"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/?stranka=1",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/?stranka=1",
+      "sourceIds": [
+        "lm-lunicek-declaration-2021"
+      ],
+      "status": 500,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=5&PoslanecID=86&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=5&PoslanecID=86&sid=poslanci%2Fposlanec",
+      "sourceIds": [
+        "nrsr-belousovova-term5"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=JuriErik&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=JuriErik&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "nrsr-jurinova-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=9&PoslanecID=1199&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=9&PoslanecID=1199&sid=poslanci%2Fposlanec",
+      "sourceIds": [
+        "nrsr-lucansky-term9"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Adam.Lucansky&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Adam.Lucansky&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "nrsr-lucansky-declaration-2024"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/robert-dubravec/",
+      "finalUrl": "https://www.lubokuban.sk/robert-dubravec/",
+      "sourceIds": [
+        "rk-kuban-dubravec-profile-2022"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/program/",
+      "finalUrl": "https://www.lubokuban.sk/program/",
+      "sourceIds": [
+        "rk-kuban-programme-2022"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/marian-pales/",
+      "finalUrl": "https://www.lubokuban.sk/marian-pales/",
+      "sourceIds": [
+        "rk-pales-campaign-statement"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/peter-stupak/",
+      "finalUrl": "https://www.lubokuban.sk/peter-stupak/",
+      "sourceIds": [
+        "rk-stupak-campaign-statement"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/ludovit-betko/",
+      "finalUrl": "https://www.lubokuban.sk/ludovit-betko/",
+      "sourceIds": [
+        "rk-kuban-betko-profile-2022"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+      "finalUrl": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+      "sourceIds": [
+        "mt-city-polling-2026"
+      ],
+      "status": 404,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://slysko.sk/",
+      "finalUrl": "https://slysko.sk/",
+      "sourceIds": [
+        "za-c-slysko-programme"
+      ],
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 2,
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://www.orsr.sk/hladaj_osoba.asp?PR=Lauren%E8%EDk&MENO=Milan&SID=0&T=f0",
+      "finalUrl": "https://www.orsr.sk/hladaj_osoba.asp?PR=Lauren%E8%EDk&MENO=Milan&SID=0&T=f0",
+      "sourceIds": [
+        "za-c-orsr-search-milan-laurencik"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.orsr.sk/hladaj_osoba.asp?PR=Majer%E8%EDk&MENO=Stanislav&SID=0&T=f0",
+      "finalUrl": "https://www.orsr.sk/hladaj_osoba.asp?PR=Majer%E8%EDk&MENO=Stanislav&SID=0&T=f0",
+      "sourceIds": [
+        "za-c-orsr-search-stanislav-majercik"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.orsr.sk/hladaj_osoba.asp?PR=Mar%E8an&MENO=M%E1rio&SID=0&T=f0",
+      "finalUrl": "https://www.orsr.sk/hladaj_osoba.asp?PR=Mar%E8an&MENO=M%E1rio&SID=0&T=f0",
+      "sourceIds": [
+        "za-c-orsr-search-mario-marcan"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.zuspmb.sk/content/rada-skoly",
+      "finalUrl": "https://www.zuspmb.sk/content/rada-skoly",
+      "sourceIds": [
+        "dk-zus-schoolboard-c3"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.orsr.sk/vypis.asp?ID=674975&SID=8&P=0",
+      "finalUrl": "https://www.orsr.sk/vypis.asp?ID=674975&SID=8&P=0",
+      "sourceIds": [
+        "presov-review-orsr-extract-psk-michal-michnak-1"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.orsr.sk/vypis.asp?ID=691398&SID=8&P=0",
+      "finalUrl": "https://www.orsr.sk/vypis.asp?ID=691398&SID=8&P=0",
+      "sourceIds": [
+        "presov-review-orsr-extract-psk-stanislav-svaby-1"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.orsr.sk/vypis.asp?ID=315475&SID=7&P=0",
+      "finalUrl": "https://www.orsr.sk/vypis.asp?ID=315475&SID=7&P=0",
+      "sourceIds": [
+        "tt-orsr-entity-16a966ad992507a2-2026"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.orsr.sk/vypis.asp?ID=225257&SID=7&P=0",
+      "finalUrl": "https://www.orsr.sk/vypis.asp?ID=225257&SID=7&P=0",
+      "sourceIds": [
+        "nr-employment-orsr-extract-225257-7-current"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/cinnost-majetok-verejnych-funkcionarov",
+      "finalUrl": "https://www.bbsk.sk/cinnost-majetok-verejnych-funkcionarov",
+      "sourceIds": [
+        "bb-bbsk-assets-index-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/poslanci?page=2",
+      "finalUrl": "https://www.bbsk.sk/poslanci?page=2",
+      "sourceIds": [
+        "bb-bbsk-current-council-page2-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/poslanci?page=3",
+      "finalUrl": "https://www.bbsk.sk/poslanci?page=3",
+      "sourceIds": [
+        "bb-bbsk-current-council-page3-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/poslanci?page=4",
+      "finalUrl": "https://www.bbsk.sk/poslanci?page=4",
+      "sourceIds": [
+        "bb-bbsk-current-council-page4-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/predseda",
+      "finalUrl": "https://www.bbsk.sk/predseda",
+      "sourceIds": [
+        "bb-bbsk-current-chair-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/volby-2026",
+      "finalUrl": "https://www.bbsk.sk/volby-2026",
+      "sourceIds": [
+        "bb-regional-index-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/storage/app/media/dokumenty/volby-2026/volebn-obvody-oznamenie-s-obcami.pdf",
+      "finalUrl": "https://www.bbsk.sk/storage/app/media/dokumenty/volby-2026/volebn-obvody-oznamenie-s-obcami.pdf",
+      "sourceIds": [
+        "bb-regional-district-decision-tls-unverified"
+      ],
+      "status": 206,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    }
+  ]
+}

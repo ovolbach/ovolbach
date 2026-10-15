@@ -7,7 +7,9 @@
     "sourceIds": [
       "finance-national-mayors-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26",
+      "four-city-recheck-bank-nsk-marek-hattas"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -44,10 +46,68 @@
       "nr-party-madarske-forum"
     ],
     "account": {
-      "status": "not_listed",
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2201440255",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
-      ]
+        "tis-election-s26",
+        "four-city-recheck-bank-nsk-marek-hattas"
+      ],
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "nsk-marek-hattas",
+            "name": "Marek Hattas",
+            "municipality": "Nitra",
+            "ageAtElection": 39,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "nsk-marek-hattas",
+        "accountSourceIds": [
+          "tis-election-s26",
+          "four-city-recheck-bank-nsk-marek-hattas"
+        ]
+      },
+      "iban": "SK1483300000002201440255"
     }
   },
   {
@@ -2160,7 +2220,8 @@
       "finance-national-councillors-2026",
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "four-city-recheck-varga-campaign-info"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -2199,7 +2260,8 @@
       "verificationMethod": "candidate_site",
       "url": "https://ib.fio.sk/ib/transparent?a=2903426140",
       "sourceIds": [
-        "nsk-varga-home-2026"
+        "nsk-varga-home-2026",
+        "four-city-recheck-varga-campaign-info"
       ],
       "identity": [
         {
@@ -2222,7 +2284,8 @@
             "nsk-council-district3-roster-2026"
           ]
         }
-      ]
+      ],
+      "iban": "SK2083300000002903426140"
     }
   },
   {
@@ -4162,7 +4225,9 @@
     "checkedAt": "2026-10-15",
     "sourceIds": [
       "finance-national-chairs-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26",
+      "four-city-recheck-bank-nsk-branislav-becik"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -4195,10 +4260,67 @@
       "nr-party-bratia-slovenska"
     ],
     "account": {
-      "status": "not_listed",
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2303560514",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
-      ]
+        "tis-election-s26",
+        "four-city-recheck-bank-nsk-branislav-becik"
+      ],
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "nsk-branislav-becik",
+            "name": "Branislav Becík",
+            "municipality": "Dvory nad Žitavou",
+            "ageAtElection": 48,
+            "sourceIds": [
+              "finance-national-chairs-2026"
+            ],
+            "decision": "retained",
+            "reason": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "nsk-branislav-becik",
+        "accountSourceIds": [
+          "tis-election-s26",
+          "four-city-recheck-bank-nsk-branislav-becik"
+        ]
+      },
+      "iban": "SK4083300000002303560514"
     }
   },
   {
@@ -4208,7 +4330,8 @@
     "checkedAt": "2026-10-15",
     "sourceIds": [
       "finance-national-chairs-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -4236,11 +4359,66 @@
       "nr-party-jednota-slovanov"
     ],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://moja.csob.sk/transparent-accounts/8ade1dc3ec2ea9278447f973592eee0b4ae08b7b7d56fc057f5e971b92fa373d",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
+        "campaign-accounts-candidates-2026",
+        "tis-election-s26"
       ],
-      "reason": "Oficiálny index uvádza rovnomenný účet; samotná zhoda mena nepreukazuje dve ďalšie identifikačné vlastnosti majiteľa."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "nsk-erik-blasko",
+            "name": "Erik Blaško",
+            "municipality": "Nitra",
+            "ageAtElection": 53,
+            "sourceIds": [
+              "finance-national-chairs-2026"
+            ],
+            "decision": "retained",
+            "reason": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "nsk-erik-blasko",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      }
     }
   },
   {
@@ -4305,7 +4483,8 @@
       "finance-national-councillors-2026",
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -4331,10 +4510,67 @@
     ],
     "partyIds": [],
     "account": {
-      "status": "not_listed",
+      "status": "verified",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK0909000000005254061877",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
-      ]
+        "tis-election-s26"
+      ],
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "nsk-jolana-culakova",
+            "name": "Jolana Čuláková",
+            "municipality": "Výčapy - Opatovce",
+            "ageAtElection": 59,
+            "sourceIds": [
+              "finance-national-councillors-2026",
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "nsk-jolana-culakova",
+        "accountSourceIds": [
+          "tis-election-s26"
+        ]
+      },
+      "iban": "SK0909000000005254061877"
     }
   },
   {
@@ -5107,7 +5343,8 @@
       "finance-national-mayors-2026",
       "finance-national-councillors-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "four-city-recheck-bank-nsk-viktor-nemeth"
     ],
     "legalSourceIds": [
       "campaign-faq-candidates-2026",
@@ -5143,10 +5380,67 @@
       "nr-party-obcianska-konzervativna-strana"
     ],
     "account": {
-      "status": "not_listed",
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2002281255",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
-      ]
+        "four-city-recheck-bank-nsk-viktor-nemeth"
+      ],
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "nsk-viktor-nemeth",
+            "name": "Viktor Németh",
+            "municipality": "Vráble",
+            "ageAtElection": 33,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "nsk-viktor-nemeth",
+        "accountSourceIds": [
+          "four-city-recheck-bank-nsk-viktor-nemeth"
+        ]
+      },
+      "iban": "SK4483300000002002281255"
     }
   },
   {

@@ -1,0 +1,77 @@
+{
+  "reviewType": "Independent read-only review of frozen historical proposal and exact metadata delta",
+  "checkedAt": "2026-10-15T17:12:40.517934+00:00",
+  "decision": "approved_for_bounded_integration_with_delta_001",
+  "researchCompletionApproved": false,
+  "releaseApproved": false,
+  "scope": "Only the immutable 702-entry historical package and the two-entry age-observation correction. Subsequent discovery deltas, complete research closure, actual production integration and release gates require separate verification.",
+  "artifacts": [
+    {
+      "path": ".internal/four-cities-recheck/history/freeze-702/proposals.json",
+      "sha256": "b27a4b25728ebfc73f62a81903864276ce55dd0a42ad48e619d1054d354f1578"
+    },
+    {
+      "path": ".internal/four-cities-recheck/history/freeze-702/accepted-roster.json",
+      "sha256": "dd7bfc1a6c49242299d9499ebf348a7972e6670f9ad3503dcc36c9b593e653b9"
+    },
+    {
+      "path": ".internal/four-cities-recheck/history/freeze-702/journal.json",
+      "sha256": "6712c49695bd0f94bfdb9ea4eeda25dbad2289cae12545edf910df047a5508e1"
+    },
+    {
+      "path": ".internal/four-cities-recheck/history/freeze-702/expected-totals.json",
+      "sha256": "4fe2522d4952a6f9036810281f3abb9b1e5efc30ab8af5c7334b5f8b8d5eaede"
+    },
+    {
+      "path": ".internal/four-cities-recheck/history/freeze-702/unresolved-worklist.json",
+      "sha256": "43fcdcaeab9a17951ab61b0d6548dc34724ce0633fd51ded2e45828651573135"
+    },
+    {
+      "path": ".internal/four-cities-recheck/history/delta-001-age-observation-date.json",
+      "sha256": "2bfde9aa8901e0d153abe27edbd3f5da4451f15cd9e95a1b8e94dd413fa52789"
+    }
+  ],
+  "counts": {
+    "candidateIds": 546,
+    "acceptedOrRetainedContests": 702,
+    "freshReconciledContests": 698,
+    "retainedBaselineSubtypeBoundaries": 4,
+    "claimUpserts": 402,
+    "originalSourceReceiptsIndependentlyHashVerified": 217,
+    "newSources": 193,
+    "publishedPercentagesVerified": 639,
+    "mergedTwoRoundContests": 2,
+    "personCycleRecords": 36036
+  },
+  "checksCompleted": [
+    "Verified the supplied frozen hashes and all 217 original receipt SHA256 digests against actual downloaded bytes.",
+    "Independently checked uniqueness by candidate, office and contest, and by candidate, actual date, office and locality. All 702 entries are unique.",
+    "Simulated the proposal over immutable HEAD baseline claims. All 702 in-scope historical claims bind to roster rows with identical candidate, contest, office and complete structured outcome. No baseline in-scope claim is unlinked.",
+    "Verified all 639 non-null official percentages appear in their published claim text. No percentage was computed from vote totals.",
+    "Checked two distinct supporting identity attribute types for all 698 fresh entries and independently reran age interval compatibility. All 546 current candidate IDs have consistent official age and municipality across ballots.",
+    "Visually read the Poruban primary pages: district 3, ballot 21, age 60, 348 votes is excluded; district 4, ballot 14, age 37, 783 votes is the sole accepted contest.",
+    "Independently checked exact municipal substitute rows for Birošová, Kmeť and Fabriciusová against both original PDF pages and national XLSX district, ballot, name and votes. The Fabriciusová extraction error is handled as an explicit visual correction.",
+    "Inspected context-bound local age and municipal substitute parsing. National ballot identity is separate from substitute rank; generic whole-page name membership is not accepted as row proof.",
+    "Verified the correct 2005 named final results in actual tab03 CSV and canonical final HTML; turnout tab02 is absent from the new source register and its upstream label mismatch is documented.",
+    "Read actual 2001 and 2009 chair final-result tables and checked their expected name, vote, percentage and status columns.",
+    "Checked both accepted 2013 runoff contests: both rounds are retained in one contest, with one final outcome. Kotleba is elected and Berényi is not elected; full final phrases are unambiguous.",
+    "Independently read the authenticated TASR age clauses for Birošová and Vaňo and the signed Robo Hakl article directly linking Berényi’s current 2026 candidacy to his 2001 and 2009 regional terms.",
+    "Verified delta 001 corrects the two TASR age observation dates to 7 October 2014, while preserving election date, claims, votes, outcomes, sources and counters. Both corrected interval checks pass.",
+    "Confirmed new Dvonč historical joins remain held. RPVS Nitra is a residence column, not an office-municipality column; full titles are not used as another independent identity attribute.",
+    "Checked the four retained Trnava 2018 entries are explicitly distinguished from fresh findings and preserve their bounded non-election wording rather than inventing a substitute status."
+  ],
+  "findings": [
+    {
+      "id": "HIST-2014-AGE-OBSERVATION-DATE",
+      "severity": "low",
+      "status": "resolved_by_reviewed_delta_001",
+      "detail": "The frozen base used election day for two ages actually reported by TASR on 7 October 2014. Apply delta 001 to the public accepted roster; the result claims remain supported."
+    }
+  ],
+  "remainingBoundaries": [
+    "The journal states incomplete_bounded_findings_ready; it does not certify an exhaustive participation census.",
+    "Four previously approved Trnava 2018 nonwinner claims retain an explicit unresolved substitute-subtype boundary and are not counted as fresh findings.",
+    "There are 347 held table matches, a separate discovery queue and one Dvonč targeted identity action. Their presence must remain disclosed; this approval does not close them.",
+    "Actual root integration, later proposal deltas, final event journal and repository release checks remain outside this approval."
+  ]
+}

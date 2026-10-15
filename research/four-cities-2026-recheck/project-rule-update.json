@@ -1,0 +1,9 @@
+{
+  "checkedAt": "2026-10-15",
+  "localPolicyFile": "AGENTS.md",
+  "beforeSha256": "fd1e54107c3e2aa9223828d91e2711c9e956abb6777d2b36c4e9e08650238673",
+  "afterSha256": "a9a196a2254164001a7fd5b5eda115c75c8a84e0d9ec2122898c21905af51173",
+  "fixedCohortFile": "src/data/campaign-account-exclusion-four-cities-2026.json",
+  "ruleSk": "Výnimka register_exclusion je rozšírená iba na pevný zoznam546 ID štyroch miest s rozsahom four-cities-2026. Zachované sú štyri úplné celoštátne registre, SHA256, počet riadkov, dátum a odôvodnené vylúčenie každej menovky. Výnimka sa nepoužíva na udalosti ani históriu volieb. Členstvo sa nekontroluje prefixom regiónu.",
+  "policyStorageNote": "AGENTS.md is an existing ignored local project policy; schema, cohort list, tests and this change receipt are versioned review artifacts."
+}

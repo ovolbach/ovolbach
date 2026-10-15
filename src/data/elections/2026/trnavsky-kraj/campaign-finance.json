@@ -87,7 +87,8 @@
     "sourceIds": [
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014"
@@ -113,11 +114,68 @@
       "ttsk-party-alternativa-pre-slovensko-2026"
     ],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://transparentneucty.sk/#/ucet/SK1109000000005250498158",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
+        "campaign-accounts-candidates-2026",
+        "tis-election-s26"
       ],
-      "reason": "Index obsahuje zhodu mena; priradenie účtu k tejto kandidatúre zatiaľ nespĺňa dve ďalšie overené rozlišujúce vlastnosti."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-robert-dohal",
+            "name": "Róbert Dohál",
+            "municipality": "Krakovany",
+            "ageAtElection": 64,
+            "sourceIds": [
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-robert-dohal",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      },
+      "iban": "SK1109000000005250498158"
     }
   },
   {
@@ -129,7 +187,8 @@
       "finance-national-councillors-2026",
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014"
@@ -158,11 +217,69 @@
       "ttsk-party-republika-2026"
     ],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK7009000000005249684527",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
+        "campaign-accounts-candidates-2026",
+        "tis-election-s26"
       ],
-      "reason": "Index obsahuje zhodu mena; priradenie účtu k tejto kandidatúre zatiaľ nespĺňa dve ďalšie overené rozlišujúce vlastnosti."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-peter-hambalek",
+            "name": "Peter Hambálek",
+            "municipality": "Trnava",
+            "ageAtElection": 44,
+            "sourceIds": [
+              "finance-national-councillors-2026",
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-peter-hambalek",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      },
+      "iban": "SK7009000000005249684527"
     }
   },
   {
@@ -237,7 +354,8 @@
       "finance-national-councillors-2026",
       "finance-national-chairs-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014"
@@ -273,11 +391,69 @@
       "ttsk-party-spolocne-obcania-slovenska-2026"
     ],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://moja.csob.sk/transparent-accounts/eeba407b93bd562e7697d22079dc57bc8d5bd12fdada6aabc6a521d3418860e1",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
+        "campaign-accounts-candidates-2026",
+        "tis-election-s26"
       ],
-      "reason": "Index obsahuje zhodu mena; priradenie účtu k tejto kandidatúre zatiaľ nespĺňa dve ďalšie overené rozlišujúce vlastnosti."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-stefan-pollak",
+            "name": "Štefan Pollák",
+            "municipality": "Veľké Blahovo",
+            "ageAtElection": 43,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026",
+              "finance-national-chairs-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-stefan-pollak",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26"
+        ]
+      }
     }
   },
   {
@@ -287,7 +463,8 @@
     "checkedAt": "2026-10-15",
     "sourceIds": [
       "finance-national-chairs-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014"
@@ -319,10 +496,65 @@
       "ttsk-party-obcianska-konzervativna-strana-2026"
     ],
     "account": {
-      "status": "not_listed",
+      "status": "verified",
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6511000000002975088953",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
-      ]
+        "tis-election-s26"
+      ],
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-jozef-viskupic",
+            "name": "Jozef Viskupič",
+            "municipality": "Trnava",
+            "ageAtElection": 50,
+            "sourceIds": [
+              "finance-national-chairs-2026"
+            ],
+            "decision": "retained",
+            "reason": "V štyroch úplných celoštátnych registroch je jediný záznam s týmto normalizovaným menom. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-jozef-viskupic",
+        "accountSourceIds": [
+          "tis-election-s26"
+        ]
+      },
+      "iban": "SK6511000000002975088953"
     }
   },
   {
@@ -361,7 +593,9 @@
     "sourceIds": [
       "finance-national-mayors-2026",
       "finance-national-regional-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26",
+      "four-city-recheck-bank-ttsk-branislav-baros"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014"
@@ -390,11 +624,70 @@
       "ttsk-party-kdh-krestanskodemokraticke-hnutie-2026"
     ],
     "account": {
-      "status": "unverified",
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2003423219",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
+        "campaign-accounts-candidates-2026",
+        "tis-election-s26",
+        "four-city-recheck-bank-ttsk-branislav-baros"
       ],
-      "reason": "Index obsahuje zhodu mena; priradenie účtu k tejto kandidatúre zatiaľ nespĺňa dve ďalšie overené rozlišujúce vlastnosti."
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-branislav-baros",
+            "name": "Branislav Baroš",
+            "municipality": "Trnava",
+            "ageAtElection": 53,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-regional-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-branislav-baros",
+        "accountSourceIds": [
+          "campaign-accounts-candidates-2026",
+          "tis-election-s26",
+          "four-city-recheck-bank-ttsk-branislav-baros"
+        ]
+      },
+      "iban": "SK1883300000002003423219"
     }
   },
   {
@@ -1076,7 +1369,8 @@
             "tt-campaign-horvathova-2026"
           ]
         }
-      ]
+      ],
+      "url": "https://transparentneucty.sk/#/ucet/SK6609000000005244601702"
     }
   },
   {
@@ -1993,7 +2287,9 @@
     "sourceIds": [
       "finance-national-mayors-2026",
       "finance-national-councillors-2026",
-      "campaign-accounts-candidates-2026"
+      "campaign-accounts-candidates-2026",
+      "tis-election-s26",
+      "four-city-recheck-bank-ttsk-jozef-obselka"
     ],
     "legalSourceIds": [
       "campaign-law-181-2014"
@@ -2019,10 +2315,68 @@
     ],
     "partyIds": [],
     "account": {
-      "status": "not_listed",
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2703569040",
+      "verificationMethod": "register_exclusion",
       "sourceIds": [
-        "campaign-accounts-candidates-2026"
-      ]
+        "tis-election-s26",
+        "four-city-recheck-bank-ttsk-jozef-obselka"
+      ],
+      "identity": [],
+      "exclusionEvidence": {
+        "scope": "four-cities-2026",
+        "checkedAt": "2026-10-15",
+        "registers": [
+          {
+            "kind": "mayor",
+            "sourceId": "finance-national-mayors-2026",
+            "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+            "rowCount": 6560,
+            "complete": true
+          },
+          {
+            "kind": "city-council",
+            "sourceId": "finance-national-councillors-2026",
+            "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+            "rowCount": 40184,
+            "complete": true
+          },
+          {
+            "kind": "region-chair",
+            "sourceId": "finance-national-chairs-2026",
+            "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+            "rowCount": 56,
+            "complete": true
+          },
+          {
+            "kind": "region-council",
+            "sourceId": "finance-national-regional-councillors-2026",
+            "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+            "rowCount": 2472,
+            "complete": true
+          }
+        ],
+        "matches": [
+          {
+            "candidateId": "ttsk-jozef-obselka",
+            "name": "Jozef Obselka",
+            "municipality": "Trnava",
+            "ageAtElection": 48,
+            "sourceIds": [
+              "finance-national-mayors-2026",
+              "finance-national-councillors-2026"
+            ],
+            "decision": "retained",
+            "reason": "Súbežné kandidatúry sa spojili podľa normalizovaného mena, zhodnej obce a veku; profesia a volebný kontext boli skontrolované a nevytvorili protichodný údaj. Po zachovaní všetkých menových zhôd zostala jediná osoba; iný menovec ani protichodný vek alebo obec nebol zistený. Kandidatúra za politickú stranu ani neexistencia povinnosti zriadiť účet neboli dôvodom vylúčenia."
+          }
+        ],
+        "remainingCandidateId": "ttsk-jozef-obselka",
+        "accountSourceIds": [
+          "tis-election-s26",
+          "four-city-recheck-bank-ttsk-jozef-obselka"
+        ]
+      },
+      "iban": "SK9883300000002703569040"
     }
   },
   {

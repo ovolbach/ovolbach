@@ -1,0 +1,382 @@
+{
+  "checkout": "main checkout",
+  "baseline": "82a3542",
+  "startedAt": "2026-10-15T17:56:43.730533+00:00",
+  "gates": [
+    {
+      "gate": "unit",
+      "command": [
+        "npm",
+        "test"
+      ],
+      "startedAt": "2026-10-15T18:09:25.052535+00:00",
+      "finishedAt": "2026-10-15T18:09:49.641389+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-unit.log",
+      "logSha256": "b245dc225e25f4d5d47b262fe1862f2ebd124fc8aece1abe55dbab481173117a"
+    },
+    {
+      "gate": "data",
+      "command": [
+        "npm",
+        "run",
+        "validate:data"
+      ],
+      "startedAt": "2026-10-15T18:09:49.641899+00:00",
+      "finishedAt": "2026-10-15T18:09:52.544864+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-data.log",
+      "logSha256": "3830c8f9fb39d4f44864e068db08e83e98490a358d4fccd1fe96018ee9ff7b8a"
+    },
+    {
+      "gate": "release",
+      "command": [
+        "npm",
+        "run",
+        "validate:release"
+      ],
+      "startedAt": "2026-10-15T18:09:52.545425+00:00",
+      "finishedAt": "2026-10-15T18:09:55.409384+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-release.log",
+      "logSha256": "20ce58bb5e0f13fce0445c5a173424c1039ebabfeffffc1f8fc013b727ce3bd0"
+    },
+    {
+      "gate": "coverage",
+      "command": [
+        "npm",
+        "run",
+        "report:coverage"
+      ],
+      "startedAt": "2026-10-15T18:09:55.409845+00:00",
+      "finishedAt": "2026-10-15T18:09:57.583383+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-coverage.log",
+      "logSha256": "734ff87e5efe9394c0ffa543dfe3ea44b0622388d7f1e087660e5eb28e2aeeb2"
+    },
+    {
+      "gate": "build",
+      "command": [
+        "npm",
+        "run",
+        "build"
+      ],
+      "startedAt": "2026-10-15T18:09:57.585275+00:00",
+      "finishedAt": "2026-10-15T18:10:43.689898+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-build.log",
+      "logSha256": "c4fb4da004245c6691ba7b3453b6d4527a983641e3662134af36dad99052488f"
+    },
+    {
+      "gate": "seo",
+      "command": [
+        "npm",
+        "run",
+        "check:seo"
+      ],
+      "startedAt": "2026-10-15T18:10:43.690722+00:00",
+      "finishedAt": "2026-10-15T18:10:47.894922+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-seo.log",
+      "logSha256": "8f8a82b6de0ec99327c76be812744a860b82047b7fe3888b38f6de58a5ef6ed5"
+    },
+    {
+      "gate": "html",
+      "command": [
+        "npm",
+        "run",
+        "check:html"
+      ],
+      "startedAt": "2026-10-15T18:10:47.895389+00:00",
+      "finishedAt": "2026-10-15T18:11:17.925688+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-html.log",
+      "logSha256": "42bd11e60c0de3919cf3123c2bdb79254ba27221951f16c40e50bab7d4b3a52a"
+    },
+    {
+      "gate": "storage",
+      "command": [
+        "npm",
+        "run",
+        "check:storage"
+      ],
+      "startedAt": "2026-10-15T18:11:17.926135+00:00",
+      "finishedAt": "2026-10-15T18:12:10.261758+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-storage.log",
+      "logSha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd"
+    },
+    {
+      "gate": "links",
+      "command": [
+        "npm",
+        "run",
+        "check:links"
+      ],
+      "startedAt": "2026-10-15T17:59:24.333113+00:00",
+      "finishedAt": "2026-10-15T18:04:44.123831+00:00",
+      "exitCode": 1,
+      "logPath": ".internal/four-cities-recheck/logs/initial-links.log",
+      "logSha256": "58ba8741950756db66399806e97806c77520619724b1c90a3360ce2a83984211",
+      "reusedForUnchangedUrlInputs": true
+    },
+    {
+      "gate": "e2e",
+      "command": [
+        "npm",
+        "run",
+        "test:e2e",
+        "--",
+        "--config=.internal/playwright-four-cities.config.ts",
+        "--workers=2",
+        "--timeout=120000",
+        "--max-failures=1"
+      ],
+      "startedAt": "2026-10-15T18:12:10.262758+00:00",
+      "finishedAt": "2026-10-15T18:18:44.788645+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-e2e.log",
+      "logSha256": "6e1d6dc20130816f53125e57707a8cf3b3c4193796eed96e7b118ea81e551441"
+    },
+    {
+      "gate": "redirects",
+      "command": [
+        "npm",
+        "run",
+        "check:redirects"
+      ],
+      "startedAt": "2026-10-15T18:18:44.789117+00:00",
+      "finishedAt": "2026-10-15T18:18:46.975739+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-redirects.log",
+      "logSha256": "2bca4fa8685528df3e6719bdfcec2b8af17f659f458f86d8bea5115f4798c3ff"
+    },
+    {
+      "gate": "whitespace",
+      "command": [
+        "git",
+        "diff",
+        "--check"
+      ],
+      "startedAt": "2026-10-15T18:18:46.976200+00:00",
+      "finishedAt": "2026-10-15T18:18:47.022835+00:00",
+      "exitCode": 0,
+      "logPath": ".internal/four-cities-recheck/logs/final-whitespace.log",
+      "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "environmentNotes": {
+    "NGINX_BIN": "real nginx executable",
+    "VNU_JAVA": "official Nu Checker bundled runtime",
+    "NODE_EXTRA_CA_CERTS": "independently verified GeoTrust intermediate; TLS verification enabled",
+    "E2E": "fresh current-checkout build on isolated45479 preview; no reused server"
+  },
+  "resumedAt": "2026-10-15T18:09:25.052508+00:00",
+  "initialRun": {
+    "checkout": "main checkout",
+    "baseline": "82a3542",
+    "startedAt": "2026-10-15T17:56:43.730533+00:00",
+    "gates": [
+      {
+        "gate": "unit",
+        "command": [
+          "npm",
+          "test"
+        ],
+        "startedAt": "2026-10-15T17:56:43.730591+00:00",
+        "finishedAt": "2026-10-15T17:57:07.416867+00:00",
+        "exitCode": 0,
+        "logPath": ".internal/four-cities-recheck/logs/initial-unit.log",
+        "logSha256": "21f5736f3287b77f081354fa68ec837ee8989d969d3c6671c6490d3962247587"
+      },
+      {
+        "gate": "data",
+        "command": [
+          "npm",
+          "run",
+          "validate:data"
+        ],
+        "startedAt": "2026-10-15T17:57:07.417290+00:00",
+        "finishedAt": "2026-10-15T17:57:10.311559+00:00",
+        "exitCode": 0,
+        "logPath": ".internal/four-cities-recheck/logs/initial-data.log",
+        "logSha256": "3830c8f9fb39d4f44864e068db08e83e98490a358d4fccd1fe96018ee9ff7b8a"
+      },
+      {
+        "gate": "release",
+        "command": [
+          "npm",
+          "run",
+          "validate:release"
+        ],
+        "startedAt": "2026-10-15T17:57:10.311963+00:00",
+        "finishedAt": "2026-10-15T17:57:13.174139+00:00",
+        "exitCode": 0,
+        "logPath": ".internal/four-cities-recheck/logs/initial-release.log",
+        "logSha256": "20ce58bb5e0f13fce0445c5a173424c1039ebabfeffffc1f8fc013b727ce3bd0"
+      },
+      {
+        "gate": "coverage",
+        "command": [
+          "npm",
+          "run",
+          "report:coverage"
+        ],
+        "startedAt": "2026-10-15T17:57:13.174548+00:00",
+        "finishedAt": "2026-10-15T17:57:15.308933+00:00",
+        "exitCode": 0,
+        "logPath": ".internal/four-cities-recheck/logs/initial-coverage.log",
+        "logSha256": "734ff87e5efe9394c0ffa543dfe3ea44b0622388d7f1e087660e5eb28e2aeeb2"
+      },
+      {
+        "gate": "build",
+        "command": [
+          "npm",
+          "run",
+          "build"
+        ],
+        "startedAt": "2026-10-15T17:57:15.310293+00:00",
+        "finishedAt": "2026-10-15T17:58:00.003367+00:00",
+        "exitCode": 0,
+        "logPath": ".internal/four-cities-recheck/logs/initial-build.log",
+        "logSha256": "e2febbc7fd7197a9290e07412f33483b738a0695aec7d4a2da2f0a3a2a7986f7"
+      },
+      {
+        "gate": "seo",
+        "command": [
+          "npm",
+          "run",
+          "check:seo"
+        ],
+        "startedAt": "2026-10-15T17:58:00.004318+00:00",
+        "finishedAt": "2026-10-15T17:58:04.210605+00:00",
+        "exitCode": 0,
+        "logPath": ".internal/four-cities-recheck/logs/initial-seo.log",
+        "logSha256": "8f8a82b6de0ec99327c76be812744a860b82047b7fe3888b38f6de58a5ef6ed5"
+      },
+      {
+        "gate": "html",
+        "command": [
+          "npm",
+          "run",
+          "check:html"
+        ],
+        "startedAt": "2026-10-15T17:58:04.211012+00:00",
+        "finishedAt": "2026-10-15T17:58:33.152313+00:00",
+        "exitCode": 0,
+        "logPath": ".internal/four-cities-recheck/logs/initial-html.log",
+        "logSha256": "42bd11e60c0de3919cf3123c2bdb79254ba27221951f16c40e50bab7d4b3a52a"
+      },
+      {
+        "gate": "storage",
+        "command": [
+          "npm",
+          "run",
+          "check:storage"
+        ],
+        "startedAt": "2026-10-15T17:58:33.152986+00:00",
+        "finishedAt": "2026-10-15T17:59:24.332660+00:00",
+        "exitCode": 0,
+        "logPath": ".internal/four-cities-recheck/logs/initial-storage.log",
+        "logSha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd"
+      },
+      {
+        "gate": "links",
+        "command": [
+          "npm",
+          "run",
+          "check:links"
+        ],
+        "startedAt": "2026-10-15T17:59:24.333113+00:00",
+        "finishedAt": "2026-10-15T18:04:44.123831+00:00",
+        "exitCode": 1,
+        "logPath": ".internal/four-cities-recheck/logs/initial-links.log",
+        "logSha256": "58ba8741950756db66399806e97806c77520619724b1c90a3360ce2a83984211"
+      },
+      {
+        "gate": "e2e",
+        "command": [
+          "npm",
+          "run",
+          "test:e2e",
+          "--",
+          "--config=.internal/playwright-four-cities.config.ts",
+          "--workers=2",
+          "--timeout=120000",
+          "--max-failures=1"
+        ],
+        "startedAt": "2026-10-15T18:04:44.134877+00:00",
+        "finishedAt": "2026-10-15T18:04:50.138639+00:00",
+        "exitCode": 1,
+        "logPath": ".internal/four-cities-recheck/logs/initial-e2e.log",
+        "logSha256": "bcee0d251c1d47b97860bed6e0017a7474fa3176024fe0eb5bc555a5a1a38ea4"
+      }
+    ],
+    "environmentNotes": {
+      "NGINX_BIN": "real nginx executable",
+      "VNU_JAVA": "official Nu Checker bundled runtime",
+      "NODE_EXTRA_CA_CERTS": "independently verified GeoTrust intermediate; TLS verification enabled",
+      "E2E": "fresh current-checkout build on isolated45479 preview; no reused server"
+    },
+    "finishedAt": "2026-10-15T18:04:50.139074+00:00"
+  },
+  "fix": {
+    "path": "src/lib/schemas.ts",
+    "change": "Explicit JSON import attribute, required by Node ESM used during Playwright collection. No financial or identity logic change.",
+    "redLog": "json-import-red.log",
+    "greenLog": "json-import-green.log",
+    "greenCollectedTests": 294
+  },
+  "linkInputReuse": {
+    "sha256": "14421ece14806bf766ea0f3413f0bb53b692915b67d5f7919c2638be01973b9a",
+    "urlCount": 2919,
+    "matchesCompletedGlobalGateExactly": true,
+    "reason": "The single code-only import-attribute change does not alter any external URL. Completed full global link result is retained, including its nonzero exit."
+  },
+  "finishedAt": "2026-10-15T18:18:47.023207+00:00",
+  "publicExport": {
+    "redactions": [
+      "Local absolute checkout path replaced by a generic checkout label."
+    ],
+    "privateOriginalSha256": "55d07e2f7f88cf678557d3c32bb02698693bbb4c1ede688daf9bf4255e656800"
+  },
+  "summary": {
+    "unit": {
+      "passed": 566,
+      "files": 66
+    },
+    "e2e": {
+      "passed": 292,
+      "skipped": 2,
+      "collected": 294,
+      "skipReason": "Two mobile-only assertions are skipped in the desktop project; they run in the mobile project."
+    },
+    "html": {
+      "files": 1397,
+      "errors": 0,
+      "warnings": 0
+    },
+    "coverage": {
+      "releaseReady": true,
+      "pending": 0
+    },
+    "redirects": {
+      "requests": 294,
+      "legacyRoutes": 49,
+      "finalProfiles200": 43,
+      "unknownRoutes404": true
+    },
+    "externalLinks": {
+      "globalExitCode": 1,
+      "urlGroups": 2919,
+      "initialUnreachable": 39,
+      "manualReview": 51,
+      "newUrlGroups": 251,
+      "newUnreachable": 0,
+      "recoveredOnSeparateRetry": 21,
+      "remainingOnSeparateRetry": 18
+    },
+    "allMandatoryGatesPassed": false
+  },
+  "independentImportReview": "independent-json-import-review.json"
+}
