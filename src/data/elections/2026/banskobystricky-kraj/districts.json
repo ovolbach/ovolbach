@@ -1,0 +1,652 @@
+[
+  {
+    "id": "bb-1",
+    "kind": "city",
+    "number": 1,
+    "name": "Stred",
+    "seats": 6,
+    "areas": [
+      "Stred"
+    ],
+    "pollingStations": [
+      {
+        "number": 1,
+        "coverage": "Cesta k nemocnici, Československej armády, Petelenova, Banská Bystrica",
+        "address": "Základná škola, Trieda SNP 20",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 2,
+        "coverage": "29. augusta, Jegorovova, Partizánska cesta",
+        "address": "Základná škola, Trieda SNP 20",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 3,
+        "coverage": "Cesta k Smrečine, Námestie slobody, Trieda SNP 2–38, 7–31",
+        "address": "Základná škola, Trieda SNP 20",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 4,
+        "coverage": "Trieda SNP 33–73, 40–80",
+        "address": "Základná škola, Trieda SNP 20",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 5,
+        "coverage": "Dolná, F. Švantnera, J. Cikkera, Kapitulská, Kuzmányho, Nám. Š. Moysesa, Námestie SNP, Národná, Štadlerovo nábrežie, Štefánikovo nábrežie",
+        "address": "Základná škola Slobodného Slovenského vysielača, Skuteckého 8",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 6,
+        "coverage": "Horná, Kukučínova, Robotnícka, Železničiarska",
+        "address": "Základná škola Slobodného Slovenského vysielača, Skuteckého 8",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 7,
+        "coverage": "Figuša Bystrého, Horné záhrady, Kollárova, Komenského, Mikuláša Kováča, Petra Karvaša, Profesora Sáru, Rudlovská cesta 2–54, 3–51, Ulica Oty Plávkovej, Ulica Paľa Bielika, Skuteckého, Šoltésovej, Rudlovská cesta 1",
+        "address": "Základná škola Slobodného Slovenského vysielača, Skuteckého 8",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 8,
+        "coverage": "Alexandra Matušku, Bakossova, Cmárovo, Dolná Strieborná, Horná Strieborná, Jána Bottu, Katovná, Krížna, Laskomerská, Lazovná, Medený Hámor, Pod Jesenským vŕškom, Pod vysielačom, Slnečné stráne, Stoličková, 13936, Strieborné námestie",
+        "address": "Základná škola, Bakossova 5",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 9,
+        "coverage": "Dobšinského, Hečkova, Ľuda Ondrejova, Na Karlove, Severná, Šimona Jurovského",
+        "address": "Základná škola, Bakossova 5",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 10,
+        "coverage": "Astrová, Azalková, Gerberová ulica, Muškátová ulica, Na Graniari, Námestie Ludvika Svobodu, Zvončeková ulica, Ľaliová, Tulipánová",
+        "address": "Univerzita Mateja Bela, Tajovského 10",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 11,
+        "coverage": "Kláry Jarunkovej, Ladislava Hudeca, Nad plážou, Školská, Tajovského, Tibora Andrašovana",
+        "address": "Univerzita Mateja Bela, Tajovského 10",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 12,
+        "coverage": "Cesta na amfiteáter, Cesta na štadión, Hurbanova, Hutná, Jána Chalupku, Janka Kráľa, M. Hattalu, M. M. Hodžu, M. Rázusa, Murgašova, Na Troskách, Rutkaya Nedeckého, Terézie Vansovej, Vajanského námestie, Záhradná",
+        "address": "SPŠ Jozefa Murgaša, Hurbanova 6",
+        "sourceId": "bb-polling-stations-2026"
+      }
+    ],
+    "sourceIds": [
+      "bb-districts-seats-2026",
+      "bb-roster-city-council-2026",
+      "bb-polling-stations-2026",
+      "bb-municipal-information-oct14"
+    ]
+  },
+  {
+    "id": "bb-2",
+    "kind": "city",
+    "number": 2,
+    "name": "Východ",
+    "seats": 2,
+    "areas": [
+      "Východ"
+    ],
+    "pollingStations": [
+      {
+        "number": 13,
+        "coverage": "Majerská cesta, Stavebná",
+        "address": "Banskobystrická regionálna správa ciest, Majerská cesta 94",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 14,
+        "coverage": "Cementárenská cesta, Na Hrbe, Senická cesta, Technická, Priemyselná",
+        "address": "Budova bývalej základnej školy, Senická cesta 57",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 15,
+        "coverage": "Fraňa Kráľa, Hronská, Jiráskova, Ľupčianska, Mieru, Podjavorinskej, Poľovnícka, Ponická ulica, Šalkovská cesta, časť obce Šalková 10865, 10866, 15504",
+        "address": "Kultúrny dom, Hronská 4",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 16,
+        "coverage": "9. mája 3–23, 6–30, Hviezdoslavova, Pod Kalváriou, Pod Urpínom, Viestova, Žltý piesok",
+        "address": "Základná škola, Golianova 8",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 17,
+        "coverage": "Bellušova, Boženy Němcovej, Hronské predmestie, Jesenského, Lesná, Na Uhlisku, Timravy",
+        "address": "Základná škola, Golianova 8",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 18,
+        "coverage": "9. mája 25–55, 36–74, Družstevná, Golianova, Mičinská cesta, Na Starej tehelni, Pod rybou, Pod Turíčkou",
+        "address": "Základná škola, Golianova 8",
+        "sourceId": "bb-polling-stations-2026"
+      }
+    ],
+    "sourceIds": [
+      "bb-districts-seats-2026",
+      "bb-roster-city-council-2026",
+      "bb-polling-stations-2026"
+    ]
+  },
+  {
+    "id": "bb-3",
+    "kind": "city",
+    "number": 3,
+    "name": "Sásová",
+    "seats": 9,
+    "areas": [
+      "Sásová"
+    ],
+    "pollingStations": [
+      {
+        "number": 19,
+        "coverage": "Dedinská, Kapitána Jaroša, Marka Čulena, Mladých budovateľov, Odbojárov, Pod Banošom, Pod Hôrkou, Rudelinova ulica, Rudlovská cesta 57–85, 70–116, Strmá, Zdenka Mikulu",
+        "address": "Kultúrne stredisko Rudlová, Strmá 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 20,
+        "coverage": "Haškova, Hlboká, Mateja Bela",
+        "address": "Základná škola, Ďumbierska 17",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 21,
+        "coverage": "Agátová, Dubová, Garbanka, Na Dolinky, Na plaváreň, Na Skalici, Na Tále, Na Zábave, Pod cintorínom, Pod Skalkou, Sásovská cesta, Stránska, Surovská, Veterná",
+        "address": "Základná škola, Ďumbier 17",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 22,
+        "coverage": "Ďumbierska, Ružová",
+        "address": "Základná škola, Ďumbierska 17",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 23,
+        "coverage": "Gerlachovská, Chabenecká",
+        "address": "Základná škola, Ďumbierska 17",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 24,
+        "coverage": "Beskydská, Fatranská",
+        "address": "Základná škola, Ďumbierska 17",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 25,
+        "coverage": "Magurská 5–59",
+        "address": "Základná škola, Pieninská 27",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 26,
+        "coverage": "Kráľovohoľská, Magurská 61–69",
+        "address": "Základná škola, Pieninská 27",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 27,
+        "coverage": "Inovecká, Karpatská",
+        "address": "Základná škola, Pieninská 27",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 28,
+        "coverage": "Magurská 2–16, Pieninská",
+        "address": "Základná škola, Pieninská 27",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 29,
+        "coverage": "Krivánska",
+        "address": "Základná škola, Pieninská 27",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 30,
+        "coverage": "Javornícka 1–53",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 31,
+        "coverage": "Javornícka 2–12, Rudohorská 1–27",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 32,
+        "coverage": "Starohorská 1–23, 6–38",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 33,
+        "coverage": "Starohorská 25–49, 40–70, Tatranská 1–11",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 34,
+        "coverage": "Strážovská, Tatranská 4–10",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 35,
+        "coverage": "Tatranská 13–39, 14–38A",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 36,
+        "coverage": "Tatranská 40–58, 41–79",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 37,
+        "coverage": "Tatranská 60–96, 81–93, Borová ulica, Tribečská, Zoborská, Žiarska",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 38,
+        "coverage": "Tatranská 95–109, Rudohorská 28–32",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 39,
+        "coverage": "Sitnianska 1–23, 2–22",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 40,
+        "coverage": "Rudohorská 20–24, Sitnianska 24–32, 25–33",
+        "address": "Základná škola, Sitnianska 32",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 41,
+        "coverage": "Jelšová, Kostiviarska cesta, Nový Svet, Topoľová",
+        "address": "Materská škola, Jakubská cesta 77",
+        "sourceId": "bb-polling-stations-2026"
+      }
+    ],
+    "sourceIds": [
+      "bb-districts-seats-2026",
+      "bb-roster-city-council-2026",
+      "bb-polling-stations-2026"
+    ]
+  },
+  {
+    "id": "bb-4",
+    "kind": "city",
+    "number": 4,
+    "name": "Sever",
+    "seats": 2,
+    "areas": [
+      "Sever"
+    ],
+    "pollingStations": [
+      {
+        "number": 42,
+        "coverage": "Harmanecká cesta, Hrušková, Jakubská cesta, Ovocná",
+        "address": "Materská škola, Jakubská cesta 77",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 43,
+        "coverage": "Jozefa Mistríka, Uľanská cesta",
+        "address": "Budova bývalého MNV, Uľanská cesta 47",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 44,
+        "coverage": "Buková, Mlynská, Na Čiertolí, Na úbočí, Pod Stráňou, Skubínska cesta, Záhumnie, Závoz",
+        "address": "Základná škola, Gaštanová 12",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 45,
+        "coverage": "Gaštanová, Limbová",
+        "address": "Základná škola, Gaštanová 12",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 46,
+        "coverage": "Javorová, Lipová, Lúčičky, Priehrada, Višňová, Ulička",
+        "address": "Základná škola, Gaštanová 12",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 47,
+        "coverage": "Jaseňová, Jedľová, Na Lúčkach, Pestovateľská, Pod Dúbravou, Podlavická cesta, Podlavice: 10775, Povstalecká cesta",
+        "address": "Základná škola, Gaštanová 12",
+        "sourceId": "bb-polling-stations-2026"
+      }
+    ],
+    "sourceIds": [
+      "bb-districts-seats-2026",
+      "bb-roster-city-council-2026",
+      "bb-polling-stations-2026"
+    ]
+  },
+  {
+    "id": "bb-5",
+    "kind": "city",
+    "number": 5,
+    "name": "Fončorda",
+    "seats": 7,
+    "areas": [
+      "Fončorda"
+    ],
+    "pollingStations": [
+      {
+        "number": 48,
+        "coverage": "Gorkého, Nové Kalište, Okružná, Wolkerova",
+        "address": "Základná škola Narnia, Okružná 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 49,
+        "coverage": "Družby",
+        "address": "Základná škola Narnia, Okružná 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 50,
+        "coverage": "Mládežnícka 2–38, 1–29",
+        "address": "Základná škola Narnia, Okružná 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 51,
+        "coverage": "Internátna 1, 2–32, Nová",
+        "address": "Základná škola Narnia, Okružná 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 52,
+        "coverage": "Internátna 13–69",
+        "address": "Základná škola Narnia, Okružná 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 53,
+        "coverage": "Mládežnícka 31–47, Oremburská",
+        "address": "Základná škola, Moskovská 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 54,
+        "coverage": "Moskovská 2–40",
+        "address": "Základná škola, Moskovská 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 55,
+        "coverage": "Durhamská ulica, Lariská ulica, Moskovská 1–29, 42–48, Radomská ulica, Vršacká ulica, Zadarská ulica",
+        "address": "Základná škola, Moskovská 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 56,
+        "coverage": "Tulská 2–38",
+        "address": "Základná škola, Moskovská 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 57,
+        "coverage": "Tulská 1–59, Kyjevské námestie",
+        "address": "Základná škola, Moskovská 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 58,
+        "coverage": "Tulská 64–74, 61–119, Kovačická ulica",
+        "address": "Základná škola, Moskovská 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 59,
+        "coverage": "Bagarova, Havranské, Prvosienková ulica, Slnečná, Tichá, Zelená",
+        "address": "Základná škola, Spojová 14",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 60,
+        "coverage": "Jazmínová, Spojová, Šalgotarjánska",
+        "address": "Základná škola, Spojová 14",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 61,
+        "coverage": "Trieda Hradca Králové 1–15",
+        "address": "Základná škola, Spojová 14",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 62,
+        "coverage": "Trieda Hradca Králové 16–40, Kvetinová",
+        "address": "Základná škola, Spojová 14",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 63,
+        "coverage": "Švermova 2–44, 19–59, Cesta olympionikov",
+        "address": "Základná škola Narnia, Okružná 2",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 64,
+        "coverage": "Dlhá, Jilemnického, Kapitána Nálepku, Nešporova, Sadová, Švermova 1–17",
+        "address": "Základná škola Narnia, Okružná 2",
+        "sourceId": "bb-polling-stations-2026"
+      }
+    ],
+    "sourceIds": [
+      "bb-districts-seats-2026",
+      "bb-roster-city-council-2026",
+      "bb-polling-stations-2026"
+    ]
+  },
+  {
+    "id": "bb-6",
+    "kind": "city",
+    "number": 6,
+    "name": "Radvaň",
+    "seats": 3,
+    "areas": [
+      "Radvaň"
+    ],
+    "pollingStations": [
+      {
+        "number": 65,
+        "coverage": "Bočná, Dúhová ulica, Jarná, Jesenná, Krátka, Králická cesta, Letná, Na Kútinách, Na Motyčinách, Oblačná ulica, Ovčiarska cesta, Pánska, Pod Flosom, Pod Suchým vrchom, Poľná 2–102, 35–157, Snežná ulica, Stredná, Zimná, Radvaň: 10165, 2751, 13165, 14958, 15069, 10163",
+        "address": "Gymnázium Mikuláša Kováča, Mládežnícka 51",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 66,
+        "coverage": "Malachovská cesta, Poľná 11–33, Stromová, Stupy, Radvaň 13241",
+        "address": "Gymnázium Mikuláša Kováča, Mládežnícka 51",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 67,
+        "coverage": "Nám. Ľ. Štúra 7–25, 8–26, Poľná 1–9",
+        "address": "Základná škola, Radvanská 1",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 68,
+        "coverage": "Radvanská 1–24",
+        "address": "Základná škola, Radvanská 1",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 69,
+        "coverage": "Kalinčiakova, Sládkovičova 5–13, 2–6",
+        "address": "Základná škola, Radvanská 1",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 70,
+        "coverage": "Radvanská 25–30, Bernolákova 1–3",
+        "address": "Fakulta zdravotníctva, Sládkovičova 21",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 71,
+        "coverage": "Bernolákova 14–58, Pršianska cesta",
+        "address": "Fakulta zdravotníctva, Sládkovičova 21",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 72,
+        "coverage": "Bernolákova 5–43, Cintorínska",
+        "address": "Fakulta zdravotníctva, Sládkovičova 21",
+        "sourceId": "bb-polling-stations-2026"
+      }
+    ],
+    "sourceIds": [
+      "bb-districts-seats-2026",
+      "bb-roster-city-council-2026",
+      "bb-polling-stations-2026"
+    ]
+  },
+  {
+    "id": "bb-7",
+    "kind": "city",
+    "number": 7,
+    "name": "Juh",
+    "seats": 2,
+    "areas": [
+      "Juh"
+    ],
+    "pollingStations": [
+      {
+        "number": 73,
+        "coverage": "Iliašska cesta, Zvolenská cesta 5, 19, 33, 71",
+        "address": "Bývalá Požiarna zbrojnica, Iliašska cesta 9",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 74,
+        "coverage": "Podháj 2–52, 1–37, Sládkovičova 8–48, Sokolovská, Zvolenská cesta 2, 4, 6",
+        "address": "Fakulta zdravotníctva, Sládkovičova 21",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 75,
+        "coverage": "Podháj 56–102, 39–69",
+        "address": "Fakulta zdravotníctva, Sládkovičova 21",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 76,
+        "coverage": "Sládkovičova 50–96",
+        "address": "Fakulta zdravotníctva, Sládkovičova 21",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 77,
+        "coverage": "Borievková, Brezová, Čerešňová, Drienková, Jabloňová, Kremnička, Plánková, Šípková, Trnková",
+        "address": "Klub dôchodcov Senior, Kremnička 18",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 78,
+        "coverage": "Achátová, Ametystová, Bronzová, Cínová, Diamantová, Dolomitová, Grafitová, Jantárová, Jaspisová, Kalcitová, Korundová, Kremeňová, Malachitová, Medená, Mosadzná, Opálová, Platinová, Pyritová ulica, Rubínova, Rumelková, Rutilová ulica, Tyrkysová, Topásová, Zlatá, Zafírova, Železná",
+        "address": "Spoločné nebytové priestory, Medená 3",
+        "sourceId": "bb-polling-stations-2026"
+      },
+      {
+        "number": 79,
+        "coverage": "Rakytovce: Borovicová, Brestová, Klenová ulica, Liesková, Rakytovská cesta, Smreková, Vŕbová",
+        "address": "Zvonica, Rakytovská cesta 76",
+        "sourceId": "bb-polling-stations-2026"
+      }
+    ],
+    "sourceIds": [
+      "bb-districts-seats-2026",
+      "bb-roster-city-council-2026",
+      "bb-polling-stations-2026"
+    ]
+  },
+  {
+    "id": "bbsk-1",
+    "kind": "region",
+    "number": 1,
+    "name": "Banská Bystrica",
+    "seats": 8,
+    "areas": [
+      "Badín",
+      "Baláže",
+      "Banská Bystrica",
+      "Brusno",
+      "Čerín",
+      "Dolná Mičiná",
+      "Dolný Harmanec",
+      "Donovaly",
+      "Dúbravica",
+      "Harmanec",
+      "Hiadeľ",
+      "Horná Mičiná",
+      "Horné Pršany",
+      "Hrochoť",
+      "Hronsek",
+      "Kordíky",
+      "Králiky",
+      "Kynceľová",
+      "Ľubietová",
+      "Lučatín",
+      "Malachov",
+      "Medzibrod",
+      "Moštenica",
+      "Motyčky",
+      "Môlča",
+      "Nemce",
+      "Oravce",
+      "Podkonice",
+      "Pohronský Bukovec",
+      "Poniky",
+      "Povrazník",
+      "Priechod",
+      "Riečka",
+      "Sebedín - Bečov",
+      "Selce",
+      "Slovenská Ľupča",
+      "Staré Hory",
+      "Strelníky",
+      "Špania Dolina",
+      "Tajov",
+      "Turecká",
+      "Vlkanová"
+    ],
+    "pollingStations": [],
+    "sourceIds": [
+      "bbsk-roster-region-council-2026",
+      "bb-regional-district-decision-tls-unverified"
+    ]
+  }
+]

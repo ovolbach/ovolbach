@@ -1,0 +1,54 @@
+[
+  {
+    "id": "mayor",
+    "contestId": "2026-nr-mayor",
+    "title": {
+      "sk": "Voľby primátora mesta Nitra"
+    },
+    "level": "city",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "nr-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "city-council",
+    "contestId": "2026-nr-city-council",
+    "title": {
+      "sk": "Voľby do Mestského zastupiteľstva mesta Nitra"
+    },
+    "level": "city",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "region-chair",
+    "contestId": "2026-nsk-region-chair",
+    "title": {
+      "sk": "Voľby predsedu Nitrianskeho samosprávneho kraja"
+    },
+    "level": "region",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "nsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "title": {
+      "sk": "Voľby do zastupiteľstva Nitrianskeho samosprávneho kraja"
+    },
+    "level": "region",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ]
+  }
+]

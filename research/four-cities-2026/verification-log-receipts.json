@@ -1,0 +1,473 @@
+{
+  "boundary": "Raw logs retained privately; pre-redaction failure logs are not exported.",
+  "logs": [
+    {
+      "file": "four-cities-axe-isolated-recheck.log",
+      "sha256": "4968fc777b92f4cb3f183417177ab77dcf1df1d76945c7478547484d0e54bb68",
+      "bytes": 768,
+      "privatePath": "verification-logs/four-cities-axe-isolated-recheck.log"
+    },
+    {
+      "file": "four-cities-bb-polling-red.log",
+      "sha256": "cd9fa6e48fb8d61069098bed557c9273a28b1d0ce3831c2289a5f4a1048f9c10",
+      "bytes": 1388,
+      "privatePath": "verification-logs/four-cities-bb-polling-red.log"
+    },
+    {
+      "file": "four-cities-bb-polling-source-title-green.log",
+      "sha256": "00505bc0f39a83619a7840f29a148866fbe8bb2ad636883305769f5c391aca73",
+      "bytes": 345,
+      "privatePath": "verification-logs/four-cities-bb-polling-source-title-green.log"
+    },
+    {
+      "file": "four-cities-bb-polling-source-title-red.log",
+      "sha256": "103fd38468860ff33d377e1b9eea48b9c85dc7d53ece926af871a0456720bde6",
+      "bytes": 11207,
+      "privatePath": "verification-logs/four-cities-bb-polling-source-title-red.log"
+    },
+    {
+      "file": "four-cities-bodis-atomic-green.log",
+      "sha256": "bbc2ac3a504e5dfd2714cc3ecf3e6275ce51a33d8d537968d909e003c26bd61d",
+      "bytes": 1266,
+      "privatePath": "verification-logs/four-cities-bodis-atomic-green.log"
+    },
+    {
+      "file": "four-cities-bodis-atomic-red.log",
+      "sha256": "f499c685beb76bbf904bf4fc8b70181fcb544015094ad62937df3c5d113d8469",
+      "bytes": 1323,
+      "privatePath": "verification-logs/four-cities-bodis-atomic-red.log"
+    },
+    {
+      "file": "four-cities-check-links.log",
+      "sha256": "f3f98e297d6f649e8bb770c60b01eff68024a0c1ed23f3cc2a656c718e2deec7",
+      "bytes": 2161042,
+      "privatePath": "verification-logs/four-cities-check-links.log"
+    },
+    {
+      "file": "four-cities-draft-validation-2.log",
+      "sha256": "7097272214620283bc9b59f0f88593ddcaa316cad5a1a47c99548ff925d76b5e",
+      "bytes": 53,
+      "privatePath": "verification-logs/four-cities-draft-validation-2.log"
+    },
+    {
+      "file": "four-cities-draft-validation-3.log",
+      "sha256": "44b6fd2a2805545531e647825649ccced2f5ec31cef20b48582775d1f30c5c2c",
+      "bytes": 295,
+      "privatePath": "verification-logs/four-cities-draft-validation-3.log"
+    },
+    {
+      "file": "four-cities-draft-validation-4.log",
+      "sha256": "abe677f78f108adeb5f352af85b1f3f8ac8476c7094e1299394acf54ff26f061",
+      "bytes": 837,
+      "privatePath": "verification-logs/four-cities-draft-validation-4.log"
+    },
+    {
+      "file": "four-cities-draft-validation-5.log",
+      "sha256": "d19519dfce0f25c27411312549e109b03296ba7c44fdb533e666e7afea36e95e",
+      "bytes": 115,
+      "privatePath": "verification-logs/four-cities-draft-validation-5.log"
+    },
+    {
+      "file": "four-cities-draft-validation-6.log",
+      "sha256": "d19519dfce0f25c27411312549e109b03296ba7c44fdb533e666e7afea36e95e",
+      "bytes": 115,
+      "privatePath": "verification-logs/four-cities-draft-validation-6.log"
+    },
+    {
+      "file": "four-cities-draft-validation-final.log",
+      "sha256": "d19519dfce0f25c27411312549e109b03296ba7c44fdb533e666e7afea36e95e",
+      "bytes": 115,
+      "privatePath": "verification-logs/four-cities-draft-validation-final.log"
+    },
+    {
+      "file": "four-cities-draft-validation.log",
+      "sha256": "70d4ea4c69a5bc3c0288beb596b5c0995550ba7248cb6900d9ee26342d063693",
+      "bytes": 2971,
+      "privatePath": "verification-logs/four-cities-draft-validation.log"
+    },
+    {
+      "file": "four-cities-editorial-data-red.log",
+      "sha256": "a3351862807f1d6193bc7b8f48a78bf4ca1d0a4b43834f40dc4573bd38475e64",
+      "bytes": 1213,
+      "privatePath": "verification-logs/four-cities-editorial-data-red.log"
+    },
+    {
+      "file": "four-cities-editorial-green.log",
+      "sha256": "94e8dae85f8381d2a41fbb422043ae3c4c524a53850f9351581d4b009bd4d5b8",
+      "bytes": 236,
+      "privatePath": "verification-logs/four-cities-editorial-green.log"
+    },
+    {
+      "file": "four-cities-editorial-red.log",
+      "sha256": "98570f24f8ce6ec950c8f2e73ffbf699cc98827a912ffdb7df1c5a2eb86cf8d0",
+      "bytes": 2091,
+      "privatePath": "verification-logs/four-cities-editorial-red.log"
+    },
+    {
+      "file": "four-cities-events-polling-green.log",
+      "sha256": "3117cc987fa0dbbc0ff9fd8d767c15ca222ce8955087afc9c16fa9db6a113e3c",
+      "bytes": 328,
+      "privatePath": "verification-logs/four-cities-events-polling-green.log"
+    },
+    {
+      "file": "four-cities-events-red.log",
+      "sha256": "e4c8a800ab0ca35d83baf43202eff13769d2d4de34262e71c9b9f5a5391543ba",
+      "bytes": 1314,
+      "privatePath": "verification-logs/four-cities-events-red.log"
+    },
+    {
+      "file": "four-cities-final-audit-red.log",
+      "sha256": "8953b52817b5f661c622573e5ed6921788a39005f14e92be045d7dc947064ca5",
+      "bytes": 104118,
+      "privatePath": "verification-logs/four-cities-final-audit-red.log"
+    },
+    {
+      "file": "four-cities-final-build.log",
+      "sha256": "7575faecd62aaf50cc365eb2363c59b89d8a9c1e7c0c48f466aedbf797053269",
+      "bytes": 107722,
+      "privatePath": "verification-logs/four-cities-final-build.log"
+    },
+    {
+      "file": "four-cities-final-diff-check.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "privatePath": "verification-logs/four-cities-final-diff-check.log"
+    },
+    {
+      "file": "four-cities-final-e2e-complete.log",
+      "sha256": "8dfdbdb4d63d5767cfab8dbd51e8d906465b5671daf17f6052075b501fd0dcf8",
+      "bytes": 1832,
+      "privatePath": "verification-logs/four-cities-final-e2e-complete.log"
+    },
+    {
+      "file": "four-cities-final-e2e-isolated.log",
+      "sha256": "c164d89ed06ef9d282103a551ba0ab1996e3250a134a714878587e0302af6cd9",
+      "bytes": 666,
+      "privatePath": "verification-logs/four-cities-final-e2e-isolated.log"
+    },
+    {
+      "file": "four-cities-final-e2e-isolated2.log",
+      "sha256": "6338b38538b8fd4f3eb4c07af9a2f5a8ba6a5d6cca3e051688370be0603852e0",
+      "bytes": 19081,
+      "privatePath": "verification-logs/four-cities-final-e2e-isolated2.log"
+    },
+    {
+      "file": "four-cities-final-e2e.log",
+      "sha256": "ccc70c82ed0778f8ffe6f39d1772101ae112c239ac025e855f39a309c633e7e3",
+      "bytes": 482,
+      "privatePath": "verification-logs/four-cities-final-e2e.log"
+    },
+    {
+      "file": "four-cities-final-fixes-green.log",
+      "sha256": "2e3275429ee2afbb37adaa7881c1f3863cec01e860b1b6a3535e805ba80e6f88",
+      "bytes": 2881,
+      "privatePath": "verification-logs/four-cities-final-fixes-green.log"
+    },
+    {
+      "file": "four-cities-final-fixes-target-green.log",
+      "sha256": "5b9ff3668197afa3d4a4763a6c657ccb5742b03d90bd494cdc32b387436f49fe",
+      "bytes": 1431,
+      "privatePath": "verification-logs/four-cities-final-fixes-target-green.log"
+    },
+    {
+      "file": "four-cities-final-fixes-target-green2.log",
+      "sha256": "c596fcaf212916ea17bfc405426b3a6d1543e91984abc78976a1be5a64e02b42",
+      "bytes": 399,
+      "privatePath": "verification-logs/four-cities-final-fixes-target-green2.log"
+    },
+    {
+      "file": "four-cities-final-html.log",
+      "sha256": "25d22ae017da49d48a14ba664e656e5e7ed9cba02c957670c18e0d42f0c8e77e",
+      "bytes": 233,
+      "privatePath": "verification-logs/four-cities-final-html.log"
+    },
+    {
+      "file": "four-cities-final-link-delta4.log",
+      "sha256": "0a092ecb9be4e270510e5885446b7eef041b4987de85e0871c1671a889a3b6cf",
+      "bytes": 1030,
+      "privatePath": "verification-logs/four-cities-final-link-delta4.log"
+    },
+    {
+      "file": "four-cities-final-npm-test-green.log",
+      "sha256": "42c1e05794a0d2303caa4f47fc06634c36511eb8d587a3f91c87795e8e5f7e56",
+      "bytes": 1469,
+      "privatePath": "verification-logs/four-cities-final-npm-test-green.log"
+    },
+    {
+      "file": "four-cities-final-npm-test-isolated.log",
+      "sha256": "3b60cb44dbd4935fb05d757824c74653fc708e5665d2f58319dcaaad1724b5df",
+      "bytes": 462,
+      "privatePath": "verification-logs/four-cities-final-npm-test-isolated.log"
+    },
+    {
+      "file": "four-cities-final-npm-test.log",
+      "sha256": "2b9699882f09f5fa2adfac16d8c4e546ee51f13cae1bdc31c1693c4e5e740797",
+      "bytes": 1385,
+      "privatePath": "verification-logs/four-cities-final-npm-test.log"
+    },
+    {
+      "file": "four-cities-final-redirects.log",
+      "sha256": "2bca4fa8685528df3e6719bdfcec2b8af17f659f458f86d8bea5115f4798c3ff",
+      "bytes": 164,
+      "privatePath": "verification-logs/four-cities-final-redirects.log"
+    },
+    {
+      "file": "four-cities-final-report-coverage.log",
+      "sha256": "334f1e477649aea258dbd3cff944e3c6ea6794dffa64a083004b29113245db4a",
+      "bytes": 214336,
+      "privatePath": "verification-logs/four-cities-final-report-coverage.log"
+    },
+    {
+      "file": "four-cities-final-seo.log",
+      "sha256": "8f8a82b6de0ec99327c76be812744a860b82047b7fe3888b38f6de58a5ef6ed5",
+      "bytes": 148,
+      "privatePath": "verification-logs/four-cities-final-seo.log"
+    },
+    {
+      "file": "four-cities-final-storage.log",
+      "sha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd",
+      "bytes": 57,
+      "privatePath": "verification-logs/four-cities-final-storage.log"
+    },
+    {
+      "file": "four-cities-final-typecheck.log",
+      "sha256": "341306b86c9b16466629bc924f707ebc9e1a7d2c01002d57323a2948362b04d2",
+      "bytes": 245,
+      "privatePath": "verification-logs/four-cities-final-typecheck.log"
+    },
+    {
+      "file": "four-cities-final-validate-data.log",
+      "sha256": "3830c8f9fb39d4f44864e068db08e83e98490a358d4fccd1fe96018ee9ff7b8a",
+      "bytes": 116,
+      "privatePath": "verification-logs/four-cities-final-validate-data.log"
+    },
+    {
+      "file": "four-cities-final-validate-release.log",
+      "sha256": "20ce58bb5e0f13fce0445c5a173424c1039ebabfeffffc1f8fc013b727ce3bd0",
+      "bytes": 121,
+      "privatePath": "verification-logs/four-cities-final-validate-release.log"
+    },
+    {
+      "file": "four-cities-link-delta.log",
+      "sha256": "0514addf23845125cdb847f6f88c3330269327062ad98c66f88719c52057584e",
+      "bytes": 505,
+      "privatePath": "verification-logs/four-cities-link-delta.log"
+    },
+    {
+      "file": "four-cities-link-get-retry.log",
+      "sha256": "62614a06db77c0ade7611bab1823f1a43180d36df3db625c0fa25759e9335a93",
+      "bytes": 2763,
+      "privatePath": "verification-logs/four-cities-link-get-retry.log"
+    },
+    {
+      "file": "four-cities-link-recovery.log",
+      "sha256": "ae5c64ae37b3cef33256bbe7b0b86df47f7e55d1dce1773871219c211539176d",
+      "bytes": 3558,
+      "privatePath": "verification-logs/four-cities-link-recovery.log"
+    },
+    {
+      "file": "four-cities-main-build.log",
+      "sha256": "072d79434d973adb8e5cd7abe9bae74921b44abd3c8cd1d284626d69e8582b98",
+      "bytes": 107607,
+      "privatePath": "verification-logs/four-cities-main-build.log"
+    },
+    {
+      "file": "four-cities-main-e2e.log",
+      "sha256": "55b6cbd2ad88e06b8818b5f010d58367684d32a54697eec2a151f564a3a4a5c0",
+      "bytes": 1436,
+      "privatePath": "verification-logs/four-cities-main-e2e.log"
+    },
+    {
+      "file": "four-cities-main-unit.log",
+      "sha256": "b91ddcf3604be310f7ae567bf5c38aca6ff72c6213f777b06a1f550c2a00f4a5",
+      "bytes": 425,
+      "privatePath": "verification-logs/four-cities-main-unit.log"
+    },
+    {
+      "file": "four-cities-micega-url-red.log",
+      "sha256": "beb33a6f9c19aac9505247241d626dd7ac07c07deb67395b516941e9360c848d",
+      "bytes": 1420,
+      "privatePath": "verification-logs/four-cities-micega-url-red.log"
+    },
+    {
+      "file": "four-cities-ministry-red.log",
+      "sha256": "14f15ab228b18a35504fecdc30eed5d00f9807f33a061e9704772d64fc04c373",
+      "bytes": 1375,
+      "privatePath": "verification-logs/four-cities-ministry-red.log"
+    },
+    {
+      "file": "four-cities-official-additional-recheck.log",
+      "sha256": "b87dc7d0702e6a31ee4297910498d1ae1c2aadc16234b67218ec3f942b5795c3",
+      "bytes": 567,
+      "privatePath": "verification-logs/four-cities-official-additional-recheck.log"
+    },
+    {
+      "file": "four-cities-official-bb-polling.log",
+      "sha256": "61bdeba39c11beeecaefb68c476bb35472445b34513a89f6618e6494c7d4097f",
+      "bytes": 47,
+      "privatePath": "verification-logs/four-cities-official-bb-polling.log"
+    },
+    {
+      "file": "four-cities-official-recheck.log",
+      "sha256": "eed771228ad45762048eda98a2cf542b0c59cf02e4add104029d0b2016c8e644",
+      "bytes": 49,
+      "privatePath": "verification-logs/four-cities-official-recheck.log"
+    },
+    {
+      "file": "four-cities-party-url-green.log",
+      "sha256": "4a12976b63b841d5ebeaf1e4acb55c7d9c8b4273bf72184cb3449d3477c0806a",
+      "bytes": 349,
+      "privatePath": "verification-logs/four-cities-party-url-green.log"
+    },
+    {
+      "file": "four-cities-party-url-red.log",
+      "sha256": "419cc466eae29895c30a0dbf4e84d19f49bff87e9fe0faff885e821657830d99",
+      "bytes": 1644,
+      "privatePath": "verification-logs/four-cities-party-url-red.log"
+    },
+    {
+      "file": "four-cities-polling-red.log",
+      "sha256": "69665880b20459a358a450564951cb08cf0927995b23720527476f1b77eae129",
+      "bytes": 1505,
+      "privatePath": "verification-logs/four-cities-polling-red.log"
+    },
+    {
+      "file": "four-cities-red-2.log",
+      "sha256": "3764ff720dbb4d2950502059ae4b2631ea8253c7bf47a1e232438fb14b9ddcfe",
+      "bytes": 5817,
+      "privatePath": "verification-logs/four-cities-red-2.log"
+    },
+    {
+      "file": "four-cities-release-build.log",
+      "sha256": "289d6a718af03170bb082b52df42cbfa62a038dfc6af52ea9fc6b0a488e1387d",
+      "bytes": 107794,
+      "privatePath": "verification-logs/four-cities-release-build.log"
+    },
+    {
+      "file": "four-cities-release-check-seo.log",
+      "sha256": "8f8a82b6de0ec99327c76be812744a860b82047b7fe3888b38f6de58a5ef6ed5",
+      "bytes": 148,
+      "privatePath": "verification-logs/four-cities-release-check-seo.log"
+    },
+    {
+      "file": "four-cities-release-check-storage.log",
+      "sha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd",
+      "bytes": 57,
+      "privatePath": "verification-logs/four-cities-release-check-storage.log"
+    },
+    {
+      "file": "four-cities-release-e2e.log",
+      "sha256": "9c2659272767cd7b0a0abbe1dab13d96a94f3058c7e14cc01e3721f90de8abce",
+      "bytes": 2247,
+      "privatePath": "verification-logs/four-cities-release-e2e.log"
+    },
+    {
+      "file": "four-cities-release-html.log",
+      "sha256": "25d22ae017da49d48a14ba664e656e5e7ed9cba02c957670c18e0d42f0c8e77e",
+      "bytes": 233,
+      "privatePath": "verification-logs/four-cities-release-html.log"
+    },
+    {
+      "file": "four-cities-release-redirects.log",
+      "sha256": "2bca4fa8685528df3e6719bdfcec2b8af17f659f458f86d8bea5115f4798c3ff",
+      "bytes": 164,
+      "privatePath": "verification-logs/four-cities-release-redirects.log"
+    },
+    {
+      "file": "four-cities-release-report-coverage.log",
+      "sha256": "334f1e477649aea258dbd3cff944e3c6ea6794dffa64a083004b29113245db4a",
+      "bytes": 214336,
+      "privatePath": "verification-logs/four-cities-release-report-coverage.log"
+    },
+    {
+      "file": "four-cities-release-unit.log",
+      "sha256": "7eca2310ada137f942913205283e2d7dd6b7c58e3f3029bf5e32f01c10a47596",
+      "bytes": 462,
+      "privatePath": "verification-logs/four-cities-release-unit.log"
+    },
+    {
+      "file": "four-cities-release-validate-data.log",
+      "sha256": "3830c8f9fb39d4f44864e068db08e83e98490a358d4fccd1fe96018ee9ff7b8a",
+      "bytes": 116,
+      "privatePath": "verification-logs/four-cities-release-validate-data.log"
+    },
+    {
+      "file": "four-cities-release-validate-release.log",
+      "sha256": "20ce58bb5e0f13fce0445c5a173424c1039ebabfeffffc1f8fc013b727ce3bd0",
+      "bytes": 121,
+      "privatePath": "verification-logs/four-cities-release-validate-release.log"
+    },
+    {
+      "file": "four-cities-review-fixes-green.log",
+      "sha256": "21ce0dc351748babe2bf0a57fae8640917c995ce7b914b23b878b5e39e8c0d57",
+      "bytes": 352,
+      "privatePath": "verification-logs/four-cities-review-fixes-green.log"
+    },
+    {
+      "file": "four-cities-roster-tests.log",
+      "sha256": "07fa4774725ab636fbf60957037a6d5dba161456c7597a6391e5ecc2c177899c",
+      "bytes": 248,
+      "privatePath": "verification-logs/four-cities-roster-tests.log"
+    },
+    {
+      "file": "four-cities-suite-draft.log",
+      "sha256": "a90f0ae5d11bdc3815e2b0f2c766ed5a04a08c83a91562335b1a72bda1d28334",
+      "bytes": 3672,
+      "privatePath": "verification-logs/four-cities-suite-draft.log"
+    },
+    {
+      "file": "four-cities-targeted-reviewed-green.log",
+      "sha256": "9b8ce98368f636155e20e9ee5425415313baf08de1cc566b3c55c22cbe3db099",
+      "bytes": 405,
+      "privatePath": "verification-logs/four-cities-targeted-reviewed-green.log"
+    },
+    {
+      "file": "four-cities-trnava-atomic-green.log",
+      "sha256": "00ecf3aec07ca3f5c51d93b9a68a879029c315f6c11d41fef1f845eb9db9ecd1",
+      "bytes": 327,
+      "privatePath": "verification-logs/four-cities-trnava-atomic-green.log"
+    },
+    {
+      "file": "four-cities-trnava-atomic-red.log",
+      "sha256": "75d2f6927c4bf3f30b8986c9959eaa04c9869d9dfa8102c19a2158673f385af8",
+      "bytes": 1810,
+      "privatePath": "verification-logs/four-cities-trnava-atomic-red.log"
+    },
+    {
+      "file": "four-cities-trnava-chair-red.log",
+      "sha256": "ce4b58356f0924b8bab00d5c5ed80148d2b9457bdd56cf9bd38519c68c321bbe",
+      "bytes": 1380,
+      "privatePath": "verification-logs/four-cities-trnava-chair-red.log"
+    },
+    {
+      "file": "four-cities-trusted-chain-recheck.log",
+      "sha256": "5aff6dff628f06abd1fd836caae2a0f5ec791cc7cb72d8b7667cf3929067f190",
+      "bytes": 49,
+      "privatePath": "verification-logs/four-cities-trusted-chain-recheck.log"
+    },
+    {
+      "file": "four-cities-trusted-chain-retry.log",
+      "sha256": "ec877a0e1fd5e20b7c21ea6e32138e83cf0987626e817a8d3ab86b1463261c87",
+      "bytes": 47,
+      "privatePath": "verification-logs/four-cities-trusted-chain-retry.log"
+    },
+    {
+      "file": "four-cities-typecheck-after-review.log",
+      "sha256": "373ab601968b36a070ca9117509ebae83c8729d7226d0a37c4f9cbe4cbeca83f",
+      "bytes": 245,
+      "privatePath": "verification-logs/four-cities-typecheck-after-review.log"
+    },
+    {
+      "file": "four-cities-typecheck-draft.log",
+      "sha256": "a7f8b1366ca33b373407a73e9646e569cb7b1bc1a1bc6fd596110be04b36e906",
+      "bytes": 321,
+      "privatePath": "verification-logs/four-cities-typecheck-draft.log"
+    },
+    {
+      "file": "four-cities-typecheck-final-draft.log",
+      "sha256": "b45d5381679e25676d2033c68114f2201fec00051b4e86ec2a7900b80c7d92d4",
+      "bytes": 2098,
+      "privatePath": "verification-logs/four-cities-typecheck-final-draft.log"
+    }
+  ]
+}

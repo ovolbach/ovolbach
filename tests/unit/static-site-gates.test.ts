@@ -13,6 +13,14 @@ async function scanFixture(name: string) {
 }
 
 describe('static site security and editorial gates', () => {
+  it.each(['Marcel Skorec', 'ttsk-marcel-skorec', 'Trnava – Modranka', 'oneskorenom predložení oznámenia'])('does not mistake a word fragment in %s for an editorial label', (text) => {
+    expect(findStaticSiteIssues('dist/example/index.html', `<p>${text}</p>`)).not.toContain('prohibited public label');
+  });
+
+  it.each(['Skóre kandidáta', 'SKORE', 'Ranking kandidátov', 'Najlepší kandidát', 'Odporúčanie pre voličov'])('retains the prohibition for the complete label %s', (text) => {
+    expect(findStaticSiteIssues('dist/example/index.html', `<p>${text}</p>`)).toContain('prohibited public label');
+  });
+
   it.each([
     ['src/pages/kandidati/index.astro', 'slovak-ranking-label.astro'],
     ['dist/kandidati/index.html', 'generated-slovak-ranking-label.html'],

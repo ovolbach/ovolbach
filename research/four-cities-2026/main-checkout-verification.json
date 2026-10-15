@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-10-15",
+  "mainCheckout": "/home/sergey/codex/ovolbach/ovolbach",
+  "testedCheckout": "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/four-cities-2026",
+  "copiedFiles": 102,
+  "mainUnit": {
+    "exitCode": 0,
+    "passed": 520,
+    "logSha256": "b91ddcf3604be310f7ae567bf5c38aca6ff72c6213f777b06a1f550c2a00f4a5"
+  },
+  "mainBuild": {
+    "exitCode": 0,
+    "logSha256": "072d79434d973adb8e5cd7abe9bae74921b44abd3c8cd1d284626d69e8582b98"
+  },
+  "buildFiles": 2863,
+  "byteIdenticalHtmlFiles": 1397,
+  "nonPagefindDifferences": [],
+  "pagefindRebuildDifferences": [
+    "pagefind/filter/sk_439f183.pf_filter",
+    "pagefind/filter/sk_72d6c94.pf_filter",
+    "pagefind/filter/sk_7e13fc7.pf_filter",
+    "pagefind/filter/sk_c3e43c3.pf_filter",
+    "pagefind/pagefind-entry.json",
+    "pagefind/pagefind.sk_1183b17644.pf_meta",
+    "pagefind/pagefind.sk_3c74494ec8.pf_meta"
+  ],
+  "boundary": "All source/data task files match the full E2E-tested checkout. Fresh main build:1397HTML and allJS/CSS are byte-identical.7generatedPagefind metadata/filter files differ across rebuilds; fresh main search,new-city,noJavaScript,profile,comparison andmobile/a11y cases were independently verified by60passing browser tests. No stale build reused; no Git history changes.",
+  "mainE2E": {
+    "command": "CI=1 PLAYWRIGHT_BROWSERS_PATH=/tmp/uctomost-browsers LD_LIBRARY_PATH=/tmp/uctomost-browser-libs/usr/lib/x86_64-linux-gnu npm run test:e2e -- --config=.internal/playwright-four-cities.config.ts --workers=2 --timeout=120000 tests/e2e/four-cities-2026.spec.ts tests/e2e/site-context-routes.spec.ts tests/e2e/presov-poprad.spec.ts",
+    "exitCode": 0,
+    "passed": 60,
+    "skipped": 0,
+    "logSha256": "55b6cbd2ad88e06b8818b5f010d58367684d32a54697eec2a151f564a3a4a5c0"
+  },
+  "mainReleaseValidation": {
+    "command": "npm run validate:release",
+    "exitCode": 0,
+    "result": "cycles=6 contexts=11 published=11 regional=6 issues=0",
+    "logSha256": "20ce58bb5e0f13fce0445c5a173424c1039ebabfeffffc1f8fc013b727ce3bd0"
+  },
+  "mainDiffCheck": {
+    "command": "git diff --check",
+    "exitCode": 0
+  },
+  "finalDeliveredSourceFilesIdentical": 103
+}

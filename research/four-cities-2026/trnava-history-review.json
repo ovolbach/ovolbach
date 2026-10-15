@@ -1,0 +1,838 @@
+{
+  "reviewer": "/root",
+  "checkedAt": "2026-10-15",
+  "snapshotSha256": "2ad520a17d5428a265074c5cf0ae9083d1001583e7c368150b30a7bd2e33d2bd",
+  "records": [
+    {
+      "candidateId": "ttsk-ivan-bocko",
+      "claimId": "ttsk-ivan-bocko-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5120,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-david-matula",
+      "claimId": "ttsk-david-matula-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5142,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jozef-remenar",
+      "claimId": "ttsk-jozef-remenar-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5213,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-juraj-horvath",
+      "claimId": "ttsk-juraj-horvath-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5251,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jaroslav-cehlarik",
+      "claimId": "ttsk-jaroslav-cehlarik-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5494,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marian-viskupic",
+      "claimId": "ttsk-marian-viskupic-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5630,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-branislav-baros",
+      "claimId": "ttsk-branislav-baros-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5647,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-katarina-durkova",
+      "claimId": "ttsk-katarina-durkova-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5648,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-lucia-francescato",
+      "claimId": "ttsk-lucia-francescato-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5658,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jana-fridrichova",
+      "claimId": "ttsk-jana-fridrichova-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5652,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marcel-krajco",
+      "claimId": "ttsk-marcel-krajco-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5650,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-viktor-krizan",
+      "claimId": "ttsk-viktor-krizan-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5654,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-peter-kvasnicak",
+      "claimId": "ttsk-peter-kvasnicak-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5659,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-milan-sokolovsky",
+      "claimId": "ttsk-milan-sokolovsky-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5649,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-tomas-vahalik",
+      "claimId": "ttsk-tomas-vahalik-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5671,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-richard-bohunicky",
+      "claimId": "ttsk-richard-bohunicky-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5701,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-zuzana-bosnakova",
+      "claimId": "ttsk-zuzana-bosnakova-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5689,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-maria-bullova",
+      "claimId": "ttsk-maria-bullova-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5693,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-kashif-butt",
+      "claimId": "ttsk-kashif-butt-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5705,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-gabriela-cabanova",
+      "claimId": "ttsk-gabriela-cabanova-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5683,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-martin-hanak",
+      "claimId": "ttsk-martin-hanak-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5698,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jan-chalama",
+      "claimId": "ttsk-jan-chalama-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5711,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jan-jobb",
+      "claimId": "ttsk-jan-jobb-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5691,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-ivan-kopcik",
+      "claimId": "ttsk-ivan-kopcik-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5686,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-matej-lancaric",
+      "claimId": "ttsk-matej-lancaric-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5681,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-tibor-pekarcik",
+      "claimId": "ttsk-tibor-pekarcik-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5682,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marian-schwarz",
+      "claimId": "ttsk-marian-schwarz-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5687,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-martin-uhlik",
+      "claimId": "ttsk-martin-uhlik-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5685,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-igor-valek",
+      "claimId": "ttsk-igor-valek-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5696,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-juraj-badura",
+      "claimId": "ttsk-juraj-badura-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5716,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-maria-benova",
+      "claimId": "ttsk-maria-benova-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5732,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marek-domes",
+      "claimId": "ttsk-marek-domes-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5724,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-vladimir-ekhardt",
+      "claimId": "ttsk-vladimir-ekhardt-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5712,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-milan-hejduk",
+      "claimId": "ttsk-milan-hejduk-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5720,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-pavol-hluchy",
+      "claimId": "ttsk-pavol-hluchy-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5719,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-lubica-horvathova",
+      "claimId": "ttsk-lubica-horvathova-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5715,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-kristian-kolev",
+      "claimId": "ttsk-kristian-kolev-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5735,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-tomas-koppl",
+      "claimId": "ttsk-tomas-koppl-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5723,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-branislav-kramar",
+      "claimId": "ttsk-branislav-kramar-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5714,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-martin-nano",
+      "claimId": "ttsk-martin-nano-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5731,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marek-nesticky",
+      "claimId": "ttsk-marek-nesticky-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5713,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marek-polonec",
+      "claimId": "ttsk-marek-polonec-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5733,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-richard-sladek",
+      "claimId": "ttsk-richard-sladek-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5718,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jozef-studenc",
+      "claimId": "ttsk-jozef-studenc-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5727,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marian-galbavy",
+      "claimId": "ttsk-marian-galbavy-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5742,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marta-gubricka",
+      "claimId": "ttsk-marta-gubricka-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5749,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-peter-halada",
+      "claimId": "ttsk-peter-halada-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5755,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-peter-hambalek",
+      "claimId": "ttsk-peter-hambalek-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5747,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-daniel-kravec",
+      "claimId": "ttsk-daniel-kravec-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5757,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-michal-lipovsky",
+      "claimId": "ttsk-michal-lipovsky-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5752,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-stefan-liptak",
+      "claimId": "ttsk-stefan-liptak-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5753,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-erik-matovic",
+      "claimId": "ttsk-erik-matovic-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5746,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-eva-nemcovska",
+      "claimId": "ttsk-eva-nemcovska-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5739,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-ondrej-stefanik",
+      "claimId": "ttsk-ondrej-stefanik-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5743,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-simon-stefunko",
+      "claimId": "ttsk-simon-stefunko-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5741,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jozef-sust",
+      "claimId": "ttsk-jozef-sust-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5744,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-stanislav-hric",
+      "claimId": "ttsk-stanislav-hric-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5768,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-milos-kristofik",
+      "claimId": "ttsk-milos-kristofik-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5769,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-rastislav-mraz",
+      "claimId": "ttsk-rastislav-mraz-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5767,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-tatiana-vavrova",
+      "claimId": "ttsk-tatiana-vavrova-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5766,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-kristina-bolemanova",
+      "claimId": "ttsk-kristina-bolemanova-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5785,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-juraj-rezbarik",
+      "claimId": "ttsk-juraj-rezbarik-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5786,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-martina-sarvaicova",
+      "claimId": "ttsk-martina-sarvaicova-previous_elections-1-2026",
+      "sourceId": "statistics-council-votes-2022",
+      "row": 5784,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-ivan-bocko",
+      "claimId": "ttsk-ivan-bocko-previous_elections-2-2026",
+      "sourceId": "statistics-mayor-votes-2022",
+      "row": 737,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-david-matula",
+      "claimId": "ttsk-david-matula-previous_elections-2-2026",
+      "sourceId": "statistics-mayor-votes-2022",
+      "row": 744,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jozef-remenar",
+      "claimId": "ttsk-jozef-remenar-previous_elections-2-2026",
+      "sourceId": "statistics-mayor-votes-2022",
+      "row": 762,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marcel-skorec",
+      "claimId": "ttsk-marcel-skorec-previous_elections-1-2026",
+      "sourceId": "statistics-mayor-votes-2022",
+      "row": 792,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-martin-halaksa",
+      "claimId": "ttsk-martin-halaksa-previous_elections-1-2026",
+      "sourceId": "statistics-mayor-votes-2022",
+      "row": 800,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jaroslav-cehlarik",
+      "claimId": "ttsk-jaroslav-cehlarik-previous_elections-2-2026",
+      "sourceId": "statistics-mayor-votes-2022",
+      "row": 815,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-branislav-baros",
+      "claimId": "ttsk-branislav-baros-previous_elections-2-2026",
+      "sourceId": "statistics-mayor-votes-2022",
+      "row": 839,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-zuzana-bosnakova",
+      "claimId": "ttsk-zuzana-bosnakova-previous_elections-2-2026",
+      "sourceId": "statistics-mayor-votes-2022",
+      "row": 843,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marian-galbavy",
+      "claimId": "ttsk-marian-galbavy-previous_elections-2-2026",
+      "sourceId": "statistics-mayor-votes-2022",
+      "row": 841,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-matej-lancaric",
+      "claimId": "ttsk-matej-lancaric-previous_elections-2-2026",
+      "sourceId": "statistics-mayor-votes-2022",
+      "row": 840,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jozsef-berenyi",
+      "claimId": "ttsk-jozsef-berenyi-previous_elections-1-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 439,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-maria-benova",
+      "claimId": "ttsk-maria-benova-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 601,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-kristina-bolemanova",
+      "claimId": "ttsk-kristina-bolemanova-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 613,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-zuzana-bosnakova",
+      "claimId": "ttsk-zuzana-bosnakova-previous_elections-3-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 592,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-kashif-butt",
+      "claimId": "ttsk-kashif-butt-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 642,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-magdalena-eliasova",
+      "claimId": "ttsk-magdalena-eliasova-previous_elections-1-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 605,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jana-fridrichova",
+      "claimId": "ttsk-jana-fridrichova-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 606,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marian-galbavy",
+      "claimId": "ttsk-marian-galbavy-previous_elections-3-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 593,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marta-gubricka",
+      "claimId": "ttsk-marta-gubricka-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 622,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-martin-halaksa",
+      "claimId": "ttsk-martin-halaksa-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 612,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-peter-hambalek",
+      "claimId": "ttsk-peter-hambalek-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 604,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-martin-hanak",
+      "claimId": "ttsk-martin-hanak-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 641,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-juraj-horvath",
+      "claimId": "ttsk-juraj-horvath-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 648,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-lubica-horvathova",
+      "claimId": "ttsk-lubica-horvathova-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 615,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-stanislav-hric",
+      "claimId": "ttsk-stanislav-hric-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 618,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jan-jobb",
+      "claimId": "ttsk-jan-jobb-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 639,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marcel-krajco",
+      "claimId": "ttsk-marcel-krajco-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 616,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-branislav-kramar",
+      "claimId": "ttsk-branislav-kramar-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 591,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-stefan-kristofik",
+      "claimId": "ttsk-stefan-kristofik-previous_elections-1-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 596,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-peter-kvasnicak",
+      "claimId": "ttsk-peter-kvasnicak-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 643,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-matej-lancaric",
+      "claimId": "ttsk-matej-lancaric-previous_elections-3-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 594,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-rastislav-mraz",
+      "claimId": "ttsk-rastislav-mraz-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 595,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-eva-nemcovska",
+      "claimId": "ttsk-eva-nemcovska-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 609,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marek-nesticky",
+      "claimId": "ttsk-marek-nesticky-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 597,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-tibor-pekarcik",
+      "claimId": "ttsk-tibor-pekarcik-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 602,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marek-polonec",
+      "claimId": "ttsk-marek-polonec-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 620,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-jozef-remenar",
+      "claimId": "ttsk-jozef-remenar-previous_elections-3-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 611,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-juraj-rezbarik",
+      "claimId": "ttsk-juraj-rezbarik-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 645,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-simon-stefunko",
+      "claimId": "ttsk-simon-stefunko-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 610,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    },
+    {
+      "candidateId": "ttsk-marian-viskupic",
+      "claimId": "ttsk-marian-viskupic-previous_elections-2-2026",
+      "sourceId": "statistics-regional-outcomes-2022",
+      "row": 590,
+      "voteAndStatusOriginalRowAgrees": true,
+      "ageAndMunicipalityAgree": true
+    }
+  ],
+  "finding": "2022 regional-chair table omitted from initial103 results, including current chair Viskupič. Regression RED recorded; researcher instructed to add all verified rows before release.",
+  "resolution": "Both verified chair rows13/21 added with original registration age/municipality and vote/status evidence; Viskupič full-phrase regression GREEN.",
+  "addedChairResultClaimIds": [
+    "ttsk-jozsef-berenyi-regional-chair-result-2022",
+    "ttsk-jozef-viskupic-regional-chair-result-2022"
+  ],
+  "openSubstantiveFindings": 0
+}

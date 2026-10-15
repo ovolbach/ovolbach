@@ -1,0 +1,5129 @@
+{
+  "city": "Banská Bystrica",
+  "regionId": "banskobystricky-kraj",
+  "year": 2026,
+  "electionDate": "2026-10-24",
+  "checkedAt": "2026-10-15",
+  "rows": [
+    {
+      "electionId": "mayor",
+      "districtNumber": null,
+      "ballotNumber": 1,
+      "displayNameOfficial": "Diana JAVORČÍKOVÁ, Mgr.",
+      "givenName": "Diana",
+      "familyName": "Javorčíková",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 40,
+      "occupationOfficial": "projektová manažérka, poslankyňa",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-mayor-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Banska-Bystrica-2026.pdf",
+      "nationalSourceId": "finance-national-mayors-2026",
+      "candidateId": "bbsk-diana-javorcikova"
+    },
+    {
+      "electionId": "mayor",
+      "districtNumber": null,
+      "ballotNumber": 2,
+      "displayNameOfficial": "Marian KOTLEBA, Ing. Mgr.",
+      "givenName": "Marian",
+      "familyName": "Kotleba",
+      "titlesBefore": "Ing. Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 49,
+      "occupationOfficial": "predseda politickej strany",
+      "affiliationOfficial": "Kotlebovci - ľudová strana naše Slovensko",
+      "affiliations": [
+        "Kotlebovci - ľudová strana naše Slovensko"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-mayor-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Banska-Bystrica-2026.pdf",
+      "nationalSourceId": "finance-national-mayors-2026",
+      "candidateId": "bbsk-marian-kotleba"
+    },
+    {
+      "electionId": "mayor",
+      "districtNumber": null,
+      "ballotNumber": 3,
+      "displayNameOfficial": "Matúš MOLITORIS, Mgr.",
+      "givenName": "Matúš",
+      "familyName": "Molitoris",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 40,
+      "occupationOfficial": "projektový manažér",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-mayor-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Banska-Bystrica-2026.pdf",
+      "nationalSourceId": "finance-national-mayors-2026",
+      "candidateId": "bbsk-matus-molitoris"
+    },
+    {
+      "electionId": "mayor",
+      "districtNumber": null,
+      "ballotNumber": 4,
+      "displayNameOfficial": "Ján NOSKO, MUDr.",
+      "givenName": "Ján",
+      "familyName": "Nosko",
+      "titlesBefore": "MUDr.",
+      "titlesAfter": null,
+      "ageAtElection": 65,
+      "occupationOfficial": "primátor",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-mayor-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Banska-Bystrica-2026.pdf",
+      "nationalSourceId": "finance-national-mayors-2026",
+      "candidateId": "bbsk-jan-nosko"
+    },
+    {
+      "electionId": "mayor",
+      "districtNumber": null,
+      "ballotNumber": 5,
+      "displayNameOfficial": "Tomáš SOBOTA, Ing. arch.",
+      "givenName": "Tomáš",
+      "familyName": "Sobota",
+      "titlesBefore": "Ing. arch.",
+      "titlesAfter": null,
+      "ageAtElection": 52,
+      "occupationOfficial": "architekt - urbanista",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-mayor-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Banska-Bystrica-2026.pdf",
+      "nationalSourceId": "finance-national-mayors-2026",
+      "candidateId": "bbsk-tomas-sobota"
+    },
+    {
+      "electionId": "mayor",
+      "districtNumber": null,
+      "ballotNumber": 6,
+      "displayNameOfficial": "Ondrej VEREŠ",
+      "givenName": "Ondrej",
+      "familyName": "Vereš",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 51,
+      "occupationOfficial": "zoraďovač",
+      "affiliationOfficial": "Strana vidieka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-mayor-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Banska-Bystrica-2026.pdf",
+      "nationalSourceId": "finance-national-mayors-2026",
+      "candidateId": "bbsk-ondrej-veres"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 1,
+      "displayNameOfficial": "Atila BÉREŠ",
+      "givenName": "Atila",
+      "familyName": "Béreš",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 52,
+      "occupationOfficial": "manažér hudobného klubu",
+      "affiliationOfficial": "Demokratická strana - občianski demokrati Slovenska",
+      "affiliations": [
+        "Demokratická strana - občianski demokrati Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-atila-beres"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 2,
+      "displayNameOfficial": "Branislav BOSÁK, Ing.",
+      "givenName": "Branislav",
+      "familyName": "Bosák",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 55,
+      "occupationOfficial": "ekonóm",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-branislav-bosak"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 3,
+      "displayNameOfficial": "Peter BROZMAN, Ing. Mgr.",
+      "givenName": "Peter",
+      "familyName": "Brozman",
+      "titlesBefore": "Ing. Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 42,
+      "occupationOfficial": "právnik, ekonóm",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-peter-brozman"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 4,
+      "displayNameOfficial": "Lucia FABRICIUSOVÁ, JUDr.",
+      "givenName": "Lucia",
+      "familyName": "Fabriciusová",
+      "titlesBefore": "JUDr.",
+      "titlesAfter": null,
+      "ageAtElection": 46,
+      "occupationOfficial": "advokátka",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-lucia-fabriciusova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 5,
+      "displayNameOfficial": "Ivana FIGULI",
+      "givenName": "Ivana",
+      "familyName": "Figuli",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 42,
+      "occupationOfficial": "environmentálna právnička",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-ivana-figuli"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 6,
+      "displayNameOfficial": "Tibor FUCHS, Ing.",
+      "givenName": "Tibor",
+      "familyName": "Fuchs",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 56,
+      "occupationOfficial": "stavebný inžinier",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-tibor-fuchs"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 7,
+      "displayNameOfficial": "Patrícia HOLÍKOVÁ, LL.M.",
+      "givenName": "Patrícia",
+      "familyName": "Holíková",
+      "titlesBefore": "LL.M.",
+      "titlesAfter": null,
+      "ageAtElection": 36,
+      "occupationOfficial": "manažérka, úradná prekladateľka",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-patricia-holikova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 8,
+      "displayNameOfficial": "Pavol KATRENIAK, Mgr. Ing.",
+      "givenName": "Pavol",
+      "familyName": "Katreniak",
+      "titlesBefore": "Mgr. Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 68,
+      "occupationOfficial": "pedagóg, poslanec",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-pavol-katreniak"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 9,
+      "displayNameOfficial": "Adrián KOSTÚR, Ing.",
+      "givenName": "Adrián",
+      "familyName": "Kostúr",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 31,
+      "occupationOfficial": "vedúci odboru manažmentu verejnej zelene",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-adrian-kostur"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 10,
+      "displayNameOfficial": "Magdaléna KOVÁČ MERGOVÁ",
+      "givenName": "Magdaléna",
+      "familyName": "Kováč Mergová",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 30,
+      "occupationOfficial": "regionálna koordinátorka v oblasti internacionalizácie vzdelávania a výskumu",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-magdalena-kovac-mergova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 11,
+      "displayNameOfficial": "Radovan LAPUNÍK, Ing., PhD., MBA",
+      "givenName": "Radovan",
+      "familyName": "Lapuník",
+      "titlesBefore": "Ing., PhD., MBA",
+      "titlesAfter": null,
+      "ageAtElection": 46,
+      "occupationOfficial": "prorektor univerzity",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-radovan-lapunik"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 12,
+      "displayNameOfficial": "Miriam LAPUNÍKOVÁ, Ing., MBA",
+      "givenName": "Miriam",
+      "familyName": "Lapuníková",
+      "titlesBefore": "Ing., MBA",
+      "titlesAfter": null,
+      "ageAtElection": 46,
+      "occupationOfficial": "riaditeľka nemocnice",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-miriam-lapunikova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 13,
+      "displayNameOfficial": "Jozef LOVÁS, Mgr.",
+      "givenName": "Jozef",
+      "familyName": "Lovás",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 41,
+      "occupationOfficial": "invalidný dôchodca",
+      "affiliationOfficial": "Republika",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jozef-lovas"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 14,
+      "displayNameOfficial": "Jozef MAK",
+      "givenName": "Jozef",
+      "familyName": "Mak",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 59,
+      "occupationOfficial": "riaditeľ poisťovacej agentúry, folklorista",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jozef-mak"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 15,
+      "displayNameOfficial": "Martin REPASKÝ, Ing.",
+      "givenName": "Martin",
+      "familyName": "Repaský",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 64,
+      "occupationOfficial": "dôchodca",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-martin-repasky"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 16,
+      "displayNameOfficial": "Tomáš SOBOTA, Ing. arch.",
+      "givenName": "Tomáš",
+      "familyName": "Sobota",
+      "titlesBefore": "Ing. arch.",
+      "titlesAfter": null,
+      "ageAtElection": 52,
+      "occupationOfficial": "architekt-urbanista",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-tomas-sobota"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 1,
+      "ballotNumber": 17,
+      "displayNameOfficial": "Martin TIŠŤAN",
+      "givenName": "Martin",
+      "familyName": "Tišťan",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 33,
+      "occupationOfficial": "pedagóg, tréner",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-martin-tistan"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 2,
+      "ballotNumber": 1,
+      "displayNameOfficial": "Silvia COCHOVÁ, Mgr., PhD.",
+      "givenName": "Silvia",
+      "familyName": "Cochová",
+      "titlesBefore": "Mgr., PhD.",
+      "titlesAfter": null,
+      "ageAtElection": 44,
+      "occupationOfficial": "riaditeľka neziskovej organizácie",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-silvia-cochova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 2,
+      "ballotNumber": 2,
+      "displayNameOfficial": "Martin KUBÍK, JUDr.",
+      "givenName": "Martin",
+      "familyName": "Kubík",
+      "titlesBefore": "JUDr.",
+      "titlesAfter": null,
+      "ageAtElection": 62,
+      "occupationOfficial": "výsluhový dôchodca",
+      "affiliationOfficial": "Právo na pravdu",
+      "affiliations": [
+        "Právo na pravdu"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-martin-kubik"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 2,
+      "ballotNumber": 3,
+      "displayNameOfficial": "Marcel PECNÍK, PhDr.",
+      "givenName": "Marcel",
+      "familyName": "Pecník",
+      "titlesBefore": "PhDr.",
+      "titlesAfter": null,
+      "ageAtElection": 43,
+      "occupationOfficial": "historik",
+      "affiliationOfficial": "Slovenská národná strana",
+      "affiliations": [
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-marcel-pecnik"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 2,
+      "ballotNumber": 4,
+      "displayNameOfficial": "Martin PECHOVSKÝ, Bc.",
+      "givenName": "Martin",
+      "familyName": "Pechovský",
+      "titlesBefore": "Bc.",
+      "titlesAfter": null,
+      "ageAtElection": 38,
+      "occupationOfficial": "projektový manažér",
+      "affiliationOfficial": "Hlas - sociálna demokracia",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-martin-pechovsky"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 2,
+      "ballotNumber": 5,
+      "displayNameOfficial": "Dušan STRELEC, RSc.",
+      "givenName": "Dušan",
+      "familyName": "Strelec",
+      "titlesBefore": "RSc.",
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "konzultant",
+      "affiliationOfficial": "Sme rodina",
+      "affiliations": [
+        "Sme rodina"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-dusan-strelec"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 2,
+      "ballotNumber": 6,
+      "displayNameOfficial": "Ivan UHRÍK, Ing. Bc., PhD.",
+      "givenName": "Ivan",
+      "familyName": "Uhrík",
+      "titlesBefore": "Ing. Bc., PhD.",
+      "titlesAfter": null,
+      "ageAtElection": 61,
+      "occupationOfficial": "ekonóm - manažér",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-ivan-uhrik"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 2,
+      "ballotNumber": 7,
+      "displayNameOfficial": "Ondrej VEREŠ",
+      "givenName": "Ondrej",
+      "familyName": "Vereš",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 51,
+      "occupationOfficial": "zoraďovač",
+      "affiliationOfficial": "Strana vidieka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-ondrej-veres"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 2,
+      "ballotNumber": 8,
+      "displayNameOfficial": "Jana ŽIAROVÁ, Mgr.",
+      "givenName": "Jana",
+      "familyName": "Žiarová",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 40,
+      "occupationOfficial": "generálna riaditeľka IT spoločnosti",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jana-ziarova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 1,
+      "displayNameOfficial": "Pavel BARTOŠÍK, Ing., PhD.",
+      "givenName": "Pavel",
+      "familyName": "Bartošík",
+      "titlesBefore": "Ing., PhD.",
+      "titlesAfter": null,
+      "ageAtElection": 44,
+      "occupationOfficial": "riaditeľ nemocnice",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-pavel-bartosik"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 2,
+      "displayNameOfficial": "Milan BELKO",
+      "givenName": "Milan",
+      "familyName": "Belko",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 35,
+      "occupationOfficial": "štátny radca",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-milan-belko"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 3,
+      "displayNameOfficial": "Juraj BENČÍK, Mgr.",
+      "givenName": "Juraj",
+      "familyName": "Benčík",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 81,
+      "occupationOfficial": "dôchodca",
+      "affiliationOfficial": "Strana vidieka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-juraj-bencik"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 4,
+      "displayNameOfficial": "Lukáš BEREC, Ing.",
+      "givenName": "Lukáš",
+      "familyName": "Berec",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 38,
+      "occupationOfficial": "ekonóm, športový manažér",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-lukas-berec"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 5,
+      "displayNameOfficial": "Oľga BETKOVÁ, Mgr.",
+      "givenName": "Oľga",
+      "familyName": "Betková",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 63,
+      "occupationOfficial": "učiteľka",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-olga-betkova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 6,
+      "displayNameOfficial": "Mária DETVAJ SEDLÁROVÁ, Mgr. art., ArtD.",
+      "givenName": "Mária",
+      "familyName": "Detvaj Sedlárová",
+      "titlesBefore": "Mgr. art., ArtD.",
+      "titlesAfter": null,
+      "ageAtElection": 45,
+      "occupationOfficial": "pedagogička spevu",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-maria-detvaj-sedlarova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 7,
+      "displayNameOfficial": "Csilla DROPPOVÁ",
+      "givenName": "Csilla",
+      "familyName": "Droppová",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 54,
+      "occupationOfficial": "ekonómka a vysokoškolská pedagogička",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-csilla-droppova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 8,
+      "displayNameOfficial": "Pavel FIĽO, Ing.",
+      "givenName": "Pavel",
+      "familyName": "Fiľo",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 71,
+      "occupationOfficial": "zástupca riaditeľa strednej odbornej školy",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-pavel-filo"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 9,
+      "displayNameOfficial": "Jakub GAJDOŠÍK, Mgr.",
+      "givenName": "Jakub",
+      "familyName": "Gajdošík",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 41,
+      "occupationOfficial": "viceprimátor",
+      "affiliationOfficial": "Hlas - sociálna demokracia",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jakub-gajdosik"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 10,
+      "displayNameOfficial": "Milan HRONČEK",
+      "givenName": "Milan",
+      "familyName": "Hronček",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 21,
+      "occupationOfficial": "farmaceutický laborant",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-milan-hroncek"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 11,
+      "displayNameOfficial": "Eva HUPKOVÁ, Ing.",
+      "givenName": "Eva",
+      "familyName": "Hupková",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 45,
+      "occupationOfficial": "ekonómka",
+      "affiliationOfficial": "Strana vidieka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-eva-hupkova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 12,
+      "displayNameOfficial": "Peter KÁDAŠI",
+      "givenName": "Peter",
+      "familyName": "Kádaši",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 51,
+      "occupationOfficial": "SZČO",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-peter-kadasi"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 13,
+      "displayNameOfficial": "Marek KLIMENT",
+      "givenName": "Marek",
+      "familyName": "Kliment",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 45,
+      "occupationOfficial": "súkromný podnikateľ",
+      "affiliationOfficial": "Sme rodina",
+      "affiliations": [
+        "Sme rodina"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-marek-kliment"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 14,
+      "displayNameOfficial": "Veronika KOSKOVÁ, Mgr.",
+      "givenName": "Veronika",
+      "familyName": "Kosková",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 43,
+      "occupationOfficial": "projektová manažérka",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-veronika-koskova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 15,
+      "displayNameOfficial": "Milan LICHÝ, Ing.",
+      "givenName": "Milan",
+      "familyName": "Lichý",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 65,
+      "occupationOfficial": "lesný inžinier, poslanec",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-milan-lichy"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 16,
+      "displayNameOfficial": "Tobiáš LONGAUER",
+      "givenName": "Tobiáš",
+      "familyName": "Longauer",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 24,
+      "occupationOfficial": "asistent poslanca parlamentu",
+      "affiliationOfficial": "Smer - sociálna demokracia",
+      "affiliations": [
+        "Smer - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-tobias-longauer"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 17,
+      "displayNameOfficial": "Marián LUNTER",
+      "givenName": "Marián",
+      "familyName": "Lunter",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 39,
+      "occupationOfficial": "organizátor športových podujatí",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-marian-lunter"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 18,
+      "displayNameOfficial": "Miroslav LUPTÁK",
+      "givenName": "Miroslav",
+      "familyName": "Lupták",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 51,
+      "occupationOfficial": "facility manager - technik",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-miroslav-luptak"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 19,
+      "displayNameOfficial": "Peter LUPTÁK",
+      "givenName": "Peter",
+      "familyName": "Lupták",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 58,
+      "occupationOfficial": "konateľ",
+      "affiliationOfficial": "Kdh - kresťanskodemokratické hnutie",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-peter-luptak"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 20,
+      "displayNameOfficial": "Martin MAJLING, Ing.",
+      "givenName": "Martin",
+      "familyName": "Majling",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 40,
+      "occupationOfficial": "viceprimátor",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-martin-majling"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 21,
+      "displayNameOfficial": "Anna MARUŠKOVÁ, PaedDr., MBA",
+      "givenName": "Anna",
+      "familyName": "Marušková",
+      "titlesBefore": "PaedDr., MBA",
+      "titlesAfter": null,
+      "ageAtElection": 47,
+      "occupationOfficial": "pedagogička",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-anna-maruskova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 22,
+      "displayNameOfficial": "Jana MESARKINOVÁ, Mgr.",
+      "givenName": "Jana",
+      "familyName": "Mesarkinová",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 51,
+      "occupationOfficial": "príslušníčka finančnej správy",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jana-mesarkinova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 23,
+      "displayNameOfficial": "Anton MINÁRIK, PaedDr.",
+      "givenName": "Anton",
+      "familyName": "Minárik",
+      "titlesBefore": "PaedDr.",
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "podnikateľ a manažér v energetike",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-anton-minarik"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 24,
+      "displayNameOfficial": "Matúš MOLITORIS, Mgr.",
+      "givenName": "Matúš",
+      "familyName": "Molitoris",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 40,
+      "occupationOfficial": "projektový manažér",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-matus-molitoris"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 25,
+      "displayNameOfficial": "Jana NÉKYOVÁ, Mgr.",
+      "givenName": "Jana",
+      "familyName": "Nékyová",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 55,
+      "occupationOfficial": "špecialistka pre odpadové hospodárstvo",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jana-nekyova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 26,
+      "displayNameOfficial": "Ivan PÁRIČKA",
+      "givenName": "Ivan",
+      "familyName": "Párička",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 61,
+      "occupationOfficial": "strojník vodárenských zariadení",
+      "affiliationOfficial": "Republika",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-ivan-paricka"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 27,
+      "displayNameOfficial": "Matej RUDNICKÝ",
+      "givenName": "Matej",
+      "familyName": "Rudnický",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 21,
+      "occupationOfficial": "asistent poslanca parlamentu",
+      "affiliationOfficial": "Smer - sociálna demokracia",
+      "affiliations": [
+        "Smer - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-matej-rudnicky"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 28,
+      "displayNameOfficial": "Andrej SAXON",
+      "givenName": "Andrej",
+      "familyName": "Saxon",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 33,
+      "occupationOfficial": "informačné technológie - špecialista",
+      "affiliationOfficial": "Bratia Slovenska",
+      "affiliations": [
+        "Bratia Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-andrej-saxon"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 29,
+      "displayNameOfficial": "Michal ŠKANTÁR, Ing.",
+      "givenName": "Michal",
+      "familyName": "Škantár",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 44,
+      "occupationOfficial": "manažér",
+      "affiliationOfficial": "Hlas - sociálna demokracia",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-michal-skantar"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 30,
+      "displayNameOfficial": "Sarah ŠONKOĽ, Bc.",
+      "givenName": "Sarah",
+      "familyName": "Šonkoľ",
+      "titlesBefore": "Bc.",
+      "titlesAfter": null,
+      "ageAtElection": 23,
+      "occupationOfficial": "študentka",
+      "affiliationOfficial": "Hlas - sociálna demokracia",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-sarah-sonkol"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 31,
+      "displayNameOfficial": "Jana TOLIČOVÁ, Mgr.",
+      "givenName": "Jana",
+      "familyName": "Toličová",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 60,
+      "occupationOfficial": "prekladateľka",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jana-tolicova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 32,
+      "displayNameOfficial": "Tomáš TORNYOS, Ing. arch.",
+      "givenName": "Tomáš",
+      "familyName": "Tornyos",
+      "titlesBefore": "Ing. arch.",
+      "titlesAfter": null,
+      "ageAtElection": 46,
+      "occupationOfficial": "architekt",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-tomas-tornyos"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 33,
+      "displayNameOfficial": "Martin TURČAN, Ing.",
+      "givenName": "Martin",
+      "familyName": "Turčan",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 44,
+      "occupationOfficial": "výkonný riaditeľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-martin-turcan"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 34,
+      "displayNameOfficial": "Miroslava VRANOVSKÁ, Ing.",
+      "givenName": "Miroslava",
+      "familyName": "Vranovská",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 66,
+      "occupationOfficial": "dôchodkyňa",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-miroslava-vranovska"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 35,
+      "displayNameOfficial": "Ľuboš VRBICKÝ, Ing.",
+      "givenName": "Ľuboš",
+      "familyName": "Vrbický",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 47,
+      "occupationOfficial": "expert pre verejné politiky a legislatívny proces",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-lubos-vrbicky"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 3,
+      "ballotNumber": 36,
+      "displayNameOfficial": "Martin ŽÚDEL",
+      "givenName": "Martin",
+      "familyName": "Žúdel",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 41,
+      "occupationOfficial": "podnikateľ",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-martin-zudel"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 4,
+      "ballotNumber": 1,
+      "displayNameOfficial": "Jozef BALÁŽ, MUDr.",
+      "givenName": "Jozef",
+      "familyName": "Baláž",
+      "titlesBefore": "MUDr.",
+      "titlesAfter": null,
+      "ageAtElection": 47,
+      "occupationOfficial": "lekár",
+      "affiliationOfficial": "Kdh - kresťanskodemokratické hnutie",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jozef-balaz"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 4,
+      "ballotNumber": 2,
+      "displayNameOfficial": "Katarína ČIŽMÁROVÁ, doc. RNDr. , CSc.",
+      "givenName": "Katarína",
+      "familyName": "Čižmárová",
+      "titlesBefore": "doc. RNDr. , CSc.",
+      "titlesAfter": null,
+      "ageAtElection": 70,
+      "occupationOfficial": "predsedníčka združenia",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-katarina-cizmarova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 4,
+      "ballotNumber": 3,
+      "displayNameOfficial": "Marek ODALOŠ",
+      "givenName": "Marek",
+      "familyName": "Odaloš",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 38,
+      "occupationOfficial": "manažér predaja",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-marek-odalos"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 4,
+      "ballotNumber": 4,
+      "displayNameOfficial": "Juraj ORAVEC, MUDr.",
+      "givenName": "Juraj",
+      "familyName": "Oravec",
+      "titlesBefore": "MUDr.",
+      "titlesAfter": null,
+      "ageAtElection": 57,
+      "occupationOfficial": "lekár",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-juraj-oravec"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 4,
+      "ballotNumber": 5,
+      "displayNameOfficial": "Matej RUTTKAY, Bc.",
+      "givenName": "Matej",
+      "familyName": "Ruttkay",
+      "titlesBefore": "Bc.",
+      "titlesAfter": null,
+      "ageAtElection": 34,
+      "occupationOfficial": "podnikateľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-matej-ruttkay"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 4,
+      "ballotNumber": 6,
+      "displayNameOfficial": "Martin VRÁBEĽ, Ing.",
+      "givenName": "Martin",
+      "familyName": "Vrábeľ",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 71,
+      "occupationOfficial": "projektový manažér",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-martin-vrabel"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 1,
+      "displayNameOfficial": "Roman BENČÍK",
+      "givenName": "Roman",
+      "familyName": "Benčík",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 55,
+      "occupationOfficial": "tréner",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-roman-bencik"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 2,
+      "displayNameOfficial": "Matej BUČKO",
+      "givenName": "Matej",
+      "familyName": "Bučko",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 39,
+      "occupationOfficial": "špecialista pre komunikáciu a vzťahy s verejnosťou, asistent europoslanca",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-matej-bucko"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 3,
+      "displayNameOfficial": "Ján CIMERMAN, Ing.",
+      "givenName": "Ján",
+      "familyName": "Cimerman",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 68,
+      "occupationOfficial": "analytik geopriestorových údajov pre malé prevádzky",
+      "affiliationOfficial": "Demokratická strana - občianski demokrati Slovenska",
+      "affiliations": [
+        "Demokratická strana - občianski demokrati Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jan-cimerman"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 4,
+      "displayNameOfficial": "Zuzana GALÁTOVÁ, Mgr.",
+      "givenName": "Zuzana",
+      "familyName": "Galátová",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 45,
+      "occupationOfficial": "referentka objasňovania priestupkov a správneho konania",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-zuzana-galatova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 5,
+      "displayNameOfficial": "Peter GOGOLA, Mgr.",
+      "givenName": "Peter",
+      "familyName": "Gogola",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 58,
+      "occupationOfficial": "riaditeľ vydavateľstva",
+      "affiliationOfficial": "Demokratická strana - občianski demokrati Slovenska",
+      "affiliations": [
+        "Demokratická strana - občianski demokrati Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-peter-gogola"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 6,
+      "displayNameOfficial": "Martin HANES",
+      "givenName": "Martin",
+      "familyName": "Hanes",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "manažér",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-martin-hanes"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 7,
+      "displayNameOfficial": "Klaudia HRUŠKOVÁ, Mgr.",
+      "givenName": "Klaudia",
+      "familyName": "Hrušková",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "účtovníčka",
+      "affiliationOfficial": "Kotlebovci - ľudová strana naše Slovensko",
+      "affiliations": [
+        "Kotlebovci - ľudová strana naše Slovensko"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-klaudia-hruskova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 8,
+      "displayNameOfficial": "Stanislav HUPIAN",
+      "givenName": "Stanislav",
+      "familyName": "Hupian",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 52,
+      "occupationOfficial": "správca počítačovej siete",
+      "affiliationOfficial": "Demokratická strana - občianski demokrati Slovenska",
+      "affiliations": [
+        "Demokratická strana - občianski demokrati Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-stanislav-hupian"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 9,
+      "displayNameOfficial": "Vladimír IVAN, Ing.",
+      "givenName": "Vladimír",
+      "familyName": "Ivan",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 51,
+      "occupationOfficial": "ekonóm, projektový manažér",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-vladimir-ivan"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 10,
+      "displayNameOfficial": "Diana JAVORČÍKOVÁ, Mgr.",
+      "givenName": "Diana",
+      "familyName": "Javorčíková",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 40,
+      "occupationOfficial": "projektová manažérka, poslankyňa",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-diana-javorcikova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 11,
+      "displayNameOfficial": "Daniel KARAS, Mgr.",
+      "givenName": "Daniel",
+      "familyName": "Karas",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 51,
+      "occupationOfficial": "poslanec parlamentu",
+      "affiliationOfficial": "Smer - sociálna demokracia",
+      "affiliations": [
+        "Smer - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-daniel-karas"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 12,
+      "displayNameOfficial": "Hana KASOVÁ, Ing. arch.",
+      "givenName": "Hana",
+      "familyName": "Kasová",
+      "titlesBefore": "Ing. arch.",
+      "titlesAfter": null,
+      "ageAtElection": 50,
+      "occupationOfficial": "architektka, urbanistka",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-hana-kasova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 13,
+      "displayNameOfficial": "Ivan KOŠA",
+      "givenName": "Ivan",
+      "familyName": "Koša",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 53,
+      "occupationOfficial": "podnikateľ",
+      "affiliationOfficial": "Republika",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-ivan-kosa"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 14,
+      "displayNameOfficial": "Branislav KOVÁČIK, doc. PhDr., PhD.",
+      "givenName": "Branislav",
+      "familyName": "Kováčik",
+      "titlesBefore": "doc. PhDr., PhD.",
+      "titlesAfter": null,
+      "ageAtElection": 50,
+      "occupationOfficial": "dekan fakulty, vysokoškolský učiteľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-branislav-kovacik"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 15,
+      "displayNameOfficial": "Marián Michael MACKOVIČ, Mgr.",
+      "givenName": "Marián Michael",
+      "familyName": "Mackovič",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 42,
+      "occupationOfficial": "stredoškolský učiteľ",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-marian-michael-mackovic"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 16,
+      "displayNameOfficial": "Ružena MAŤAŠEJE, Mgr., MBA",
+      "givenName": "Ružena",
+      "familyName": "Maťašeje",
+      "titlesBefore": "Mgr., MBA",
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "hovorkyňa nemocnice",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-ruzena-mataseje"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 17,
+      "displayNameOfficial": "Marta MEDZIHRADSKÁ, Mgr.",
+      "givenName": "Marta",
+      "familyName": "Medzihradská",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 61,
+      "occupationOfficial": "učiteľka",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-marta-medzihradska"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 18,
+      "displayNameOfficial": "Marek MODRANSKÝ, Mgr., LL.M.",
+      "givenName": "Marek",
+      "familyName": "Modranský",
+      "titlesBefore": "Mgr., LL.M.",
+      "titlesAfter": null,
+      "ageAtElection": 47,
+      "occupationOfficial": "dopravný expert",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-marek-modransky"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 19,
+      "displayNameOfficial": "Alžbeta PAŽÁKOVÁ, Mgr.",
+      "givenName": "Alžbeta",
+      "familyName": "Pažáková",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 72,
+      "occupationOfficial": "učiteľka",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-alzbeta-pazakova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 20,
+      "displayNameOfficial": "Roman PŠENÁK, Mgr.",
+      "givenName": "Roman",
+      "familyName": "Pšenák",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "fyzioterapeut",
+      "affiliationOfficial": "Republika",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-roman-psenak"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 21,
+      "displayNameOfficial": "Pavol PUSKEILER, Ing.",
+      "givenName": "Pavol",
+      "familyName": "Puskeiler",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 50,
+      "occupationOfficial": "dopravný inžinier, zakladateľ mestského divadla",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-pavol-puskeiler"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 22,
+      "displayNameOfficial": "Jakub SEDLÁČEK, Ing.",
+      "givenName": "Jakub",
+      "familyName": "Sedláček",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 34,
+      "occupationOfficial": "ekonóm, podnikateľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jakub-sedlacek"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 23,
+      "displayNameOfficial": "Ivan ŠIMKO",
+      "givenName": "Ivan",
+      "familyName": "Šimko",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 36,
+      "occupationOfficial": "športový manažér",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-ivan-simko"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 5,
+      "ballotNumber": 24,
+      "displayNameOfficial": "Matúš ZÁZRIVEC",
+      "givenName": "Matúš",
+      "familyName": "Zázrivec",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 36,
+      "occupationOfficial": "manager for gastro operations",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-matus-zazrivec"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 6,
+      "ballotNumber": 1,
+      "displayNameOfficial": "Katarína ALBERTOVÁ",
+      "givenName": "Katarína",
+      "familyName": "Albertová",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 44,
+      "occupationOfficial": "podnikateľka",
+      "affiliationOfficial": "Kdh - kresťanskodemokratické hnutie",
+      "affiliations": [
+        "Kdh - kresťanskodemokratické hnutie"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-katarina-albertova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 6,
+      "ballotNumber": 2,
+      "displayNameOfficial": "Erika KAROVÁ",
+      "givenName": "Erika",
+      "familyName": "Karová",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 44,
+      "occupationOfficial": "riaditeľka nadácie",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-erika-karova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 6,
+      "ballotNumber": 3,
+      "displayNameOfficial": "Roman MIŠKÁR",
+      "givenName": "Roman",
+      "familyName": "Miškár",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 45,
+      "occupationOfficial": "manažér",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-roman-miskar"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 6,
+      "ballotNumber": 4,
+      "displayNameOfficial": "Marek ONDRÁŠ, Mgr.",
+      "givenName": "Marek",
+      "familyName": "Ondráš",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 41,
+      "occupationOfficial": "riaditeľ okresného riaditeľstva polície",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-marek-ondras"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 6,
+      "ballotNumber": 5,
+      "displayNameOfficial": "Ľudmila PRIEHODOVÁ, Ing. arch.",
+      "givenName": "Ľudmila",
+      "familyName": "Priehodová",
+      "titlesBefore": "Ing. arch.",
+      "titlesAfter": null,
+      "ageAtElection": 73,
+      "occupationOfficial": "architektka, urbanistka",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-ludmila-priehodova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 6,
+      "ballotNumber": 6,
+      "displayNameOfficial": "Jozef SEDILEK, Mgr.",
+      "givenName": "Jozef",
+      "familyName": "Sedilek",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 57,
+      "occupationOfficial": "hospital specialist",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jozef-sedilek"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 6,
+      "ballotNumber": 7,
+      "displayNameOfficial": "Patrik TRNKA, Mgr.",
+      "givenName": "Patrik",
+      "familyName": "Trnka",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 38,
+      "occupationOfficial": "riaditeľ auly, hokejový tréner",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-patrik-trnka"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 6,
+      "ballotNumber": 8,
+      "displayNameOfficial": "Peter VIDA",
+      "givenName": "Peter",
+      "familyName": "Vida",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 68,
+      "occupationOfficial": "dôchodca",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-peter-vida"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 7,
+      "ballotNumber": 1,
+      "displayNameOfficial": "Jaroslav BRADA, JUDr.",
+      "givenName": "Jaroslav",
+      "familyName": "Brada",
+      "titlesBefore": "JUDr.",
+      "titlesAfter": null,
+      "ageAtElection": 44,
+      "occupationOfficial": "hlavný kontrolór mesta",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-jaroslav-brada"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 7,
+      "ballotNumber": 2,
+      "displayNameOfficial": "Mária DEBNÁROVÁ, Ing.",
+      "givenName": "Mária",
+      "familyName": "Debnárová",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 71,
+      "occupationOfficial": "dôchodkyňa",
+      "affiliationOfficial": "Progresívne Slovensko, Sloboda a solidarita, Demokrati, Hnutie Slovensko, Občianska konzervatívna strana",
+      "affiliations": [
+        "Progresívne Slovensko",
+        "Sloboda a solidarita",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "Občianska konzervatívna strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-maria-debnarova"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 7,
+      "ballotNumber": 3,
+      "displayNameOfficial": "Eduard GENSEREK, PhDr.",
+      "givenName": "Eduard",
+      "familyName": "Genserek",
+      "titlesBefore": "PhDr.",
+      "titlesAfter": null,
+      "ageAtElection": 49,
+      "occupationOfficial": "fotograf, vydavateľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-eduard-genserek"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 7,
+      "ballotNumber": 4,
+      "displayNameOfficial": "Igor KAŠPER, Ing.",
+      "givenName": "Igor",
+      "familyName": "Kašper",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 46,
+      "occupationOfficial": "manažér, lektor",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-igor-kasper"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 7,
+      "ballotNumber": 5,
+      "displayNameOfficial": "Milan SMÄDO",
+      "givenName": "Milan",
+      "familyName": "Smädo",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 73,
+      "occupationOfficial": "podnikateľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-milan-smado"
+    },
+    {
+      "electionId": "city-council",
+      "districtNumber": 7,
+      "ballotNumber": 6,
+      "displayNameOfficial": "Hubert ŠTOKSA",
+      "givenName": "Hubert",
+      "familyName": "Štoksa",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 56,
+      "occupationOfficial": "riaditeľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bb-roster-city-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "nationalSourceId": "finance-national-councillors-2026",
+      "candidateId": "bbsk-hubert-stoksa"
+    },
+    {
+      "electionId": "region-chair",
+      "districtNumber": null,
+      "ballotNumber": 1,
+      "displayNameOfficial": "Michal ALBERT, PhDr., PhD.",
+      "givenName": "Michal",
+      "familyName": "Albert",
+      "titlesBefore": "PhDr.",
+      "titlesAfter": "PhD.",
+      "ageAtElection": 44,
+      "occupationOfficial": "moderátor",
+      "affiliationOfficial": "Bratia Slovenska",
+      "affiliations": [
+        "Bratia Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-chair-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6ffd5c54.pdf",
+      "nationalSourceId": "finance-national-chairs-2026",
+      "candidateId": "bbsk-michal-albert"
+    },
+    {
+      "electionId": "region-chair",
+      "districtNumber": null,
+      "ballotNumber": 2,
+      "displayNameOfficial": "Marian KOTLEBA, Ing. Mgr.",
+      "givenName": "Marian",
+      "familyName": "Kotleba",
+      "titlesBefore": "Ing. Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 49,
+      "occupationOfficial": "predseda politickej strany",
+      "affiliationOfficial": "Kotlebovci - ľudová strana naše Slovensko",
+      "affiliations": [
+        "Kotlebovci - ľudová strana naše Slovensko"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-chair-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6ffd5c54.pdf",
+      "nationalSourceId": "finance-national-chairs-2026",
+      "candidateId": "bbsk-marian-kotleba"
+    },
+    {
+      "electionId": "region-chair",
+      "districtNumber": null,
+      "ballotNumber": 3,
+      "displayNameOfficial": "Ondrej LUNTER, Mgr.",
+      "givenName": "Ondrej",
+      "familyName": "Lunter",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 39,
+      "occupationOfficial": "predseda samosprávneho kraja",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-chair-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6ffd5c54.pdf",
+      "nationalSourceId": "finance-national-chairs-2026",
+      "candidateId": "bbsk-ondrej-lunter"
+    },
+    {
+      "electionId": "region-chair",
+      "districtNumber": null,
+      "ballotNumber": 4,
+      "displayNameOfficial": "Roman MALATINEC, Mgr. art.",
+      "givenName": "Roman",
+      "familyName": "Malatinec",
+      "titlesBefore": "Mgr. art.",
+      "titlesAfter": null,
+      "ageAtElection": 45,
+      "occupationOfficial": "poslanec národnej rady",
+      "affiliationOfficial": "Strana vidieka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Korytárky",
+      "sourceId": "bbsk-roster-region-chair-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6ffd5c54.pdf",
+      "nationalSourceId": "finance-national-chairs-2026",
+      "candidateId": "bbsk-roman-malatinec"
+    },
+    {
+      "electionId": "region-chair",
+      "districtNumber": null,
+      "ballotNumber": 5,
+      "displayNameOfficial": "Peter PLANČÍK",
+      "givenName": "Peter",
+      "familyName": "Plančík",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 42,
+      "occupationOfficial": "SZČO",
+      "affiliationOfficial": "Komunistická strana Slovenska",
+      "affiliations": [
+        "Komunistická strana Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Brusno",
+      "sourceId": "bbsk-roster-region-chair-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6ffd5c54.pdf",
+      "nationalSourceId": "finance-national-chairs-2026",
+      "candidateId": "bbsk-peter-plancik"
+    },
+    {
+      "electionId": "region-chair",
+      "districtNumber": null,
+      "ballotNumber": 6,
+      "displayNameOfficial": "Jaroslav RUSINA",
+      "givenName": "Jaroslav",
+      "familyName": "Rusina",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 46,
+      "occupationOfficial": "servisný špecialista",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Medzibrod",
+      "sourceId": "bbsk-roster-region-chair-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6ffd5c54.pdf",
+      "nationalSourceId": "finance-national-chairs-2026",
+      "candidateId": "bbsk-jaroslav-rusina"
+    },
+    {
+      "electionId": "region-chair",
+      "districtNumber": null,
+      "ballotNumber": 7,
+      "displayNameOfficial": "Miroslav SUJA, PaedDr. Mgr., PhD., MBA, LL.M., MSc.",
+      "givenName": "Miroslav",
+      "familyName": "Suja",
+      "titlesBefore": "PaedDr. Mgr.",
+      "titlesAfter": "PhD., MBA, LL.M., MSc.",
+      "ageAtElection": 50,
+      "occupationOfficial": "konateľ",
+      "affiliationOfficial": "Republika",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "municipality": "Detva",
+      "sourceId": "bbsk-roster-region-chair-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6ffd5c54.pdf",
+      "nationalSourceId": "finance-national-chairs-2026",
+      "candidateId": "bbsk-miroslav-suja"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 1,
+      "displayNameOfficial": "Michal ALBERT, PhDr., PhD.",
+      "givenName": "Michal",
+      "familyName": "Albert",
+      "titlesBefore": "PhDr.",
+      "titlesAfter": "PhD.",
+      "ageAtElection": 44,
+      "occupationOfficial": "moderátor",
+      "affiliationOfficial": "Bratia Slovenska",
+      "affiliations": [
+        "Bratia Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-michal-albert"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 2,
+      "displayNameOfficial": "Pavel BARTOŠÍK, Ing., PhD.",
+      "givenName": "Pavel",
+      "familyName": "Bartošík",
+      "titlesBefore": "Ing.",
+      "titlesAfter": "PhD.",
+      "ageAtElection": 44,
+      "occupationOfficial": "riaditeľ nemocnice",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-pavel-bartosik"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 3,
+      "displayNameOfficial": "Juraj BENČÍK, Mgr.",
+      "givenName": "Juraj",
+      "familyName": "Benčík",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 81,
+      "occupationOfficial": "dôchodca",
+      "affiliationOfficial": "Strana vidieka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-juraj-bencik"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 4,
+      "displayNameOfficial": "Branislav BOSÁK, Ing.",
+      "givenName": "Branislav",
+      "familyName": "Bosák",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 55,
+      "occupationOfficial": "ekonóm",
+      "affiliationOfficial": "Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Progresívne Slovensko, Hnutie Slovensko, Demokrati",
+      "affiliations": [
+        "Sloboda a solidarita",
+        "Kdh - kresťanskodemokratické hnutie",
+        "Progresívne Slovensko",
+        "Hnutie Slovensko",
+        "Demokrati"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-branislav-bosak"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 5,
+      "displayNameOfficial": "Jaroslav BRADA, JUDr.",
+      "givenName": "Jaroslav",
+      "familyName": "Brada",
+      "titlesBefore": "JUDr.",
+      "titlesAfter": null,
+      "ageAtElection": 44,
+      "occupationOfficial": "hlavný kontrolór mesta",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-jaroslav-brada"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 6,
+      "displayNameOfficial": "Peter BROZMAN, Ing. Mgr.",
+      "givenName": "Peter",
+      "familyName": "Brozman",
+      "titlesBefore": "Ing. Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 42,
+      "occupationOfficial": "právnik, ekonóm",
+      "affiliationOfficial": "Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Progresívne Slovensko, Hnutie Slovensko, Demokrati",
+      "affiliations": [
+        "Sloboda a solidarita",
+        "Kdh - kresťanskodemokratické hnutie",
+        "Progresívne Slovensko",
+        "Hnutie Slovensko",
+        "Demokrati"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-peter-brozman"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 7,
+      "displayNameOfficial": "Matej BUČKO",
+      "givenName": "Matej",
+      "familyName": "Bučko",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 39,
+      "occupationOfficial": "špecialista pre komunikáciu a vzťahy s verejnosťou, asistent europoslanca",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-matej-bucko"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 8,
+      "displayNameOfficial": "Ján CIMERMAN, Ing.",
+      "givenName": "Ján",
+      "familyName": "Cimerman",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 68,
+      "occupationOfficial": "analytik geopriestorových údajov",
+      "affiliationOfficial": "Demokratická strana - občianski demokrati Slovenska",
+      "affiliations": [
+        "Demokratická strana - občianski demokrati Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-jan-cimerman"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 9,
+      "displayNameOfficial": "Miroslav ČELLÁR, Mgr. Mgr., PhD.",
+      "givenName": "Miroslav",
+      "familyName": "Čellár",
+      "titlesBefore": "Mgr. Mgr.",
+      "titlesAfter": "PhD.",
+      "ageAtElection": 43,
+      "occupationOfficial": "poslanec, vysokoškolský učiteľ",
+      "affiliationOfficial": "Hlas - sociálna demokracia",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-miroslav-cellar"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 10,
+      "displayNameOfficial": "Ľubomír DEBNÁR",
+      "givenName": "Ľubomír",
+      "familyName": "Debnár",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 55,
+      "occupationOfficial": "konateľ",
+      "affiliationOfficial": "Strana vidieka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Môlča",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-lubomir-debnar"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 11,
+      "displayNameOfficial": "Viera DUBAČOVÁ, Mgr. art.",
+      "givenName": "Viera",
+      "familyName": "Dubačová",
+      "titlesBefore": "Mgr. art.",
+      "titlesAfter": null,
+      "ageAtElection": 64,
+      "occupationOfficial": "režisérka, poslankyňa",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-viera-dubacova"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 12,
+      "displayNameOfficial": "Juraj DŽMURA, JUDr.",
+      "givenName": "Juraj",
+      "familyName": "Džmura",
+      "titlesBefore": "JUDr.",
+      "titlesAfter": null,
+      "ageAtElection": 43,
+      "occupationOfficial": "prednosta",
+      "affiliationOfficial": "Hlas - sociálna demokracia",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-juraj-dzmura"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 13,
+      "displayNameOfficial": "Jakub GAJDOŠÍK, Mgr.",
+      "givenName": "Jakub",
+      "familyName": "Gajdošík",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 41,
+      "occupationOfficial": "viceprimátor",
+      "affiliationOfficial": "Hlas - sociálna demokracia",
+      "affiliations": [
+        "Hlas - sociálna demokracia"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-jakub-gajdosik"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 14,
+      "displayNameOfficial": "Eduard GENSEREK, PhDr.",
+      "givenName": "Eduard",
+      "familyName": "Genserek",
+      "titlesBefore": "PhDr.",
+      "titlesAfter": null,
+      "ageAtElection": 49,
+      "occupationOfficial": "fotograf, vydavateľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-eduard-genserek"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 15,
+      "displayNameOfficial": "Peter GOGOLA, Mgr.",
+      "givenName": "Peter",
+      "familyName": "Gogola",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 58,
+      "occupationOfficial": "riaditeľ vydavateľstva",
+      "affiliationOfficial": "Demokratická strana - občianski demokrati Slovenska",
+      "affiliations": [
+        "Demokratická strana - občianski demokrati Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-peter-gogola"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 16,
+      "displayNameOfficial": "Martin HALÁS, Ing.",
+      "givenName": "Martin",
+      "familyName": "Halás",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 54,
+      "occupationOfficial": "ekonóm",
+      "affiliationOfficial": "Právo na pravdu",
+      "affiliations": [
+        "Právo na pravdu"
+      ],
+      "independent": false,
+      "municipality": "Donovaly",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-martin-halas"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 17,
+      "displayNameOfficial": "Martin HANES, Bc.",
+      "givenName": "Martin",
+      "familyName": "Hanes",
+      "titlesBefore": "Bc.",
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "manažér",
+      "affiliationOfficial": "Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Progresívne Slovensko, Hnutie Slovensko, Demokrati",
+      "affiliations": [
+        "Sloboda a solidarita",
+        "Kdh - kresťanskodemokratické hnutie",
+        "Progresívne Slovensko",
+        "Hnutie Slovensko",
+        "Demokrati"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-martin-hanes"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 18,
+      "displayNameOfficial": "Patrícia HOLÍKOVÁ, LL. M.",
+      "givenName": "Patrícia",
+      "familyName": "Holíková",
+      "titlesBefore": null,
+      "titlesAfter": "LL. M.",
+      "ageAtElection": 36,
+      "occupationOfficial": "manažérka, úradná prekladateľka",
+      "affiliationOfficial": "Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Progresívne Slovensko, Hnutie Slovensko, Demokrati",
+      "affiliations": [
+        "Sloboda a solidarita",
+        "Kdh - kresťanskodemokratické hnutie",
+        "Progresívne Slovensko",
+        "Hnutie Slovensko",
+        "Demokrati"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-patricia-holikova"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 19,
+      "displayNameOfficial": "Klaudia HRUŠKOVÁ, Mgr.",
+      "givenName": "Klaudia",
+      "familyName": "Hrušková",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "účtovníčka",
+      "affiliationOfficial": "Kotlebovci - ľudová strana naše Slovensko",
+      "affiliations": [
+        "Kotlebovci - ľudová strana naše Slovensko"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-klaudia-hruskova"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 20,
+      "displayNameOfficial": "Zuzana HUJOVÁ, RNDr. Mgr., PhD.",
+      "givenName": "Zuzana",
+      "familyName": "Hujová",
+      "titlesBefore": "RNDr. Mgr.",
+      "titlesAfter": "PhD.",
+      "ageAtElection": 49,
+      "occupationOfficial": "nezamestnaná",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Badín",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-zuzana-hujova"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 21,
+      "displayNameOfficial": "Stanislav HUPIAN",
+      "givenName": "Stanislav",
+      "familyName": "Hupian",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 52,
+      "occupationOfficial": "správca počítačovej siete",
+      "affiliationOfficial": "Demokratická strana - občianski demokrati Slovenska",
+      "affiliations": [
+        "Demokratická strana - občianski demokrati Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-stanislav-hupian"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 22,
+      "displayNameOfficial": "Eva HUPKOVÁ, Ing.",
+      "givenName": "Eva",
+      "familyName": "Hupková",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 45,
+      "occupationOfficial": "ekonómka",
+      "affiliationOfficial": "Strana vidieka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-eva-hupkova"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 23,
+      "displayNameOfficial": "Tomáš HUŤA",
+      "givenName": "Tomáš",
+      "familyName": "Huťa",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 21,
+      "occupationOfficial": "SZČO",
+      "affiliationOfficial": "Komunistická strana Slovenska",
+      "affiliations": [
+        "Komunistická strana Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Brusno",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-tomas-huta"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 24,
+      "displayNameOfficial": "Vladimír IVAN, Ing.",
+      "givenName": "Vladimír",
+      "familyName": "Ivan",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 51,
+      "occupationOfficial": "ekonóm, projektový manažér",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-vladimir-ivan"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 25,
+      "displayNameOfficial": "Miroslava JANČOVÁ, Mgr., MBA, LL.M.",
+      "givenName": "Miroslava",
+      "familyName": "Jančová",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": "MBA, LL.M.",
+      "ageAtElection": 48,
+      "occupationOfficial": "vedúca odboru",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-miroslava-jancova"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 26,
+      "displayNameOfficial": "Radoslav KABÁČ, PaedDr. Bc.",
+      "givenName": "Radoslav",
+      "familyName": "Kabáč",
+      "titlesBefore": "PaedDr. Bc.",
+      "titlesAfter": null,
+      "ageAtElection": 50,
+      "occupationOfficial": "učiteľ odborných predmetov",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Medzibrod",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-radoslav-kabac"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 27,
+      "displayNameOfficial": "Miroslav KAMENSKÝ, JUDr.",
+      "givenName": "Miroslav",
+      "familyName": "Kamenský",
+      "titlesBefore": "JUDr.",
+      "titlesAfter": null,
+      "ageAtElection": 60,
+      "occupationOfficial": "advokát",
+      "affiliationOfficial": "Právo na pravdu",
+      "affiliations": [
+        "Právo na pravdu"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-miroslav-kamensky"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 28,
+      "displayNameOfficial": "David KAPUSTA, Ing. Mgr.",
+      "givenName": "David",
+      "familyName": "Kapusta",
+      "titlesBefore": "Ing. Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 37,
+      "occupationOfficial": "daňový supervízor",
+      "affiliationOfficial": "Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Progresívne Slovensko, Hnutie Slovensko, Demokrati",
+      "affiliations": [
+        "Sloboda a solidarita",
+        "Kdh - kresťanskodemokratické hnutie",
+        "Progresívne Slovensko",
+        "Hnutie Slovensko",
+        "Demokrati"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-david-kapusta"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 29,
+      "displayNameOfficial": "Daniel KARAS, Mgr.",
+      "givenName": "Daniel",
+      "familyName": "Karas",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 51,
+      "occupationOfficial": "poslanec parlamentu",
+      "affiliationOfficial": "Smer - sociálna demokracia, Slovenská národná strana",
+      "affiliations": [
+        "Smer - sociálna demokracia",
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-daniel-karas"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 30,
+      "displayNameOfficial": "Erika KAROVÁ",
+      "givenName": "Erika",
+      "familyName": "Karová",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 44,
+      "occupationOfficial": "riaditeľka nadácie",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-erika-karova"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 31,
+      "displayNameOfficial": "Igor KAŠPER, Ing.",
+      "givenName": "Igor",
+      "familyName": "Kašper",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 46,
+      "occupationOfficial": "manažér, lektor",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-igor-kasper"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 32,
+      "displayNameOfficial": "Marta KLAČANOVÁ",
+      "givenName": "Marta",
+      "familyName": "Klačanová",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 59,
+      "occupationOfficial": "konateľka spoločnosti",
+      "affiliationOfficial": "Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Progresívne Slovensko, Hnutie Slovensko, Demokrati",
+      "affiliations": [
+        "Sloboda a solidarita",
+        "Kdh - kresťanskodemokratické hnutie",
+        "Progresívne Slovensko",
+        "Hnutie Slovensko",
+        "Demokrati"
+      ],
+      "independent": false,
+      "municipality": "Selce",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-marta-klacanova"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 33,
+      "displayNameOfficial": "Adrián KOSTÚR, Ing.",
+      "givenName": "Adrián",
+      "familyName": "Kostúr",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 31,
+      "occupationOfficial": "vedúci odboru manažmentu verejnej zelene",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-adrian-kostur"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 34,
+      "displayNameOfficial": "Ivan KOSTÚR",
+      "givenName": "Ivan",
+      "familyName": "Kostúr",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 52,
+      "occupationOfficial": "nezamestnaný",
+      "affiliationOfficial": "Komunistická strana Slovenska",
+      "affiliations": [
+        "Komunistická strana Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Podkonice",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-ivan-kostur"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 35,
+      "displayNameOfficial": "Branislav KOVÁČIK, doc. PhDr., PhD.",
+      "givenName": "Branislav",
+      "familyName": "Kováčik",
+      "titlesBefore": "doc. PhDr.",
+      "titlesAfter": "PhD.",
+      "ageAtElection": 50,
+      "occupationOfficial": "dekan fakulty, vysokoškolský učiteľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-branislav-kovacik"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 36,
+      "displayNameOfficial": "Milan LICHÝ, Ing.",
+      "givenName": "Milan",
+      "familyName": "Lichý",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 65,
+      "occupationOfficial": "lesný inžinier, poslanec",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-milan-lichy"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 37,
+      "displayNameOfficial": "Tobiáš LONGAUER",
+      "givenName": "Tobiáš",
+      "familyName": "Longauer",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 24,
+      "occupationOfficial": "asistent poslanca parlamentu",
+      "affiliationOfficial": "Smer - sociálna demokracia, Slovenská národná strana",
+      "affiliations": [
+        "Smer - sociálna demokracia",
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-tobias-longauer"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 38,
+      "displayNameOfficial": "Marián Michael MACKOVIČ, Mgr.",
+      "givenName": "Marián Michael",
+      "familyName": "Mackovič",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 42,
+      "occupationOfficial": "stredoškolský učiteľ",
+      "affiliationOfficial": "Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Progresívne Slovensko, Hnutie Slovensko, Demokrati",
+      "affiliations": [
+        "Sloboda a solidarita",
+        "Kdh - kresťanskodemokratické hnutie",
+        "Progresívne Slovensko",
+        "Hnutie Slovensko",
+        "Demokrati"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-marian-michael-mackovic"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 39,
+      "displayNameOfficial": "Martin MAJLING, Ing.",
+      "givenName": "Martin",
+      "familyName": "Majling",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 40,
+      "occupationOfficial": "viceprimátor",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-martin-majling"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 40,
+      "displayNameOfficial": "Jozef MAK",
+      "givenName": "Jozef",
+      "familyName": "Mak",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 59,
+      "occupationOfficial": "riaditeľ poisťovacej agentúry, folklorista",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-jozef-mak"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 41,
+      "displayNameOfficial": "Jakub MEŠŤAN",
+      "givenName": "Jakub",
+      "familyName": "Mešťan",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 36,
+      "occupationOfficial": "tréner",
+      "affiliationOfficial": "Smer - sociálna demokracia, Slovenská národná strana",
+      "affiliations": [
+        "Smer - sociálna demokracia",
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "municipality": "Donovaly",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-jakub-mestan"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 42,
+      "displayNameOfficial": "Anton MINÁRIK, PaedDr.",
+      "givenName": "Anton",
+      "familyName": "Minárik",
+      "titlesBefore": "PaedDr.",
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "podnikateľ a manažér v energetike",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-anton-minarik"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 43,
+      "displayNameOfficial": "Marek MODRANSKÝ, Mgr., LL.M.",
+      "givenName": "Marek",
+      "familyName": "Modranský",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": "LL.M.",
+      "ageAtElection": 47,
+      "occupationOfficial": "dopravný expert",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-marek-modransky"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 44,
+      "displayNameOfficial": "Matúš MOLITORIS, Mgr.",
+      "givenName": "Matúš",
+      "familyName": "Molitoris",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 40,
+      "occupationOfficial": "projektový manažér",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-matus-molitoris"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 45,
+      "displayNameOfficial": "Iveta NOSKOVÁ, JUDr.",
+      "givenName": "Iveta",
+      "familyName": "Nosková",
+      "titlesBefore": "JUDr.",
+      "titlesAfter": null,
+      "ageAtElection": 58,
+      "occupationOfficial": "právnička",
+      "affiliationOfficial": "nezávislá kandidátka",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-iveta-noskova"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 46,
+      "displayNameOfficial": "Peter PLANČÍK",
+      "givenName": "Peter",
+      "familyName": "Plančík",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 42,
+      "occupationOfficial": "SZČO",
+      "affiliationOfficial": "Komunistická strana Slovenska",
+      "affiliations": [
+        "Komunistická strana Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Brusno",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-peter-plancik"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 47,
+      "displayNameOfficial": "Roman PŠENÁK, Mgr.",
+      "givenName": "Roman",
+      "familyName": "Pšenák",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "fyzioterapeut",
+      "affiliationOfficial": "Republika",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-roman-psenak"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 48,
+      "displayNameOfficial": "Matej RUDNICKÝ",
+      "givenName": "Matej",
+      "familyName": "Rudnický",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 21,
+      "occupationOfficial": "asistent poslanca parlamentu",
+      "affiliationOfficial": "Smer - sociálna demokracia, Slovenská národná strana",
+      "affiliations": [
+        "Smer - sociálna demokracia",
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-matej-rudnicky"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 49,
+      "displayNameOfficial": "Jaroslav RUSINA",
+      "givenName": "Jaroslav",
+      "familyName": "Rusina",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 46,
+      "occupationOfficial": "servisný špecialista",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Medzibrod",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-jaroslav-rusina"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 50,
+      "displayNameOfficial": "Andrej SAXON",
+      "givenName": "Andrej",
+      "familyName": "Saxon",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 33,
+      "occupationOfficial": "IT špecialista",
+      "affiliationOfficial": "Bratia Slovenska",
+      "affiliations": [
+        "Bratia Slovenska"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-andrej-saxon"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 51,
+      "displayNameOfficial": "Tomáš SOBOTA, Ing. arch.",
+      "givenName": "Tomáš",
+      "familyName": "Sobota",
+      "titlesBefore": "Ing. arch.",
+      "titlesAfter": null,
+      "ageAtElection": 52,
+      "occupationOfficial": "architekt-urbanista",
+      "affiliationOfficial": "Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Progresívne Slovensko, Hnutie Slovensko, Demokrati",
+      "affiliations": [
+        "Sloboda a solidarita",
+        "Kdh - kresťanskodemokratické hnutie",
+        "Progresívne Slovensko",
+        "Hnutie Slovensko",
+        "Demokrati"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-tomas-sobota"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 52,
+      "displayNameOfficial": "Dušan STRELEC, RSc.",
+      "givenName": "Dušan",
+      "familyName": "Strelec",
+      "titlesBefore": "RSc.",
+      "titlesAfter": null,
+      "ageAtElection": 48,
+      "occupationOfficial": "konzultant",
+      "affiliationOfficial": "Sme rodina",
+      "affiliations": [
+        "Sme rodina"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-dusan-strelec"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 53,
+      "displayNameOfficial": "Juraj ŠIPULA, Ing.",
+      "givenName": "Juraj",
+      "familyName": "Šipula",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 65,
+      "occupationOfficial": "dôchodca",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-juraj-sipula"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 54,
+      "displayNameOfficial": "Hubert ŠTOKSA",
+      "givenName": "Hubert",
+      "familyName": "Štoksa",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 56,
+      "occupationOfficial": "riaditeľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-hubert-stoksa"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 55,
+      "displayNameOfficial": "Jozef TOMANÍK, Bc.",
+      "givenName": "Jozef",
+      "familyName": "Tomaník",
+      "titlesBefore": "Bc.",
+      "titlesAfter": null,
+      "ageAtElection": 40,
+      "occupationOfficial": "podnikateľ",
+      "affiliationOfficial": "Republika",
+      "affiliations": [
+        "Republika"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-jozef-tomanik"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 56,
+      "displayNameOfficial": "Patrik TRNKA, Mgr.",
+      "givenName": "Patrik",
+      "familyName": "Trnka",
+      "titlesBefore": "Mgr.",
+      "titlesAfter": null,
+      "ageAtElection": 38,
+      "occupationOfficial": "riaditeľ auly, hokejový tréner",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-patrik-trnka"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 57,
+      "displayNameOfficial": "Martin TURČAN, Ing.",
+      "givenName": "Martin",
+      "familyName": "Turčan",
+      "titlesBefore": "Ing.",
+      "titlesAfter": null,
+      "ageAtElection": 44,
+      "occupationOfficial": "výkonný riaditeľ",
+      "affiliationOfficial": "nezávislý kandidát",
+      "affiliations": [],
+      "independent": true,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-martin-turcan"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 58,
+      "displayNameOfficial": "Ondrej VEREŠ",
+      "givenName": "Ondrej",
+      "familyName": "Vereš",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 51,
+      "occupationOfficial": "zoraďovač",
+      "affiliationOfficial": "Strana vidieka",
+      "affiliations": [
+        "Strana vidieka"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-ondrej-veres"
+    },
+    {
+      "electionId": "region-council",
+      "districtNumber": 1,
+      "ballotNumber": 59,
+      "displayNameOfficial": "Marek VYHNIČKA",
+      "givenName": "Marek",
+      "familyName": "Vyhnička",
+      "titlesBefore": null,
+      "titlesAfter": null,
+      "ageAtElection": 50,
+      "occupationOfficial": "vedúci vodnej stavby",
+      "affiliationOfficial": "Smer - sociálna demokracia, Slovenská národná strana",
+      "affiliations": [
+        "Smer - sociálna demokracia",
+        "Slovenská národná strana"
+      ],
+      "independent": false,
+      "municipality": "Banská Bystrica",
+      "sourceId": "bbsk-roster-region-council-2026",
+      "sourceUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "nationalSourceId": "finance-national-regional-councillors-2026",
+      "candidateId": "bbsk-marek-vyhnicka"
+    }
+  ],
+  "districts": [
+    {
+      "number": 1,
+      "seats": 6,
+      "name": "Stred"
+    },
+    {
+      "number": 2,
+      "seats": 2,
+      "name": "Východ"
+    },
+    {
+      "number": 3,
+      "seats": 9,
+      "name": "Sásová"
+    },
+    {
+      "number": 4,
+      "seats": 2,
+      "name": "Sever"
+    },
+    {
+      "number": 5,
+      "seats": 7,
+      "name": "Fončorda"
+    },
+    {
+      "number": 6,
+      "seats": 3,
+      "name": "Radvaň"
+    },
+    {
+      "number": 7,
+      "seats": 2,
+      "name": "Juh"
+    }
+  ],
+  "regionalDistrict": {
+    "number": 1,
+    "seats": 8,
+    "scope": "Úplný volebný obvod č. 1 – Banská Bystrica vrátane kandidátov s pobytom mimo mesta."
+  },
+  "population": {
+    "count": 72215,
+    "period": "ku dňu vyhlásenia volieb",
+    "noticeDate": "2026-07-20",
+    "receiptKey": "municipal-attachment-11"
+  },
+  "counts": {
+    "mayor": 6,
+    "city-council": 105,
+    "region-chair": 7,
+    "region-council": 59
+  },
+  "uniqueCandidates": 131,
+  "identityJoins": [
+    {
+      "candidateId": "bbsk-adrian-kostur",
+      "matchingName": "Adrián Kostúr",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 31
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 1,
+          "ballotNumber": 9
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 33
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-andrej-saxon",
+      "matchingName": "Andrej Saxon",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 33
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 28
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 50
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-anton-minarik",
+      "matchingName": "Anton Minárik",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 48
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 23
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 42
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-branislav-bosak",
+      "matchingName": "Branislav Bosák",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 55
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 1,
+          "ballotNumber": 2
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 4
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-branislav-kovacik",
+      "matchingName": "Branislav Kováčik",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 50
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 14
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 35
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-daniel-karas",
+      "matchingName": "Daniel Karas",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 51
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 11
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 29
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-diana-javorcikova",
+      "matchingName": "Diana Javorčíková",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 40
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "mayor",
+          "districtNumber": null,
+          "ballotNumber": 1
+        },
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 10
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-dusan-strelec",
+      "matchingName": "Dušan Strelec",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 48
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 2,
+          "ballotNumber": 5
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 52
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-eduard-genserek",
+      "matchingName": "Eduard Genserek",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 49
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 7,
+          "ballotNumber": 3
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 14
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-erika-karova",
+      "matchingName": "Erika Karová",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 44
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 6,
+          "ballotNumber": 2
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 30
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-eva-hupkova",
+      "matchingName": "Eva Hupková",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 45
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 11
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 22
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-hubert-stoksa",
+      "matchingName": "Hubert Štoksa",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 56
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 7,
+          "ballotNumber": 6
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 54
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-igor-kasper",
+      "matchingName": "Igor Kašper",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 46
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 7,
+          "ballotNumber": 4
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 31
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-jakub-gajdosik",
+      "matchingName": "Jakub Gajdošík",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 41
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 9
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 13
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-jan-cimerman",
+      "matchingName": "Ján Cimerman",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 68
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 3
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 8
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-jaroslav-brada",
+      "matchingName": "Jaroslav Brada",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 44
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 7,
+          "ballotNumber": 1
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 5
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-jaroslav-rusina",
+      "matchingName": "Jaroslav Rusina",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 46
+        },
+        {
+          "attribute": "municipality",
+          "value": "Medzibrod"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "region-chair",
+          "districtNumber": null,
+          "ballotNumber": 6
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 49
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-jozef-mak",
+      "matchingName": "Jozef Mak",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 59
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 1,
+          "ballotNumber": 14
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 40
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-juraj-bencik",
+      "matchingName": "Juraj Benčík",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 81
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 3
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 3
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-klaudia-hruskova",
+      "matchingName": "Klaudia Hrušková",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 48
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 7
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 19
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-marek-modransky",
+      "matchingName": "Marek Modranský",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 47
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 18
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 43
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-marian-kotleba",
+      "matchingName": "Marian Kotleba",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 49
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "mayor",
+          "districtNumber": null,
+          "ballotNumber": 2
+        },
+        {
+          "electionId": "region-chair",
+          "districtNumber": null,
+          "ballotNumber": 2
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-marian-michael-mackovic",
+      "matchingName": "Marián Michael Mackovič",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 42
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 15
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 38
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-martin-hanes",
+      "matchingName": "Martin Hanes",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 48
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 6
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 17
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-martin-majling",
+      "matchingName": "Martin Majling",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 40
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 20
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 39
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-martin-turcan",
+      "matchingName": "Martin Turčan",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 44
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 33
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 57
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-matej-bucko",
+      "matchingName": "Matej Bučko",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 39
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 2
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 7
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-matej-rudnicky",
+      "matchingName": "Matej Rudnický",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 21
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 27
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 48
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-matus-molitoris",
+      "matchingName": "Matúš Molitoris",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 40
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "mayor",
+          "districtNumber": null,
+          "ballotNumber": 3
+        },
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 24
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 44
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-michal-albert",
+      "matchingName": "Michal Albert",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 44
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "region-chair",
+          "districtNumber": null,
+          "ballotNumber": 1
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 1
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-milan-lichy",
+      "matchingName": "Milan Lichý",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 65
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 15
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 36
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-ondrej-veres",
+      "matchingName": "Ondrej Vereš",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 51
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "mayor",
+          "districtNumber": null,
+          "ballotNumber": 6
+        },
+        {
+          "electionId": "city-council",
+          "districtNumber": 2,
+          "ballotNumber": 7
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 58
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-patricia-holikova",
+      "matchingName": "Patrícia Holíková",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 36
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 1,
+          "ballotNumber": 7
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 18
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-patrik-trnka",
+      "matchingName": "Patrik Trnka",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 38
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 6,
+          "ballotNumber": 7
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 56
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-pavel-bartosik",
+      "matchingName": "Pavel Bartošík",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 44
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 1
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 2
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-peter-brozman",
+      "matchingName": "Peter Brozman",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 42
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 1,
+          "ballotNumber": 3
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 6
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-peter-gogola",
+      "matchingName": "Peter Gogola",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 58
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 5
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 15
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-peter-plancik",
+      "matchingName": "Peter Plančík",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 42
+        },
+        {
+          "attribute": "municipality",
+          "value": "Brusno"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "region-chair",
+          "districtNumber": null,
+          "ballotNumber": 5
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 46
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-roman-psenak",
+      "matchingName": "Roman Pšenák",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 48
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 20
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 47
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-stanislav-hupian",
+      "matchingName": "Stanislav Hupian",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 52
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 8
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 21
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-tobias-longauer",
+      "matchingName": "Tobiáš Longauer",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 24
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 3,
+          "ballotNumber": 16
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 37
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-tomas-sobota",
+      "matchingName": "Tomáš Sobota",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 52
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "mayor",
+          "districtNumber": null,
+          "ballotNumber": 5
+        },
+        {
+          "electionId": "city-council",
+          "districtNumber": 1,
+          "ballotNumber": 16
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 51
+        }
+      ],
+      "decision": "joined"
+    },
+    {
+      "candidateId": "bbsk-vladimir-ivan",
+      "matchingName": "Vladimír Ivan",
+      "attributes": [
+        {
+          "attribute": "ageAtElection",
+          "value": 51
+        },
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica"
+        }
+      ],
+      "candidacies": [
+        {
+          "electionId": "city-council",
+          "districtNumber": 5,
+          "ballotNumber": 9
+        },
+        {
+          "electionId": "region-council",
+          "districtNumber": 1,
+          "ballotNumber": 24
+        }
+      ],
+      "decision": "joined"
+    }
+  ],
+  "exclusions": [],
+  "limits": [
+    "Regional official index, district decision, current council and declaration originals were recovered using a public-only TLS-chain-verification fallback; the exact transport limitation is recorded in each receipt. Municipal index supplies all four official rosters.",
+    "Tomáš Sobota mayor withdrawal is reported by TASR on 8 October; no responsible-authority withdrawal original was verified. The registered roster row remains intact."
+  ],
+  "visualInspection": {
+    "checkedAt": "2026-10-15",
+    "files": [
+      "roster-01-page-1.png",
+      "roster-02-page-2.png",
+      "roster-02-page-3.png",
+      "roster-04-page-1.png"
+    ],
+    "decisions": [
+      "JAVORČÍKOVÁ, DETVAJ SEDLÁROVÁ, ORAVEC and IVAN are continuous surname text; PDF extracted spacing repaired only after visual inspection.",
+      "Martin Hanes municipal list omits Bc., regional list includes Bc.; both official display names preserved."
+    ]
+  }
+}

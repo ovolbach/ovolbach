@@ -1,0 +1,99 @@
+{
+  "reviewer": "banska_bystrica_research",
+  "checkedAt": "2026-10-15",
+  "readOnly": true,
+  "inputResolution": "../nitra/final-atomicity-resolution.json",
+  "resolutionSha256": "0586f832f6eae10aab0dae7d10cf1f8205dce10e0d130a54b53b2ad8004372c5",
+  "proposalSha256": "7573772691a703673bf324df475b4b492729c8190ba7016b193aded8ae0489fe",
+  "proposalClaims": 593,
+  "findingResolved": "nr-employment-vladimir-vnuk-ppa-2016-2021",
+  "result": "confirmed",
+  "openFindings": 0,
+  "errors": [],
+  "checks": [
+    {
+      "claimId": "nr-employment-katarina-welnitzova-ukf-2008-2021",
+      "currentTextMatchesResolution": true,
+      "sourceIds": [
+        "nr-employment-employment-welnitzova-ucm-cv"
+      ],
+      "period": "2008 – jún 2021",
+      "originalSupport": "confirmed by reread of cited official source",
+      "historicalBoundary": "preserved; no current employment inferred"
+    },
+    {
+      "claimId": "nr-employment-katarina-welnitzova-ucm-2021-historicky",
+      "currentTextMatchesResolution": true,
+      "sourceIds": [
+        "nr-employment-employment-welnitzova-ucm-cv"
+      ],
+      "period": "od júla 2021 podľa podkladov v konaní 2022",
+      "originalSupport": "confirmed by reread of cited official source",
+      "historicalBoundary": "preserved; no current employment inferred"
+    },
+    {
+      "claimId": "nr-employment-vladimir-vnuk-arv-2012-2016",
+      "currentTextMatchesResolution": true,
+      "sourceIds": [
+        "nr-employment-employment-vnuk-ministry-sk"
+      ],
+      "period": "2012 – 2016",
+      "originalSupport": "confirmed by reread of cited official source",
+      "historicalBoundary": "preserved; no current employment inferred"
+    },
+    {
+      "claimId": "nr-employment-vladimir-vnuk-ppa-2016-2021",
+      "currentTextMatchesResolution": true,
+      "sourceIds": [
+        "nr-employment-employment-vnuk-ministry-sk"
+      ],
+      "period": "2016 – 2021",
+      "originalSupport": "confirmed by reread of cited official source",
+      "historicalBoundary": "preserved; no current employment inferred"
+    },
+    {
+      "claimId": "nr-employment-viktor-nemeth-mib-2020-2022",
+      "currentTextMatchesResolution": true,
+      "sourceIds": [
+        "nr-employment-lead-0856"
+      ],
+      "period": "2020 – 2022",
+      "originalSupport": "confirmed by reread of cited official source",
+      "historicalBoundary": "preserved; no current employment inferred"
+    }
+  ],
+  "addedClaimCheck": {
+    "claimId": "nr-employment-vladimir-vnuk-ppa-2016-2021-sekcia",
+    "matchesAuditedAddedClaim": true,
+    "role": "director ofSupportFinancingandBudgetSection,PPA",
+    "period": "2016 – 2021",
+    "samePersonCategorySourceAndCheckDate": true
+  },
+  "originalSupport": {
+    "vnuk": "OfficialMPRVbody explicitly states2016–2021executive director and concurrently director ofSupportFinancingandBudgetSection atPPA. Splitting preserves both roles and date scope.2012–2016ARVdirector wording unchanged.",
+    "welnitzova": "UCMpublished habilitation material explicitly lists2008–06/2021UKFassistant and07/2021onwardUCMextraordinary docent in the historical2022CV. Reworded attributions preserve document origin, dates and explicit absence of current-job proof.",
+    "nemeth": "ResponsibleVrábleofficialpage listsMIBassistant-director2020–2022under previousemployment. New source-attribution phrase retains that historical boundary."
+  },
+  "sourceReadReceipts": [
+    {
+      "key": "employment-vnuk-ministry-sk",
+      "url": "https://www.mpsr.sk/statny-tajomnik-vladimir-vnuk/458?ver=textversion",
+      "bodySha256": "b21698385d9e0411fe6d8d037a16381e108fc63c302140ca6bbad59e0d86305b",
+      "receiptSha256Agrees": true
+    },
+    {
+      "key": "employment-welnitzova-ucm-cv",
+      "url": "https://ff-old.ucm.sk/docs/veda_a_vyskum/Habilitacne%20a%20inauguracne%20konanie/Podklady_dr._Welnitzova/Profesijny_zivotopis.pdf",
+      "bodySha256": "d6516cb3b0cb9b0a3127fe1f35a1dbaa1245d3fbea321ffdd35ed80af60da10f",
+      "receiptSha256Agrees": true
+    },
+    {
+      "key": "lead-0856",
+      "url": "https://www.vrable.sk/primator-mesta/ll/1/sm/4137/mid/576226/ma0/16419/.html",
+      "bodySha256": "cf2da8b4882b835b9fdcf1302096ebc7ae68f54c4eaab2886158afa7ab4e4536",
+      "receiptSha256Agrees": true
+    }
+  ],
+  "privacy": "No raw private birth dates, addresses, contacts, remuneration or personalwealth data exported.",
+  "mutations": "Only this additional independent resolution report is written. Earlier review remains an unchanged historical record of the original finding; no Nitra files or build outputs changed."
+}

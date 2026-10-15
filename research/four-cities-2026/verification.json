@@ -1,0 +1,106 @@
+{
+  "checkedAt": "2026-10-15",
+  "checkout": "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/four-cities-2026",
+  "sourceDataManifest": "data-manifest.json",
+  "commands": [
+    {
+      "command": "NGINX_BIN=/tmp/ovolbach-nginx/extracted/usr/sbin/nginx npm test",
+      "exitCode": 0,
+      "result": "520 passed, 0 skipped; 63 files; real nginx tests enabled.",
+      "log": "four-cities-release-unit.log",
+      "logSha256": "7eca2310ada137f942913205283e2d7dd6b7c58e3f3029bf5e32f01c10a47596"
+    },
+    {
+      "command": "npm run validate:data",
+      "exitCode": 0,
+      "result": "cycles=6 contexts=11 published=11 regional=6 issues=0",
+      "log": "four-cities-release-validate-data.log",
+      "logSha256": "3830c8f9fb39d4f44864e068db08e83e98490a358d4fccd1fe96018ee9ff7b8a"
+    },
+    {
+      "command": "npm run validate:release",
+      "exitCode": 0,
+      "result": "cycles=6 contexts=11 published=11 regional=6 issues=0",
+      "log": "four-cities-release-validate-release.log",
+      "logSha256": "20ce58bb5e0f13fce0445c5a173424c1039ebabfeffffc1f8fc013b727ce3bd0"
+    },
+    {
+      "command": "npm run report:coverage",
+      "exitCode": 0,
+      "result": "releaseReady=true pending=0; all eight categories per person.",
+      "log": "four-cities-release-report-coverage.log",
+      "logSha256": "334f1e477649aea258dbd3cff944e3c6ea6794dffa64a083004b29113245db4a"
+    },
+    {
+      "command": "npm run build",
+      "exitCode": 0,
+      "result": "1397 HTML files; 1379 indexable pages; Astro 0 errors/warnings/hints; Pagefind sk.",
+      "log": "four-cities-release-build.log",
+      "logSha256": "289d6a718af03170bb082b52df42cbfa62a038dfc6af52ea9fc6b0a488e1387d"
+    },
+    {
+      "command": "npm run check:seo",
+      "exitCode": 0,
+      "result": "1379 canonical indexable; 17 noindex comparison tools; 1 noindex404.",
+      "log": "four-cities-release-check-seo.log",
+      "logSha256": "8f8a82b6de0ec99327c76be812744a860b82047b7fe3888b38f6de58a5ef6ed5"
+    },
+    {
+      "command": "VNU_JAVA=/home/sergey/codex/ovolbach/ovolbach/.superpowers/vnu/vnu-runtime-image/bin/java npm run check:html",
+      "exitCode": 0,
+      "result": "Nu Checker26.10.2:1397 HTML,0errors,0warnings.",
+      "log": "four-cities-release-html.log",
+      "logSha256": "25d22ae017da49d48a14ba664e656e5e7ed9cba02c957670c18e0d42f0c8e77e"
+    },
+    {
+      "command": "npm run check:storage",
+      "exitCode": 0,
+      "result": "No prohibited persistence, tracking, unlicensed markup or public editorial labels.",
+      "log": "four-cities-release-check-storage.log",
+      "logSha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd"
+    },
+    {
+      "command": "npm run check:links",
+      "exitCode": 1,
+      "result": "2668 initial URL groups:30 failures;49 manual-review statuses. Recovery23;7 unchanged old sources remain unavailable. Four delta checks cover final URLs.",
+      "log": "four-cities-check-links.log",
+      "logSha256": "f3f98e297d6f649e8bb770c60b01eff68024a0c1ed23f3cc2a656c718e2deec7"
+    },
+    {
+      "command": "CI=1 PLAYWRIGHT_BROWSERS_PATH=/tmp/uctomost-browsers LD_LIBRARY_PATH=/tmp/uctomost-browser-libs/usr/lib/x86_64-linux-gnu npm run test:e2e -- --config=.internal/playwright-four-cities.config.ts --workers=2 --timeout=120000 --max-failures=1",
+      "exitCode": 0,
+      "result": "292 passed,2 desktop-only mobile-layout skips;294 original+new cases,0 retries.",
+      "log": "four-cities-final-e2e-complete.log",
+      "logSha256": "8dfdbdb4d63d5767cfab8dbd51e8d906465b5671daf17f6052075b501fd0dcf8"
+    },
+    {
+      "command": "NGINX_BIN=/tmp/ovolbach-nginx/extracted/usr/sbin/nginx npm run check:redirects",
+      "exitCode": 0,
+      "result": "294 redirects/49 old routes;43 sharedchair profiles200;unknownroutes404.",
+      "log": "four-cities-release-redirects.log",
+      "logSha256": "2bca4fa8685528df3e6719bdfcec2b8af17f659f458f86d8bea5115f4798c3ff"
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "result": "No whitespace errors.",
+      "log": "four-cities-final-diff-check.log",
+      "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "fullE2E": {
+    "cases": 294,
+    "passed": 292,
+    "skipped": 2,
+    "retries": 0,
+    "skipBoundary": "Two mobile-only comparison layout assertions skip in desktop project and execute in mobile project."
+  },
+  "externalGatePassed": false,
+  "independentReviewsOpenFindings": 0,
+  "localPlaywrightConfig": {
+    "path": ".internal/playwright-four-cities.config.ts",
+    "sha256": "f8365b8e86a2bdab9ba5f7eddae54e5ac3e27c01a0abfd6e2abb001a8504506c",
+    "content": "import { defineConfig } from '@playwright/test';\nimport { resolve } from 'node:path';\nimport config from '../playwright.config';\nconst baseURL = 'http://127.0.0.1:45479';\nexport default defineConfig({\n  ...config,\n  testDir: resolve('tests/e2e'),\n  use: {...config.use, baseURL},\n  webServer: {\n    command: 'npm run preview -- --host 127.0.0.1 --port 45479 --ignore-lock',\n    cwd: resolve('.'), url: baseURL, reuseExistingServer: false,\n  },\n});\n"
+  },
+  "deliveredMainVerification": "main-checkout-verification.json"
+}

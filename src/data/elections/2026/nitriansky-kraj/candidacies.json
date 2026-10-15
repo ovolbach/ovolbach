@@ -1,0 +1,4397 @@
+[
+  {
+    "id": "2026-nr-mayor-all-1",
+    "candidateId": "nsk-marek-hattas",
+    "electionId": "mayor",
+    "contestId": "2026-nr-mayor",
+    "ballotNumber": 1,
+    "displayNameOfficial": "Marek HATTAS",
+    "ageAtElection": 39,
+    "occupationOfficial": "primátor",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-mayor-roster-2026",
+      "finance-national-mayors-2026"
+    ]
+  },
+  {
+    "id": "2026-nr-mayor-all-2",
+    "candidateId": "nsk-marek-illes",
+    "electionId": "mayor",
+    "contestId": "2026-nr-mayor",
+    "ballotNumber": 2,
+    "displayNameOfficial": "Marek ILLÉŠ, Ing., PhD.",
+    "ageAtElection": 52,
+    "occupationOfficial": "generálny riaditeľ",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Sme rodina"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-mayor-roster-2026",
+      "finance-national-mayors-2026"
+    ]
+  },
+  {
+    "id": "2026-nr-mayor-all-3",
+    "candidateId": "nsk-igor-krsiak",
+    "electionId": "mayor",
+    "contestId": "2026-nr-mayor",
+    "ballotNumber": 3,
+    "displayNameOfficial": "Igor KRŠIAK, JUDr.",
+    "ageAtElection": 50,
+    "occupationOfficial": "právnik",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-mayor-roster-2026",
+      "finance-national-mayors-2026"
+    ]
+  },
+  {
+    "id": "2026-nr-mayor-all-4",
+    "candidateId": "nsk-zuzana-uhrikova",
+    "electionId": "mayor",
+    "contestId": "2026-nr-mayor",
+    "ballotNumber": 4,
+    "displayNameOfficial": "Zuzana UHRÍKOVÁ, Ing.",
+    "ageAtElection": 40,
+    "occupationOfficial": "ekonómka",
+    "affiliations": [
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-mayor-roster-2026",
+      "finance-national-mayors-2026"
+    ]
+  },
+  {
+    "id": "2026-nr-city-council-1-1",
+    "candidateId": "nsk-erik-duchon",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 1,
+    "displayNameOfficial": "Erik DUCHOŇ, Mgr.",
+    "ageAtElection": 55,
+    "occupationOfficial": "náčelník mestskej polície",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-1"
+  },
+  {
+    "id": "2026-nr-city-council-1-2",
+    "candidateId": "nsk-miroslav-gut",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 2,
+    "displayNameOfficial": "Miroslav GUT, Ing.",
+    "ageAtElection": 59,
+    "occupationOfficial": "vedúci tímu",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-1"
+  },
+  {
+    "id": "2026-nr-city-council-1-3",
+    "candidateId": "nsk-jozef-horvath",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 3,
+    "displayNameOfficial": "Jozef HORVÁTH",
+    "ageAtElection": 55,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-1"
+  },
+  {
+    "id": "2026-nr-city-council-1-4",
+    "candidateId": "nsk-marian-kukucka",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 4,
+    "displayNameOfficial": "Marián KUKUČKA",
+    "ageAtElection": 49,
+    "occupationOfficial": "šéfredaktor časopisu",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-1"
+  },
+  {
+    "id": "2026-nr-city-council-2-1",
+    "candidateId": "nsk-roman-agh",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 1,
+    "displayNameOfficial": "Roman ÁGH, Ing., MBA",
+    "ageAtElection": 41,
+    "occupationOfficial": "obchodný manažér",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-2",
+    "candidateId": "nsk-stefan-bagin",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 2,
+    "displayNameOfficial": "Štefan BAGIN",
+    "ageAtElection": 58,
+    "occupationOfficial": "invalidný dôchodca",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-3",
+    "candidateId": "nsk-peter-bihari",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 3,
+    "displayNameOfficial": "Peter BIHARI",
+    "ageAtElection": 54,
+    "occupationOfficial": "konateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-4",
+    "candidateId": "nsk-martin-bodis",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 4,
+    "displayNameOfficial": "Martin BODIS, PhDr., PaedDr., PhD., MBA",
+    "ageAtElection": 51,
+    "occupationOfficial": "riaditeľ",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-5",
+    "candidateId": "nsk-denisa-branikovicova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 5,
+    "displayNameOfficial": "Denisa BRANIKOVIČOVÁ",
+    "ageAtElection": 52,
+    "occupationOfficial": "živnostníčka",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-6",
+    "candidateId": "nsk-jaroslav-brezina",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 6,
+    "displayNameOfficial": "Jaroslav BREZINA, Ing.",
+    "ageAtElection": 39,
+    "occupationOfficial": "štátny radca",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-7",
+    "candidateId": "nsk-maria-cok-steinemannova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 7,
+    "displayNameOfficial": "Mária COK STEINEMANNOVÁ, MBA",
+    "ageAtElection": 40,
+    "occupationOfficial": "referentka pre parkovaciu politiku",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-8",
+    "candidateId": "nsk-juraj-duncic",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 8,
+    "displayNameOfficial": "Juraj DUNČIČ",
+    "ageAtElection": 34,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-9",
+    "candidateId": "nsk-vojtech-fray",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 9,
+    "displayNameOfficial": "Vojtech FRAY, Mgr.",
+    "ageAtElection": 51,
+    "occupationOfficial": "zamestnanec vo verejnej správe",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-10",
+    "candidateId": "nsk-marek-fuska",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 10,
+    "displayNameOfficial": "Marek FÚSKA, Ing.",
+    "ageAtElection": 52,
+    "occupationOfficial": "riaditeľ vzdelávacej inštitúcie",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-11",
+    "candidateId": "nsk-juraj-gajdos",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 11,
+    "displayNameOfficial": "Juraj GAJDOŠ, Ing. arch.",
+    "ageAtElection": 66,
+    "occupationOfficial": "architekt",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-12",
+    "candidateId": "nsk-jan-gresso",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 12,
+    "displayNameOfficial": "Ján GREŠŠO, Mgr.",
+    "ageAtElection": 45,
+    "occupationOfficial": "projektový manažér",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-13",
+    "candidateId": "nsk-marek-illes",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 13,
+    "displayNameOfficial": "Marek ILLÉŠ, Ing., PhD.",
+    "ageAtElection": 52,
+    "occupationOfficial": "generálny riaditeľ",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-14",
+    "candidateId": "nsk-peter-kellner",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 14,
+    "displayNameOfficial": "Peter KELLNER, JUDr.",
+    "ageAtElection": 42,
+    "occupationOfficial": "konateľ obchodnej spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-15",
+    "candidateId": "nsk-stefan-kosovan",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 15,
+    "displayNameOfficial": "Štefan KOŠOVAN, Ing., PhD.",
+    "ageAtElection": 55,
+    "occupationOfficial": "ekonóm",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-16",
+    "candidateId": "nsk-katarina-kovacova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 16,
+    "displayNameOfficial": "Katarína KOVÁČOVÁ, Ing.",
+    "ageAtElection": 42,
+    "occupationOfficial": "prednostka obecného úradu",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-17",
+    "candidateId": "nsk-peter-mezei",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 17,
+    "displayNameOfficial": "Peter MEZEI, Ing., Ing. arch.",
+    "ageAtElection": 33,
+    "occupationOfficial": "architekt, zástupca primátora",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-18",
+    "candidateId": "nsk-robert-miklos",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 18,
+    "displayNameOfficial": "Róbert MIKLOŠ, Mgr.",
+    "ageAtElection": 30,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-19",
+    "candidateId": "nsk-maria-orsagova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 19,
+    "displayNameOfficial": "Mária ORSÁGOVÁ, PaedDr.",
+    "ageAtElection": 61,
+    "occupationOfficial": "stredoškolská pedagogička",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-20",
+    "candidateId": "nsk-svorad-petruska",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 20,
+    "displayNameOfficial": "Svorad PETRUŠKA, JUDr.",
+    "ageAtElection": 50,
+    "occupationOfficial": "advokát",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-21",
+    "candidateId": "nsk-jakub-pikna",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 21,
+    "displayNameOfficial": "Jakub PIKNA, PhDr., PhD.",
+    "ageAtElection": 33,
+    "occupationOfficial": "sociálny pedagóg",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-22",
+    "candidateId": "nsk-stefan-polacik",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 22,
+    "displayNameOfficial": "Štefan POLAČIK",
+    "ageAtElection": 41,
+    "occupationOfficial": "politický aktivista",
+    "affiliations": [
+      "Slovenské hnutie obrody"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-23",
+    "candidateId": "nsk-katarina-ranusa-koncosova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 23,
+    "displayNameOfficial": "Katarína RANUŠA KONCOŠOVÁ, Ing., PhD.",
+    "ageAtElection": 42,
+    "occupationOfficial": "prednostka mestského úradu",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-24",
+    "candidateId": "nsk-richard-turanovic",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 24,
+    "displayNameOfficial": "Richard TURANOVIČ",
+    "ageAtElection": 63,
+    "occupationOfficial": "robotník",
+    "affiliations": [
+      "Demokrati Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-25",
+    "candidateId": "nsk-peter-urban",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 25,
+    "displayNameOfficial": "Peter URBÁN, Ing.",
+    "ageAtElection": 44,
+    "occupationOfficial": "bezpečnostný technik",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-26",
+    "candidateId": "nsk-jan-vanco",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 26,
+    "displayNameOfficial": "Ján VANČO, PhDr., PhD.",
+    "ageAtElection": 51,
+    "occupationOfficial": "pedagóg",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-2-27",
+    "candidateId": "nsk-vladimir-vnuk",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 27,
+    "displayNameOfficial": "Vladimír VNUK, Ing.",
+    "ageAtElection": 47,
+    "occupationOfficial": "štátny tajomník",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-2"
+  },
+  {
+    "id": "2026-nr-city-council-3-1",
+    "candidateId": "nsk-robert-ambra",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 1,
+    "displayNameOfficial": "Róbert AMBRA, Ing., PhD.",
+    "ageAtElection": 51,
+    "occupationOfficial": "hasič, učiteľ",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-3"
+  },
+  {
+    "id": "2026-nr-city-council-3-2",
+    "candidateId": "nsk-henrich-bencik",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 2,
+    "displayNameOfficial": "Henrich BENČÍK",
+    "ageAtElection": 48,
+    "occupationOfficial": "SZČO",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-3"
+  },
+  {
+    "id": "2026-nr-city-council-3-3",
+    "candidateId": "nsk-robert-hipp",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 3,
+    "displayNameOfficial": "Róbert HIPP, JUDr., MBA, LL.M.",
+    "ageAtElection": 53,
+    "occupationOfficial": "krajský manažér",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-3"
+  },
+  {
+    "id": "2026-nr-city-council-3-4",
+    "candidateId": "nsk-david-kis",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 4,
+    "displayNameOfficial": "David KIS, Bc.",
+    "ageAtElection": 23,
+    "occupationOfficial": "študent právnickej fakulty, konateľ obchodnej spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-3"
+  },
+  {
+    "id": "2026-nr-city-council-3-5",
+    "candidateId": "nsk-martin-kusenda",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 5,
+    "displayNameOfficial": "Martin KUSENDA, Mgr. art.",
+    "ageAtElection": 48,
+    "occupationOfficial": "riaditeľ divadla",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-3"
+  },
+  {
+    "id": "2026-nr-city-council-3-6",
+    "candidateId": "nsk-norbert-miklas",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 6,
+    "displayNameOfficial": "Norbert MIKLÁŠ",
+    "ageAtElection": 40,
+    "occupationOfficial": "živnostník",
+    "affiliations": [
+      "Demokrati Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-3"
+  },
+  {
+    "id": "2026-nr-city-council-3-7",
+    "candidateId": "nsk-martin-pasulkas",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 7,
+    "displayNameOfficial": "Martin PASULKÁŠ, JUDr., Ing.",
+    "ageAtElection": 49,
+    "occupationOfficial": "konateľ spoločnosti, manažér",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-3"
+  },
+  {
+    "id": "2026-nr-city-council-3-8",
+    "candidateId": "nsk-regina-vitekova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 8,
+    "displayNameOfficial": "Regina VÍTEKOVÁ, Ing.",
+    "ageAtElection": 56,
+    "occupationOfficial": "ekonómka",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-3"
+  },
+  {
+    "id": "2026-nr-city-council-4-1",
+    "candidateId": "nsk-petra-ajdariova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 1,
+    "displayNameOfficial": "Petra AJDARIOVÁ, Mgr.",
+    "ageAtElection": 48,
+    "occupationOfficial": "sociálna pracovníčka",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-2",
+    "candidateId": "nsk-peter-bakay",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 2,
+    "displayNameOfficial": "Peter BAKAY, Ing.",
+    "ageAtElection": 48,
+    "occupationOfficial": "obchodno-prevádzkový riaditeľ",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-3",
+    "candidateId": "nsk-pavol-deglovic",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 3,
+    "displayNameOfficial": "Pavol DEGLOVIČ",
+    "ageAtElection": 55,
+    "occupationOfficial": "konateľ spoločnosti",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-4",
+    "candidateId": "nsk-milos-dovicovic",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 4,
+    "displayNameOfficial": "Miloš DOVIČOVIČ, Ing.",
+    "ageAtElection": 70,
+    "occupationOfficial": "manažér, ekonóm",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-5",
+    "candidateId": "nsk-martina-dubaiova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 5,
+    "displayNameOfficial": "Martina DUBAIOVÁ, Ing.",
+    "ageAtElection": 46,
+    "occupationOfficial": "technická manažérka",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-6",
+    "candidateId": "nsk-simona-farnadyova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 6,
+    "displayNameOfficial": "Simona FARNADYOVÁ, Ing.",
+    "ageAtElection": 27,
+    "occupationOfficial": "mzdová účtovníčka",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-7",
+    "candidateId": "nsk-veronika-gabcikova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 7,
+    "displayNameOfficial": "Veronika GABČÍKOVÁ, Mgr. art.",
+    "ageAtElection": 57,
+    "occupationOfficial": "dramaturgička a umelecká riaditeľka divadla",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-8",
+    "candidateId": "nsk-frantisek-holly",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 8,
+    "displayNameOfficial": "František HOLLÝ",
+    "ageAtElection": 71,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-9",
+    "candidateId": "nsk-miroslav-horniak",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 9,
+    "displayNameOfficial": "Miroslav HORNIAK",
+    "ageAtElection": 43,
+    "occupationOfficial": "manažér nákupu mlieka",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-10",
+    "candidateId": "nsk-dusan-kacer",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 10,
+    "displayNameOfficial": "Dušan KÁČER, Mgr.",
+    "ageAtElection": 52,
+    "occupationOfficial": "riaditeľ oblastnej organizácie cestovného ruchu",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-11",
+    "candidateId": "nsk-peter-kisska",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 11,
+    "displayNameOfficial": "Peter KIŠŠKA, MUDr., PhD., MPH",
+    "ageAtElection": 52,
+    "occupationOfficial": "primár kliniky",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-12",
+    "candidateId": "nsk-lubomir-klestinec",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 12,
+    "displayNameOfficial": "Ľubomír KLEŠTINEC, Mgr.",
+    "ageAtElection": 67,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-13",
+    "candidateId": "nsk-marek-kuruc",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 13,
+    "displayNameOfficial": "Marek KURUC",
+    "ageAtElection": 51,
+    "occupationOfficial": "riaditeľ",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-14",
+    "candidateId": "nsk-maria-lorinczova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 14,
+    "displayNameOfficial": "Mária LÖRINCZOVÁ, Mgr.",
+    "ageAtElection": 42,
+    "occupationOfficial": "vedúca kancelárie",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-15",
+    "candidateId": "nsk-miroslav-maly",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 15,
+    "displayNameOfficial": "Miroslav MALÝ",
+    "ageAtElection": 30,
+    "occupationOfficial": "projektový manažér",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-16",
+    "candidateId": "nsk-pavol-obertas",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 16,
+    "displayNameOfficial": "Pavol OBERTÁŠ",
+    "ageAtElection": 51,
+    "occupationOfficial": "konateľ spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-17",
+    "candidateId": "nsk-rudolf-olach",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 17,
+    "displayNameOfficial": "Rudolf OLACH",
+    "ageAtElection": 37,
+    "occupationOfficial": "aktivista",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-18",
+    "candidateId": "nsk-peter-peciar",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 18,
+    "displayNameOfficial": "Peter PECIAR",
+    "ageAtElection": 39,
+    "occupationOfficial": "robotník",
+    "affiliations": [
+      "Demokrati Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-19",
+    "candidateId": "nsk-peter-polak-50",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 19,
+    "displayNameOfficial": "Peter POLÁK",
+    "ageAtElection": 50,
+    "occupationOfficial": "invalidný dôchodca",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-20",
+    "candidateId": "nsk-marta-racova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 20,
+    "displayNameOfficial": "Marta RÁCOVÁ, RNDr.",
+    "ageAtElection": 72,
+    "occupationOfficial": "učiteľka",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-21",
+    "candidateId": "nsk-marcela-starekova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 21,
+    "displayNameOfficial": "Marcela STÁREKOVÁ",
+    "ageAtElection": 49,
+    "occupationOfficial": "predajkyňa",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-22",
+    "candidateId": "nsk-matej-szaraz",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 22,
+    "displayNameOfficial": "Matej SZÁRAZ",
+    "ageAtElection": 20,
+    "occupationOfficial": "moderátor",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-23",
+    "candidateId": "nsk-henrich-varga",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 23,
+    "displayNameOfficial": "Henrich VARGA, Mgr.",
+    "ageAtElection": 46,
+    "occupationOfficial": "poslanec samosprávneho kraja",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-4-24",
+    "candidateId": "nsk-pavol-zamecnik",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 24,
+    "displayNameOfficial": "Pavol ZÁMEČNÍK, Mgr.",
+    "ageAtElection": 52,
+    "occupationOfficial": "klinický a dopravný psychológ",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-4"
+  },
+  {
+    "id": "2026-nr-city-council-5-1",
+    "candidateId": "nsk-ivan-barta",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 1,
+    "displayNameOfficial": "Ivan BARTA",
+    "ageAtElection": 55,
+    "occupationOfficial": "konateľ spoločnosti",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-2",
+    "candidateId": "nsk-roman-bogdanov",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 2,
+    "displayNameOfficial": "Roman BOGDANOV",
+    "ageAtElection": 44,
+    "occupationOfficial": "barber",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-3",
+    "candidateId": "nsk-mikulas-dunda",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 3,
+    "displayNameOfficial": "Mikuláš DUNDA, Ing., MPH",
+    "ageAtElection": 55,
+    "occupationOfficial": "zdravotnícky záchranár",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-4",
+    "candidateId": "nsk-adam-filip",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 4,
+    "displayNameOfficial": "Adam FILIP",
+    "ageAtElection": 30,
+    "occupationOfficial": "SZČO - samostatná zárobkovo činná osoba",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-5",
+    "candidateId": "nsk-rastislav-hazucha",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 5,
+    "displayNameOfficial": "Rastislav HAZUCHA, Ing., MPH, MBA",
+    "ageAtElection": 54,
+    "occupationOfficial": "projektový manažér",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-6",
+    "candidateId": "nsk-lukas-hnilica",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 6,
+    "displayNameOfficial": "Lukáš HNILICA, Ing.",
+    "ageAtElection": 39,
+    "occupationOfficial": "manažér",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-7",
+    "candidateId": "nsk-jarmila-kralova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 7,
+    "displayNameOfficial": "Jarmila KRÁLOVÁ, Ing., PhD.",
+    "ageAtElection": 55,
+    "occupationOfficial": "projektová manažérka",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-8",
+    "candidateId": "nsk-julius-kysler",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 8,
+    "displayNameOfficial": "Július KYSLER",
+    "ageAtElection": 54,
+    "occupationOfficial": "vodič",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-9",
+    "candidateId": "nsk-ladislav-masik",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 9,
+    "displayNameOfficial": "Ladislav MÁŠIK, JUDr., LL.M., MBA",
+    "ageAtElection": 49,
+    "occupationOfficial": "právnik",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-10",
+    "candidateId": "nsk-lubomir-moravcik",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 10,
+    "displayNameOfficial": "Ľubomír MORAVČÍK, Ing.",
+    "ageAtElection": 61,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-11",
+    "candidateId": "nsk-jakub-neupauer",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 11,
+    "displayNameOfficial": "Jakub NEUPAUER, Ing., PhD.",
+    "ageAtElection": 31,
+    "occupationOfficial": "odborný pracovník v poľnohospodárstve",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-12",
+    "candidateId": "nsk-paulina-simoncicova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 12,
+    "displayNameOfficial": "Paulína ŠIMONČIČOVÁ",
+    "ageAtElection": 42,
+    "occupationOfficial": "riaditeľka pobočky v banke",
+    "affiliations": [
+      "Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-13",
+    "candidateId": "nsk-ladislav-turba",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 13,
+    "displayNameOfficial": "Ladislav TURBA",
+    "ageAtElection": 50,
+    "occupationOfficial": "štátny zamestnanec",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-14",
+    "candidateId": "nsk-zuzana-uhrikova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 14,
+    "displayNameOfficial": "Zuzana UHRÍKOVÁ, Ing.",
+    "ageAtElection": 40,
+    "occupationOfficial": "ekonómka",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-15",
+    "candidateId": "nsk-ferdinand-vitek",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 15,
+    "displayNameOfficial": "Ferdinand VÍTEK, Mgr.",
+    "ageAtElection": 67,
+    "occupationOfficial": "programátor, lektor informačných technológií",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-5-16",
+    "candidateId": "nsk-katarina-welnitzova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 16,
+    "displayNameOfficial": "Katarína WELNITZOVÁ, doc., PhDr., PhD.",
+    "ageAtElection": 50,
+    "occupationOfficial": "vysokoškolská pedagogička",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-5"
+  },
+  {
+    "id": "2026-nr-city-council-6-1",
+    "candidateId": "nsk-martin-belan",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 1,
+    "displayNameOfficial": "Martin BELAN, Msc.",
+    "ageAtElection": 36,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-2",
+    "candidateId": "nsk-katarina-bojkovska",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 2,
+    "displayNameOfficial": "Katarína BOJKOVSKÁ, Mgr.",
+    "ageAtElection": 41,
+    "occupationOfficial": "špeciálna pedagogička",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-3",
+    "candidateId": "nsk-kristian-cechmanek",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 3,
+    "displayNameOfficial": "Kristián ČECHMÁNEK, Mgr., PhD.",
+    "ageAtElection": 38,
+    "occupationOfficial": "vysokoškolský pedagóg",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-4",
+    "candidateId": "nsk-patricia-dimov",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 4,
+    "displayNameOfficial": "Patrícia DIMOV",
+    "ageAtElection": 49,
+    "occupationOfficial": "obchodná zástupkyňa",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-5",
+    "candidateId": "nsk-jaroslav-doczy",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 5,
+    "displayNameOfficial": "Jaroslav DÓCZY, Ing., PhD.",
+    "ageAtElection": 66,
+    "occupationOfficial": "pracujúci dôchodca",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-6",
+    "candidateId": "nsk-renata-farmadinova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 6,
+    "displayNameOfficial": "Renáta FARMADINOVÁ",
+    "ageAtElection": 47,
+    "occupationOfficial": "asistentka",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-7",
+    "candidateId": "nsk-miloslav-hatala",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 7,
+    "displayNameOfficial": "Miloslav HATALA, Ing.",
+    "ageAtElection": 66,
+    "occupationOfficial": "geodet",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-8",
+    "candidateId": "nsk-eva-hudecova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 8,
+    "displayNameOfficial": "Eva HUDECOVÁ, Mgr.",
+    "ageAtElection": 37,
+    "occupationOfficial": "politologička",
+    "affiliations": [
+      "Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-9",
+    "candidateId": "nsk-katarina-kompasova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 9,
+    "displayNameOfficial": "Katarína KOMPASOVÁ, PhDr., PhD.",
+    "ageAtElection": 46,
+    "occupationOfficial": "vysokoškolská pedagogička",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-10",
+    "candidateId": "nsk-peter-lukacik",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 10,
+    "displayNameOfficial": "Peter LUKÁČIK, Mgr.",
+    "ageAtElection": 51,
+    "occupationOfficial": "živnostník",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-11",
+    "candidateId": "nsk-dusan-malovec",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 11,
+    "displayNameOfficial": "Dušan MALOVEC, JUDr., PhD.",
+    "ageAtElection": 70,
+    "occupationOfficial": "právnik",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-12",
+    "candidateId": "nsk-jozef-mikulasik",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 12,
+    "displayNameOfficial": "Jozef MIKULÁŠIK",
+    "ageAtElection": 41,
+    "occupationOfficial": "manažér občianskej iniciatívy",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-13",
+    "candidateId": "nsk-martina-mojtova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 13,
+    "displayNameOfficial": "Martina MOJTOVÁ, prof., PhDr., PhD.",
+    "ageAtElection": 51,
+    "occupationOfficial": "vysokoškolská pedagogička",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-14",
+    "candidateId": "nsk-romana-strizova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 14,
+    "displayNameOfficial": "Romana STRÍŽOVÁ",
+    "ageAtElection": 33,
+    "occupationOfficial": "personalistka",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-15",
+    "candidateId": "nsk-andrej-skoda",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 15,
+    "displayNameOfficial": "Andrej ŠKODA",
+    "ageAtElection": 35,
+    "occupationOfficial": "nezamestnaný",
+    "affiliations": [
+      "Demokrati Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-16",
+    "candidateId": "nsk-igor-urbanik",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 16,
+    "displayNameOfficial": "Igor URBÁNIK, Ing., PhD.",
+    "ageAtElection": 60,
+    "occupationOfficial": "riadiaci letovej premávky",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-17",
+    "candidateId": "nsk-pavel-varga",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 17,
+    "displayNameOfficial": "Pavel VARGA",
+    "ageAtElection": 67,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-18",
+    "candidateId": "nsk-edita-vnuckova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 18,
+    "displayNameOfficial": "Edita VNUČKOVÁ, Ing.",
+    "ageAtElection": 58,
+    "occupationOfficial": "regionálna riaditeľka spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-6-19",
+    "candidateId": "nsk-tibor-zapletal",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 19,
+    "displayNameOfficial": "Tibor ZAPLETAL",
+    "ageAtElection": 58,
+    "occupationOfficial": "technický manažér",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-6"
+  },
+  {
+    "id": "2026-nr-city-council-7-1",
+    "candidateId": "nsk-eva-antosova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 1,
+    "displayNameOfficial": "Eva ANTOŠOVÁ, Ing.",
+    "ageAtElection": 61,
+    "occupationOfficial": "riaditeľka krajského osvetového centra",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-2",
+    "candidateId": "nsk-daniel-balko",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 2,
+    "displayNameOfficial": "Daniel BALKO, Mgr.",
+    "ageAtElection": 55,
+    "occupationOfficial": "historik, politológ",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-3",
+    "candidateId": "nsk-artur-bekmatov",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 3,
+    "displayNameOfficial": "Artúr BEKMATOV, Mgr., PhD.",
+    "ageAtElection": 36,
+    "occupationOfficial": "poradca premiéra",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-4",
+    "candidateId": "nsk-marcela-cavojova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 4,
+    "displayNameOfficial": "Marcela ČAVOJOVÁ, Mgr.",
+    "ageAtElection": 53,
+    "occupationOfficial": "poslankyňa parlamentu",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-5",
+    "candidateId": "nsk-lukas-celinak",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 5,
+    "displayNameOfficial": "Lukáš ČELINÁK, Mgr.",
+    "ageAtElection": 37,
+    "occupationOfficial": "vysokoškolský pedagóg, manažér digitálneho vzdelávania",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-6",
+    "candidateId": "nsk-tibor-danac",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 6,
+    "displayNameOfficial": "Tibor DANÁČ, Ing.",
+    "ageAtElection": 59,
+    "occupationOfficial": "ekonóm, vodohospodár, manažér",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-7",
+    "candidateId": "nsk-martin-domcek",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 7,
+    "displayNameOfficial": "Martin DOMČEK, Mgr.",
+    "ageAtElection": 30,
+    "occupationOfficial": "advokát",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-8",
+    "candidateId": "nsk-jana-durkova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 8,
+    "displayNameOfficial": "Jana ĎURKOVÁ, MUDr., PhD.",
+    "ageAtElection": 44,
+    "occupationOfficial": "lekárka, onkologička",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-9",
+    "candidateId": "nsk-martin-horvath",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 9,
+    "displayNameOfficial": "Martin HORVÁTH, Ing.",
+    "ageAtElection": 54,
+    "occupationOfficial": "finančný manažér",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-10",
+    "candidateId": "nsk-stefan-korman",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 10,
+    "displayNameOfficial": "Štefan KORMAN, Ing., MBA",
+    "ageAtElection": 53,
+    "occupationOfficial": "novinár",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-11",
+    "candidateId": "nsk-peter-kostal",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 11,
+    "displayNameOfficial": "Peter KOŠŤÁL, Ing., PhD.",
+    "ageAtElection": 47,
+    "occupationOfficial": "vedúci energetiky",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-12",
+    "candidateId": "nsk-tomas-kralik",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 12,
+    "displayNameOfficial": "Tomáš KRÁLIK, Mgr.",
+    "ageAtElection": 39,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-13",
+    "candidateId": "nsk-igor-krsiak",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 13,
+    "displayNameOfficial": "Igor KRŠIAK, JUDr.",
+    "ageAtElection": 50,
+    "occupationOfficial": "právnik",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-14",
+    "candidateId": "nsk-anna-laurinec-smehilova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 14,
+    "displayNameOfficial": "Anna LAURINEC ŠMEHILOVÁ, PhDr., PhD.",
+    "ageAtElection": 47,
+    "occupationOfficial": "riaditeľka strediska sociálnych služieb",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-15",
+    "candidateId": "nsk-andrea-matova",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 15,
+    "displayNameOfficial": "Andrea MAŤOVÁ, Mgr.",
+    "ageAtElection": 52,
+    "occupationOfficial": "invalidná dôchodkyňa",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-16",
+    "candidateId": "nsk-ingrid-menky",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 16,
+    "displayNameOfficial": "Ingrid MEŇKY, PhDr.",
+    "ageAtElection": 58,
+    "occupationOfficial": "manažérka zdravotníckeho zariadenia",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-17",
+    "candidateId": "nsk-peter-oremus",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 17,
+    "displayNameOfficial": "Peter OREMUS, Ing., PhD.",
+    "ageAtElection": 50,
+    "occupationOfficial": "riaditeľ spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-18",
+    "candidateId": "nsk-martin-palkovic",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 18,
+    "displayNameOfficial": "Martin PALKOVIČ, MVDr.",
+    "ageAtElection": 61,
+    "occupationOfficial": "veterinárny lekár",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-19",
+    "candidateId": "nsk-martin-presinsky",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 19,
+    "displayNameOfficial": "Martin PREŠINSKÝ",
+    "ageAtElection": 44,
+    "occupationOfficial": "závozník",
+    "affiliations": [
+      "Demokrati Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-20",
+    "candidateId": "nsk-lukas-schober",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 20,
+    "displayNameOfficial": "Lukáš SCHOBER, Mgr.",
+    "ageAtElection": 35,
+    "occupationOfficial": "riaditeľ detenčného ústavu",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-21",
+    "candidateId": "nsk-andrej-sitkey",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 21,
+    "displayNameOfficial": "Andrej SITKEY, Ing.",
+    "ageAtElection": 52,
+    "occupationOfficial": "štátny zamestnanec",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-22",
+    "candidateId": "nsk-tomas-svoren",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 22,
+    "displayNameOfficial": "Tomáš SVOREŇ, Bc.",
+    "ageAtElection": 37,
+    "occupationOfficial": "energetik",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-23",
+    "candidateId": "nsk-miloslav-spotak",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 23,
+    "displayNameOfficial": "Miloslav ŠPOTÁK, Mgr.",
+    "ageAtElection": 51,
+    "occupationOfficial": "zástupca primátora",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-24",
+    "candidateId": "nsk-stefan-stefek",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 24,
+    "displayNameOfficial": "Štefan ŠTEFEK, Ing.",
+    "ageAtElection": 59,
+    "occupationOfficial": "investičný riaditeľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nr-city-council-7-25",
+    "candidateId": "nsk-mario-sturdik",
+    "electionId": "city-council",
+    "contestId": "2026-nr-city-council",
+    "ballotNumber": 25,
+    "displayNameOfficial": "Mário ŠTURDÍK, Mgr.",
+    "ageAtElection": 52,
+    "occupationOfficial": "pedagóg",
+    "affiliations": [
+      "Úsvit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "2026-nr-city-7"
+  },
+  {
+    "id": "2026-nsk-region-chair-all-1",
+    "candidateId": "nsk-branislav-becik",
+    "electionId": "region-chair",
+    "contestId": "2026-nsk-region-chair",
+    "ballotNumber": 1,
+    "displayNameOfficial": "Branislav BECÍK, Ing., PhD.",
+    "ageAtElection": 48,
+    "occupationOfficial": "predseda samosprávneho kraja",
+    "affiliations": [
+      "Hlas - sociálna demokracia",
+      "Smer - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika",
+      "Právo na pravdu",
+      "Bratia Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-chair-roster-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "id": "2026-nsk-region-chair-all-2",
+    "candidateId": "nsk-erik-blasko",
+    "electionId": "region-chair",
+    "contestId": "2026-nsk-region-chair",
+    "ballotNumber": 2,
+    "displayNameOfficial": "Erik BLAŠKO",
+    "ageAtElection": 53,
+    "occupationOfficial": "vodič",
+    "affiliations": [
+      "Jednota Slovanov"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-chair-roster-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "id": "2026-nsk-region-chair-all-3",
+    "candidateId": "nsk-tibor-csenger",
+    "electionId": "region-chair",
+    "contestId": "2026-nsk-region-chair",
+    "ballotNumber": 3,
+    "displayNameOfficial": "Tibor CSENGER, Ing.",
+    "ageAtElection": 61,
+    "occupationOfficial": "podpredseda samosprávneho kraja",
+    "affiliations": [
+      "Magyar szövetség - maďarská aliancia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-chair-roster-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "id": "2026-nsk-region-chair-all-4",
+    "candidateId": "nsk-jolana-culakova",
+    "electionId": "region-chair",
+    "contestId": "2026-nsk-region-chair",
+    "ballotNumber": 4,
+    "displayNameOfficial": "Jolana ČULÁKOVÁ, Mgr.",
+    "ageAtElection": 59,
+    "occupationOfficial": "redaktorka",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-chair-roster-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "id": "2026-nsk-region-chair-all-5",
+    "candidateId": "nsk-karol-suchan",
+    "electionId": "region-chair",
+    "contestId": "2026-nsk-region-chair",
+    "ballotNumber": 5,
+    "displayNameOfficial": "Karol SUCHAN, Ing.",
+    "ageAtElection": 63,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-chair-roster-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "id": "2026-nsk-region-chair-all-6",
+    "candidateId": "nsk-robert-svec",
+    "electionId": "region-chair",
+    "contestId": "2026-nsk-region-chair",
+    "ballotNumber": 6,
+    "displayNameOfficial": "Róbert ŠVEC, Mgr.",
+    "ageAtElection": 50,
+    "occupationOfficial": "politológ",
+    "affiliations": [
+      "Slovenské hnutie obrody"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-chair-roster-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "id": "2026-nsk-region-chair-all-7",
+    "candidateId": "nsk-henrich-varga",
+    "electionId": "region-chair",
+    "contestId": "2026-nsk-region-chair",
+    "ballotNumber": 7,
+    "displayNameOfficial": "Henrich VARGA, Mgr.",
+    "ageAtElection": 46,
+    "occupationOfficial": "poslanec samosprávneho kraja",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-chair-roster-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "id": "2026-nsk-region-council-3-1",
+    "candidateId": "nsk-beata-acova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 1,
+    "displayNameOfficial": "Beáta ÁČOVÁ, PhDr., PhD.",
+    "ageAtElection": 59,
+    "occupationOfficial": "prednostka okresného úradu",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-2",
+    "candidateId": "nsk-roman-agh",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 2,
+    "displayNameOfficial": "Roman ÁGH, Ing., MBA",
+    "ageAtElection": 41,
+    "occupationOfficial": "obchodný manažér",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-3",
+    "candidateId": "nsk-petra-ajdariova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 3,
+    "displayNameOfficial": "Petra AJDARIOVÁ, Mgr.",
+    "ageAtElection": 48,
+    "occupationOfficial": "sociálna pracovníčka",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-4",
+    "candidateId": "nsk-eva-antosova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 4,
+    "displayNameOfficial": "Eva ANTOŠOVÁ, Ing.",
+    "ageAtElection": 61,
+    "occupationOfficial": "riaditeľka krajského osvetového strediska",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-5",
+    "candidateId": "nsk-daniela-bako",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 5,
+    "displayNameOfficial": "Daniela BAKO, PhDr., PhD.",
+    "ageAtElection": 43,
+    "occupationOfficial": "špeciálna pedagogička",
+    "affiliations": [
+      "Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-6",
+    "candidateId": "nsk-slavomir-balis",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 6,
+    "displayNameOfficial": "Slavomír BALIŠ",
+    "ageAtElection": 41,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-7",
+    "candidateId": "nsk-hana-balisova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 7,
+    "displayNameOfficial": "Hana BALIŠOVÁ, Ing.",
+    "ageAtElection": 38,
+    "occupationOfficial": "manažérka",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-8",
+    "candidateId": "nsk-daniel-balko",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 8,
+    "displayNameOfficial": "Daniel BALKO, Mgr.",
+    "ageAtElection": 55,
+    "occupationOfficial": "historik - politológ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-9",
+    "candidateId": "nsk-branislav-banyi",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 9,
+    "displayNameOfficial": "Branislav BÁNYI, Mgr.",
+    "ageAtElection": 54,
+    "occupationOfficial": "riaditeľ školy",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-10",
+    "candidateId": "nsk-lubomir-baranik",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 10,
+    "displayNameOfficial": "Ľubomír BARANÍK",
+    "ageAtElection": 63,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [
+      "Jednota Slovanov"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-11",
+    "candidateId": "nsk-artur-bekmatov",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 11,
+    "displayNameOfficial": "Artúr BEKMATOV, Mgr., PhD.",
+    "ageAtElection": 36,
+    "occupationOfficial": "poradca premiéra",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-12",
+    "candidateId": "nsk-peter-bihari",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 12,
+    "displayNameOfficial": "Peter BIHARI",
+    "ageAtElection": 54,
+    "occupationOfficial": "konateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-13",
+    "candidateId": "nsk-milan-biro",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 13,
+    "displayNameOfficial": "Milan BÍRO",
+    "ageAtElection": 63,
+    "occupationOfficial": "starosta",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-14",
+    "candidateId": "nsk-martin-bodis",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 14,
+    "displayNameOfficial": "Martin BODIS, PhDr. PaedDr., PhD., MBA",
+    "ageAtElection": 51,
+    "occupationOfficial": "riaditeľ",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-15",
+    "candidateId": "nsk-katarina-bojkovska",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 15,
+    "displayNameOfficial": "Katarína BOJKOVSKÁ, Mgr.",
+    "ageAtElection": 41,
+    "occupationOfficial": "špeciálna pedagogička",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-16",
+    "candidateId": "nsk-vladislav-borik",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 16,
+    "displayNameOfficial": "Vladislav BORÍK, Ing., PhD.",
+    "ageAtElection": 56,
+    "occupationOfficial": "starosta",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-17",
+    "candidateId": "nsk-maria-cok-steinemannova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 17,
+    "displayNameOfficial": "Mária COK STEINEMANNOVÁ, MBA",
+    "ageAtElection": 40,
+    "occupationOfficial": "referentka pre parkovaciu politiku",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-18",
+    "candidateId": "nsk-marcela-cavojova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 18,
+    "displayNameOfficial": "Marcela ČAVOJOVÁ, Mgr.",
+    "ageAtElection": 53,
+    "occupationOfficial": "poslankyňa parlamentu",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-19",
+    "candidateId": "nsk-kristian-cechmanek",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 19,
+    "displayNameOfficial": "Kristián ČECHMÁNEK, Mgr., PhD.",
+    "ageAtElection": 38,
+    "occupationOfficial": "vysokoškolský učiteľ",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-20",
+    "candidateId": "nsk-lukas-celinak",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 20,
+    "displayNameOfficial": "Lukáš ČELINÁK, Mgr.",
+    "ageAtElection": 37,
+    "occupationOfficial": "vysokoškolský pedagóg, manažér digitálneho vzdelávania",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-21",
+    "candidateId": "nsk-jolana-culakova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 21,
+    "displayNameOfficial": "Jolana ČULÁKOVÁ, Mgr.",
+    "ageAtElection": 59,
+    "occupationOfficial": "redaktorka",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-22",
+    "candidateId": "nsk-tibor-danac",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 22,
+    "displayNameOfficial": "Tibor DANÁČ, Ing.",
+    "ageAtElection": 59,
+    "occupationOfficial": "ekonóm, vodohospodár, manažér",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-23",
+    "candidateId": "nsk-pavol-deglovic",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 23,
+    "displayNameOfficial": "Pavol DEGLOVIČ",
+    "ageAtElection": 55,
+    "occupationOfficial": "konateľ spoločnosti",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-24",
+    "candidateId": "nsk-jaroslav-doczy",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 24,
+    "displayNameOfficial": "Jaroslav DÓCZY, Ing., PhD.",
+    "ageAtElection": 66,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-25",
+    "candidateId": "nsk-milos-dovicovic",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 25,
+    "displayNameOfficial": "Miloš DOVIČOVIČ, Ing.",
+    "ageAtElection": 70,
+    "occupationOfficial": "manažér/ekonóm",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-26",
+    "candidateId": "nsk-erik-duchon",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 26,
+    "displayNameOfficial": "Erik DUCHOŇ, Mgr.",
+    "ageAtElection": 55,
+    "occupationOfficial": "náčelník mestskej polície",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-27",
+    "candidateId": "nsk-ondrej-durica",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 27,
+    "displayNameOfficial": "Ondrej ĎURICA",
+    "ageAtElection": 48,
+    "occupationOfficial": "konateľ",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-28",
+    "candidateId": "nsk-jana-durkova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 28,
+    "displayNameOfficial": "Jana ĎURKOVÁ, MUDr., PhD.",
+    "ageAtElection": 44,
+    "occupationOfficial": "lekárka - klinická onkologička",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-29",
+    "candidateId": "nsk-jozef-dvonc",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 29,
+    "displayNameOfficial": "Jozef DVONČ, doc. Ing., CSc.",
+    "ageAtElection": 72,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-30",
+    "candidateId": "nsk-juraj-gajdos",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 30,
+    "displayNameOfficial": "Juraj GAJDOŠ, Ing. arch.",
+    "ageAtElection": 66,
+    "occupationOfficial": "architekt",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-31",
+    "candidateId": "nsk-tibor-gaspar",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 31,
+    "displayNameOfficial": "Tibor GAŠPAR, PaedDr.",
+    "ageAtElection": 64,
+    "occupationOfficial": "poslanec parlamentu",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-32",
+    "candidateId": "nsk-petra-grebacova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 32,
+    "displayNameOfficial": "Petra GREBÁČOVÁ",
+    "ageAtElection": 29,
+    "occupationOfficial": "asistentka poslanca",
+    "affiliations": [
+      "Strana vidieka"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-33",
+    "candidateId": "nsk-jan-gresso",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 33,
+    "displayNameOfficial": "Ján GREŠŠO, Mgr.",
+    "ageAtElection": 45,
+    "occupationOfficial": "projektový manažér",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-34",
+    "candidateId": "nsk-miloslav-hatala",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 34,
+    "displayNameOfficial": "Miloslav HATALA, Ing.",
+    "ageAtElection": 66,
+    "occupationOfficial": "geodet",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-35",
+    "candidateId": "nsk-marek-hattas",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 35,
+    "displayNameOfficial": "Marek HATTAS",
+    "ageAtElection": 39,
+    "occupationOfficial": "primátor",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-36",
+    "candidateId": "nsk-lukas-hnilica",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 36,
+    "displayNameOfficial": "Lukáš HNILICA, Ing.",
+    "ageAtElection": 39,
+    "occupationOfficial": "manažér",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-37",
+    "candidateId": "nsk-miroslav-horniak",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 37,
+    "displayNameOfficial": "Miroslav HORNIAK",
+    "ageAtElection": 43,
+    "occupationOfficial": "manažér nákupu mlieka",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-38",
+    "candidateId": "nsk-eva-hudecova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 38,
+    "displayNameOfficial": "Eva HUDECOVÁ, Mgr.",
+    "ageAtElection": 37,
+    "occupationOfficial": "politologička",
+    "affiliations": [
+      "Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-39",
+    "candidateId": "nsk-peter-chudy",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 39,
+    "displayNameOfficial": "Peter CHUDÝ, Mgr.",
+    "ageAtElection": 35,
+    "occupationOfficial": "učiteľ, konateľ spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-40",
+    "candidateId": "nsk-marek-illes",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 40,
+    "displayNameOfficial": "Marek ILLÉŠ, Ing., PhD.",
+    "ageAtElection": 52,
+    "occupationOfficial": "generálny riaditeľ",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-41",
+    "candidateId": "nsk-antonia-janeckova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 41,
+    "displayNameOfficial": "Antónia JANEČKOVÁ, Ing.",
+    "ageAtElection": 43,
+    "occupationOfficial": "realitná maklérka",
+    "affiliations": [
+      "Jednota Slovanov"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-42",
+    "candidateId": "nsk-jozef-jankovic",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 42,
+    "displayNameOfficial": "Jozef JANKOVIČ, Mgr.",
+    "ageAtElection": 54,
+    "occupationOfficial": "starosta",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-43",
+    "candidateId": "nsk-peter-kisska",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 43,
+    "displayNameOfficial": "Peter KIŠŠKA, MUDr., PhD., MPH",
+    "ageAtElection": 52,
+    "occupationOfficial": "primár kliniky",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-44",
+    "candidateId": "nsk-stefan-korman",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 44,
+    "displayNameOfficial": "Štefan KORMAN, Ing. , MBA",
+    "ageAtElection": 53,
+    "occupationOfficial": "novinár",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-45",
+    "candidateId": "nsk-peter-kostal",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 45,
+    "displayNameOfficial": "Peter KOŠŤÁL, Ing., PhD.",
+    "ageAtElection": 47,
+    "occupationOfficial": "vedúci energetiky",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-46",
+    "candidateId": "nsk-juraj-kovac",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 46,
+    "displayNameOfficial": "Juraj KOVÁČ, Ing.",
+    "ageAtElection": 47,
+    "occupationOfficial": "konateľ spoločnosti, manažér",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-47",
+    "candidateId": "nsk-jarmila-kralova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 47,
+    "displayNameOfficial": "Jarmila KRÁLOVÁ, Ing., PhD.",
+    "ageAtElection": 55,
+    "occupationOfficial": "projektová manažérka",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-48",
+    "candidateId": "nsk-matus-kroslak",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 48,
+    "displayNameOfficial": "Matúš KROŠLÁK, Mgr.",
+    "ageAtElection": 36,
+    "occupationOfficial": "policajt",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-49",
+    "candidateId": "nsk-igor-krsiak",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 49,
+    "displayNameOfficial": "Igor KRŠIAK, JUDr.",
+    "ageAtElection": 50,
+    "occupationOfficial": "právnik",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-50",
+    "candidateId": "nsk-martin-kusenda",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 50,
+    "displayNameOfficial": "Martin KUSENDA, Mgr. art.",
+    "ageAtElection": 48,
+    "occupationOfficial": "riaditeľ divadla",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-51",
+    "candidateId": "nsk-anna-laurinec-smehilova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 51,
+    "displayNameOfficial": "Anna LAURINEC ŠMEHILOVÁ, PhDr., PhD.",
+    "ageAtElection": 47,
+    "occupationOfficial": "riaditeľka strediska sociálnych služieb",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-52",
+    "candidateId": "nsk-pavol-lehotak",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 52,
+    "displayNameOfficial": "Pavol LEHOŤÁK, Ing.",
+    "ageAtElection": 39,
+    "occupationOfficial": "starosta obce",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-53",
+    "candidateId": "nsk-jaroslav-macek",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 53,
+    "displayNameOfficial": "Jaroslav MAČEK, Mgr.",
+    "ageAtElection": 74,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-54",
+    "candidateId": "nsk-milos-macho",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 54,
+    "displayNameOfficial": "Miloš MACHO, Ing.",
+    "ageAtElection": 66,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [
+      "Jednota Slovanov"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-55",
+    "candidateId": "nsk-monika-maliskova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 55,
+    "displayNameOfficial": "Monika MALIŠKOVÁ, Ing.",
+    "ageAtElection": 39,
+    "occupationOfficial": "zástupkyňa primátora mesta",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-56",
+    "candidateId": "nsk-martina-mojtova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 56,
+    "displayNameOfficial": "Martina MOJTOVÁ, prof. PhDr. , PhD.",
+    "ageAtElection": 51,
+    "occupationOfficial": "vysokoškolská profesorka",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-57",
+    "candidateId": "nsk-lubomir-moravcik",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 57,
+    "displayNameOfficial": "Ľubomír MORAVČÍK, Ing.",
+    "ageAtElection": 61,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-58",
+    "candidateId": "nsk-viktor-nemeth",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 58,
+    "displayNameOfficial": "Viktor NÉMETH, Mgr.",
+    "ageAtElection": 33,
+    "occupationOfficial": "primátor mesta",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-59",
+    "candidateId": "nsk-pavol-obertas",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 59,
+    "displayNameOfficial": "Pavol OBERTÁŠ",
+    "ageAtElection": 51,
+    "occupationOfficial": "konateľ spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-60",
+    "candidateId": "nsk-peter-oremus",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 60,
+    "displayNameOfficial": "Peter OREMUS, Ing., PhD.",
+    "ageAtElection": 50,
+    "occupationOfficial": "riaditeľ spoločnosti",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-61",
+    "candidateId": "nsk-martin-palkovic",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 61,
+    "displayNameOfficial": "Martin PALKOVIČ, MVDr.",
+    "ageAtElection": 61,
+    "occupationOfficial": "veterinárny lekár",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-62",
+    "candidateId": "nsk-slavomir-papp",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 62,
+    "displayNameOfficial": "Slavomír PAPP",
+    "ageAtElection": 50,
+    "occupationOfficial": "projektový manažér",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-63",
+    "candidateId": "nsk-martin-pasulkas",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 63,
+    "displayNameOfficial": "Martin PASULKÁŠ, JUDr. Ing.",
+    "ageAtElection": 49,
+    "occupationOfficial": "konateľ spoločnosti, manažér",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-64",
+    "candidateId": "nsk-marian-paulisz",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 64,
+    "displayNameOfficial": "Marián PAULISZ, Ing.",
+    "ageAtElection": 41,
+    "occupationOfficial": "starosta",
+    "affiliations": [
+      "Magyar szövetség - maďarská aliancia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-65",
+    "candidateId": "nsk-svorad-petruska",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 65,
+    "displayNameOfficial": "Svorad PETRUŠKA, JUDr.",
+    "ageAtElection": 50,
+    "occupationOfficial": "advokát",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-66",
+    "candidateId": "nsk-pavol-pipiska",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 66,
+    "displayNameOfficial": "Pavol PIPIŠKA",
+    "ageAtElection": 53,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-67",
+    "candidateId": "nsk-stefan-polacik",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 67,
+    "displayNameOfficial": "Štefan POLAČIK",
+    "ageAtElection": 41,
+    "occupationOfficial": "politický aktivista",
+    "affiliations": [
+      "Slovenské hnutie obrody"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-68",
+    "candidateId": "nsk-peter-polak-52",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 68,
+    "displayNameOfficial": "Peter POLÁK, Ing., PhD.",
+    "ageAtElection": 52,
+    "occupationOfficial": "šľachtiteľ oviec a kôz",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-69",
+    "candidateId": "nsk-andrej-praznovsky",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 69,
+    "displayNameOfficial": "Andrej PRÁZNOVSKÝ, Ing.",
+    "ageAtElection": 36,
+    "occupationOfficial": "živnostník, predseda cyklistického klubu",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-70",
+    "candidateId": "nsk-peter-pukan",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 70,
+    "displayNameOfficial": "Peter PUKAN, Ing.",
+    "ageAtElection": 51,
+    "occupationOfficial": "starosta obce",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-71",
+    "candidateId": "nsk-ivan-rac",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 71,
+    "displayNameOfficial": "Ivan RÁC, doc. PhDr., PhD.",
+    "ageAtElection": 42,
+    "occupationOfficial": "vysokoškolský pedagóg",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-72",
+    "candidateId": "nsk-katarina-ranusa-koncosova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 72,
+    "displayNameOfficial": "Katarína RANUŠA KONCOŠOVÁ, Ing., PhD.",
+    "ageAtElection": 42,
+    "occupationOfficial": "prednostka mestského úradu",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-73",
+    "candidateId": "nsk-jan-rejda",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 73,
+    "displayNameOfficial": "Ján REJDA, JUDr. Ing.",
+    "ageAtElection": 55,
+    "occupationOfficial": "právnik",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-74",
+    "candidateId": "nsk-andrej-sitkey",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 74,
+    "displayNameOfficial": "Andrej SITKEY, Ing.",
+    "ageAtElection": 52,
+    "occupationOfficial": "štátny zamestnanec",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-75",
+    "candidateId": "nsk-marcela-starekova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 75,
+    "displayNameOfficial": "Marcela STÁREKOVÁ",
+    "ageAtElection": 49,
+    "occupationOfficial": "predajkyňa",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-76",
+    "candidateId": "nsk-zdenko-svoboda",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 76,
+    "displayNameOfficial": "Zdenko SVOBODA, Mgr.",
+    "ageAtElection": 44,
+    "occupationOfficial": "poslanec parlamentu",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-77",
+    "candidateId": "nsk-ingrid-sabikova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 77,
+    "displayNameOfficial": "Ingrid ŠABÍKOVÁ, Ing., PhD.",
+    "ageAtElection": 53,
+    "occupationOfficial": "nezamestnaná",
+    "affiliations": [
+      "Sme rodina"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-78",
+    "candidateId": "nsk-ondrej-sedivy",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 78,
+    "displayNameOfficial": "Ondrej ŠEDIVÝ, MUDr.",
+    "ageAtElection": 54,
+    "occupationOfficial": "riaditeľ fakultnej nemocnice",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-79",
+    "candidateId": "nsk-paulina-simoncicova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 79,
+    "displayNameOfficial": "Paulína ŠIMONČIČOVÁ",
+    "ageAtElection": 42,
+    "occupationOfficial": "riaditeľka pobočky v banke",
+    "affiliations": [
+      "Konzervatívci - kresťanská únia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-80",
+    "candidateId": "nsk-stefan-stefek",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 80,
+    "displayNameOfficial": "Štefan ŠTEFEK, Ing.",
+    "ageAtElection": 59,
+    "occupationOfficial": "investičný riaditeľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-81",
+    "candidateId": "nsk-mario-sturdik",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 81,
+    "displayNameOfficial": "Mário ŠTURDÍK, Mgr.",
+    "ageAtElection": 52,
+    "occupationOfficial": "pedagóg",
+    "affiliations": [
+      "Úsvit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-82",
+    "candidateId": "nsk-patrik-trubini",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 82,
+    "displayNameOfficial": "Patrik TRUBÍNI",
+    "ageAtElection": 54,
+    "occupationOfficial": "starosta obce",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-83",
+    "candidateId": "nsk-ladislav-turba",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 83,
+    "displayNameOfficial": "Ladislav TURBA",
+    "ageAtElection": 50,
+    "occupationOfficial": "štátny zamestnanec",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-84",
+    "candidateId": "nsk-zuzana-uhrikova",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 84,
+    "displayNameOfficial": "Zuzana UHRÍKOVÁ, Ing.",
+    "ageAtElection": 40,
+    "occupationOfficial": "ekonómka",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-85",
+    "candidateId": "nsk-jan-vanco",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 85,
+    "displayNameOfficial": "Ján VANČO, PhDr. , PhD.",
+    "ageAtElection": 51,
+    "occupationOfficial": "pedagóg",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-86",
+    "candidateId": "nsk-henrich-varga",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 86,
+    "displayNameOfficial": "Henrich VARGA, Mgr.",
+    "ageAtElection": 46,
+    "occupationOfficial": "poslanec samosprávneho kraja",
+    "affiliations": [
+      "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja",
+      "Sloboda a solidarita",
+      "Progresívne Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Hnutie Slovensko",
+      "Demokrati",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-87",
+    "candidateId": "nsk-pavel-varga",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 87,
+    "displayNameOfficial": "Pavel VARGA",
+    "ageAtElection": 67,
+    "occupationOfficial": "podnikateľ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-88",
+    "candidateId": "nsk-filip-ziak",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 88,
+    "displayNameOfficial": "Filip ŽIAK, Ing., MBA",
+    "ageAtElection": 27,
+    "occupationOfficial": "marketingový špecialista",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  },
+  {
+    "id": "2026-nsk-region-council-3-89",
+    "candidateId": "nsk-robert-zilik",
+    "electionId": "region-council",
+    "contestId": "2026-nsk-region-council",
+    "ballotNumber": 89,
+    "displayNameOfficial": "Róbert ŽILÍK, PaedDr.",
+    "ageAtElection": 67,
+    "occupationOfficial": "dôchodca",
+    "affiliations": [
+      "Jednota Slovanov"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "nsk-council-district3-roster-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "2026-nsk-region-3"
+  }
+]

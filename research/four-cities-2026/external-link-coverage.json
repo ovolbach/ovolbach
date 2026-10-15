@@ -1,0 +1,21 @@
+{
+  "currentUniqueUrls": 2668,
+  "fullInitialUrls": 2668,
+  "additionalCheckedUrls": 4,
+  "uncoveredCurrentUrls": [],
+  "obsoleteInitialUrls": [
+    {
+      "url": "https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150 ",
+      "sourceIds": [
+        "tn-party-kdh-krestanskodemokraticke-hnutie"
+      ]
+    },
+    {
+      "url": "https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360 ",
+      "sourceIds": [
+        "tn-party-smer-socialna-demokracia"
+      ]
+    }
+  ],
+  "boundary": "Full required gate and delta cover every final source/account URL. Initial failures are retained; recovery results are separate."
+}

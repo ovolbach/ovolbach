@@ -1,0 +1,1879 @@
+[
+  {
+    "id": "nsk-adam-filip",
+    "slug": "adam-filip",
+    "displayName": "Adam FILIP",
+    "givenName": "Adam",
+    "familyName": "Filip",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-andrea-matova",
+    "slug": "andrea-matova",
+    "displayName": "Andrea MAŤOVÁ, Mgr.",
+    "givenName": "Andrea",
+    "familyName": "Maťová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-andrej-praznovsky",
+    "slug": "andrej-praznovsky",
+    "displayName": "Andrej PRÁZNOVSKÝ, Ing.",
+    "givenName": "Andrej",
+    "familyName": "Práznovský",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-andrej-sitkey",
+    "slug": "andrej-sitkey",
+    "displayName": "Andrej SITKEY, Ing.",
+    "givenName": "Andrej",
+    "familyName": "Sitkey",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-andrej-skoda",
+    "slug": "andrej-skoda",
+    "displayName": "Andrej ŠKODA",
+    "givenName": "Andrej",
+    "familyName": "Škoda",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-anna-laurinec-smehilova",
+    "slug": "anna-laurinec-smehilova",
+    "displayName": "Anna LAURINEC ŠMEHILOVÁ, PhDr., PhD.",
+    "givenName": "Anna",
+    "familyName": "Laurinec Šmehilová",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "PhDr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-antonia-janeckova",
+    "slug": "antonia-janeckova",
+    "displayName": "Antónia JANEČKOVÁ, Ing.",
+    "givenName": "Antónia",
+    "familyName": "Janečková",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-artur-bekmatov",
+    "slug": "artur-bekmatov",
+    "displayName": "Artúr BEKMATOV, Mgr., PhD.",
+    "givenName": "Artúr",
+    "familyName": "Bekmatov",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-beata-acova",
+    "slug": "beata-acova",
+    "displayName": "Beáta ÁČOVÁ, PhDr., PhD.",
+    "givenName": "Beáta",
+    "familyName": "Áčová",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "PhDr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-branislav-banyi",
+    "slug": "branislav-banyi",
+    "displayName": "Branislav BÁNYI, Mgr.",
+    "givenName": "Branislav",
+    "familyName": "Bányi",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-branislav-becik",
+    "slug": "branislav-becik",
+    "displayName": "Branislav BECÍK, Ing., PhD.",
+    "givenName": "Branislav",
+    "familyName": "Becík",
+    "sourceIds": [
+      "nsk-chair-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-daniel-balko",
+    "slug": "daniel-balko",
+    "displayName": "Daniel BALKO, Mgr.",
+    "givenName": "Daniel",
+    "familyName": "Balko",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-daniela-bako",
+    "slug": "daniela-bako",
+    "displayName": "Daniela BAKO, PhDr., PhD.",
+    "givenName": "Daniela",
+    "familyName": "Bako",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "PhDr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-david-kis",
+    "slug": "david-kis",
+    "displayName": "David KIS, Bc.",
+    "givenName": "David",
+    "familyName": "Kis",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Bc."
+  },
+  {
+    "id": "nsk-denisa-branikovicova",
+    "slug": "denisa-branikovicova",
+    "displayName": "Denisa BRANIKOVIČOVÁ",
+    "givenName": "Denisa",
+    "familyName": "Branikovičová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-dusan-kacer",
+    "slug": "dusan-kacer",
+    "displayName": "Dušan KÁČER, Mgr.",
+    "givenName": "Dušan",
+    "familyName": "Káčer",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-dusan-malovec",
+    "slug": "dusan-malovec",
+    "displayName": "Dušan MALOVEC, JUDr., PhD.",
+    "givenName": "Dušan",
+    "familyName": "Malovec",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "JUDr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-edita-vnuckova",
+    "slug": "edita-vnuckova",
+    "displayName": "Edita VNUČKOVÁ, Ing.",
+    "givenName": "Edita",
+    "familyName": "Vnučková",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-erik-blasko",
+    "slug": "erik-blasko",
+    "displayName": "Erik BLAŠKO",
+    "givenName": "Erik",
+    "familyName": "Blaško",
+    "sourceIds": [
+      "nsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-erik-duchon",
+    "slug": "erik-duchon",
+    "displayName": "Erik DUCHOŇ, Mgr.",
+    "givenName": "Erik",
+    "familyName": "Duchoň",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-eva-antosova",
+    "slug": "eva-antosova",
+    "displayName": "Eva ANTOŠOVÁ, Ing.",
+    "givenName": "Eva",
+    "familyName": "Antošová",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-eva-hudecova",
+    "slug": "eva-hudecova",
+    "displayName": "Eva HUDECOVÁ, Mgr.",
+    "givenName": "Eva",
+    "familyName": "Hudecová",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-ferdinand-vitek",
+    "slug": "ferdinand-vitek",
+    "displayName": "Ferdinand VÍTEK, Mgr.",
+    "givenName": "Ferdinand",
+    "familyName": "Vítek",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-filip-ziak",
+    "slug": "filip-ziak",
+    "displayName": "Filip ŽIAK, Ing., MBA",
+    "givenName": "Filip",
+    "familyName": "Žiak",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "nsk-frantisek-holly",
+    "slug": "frantisek-holly",
+    "displayName": "František HOLLÝ",
+    "givenName": "František",
+    "familyName": "Hollý",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-hana-balisova",
+    "slug": "hana-balisova",
+    "displayName": "Hana BALIŠOVÁ, Ing.",
+    "givenName": "Hana",
+    "familyName": "Bališová",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-henrich-bencik",
+    "slug": "henrich-bencik",
+    "displayName": "Henrich BENČÍK",
+    "givenName": "Henrich",
+    "familyName": "Benčík",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-henrich-varga",
+    "slug": "henrich-varga",
+    "displayName": "Henrich VARGA, Mgr.",
+    "givenName": "Henrich",
+    "familyName": "Varga",
+    "sourceIds": [
+      "nsk-chair-roster-2026",
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-igor-krsiak",
+    "slug": "igor-krsiak",
+    "displayName": "Igor KRŠIAK, JUDr.",
+    "givenName": "Igor",
+    "familyName": "Kršiak",
+    "sourceIds": [
+      "nr-mayor-roster-2026",
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "JUDr."
+  },
+  {
+    "id": "nsk-igor-urbanik",
+    "slug": "igor-urbanik",
+    "displayName": "Igor URBÁNIK, Ing., PhD.",
+    "givenName": "Igor",
+    "familyName": "Urbánik",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-ingrid-menky",
+    "slug": "ingrid-menky",
+    "displayName": "Ingrid MEŇKY, PhDr.",
+    "givenName": "Ingrid",
+    "familyName": "Meňky",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "PhDr."
+  },
+  {
+    "id": "nsk-ingrid-sabikova",
+    "slug": "ingrid-sabikova",
+    "displayName": "Ingrid ŠABÍKOVÁ, Ing., PhD.",
+    "givenName": "Ingrid",
+    "familyName": "Šabíková",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-ivan-barta",
+    "slug": "ivan-barta",
+    "displayName": "Ivan BARTA",
+    "givenName": "Ivan",
+    "familyName": "Barta",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-ivan-rac",
+    "slug": "ivan-rac",
+    "displayName": "Ivan RÁC, doc. PhDr., PhD.",
+    "givenName": "Ivan",
+    "familyName": "Rác",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "doc. PhDr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-jakub-neupauer",
+    "slug": "jakub-neupauer",
+    "displayName": "Jakub NEUPAUER, Ing., PhD.",
+    "givenName": "Jakub",
+    "familyName": "Neupauer",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-jakub-pikna",
+    "slug": "jakub-pikna",
+    "displayName": "Jakub PIKNA, PhDr., PhD.",
+    "givenName": "Jakub",
+    "familyName": "Pikna",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "PhDr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-jan-gresso",
+    "slug": "jan-gresso",
+    "displayName": "Ján GREŠŠO, Mgr.",
+    "givenName": "Ján",
+    "familyName": "Greššo",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-jan-rejda",
+    "slug": "jan-rejda",
+    "displayName": "Ján REJDA, JUDr. Ing.",
+    "givenName": "Ján",
+    "familyName": "Rejda",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "JUDr. Ing."
+  },
+  {
+    "id": "nsk-jan-vanco",
+    "slug": "jan-vanco",
+    "displayName": "Ján VANČO, PhDr., PhD.",
+    "givenName": "Ján",
+    "familyName": "Vančo",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "PhDr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-jana-durkova",
+    "slug": "jana-durkova",
+    "displayName": "Jana ĎURKOVÁ, MUDr., PhD.",
+    "givenName": "Jana",
+    "familyName": "Ďurková",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "MUDr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-jarmila-kralova",
+    "slug": "jarmila-kralova",
+    "displayName": "Jarmila KRÁLOVÁ, Ing., PhD.",
+    "givenName": "Jarmila",
+    "familyName": "Králová",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-jaroslav-brezina",
+    "slug": "jaroslav-brezina",
+    "displayName": "Jaroslav BREZINA, Ing.",
+    "givenName": "Jaroslav",
+    "familyName": "Brezina",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-jaroslav-doczy",
+    "slug": "jaroslav-doczy",
+    "displayName": "Jaroslav DÓCZY, Ing., PhD.",
+    "givenName": "Jaroslav",
+    "familyName": "Dóczy",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-jaroslav-macek",
+    "slug": "jaroslav-macek",
+    "displayName": "Jaroslav MAČEK, Mgr.",
+    "givenName": "Jaroslav",
+    "familyName": "Maček",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-jolana-culakova",
+    "slug": "jolana-culakova",
+    "displayName": "Jolana ČULÁKOVÁ, Mgr.",
+    "givenName": "Jolana",
+    "familyName": "Čuláková",
+    "sourceIds": [
+      "nsk-chair-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-jozef-dvonc",
+    "slug": "jozef-dvonc",
+    "displayName": "Jozef DVONČ, doc. Ing., CSc.",
+    "givenName": "Jozef",
+    "familyName": "Dvonč",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "doc. Ing.",
+    "titlesAfter": "CSc."
+  },
+  {
+    "id": "nsk-jozef-horvath",
+    "slug": "jozef-horvath",
+    "displayName": "Jozef HORVÁTH",
+    "givenName": "Jozef",
+    "familyName": "Horváth",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-jozef-jankovic",
+    "slug": "jozef-jankovic",
+    "displayName": "Jozef JANKOVIČ, Mgr.",
+    "givenName": "Jozef",
+    "familyName": "Jankovič",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-jozef-mikulasik",
+    "slug": "jozef-mikulasik",
+    "displayName": "Jozef MIKULÁŠIK",
+    "givenName": "Jozef",
+    "familyName": "Mikulášik",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-julius-kysler",
+    "slug": "julius-kysler",
+    "displayName": "Július KYSLER",
+    "givenName": "Július",
+    "familyName": "Kysler",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-juraj-duncic",
+    "slug": "juraj-duncic",
+    "displayName": "Juraj DUNČIČ",
+    "givenName": "Juraj",
+    "familyName": "Dunčič",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-juraj-gajdos",
+    "slug": "juraj-gajdos",
+    "displayName": "Juraj GAJDOŠ, Ing. arch.",
+    "givenName": "Juraj",
+    "familyName": "Gajdoš",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing. arch."
+  },
+  {
+    "id": "nsk-juraj-kovac",
+    "slug": "juraj-kovac",
+    "displayName": "Juraj KOVÁČ, Ing.",
+    "givenName": "Juraj",
+    "familyName": "Kováč",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-karol-suchan",
+    "slug": "karol-suchan",
+    "displayName": "Karol SUCHAN, Ing.",
+    "givenName": "Karol",
+    "familyName": "Suchan",
+    "sourceIds": [
+      "nsk-chair-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-katarina-bojkovska",
+    "slug": "katarina-bojkovska",
+    "displayName": "Katarína BOJKOVSKÁ, Mgr.",
+    "givenName": "Katarína",
+    "familyName": "Bojkovská",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-katarina-kompasova",
+    "slug": "katarina-kompasova",
+    "displayName": "Katarína KOMPASOVÁ, PhDr., PhD.",
+    "givenName": "Katarína",
+    "familyName": "Kompasová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "PhDr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-katarina-kovacova",
+    "slug": "katarina-kovacova",
+    "displayName": "Katarína KOVÁČOVÁ, Ing.",
+    "givenName": "Katarína",
+    "familyName": "Kováčová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-katarina-ranusa-koncosova",
+    "slug": "katarina-ranusa-koncosova",
+    "displayName": "Katarína RANUŠA KONCOŠOVÁ, Ing., PhD.",
+    "givenName": "Katarína",
+    "familyName": "Ranuša Koncošová",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-katarina-welnitzova",
+    "slug": "katarina-welnitzova",
+    "displayName": "Katarína WELNITZOVÁ, doc., PhDr., PhD.",
+    "givenName": "Katarína",
+    "familyName": "Welnitzová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "doc.",
+    "titlesAfter": "PhDr., PhD."
+  },
+  {
+    "id": "nsk-kristian-cechmanek",
+    "slug": "kristian-cechmanek",
+    "displayName": "Kristián ČECHMÁNEK, Mgr., PhD.",
+    "givenName": "Kristián",
+    "familyName": "Čechmánek",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-ladislav-masik",
+    "slug": "ladislav-masik",
+    "displayName": "Ladislav MÁŠIK, JUDr., LL.M., MBA",
+    "givenName": "Ladislav",
+    "familyName": "Mášik",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "JUDr.",
+    "titlesAfter": "LL.M., MBA"
+  },
+  {
+    "id": "nsk-ladislav-turba",
+    "slug": "ladislav-turba",
+    "displayName": "Ladislav TURBA",
+    "givenName": "Ladislav",
+    "familyName": "Turba",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-lubomir-baranik",
+    "slug": "lubomir-baranik",
+    "displayName": "Ľubomír BARANÍK",
+    "givenName": "Ľubomír",
+    "familyName": "Baraník",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-lubomir-klestinec",
+    "slug": "lubomir-klestinec",
+    "displayName": "Ľubomír KLEŠTINEC, Mgr.",
+    "givenName": "Ľubomír",
+    "familyName": "Kleštinec",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-lubomir-moravcik",
+    "slug": "lubomir-moravcik",
+    "displayName": "Ľubomír MORAVČÍK, Ing.",
+    "givenName": "Ľubomír",
+    "familyName": "Moravčík",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-lukas-celinak",
+    "slug": "lukas-celinak",
+    "displayName": "Lukáš ČELINÁK, Mgr.",
+    "givenName": "Lukáš",
+    "familyName": "Čelinák",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-lukas-hnilica",
+    "slug": "lukas-hnilica",
+    "displayName": "Lukáš HNILICA, Ing.",
+    "givenName": "Lukáš",
+    "familyName": "Hnilica",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-lukas-schober",
+    "slug": "lukas-schober",
+    "displayName": "Lukáš SCHOBER, Mgr.",
+    "givenName": "Lukáš",
+    "familyName": "Schober",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-marcela-cavojova",
+    "slug": "marcela-cavojova",
+    "displayName": "Marcela ČAVOJOVÁ, Mgr.",
+    "givenName": "Marcela",
+    "familyName": "Čavojová",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-marcela-starekova",
+    "slug": "marcela-starekova",
+    "displayName": "Marcela STÁREKOVÁ",
+    "givenName": "Marcela",
+    "familyName": "Stáreková",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-marek-fuska",
+    "slug": "marek-fuska",
+    "displayName": "Marek FÚSKA, Ing.",
+    "givenName": "Marek",
+    "familyName": "Fúska",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-marek-hattas",
+    "slug": "marek-hattas",
+    "displayName": "Marek HATTAS",
+    "givenName": "Marek",
+    "familyName": "Hattas",
+    "sourceIds": [
+      "nr-mayor-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-marek-illes",
+    "slug": "marek-illes",
+    "displayName": "Marek ILLÉŠ, Ing., PhD.",
+    "givenName": "Marek",
+    "familyName": "Illéš",
+    "sourceIds": [
+      "nr-mayor-roster-2026",
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-marek-kuruc",
+    "slug": "marek-kuruc",
+    "displayName": "Marek KURUC",
+    "givenName": "Marek",
+    "familyName": "Kuruc",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-maria-cok-steinemannova",
+    "slug": "maria-cok-steinemannova",
+    "displayName": "Mária COK STEINEMANNOVÁ, MBA",
+    "givenName": "Mária",
+    "familyName": "Cok Steinemannová",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "MBA"
+  },
+  {
+    "id": "nsk-maria-lorinczova",
+    "slug": "maria-lorinczova",
+    "displayName": "Mária LÖRINCZOVÁ, Mgr.",
+    "givenName": "Mária",
+    "familyName": "Lörinczová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-maria-orsagova",
+    "slug": "maria-orsagova",
+    "displayName": "Mária ORSÁGOVÁ, PaedDr.",
+    "givenName": "Mária",
+    "familyName": "Orságová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "PaedDr."
+  },
+  {
+    "id": "nsk-marian-kukucka",
+    "slug": "marian-kukucka",
+    "displayName": "Marián KUKUČKA",
+    "givenName": "Marián",
+    "familyName": "Kukučka",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-marian-paulisz",
+    "slug": "marian-paulisz",
+    "displayName": "Marián PAULISZ, Ing.",
+    "givenName": "Marián",
+    "familyName": "Paulisz",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-mario-sturdik",
+    "slug": "mario-sturdik",
+    "displayName": "Mário ŠTURDÍK, Mgr.",
+    "givenName": "Mário",
+    "familyName": "Šturdík",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-marta-racova",
+    "slug": "marta-racova",
+    "displayName": "Marta RÁCOVÁ, RNDr.",
+    "givenName": "Marta",
+    "familyName": "Rácová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "RNDr."
+  },
+  {
+    "id": "nsk-martin-belan",
+    "slug": "martin-belan",
+    "displayName": "Martin BELAN, Msc.",
+    "givenName": "Martin",
+    "familyName": "Belan",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Msc."
+  },
+  {
+    "id": "nsk-martin-bodis",
+    "slug": "martin-bodis",
+    "displayName": "Martin BODIS, PhDr., PaedDr., PhD., MBA",
+    "givenName": "Martin",
+    "familyName": "Bodis",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "PhDr.",
+    "titlesAfter": "PaedDr., PhD., MBA"
+  },
+  {
+    "id": "nsk-martin-domcek",
+    "slug": "martin-domcek",
+    "displayName": "Martin DOMČEK, Mgr.",
+    "givenName": "Martin",
+    "familyName": "Domček",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-martin-horvath",
+    "slug": "martin-horvath",
+    "displayName": "Martin HORVÁTH, Ing.",
+    "givenName": "Martin",
+    "familyName": "Horváth",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-martin-kusenda",
+    "slug": "martin-kusenda",
+    "displayName": "Martin KUSENDA, Mgr. art.",
+    "givenName": "Martin",
+    "familyName": "Kusenda",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr. art."
+  },
+  {
+    "id": "nsk-martin-palkovic",
+    "slug": "martin-palkovic",
+    "displayName": "Martin PALKOVIČ, MVDr.",
+    "givenName": "Martin",
+    "familyName": "Palkovič",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "MVDr."
+  },
+  {
+    "id": "nsk-martin-pasulkas",
+    "slug": "martin-pasulkas",
+    "displayName": "Martin PASULKÁŠ, JUDr., Ing.",
+    "givenName": "Martin",
+    "familyName": "Pasulkáš",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "JUDr.",
+    "titlesAfter": "Ing."
+  },
+  {
+    "id": "nsk-martin-presinsky",
+    "slug": "martin-presinsky",
+    "displayName": "Martin PREŠINSKÝ",
+    "givenName": "Martin",
+    "familyName": "Prešinský",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-martina-dubaiova",
+    "slug": "martina-dubaiova",
+    "displayName": "Martina DUBAIOVÁ, Ing.",
+    "givenName": "Martina",
+    "familyName": "Dubaiová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-martina-mojtova",
+    "slug": "martina-mojtova",
+    "displayName": "Martina MOJTOVÁ, prof., PhDr., PhD.",
+    "givenName": "Martina",
+    "familyName": "Mojtová",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "prof.",
+    "titlesAfter": "PhDr., PhD."
+  },
+  {
+    "id": "nsk-matej-szaraz",
+    "slug": "matej-szaraz",
+    "displayName": "Matej SZÁRAZ",
+    "givenName": "Matej",
+    "familyName": "Száraz",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-matus-kroslak",
+    "slug": "matus-kroslak",
+    "displayName": "Matúš KROŠLÁK, Mgr.",
+    "givenName": "Matúš",
+    "familyName": "Krošlák",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-mikulas-dunda",
+    "slug": "mikulas-dunda",
+    "displayName": "Mikuláš DUNDA, Ing., MPH",
+    "givenName": "Mikuláš",
+    "familyName": "Dunda",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "MPH"
+  },
+  {
+    "id": "nsk-milan-biro",
+    "slug": "milan-biro",
+    "displayName": "Milan BÍRO",
+    "givenName": "Milan",
+    "familyName": "Bíro",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-milos-dovicovic",
+    "slug": "milos-dovicovic",
+    "displayName": "Miloš DOVIČOVIČ, Ing.",
+    "givenName": "Miloš",
+    "familyName": "Dovičovič",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-milos-macho",
+    "slug": "milos-macho",
+    "displayName": "Miloš MACHO, Ing.",
+    "givenName": "Miloš",
+    "familyName": "Macho",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-miloslav-hatala",
+    "slug": "miloslav-hatala",
+    "displayName": "Miloslav HATALA, Ing.",
+    "givenName": "Miloslav",
+    "familyName": "Hatala",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-miloslav-spotak",
+    "slug": "miloslav-spotak",
+    "displayName": "Miloslav ŠPOTÁK, Mgr.",
+    "givenName": "Miloslav",
+    "familyName": "Špoták",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-miroslav-gut",
+    "slug": "miroslav-gut",
+    "displayName": "Miroslav GUT, Ing.",
+    "givenName": "Miroslav",
+    "familyName": "Gut",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-miroslav-horniak",
+    "slug": "miroslav-horniak",
+    "displayName": "Miroslav HORNIAK",
+    "givenName": "Miroslav",
+    "familyName": "Horniak",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-miroslav-maly",
+    "slug": "miroslav-maly",
+    "displayName": "Miroslav MALÝ",
+    "givenName": "Miroslav",
+    "familyName": "Malý",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-monika-maliskova",
+    "slug": "monika-maliskova",
+    "displayName": "Monika MALIŠKOVÁ, Ing.",
+    "givenName": "Monika",
+    "familyName": "Mališková",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-norbert-miklas",
+    "slug": "norbert-miklas",
+    "displayName": "Norbert MIKLÁŠ",
+    "givenName": "Norbert",
+    "familyName": "Mikláš",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-ondrej-durica",
+    "slug": "ondrej-durica",
+    "displayName": "Ondrej ĎURICA",
+    "givenName": "Ondrej",
+    "familyName": "Ďurica",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-ondrej-sedivy",
+    "slug": "ondrej-sedivy",
+    "displayName": "Ondrej ŠEDIVÝ, MUDr.",
+    "givenName": "Ondrej",
+    "familyName": "Šedivý",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "MUDr."
+  },
+  {
+    "id": "nsk-patricia-dimov",
+    "slug": "patricia-dimov",
+    "displayName": "Patrícia DIMOV",
+    "givenName": "Patrícia",
+    "familyName": "Dimov",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-patrik-trubini",
+    "slug": "patrik-trubini",
+    "displayName": "Patrik TRUBÍNI",
+    "givenName": "Patrik",
+    "familyName": "Trubíni",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-paulina-simoncicova",
+    "slug": "paulina-simoncicova",
+    "displayName": "Paulína ŠIMONČIČOVÁ",
+    "givenName": "Paulína",
+    "familyName": "Šimončičová",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-pavel-varga",
+    "slug": "pavel-varga",
+    "displayName": "Pavel VARGA",
+    "givenName": "Pavel",
+    "familyName": "Varga",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-pavol-deglovic",
+    "slug": "pavol-deglovic",
+    "displayName": "Pavol DEGLOVIČ",
+    "givenName": "Pavol",
+    "familyName": "Deglovič",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-pavol-lehotak",
+    "slug": "pavol-lehotak",
+    "displayName": "Pavol LEHOŤÁK, Ing.",
+    "givenName": "Pavol",
+    "familyName": "Lehoťák",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-pavol-obertas",
+    "slug": "pavol-obertas",
+    "displayName": "Pavol OBERTÁŠ",
+    "givenName": "Pavol",
+    "familyName": "Obertáš",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-pavol-pipiska",
+    "slug": "pavol-pipiska",
+    "displayName": "Pavol PIPIŠKA",
+    "givenName": "Pavol",
+    "familyName": "Pipiška",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-pavol-zamecnik",
+    "slug": "pavol-zamecnik",
+    "displayName": "Pavol ZÁMEČNÍK, Mgr.",
+    "givenName": "Pavol",
+    "familyName": "Zámečník",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-peter-bakay",
+    "slug": "peter-bakay",
+    "displayName": "Peter BAKAY, Ing.",
+    "givenName": "Peter",
+    "familyName": "Bakay",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-peter-bihari",
+    "slug": "peter-bihari",
+    "displayName": "Peter BIHARI",
+    "givenName": "Peter",
+    "familyName": "Bihari",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-peter-chudy",
+    "slug": "peter-chudy",
+    "displayName": "Peter CHUDÝ, Mgr.",
+    "givenName": "Peter",
+    "familyName": "Chudý",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-peter-kellner",
+    "slug": "peter-kellner",
+    "displayName": "Peter KELLNER, JUDr.",
+    "givenName": "Peter",
+    "familyName": "Kellner",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "JUDr."
+  },
+  {
+    "id": "nsk-peter-kisska",
+    "slug": "peter-kisska",
+    "displayName": "Peter KIŠŠKA, MUDr., PhD., MPH",
+    "givenName": "Peter",
+    "familyName": "Kišška",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "MUDr.",
+    "titlesAfter": "PhD., MPH"
+  },
+  {
+    "id": "nsk-peter-kostal",
+    "slug": "peter-kostal",
+    "displayName": "Peter KOŠŤÁL, Ing., PhD.",
+    "givenName": "Peter",
+    "familyName": "Košťál",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-peter-lukacik",
+    "slug": "peter-lukacik",
+    "displayName": "Peter LUKÁČIK, Mgr.",
+    "givenName": "Peter",
+    "familyName": "Lukáčik",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-peter-mezei",
+    "slug": "peter-mezei",
+    "displayName": "Peter MEZEI, Ing., Ing. arch.",
+    "givenName": "Peter",
+    "familyName": "Mezei",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "Ing. arch."
+  },
+  {
+    "id": "nsk-peter-oremus",
+    "slug": "peter-oremus",
+    "displayName": "Peter OREMUS, Ing., PhD.",
+    "givenName": "Peter",
+    "familyName": "Oremus",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-peter-peciar",
+    "slug": "peter-peciar",
+    "displayName": "Peter PECIAR",
+    "givenName": "Peter",
+    "familyName": "Peciar",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-peter-polak-50",
+    "slug": "peter-polak-50",
+    "displayName": "Peter POLÁK",
+    "givenName": "Peter",
+    "familyName": "Polák",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-peter-polak-52",
+    "slug": "peter-polak-52",
+    "displayName": "Peter POLÁK, Ing., PhD.",
+    "givenName": "Peter",
+    "familyName": "Polák",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-peter-pukan",
+    "slug": "peter-pukan",
+    "displayName": "Peter PUKAN, Ing.",
+    "givenName": "Peter",
+    "familyName": "Pukan",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-peter-urban",
+    "slug": "peter-urban",
+    "displayName": "Peter URBÁN, Ing.",
+    "givenName": "Peter",
+    "familyName": "Urbán",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-petra-ajdariova",
+    "slug": "petra-ajdariova",
+    "displayName": "Petra AJDARIOVÁ, Mgr.",
+    "givenName": "Petra",
+    "familyName": "Ajdariová",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-petra-grebacova",
+    "slug": "petra-grebacova",
+    "displayName": "Petra GREBÁČOVÁ",
+    "givenName": "Petra",
+    "familyName": "Grebáčová",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-rastislav-hazucha",
+    "slug": "rastislav-hazucha",
+    "displayName": "Rastislav HAZUCHA, Ing., MPH, MBA",
+    "givenName": "Rastislav",
+    "familyName": "Hazucha",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "MPH, MBA"
+  },
+  {
+    "id": "nsk-regina-vitekova",
+    "slug": "regina-vitekova",
+    "displayName": "Regina VÍTEKOVÁ, Ing.",
+    "givenName": "Regina",
+    "familyName": "Víteková",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-renata-farmadinova",
+    "slug": "renata-farmadinova",
+    "displayName": "Renáta FARMADINOVÁ",
+    "givenName": "Renáta",
+    "familyName": "Farmadinová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-richard-turanovic",
+    "slug": "richard-turanovic",
+    "displayName": "Richard TURANOVIČ",
+    "givenName": "Richard",
+    "familyName": "Turanovič",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-robert-ambra",
+    "slug": "robert-ambra",
+    "displayName": "Róbert AMBRA, Ing., PhD.",
+    "givenName": "Róbert",
+    "familyName": "Ambra",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-robert-hipp",
+    "slug": "robert-hipp",
+    "displayName": "Róbert HIPP, JUDr., MBA, LL.M.",
+    "givenName": "Róbert",
+    "familyName": "Hipp",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "JUDr.",
+    "titlesAfter": "MBA, LL.M."
+  },
+  {
+    "id": "nsk-robert-miklos",
+    "slug": "robert-miklos",
+    "displayName": "Róbert MIKLOŠ, Mgr.",
+    "givenName": "Róbert",
+    "familyName": "Mikloš",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-robert-svec",
+    "slug": "robert-svec",
+    "displayName": "Róbert ŠVEC, Mgr.",
+    "givenName": "Róbert",
+    "familyName": "Švec",
+    "sourceIds": [
+      "nsk-chair-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-robert-zilik",
+    "slug": "robert-zilik",
+    "displayName": "Róbert ŽILÍK, PaedDr.",
+    "givenName": "Róbert",
+    "familyName": "Žilík",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "PaedDr."
+  },
+  {
+    "id": "nsk-roman-agh",
+    "slug": "roman-agh",
+    "displayName": "Roman ÁGH, Ing., MBA",
+    "givenName": "Roman",
+    "familyName": "Ágh",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "nsk-roman-bogdanov",
+    "slug": "roman-bogdanov",
+    "displayName": "Roman BOGDANOV",
+    "givenName": "Roman",
+    "familyName": "Bogdanov",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-romana-strizova",
+    "slug": "romana-strizova",
+    "displayName": "Romana STRÍŽOVÁ",
+    "givenName": "Romana",
+    "familyName": "Strížová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-rudolf-olach",
+    "slug": "rudolf-olach",
+    "displayName": "Rudolf OLACH",
+    "givenName": "Rudolf",
+    "familyName": "Olach",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-simona-farnadyova",
+    "slug": "simona-farnadyova",
+    "displayName": "Simona FARNADYOVÁ, Ing.",
+    "givenName": "Simona",
+    "familyName": "Farnadyová",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-slavomir-balis",
+    "slug": "slavomir-balis",
+    "displayName": "Slavomír BALIŠ",
+    "givenName": "Slavomír",
+    "familyName": "Bališ",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-slavomir-papp",
+    "slug": "slavomir-papp",
+    "displayName": "Slavomír PAPP",
+    "givenName": "Slavomír",
+    "familyName": "Papp",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-stefan-bagin",
+    "slug": "stefan-bagin",
+    "displayName": "Štefan BAGIN",
+    "givenName": "Štefan",
+    "familyName": "Bagin",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-stefan-korman",
+    "slug": "stefan-korman",
+    "displayName": "Štefan KORMAN, Ing., MBA",
+    "givenName": "Štefan",
+    "familyName": "Korman",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "nsk-stefan-kosovan",
+    "slug": "stefan-kosovan",
+    "displayName": "Štefan KOŠOVAN, Ing., PhD.",
+    "givenName": "Štefan",
+    "familyName": "Košovan",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-stefan-polacik",
+    "slug": "stefan-polacik",
+    "displayName": "Štefan POLAČIK",
+    "givenName": "Štefan",
+    "familyName": "Polačik",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-stefan-stefek",
+    "slug": "stefan-stefek",
+    "displayName": "Štefan ŠTEFEK, Ing.",
+    "givenName": "Štefan",
+    "familyName": "Štefek",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-svorad-petruska",
+    "slug": "svorad-petruska",
+    "displayName": "Svorad PETRUŠKA, JUDr.",
+    "givenName": "Svorad",
+    "familyName": "Petruška",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "JUDr."
+  },
+  {
+    "id": "nsk-tibor-csenger",
+    "slug": "tibor-csenger",
+    "displayName": "Tibor CSENGER, Ing.",
+    "givenName": "Tibor",
+    "familyName": "Csenger",
+    "sourceIds": [
+      "nsk-chair-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-tibor-danac",
+    "slug": "tibor-danac",
+    "displayName": "Tibor DANÁČ, Ing.",
+    "givenName": "Tibor",
+    "familyName": "Danáč",
+    "sourceIds": [
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-tibor-gaspar",
+    "slug": "tibor-gaspar",
+    "displayName": "Tibor GAŠPAR, PaedDr.",
+    "givenName": "Tibor",
+    "familyName": "Gašpar",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "PaedDr."
+  },
+  {
+    "id": "nsk-tibor-zapletal",
+    "slug": "tibor-zapletal",
+    "displayName": "Tibor ZAPLETAL",
+    "givenName": "Tibor",
+    "familyName": "Zapletal",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ]
+  },
+  {
+    "id": "nsk-tomas-kralik",
+    "slug": "tomas-kralik",
+    "displayName": "Tomáš KRÁLIK, Mgr.",
+    "givenName": "Tomáš",
+    "familyName": "Králik",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-tomas-svoren",
+    "slug": "tomas-svoren",
+    "displayName": "Tomáš SVOREŇ, Bc.",
+    "givenName": "Tomáš",
+    "familyName": "Svoreň",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Bc."
+  },
+  {
+    "id": "nsk-veronika-gabcikova",
+    "slug": "veronika-gabcikova",
+    "displayName": "Veronika GABČÍKOVÁ, Mgr. art.",
+    "givenName": "Veronika",
+    "familyName": "Gabčíková",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr. art."
+  },
+  {
+    "id": "nsk-viktor-nemeth",
+    "slug": "viktor-nemeth",
+    "displayName": "Viktor NÉMETH, Mgr.",
+    "givenName": "Viktor",
+    "familyName": "Németh",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-vladimir-vnuk",
+    "slug": "vladimir-vnuk",
+    "displayName": "Vladimír VNUK, Ing.",
+    "givenName": "Vladimír",
+    "familyName": "Vnuk",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "nsk-vladislav-borik",
+    "slug": "vladislav-borik",
+    "displayName": "Vladislav BORÍK, Ing., PhD.",
+    "givenName": "Vladislav",
+    "familyName": "Borík",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "nsk-vojtech-fray",
+    "slug": "vojtech-fray",
+    "displayName": "Vojtech FRAY, Mgr.",
+    "givenName": "Vojtech",
+    "familyName": "Fray",
+    "sourceIds": [
+      "nr-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-zdenko-svoboda",
+    "slug": "zdenko-svoboda",
+    "displayName": "Zdenko SVOBODA, Mgr.",
+    "givenName": "Zdenko",
+    "familyName": "Svoboda",
+    "sourceIds": [
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "nsk-zuzana-uhrikova",
+    "slug": "zuzana-uhrikova",
+    "displayName": "Zuzana UHRÍKOVÁ, Ing.",
+    "givenName": "Zuzana",
+    "familyName": "Uhríková",
+    "sourceIds": [
+      "nr-mayor-roster-2026",
+      "nr-council-roster-2026",
+      "nsk-council-district3-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  }
+]

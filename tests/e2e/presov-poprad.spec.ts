@@ -20,14 +20,15 @@ test('event sections show the original reported event next to the response', asy
   await expect(section).toContainText('odvolať');
 });
 
-test('homepage nests the seven cities under their region and year in Slovak order', async ({ page }) => {
+test('homepage nests the eleven cities under six regions in Slovak order', async ({ page }) => {
   await page.goto('/');
   await expect(page.getByRole('heading', { level: 1 })).toHaveCount(1);
   const groups = page.locator('main .region-year-catalogue');
-  await expect(groups).toHaveCount(2);
-  await expect(groups.locator('h2')).toHaveText(['Prešovský samosprávny kraj — 2026', 'Žilinský samosprávny kraj — 2026']);
-  await expect(groups.locator('h3')).toHaveText(['Mestá', 'Mestá']);
-  await expect(groups.first().locator('.city-year-catalogue a')).toHaveText(['Poprad — 2026', 'Prešov — 2026']);
+  await expect(groups).toHaveCount(6);
+  await expect(groups.locator('h2')).toHaveText(['Banskobystrický samosprávny kraj — 2026', 'Nitriansky samosprávny kraj — 2026', 'Prešovský samosprávny kraj — 2026', 'Trenčiansky samosprávny kraj — 2026', 'Trnavský samosprávny kraj — 2026', 'Žilinský samosprávny kraj — 2026']);
+  await expect(groups.locator('h3')).toHaveText(Array(6).fill('Mestá'));
+  await expect(groups.locator('.city-year-catalogue a')).toHaveCount(11);
+  await expect(groups.filter({ has: page.locator('h2 a[href="/presovsky-kraj/2026/"]') }).locator('.city-year-catalogue a')).toHaveText(['Poprad — 2026', 'Prešov — 2026']);
   await expect(groups.last().locator('.city-year-catalogue a')).toHaveCount(5);
 });
 

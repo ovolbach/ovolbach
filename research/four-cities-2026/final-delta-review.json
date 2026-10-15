@@ -1,0 +1,271 @@
+{
+  "reviewer": "/root/trnava_research",
+  "reviewedAt": "2026-10-15T15:22:39.943151+00:00",
+  "role": "Independent read-only final bounded release delta review",
+  "worktree": "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/four-cities-2026",
+  "base": "07dbcae",
+  "scope": {
+    "comparisonSnapshot": {
+      "file": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/root-final-export-independent-review.json",
+      "SHA256": "9470a993637b56f8ee37c0afcb0c2bf984c4b9cf514f1afd0f5a5b86c4fc3f46"
+    },
+    "externalRequests": 0,
+    "workingTreeMutations": false,
+    "broaderResearchRepeated": false
+  },
+  "totals": {
+    "people": 546,
+    "officialCandidacies": 712,
+    "claims": 1671,
+    "coverage": 4368,
+    "found": 1724,
+    "searchedNone": 2644,
+    "pending": 0,
+    "finance": 546,
+    "globalSources": 2621
+  },
+  "deltaIntegrity": {
+    "previousFilesCompared": 51,
+    "changedFiles": [
+      {
+        "file": "src/data/elections/2026/trnavsky-kraj/municipalities/trnava/config.json",
+        "beforeSHA256": "5d44702b1a53861e8deaf9c8316de2e03a8e7c0738b6e430de2f950b43d95c4d",
+        "afterSHA256": "855e66be3f3344a88fc6520a9b94ac223c1b0dbedf690a71e9c5bcfb6527b013"
+      },
+      {
+        "file": "src/data/elections/2026/trenciansky-kraj/campaign-finance-parties.json",
+        "beforeSHA256": "ac360f39201667b1504c799759c21de6c42848b37fde99bda536e00b41baf29c",
+        "afterSHA256": "8080bf616be1a260f7d85f9038cfddf991f6fb29bd794c915cca47c3d5c87667"
+      },
+      {
+        "file": "src/data/elections/2026/trenciansky-kraj/municipalities/trencin/config.json",
+        "beforeSHA256": "7c4560b217e0a7a4fb8ceec316d3d17e92ddb3eb959477bf879d539d291ebfff",
+        "afterSHA256": "b9a1a242982c26b50dcee0a51a255e334b6da36485b89bf1ef4a90b77d1c4b3a"
+      },
+      {
+        "file": "research/trencin-2026.json",
+        "beforeSHA256": "050756f1556888ec77ba22a76223d7fb1d605a6168f2bc5dc5ef871eba0a8d3e",
+        "afterSHA256": "2e9b16014120741d985b79bfa5a24caa4e95de70a63c651c236116b585ab2a8e"
+      },
+      {
+        "file": "src/data/elections/2026/nitriansky-kraj/municipalities/nitra/config.json",
+        "beforeSHA256": "9e59b725e7d374daad0ddd763ef49aace312360c92ddb876e6091b4e37359dd0",
+        "afterSHA256": "c1aa89eff84a2dc48d02f85e42b8fd022f4a2764d4ad36c4e54fdd627ba02bc1"
+      },
+      {
+        "file": "src/data/elections/2026/banskobystricky-kraj/districts.json",
+        "beforeSHA256": "4175709ecadfa6bfef417dddb9106f32c3adb59c9ed8010e202dc4c70abeeafd",
+        "afterSHA256": "f352278ff80dcdd42dd8f71fbe766af9b9f8785306c4d1c80e905fec69d5a170"
+      },
+      {
+        "file": "src/data/elections/2026/banskobystricky-kraj/municipalities/banska-bystrica/config.json",
+        "beforeSHA256": "e421885b1ce057af479607846ec77faa2353c24af1c0df494b75c2a9c5570fe6",
+        "afterSHA256": "64af7495c616e6e6c9562bfc49fd53f602fa1bffbabefeedb8baaee15b69a21a"
+      },
+      {
+        "file": "research/banska-bystrica-2026.json",
+        "beforeSHA256": "d6eafbb2783ce1dfd4142c806700958543d7894122da086dcb302af21b05afe8",
+        "afterSHA256": "1570a92f8ad2ce28725b86febcecd51e9aef2451554b809c11a5ca2bb5122f56"
+      }
+    ],
+    "unchangedCoreFiles": 20,
+    "coreCountsAndPriorRosterCoverageAuditRemainApplicable": true,
+    "manifestChecks": [
+      {
+        "file": "research/four-cities-2026/data-manifest.json",
+        "SHA256": "34031126b4f7a9b4f8cffaa6ec744a178b00929e60115353840f6167c5720699",
+        "entries": 41,
+        "hashErrors": []
+      },
+      {
+        "file": "research/four-cities-2026/evidence-manifest.json",
+        "SHA256": "ff1f8a6b8e19cf977df383b600a09668fde65f6aa9fa98a797d8896eaa634b0f",
+        "entries": 30,
+        "hashErrors": []
+      }
+    ],
+    "privateJournalHashChecks": [
+      {
+        "file": "research/trnava-2026.json",
+        "SHA256": "31d012926fcd009ac50be6bf865e97f4a212a70982e3dd462b379c7b82bb64e6",
+        "privateJournalSHA256": "27d66112683b4870010039a5f89fa496633fa8aa914d4ea78851d3e6159a9015",
+        "declaredMatches": true
+      },
+      {
+        "file": "research/trencin-2026.json",
+        "SHA256": "2e9b16014120741d985b79bfa5a24caa4e95de70a63c651c236116b585ab2a8e",
+        "privateJournalSHA256": "ac8ae5ff07aa3de6b329afc47aebfd2cc0db129b2d04a1d974e32610b2de8348",
+        "declaredMatches": true
+      },
+      {
+        "file": "research/nitra-2026.json",
+        "SHA256": "32f1ad347c6588e1444870c2907567b3695480fa5b54a491609f9e566287f88b",
+        "privateJournalSHA256": "2ad2038c0304ee051c9c6712ff4dd4923b4a89141bb4ebba7ba4966cfc9d4629",
+        "declaredMatches": true
+      },
+      {
+        "file": "research/banska-bystrica-2026.json",
+        "SHA256": "1570a92f8ad2ce28725b86febcecd51e9aef2451554b809c11a5ca2bb5122f56",
+        "privateJournalSHA256": "56414d547d659696cb2f30db2a236d9f796c091a2d81ec23d34fa00041122fec",
+        "declaredMatches": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "id": "BB-polling-79",
+      "result": "pass",
+      "evidence": "Independently viewed all four official PDF page renders and enlarged row17. Explicit ward headers yield station groups1–12,13–18,19–41,42–47,48–64,65–72,73–79. Each current district station equals corresponding captured official row;79unique stations, no extrapolated coverage.",
+      "specifics": [
+        "Row17 Boženy Němcovej preserves the visually verified Czech caron.",
+        "Row21 Ďumbier17 follows the original rather than adjacent-row spelling.",
+        "Row59 covers only its own six printed streets.",
+        "Skuteckého8 already appears in original rows5–7; later unnumbered relocation notice does not justify invented station mapping."
+      ],
+      "originalPDFSHA256": "d38648e6b86678510dbf9f7f068c0a5ed8ce7212a47953a6a985ec8077facf52",
+      "stationJSONSHA256": "80841ffdacdf95265acd136481f2d85861ec2c36cd3f4aae52bc3be6d2b6650e"
+    },
+    {
+      "id": "TN-party-URL-trim",
+      "result": "pass",
+      "evidence": "Read independent whitespace review and actual official MV HTML bytes. Both current URLs exactly equal original literal href after outer whitespace stripping. Interior URL, fragment and account identifier unchanged; no constructed bank URL.",
+      "officialBodySHA256": "4dbc28a6ed48988ff124b01f8ead3e0bbd5353b1e45ba2375afc386da715ece2"
+    },
+    {
+      "id": "published-contexts-and-dates",
+      "result": "pass",
+      "evidence": "All four new city manifests published.11published municipal contexts and6regional contexts. Fresh built homepage/methodology/sources snapshot2026-10-15; LiptovskýMikuláš city snapshot2026-10-04 preserved. No new UI/API behavior delta."
+    },
+    {
+      "id": "TN-private-journal-refresh",
+      "result": "pass",
+      "evidence": "Current raw journalSHAac8ae5ff07aa3de6b329afc47aebfd2cc0db129b2d04a1d974e32610b2de8348 matches exported privacy metadata. Compared with frozen reviewed raw journal: only finalPartyUrlNormalization added. Existing22canonical source-ID aliases remain verified as same official URL."
+    },
+    {
+      "id": "test-final-delta",
+      "result": "pass",
+      "evidence": "Runtime fixture readFileSync with type-only JSON import is valid; independent Playwright test discovery exited0 with24cases. Comparison count8 scopes table, whose existing mobile parallel rendering also has8rows. It preserves exact category assertion. Six-region/eleven-city expectations and global15/LM04 dates match current data. Timeout-only generated-copy test change retains assertion."
+    },
+    {
+      "id": "package-and-city-audits",
+      "result": "pass",
+      "evidence": "All41data-manifest and30evidence-manifest hashes match.34JSON package files include4separate index/checker artifacts outside own evidence list. Independently scanned all34for private identifiers/full birth dates/labelled private addresses/contact fields and long copied content:0issues. Read four city audit summaries; counts, bounded-search definitions and independent automated-review limits match evidence."
+    },
+    {
+      "id": "official-recheck-proof-boundary",
+      "result": "pass",
+      "evidence": "Reproduced SHA match for all16local roster PDFs and4national workbooks in current final capture and prior receipts. Report correctly confines identical-body claim to these20originals; it does not assert all56fresh HTML/report receipts are byte-identical."
+    }
+  ],
+  "technicalEvidence": {
+    "unit": {
+      "status": "passed",
+      "files": 63,
+      "tests": 520,
+      "evidence": "Read fresh15:05:54 unit log; did not rerun parent full gate."
+    },
+    "releaseValidation": {
+      "status": "passed",
+      "cycles": 6,
+      "contexts": 11,
+      "published": 11,
+      "regional": 6,
+      "issues": 0
+    },
+    "buildStatic": {
+      "status": "passed_in_inspected_parent_logs",
+      "indexedCanonicalPages": 1379,
+      "validatedHTMLFiles": 1397,
+      "htmlErrors": 0,
+      "htmlWarnings": 0
+    },
+    "e2e": {
+      "isolatedAXERecheck": "1passed35.1s with1worker120s timeout",
+      "fullSuite": "in progress at review time; inspected live log running294tests under2workers120s timeout without final result. No full E2E pass claimed.",
+      "boundary": "Browser gate completion remains root responsibility; no open code/data finding inferred from earlier AXE30s timeout."
+    },
+    "logHashes": {
+      "/tmp/four-cities-release-unit.log": "7eca2310ada137f942913205283e2d7dd6b7c58e3f3029bf5e32f01c10a47596",
+      "/tmp/four-cities-axe-isolated-recheck.log": "4968fc777b92f4cb3f183417177ab77dcf1df1d76945c7478547484d0e54bb68",
+      "/tmp/four-cities-release-validate-release.log": "20ce58bb5e0f13fce0445c5a173424c1039ebabfeffffc1f8fc013b727ce3bd0",
+      "/tmp/four-cities-release-validate-data.log": "3830c8f9fb39d4f44864e068db08e83e98490a358d4fccd1fe96018ee9ff7b8a",
+      "/tmp/four-cities-release-build.log": "289d6a718af03170bb082b52df42cbfa62a038dfc6af52ea9fc6b0a488e1387d",
+      "/tmp/four-cities-release-check-seo.log": "8f8a82b6de0ec99327c76be812744a860b82047b7fe3888b38f6de58a5ef6ed5",
+      "/tmp/four-cities-release-redirects.log": "2bca4fa8685528df3e6719bdfcec2b8af17f659f458f86d8bea5115f4798c3ff",
+      "/tmp/four-cities-release-html.log": "25d22ae017da49d48a14ba664e656e5e7ed9cba02c957670c18e0d42f0c8e77e"
+    }
+  },
+  "hashes": {
+    "src/data/elections/2026/trnavsky-kraj/campaign-finance-parties.json": "1eb5203f35c342469185e8fbda1130660f755ac7e69543d16b67552a22096a87",
+    "src/data/elections/2026/trnavsky-kraj/claims.json": "09eb4d049e0612d06a4a37dbc4f172787ddcea6ca5966e27a5cd87861db60feb",
+    "src/data/elections/2026/trnavsky-kraj/elections.json": "c8010485853d494c477d37f770581eb1e59f2ba78753367d0b98e60e415f164c",
+    "src/data/elections/2026/trnavsky-kraj/candidacies.json": "768b5449ae39eb05f186c93bd302d28ffa9ea76746c51787ae280b86f9fe4db1",
+    "src/data/elections/2026/trnavsky-kraj/campaign-finance.json": "2ed9b9bd6578a9229d4de745ffbecd39ad4a05e0397f01a87c09cc6c9fe09e09",
+    "src/data/elections/2026/trnavsky-kraj/districts.json": "2d93713bf4fd20078405ab9ded0e3119641ce0ec002f0594f8cfe7c4b8c9f3ef",
+    "src/data/elections/2026/trnavsky-kraj/candidates.json": "cdcd94766c4864c52a3fad6c23d47268157301cb6715039aa042eff888921660",
+    "src/data/elections/2026/trnavsky-kraj/research-coverage.json": "0a18bdb80e56678e304b01757096122da6fbe237ea615875c14bd7ec56234bcd",
+    "src/data/elections/2026/trnavsky-kraj/regional/config.json": "bf91a00f57a8a7cc7505a1c9e7dc810e51eef57b37b650c3b0d94617653ba6c1",
+    "src/data/elections/2026/trnavsky-kraj/municipalities/trnava/config.json": "855e66be3f3344a88fc6520a9b94ac223c1b0dbedf690a71e9c5bcfb6527b013",
+    "research/trnava-2026.json": "31d012926fcd009ac50be6bf865e97f4a212a70982e3dd462b379c7b82bb64e6",
+    "research/trnava-2026-roster.json": "5eb02b8fd24fcadd47f2cc3474c8293ddf2626036e42e8ee93efd4dc76901906",
+    "src/data/elections/2026/trenciansky-kraj/campaign-finance-parties.json": "8080bf616be1a260f7d85f9038cfddf991f6fb29bd794c915cca47c3d5c87667",
+    "src/data/elections/2026/trenciansky-kraj/claims.json": "41d501980dc1ca5d12695171375b6d3b3bda5c4b5fa41f42d50f609b0e43c927",
+    "src/data/elections/2026/trenciansky-kraj/elections.json": "e626e544144c042ea2e7361e53cf8e2b0051106c31510e9b05ef488aa915dc28",
+    "src/data/elections/2026/trenciansky-kraj/candidacies.json": "97f001ca545ba7038f58d17dee77af79a7a10f86a43946b4377fef7feda87301",
+    "src/data/elections/2026/trenciansky-kraj/campaign-finance.json": "5c4e333d0e499f034a981b4be000a5848cf0e61217d0ff4d6ae9a1d1b599d5fa",
+    "src/data/elections/2026/trenciansky-kraj/districts.json": "ed5f4582bc114b01489effafac258f0bda1a63b19e839162eaafff9b8a05963f",
+    "src/data/elections/2026/trenciansky-kraj/candidates.json": "de836dc4a32f4ab5c795ccb2a480db63d054dfabc99059f33c427702311bad3a",
+    "src/data/elections/2026/trenciansky-kraj/research-coverage.json": "a98d3e595a3b005d4949f14aad4f46a0138b10a84966ee058db15df28830be70",
+    "src/data/elections/2026/trenciansky-kraj/regional/config.json": "ac3e06f89f514b2d290d6c84d538026b9764f7ce8f6ba39a7082377d06e0ca52",
+    "src/data/elections/2026/trenciansky-kraj/municipalities/trencin/config.json": "b9a1a242982c26b50dcee0a51a255e334b6da36485b89bf1ef4a90b77d1c4b3a",
+    "research/trencin-2026.json": "2e9b16014120741d985b79bfa5a24caa4e95de70a63c651c236116b585ab2a8e",
+    "research/trencin-2026-roster.json": "e537eee52bfcaa1c6af342949bd2947cd5bf89216fc2e458774ec35ba6b354ad",
+    "src/data/elections/2026/nitriansky-kraj/campaign-finance-parties.json": "528938410b9cfee4036cd8e949ee7e8063cc4df95263808113974f1e8a0fda3c",
+    "src/data/elections/2026/nitriansky-kraj/claims.json": "79653128b73c19e1b7e2dc33cc88b7ebfd08ecdb86aaa234861360ae8336c934",
+    "src/data/elections/2026/nitriansky-kraj/elections.json": "236642d204d8031ee4228a344757701e995c64e333433a33c43a0b8c84261460",
+    "src/data/elections/2026/nitriansky-kraj/candidacies.json": "b00512c90beeff352fd9538d5e4baf38d1017992ca7d79a3730e5668a14aa889",
+    "src/data/elections/2026/nitriansky-kraj/campaign-finance.json": "06198641f2d9651f2dc2bd508af75165135037906ab4248f2092aaf6388a61e2",
+    "src/data/elections/2026/nitriansky-kraj/districts.json": "3394ef62da198cff2179a1a2e2c8a9adbfdfaff7cc8476b1549d9bb118e025ef",
+    "src/data/elections/2026/nitriansky-kraj/candidates.json": "1ab7cee6ef1032c67a1cb8e29ebdfeeaadb5f798afd415ddbdaefdca3dbd4d0f",
+    "src/data/elections/2026/nitriansky-kraj/research-coverage.json": "548cd819466eeaee831af93e2d432acb7e55a08c21dcdb65b0a6d6b16acd69d0",
+    "src/data/elections/2026/nitriansky-kraj/regional/config.json": "45c3761552cc9751b887fe95c0e1f49b59ef7a48298d97baf4324b13e9820e4d",
+    "src/data/elections/2026/nitriansky-kraj/municipalities/nitra/config.json": "c1aa89eff84a2dc48d02f85e42b8fd022f4a2764d4ad36c4e54fdd627ba02bc1",
+    "research/nitra-2026.json": "32f1ad347c6588e1444870c2907567b3695480fa5b54a491609f9e566287f88b",
+    "research/nitra-2026-roster.json": "fcc5cd757caed9e9f61bf30fddc1724fe11ab1bffc695aef7094b0307c4a93d5",
+    "src/data/elections/2026/banskobystricky-kraj/campaign-finance-parties.json": "4d200eedaf3966e821a0bf1353cb9eeedf31d18a961b562ea8a2d73ee7f09fb0",
+    "src/data/elections/2026/banskobystricky-kraj/claims.json": "70990aef8f0923e0379e8ad63c599a9e5ce320f1ca7d1a3ba871a9ce0ff6fdd4",
+    "src/data/elections/2026/banskobystricky-kraj/elections.json": "e7b765a877de60336de8ddd16020270627188d0edf99dd0a3cf94e752673d23b",
+    "src/data/elections/2026/banskobystricky-kraj/candidacies.json": "6611a65b68a4ef09e9eee047e1887ed141daf16568c893316b0d9b9bf04c7a62",
+    "src/data/elections/2026/banskobystricky-kraj/campaign-finance.json": "8811529af84be2b8a83add473d3cffa4de1bf7b10eadeb0908100a6dd3e8e69d",
+    "src/data/elections/2026/banskobystricky-kraj/districts.json": "f352278ff80dcdd42dd8f71fbe766af9b9f8785306c4d1c80e905fec69d5a170",
+    "src/data/elections/2026/banskobystricky-kraj/candidates.json": "42d221a4f36ca22423c61cfc971a4c040f36856288f16abfcb584c50dc01e171",
+    "src/data/elections/2026/banskobystricky-kraj/research-coverage.json": "1db3746b00641907d5231c23701d01c774c7f32d6b086d3531568efe175950b8",
+    "src/data/elections/2026/banskobystricky-kraj/regional/config.json": "3abde514fb2bfa44c09c3c0baefcdeff9b50aebc18c6200ab4a7cff42c8dab7f",
+    "src/data/elections/2026/banskobystricky-kraj/municipalities/banska-bystrica/config.json": "64af7495c616e6e6c9562bfc49fd53f602fa1bffbabefeedb8baaee15b69a21a",
+    "research/banska-bystrica-2026.json": "1570a92f8ad2ce28725b86febcecd51e9aef2451554b809c11a5ca2bb5122f56",
+    "research/banska-bystrica-2026-roster.json": "804a2fb97bda812df5927fbbd0360facf6726d4a1047d72edf80fff3dd578843",
+    "src/data/sources.json": "f6e40933f7154445ccdf25786cee81c442ee0e6405871a325c9e91edc278ae45",
+    "tests/fixtures/four-cities-2026-rosters.json": "a621e35336a7307c5db1051df17ba64fb2f9947df8b2d6d152fe24ebf636c4dc",
+    "tests/fixtures/four-cities-2026-preservation.json": "2f36f946bcfbbf04b4fff093f6482ae1881e5e5c75d1e6ff4f36d43265cbd138",
+    "src/lib/static-site-gates.ts": "1b81f5cfd51b28000a23abb074457e5615d783842be19a0c822404d68fcacf41",
+    "tests/e2e/four-cities-2026.spec.ts": "ef1d83deb1fe4df5dfcd1fc5e5a7d51a4a6be97c176a9400883e556d62617eef",
+    "tests/e2e/integration.spec.ts": "f88d707f23f74e4ffb250389037a0c2c52745a9beaf0872a88d2d292355b7916",
+    "tests/e2e/presov-poprad.spec.ts": "b037bd694de9584892c4a58557962c029dbba29c40b058d630e30eca04e4d5e4",
+    "tests/unit/election-context.test.ts": "829f67c80620c838946789091ead843e0514beb788a8a9ca3fb24cceaf1e7e45",
+    "tests/unit/no-generated-copy.test.ts": "3e89c8ab209dd84493b5676cceef2c77aad23c13d0c1ed348c1c674df090c458",
+    "tests/unit/four-cities-2026.test.ts": "a1409a922c32930189521850e9602a525685548b362a2ddcf8d796717f48c623",
+    "research/trnava-2026-audit.md": "d9c670a2ccaba010f22546411fabf2183ed9499502cd13d4b37634d7444618e8",
+    "research/trencin-2026-audit.md": "c7697ffe8bb1ff034bbf62f8add77a5571e6f340715ed8cfdeeed5af764c3949",
+    "research/nitra-2026-audit.md": "43d566755014a5bbaaabb2f4ee24fc7e8308021b036079b31567613775aa079e",
+    "research/banska-bystrica-2026-audit.md": "5848091ec9f26112b23a4c3385906811cc8bdd1cd7404c09375abea371d9db8b"
+  },
+  "supportingArtifacts": [
+    {
+      "file": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trnava/final-delta-evidence-package-scan.json",
+      "SHA256": "95e9a618b0811215a0fbe5a4add6998740a7a9f44d8549e08d074b691736c4ac"
+    }
+  ],
+  "findings": [],
+  "openFindings": 0,
+  "conclusion": "No substantive issue found in the bounded final delta. Prior independent source, identity, roster and export reviews remain applicable to unchanged core data. This review does not represent a completed full browser gate."
+}

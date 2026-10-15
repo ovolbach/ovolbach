@@ -1,0 +1,68 @@
+{
+  "checkedAt": "2026-10-15",
+  "proposalSha256Before": "60134343aaa8912774ad4e866e348c6dd23aac949e72d8a2a319ee4198056878",
+  "proposalSha256After": "7573772691a703673bf324df475b4b492729c8190ba7016b193aded8ae0489fe",
+  "finding": "Independent Nitra employment review: Vnuk PPA executive and section director are separate roles.",
+  "sourceId": "nr-employment-employment-vnuk-ministry-sk",
+  "originalSha256": "b21698385d9e0411fe6d8d037a16381e108fc63c302140ca6bbad59e0d86305b",
+  "resolution": "Separated two explicitly documented concurrent roles; source and identity evidence retained. Rephrased five source attributions without changing factual scope or historical boundaries.",
+  "changes": [
+    {
+      "id": "nr-employment-katarina-welnitzova-ukf-2008-2021",
+      "before": "Profesijný životopis zverejnený UCM v podkladoch habilitačného konania uvádza prácu odbornej asistentky na Katedre translatológie FF UKF v Nitre v období 2008 – jún 2021.",
+      "after": "Podklady habilitačného konania zverejnené UCM uvádzajú prácu Kataríny Welnitzovej ako odbornej asistentky na Katedre translatológie FF UKF v Nitre v období 2008 – jún 2021.",
+      "sourceIds": [
+        "nr-employment-employment-welnitzova-ucm-cv"
+      ]
+    },
+    {
+      "id": "nr-employment-katarina-welnitzova-ucm-2021-historicky",
+      "before": "Životopis v podkladoch habilitačného konania 2022 uvádza pôsobenie Kataríny Welnitzovej ako mimoriadnej docentky na Katedre anglistiky a amerikanistiky FF UCM od júla 2021. Ide o historický údaj životopisu, nie o potvrdenie aktuálneho pracovného pomeru.",
+      "after": "Podklady habilitačného konania z roku 2022 zverejnené UCM uvádzajú pôsobenie Kataríny Welnitzovej ako mimoriadnej docentky na Katedre anglistiky a amerikanistiky FF UCM od júla 2021. Ide o historický údaj, ktorý nepotvrdzuje aktuálny pracovný pomer.",
+      "sourceIds": [
+        "nr-employment-employment-welnitzova-ucm-cv"
+      ]
+    },
+    {
+      "id": "nr-employment-vladimir-vnuk-arv-2012-2016",
+      "before": "Oficiálna biografia MPRV SR uvádza, že Vladimír Vnuk bol v rokoch 2012 – 2016 riaditeľom Agentúry pre rozvoj vidieka.",
+      "after": "Oficiálna stránka MPRV SR uvádza, že Vladimír Vnuk bol v rokoch 2012 – 2016 riaditeľom Agentúry pre rozvoj vidieka.",
+      "sourceIds": [
+        "nr-employment-employment-vnuk-ministry-sk"
+      ]
+    },
+    {
+      "id": "nr-employment-vladimir-vnuk-ppa-2016-2021",
+      "before": "Oficiálna biografia MPRV SR uvádza pôsobenie Vladimíra Vnuka ako výkonného riaditeľa a riaditeľa Sekcie financovania podpôr a rozpočtu Pôdohospodárskej platobnej agentúry v období 2016 – 2021.",
+      "after": "Oficiálna stránka MPRV SR uvádza pôsobenie Vladimíra Vnuka ako výkonného riaditeľa Pôdohospodárskej platobnej agentúry v období 2016 – 2021.",
+      "sourceIds": [
+        "nr-employment-employment-vnuk-ministry-sk"
+      ]
+    },
+    {
+      "id": "nr-employment-viktor-nemeth-mib-2020-2022",
+      "before": "Oficiálna biografia mesta Vráble uvádza predchádzajúcu prácu Viktora Németha ako asistenta riaditeľa Metropolitného inštitútu Bratislavy v rokoch 2020 – 2022.",
+      "after": "Oficiálna stránka mesta Vráble uvádza predchádzajúcu prácu Viktora Németha ako asistenta riaditeľa Metropolitného inštitútu Bratislavy v rokoch 2020 – 2022.",
+      "sourceIds": [
+        "nr-employment-lead-0856"
+      ]
+    }
+  ],
+  "addedClaim": {
+    "id": "nr-employment-vladimir-vnuk-ppa-2016-2021-sekcia",
+    "candidateId": "nsk-vladimir-vnuk",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Práca a registrované funkcie"
+    },
+    "text": {
+      "sk": "Oficiálna stránka MPRV SR uvádza pôsobenie Vladimíra Vnuka ako riaditeľa Sekcie financovania podpôr a rozpočtu Pôdohospodárskej platobnej agentúry v období 2016 – 2021."
+    },
+    "period": "2016 – 2021",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "nr-employment-employment-vnuk-ministry-sk"
+    ]
+  }
+}

@@ -1,0 +1,5644 @@
+[
+  {
+    "id": "nsk-marek-hattas-finance-2026",
+    "candidateId": "nsk-marek-hattas",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Nitra",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "nr-mayor-roster-2026",
+          "nr-population-2026"
+        ],
+        "population": 78219
+      }
+    ],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana",
+      "nr-party-madarske-forum"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-marek-illes-finance-2026",
+    "candidateId": "nsk-marek-illes",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Nitra",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "nr-mayor-roster-2026",
+          "nr-population-2026"
+        ],
+        "population": 78219
+      }
+    ],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-sme-rodina",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "verified",
+      "verificationMethod": "candidate_site",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK3109000000005250367721",
+      "sourceIds": [
+        "nr-illes-programme-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Nitra",
+          "sourceIds": [
+            "nr-illes-programme-2026",
+            "nr-mayor-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "primátor mesta Nitra 2026",
+          "sourceIds": [
+            "nr-illes-programme-2026",
+            "nr-mayor-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        }
+      ],
+      "iban": "SK3109000000005250367721"
+    }
+  },
+  {
+    "id": "nsk-igor-krsiak-finance-2026",
+    "candidateId": "nsk-igor-krsiak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Nitra",
+        "independent": true,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "nr-mayor-roster-2026",
+          "nr-population-2026"
+        ],
+        "population": 78219
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "verified",
+      "verificationMethod": "candidate_site",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK1009000000005189469947",
+      "sourceIds": [
+        "nr-krsiak-programme-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Nitra",
+          "sourceIds": [
+            "nr-krsiak-programme-2026",
+            "nr-mayor-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "primátor mesta Nitra 2026",
+          "sourceIds": [
+            "nr-krsiak-programme-2026",
+            "nr-mayor-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        }
+      ],
+      "iban": "SK1009000000005189469947"
+    }
+  },
+  {
+    "id": "nsk-zuzana-uhrikova-finance-2026",
+    "candidateId": "nsk-zuzana-uhrikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Nitra",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "nr-mayor-roster-2026",
+          "nr-population-2026"
+        ],
+        "population": 78219
+      }
+    ],
+    "partyIds": [
+      "nr-party-republika",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-erik-duchon-finance-2026",
+    "candidateId": "nsk-erik-duchon",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-miroslav-gut-finance-2026",
+    "candidateId": "nsk-miroslav-gut",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jozef-horvath-finance-2026",
+    "candidateId": "nsk-jozef-horvath",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-marian-kukucka-finance-2026",
+    "candidateId": "nsk-marian-kukucka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-roman-agh-finance-2026",
+    "candidateId": "nsk-roman-agh",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana",
+      "nr-party-madarske-forum"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-stefan-bagin-finance-2026",
+    "candidateId": "nsk-stefan-bagin",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-bihari-finance-2026",
+    "candidateId": "nsk-peter-bihari",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-martin-bodis-finance-2026",
+    "candidateId": "nsk-martin-bodis",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-denisa-branikovicova-finance-2026",
+    "candidateId": "nsk-denisa-branikovicova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jaroslav-brezina-finance-2026",
+    "candidateId": "nsk-jaroslav-brezina",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-maria-cok-steinemannova-finance-2026",
+    "candidateId": "nsk-maria-cok-steinemannova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-juraj-duncic-finance-2026",
+    "candidateId": "nsk-juraj-duncic",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-vojtech-fray-finance-2026",
+    "candidateId": "nsk-vojtech-fray",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-marek-fuska-finance-2026",
+    "candidateId": "nsk-marek-fuska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-juraj-gajdos-finance-2026",
+    "candidateId": "nsk-juraj-gajdos",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jan-gresso-finance-2026",
+    "candidateId": "nsk-jan-gresso",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-kellner-finance-2026",
+    "candidateId": "nsk-peter-kellner",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-stefan-kosovan-finance-2026",
+    "candidateId": "nsk-stefan-kosovan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-katarina-kovacova-finance-2026",
+    "candidateId": "nsk-katarina-kovacova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-mezei-finance-2026",
+    "candidateId": "nsk-peter-mezei",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-robert-miklos-finance-2026",
+    "candidateId": "nsk-robert-miklos",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-maria-orsagova-finance-2026",
+    "candidateId": "nsk-maria-orsagova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-svorad-petruska-finance-2026",
+    "candidateId": "nsk-svorad-petruska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-slovenska-narodna-strana",
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jakub-pikna-finance-2026",
+    "candidateId": "nsk-jakub-pikna",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-stefan-polacik-finance-2026",
+    "candidateId": "nsk-stefan-polacik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-slovenske-hnutie-obrody"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-katarina-ranusa-koncosova-finance-2026",
+    "candidateId": "nsk-katarina-ranusa-koncosova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-richard-turanovic-finance-2026",
+    "candidateId": "nsk-richard-turanovic",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-demokrati-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-urban-finance-2026",
+    "candidateId": "nsk-peter-urban",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jan-vanco-finance-2026",
+    "candidateId": "nsk-jan-vanco",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana",
+      "nr-party-madarske-forum"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-vladimir-vnuk-finance-2026",
+    "candidateId": "nsk-vladimir-vnuk",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-robert-ambra-finance-2026",
+    "candidateId": "nsk-robert-ambra",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-henrich-bencik-finance-2026",
+    "candidateId": "nsk-henrich-bencik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-robert-hipp-finance-2026",
+    "candidateId": "nsk-robert-hipp",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-david-kis-finance-2026",
+    "candidateId": "nsk-david-kis",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-martin-kusenda-finance-2026",
+    "candidateId": "nsk-martin-kusenda",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-norbert-miklas-finance-2026",
+    "candidateId": "nsk-norbert-miklas",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-demokrati-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-martin-pasulkas-finance-2026",
+    "candidateId": "nsk-martin-pasulkas",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-regina-vitekova-finance-2026",
+    "candidateId": "nsk-regina-vitekova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-petra-ajdariova-finance-2026",
+    "candidateId": "nsk-petra-ajdariova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-bakay-finance-2026",
+    "candidateId": "nsk-peter-bakay",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-pavol-deglovic-finance-2026",
+    "candidateId": "nsk-pavol-deglovic",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-milos-dovicovic-finance-2026",
+    "candidateId": "nsk-milos-dovicovic",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-martina-dubaiova-finance-2026",
+    "candidateId": "nsk-martina-dubaiova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-simona-farnadyova-finance-2026",
+    "candidateId": "nsk-simona-farnadyova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-veronika-gabcikova-finance-2026",
+    "candidateId": "nsk-veronika-gabcikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-frantisek-holly-finance-2026",
+    "candidateId": "nsk-frantisek-holly",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-miroslav-horniak-finance-2026",
+    "candidateId": "nsk-miroslav-horniak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-dusan-kacer-finance-2026",
+    "candidateId": "nsk-dusan-kacer",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-kisska-finance-2026",
+    "candidateId": "nsk-peter-kisska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-lubomir-klestinec-finance-2026",
+    "candidateId": "nsk-lubomir-klestinec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-marek-kuruc-finance-2026",
+    "candidateId": "nsk-marek-kuruc",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-maria-lorinczova-finance-2026",
+    "candidateId": "nsk-maria-lorinczova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-miroslav-maly-finance-2026",
+    "candidateId": "nsk-miroslav-maly",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-pavol-obertas-finance-2026",
+    "candidateId": "nsk-pavol-obertas",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-rudolf-olach-finance-2026",
+    "candidateId": "nsk-rudolf-olach",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-peciar-finance-2026",
+    "candidateId": "nsk-peter-peciar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-demokrati-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-polak-50-finance-2026",
+    "candidateId": "nsk-peter-polak-50",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-marta-racova-finance-2026",
+    "candidateId": "nsk-marta-racova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-marcela-starekova-finance-2026",
+    "candidateId": "nsk-marcela-starekova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-matej-szaraz-finance-2026",
+    "candidateId": "nsk-matej-szaraz",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-henrich-varga-finance-2026",
+    "candidateId": "nsk-henrich-varga",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-chairs-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Nitriansky samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "nsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana",
+      "nr-party-madarske-forum"
+    ],
+    "account": {
+      "status": "verified",
+      "verificationMethod": "candidate_site",
+      "url": "https://ib.fio.sk/ib/transparent?a=2903426140",
+      "sourceIds": [
+        "nsk-varga-home-2026"
+      ],
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Nitra",
+          "sourceIds": [
+            "nsk-varga-home-2026",
+            "nsk-chair-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "predseda Nitrianskeho samosprávneho kraja 2026",
+          "sourceIds": [
+            "nsk-varga-home-2026",
+            "nsk-chair-roster-2026",
+            "nr-council-roster-2026",
+            "nsk-council-district3-roster-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nsk-pavol-zamecnik-finance-2026",
+    "candidateId": "nsk-pavol-zamecnik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-ivan-barta-finance-2026",
+    "candidateId": "nsk-ivan-barta",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-roman-bogdanov-finance-2026",
+    "candidateId": "nsk-roman-bogdanov",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-mikulas-dunda-finance-2026",
+    "candidateId": "nsk-mikulas-dunda",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-adam-filip-finance-2026",
+    "candidateId": "nsk-adam-filip",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-rastislav-hazucha-finance-2026",
+    "candidateId": "nsk-rastislav-hazucha",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-lukas-hnilica-finance-2026",
+    "candidateId": "nsk-lukas-hnilica",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jarmila-kralova-finance-2026",
+    "candidateId": "nsk-jarmila-kralova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-julius-kysler-finance-2026",
+    "candidateId": "nsk-julius-kysler",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-ladislav-masik-finance-2026",
+    "candidateId": "nsk-ladislav-masik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-lubomir-moravcik-finance-2026",
+    "candidateId": "nsk-lubomir-moravcik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jakub-neupauer-finance-2026",
+    "candidateId": "nsk-jakub-neupauer",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-paulina-simoncicova-finance-2026",
+    "candidateId": "nsk-paulina-simoncicova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-ladislav-turba-finance-2026",
+    "candidateId": "nsk-ladislav-turba",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-ferdinand-vitek-finance-2026",
+    "candidateId": "nsk-ferdinand-vitek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-katarina-welnitzova-finance-2026",
+    "candidateId": "nsk-katarina-welnitzova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-martin-belan-finance-2026",
+    "candidateId": "nsk-martin-belan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-katarina-bojkovska-finance-2026",
+    "candidateId": "nsk-katarina-bojkovska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-kristian-cechmanek-finance-2026",
+    "candidateId": "nsk-kristian-cechmanek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana",
+      "nr-party-madarske-forum"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-patricia-dimov-finance-2026",
+    "candidateId": "nsk-patricia-dimov",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jaroslav-doczy-finance-2026",
+    "candidateId": "nsk-jaroslav-doczy",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-renata-farmadinova-finance-2026",
+    "candidateId": "nsk-renata-farmadinova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-miloslav-hatala-finance-2026",
+    "candidateId": "nsk-miloslav-hatala",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana",
+      "nr-party-madarske-forum"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-eva-hudecova-finance-2026",
+    "candidateId": "nsk-eva-hudecova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-katarina-kompasova-finance-2026",
+    "candidateId": "nsk-katarina-kompasova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-lukacik-finance-2026",
+    "candidateId": "nsk-peter-lukacik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-dusan-malovec-finance-2026",
+    "candidateId": "nsk-dusan-malovec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jozef-mikulasik-finance-2026",
+    "candidateId": "nsk-jozef-mikulasik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-martina-mojtova-finance-2026",
+    "candidateId": "nsk-martina-mojtova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana",
+      "nr-party-madarske-forum"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-romana-strizova-finance-2026",
+    "candidateId": "nsk-romana-strizova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-andrej-skoda-finance-2026",
+    "candidateId": "nsk-andrej-skoda",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-demokrati-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-igor-urbanik-finance-2026",
+    "candidateId": "nsk-igor-urbanik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-pavel-varga-finance-2026",
+    "candidateId": "nsk-pavel-varga",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-edita-vnuckova-finance-2026",
+    "candidateId": "nsk-edita-vnuckova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-tibor-zapletal-finance-2026",
+    "candidateId": "nsk-tibor-zapletal",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-eva-antosova-finance-2026",
+    "candidateId": "nsk-eva-antosova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-daniel-balko-finance-2026",
+    "candidateId": "nsk-daniel-balko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-artur-bekmatov-finance-2026",
+    "candidateId": "nsk-artur-bekmatov",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-marcela-cavojova-finance-2026",
+    "candidateId": "nsk-marcela-cavojova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-lukas-celinak-finance-2026",
+    "candidateId": "nsk-lukas-celinak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana",
+      "nr-party-madarske-forum"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-tibor-danac-finance-2026",
+    "candidateId": "nsk-tibor-danac",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-martin-domcek-finance-2026",
+    "candidateId": "nsk-martin-domcek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jana-durkova-finance-2026",
+    "candidateId": "nsk-jana-durkova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana",
+      "nr-party-madarske-forum"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-martin-horvath-finance-2026",
+    "candidateId": "nsk-martin-horvath",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-stefan-korman-finance-2026",
+    "candidateId": "nsk-stefan-korman",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-kostal-finance-2026",
+    "candidateId": "nsk-peter-kostal",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-tomas-kralik-finance-2026",
+    "candidateId": "nsk-tomas-kralik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-anna-laurinec-smehilova-finance-2026",
+    "candidateId": "nsk-anna-laurinec-smehilova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana",
+      "nr-party-madarske-forum"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-andrea-matova-finance-2026",
+    "candidateId": "nsk-andrea-matova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-ingrid-menky-finance-2026",
+    "candidateId": "nsk-ingrid-menky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-oremus-finance-2026",
+    "candidateId": "nsk-peter-oremus",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-martin-palkovic-finance-2026",
+    "candidateId": "nsk-martin-palkovic",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-martin-presinsky-finance-2026",
+    "candidateId": "nsk-martin-presinsky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-demokrati-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-lukas-schober-finance-2026",
+    "candidateId": "nsk-lukas-schober",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-andrej-sitkey-finance-2026",
+    "candidateId": "nsk-andrej-sitkey",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-tomas-svoren-finance-2026",
+    "candidateId": "nsk-tomas-svoren",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-miloslav-spotak-finance-2026",
+    "candidateId": "nsk-miloslav-spotak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-demokrati",
+      "nr-party-hnutie-slovensko",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-stefan-stefek-finance-2026",
+    "candidateId": "nsk-stefan-stefek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-mario-sturdik-finance-2026",
+    "candidateId": "nsk-mario-sturdik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-usvit"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-branislav-becik-finance-2026",
+    "candidateId": "nsk-branislav-becik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-chairs-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Nitriansky samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "nsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana",
+      "nr-party-republika",
+      "nr-party-pravo-na-pravdu",
+      "nr-party-bratia-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-erik-blasko-finance-2026",
+    "candidateId": "nsk-erik-blasko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-chairs-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Nitriansky samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "nsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "nr-party-jednota-slovanov"
+    ],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ],
+      "reason": "Oficiálny index uvádza rovnomenný účet; samotná zhoda mena nepreukazuje dve ďalšie identifikačné vlastnosti majiteľa."
+    }
+  },
+  {
+    "id": "nsk-tibor-csenger-finance-2026",
+    "candidateId": "nsk-tibor-csenger",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-chairs-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Želiezovce",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "nr-finance-pop-zeliezovce-2026"
+        ],
+        "population": 6585
+      },
+      {
+        "office": "region-chair",
+        "locality": "Nitriansky samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "nsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "nr-party-magyar-szovetseg-madarska-aliancia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jolana-culakova-finance-2026",
+    "candidateId": "nsk-jolana-culakova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-chairs-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Nitriansky samosprávny kraj",
+        "independent": true,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "nsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-karol-suchan-finance-2026",
+    "candidateId": "nsk-karol-suchan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-chairs-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Nitriansky samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "nsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "nr-party-slovexit"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-robert-svec-finance-2026",
+    "candidateId": "nsk-robert-svec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-chairs-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Nitriansky samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "nsk-chair-roster-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "nr-party-slovenske-hnutie-obrody"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-beata-acova-finance-2026",
+    "candidateId": "nsk-beata-acova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-daniela-bako-finance-2026",
+    "candidateId": "nsk-daniela-bako",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-konzervativci-krestanska-unia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-slavomir-balis-finance-2026",
+    "candidateId": "nsk-slavomir-balis",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-hana-balisova-finance-2026",
+    "candidateId": "nsk-hana-balisova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-branislav-banyi-finance-2026",
+    "candidateId": "nsk-branislav-banyi",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-lubomir-baranik-finance-2026",
+    "candidateId": "nsk-lubomir-baranik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-jednota-slovanov"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-milan-biro-finance-2026",
+    "candidateId": "nsk-milan-biro",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Veľké Zálužie",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "nr-finance-pop-velke-zaluzie-2026"
+        ],
+        "population": 4362
+      }
+    ],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-vladislav-borik-finance-2026",
+    "candidateId": "nsk-vladislav-borik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení. Overená aj kandidatúra na starostu v obci Veľká Dolina, ale chýba overený počet obyvateľov pre finančnú povinnosť; preto zostáva vyhodnotenie ďalších kandidatúr podmienené.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-slovenska-narodna-strana",
+      "nr-party-republika",
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-ondrej-durica-finance-2026",
+    "candidateId": "nsk-ondrej-durica",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jozef-dvonc-finance-2026",
+    "candidateId": "nsk-jozef-dvonc",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-tibor-gaspar-finance-2026",
+    "candidateId": "nsk-tibor-gaspar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-petra-grebacova-finance-2026",
+    "candidateId": "nsk-petra-grebacova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-strana-vidieka"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-chudy-finance-2026",
+    "candidateId": "nsk-peter-chudy",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-antonia-janeckova-finance-2026",
+    "candidateId": "nsk-antonia-janeckova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-jednota-slovanov"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jozef-jankovic-finance-2026",
+    "candidateId": "nsk-jozef-jankovic",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení. Overená aj kandidatúra na starostu v obci Rumanová, ale chýba overený počet obyvateľov pre finančnú povinnosť; preto zostáva vyhodnotenie ďalších kandidatúr podmienené.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-juraj-kovac-finance-2026",
+    "candidateId": "nsk-juraj-kovac",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-matus-kroslak-finance-2026",
+    "candidateId": "nsk-matus-kroslak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-pavol-lehotak-finance-2026",
+    "candidateId": "nsk-pavol-lehotak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení. Overená aj kandidatúra na starostu v obci Cabaj - Čápor, ale chýba overený počet obyvateľov pre finančnú povinnosť; preto zostáva vyhodnotenie ďalších kandidatúr podmienené.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jaroslav-macek-finance-2026",
+    "candidateId": "nsk-jaroslav-macek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-milos-macho-finance-2026",
+    "candidateId": "nsk-milos-macho",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-jednota-slovanov"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-monika-maliskova-finance-2026",
+    "candidateId": "nsk-monika-maliskova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-viktor-nemeth-finance-2026",
+    "candidateId": "nsk-viktor-nemeth",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Vráble",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "nr-finance-pop-vrable-2026"
+        ],
+        "population": 8088
+      }
+    ],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-hnutie-slovensko",
+      "nr-party-demokrati",
+      "nr-party-madarske-forum",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-slavomir-papp-finance-2026",
+    "candidateId": "nsk-slavomir-papp",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-marian-paulisz-finance-2026",
+    "candidateId": "nsk-marian-paulisz",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Dolné Obdokovce",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "nr-finance-pop-dolne-obdokovce-2026"
+        ],
+        "population": 1139
+      }
+    ],
+    "partyIds": [
+      "nr-party-magyar-szovetseg-madarska-aliancia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-pavol-pipiska-finance-2026",
+    "candidateId": "nsk-pavol-pipiska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-polak-52-finance-2026",
+    "candidateId": "nsk-peter-polak-52",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-hnutie-slovensko",
+      "nr-party-demokrati",
+      "nr-party-madarske-forum",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-andrej-praznovsky-finance-2026",
+    "candidateId": "nsk-andrej-praznovsky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Veľké Zálužie",
+        "independent": true,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "nr-finance-pop-velke-zaluzie-2026"
+        ],
+        "population": 4362
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-peter-pukan-finance-2026",
+    "candidateId": "nsk-peter-pukan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Čeľadice",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "nr-finance-pop-celadice-2026"
+        ],
+        "population": 1123
+      }
+    ],
+    "partyIds": [
+      "nr-party-republika",
+      "nr-party-slovenska-narodna-strana",
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-ivan-rac-finance-2026",
+    "candidateId": "nsk-ivan-rac",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-tim-kraj-nitra-zdruzenie-kandidatov-nitrianskeho-kraja",
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-progresivne-slovensko",
+      "nr-party-kdh-krestanskodemokraticke-hnutie",
+      "nr-party-hnutie-slovensko",
+      "nr-party-demokrati",
+      "nr-party-madarske-forum",
+      "nr-party-obcianska-konzervativna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-jan-rejda-finance-2026",
+    "candidateId": "nsk-jan-rejda",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-republika",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-zdenko-svoboda-finance-2026",
+    "candidateId": "nsk-zdenko-svoboda",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-ingrid-sabikova-finance-2026",
+    "candidateId": "nsk-ingrid-sabikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení. Overená aj kandidatúra na starostu v obci Nová Ves nad Žitavou, ale chýba overený počet obyvateľov pre finančnú povinnosť; preto zostáva vyhodnotenie ďalších kandidatúr podmienené.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-sloboda-a-solidarita",
+      "nr-party-sme-rodina"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-ondrej-sedivy-finance-2026",
+    "candidateId": "nsk-ondrej-sedivy",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-hlas-socialna-demokracia",
+      "nr-party-smer-socialna-demokracia",
+      "nr-party-slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-patrik-trubini-finance-2026",
+    "candidateId": "nsk-patrik-trubini",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení. Overená aj kandidatúra na starostu v obci Lúčnica nad Žitavou, ale chýba overený počet obyvateľov pre finančnú povinnosť; preto zostáva vyhodnotenie ďalších kandidatúr podmienené.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-filip-ziak-finance-2026",
+    "candidateId": "nsk-filip-ziak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "nsk-robert-zilik-finance-2026",
+    "candidateId": "nsk-robert-zilik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-candidate-reports-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri úplné celoštátne registre 2026; zhody spojené menom, vekom a obcou, menovci s rozdielnymi údajmi oddelení.",
+    "headCandidacies": [],
+    "partyIds": [
+      "nr-party-jednota-slovanov"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  }
+]

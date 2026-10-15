@@ -1,0 +1,2737 @@
+{
+  "checkedAt": "2026-10-15",
+  "reviewer": "independentTrnavaresearcher",
+  "snapshot": {
+    "path": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trnava/trencin-independent-proposals-snapshot.json",
+    "sha256": "86c355ff27c0c817173caf3ae2b870256683a2a0e796f2a881a97c4c8d709ecd",
+    "claims": 360,
+    "journalSha256": "11f42860f3fc9b7b5e01e8ebea4a046a1f34913663a9b7fe8c25ffec9f9e504b"
+  },
+  "counts": {
+    "controversyClaimsReviewed": 16,
+    "eventCandidates": 7,
+    "controversyCategoriesReviewed": 114,
+    "categoryFound": 7,
+    "categoryBoundedNone": 107,
+    "eventDiscoveryAdjudicationsReviewed": 59,
+    "verifiedAccountsReviewed": 3,
+    "queryReceiptFilesHashVerified": 125,
+    "findings": 4,
+    "publicEventOrAccountBlockingFindings": 0,
+    "unsupportedAdjacentPublicOfficeClaims": 1
+  },
+  "findings": [
+    {
+      "id": "TN-REVIEW-1",
+      "priority": "P1",
+      "scope": "public_office claim encountered in controversy identity chain",
+      "recordIds": [
+        "tsk-simona-zacharova-government-office-2026",
+        "tn-extra-e07cc46e9b6710e2"
+      ],
+      "finding": "The captured Ministry URL returns a generic news/homepage containing no occurrence of Zacharová. It does not support the claim that a 22 January 2026 ministry report identified her office.",
+      "evidence": {
+        "key": "extra-e07cc46e9b6710e2",
+        "sha256": "7164feccccc388beac219ca2885cd2df892337c87d76ec787619134c0d791c9c",
+        "url": "https://www.minv.sk/?newsletter=&sprava=stretnutie-splnomocnenkyne-vlady-so-zastupenim-europskej-komisie-na-slovensku",
+        "nameOccurrences": 0
+      },
+      "requestedCorrection": "Hold or remove this specific dated ministry claim, or read the actual official report. Remove the unusable auxiliary source from identity evidence. The event claims retain the independent signed-profile bridge."
+    },
+    {
+      "id": "TN-REVIEW-2",
+      "priority": "P2",
+      "scope": "journal/adjudication only",
+      "recordIds": [
+        "event-5cde06d48116862b"
+      ],
+      "finding": "This discovery item is a report about a knife threat at a school. Frajková appears as an official commentator. The generic adjudication reason incorrectly describes it as an accepted event stage.",
+      "requestedCorrection": "Classify this particular original as excluded from personal controversies: official commentator, not target. Preserve the correctly sourced housing claims separately."
+    },
+    {
+      "id": "TN-REVIEW-3",
+      "priority": "P3",
+      "scope": "source author metadata",
+      "recordIds": [
+        "tn-event-19b74e0b5ffcae4b"
+      ],
+      "finding": "The printed byline is Pravda, SITA; the source author field currently says only SITA. The public claim already accurately attributes both.",
+      "requestedCorrection": "Preserve the full printed byline Pravda, SITA in source metadata."
+    },
+    {
+      "id": "TN-REVIEW-4",
+      "priority": "P3",
+      "scope": "journal stale explanation",
+      "recordIds": [
+        "tsk-slavomira-propperova/controversies"
+      ],
+      "finding": "The journal reason still says the specific court identity/original remains unresolved, while its updated scope correctly records the representation caption and excludes her as a personal party.",
+      "requestedCorrection": "Replace the stale reason with the bounded counsel-only exclusion; do not create a personal adverse case."
+    }
+  ],
+  "claimReviews": [
+    {
+      "claimId": "tsk-tomas-vano-mandate-report-2013",
+      "candidateId": "tsk-tomas-vano",
+      "kind": "media_report",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-lifecycle-3487853fb7ef6188"
+      ],
+      "reason": "Vaňo is one of three councillors whose mandates were questioned. KamilBystrický is the potential complainant/substitute, not an accused person. The unrelated JUDrBratislava insolvency administrator is excluded. 12May2013 report and individual response;27May2013 later report of nonvoting attendance pending clarification. No final court or mandate-loss outcome asserted.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-tomas-vano-mandate-response-2013",
+      "candidateId": "tsk-tomas-vano",
+      "kind": "response",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-lifecycle-3487853fb7ef6188"
+      ],
+      "reason": "Vaňo is one of three councillors whose mandates were questioned. KamilBystrický is the potential complainant/substitute, not an accused person. The unrelated JUDrBratislava insolvency administrator is excluded. 12May2013 report and individual response;27May2013 later report of nonvoting attendance pending clarification. No final court or mandate-loss outcome asserted.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-jaroslav-baska-surveillance-report-2011",
+      "candidateId": "tsk-jaroslav-baska",
+      "kind": "media_report",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-event-19b74e0b5ffcae4b"
+      ],
+      "reason": "The2011article reports Baška confirmation/explanation of2007surveillance while Kašický was minister. It does not prove Baška ordered interception or committed an offence.2016VATarticle treats him as committee chair, not an accused. Dated2011report and explanation are accurately separated. Later outcome-search bounds do not establish a personal criminal proceeding.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-jaroslav-baska-surveillance-response-2011",
+      "candidateId": "tsk-jaroslav-baska",
+      "kind": "response",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-event-19b74e0b5ffcae4b"
+      ],
+      "reason": "The2011article reports Baška confirmation/explanation of2007surveillance while Kašický was minister. It does not prove Baška ordered interception or committed an offence.2016VATarticle treats him as committee chair, not an accused. Dated2011report and explanation are accurately separated. Later outcome-search bounds do not establish a personal criminal proceeding.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-simona-zacharova-ngo-resignation-demand-2026",
+      "candidateId": "tsk-simona-zacharova",
+      "kind": "media_report",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-event-55bf5fb1f2deb53a"
+      ],
+      "reason": "NGO criticism/demand is attributed. The metaphor spreneverila svojmu poslaniu is not treated as embezzlement. Candidate response is retained. 9Feb2026report/response only; no later resignation/removal or independent constitutional-law finding asserted. Ministry source in identity chain is unusable generic landing page; other signed profile independently supplies the required bridge.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-simona-zacharova-ngo-demand-response-2026",
+      "candidateId": "tsk-simona-zacharova",
+      "kind": "response",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-event-55bf5fb1f2deb53a"
+      ],
+      "reason": "NGO criticism/demand is attributed. The metaphor spreneverila svojmu poslaniu is not treated as embezzlement. Candidate response is retained. 9Feb2026report/response only; no later resignation/removal or independent constitutional-law finding asserted. Ministry source in identity chain is unusable generic landing page; other signed profile independently supplies the required bridge.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-simon-zdarsky-school-petition-report-2025",
+      "candidateId": "tsk-simon-zdarsky",
+      "kind": "media_report",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-supplement-c89aca2ed721ba54"
+      ],
+      "reason": "Petition supporter/initiator is the candidate; principal is respondent to criticism and says she pursued legal steps. Reports do not establish candidate misconduct or truth of either side’s allegations. 13Jun2025petition report includes school disagreement.1Oct2025report adds cycling petition/legal steps and candidate response. No present litigation status or legal outcome inferred.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-simon-zdarsky-school-dispute-later-report-2025",
+      "candidateId": "tsk-simon-zdarsky",
+      "kind": "media_report",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-supplement-5ee2041dbf160434"
+      ],
+      "reason": "Petition supporter/initiator is the candidate; principal is respondent to criticism and says she pursued legal steps. Reports do not establish candidate misconduct or truth of either side’s allegations. 13Jun2025petition report includes school disagreement.1Oct2025report adds cycling petition/legal steps and candidate response. No present litigation status or legal outcome inferred.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-simon-zdarsky-school-dispute-response-2025",
+      "candidateId": "tsk-simon-zdarsky",
+      "kind": "response",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-supplement-5ee2041dbf160434"
+      ],
+      "reason": "Petition supporter/initiator is the candidate; principal is respondent to criticism and says she pursued legal steps. Reports do not establish candidate misconduct or truth of either side’s allegations. 13Jun2025petition report includes school disagreement.1Oct2025report adds cycling petition/legal steps and candidate response. No present litigation status or legal outcome inferred.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-tomas-vano-mandate-last-proved-report-2013",
+      "candidateId": "tsk-tomas-vano",
+      "kind": "media_report",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-event-1079e0182fd34b09"
+      ],
+      "reason": "Vaňo is one of three councillors whose mandates were questioned. KamilBystrický is the potential complainant/substitute, not an accused person. The unrelated JUDrBratislava insolvency administrator is excluded. 12May2013 report and individual response;27May2013 later report of nonvoting attendance pending clarification. No final court or mandate-loss outcome asserted.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-zuzana-frajkova-durmekova-senior-housing-initial-report-2024",
+      "candidateId": "tsk-zuzana-frajkova-durmekova",
+      "kind": "media_report",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-media-9733a8062cb15e35"
+      ],
+      "reason": "Housing dispute relates to municipal action and mayor explanation. No statement that she was personally charged or convicted. Unrelated school-knife report names her as official commentator and is not a personal adverse event. 15Mar2024initial report/response.5Aug2024police rejection is expressly attributed and accompanied by prosecutor’s then-ongoing legality review. No final prosecutorial decision or2026current status asserted.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-zuzana-frajkova-durmekova-senior-housing-response-2024",
+      "candidateId": "tsk-zuzana-frajkova-durmekova",
+      "kind": "response",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-media-9733a8062cb15e35"
+      ],
+      "reason": "Housing dispute relates to municipal action and mayor explanation. No statement that she was personally charged or convicted. Unrelated school-knife report names her as official commentator and is not a personal adverse event. 15Mar2024initial report/response.5Aug2024police rejection is expressly attributed and accompanied by prosecutor’s then-ongoing legality review. No final prosecutorial decision or2026current status asserted.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-zuzana-frajkova-durmekova-senior-housing-later-stage-2024",
+      "candidateId": "tsk-zuzana-frajkova-durmekova",
+      "kind": "media_report",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-media-8db1b25186ff31f1"
+      ],
+      "reason": "Housing dispute relates to municipal action and mayor explanation. No statement that she was personally charged or convicted. Unrelated school-knife report names her as official commentator and is not a personal adverse event. 15Mar2024initial report/response.5Aug2024police rejection is expressly attributed and accompanied by prosecutor’s then-ongoing legality review. No final prosecutorial decision or2026current status asserted.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-jozef-hrdlicka-party-verdict-response-2026",
+      "candidateId": "tsk-jozef-hrdlicka",
+      "kind": "response",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-event-17632519448bb19e"
+      ],
+      "reason": "Only party-chair response accepted. Collective seven-leaders verdict does not individually identify candidate as convicted; no personal conviction, fine or imprisonment asserted. 26Jun2026attributed party response only. The scanned document with no usable extracted individual finding is not treated as proof of personal conviction.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-jaroslav-mego-prison-contract-report-2026",
+      "candidateId": "tsk-jaroslav-mego",
+      "kind": "media_report",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-reader-mego"
+      ],
+      "reason": "Contract award is an attributed report, not a proven procurement offence. Response rejects political/municipal intervention. 31Mar2026publisher accessible introduction and response are sufficient for both narrowly scoped claims. Paywalled advertised fine/details not read or reconstructed; targeted outcome searches show no new joined stage.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    },
+    {
+      "claimId": "tsk-jaroslav-mego-prison-contract-response-2026",
+      "candidateId": "tsk-jaroslav-mego",
+      "kind": "response",
+      "decision": "supported",
+      "sourceIds": [
+        "tn-reader-mego"
+      ],
+      "reason": "Contract award is an attributed report, not a proven procurement offence. Response rejects political/municipal intervention. 31Mar2026publisher accessible introduction and response are sufficient for both narrowly scoped claims. Paywalled advertised fine/details not read or reconstructed; targeted outcome searches show no new joined stage.",
+      "directQuotationPublished": false,
+      "privateIdentifierPublished": false
+    }
+  ],
+  "eventGroupReviews": {
+    "tsk-tomas-vano": {
+      "decision": "supported",
+      "identity": [
+        "Named Trenčín municipal councillor in2013 originals",
+        "Independent current city/regional rosters joined through official2022age42/locality to2026age46"
+      ],
+      "roles": "Vaňo is one of three councillors whose mandates were questioned. KamilBystrický is the potential complainant/substitute, not an accused person. The unrelated JUDrBratislava insolvency administrator is excluded.",
+      "lifecycle": "12May2013 report and individual response;27May2013 later report of nonvoting attendance pending clarification. No final court or mandate-loss outcome asserted.",
+      "bylines": [
+        {
+          "sourceId": "tn-lifecycle-3487853fb7ef6188",
+          "authorAsPrinted": "Milan Kráľ, Pravda",
+          "publishedAt": "2013-05-12T16:00"
+        },
+        {
+          "sourceId": "tn-event-1079e0182fd34b09",
+          "authorAsPrinted": "Milan Kráľ, Pravda",
+          "publishedAt": "2013-05-27T08:00"
+        }
+      ]
+    },
+    "tsk-jaroslav-baska": {
+      "decision": "supported",
+      "identity": [
+        "Specific former defence-minister office independently stated in TSK biography",
+        "Smer political affiliation in original and official election context; biography privately derives ballotage51"
+      ],
+      "roles": "The2011article reports Baška confirmation/explanation of2007surveillance while Kašický was minister. It does not prove Baška ordered interception or committed an offence.2016VATarticle treats him as committee chair, not an accused.",
+      "lifecycle": "Dated2011report and explanation are accurately separated. Later outcome-search bounds do not establish a personal criminal proceeding.",
+      "bylines": [
+        {
+          "sourceId": "tn-event-19b74e0b5ffcae4b",
+          "authorAsPrinted": "Pravda, SITA",
+          "publishedAt": "2011-11-23T16:08"
+        }
+      ]
+    },
+    "tsk-simona-zacharova": {
+      "decision": "event_claims_supported_with_one_unusable_auxiliary_source",
+      "identity": [
+        "Exact government-plenipotentiary occupation agrees with ballot",
+        "Signed9Feb2026Aktualityprofile explicitly identifies nomination by Hlaschair; official ballot has Hlas nomination"
+      ],
+      "roles": "NGO criticism/demand is attributed. The metaphor spreneverila svojmu poslaniu is not treated as embezzlement. Candidate response is retained.",
+      "lifecycle": "9Feb2026report/response only; no later resignation/removal or independent constitutional-law finding asserted. Ministry source in identity chain is unusable generic landing page; other signed profile independently supplies the required bridge.",
+      "bylines": [
+        {
+          "sourceId": "tn-event-55bf5fb1f2deb53a",
+          "authorAsPrinted": "SITA, TASR",
+          "publishedAt": "2026-02-09T13:10",
+          "updatedAt": "2026-02-09T16:30"
+        },
+        {
+          "sourceId": "tn-lifecycle-87579d380cd743aa",
+          "authorAsPrinted": "Martin Turček, Aktuality.sk",
+          "publishedAt": "2026-02-09T17:09",
+          "updatedAt": "22:30 response update noted in body"
+        }
+      ]
+    },
+    "tsk-simon-zdarsky": {
+      "decision": "supported",
+      "identity": [
+        "Exact TSKrepresentative role in signed school reports/current official regional roster",
+        "MUDrqualification in later report and Trenčín jurisdiction; official2022age29/locality identity independently joins to2026age33"
+      ],
+      "roles": "Petition supporter/initiator is the candidate; principal is respondent to criticism and says she pursued legal steps. Reports do not establish candidate misconduct or truth of either side’s allegations.",
+      "lifecycle": "13Jun2025petition report includes school disagreement.1Oct2025report adds cycling petition/legal steps and candidate response. No present litigation status or legal outcome inferred.",
+      "bylines": [
+        {
+          "sourceId": "tn-supplement-c89aca2ed721ba54",
+          "authorAsPrinted": "STVR; named reportérka Dominika Kusá",
+          "publishedAt": "2025-06-13T19:42:17"
+        },
+        {
+          "sourceId": "tn-supplement-5ee2041dbf160434",
+          "authorAsPrinted": "Vilma Holubová",
+          "publishedAt": "2025-10-01T10:00",
+          "updatedAt": "2025-10-01T20:10"
+        }
+      ]
+    },
+    "tsk-zuzana-frajkova-durmekova": {
+      "decision": "supported",
+      "identity": [
+        "Exact TrenčianskeTeplice mayoral office in both reports and responsible-body original",
+        "Personal municipality and official2022age52→2026age56 reconciled mayor identity"
+      ],
+      "roles": "Housing dispute relates to municipal action and mayor explanation. No statement that she was personally charged or convicted. Unrelated school-knife report names her as official commentator and is not a personal adverse event.",
+      "lifecycle": "15Mar2024initial report/response.5Aug2024police rejection is expressly attributed and accompanied by prosecutor’s then-ongoing legality review. No final prosecutorial decision or2026current status asserted.",
+      "bylines": [
+        {
+          "sourceId": "tn-media-9733a8062cb15e35",
+          "authorAsPrinted": "RTVS; named reportérka Dominika Kusá",
+          "publishedAt": "2024-03-15T18:21:50"
+        },
+        {
+          "sourceId": "tn-media-8db1b25186ff31f1",
+          "authorAsPrinted": "STVR; named reportérka Dominika Kusá",
+          "publishedAt": "2024-08-05T20:09:30"
+        }
+      ]
+    },
+    "tsk-jozef-hrdlicka": {
+      "decision": "supported",
+      "identity": [
+        "KSSchair/leader role in2026Noviny report and2010SITAoriginal",
+        "2010SITAexplicitpersonalTrenčín residence andage32 compatible with2026age49; no party-membership inference from nomination alone"
+      ],
+      "roles": "Only party-chair response accepted. Collective seven-leaders verdict does not individually identify candidate as convicted; no personal conviction, fine or imprisonment asserted.",
+      "lifecycle": "26Jun2026attributed party response only. The scanned document with no usable extracted individual finding is not treated as proof of personal conviction.",
+      "bylines": [
+        {
+          "sourceId": "tn-event-17632519448bb19e",
+          "authorAsPrinted": "Richard Nemec; redakcia/PEN; noviny.sk/TV JOJ",
+          "publishedAt": "2026-06-26T19:59"
+        },
+        {
+          "sourceId": "tn-media-f779c2ee148a10b1",
+          "authorAsPrinted": "SITA / WEBNOVINY",
+          "publishedAt": "2010-04-19T14:56",
+          "updatedAt": "2017-01-25T08:37"
+        }
+      ]
+    },
+    "tsk-jaroslav-mego": {
+      "decision": "supported_with_explicit_partial_access",
+      "identity": [
+        "Original explicitly names Drietomamayor, independently current official municipal document",
+        "Named company independently RPVS-joined through privateage62+personalDrietomamunicipality; original describes same carpenter/company context"
+      ],
+      "roles": "Contract award is an attributed report, not a proven procurement offence. Response rejects political/municipal intervention.",
+      "lifecycle": "31Mar2026publisher accessible introduction and response are sufficient for both narrowly scoped claims. Paywalled advertised fine/details not read or reconstructed; targeted outcome searches show no new joined stage.",
+      "bylines": [
+        {
+          "sourceId": "tn-reader-mego",
+          "authorAsPrinted": "Martin Vančo, reportér denníka SME",
+          "publishedAt": "2026-03-31T18:14",
+          "accessibleLines": "134–151; subscription barrier156 onward"
+        }
+      ]
+    }
+  },
+  "financeReviews": [
+    {
+      "financeId": "tsk-jan-forgac-finance-2026",
+      "candidateId": "tsk-jan-forgac",
+      "decision": "supported",
+      "verificationMethod": "candidate_site",
+      "sourceId": "tn-original-eb21e105d718a879",
+      "sourceUrl": "https://janforgac.sk/",
+      "sourceSha256": "3c70c45b616748a38f89309c42761a6828fabe050b183f6a0d4d0b4ecd7589a7",
+      "publishedIbanExact": true,
+      "ibanMod97": 1,
+      "destinationUrlLiteralInOriginal": true,
+      "destinationNote": "Exactbanklinkpublished",
+      "identityAttributes": [
+        "ExplicitTrenčínmayoral2026candidacy",
+        "Candidatefooterpersonalname/Trenčín orderingparty and independently officialmayorballot"
+      ],
+      "guard": "Own expenses and campaign operator remain unknown. Only the candidate-published campaign IBAN is used; no expense amount is inferred from publication."
+    },
+    {
+      "financeId": "tsk-milos-micega-finance-2026",
+      "candidateId": "tsk-milos-micega",
+      "decision": "supported",
+      "verificationMethod": "candidate_site",
+      "sourceId": "tn-original-8be1a1dc6460a486",
+      "sourceUrl": "https://micega.sk/",
+      "sourceSha256": "83bb4853a9ab8338f1a3aabd0b39e608df58bae8058196fa1974bd363786c234",
+      "publishedIbanExact": true,
+      "ibanMod97": 1,
+      "destinationUrlLiteralInOriginal": false,
+      "destinationNote": "The candidate publishes the exact IBAN; the destination URL is derived routing rather than a literal link. No independent bank title or ownership check is claimed.",
+      "identityAttributes": [
+        "ExplicitTrenčínmayoral2026candidacy",
+        "PersonalTrenčínresidence and56-year autobiographical context; officialballot identity"
+      ],
+      "guard": "Own expenses and campaign operator remain unknown. Only the candidate-published campaign IBAN is used; no expense amount is inferred from publication."
+    },
+    {
+      "financeId": "tsk-jaroslav-baska-finance-2026",
+      "candidateId": "tsk-jaroslav-baska",
+      "decision": "supported",
+      "verificationMethod": "candidate_site",
+      "sourceId": "tn-original-cd2c9298dcf579b6",
+      "sourceUrl": "https://www.vaszupan.sk/",
+      "sourceSha256": "6dec296b033392f5ca669c58c0b0ead495164248b99c8deb7ab28b6af34d09b8",
+      "publishedIbanExact": true,
+      "ibanMod97": 1,
+      "destinationUrlLiteralInOriginal": true,
+      "destinationNote": "Exactbanklinkpublished",
+      "identityAttributes": [
+        "ExplicitTSKchair election campaign",
+        "PersonalDohňany candidatefooter and exactnamedtransparentaccount; officialchairballot identity"
+      ],
+      "guard": "Own expenses and campaign operator remain unknown. Only the candidate-published campaign IBAN is used; no expense amount is inferred from publication."
+    }
+  ],
+  "roleExclusions": [
+    {
+      "candidateId": "tsk-jozef-habanik",
+      "key": "event-c147576cf8b48fca",
+      "decision": "correctly_not_personal_adverse",
+      "reason": "Signed2009Pravdaoriginalnamesdeanschildrenassubjectsofdiplomainspection. Habánikisteacher/statesecretarycommentingonplannedmeeting;ministerdenieshisinspectioninfluence. Separatemediareportisappropriatelybounded."
+    },
+    {
+      "candidateId": "tsk-kamil-bystricky",
+      "key": "event-1079e0182fd34b09",
+      "decision": "correctly_not_personal_adverse",
+      "reason": "Potentialcomplainant/substituteseekingmandatereview,notoneofthreecouncillorswhoseconductismooted."
+    },
+    {
+      "candidateId": "tsk-slavomira-propperova",
+      "key": "reader-propperova-court.json",
+      "decision": "correctly_not_personal_adverse",
+      "reason": "2S/52/2024captionidentifiesherascounselforanonymisedclaimant;defendantismunicipalityHornáSúča. Sheisnotlitigantoraccused."
+    }
+  ],
+  "eventDiscoveryReviews": [
+    {
+      "candidateId": "tsk-danica-birosova",
+      "key": "event-f7ab363e9a490a93",
+      "url": "https://www.ustavnysud.sk/docDownload/b24cbd26-981a-43d9-b4bb-68a65a79a211",
+      "receiptSha256": "c027b9c8808146db487e643488f496cde67883a64bd12510ba1be60174d080d5",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Read full constitutional-court original III. ÚS 667/2024-13; Danica Birošová legal firm is counsel for third-party complainants, not accused or personal adverse party.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-danica-birosova",
+      "key": "event-8d48a46e68c57f77",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=2319478",
+      "receiptSha256": "6737098855cc0789bbcfe5ed43f4cfc7422634e3f12b4530d75bace63537c052",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original identifies counsel for a third party, rather than personal debtor/respondent status.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jozef-bakos",
+      "key": "event-5ca92e4d4ebbb1e7",
+      "url": "https://otvorenesudy.sk/decrees/5105851?l=sk",
+      "receiptSha256": "52f13c3bb9682d9a1aa6e83e672caf51f644a1bfefc5dbe007ae33bb6f9995d4",
+      "bodyHashVerified": false,
+      "access": "unavailable",
+      "workerDispositionAtFrozenIndex": "pending_access",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Originalmirroraccessfailure; primarymanufacturerfounder-careerchronology excludes Zetorbusinessownerfromcandidateage38. No candidateadverseclaim.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jozef-bakos",
+      "key": "event-28c0f35c8254406a",
+      "url": "https://otvorenesudy.sk/decrees/4802625?l=en",
+      "receiptSha256": "c26d2fe866346e9bac3ab7c10356312b17080feb619e68f98e97c3b116474e7f",
+      "bodyHashVerified": false,
+      "access": "unavailable",
+      "workerDispositionAtFrozenIndex": "pending_access",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Originalmirroraccessfailure; primarymanufacturerfounder-careerchronology excludes Zetorbusinessownerfromcandidateage38. No candidateadverseclaim.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-zuzana-bednarova",
+      "key": "event-404391c994a4ac58",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3745521",
+      "receiptSha256": "b905e877e20f5e869b3675ede95ee25fa2f39706f16aad9728b8ffd83be067b5",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-drahoslav-bocak",
+      "key": "event-04db365103a5f6f6",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=4214417&csrt=7556880558915354414",
+      "receiptSha256": "a178e21fc77df599cd9ce0f3c6d4fdacde41d4ec14255280dd76feb0c290bdf3",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-drahomir-drozd",
+      "key": "event-ea3846c1c7b1c952",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=4218931",
+      "receiptSha256": "4862b615dd5d5621d831f9bddbc6e694ef13fd400a24e83fc78d55daac3f69e0",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jan-fabicovic",
+      "key": "event-90e90bea3c569f8a",
+      "url": "https://www.teraz.sk--www.teraz.sk/trenciansky-kraj/sest-stran-bude-mat-spolocnu-kandi/987223-clanok.html",
+      "receiptSha256": null,
+      "bodyHashVerified": false,
+      "access": "unavailable",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Malformeddiscoveryhostfailed; correctedcanonicalTASRpoliticalcoalitionannouncementreadbyworker,notadversepersonalclaim.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-michal-mosko",
+      "key": "event-67cfff8411a45c95",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3538835",
+      "receiptSha256": "ebcc9b579c4b6c86846c8de252438be86ce99cd7fc5bdbd575ebf135331298d6",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-michal-mosko",
+      "key": "event-b5b7b16391e673cf",
+      "url": "https://www.minv.sk/swift_data/source/verejna_sprava/statny_archiv_v_presove/dokumenty/ap/Sarisska%20zupa%20Sudne%20pisomnosti.pdf",
+      "receiptSha256": "734ea2982e1f082ba0e583a943aa4617022803c150d71f6622c5aaec84dc3f28",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Historical archival criminal-court inventory, not a contemporary proceeding; no positive identity with the 53-year-old candidate.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-richard-scepko",
+      "key": "event-234bcd2ce79c477e",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3852607",
+      "receiptSha256": "152988538ee3f0728537761c3a52cc08ed8dfd544b0380741299532f1afb2009",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-lubomir-bobak",
+      "key": "event-2e1ba63b9aa1a4e5",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=4609310",
+      "receiptSha256": "b0cb79ab26fe4dc7b93f1c7a1597e7549cd42bb9f1cef832335db132638f13b3",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-marian-cvecka",
+      "key": "event-c5a8e3a0b8a87bc8",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3474825",
+      "receiptSha256": "af60a59faea58bb3da2d60b9560dff13395133d5429a541b611f0a741a8f4d50",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-dominik-gabriel",
+      "key": "event-64f1386a57b49e29",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=4031316",
+      "receiptSha256": "1ed55faa059840c64fd427361668e397d386dae08134a2dd7f16e126f858b770",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-juraj-hajso",
+      "key": "event-09d96b6035d9fea3",
+      "url": "https://www.noviny.sk/krimi/491772-nekonecne-vysetrovanie-zamestnankyne-mestskeho-tepelneho-hospodarstva-mal-sikanovat-viceprimator-mesta",
+      "receiptSha256": "2968884207ce3fc16eff2bf6e7204687c19507db3b3d1c840f952bc63d790ad1",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original attributes comments to Labour Inspectorate spokesman; he is not the target of the reported misconduct.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-juraj-hajso",
+      "key": "event-5d0bcee860eeb1d6",
+      "url": "https://www.noviny.sk/slovensko/trencin/679995-pocas-pandemie-sa-ako-prvi-preorientovali-na-sitie-rusok-dnes-nemaju-na-vyplaty-pre-zamestnancov",
+      "receiptSha256": "7b499515e0a3a774aeda5544b6ce924cb6259bcaed785a742a1a7abe6fddd7e4",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original attributes comments to Labour Inspectorate spokesman; he is not the target of the reported misconduct.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jakub-halgos",
+      "key": "event-f38d6fe714fc02fe",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=754355",
+      "receiptSha256": "89609a692ec12ba5cb3132df7f30ced7afc52115ddc2a9e3433ae4ff9e98a017",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-peter-mikulas",
+      "key": "event-2d20a12fdff74267",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3910925",
+      "receiptSha256": "09ad67990470fa558cd1c67a6287eb9a79f628e9bbe5114bd1ca64a3a349b8c0",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original published age/year of birth and/or municipality conflicts with official 2026 candidate; no join.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-peter-mikulas",
+      "key": "event-3c75cc35ffd543b4",
+      "url": "https://otvorenesudy.sk/judges/3239?l=sk",
+      "receiptSha256": "c4d8e5f21962e2026bfbeecc75e5c25cecd42dc5c1848fc5b8c48721455b5831",
+      "bodyHashVerified": false,
+      "access": "unavailable",
+      "workerDispositionAtFrozenIndex": "pending_access",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Mirroraccessfailure/professionaldirectory; primary2004JudicialCouncilminutes identifyolderjudgewhen2026candidatewouldbe15. No candidateadverseclaim.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-peter-mikulas",
+      "key": "event-13b8e54b51e32b97",
+      "url": "https://prokuratura.otvorenesudy.sk/prosecutors/569?l=sk",
+      "receiptSha256": "600dc97de086f69a712a407da7829a2df34b87f96011a376366337dd28b50426",
+      "bodyHashVerified": false,
+      "access": "unavailable",
+      "workerDispositionAtFrozenIndex": "pending_access",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Mirroraccessfailure/professionaldirectory; primary2004JudicialCouncilminutes identifyolderjudgewhen2026candidatewouldbe15. No candidateadverseclaim.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-richard-zimanyi",
+      "key": "event-3472213f636935f8",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Web/Stiahnut.aspx?IdOvSubor=160033",
+      "receiptSha256": "b947ef473ff1edc33a5ee4463bade1cc3c998ee1a0f6a9df792de48239876b8f",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-miloslav-baco",
+      "key": "event-c0c01bca574d125f",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3812593",
+      "receiptSha256": "ea9e0e2eb1711a3050e28aef5359c567e0d8c0437b3ee85740e58ab38e425e85",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-juraj-bakos",
+      "key": "event-4fc477eece5363b4",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=4544978",
+      "receiptSha256": "7b30141bcd45a3e5aa0e8eb52ea0ed9fd4458563a487b6325b005e39d24de7a7",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-juraj-bakos",
+      "key": "event-e2239a8a2e57220a",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=2914987",
+      "receiptSha256": "d922f3a2d58070239a9af3af921cd9e5ec8f82048d87b2aa1a737c7648636e80",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-kamil-bystricky",
+      "key": "event-d2aa0f5e6dc79510",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3061857",
+      "receiptSha256": "6ff5eaec195a8221e2667daaac989c69bcd8d454dc61fb5f8edb5721a6e2627f",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-kamil-bystricky",
+      "key": "event-1079e0182fd34b09",
+      "url": "https://spravy.pravda.sk/regiony/clanok/281827-niektore-sobase-v-trencine-sa-mozno-zopakuju/",
+      "receiptSha256": "36b105fcae712f0c6f216dbb9d144422013b3ce147cb5f8ecf17b660eb79c04b",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Kamil Bystrický is the source raising mandate objections about other councillors, not the person whose conduct is questioned. Separate Tomáš Vaňo event lead retained.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-andrej-gavenda",
+      "key": "event-20db0cf88e1645a7",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3699813",
+      "receiptSha256": "c648eabd1d67a53bb632adbf3bf5233c4031caed7b3c2d658467b8257f614c17",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original published age/year of birth and/or municipality conflicts with official 2026 candidate; no join.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-bohumil-kern",
+      "key": "event-690b01ce7fe3d596",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=2456940",
+      "receiptSha256": "aab54a091ba49f72389b67dd58aa425890e61a5cd3609f11a95a83b2ce2dd994",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Full official OV original identifies Mgr. Bohumil Kern as appointed interpreter in corporate debtor proceeding against Four Foodservice, not as personal debtor.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-ladislav-matejka",
+      "key": "event-5e4e581df56a0867",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=4289646",
+      "receiptSha256": "fbc7cd83c797e86c95ee9ff892c71e181c5e102296bfca929ef0ffe281ef0130",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-tomas-michalik",
+      "key": "event-4ab09cbd93c90192",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=2636204",
+      "receiptSha256": "c368b53a5f241dbfc3f35369dc7d8a3c8056011d39f3c2626868059b53cf7529",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-tomas-michalik",
+      "key": "event-793d125cd467f6c2",
+      "url": "https://www.noviny.sk/krimi/468970-mala-strazit-hodnoty-muzea-je-opakovane-obzalovana-z-ich-kradeze",
+      "receiptSha256": "c0040281e82da07ad7e65f1b3d20bc592608f37bc3f323475030c2e2c83a4e5b",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original concerns museum collections worker; candidate appears as professional commentator, not the accused.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-dusan-struhacka",
+      "key": "event-37bb0b6b2b251169",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=2783257",
+      "receiptSha256": "febe9cf87257ff325d89ff05af3732d17e0e5c1c574d12419045b43db8b29850",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-martin-trepac",
+      "key": "event-f5f64a7065a50e9c",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3620415",
+      "receiptSha256": "9164ff665d87f57814fb14f97ea32af3b5003cce76f4af86db5235d9d977a64a",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original published age/year of birth and/or municipality conflicts with official 2026 candidate; no join.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-simona-zacharova",
+      "key": "event-55bf5fb1f2deb53a",
+      "url": "https://www.pravda.sk/spravy/domace/clanok/785456-splnomocnenkyna-vlady-pre-rozvoj-obcianskej-spolocnosti-sa-spreneverila-svojmu-poslaniu-tvrdia-mimovladky-a-ziadaju-jej-ostupeni",
+      "receiptSha256": "6e8ac8e031f914408a678067a676abba96383492522c4d624882da8793f583ec",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "accepted_attributed_report_response",
+      "independentDecision": "supportsaccepteddatedevent",
+      "reason": "Read full9Feb2026 SITA/TASR original and response paragraphs. NGO demand for resignation is attributed political criticism; spreneverila svojmu poslaniu is not embezzlement. Zacharová response rejects foreign-agent/lobbyist labels and defends legitimate transparency. Constitutional-law invalidation needs official source if separately asserted. Actual response/outcome queries root-followups/batch000–002 reviewed; only dated proved stages proposed, no later official outcome inferred.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-simona-zacharova",
+      "key": "event-333f06cc245f5686",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3757328",
+      "receiptSha256": "1c2024eeaa2ad73bc65e3a6daa23be4bdfa6bfd57144d3e3920d5a9e146f7e09",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-martin-barcak",
+      "key": "event-9a721122c866e170",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Web/Stiahnut.aspx?IdOvSubor=163165",
+      "receiptSha256": "44e9a2cc8dde73378dfc4a38df783d7ae4d7e10046d2a3232650b23a3a21194c",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original published age/year of birth and/or municipality conflicts with official 2026 candidate; no join.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-martin-barcak",
+      "key": "event-2984bbf0e5543922",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Web/Stiahnut.aspx?IdOvSubor=164513",
+      "receiptSha256": "58822b757b53ec217d1dab22ce3842daf761eee47e570f8de3a36fd4beeb59bc",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original published age/year of birth and/or municipality conflicts with official 2026 candidate; no join.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-josef-kolar",
+      "key": "event-e69b4c03ff089362",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=4099412",
+      "receiptSha256": "7dc5e094368a06f22f0cd0691d139cccba055a8912a3a0042496b3530cf8e161",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-nada-lorencova",
+      "key": "event-76b0d3c16e5f8123",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=1830189",
+      "receiptSha256": "40006e93bbb8d3397e81fea771f2e4d7afcdda8e4ecf220d1a949a884e8ebf0d",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-marcel-meravy",
+      "key": "event-f4cfc9b07901ae88",
+      "url": "https://sportnet.sme.sk/futbalnet/z/obfz-trencin/spravy/zapisnica-zo-zasadnutia-vv-maj-2023/",
+      "receiptSha256": "c0d26d9f91fefdfb303a9c3b569aba6d43acf9f005a02e374fbb9c04dc7e773f",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Full original football executive minutes identify Marcel Meravý as participating vice-chair and record routine governance voting. No personal allegation.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-ladislav-paska",
+      "key": "event-ee5ca844e05a32dd",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=3685724",
+      "receiptSha256": "818e8d043dfcc017100b44879d51dc037c8117f8b13d8dafb92a1ed329d7a1d7",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jana-stefanekova",
+      "key": "event-21223237d16b049a",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Web/Stiahnut.aspx?IdOvSubor=143841",
+      "receiptSha256": "f525b60a24fe5d8552fa57958d76dcb22d7c897a317adb740fbfa1e0f3e6430b",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original identifies counsel for a third party, rather than personal debtor/respondent status.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-robert-svehla",
+      "key": "event-d5a96357ba71e903",
+      "url": "https://s.aktuality.sk/doc/af614554fd3ba1923fc22c271f6929b2.pdf?e=0&st=fJPqQKZVaMUGeRcHvQ-XGPBiVWJ2bI4ovcd3QsU-FgQ&ts=1641094855",
+      "receiptSha256": "22a9830fa92e8016c135976594010608e503511fa72e219c6d6b7a8fd58966d8",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original is sports journalism concerning the older hockey player, rather than 31-year-old mayoral assistant; identity conflict.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-tomas-vano",
+      "key": "event-4988808215edaf01",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Web/Stiahnut.aspx?IdOvSubor=156889",
+      "receiptSha256": "9ec61b7ce0a47f43a2f1d8e4814cbd4a10771ef49b0d298934abc5d847fba6d2",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original names JUDr. Tomáš Vaňo as Bratislava insolvency administrator; candidate is Ing. Tomáš Vaňo, Trenčín manager. No two additional matching identity attributes; unjoined.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jaroslav-baska",
+      "key": "event-19b74e0b5ffcae4b",
+      "url": "https://www.pravda.sk/spravy/domace/clanok/172478-baska-priznal-odpocuvanie-novinarky-pravda-reaguje",
+      "receiptSha256": "715e386e96095ecac48b5fdaa9145c1f40269a3bbe84ee03cc9ce78d157c2667",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "accepted_attributed_report_response",
+      "independentDecision": "supportsaccepteddatedevent",
+      "reason": "Read full23Nov2011 Pravda/SITA report. Former defence minister Baška commented on2007 surveillance under predecessor Kašický and classified-document leak. Article does not prove Baška ordered surveillance or committed an offence. Actual response/outcome queries root-followups/batch000–002 reviewed; only dated proved stages proposed, no later official outcome inferred.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jaroslav-baska",
+      "key": "event-a3bbe83c4c86c253",
+      "url": "https://www.teraz.sk/slovensko/branno-bezpecnostny-vybor-kauza-dph/183481-clanok.html?mostViewedArticlesInSectionTab=2",
+      "receiptSha256": "c740aeff8bb80979d0eba7c35be85e636b434b4e31d482caa3c0713741b99313",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Full TASR original identifies Jaroslav Baška as committee chair responding to the opposition. VAT suspicions described concern other named politicians; no accusation against Baška is established here.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-zuzana-frajkova-durmekova",
+      "key": "event-5cde06d48116862b",
+      "url": "https://www.noviny.sk/krimi/1172016-vraj-to-bola-len-hra-chlapec-sa-mal-s-nozom-v-ruke-vyhrazat-spoluziackam-zabitim",
+      "receiptSha256": "087976108c2f71cc5c3321620c2b5b03acb54368e4e682a2ec4be9760e3e325b",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "reviewed_dated_report_or_response_with_outcome_boundary",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Independentlyexcluded:mayorisofficialcommentatorinschoolknife-threatreport;notapersonaccusedofmisconduct. Genericadjudicationreasonshouldbecorrected.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-pavol-golan",
+      "key": "event-6a73c5538282e422",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=4135628",
+      "receiptSha256": "ce71da91c3ae6488225906e56f8fb1f1139b820aee5e72484b5f1b79217153fa",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jozef-habanik",
+      "key": "event-c147576cf8b48fca",
+      "url": "https://spravy.pravda.sk/domace/clanok/163902-expresne-diplomy-mikolajovi-nekolu-oci/",
+      "receiptSha256": "cb04e282ad26b00459cd91ae719d9f90510322b6797e86e14aacb8ad04cf6254",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "reviewed_lifecycle_search_pending",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Read full signed28Oct2009 Pravda original; concerns university diploma inspection and attributed statements about then-state-secretary Habánik. Requires identity bridge and final-stage check, no personal guilt inferred.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jozef-habanik",
+      "key": "event-9f47409f676324e9",
+      "url": "https://sita.sk/vskolstve/s-vedenim-univerzity-v-trencine-sa-habanik-stretne/",
+      "receiptSha256": "f86aaaa52e016ad67f4395b8a3f7334438438bfac9f218a3716093734c67b47a",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "reviewed_lifecycle_search_pending",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Read full29Oct2009 SITA follow-up. Habánik said he was not in inspection commission, would meet university after completed inspection and denied influence; this is response, not official outcome.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jozef-hrdlicka",
+      "key": "event-e4f0267901c901a2",
+      "url": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2024/VS24r_KSS.pdf",
+      "receiptSha256": "e6edc8985740d6b5f81aa3bd14b727040b78f8c4ae703dc36e5602f1a47c89dd",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "reviewed_dated_report_or_response_with_outcome_boundary",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "PDFbodyhashvalidbutextractioncontainspageheaderswithoutindividualfinding. NotusedforpersonalHrdličkaconviction;safeexclusion/limit.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jozef-hrdlicka",
+      "key": "event-17632519448bb19e",
+      "url": "https://www.noviny.sk/slovensko/1226795-sud-uznal-vinnych-clenov-vedenia-kss-dostali-pokuty-za-billboardovu-kampan",
+      "receiptSha256": "768f5faa664049f15e0fce1bd31e7383f26e8c628daf13fe6331260daa7f8603",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "reviewed_dated_report_or_response_with_outcome_boundary",
+      "independentDecision": "supportsaccepteddatedevent",
+      "reason": "Relevant original(s) read and attributed atomic claims accepted in proposals; actual response/outcome searches checked. No inference beyond latest supported dated stage. Hrdlička conviction not individually asserted; Frajková August2024 police/prosecutor report remains attributed.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-adriana-kovacova",
+      "key": "event-99e4a5cafae681a1",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Web/Stiahnut.aspx?IdOvSubor=152445",
+      "receiptSha256": "4638a863c02fbf36e2d151928cce09fa8a71dbf5ec146f8bc52bcc3ce8aee7c4",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original published age/year of birth and/or municipality conflicts with official 2026 candidate; no join.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-jan-kvasnica",
+      "key": "event-24ec64f7f09d9269",
+      "url": "https://www.noviny.sk/politika/1114908-clena-demokratov-museli-osetrit-v-nemocnici-muz-nanho-skocil-z-krikov-a-napadol-ho",
+      "receiptSha256": "21a468a0324efae53c198c5d6a0ae7b636dc1811d4c23d855e8d5fe5e8aaa99b",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Full agency original is accepted in media as assault-victim report using age progression+party identity. It is not wrongdoing by candidate.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-anton-kysel",
+      "key": "event-9bdaaddaed58c8f8",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=4349488",
+      "receiptSha256": "c23374aff3b8a2970927ccb1410eed0b34fb6f6029f93820f767ab132aad6c97",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Routine company registration notice; no allegation or adverse proceeding concerning the candidate established.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-anton-kysel",
+      "key": "event-9f49d3f3bbd41cf9",
+      "url": "https://sita.sk/sud-rozhodol-o-treste-pre-kandidata-kotlebovcov-ktory-hlasno-pozdravil-na-straz/",
+      "receiptSha256": "eede5e15c8071004af30505dd6ba402aa98a092737985e68996c1acd6441b5ae",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Full signed SITA original concerns a 48-year-old Anton G. from Bánovce nad Bebravou in January2020. Candidate is68 in2026 and resides Trenčín; conflicting age and municipality. Exact Kysel surname appears only in related content.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-maria-machova",
+      "key": "event-f83eb3627e5a272c",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Web/Stiahnut.aspx?IdOvSubor=167633",
+      "receiptSha256": "018bf86dc1166259fb502c8c156631b74d79a19b91be484acbb890c7bd6abd94",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_namesake",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original published age/year of birth and/or municipality conflicts with official 2026 candidate; no join.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-marek-mizenko",
+      "key": "event-f401cfcc3e5d4e49",
+      "url": "https://sita.sk/osobnosti/miroslav-kollar/fotogaleria/page/22/",
+      "receiptSha256": "cf5ab2494442fcefd0d7830183fce3c4734621b39e93028960f889a3eee705cb",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Original gallery photograph caption is not an allegation/event about candidate; identity of pictured dog-trial official remains unjoined.",
+      "privateIdentifiersExported": false
+    },
+    {
+      "candidateId": "tsk-eva-pastorkova",
+      "key": "event-dd0a1ac9a0c57ca5",
+      "url": "https://sportnet.sme.sk/futbalnet/z/obfz-trencin/spravy/uradna-sprava-dk-c-32-zo-dna-462026/",
+      "receiptSha256": "fb7dc066328ef7b1da7303d36bfb6181b31c7cea84450636da251ddd4e57adfd",
+      "bodyHashVerified": true,
+      "access": "original_downloaded",
+      "workerDispositionAtFrozenIndex": "excluded_from_controversies",
+      "independentDecision": "excluded_or_access_bounded",
+      "reason": "Full original only invites a named club representative to a future disciplinary meeting. Invitation is not an allegation, finding or sanction against this candidate; identity remains unjoined.",
+      "privateIdentifiersExported": false
+    }
+  ],
+  "categoryJournalAudit": [
+    {
+      "candidateId": "tsk-danica-birosova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-f7ab363e9a490a93",
+        "event-8d48a46e68c57f77"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-michal-bratranec",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jan-forgac",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-milos-micega",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jozef-bakos",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 3,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-5ca92e4d4ebbb1e7",
+        "event-28c0f35c8254406a"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-zuzana-bednarova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-404391c994a4ac58"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-alexander-biros",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-drahoslav-bocak",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-04db365103a5f6f6"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-zdenka-brisudova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-andrej-docar",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-drahomir-drozd",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-ea3846c1c7b1c952"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jan-fabicovic",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-90e90bea3c569f8a"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-robert-hartmann",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-andrea-jakubcova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-maria-kebiskova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-lukas-kecera",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jan-kmet",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-michaela-kobzova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-richard-medal",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-michal-mosko",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-67cfff8411a45c95",
+        "event-b5b7b16391e673cf"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jana-ovesna",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-richard-scepko",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-234bcd2ce79c477e"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-marian-betak",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-lubomir-bobak",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-2e1ba63b9aa1a4e5"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-marian-bohus",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-marian-cvecka",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-c5a8e3a0b8a87bc8"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-martina-gabrhelova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-dominik-gabriel",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-64f1386a57b49e29"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-juraj-hajso",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-09d96b6035d9fea3",
+        "event-5d0bcee860eeb1d6"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jakub-halgos",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-f38d6fe714fc02fe"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-veronika-hluchanova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-peter-hostak",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-mario-markech",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-adriana-martosova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-peter-mikulas",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 4,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-2d20a12fdff74267",
+        "event-3c75cc35ffd543b4",
+        "event-13b8e54b51e32b97"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-lucia-nemesova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-ervin-olesnan",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-richard-zimanyi",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-3472213f636935f8"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-patrik-zak",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-miloslav-baco",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-c0c01bca574d125f"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-juraj-bakos",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-4fc477eece5363b4",
+        "event-e2239a8a2e57220a"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-peter-bohunicky",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-kamil-bystricky",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-d2aa0f5e6dc79510",
+        "event-1079e0182fd34b09"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jan-culy",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jan-delincak",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-martin-diweg-pukanec",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-marcel-frano",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-andrej-gavenda",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-20db0cf88e1645a7"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-elena-gogolakova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-lubomir-horny",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-lubos-chorvat",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-bohumil-kern",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-690b01ce7fe3d596"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-ivan-kubica",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-zdenko-marousek",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-ladislav-matejka",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-5e4e581df56a0867"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-tomas-michalik",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-4ab09cbd93c90192",
+        "event-793d125cd467f6c2"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-zuzana-misakova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-martin-petrik",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jan-plasil",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-ivan-slany",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-martin-smolka",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-dusan-struhacka",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-37bb0b6b2b251169"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-martin-stefanik",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-martin-trepac",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-f5f64a7065a50e9c"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-simona-zacharova",
+      "statusAtSnapshot": "found",
+      "actualQueryCount": 3,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [
+        "tsk-simona-zacharova-ngo-resignation-demand-2026",
+        "tsk-simona-zacharova-ngo-demand-response-2026"
+      ],
+      "readDiscoveryLeadKeys": [
+        "event-55bf5fb1f2deb53a",
+        "event-333f06cc245f5686"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-martin-barcak",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-9a721122c866e170",
+        "event-2984bbf0e5543922"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-rastislav-harakal",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-ivan-hudcovsky",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-josef-kolar",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-e69b4c03ff089362"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-branislav-liska",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-nada-lorencova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-76b0d3c16e5f8123"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-juraj-machunka",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-marcel-meravy",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-f4cfc9b07901ae88"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-ladislav-paska",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-ee5ca844e05a32dd"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-peter-pilathy",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-vladimir-poruban",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jana-stefanekova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-21223237d16b049a"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-juraj-stilicha",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-robert-svehla",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-d5a96357ba71e903"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-tomas-vano",
+      "statusAtSnapshot": "found",
+      "actualQueryCount": 3,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [
+        "tsk-tomas-vano-mandate-report-2013",
+        "tsk-tomas-vano-mandate-response-2013",
+        "tsk-tomas-vano-mandate-last-proved-report-2013"
+      ],
+      "readDiscoveryLeadKeys": [
+        "event-4988808215edaf01"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-lubomir-vavrus",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jaroslav-baska",
+      "statusAtSnapshot": "found",
+      "actualQueryCount": 3,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [
+        "tsk-jaroslav-baska-surveillance-report-2011",
+        "tsk-jaroslav-baska-surveillance-response-2011"
+      ],
+      "readDiscoveryLeadKeys": [
+        "event-19b74e0b5ffcae4b",
+        "event-a3bbe83c4c86c253"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-daniel-galas",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-lubomir-choleva",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-natalia-svitkova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-martina-benovicova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-marek-brozek",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-peter-dano",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-eduard-filo",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-zuzana-frajkova-durmekova",
+      "statusAtSnapshot": "found",
+      "actualQueryCount": 3,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [
+        "tsk-zuzana-frajkova-durmekova-senior-housing-initial-report-2024",
+        "tsk-zuzana-frajkova-durmekova-senior-housing-response-2024",
+        "tsk-zuzana-frajkova-durmekova-senior-housing-later-stage-2024"
+      ],
+      "readDiscoveryLeadKeys": [
+        "event-5cde06d48116862b"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-pavol-golan",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-6a73c5538282e422"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jozef-habanik",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 5,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-c147576cf8b48fca",
+        "event-9f47409f676324e9"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jozef-hrdlicka",
+      "statusAtSnapshot": "found",
+      "actualQueryCount": 3,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [
+        "tsk-jozef-hrdlicka-party-verdict-response-2026"
+      ],
+      "readDiscoveryLeadKeys": [
+        "event-e4f0267901c901a2",
+        "event-17632519448bb19e"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-juraj-huserka",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-adriana-kovacova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-99e4a5cafae681a1"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jan-kvasnica",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-24ec64f7f09d9269"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-martin-kvasnica",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-anton-kysel",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 3,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-9bdaaddaed58c8f8",
+        "event-9f49d3f3bbd41cf9"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-roman-lackovic",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-maria-machova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-f83eb3627e5a272c"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-juraj-malan",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jaroslav-mego",
+      "statusAtSnapshot": "found",
+      "actualQueryCount": 4,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [
+        "tsk-jaroslav-mego-prison-contract-report-2026",
+        "tsk-jaroslav-mego-prison-contract-response-2026"
+      ],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-valeria-merava",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-erik-mician",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-marek-mizenko",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-f401cfcc3e5d4e49"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-eva-pastorkova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [
+        "event-dd0a1ac9a0c57ca5"
+      ],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-karina-penzesova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-tomas-prno",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-slavomira-propperova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 2,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-jan-sivak",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-stanislav-svatik",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-pavol-sulovsky",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-monika-velackova",
+      "statusAtSnapshot": "searched_none",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    },
+    {
+      "candidateId": "tsk-simon-zdarsky",
+      "statusAtSnapshot": "found",
+      "actualQueryCount": 1,
+      "allQueryFilesPresentAndHashMatched": true,
+      "acceptedClaimIds": [
+        "tsk-simon-zdarsky-school-petition-report-2025",
+        "tsk-simon-zdarsky-school-dispute-later-report-2025",
+        "tsk-simon-zdarsky-school-dispute-response-2025"
+      ],
+      "readDiscoveryLeadKeys": [],
+      "remainingLeadsAtSnapshot": 0,
+      "reviewBound": "All16acceptedclaimsand59eventdiscoveryadjudicationsindependentlychecked. Candidatewithoutnamedreturnedleadretainsactualquery-boundnone;thisdoesnotassertnonexistence."
+    }
+  ],
+  "originalReadReceipts": [
+    {
+      "sourceId": "tn-lifecycle-3487853fb7ef6188",
+      "url": "https://spravy.pravda.sk/regiony/clanok/280336-rybnicek-musi-v-trencine-sobasit-sam/",
+      "key": "lifecycle-3487853fb7ef6188",
+      "sha256": "6a595558c86c51a4db40bc1418ef54d0628a21e1035ee79ec4b20e541581f3d0",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/lifecycle-3487853fb7ef6188.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-event-19b74e0b5ffcae4b",
+      "url": "https://www.pravda.sk/spravy/domace/clanok/172478-baska-priznal-odpocuvanie-novinarky-pravda-reaguje",
+      "key": "event-19b74e0b5ffcae4b",
+      "sha256": "715e386e96095ecac48b5fdaa9145c1f40269a3bbe84ee03cc9ce78d157c2667",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/event-19b74e0b5ffcae4b.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-event-55bf5fb1f2deb53a",
+      "url": "https://www.pravda.sk/spravy/domace/clanok/785456-splnomocnenkyna-vlady-pre-rozvoj-obcianskej-spolocnosti-sa-spreneverila-svojmu-poslaniu-tvrdia-mimovladky-a-ziadaju-jej-ostupeni",
+      "key": "event-55bf5fb1f2deb53a",
+      "sha256": "6e8ac8e031f914408a678067a676abba96383492522c4d624882da8793f583ec",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/event-55bf5fb1f2deb53a.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-supplement-c89aca2ed721ba54",
+      "url": "https://spravy.stvr.sk/2025/06/napatie-na-sportovej-skole-v-trencine-eskaluje-ludia-v-peticii-ziadaju-odchod-sucasnej-riaditelky/",
+      "key": "supplement-c89aca2ed721ba54",
+      "sha256": "45b8581a6eb173f287a00ecaad53d89f211bedb387aafaf61f6780ffcc858333",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/supplement-c89aca2ed721ba54.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-supplement-5ee2041dbf160434",
+      "url": "https://www.trencinak.sk/clanky/9354/video-konflikt-ohladom-cyklistiky-na-sportovej-skole-v-trencine-sa-vyostruje-riaditelka-podala-zalobu-zdarsky-peticiu",
+      "key": "supplement-5ee2041dbf160434",
+      "sha256": "57c991e90bf78d02dbe20c7bc5d5c11adeae73837c0d41b8e1581117270213a6",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/supplement-5ee2041dbf160434.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-event-1079e0182fd34b09",
+      "url": "https://spravy.pravda.sk/regiony/clanok/281827-niektore-sobase-v-trencine-sa-mozno-zopakuju/",
+      "key": "event-1079e0182fd34b09",
+      "sha256": "36b105fcae712f0c6f216dbb9d144422013b3ce147cb5f8ecf17b660eb79c04b",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/event-1079e0182fd34b09.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-media-9733a8062cb15e35",
+      "url": "https://spravy.stvr.sk/2024/03/nedobrovolne-z-nej-vystahovali-dochodcov-ktori-nemali-kam-ist-mestska-budova-v-trencianskych-tepliciach-je-na-predaj/",
+      "key": "media-9733a8062cb15e35",
+      "sha256": "2d4ff7f78541ef2b6a19a4edea1e29b498095a295c60868c134511ed9db589c2",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/media-9733a8062cb15e35.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-media-8db1b25186ff31f1",
+      "url": "https://spravy.stvr.sk/2024/08/primatorka-ktora-dala-vystahovat-seniorov-z-mestskeho-domu-podla-policie-nespachala-trestny-cin/",
+      "key": "media-8db1b25186ff31f1",
+      "sha256": "8192c700152e921a551b07b673205062a89b755486562558d761fc2a45e24485",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/media-8db1b25186ff31f1.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-event-17632519448bb19e",
+      "url": "https://www.noviny.sk/slovensko/1226795-sud-uznal-vinnych-clenov-vedenia-kss-dostali-pokuty-za-billboardovu-kampan",
+      "key": "event-17632519448bb19e",
+      "sha256": "768f5faa664049f15e0fce1bd31e7383f26e8c628daf13fe6331260daa7f8603",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/event-17632519448bb19e.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-reader-mego",
+      "url": "https://www.sme.sk/domov/c/poslanec-za-smer-menil-okna-v-ilavskej-vaznici-odmieta-ze-by-vyuzil-politicke-kontakty",
+      "key": "reader-mego",
+      "sha256": "b2ec216d2c9b8e695e8f66b75548bf5777e2be305b27d9281b13fb79f1ffb426",
+      "access": "partial_original_tool_read",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/reader-mego.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-original-eb21e105d718a879",
+      "url": "https://janforgac.sk/",
+      "key": "original-eb21e105d718a879",
+      "sha256": "3c70c45b616748a38f89309c42761a6828fabe050b183f6a0d4d0b4ecd7589a7",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/original-eb21e105d718a879.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-original-8be1a1dc6460a486",
+      "url": "https://micega.sk/",
+      "key": "original-8be1a1dc6460a486",
+      "sha256": "83bb4853a9ab8338f1a3aabd0b39e608df58bae8058196fa1974bd363786c234",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/original-8be1a1dc6460a486.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "sourceId": "tn-original-cd2c9298dcf579b6",
+      "url": "https://www.vaszupan.sk/",
+      "key": "original-cd2c9298dcf579b6",
+      "sha256": "6dec296b033392f5ca669c58c0b0ead495164248b99c8deb7ab28b6af34d09b8",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/original-cd2c9298dcf579b6.receipt.json",
+      "readScope": "Relevant original body and exact byline/date; for SME only accessible publisher introduction/response before subscription barrier."
+    },
+    {
+      "key": "current-regional-chair",
+      "url": "https://www.tsk.sk/trenciansky-samospravny-kraj/predseda-tsk.html?page_id=144",
+      "sha256": "3f5770fb4a1c0874baeb366abf8829e8b1e8fb1da6372d9df7f5946fbec5ac09",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/current-regional-chair.receipt.json",
+      "readScope": "Named original identity/role passages; full private identifiers were not exported."
+    },
+    {
+      "key": "media-f779c2ee148a10b1",
+      "url": "https://sita.sk/trencin-ma-jedineho-lidra-komunistu/",
+      "sha256": "ded72dd4254ebeb90f74c350fdb8fe038c9383ac106a628c0d12fa95da06457e",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/media-f779c2ee148a10b1.receipt.json",
+      "readScope": "Named original identity/role passages; full private identifiers were not exported."
+    },
+    {
+      "key": "lifecycle-87579d380cd743aa",
+      "url": "https://www.aktuality.sk/clanok/Hhjx8ER/na-kriticke-otazky-neodpoveda-kritizuje-len-opoziciu-kto-je-splnomocnenkyna-ktoru-chcu-mimovladky-odvolat/",
+      "sha256": "862eed068cb4305e8f115b3d9de51bdf3f9f03d03242ca6f86bb7823c8068998",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/lifecycle-87579d380cd743aa.receipt.json",
+      "readScope": "Named original identity/role passages; full private identifiers were not exported."
+    },
+    {
+      "key": "extra-e07cc46e9b6710e2",
+      "url": "https://www.minv.sk/?newsletter=&sprava=stretnutie-splnomocnenkyne-vlady-so-zastupenim-europskej-komisie-na-slovensku",
+      "sha256": "7164feccccc388beac219ca2885cd2df892337c87d76ec787619134c0d791c9c",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/extra-e07cc46e9b6710e2.receipt.json",
+      "readScope": "Named original identity/role passages; full private identifiers were not exported."
+    },
+    {
+      "key": "current-council",
+      "url": "https://trencin.sk/samosprava/mestske-zastupitelstvo/poslankyne-a-poslanci-trencina/",
+      "sha256": "8319d8822972cefe640b259b9b7be3b358fa7d6ad4203b9a449dfcec7004a114",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/current-council.receipt.json",
+      "readScope": "Named original identity/role passages; full private identifiers were not exported."
+    },
+    {
+      "key": "original-acde4ca1dcf24952",
+      "url": "https://www.tsk.sk/trenciansky-samospravny-kraj/poslanci-tsk-vo-volebnom-obdobi-2022-2026.html?page_id=985406",
+      "sha256": "26ca43d17dab3ac2e139f6c5c4dbb20d84a5801224b313e8a7ef18d0a107f80d",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/original-acde4ca1dcf24952.receipt.json",
+      "readScope": "Named original identity/role passages; full private identifiers were not exported."
+    },
+    {
+      "key": "population-drietoma",
+      "url": "https://www.drietoma.sk/evt_file.php?file=8216&original=Po%C4%8Det%20obyvate%C4%BEov.pdf",
+      "sha256": "45c3ee39dbaac34f0882ca5e35ed42a13ec09f98b0df413a6bdf985fe8a136a8",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/population-drietoma.receipt.json",
+      "readScope": "Named original identity/role passages; full private identifiers were not exported."
+    },
+    {
+      "key": "body-declarations-ffe7590500b7af54",
+      "url": "https://www.teplice.sk/primatorka-mesta.html",
+      "sha256": "63ea393013f4f401ae76bf872526eb7b902fbb815bcbc370cb1e78d98b003d21",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/body-declarations-ffe7590500b7af54.receipt.json",
+      "readScope": "Named original identity/role passages; full private identifiers were not exported."
+    },
+    {
+      "key": "identity-zetor-bakos",
+      "url": "https://www.zetor.com/zetor-world/explore-zetor/presenting-our-sales-network/presenting-our-sales-network-jozef-bakos-zetor-servis",
+      "sha256": "5def8f1c3407894bf6e93966fd41c6a19eeedb28960dbfcba9d88431c3145fb5",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/identity-zetor-bakos.receipt.json",
+      "readScope": "Named original identity/role passages; full private identifiers were not exported."
+    },
+    {
+      "key": "identity-judge-mikulas-2004",
+      "url": "https://www.sudnarada.gov.sk/data/att/7ea/402.f36f7c.pdf",
+      "sha256": "1b74ca0a45344baa5016418ce5fa62ef8df9cfde6ed53a17744b10d715474c22",
+      "access": "original_downloaded",
+      "hashVerified": true,
+      "receiptFile": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/identity-judge-mikulas-2004.receipt.json",
+      "readScope": "Named original identity/role passages; full private identifiers were not exported."
+    },
+    {
+      "key": "reader-propperova-court.json",
+      "url": "https://otvorenesudy.sk/decrees/5528339?l=sk",
+      "urls": null,
+      "artifactSha256": "6c6c824caea7ca273caa5080ccaf1bfc67f3c3d9720317390c2a5db4bdc19f93",
+      "access": "tool_original_read_or_explicit_failures",
+      "readScope": "Court parties/representation caption, or explicit mirror-access failures. No hidden original reconstructed."
+    },
+    {
+      "key": "reader-bakos-mikulas.json",
+      "url": null,
+      "urls": [
+        "https://otvorenesudy.sk/decrees/5105851?l=en",
+        "https://otvorenesudy.sk/decrees/4802625?l=en",
+        "https://aipravnik.sk/rozhodnutia/nssud/3sfk52024",
+        "https://otvorenesudy.sk/judges/3239"
+      ],
+      "artifactSha256": "052bd2066183244c9ffc42cbc3cd88fdb163739ea1a565619f9c9093354ec588",
+      "access": "tool_original_read_or_explicit_failures",
+      "readScope": "Court parties/representation caption, or explicit mirror-access failures. No hidden original reconstructed."
+    },
+    {
+      "key": "reader-bakos-prosecutor.json",
+      "url": null,
+      "urls": [
+        "https://otvorenesudy.sk/decrees/5105851?h=&l=sk",
+        "https://otvorenesudy.sk/decrees/5105851",
+        "https://prokuratura.otvorenesudy.sk/prosecutors/569?l=sk"
+      ],
+      "artifactSha256": "b2b9c9a39451c61f0efa2a1c2bc8d5f4bfcaeb2059be63898f40f0e68c22b7a3",
+      "access": "tool_original_read_or_explicit_failures",
+      "readScope": "Court parties/representation caption, or explicit mirror-access failures. No hidden original reconstructed."
+    }
+  ],
+  "privacyReview": {
+    "publicScopedClaimsHaveFullDOB": false,
+    "publicScopedClaimsHavePrivateStreetAddresses": false,
+    "publicScopedClaimsHavePersonalContactDetails": false,
+    "financeIbanUse": "Onlyexactcandidate-publishedcampaignIBANs; no bankstatement/transactionsclaimedread."
+  },
+  "limitations": [
+    "Allacceptedscopedfactsareparaphrases; no directquote requiringverbatimreconstructionpublished.",
+    "SMEpublisherresponseisbeyondsnippetbutpartial;paywallremainderisexplicitlyexcluded.",
+    "Largegazette/archivaloriginalswereadjudicatedfromrelevantnamedsectionsanddocumentheadings,not representedasline-by-linewhole-volumeanalysis.",
+    "Currentproposalchangeduringworkerclosureisoutsidefrozenhash; laterclaimsrequireseparatereview.",
+    "NoTrenčínworkerfilesortrackedfilesedited."
+  ],
+  "summary": "All 16 accepted controversy claims and three candidate-site account disclosures are supported within their stated date and access bounds. The independent review found one unsupported adjacent public-office claim and three metadata/journal corrections. No candidate personal conviction, final prosecutor outcome or hidden paywall fact is inferred.",
+  "postReviewAddendum": {
+    "date": "2026-10-15T14:23:10.588899+00:00",
+    "finding": "The prior review correctly established Mičega candidate-site ownership and exact IBAN, but treated the derived bank URL note as informational. Fresh AGENTS.md line135 review makes this actionable: remove the invented account.url while retaining verified IBAN. See root-implementation-independent-review.json finding implementation-01."
+  }
+}

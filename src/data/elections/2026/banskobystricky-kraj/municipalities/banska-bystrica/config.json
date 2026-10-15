@@ -1,0 +1,19 @@
+{
+  "cityName": "Banská Bystrica",
+  "status": "published",
+  "snapshotDate": "2026-10-15",
+  "cityDistrictIds": [
+    "bb-1",
+    "bb-2",
+    "bb-3",
+    "bb-4",
+    "bb-5",
+    "bb-6",
+    "bb-7"
+  ],
+  "regionalDistrictId": "bbsk-1",
+  "contestIds": {
+    "mayor": "2026-bb-mayor",
+    "city-council": "2026-bb-city-council"
+  }
+}

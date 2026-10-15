@@ -1,0 +1,184 @@
+{
+  "checkedAt": "2026-10-15",
+  "boundary": "Final evidence package: read receipts,adjudication,independent snapshot reviews and final technical gates. Each review hash marks its exact reviewed snapshot; subsequent resolutions and main-checkout verification are separate. No raw originals,private identity values or bank transaction rows exported.",
+  "files": [
+    {
+      "file": "actual-query-receipts.json",
+      "sha256": "c7655f33066eeac6319ea89856d1f106ea67eef5eb15beea5942ee3f0de9ff76",
+      "privateOrigin": "actual-query-receipt-index.json"
+    },
+    {
+      "file": "banska-bystrica-events-accounts-review.json",
+      "sha256": "cc41485d2a2f65fb10b0cc21740a73647d538d400276f5e3010701e5ec665c09",
+      "privateOrigin": "root-bb-independent-review.json"
+    },
+    {
+      "file": "banska-bystrica-media-review.json",
+      "sha256": "82f9ec89df8df88e76cd9134263ca2a70af15cd5b9fb2158d78cabff675c8ca1",
+      "privateOrigin": "trnava/bb-media-independent-review.json"
+    },
+    {
+      "file": "banska-bystrica-polling-review.json",
+      "sha256": "87d5aa2dd12741901ce711f5c5939675d1b7daa8f010142aeb2c4908fed3edbf",
+      "privateOrigin": "banska-bystrica/polling-review.json"
+    },
+    {
+      "file": "banska-bystrica-spacing-review.json",
+      "sha256": "e8750c60c07b7e2e7d8622dd8762621a068bddf3870e4b09e7b522e988d5c020",
+      "privateOrigin": "bb-public-spacing-review.json"
+    },
+    {
+      "file": "banska-bystrica-tls-review.json",
+      "sha256": "72a25dc6798ccee275602d7733a6b23850561e0d4d437b7e93c154daf66ea531",
+      "privateOrigin": "banska-bystrica/tls-source-access-review.json"
+    },
+    {
+      "file": "data-manifest.json",
+      "sha256": "34031126b4f7a9b4f8cffaa6ec744a178b00929e60115353840f6167c5720699"
+    },
+    {
+      "file": "export-review.json",
+      "sha256": "9470a993637b56f8ee37c0afcb0c2bf984c4b9cf514f1afd0f5a5b86c4fc3f46",
+      "privateOrigin": "root-final-export-independent-review.json"
+    },
+    {
+      "file": "external-link-coverage.json",
+      "sha256": "83dc3d71b94e3aa9cab9a55bd245ffc30a7879e5b6e83559fef62b7bcfe310f0"
+    },
+    {
+      "file": "external-links-delta-results.json",
+      "sha256": "b66e9fd2aaf1bdc686d8d8a554b8c00c69283794c03bd8fefd5693c3cdbc6044",
+      "privateOrigin": "external-links-delta-results.json"
+    },
+    {
+      "file": "external-links-full-results.json",
+      "sha256": "8db410a312cdd33a10088cf19f683129cffe1b722e6c7069db66d6f83f1dc670",
+      "privateOrigin": "external-links-full-results.json"
+    },
+    {
+      "file": "external-links-recovery-results.json",
+      "sha256": "f4d3ddbb5e1c4ee17cbbfbc8d92dc69b78cfd8c646c3012c785fcc82f81fa3ec",
+      "privateOrigin": "external-links-recovery-results.json"
+    },
+    {
+      "file": "final-delta-review.json",
+      "sha256": "622efc3560ccbca04ef71aaaf73304e5c630e296b448e20748a07021127e86bf",
+      "privateOrigin": "root-final-delta-independent-review.json"
+    },
+    {
+      "file": "finance-identity-review.json",
+      "sha256": "891f8f5c7120269e6404c7850c0a0d94fdbe2ca6972d9c0eaea2925fa24a5b1b",
+      "privateOrigin": "root-finance-identity-independent-review.json"
+    },
+    {
+      "file": "html-validation.json",
+      "sha256": "4091f68b42b126c7e917bce2b574d01379c1793df705beaf60dc78a9e1b8bb79"
+    },
+    {
+      "file": "implementation-review.json",
+      "sha256": "02e64849951269c729c3f7817da888cce9abe20a9298dafe040790c20167f80f",
+      "privateOrigin": "root-implementation-independent-review.json"
+    },
+    {
+      "file": "main-checkout-verification.json",
+      "sha256": "18f34090b0f0df6a3805d41b4450f1900ca181bb0653d16761cda0a14bad592d"
+    },
+    {
+      "file": "nitra-ballot-wording-review.json",
+      "sha256": "520a6f88b232809357b2f436de779ffb55872b4da31eb0501378f89ffea80f45",
+      "privateOrigin": "nitra/ballot-number-wording-review.json"
+    },
+    {
+      "file": "nitra-employment-resolution-review.json",
+      "sha256": "1fe7a390bbf913af4c30f25bbccfaae2494d930e198af7ebe97ecb35cd45bf58",
+      "privateOrigin": "banska-bystrica/nitra-employment-atomicity-resolution-review.json"
+    },
+    {
+      "file": "nitra-employment-review.json",
+      "sha256": "f3b194625c0dd9d9fed008d81cda4d9fbb30c9628878f060fe92756642258a33",
+      "privateOrigin": "banska-bystrica/nitra-employment-independent-review.json"
+    },
+    {
+      "file": "nitra-events-review.json",
+      "sha256": "32715e1565cee4b793607369553de3285e4f6b7d371f71170ab784fd22387289",
+      "privateOrigin": "trencin/nitra-independent-events-review.json"
+    },
+    {
+      "file": "nitra-final-atomicity-resolution.json",
+      "sha256": "0586f832f6eae10aab0dae7d10cf1f8205dce10e0d130a54b53b2ad8004372c5",
+      "privateOrigin": "nitra/final-atomicity-resolution.json"
+    },
+    {
+      "file": "nitra-finance-history-review.json",
+      "sha256": "eaf122bb6da22e27ac0681a8c5317f76fb29b783a9409d8be2d3b15d2d3519c7",
+      "privateOrigin": "trnava/nitra-independent-review.json"
+    },
+    {
+      "file": "nitra-polling-review.json",
+      "sha256": "e5fa331147a7913dc949a9e2cdb112a796e429f069f7a0785af8e8f56d6ad63b",
+      "privateOrigin": "nitra/polling-visual-review.json"
+    },
+    {
+      "file": "official-final-recheck.json",
+      "sha256": "37773a84ab94a5084f9d672a837c5ae4cb31f7889e27d2e25dfcb1c91bed46e6"
+    },
+    {
+      "file": "party-url-whitespace-review.json",
+      "sha256": "1cea910f952fd36843e31328546de9d7dff409b46249c7bf63ba23937bb59546",
+      "privateOrigin": "trencin/party-url-whitespace-review.json"
+    },
+    {
+      "file": "source-canonicalization-review.json",
+      "sha256": "2bca477c2ab7db0788838767294dccc0cc11e5baa9f818426e2018407a53010d",
+      "privateOrigin": "canonical-url-review.json"
+    },
+    {
+      "file": "source-metadata-corrections.json",
+      "sha256": "35b53577b22a99ab0604d5915b7319d4409b8a17e192949405deb56fa61b4905",
+      "privateOrigin": "source-metadata-final-corrections.json"
+    },
+    {
+      "file": "source-metadata-date-resolution.json",
+      "sha256": "dac466093c0383a5bb5363ffd26400cd41b6c72fd417dba506ea533e89158a7a",
+      "privateOrigin": "source-metadata-last-review-sync.json"
+    },
+    {
+      "file": "source-title-resolution.json",
+      "sha256": "d43e2a4a42c188903119a53cfa0c49fa261c36687e15cbeca6d116e6172ccf8b",
+      "privateOrigin": "source-index-title-resolution.json"
+    },
+    {
+      "file": "trencin-events-finance-review.json",
+      "sha256": "2f67cc8e193868420f7c679b87d1a87087efd6f74fa0ec053f662f4bea87c45c",
+      "privateOrigin": "trnava/trencin-independent-events-finance-review.json"
+    },
+    {
+      "file": "trencin-final-identity-review.json",
+      "sha256": "fade1511f7d343805f45ea947c5f3207da8ca961a8bcad66cd19f767a60b92f2",
+      "privateOrigin": "trnava/trencin-final-identity-review.json"
+    },
+    {
+      "file": "trnava-business-review.json",
+      "sha256": "dc34eb7b637c6082a6187f050b95bea18138e827bbcf418ecb4122f2938c9f91",
+      "privateOrigin": "root-trnava-business-independent-review.json"
+    },
+    {
+      "file": "trnava-events-accounts-review.json",
+      "sha256": "bdef99af7bd4325dd4274be5d853fb5f3c2cb04d8b38420b82301cf0358151db",
+      "privateOrigin": "root-trnava-independent-review.json"
+    },
+    {
+      "file": "trnava-history-review.json",
+      "sha256": "60d198a1136c66ba5831da7e0d8ec9867125bb926e1e2c92d03499775bf5477a",
+      "privateOrigin": "root-trnava-history-independent-review.json"
+    },
+    {
+      "file": "verification-log-receipts.json",
+      "sha256": "d8ff3bb5a64e00bd05d4126a90f10319b820b734514311d361437fc3972ea26c"
+    },
+    {
+      "file": "verification.json",
+      "sha256": "fffc2bc807e241b6b07c8f4c0b638f7438bccd861b79fb3604a7dd7d3944fdb1"
+    }
+  ]
+}

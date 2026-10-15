@@ -1,0 +1,181 @@
+{
+  "reviewer": "/root",
+  "checkedAt": "2026-10-15",
+  "proposalSha256": "9c253e6fe00cd9278df561c33029b8c105db45d28ad8e4de96b9cc3791846fa9",
+  "eventClaimIds": [
+    "bbsk-marian-kotleba-bridge-report20240928",
+    "bbsk-marian-kotleba-bridge-city-denial20240928",
+    "bbsk-miriam-lapunikova-war-statement-report20250213",
+    "bbsk-miriam-lapunikova-war-statement-response20250213",
+    "bbsk-miriam-lapunikova-diplomats-response20250213",
+    "bbsk-miroslav-suja-hearing20250904",
+    "bbsk-miroslav-suja-hearing-defense20250904",
+    "bbsk-martin-halas-ppa-report20261002",
+    "bbsk-martin-halas-ppa-qualification20261002",
+    "bbsk-martin-halas-ppa-response20261002",
+    "bbsk-radoslav-kabac-bankruptcy-inventory20171114",
+    "bbsk-radoslav-kabac-bankruptcy-notice20200702",
+    "bbsk-tobias-longauer-insurance-list20261015",
+    "bbsk-david-kapusta-personality-filing20230530",
+    "bbsk-david-kapusta-personality-attributed-withdrawal20241220",
+    "bbsk-juraj-dzmura-personality-filing20230530",
+    "bbsk-juraj-dzmura-personality-attributed-withdrawal20241220",
+    "bbsk-david-kapusta-personality-defense20241220",
+    "bbsk-marian-kotleba-cheques-supreme20220405",
+    "bbsk-marian-kotleba-cheques-sentence20220405",
+    "bbsk-marian-kotleba-cheques-response20220405",
+    "bbsk-marian-kotleba-cheques-probation-reported20240115",
+    "bbsk-marian-kotleba-cheques-probation-effect-reported20240115",
+    "bbsk-marian-kotleba-party-transfers-report20260819",
+    "bbsk-marian-kotleba-property-report20260819",
+    "bbsk-marian-kotleba-property-denial20260819",
+    "bbsk-marian-kotleba-property-financing-response20260727"
+  ],
+  "originalSectionsReadAndHashesVerified": [
+    {
+      "key": "event-kotleba-bridge",
+      "url": "https://spravy.stvr.sk/2024/09/za-poskodenie-mosta-v-banskej-bystrici-vraj-mohla-vojenska-technika-ci-prevoz-zbrani-nato-hoax-siril-aj-m-kotleba/",
+      "sha256": "e3477f021c33401af529d2122fcaeac332c4bb7b90544ecf2133de30f9baa387"
+    },
+    {
+      "key": "event-6b64b91b8964",
+      "url": "https://www.aktuality.sk/clanok/lAYkZ9x/kto-je-vrah-riaditelka-rooseveltovej-nemocnice-vysvetluje-svoj-kontroverzny-vyrok/",
+      "sha256": "db33db6c403dba7c0628b20d5c27053aede81b226f0f77b71b3bab7065ebea6b"
+    },
+    {
+      "key": "event-suja-hearing20250904",
+      "url": "https://www.hnonline.sk/slovensko/96233244-podpredseda-republiky-miroslav-suja-odmieta-vinu-hovori-o-vymyslenej-kauze",
+      "sha256": "3cb962ce253416be44deaa040c7fdeb71d6af7df43f6b62c941495a3281582f1"
+    },
+    {
+      "key": "event-halas-20261002",
+      "url": "https://www.aktuality.sk/clanok/JuBrnYV/politik-od-zoroslava-kollara-postavil-na-donovaloch-chatu-z-eurofondov-teraz-v-nej-na-papieri-byva-a-kandiduje-na-starostu/",
+      "sha256": "bb5ef02e486ca64120d03aa4b1dac7f561146e8d32cb34260d549e88e9b70bf0"
+    },
+    {
+      "key": "ov-identity-51572b600181",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=1752717",
+      "sha256": "ee6574b573488ab10e89910a862082c76cec607ae852dde930b74eb8c730c117"
+    },
+    {
+      "key": "kabac-notice2020",
+      "url": "https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetail.aspx?IdFormular=2603021",
+      "sha256": "358963e03c772d6132d9993f16e4657c25815e01e11dca9ca755462f79d52df1"
+    },
+    {
+      "key": "event-edc40e0ce999",
+      "url": "https://www.vszp.sk/platitelia/platenie-poistneho/zoznam-dlznikov.html?docid=227&nazov=B&page=186&proceed=true&typ=1",
+      "sha256": "7eefdb40cacff0840f15e95a6e6dd4d0186faa7afb93682363626f4b9f3c3bb4"
+    },
+    {
+      "key": "employment-institution-tobias-longauer",
+      "url": "https://www.nrsr.sk/web/default.aspx?id=144021&sid=foz%2Fdetails",
+      "sha256": "233aad79d39776a6cc8fef9500df30b87729eebf2306fe921b90dc68a614fb08"
+    },
+    {
+      "key": "event-kapusta-dzmura-filing20230530",
+      "url": "https://www.bystricoviny.sk/wp-content/uploads/2023/10/JUDr_Juraj_Dzmura_FIN_INN_David_Kapusta_Zaloba_na_ochranu_osobnosti_scan.pdf",
+      "sha256": "a9417e8b7e5270a7d07a0aa6b398467e1f6ad41d36a31e9e06e96cee0d7d41e4"
+    },
+    {
+      "key": "event-kapusta-court20241220",
+      "url": "https://www.bystricak.sk/clanky/4232/na-poslanca-z-banskej-bystrice-bola-podana-zaloba-kritizoval-mestsku-firmu-ako-dopadol-sud",
+      "sha256": "e0bb843fd786203a3e52ba6d20efbbe382b0a1c3d09ce8a54ac38b26269b7df1"
+    },
+    {
+      "key": "event-kotleba-supreme2022",
+      "url": "https://www.nsud.sk/data/att/d97/497249.7199b1.pdf",
+      "sha256": "bbff087f3c6b6393b7cffdcc73d8a94dc28fe9c70ed0b2628a465a57428aeac5"
+    },
+    {
+      "key": "event-kotleba-nrsr-annual2022",
+      "url": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=537701",
+      "sha256": "025716d8f08db7f3b68b49807bcd8d41b32622a2f8b517ca13ca569b2b85decf"
+    },
+    {
+      "key": "event-kotleba-response20220405",
+      "url": "https://www.teraz.sk/najnovsie/kotleba-cely-cas-islo-o-to-aby-ma-z/624602-clanok.html",
+      "sha256": "4a1ad74ce5e96287fad4f4051b5925050fda2042220a6cd9c96caa3f72804ffc"
+    },
+    {
+      "key": "event-kotleba-probation2024",
+      "url": "https://www.aktuality.sk/clanok/bHRvph6/prezidentske-volby-2024-sud-rozhodol-ze-marian-kotleba-viedol-riadny-zivot-moze-kandidovat-za-prezidenta/",
+      "sha256": "3f737c87d8ddf1c7f4bad48bfbe4acd36fc0a0368b7895ff510d47245ed91b11"
+    },
+    {
+      "key": "event-kotleba-property20260709",
+      "url": "https://www.aktuality.sk/clanok/1UsFCyE/marian-kotleba-nakupil-byty-za-milion-vsetko-platil-bez-hypoteky-odkryli-sme-realitnu-siet-sefa-lsns/",
+      "sha256": "f2f050c86197200552c78db11b936119e530e0640d42f12c84b23cf43f8f0ddb"
+    },
+    {
+      "key": "event-kotleba-property20260727",
+      "url": "https://www.aktuality.sk/clanok/Qy8jGGh/nasli-sme-kotlebovu-utajenu-luxusnu-vilu-pri-mori-sef-lsns-nedokaze-vysvetlit-odkial-ma-peniaze/",
+      "sha256": "9c0751e0b169f0538a5f9691d63cfa5b061ddcd82c4b617d3474a5935c53abb6"
+    },
+    {
+      "key": "event-kotleba-property20260819",
+      "url": "https://www.aktuality.sk/clanok/WNhAmuf/kotleba-prelial-tri-miliony-od-statu-na-ine-ucty-nasli-sme-jeho-rodinny-dom-obrovske-pozemky-aj-siedmy-byt/",
+      "sha256": "12632eadb67833faca3bad00e85addf6e998954d47f0cc98ec55fcda91fa12bf"
+    },
+    {
+      "key": "molitoris-site",
+      "url": "https://www.molitoris.sk/",
+      "sha256": "f73abf758dcf410e0a052dbfddcedb606a8fdb4584dc8ddd645af4a0ee8798f2"
+    },
+    {
+      "key": "nosko-campaign-site",
+      "url": "https://www.jannosko.sk/",
+      "sha256": "50bde18987ca85e094224406dd219eb9ecadae4b26bf4b23585e6242a2b9a298"
+    },
+    {
+      "key": "closure-lunter-programme",
+      "url": "https://ondrejlunter.sk/program/moderna-infrastruktura/",
+      "sha256": "11cc0537473519dca948570ba5d77087f63ef8fadbb6167e9cc381925c908007"
+    }
+  ],
+  "privateIdentityChecks": [
+    {
+      "candidateId": "bbsk-david-kapusta",
+      "originalKey": "event-kapusta-dzmura-filing20230530-ocr/combined",
+      "ownNamedBlockMunicipalityAgrees": true,
+      "electionAgeAgrees": true,
+      "ageAtElection": 37
+    },
+    {
+      "candidateId": "bbsk-juraj-dzmura",
+      "originalKey": "event-kapusta-dzmura-filing20230530-ocr/combined",
+      "ownNamedBlockMunicipalityAgrees": true,
+      "electionAgeAgrees": true,
+      "ageAtElection": 43
+    },
+    {
+      "candidateId": "bbsk-radoslav-kabac",
+      "originalKey": "ov-identity-51572b600181",
+      "ownNamedBlockMunicipalityAgrees": true,
+      "electionAgeAgrees": true,
+      "ageAtElection": 50
+    }
+  ],
+  "financeOwnership": {
+    "verifiedPersonalAccounts": 3,
+    "exactPublishedLinks": true,
+    "candidateSiteIdentityMatches": true,
+    "DianaPSFooterNotPersonal": true,
+    "noRegisterExclusion": true
+  },
+  "findingsResolved": [
+    "Kotleba2022SupremeCourt case omitted initially: official4To/1/2021 operative part independently read, changed§422qualification,6month suspended/18monthprobation; named officialNRSRfinality bridge. Separate2024signed report of8Dec2023probation success/effect retained.2026series and denial/financing response read; no wealth/funds-origin inference.",
+    "Added separate attributed property report beside property denial/financing response.",
+    "All21preliminary current-role identity holds explicitly superseded by corroborated decisions."
+  ],
+  "boundaries": [
+    "Suja March2025criminal order followed by objections and4Sep2025hearing; no final conviction/current-stage inference.",
+    "Halás latest original explicitly says law/grant rules not breached, preserved beside report and response.",
+    "Longauer exact insurer row/IČO matched to official invoice with same name, personal municipality and parliamentary-assistant field; no amount/private address/court-outcome claim.",
+    "Kabáč inventory/laterclaim notices dated historical steps, not current debt/status.",
+    "Kapusta/Džmura filing is party-authored, not judgment; withdrawal remains Kapusta attributed account.",
+    "Kotleba anonymised judgment linked by official named parliamentary record, exact date/case/roles; later unsigned appeal repost not accepted.",
+    "No quotation-kind claims, personal asset estimates, copied portraits, private dates/addresses or bank transaction rows exported. Public date spacing corrected; official/source fields untouched."
+  ],
+  "openSubstantiveFindings": 0
+}

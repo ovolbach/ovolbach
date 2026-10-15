@@ -1,0 +1,365 @@
+{
+  "command": "NODE_EXTRA_CA_CERTS=<verified-intermediate> npx tsx .internal/four-cities-link-recovery.ts",
+  "results": [
+    {
+      "url": "https://www.lubokuban.sk/robert-dubravec/",
+      "finalUrl": "https://www.lubokuban.sk/robert-dubravec/",
+      "sourceIds": [
+        "rk-kuban-dubravec-profile-2022"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/program/",
+      "finalUrl": "https://www.lubokuban.sk/program/",
+      "sourceIds": [
+        "rk-kuban-programme-2022"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/marian-pales/",
+      "finalUrl": "https://www.lubokuban.sk/marian-pales/",
+      "sourceIds": [
+        "rk-pales-campaign-statement"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/peter-stupak/",
+      "finalUrl": "https://www.lubokuban.sk/peter-stupak/",
+      "sourceIds": [
+        "rk-stupak-campaign-statement"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.lubokuban.sk/ludovit-betko/",
+      "finalUrl": "https://www.lubokuban.sk/ludovit-betko/",
+      "sourceIds": [
+        "rk-kuban-betko-profile-2022"
+      ],
+      "status": 503,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+      "finalUrl": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+      "sourceIds": [
+        "mt-city-polling-2026"
+      ],
+      "status": 404,
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://slysko.sk/",
+      "finalUrl": "https://slysko.sk/",
+      "sourceIds": [
+        "za-c-slysko-programme"
+      ],
+      "reachable": false,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 2,
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://www.zuspmb.sk/content/rada-skoly",
+      "finalUrl": "https://www.zuspmb.sk/content/rada-skoly",
+      "sourceIds": [
+        "dk-zus-schoolboard-c3"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Martin.Bodis&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Martin.Bodis&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "nr-employment-lead-2167"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/cinnost-majetok-verejnych-funkcionarov",
+      "finalUrl": "https://www.bbsk.sk/cinnost-majetok-verejnych-funkcionarov",
+      "sourceIds": [
+        "bb-bbsk-assets-index-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/poslanci?page=2",
+      "finalUrl": "https://www.bbsk.sk/poslanci?page=2",
+      "sourceIds": [
+        "bb-bbsk-current-council-page2-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/poslanci?page=3",
+      "finalUrl": "https://www.bbsk.sk/poslanci?page=3",
+      "sourceIds": [
+        "bb-bbsk-current-council-page3-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/poslanci?page=4",
+      "finalUrl": "https://www.bbsk.sk/poslanci?page=4",
+      "sourceIds": [
+        "bb-bbsk-current-council-page4-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/predseda",
+      "finalUrl": "https://www.bbsk.sk/predseda",
+      "sourceIds": [
+        "bb-bbsk-current-chair-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Ondrej.Lunter&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Ondrej.Lunter&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "bb-closure-lunter-nrsr-declaration"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Miroslav.%C4%8Cell%C3%A1r&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Miroslav.%C4%8Cell%C3%A1r&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "bb-closure-cellar-nrsr-declaration"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1173&CisObdobia=9",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1173&CisObdobia=9",
+      "sourceIds": [
+        "bb-current-malatinec-nrsr-profile"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/volby-2026",
+      "finalUrl": "https://www.bbsk.sk/volby-2026",
+      "sourceIds": [
+        "bb-regional-index-tls-unverified"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.bbsk.sk/storage/app/media/dokumenty/volby-2026/volebn-obvody-oznamenie-s-obcami.pdf",
+      "finalUrl": "https://www.bbsk.sk/storage/app/media/dokumenty/volby-2026/volebn-obvody-oznamenie-s-obcami.pdf",
+      "sourceIds": [
+        "bb-regional-district-decision-tls-unverified"
+      ],
+      "status": 206,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=1083&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=1083&sid=poslanci%2Fposlanec",
+      "sourceIds": [
+        "bb-official-suja-term8"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Page.aspx?sid=poslanci/poslanec&PoslanecID=1158&CisObdobia=9",
+      "finalUrl": "https://www.nrsr.sk/web/Page.aspx?sid=poslanci/poslanec&PoslanecID=1158&CisObdobia=9",
+      "sourceIds": [
+        "bb-official-karas-alternate"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Tibor.Gaspar&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Tibor.Gaspar&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "nr-last-assets-gaspar"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Ondrej.Sedivy&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Ondrej.Sedivy&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "nr-last-assets-sedivy"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Jan.Kmet&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Jan.Kmet&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "tn-body-declarations-49b607093797cdd7"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Juraj.Hajso&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Juraj.Hajso&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "tn-body-declarations-53816dbe85abedb9"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Jozef.Hab%C3%A1nik&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Jozef.Hab%C3%A1nik&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "tn-body-declarations-da671605eaed9c4c"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Zuzana.Frajkov%C3%A1+%C4%8Eurmekov%C3%A1&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Zuzana.Frajkov%C3%A1+%C4%8Eurmekov%C3%A1&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "tn-body-declarations-f574d6c2cfb2bb17"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Jaroslav.Mego&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Jaroslav.Mego&sid=vnf%2Foznamenie",
+      "sourceIds": [
+        "tn-body-declarations-f0ab4450af12750d"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/default.aspx?id=144021&sid=foz%2Fdetails",
+      "finalUrl": "https://www.nrsr.sk/web/default.aspx?id=144021&sid=foz%2Fdetails",
+      "sourceIds": [
+        "bb-employment-institution-tobias-longauer"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=537701",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=537701",
+      "sourceIds": [
+        "bb-event-kotleba-nrsr-annual2022"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    }
+  ]
+}

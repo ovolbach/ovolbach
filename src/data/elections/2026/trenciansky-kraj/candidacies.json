@@ -1,0 +1,2511 @@
+[
+  {
+    "id": "tsk-danica-birosova-mayor-2026",
+    "candidateId": "tsk-danica-birosova",
+    "electionId": "mayor",
+    "contestId": "tn-mayor-2026",
+    "ballotNumber": 1,
+    "ageAtElection": 69,
+    "occupationOfficial": "advokátka",
+    "displayNameOfficial": "Danica Birošová, JUDr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-michal-bratranec-mayor-2026",
+    "candidateId": "tsk-michal-bratranec",
+    "electionId": "mayor",
+    "contestId": "tn-mayor-2026",
+    "ballotNumber": 2,
+    "ageAtElection": 51,
+    "occupationOfficial": "šofér",
+    "displayNameOfficial": "Michal Bratranec",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-jan-forgac-mayor-2026",
+    "candidateId": "tsk-jan-forgac",
+    "electionId": "mayor",
+    "contestId": "tn-mayor-2026",
+    "ballotNumber": 3,
+    "ageAtElection": 51,
+    "occupationOfficial": "zástupca primátora",
+    "displayNameOfficial": "Ján Forgáč, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-milos-micega-mayor-2026",
+    "candidateId": "tsk-milos-micega",
+    "electionId": "mayor",
+    "contestId": "tn-mayor-2026",
+    "ballotNumber": 4,
+    "ageAtElection": 56,
+    "occupationOfficial": "riaditeľ regionálneho úradu",
+    "displayNameOfficial": "Miloš Mičega, Ing., MBA, LL.M.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-jozef-bakos-city-council-2026",
+    "candidateId": "tsk-jozef-bakos",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 1,
+    "ageAtElection": 38,
+    "occupationOfficial": "projektový manažér",
+    "displayNameOfficial": "Jozef Bakoš, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-zuzana-bednarova-city-council-2026",
+    "candidateId": "tsk-zuzana-bednarova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 2,
+    "ageAtElection": 50,
+    "occupationOfficial": "konateľka",
+    "displayNameOfficial": "Zuzana Bednárová, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-alexander-biros-city-council-2026",
+    "candidateId": "tsk-alexander-biros",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 3,
+    "ageAtElection": 20,
+    "occupationOfficial": "študent",
+    "displayNameOfficial": "Alexander Biroš",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-drahoslav-bocak-city-council-2026",
+    "candidateId": "tsk-drahoslav-bocak",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 4,
+    "ageAtElection": 53,
+    "occupationOfficial": "manažér v oblasti zdravotnej starostlivosti",
+    "displayNameOfficial": "Drahoslav Bočák, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-zdenka-brisudova-city-council-2026",
+    "candidateId": "tsk-zdenka-brisudova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 5,
+    "ageAtElection": 55,
+    "occupationOfficial": "učiteľka MŠ",
+    "displayNameOfficial": "Zdenka Brisudová, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-andrej-docar-city-council-2026",
+    "candidateId": "tsk-andrej-docar",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 6,
+    "ageAtElection": 51,
+    "occupationOfficial": "špecialista pre inovácie",
+    "displayNameOfficial": "Andrej Dočár, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-drahomir-drozd-city-council-2026",
+    "candidateId": "tsk-drahomir-drozd",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 7,
+    "ageAtElection": 64,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Drahomír Drozd, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-jan-fabicovic-city-council-2026",
+    "candidateId": "tsk-jan-fabicovic",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 8,
+    "ageAtElection": 40,
+    "occupationOfficial": "riaditeľ vzdelávacieho inštitútu",
+    "displayNameOfficial": "Ján Fabičovic, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-robert-hartmann-city-council-2026",
+    "candidateId": "tsk-robert-hartmann",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 9,
+    "ageAtElection": 49,
+    "occupationOfficial": "dopravný inžinier, konateľ",
+    "displayNameOfficial": "Róbert Hartmann, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-andrea-jakubcova-city-council-2026",
+    "candidateId": "tsk-andrea-jakubcova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 10,
+    "ageAtElection": 49,
+    "occupationOfficial": "zdravotná sestra",
+    "displayNameOfficial": "Andrea Jakubcová, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-maria-kebiskova-city-council-2026",
+    "candidateId": "tsk-maria-kebiskova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 11,
+    "ageAtElection": 69,
+    "occupationOfficial": "konateľka",
+    "displayNameOfficial": "Mária Kebísková, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-lukas-kecera-city-council-2026",
+    "candidateId": "tsk-lukas-kecera",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 12,
+    "ageAtElection": 41,
+    "occupationOfficial": "technický manažér",
+    "displayNameOfficial": "Lukáš Kecera",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-jan-kmet-city-council-2026",
+    "candidateId": "tsk-jan-kmet",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 13,
+    "ageAtElection": 58,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Ján Kmeť, Mgr., PhD.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-michaela-kobzova-city-council-2026",
+    "candidateId": "tsk-michaela-kobzova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 14,
+    "ageAtElection": 45,
+    "occupationOfficial": "obchodná manažérka",
+    "displayNameOfficial": "Michaela Kobzová, PhDr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-richard-medal-city-council-2026",
+    "candidateId": "tsk-richard-medal",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 15,
+    "ageAtElection": 62,
+    "occupationOfficial": "riaditeľ ekocentra",
+    "displayNameOfficial": "Richard Medal, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-michal-mosko-city-council-2026",
+    "candidateId": "tsk-michal-mosko",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 16,
+    "ageAtElection": 53,
+    "occupationOfficial": "vedúci úradu",
+    "displayNameOfficial": "Michal Moško, Mgr., MBA",
+    "affiliations": [
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-jana-ovesna-city-council-2026",
+    "candidateId": "tsk-jana-ovesna",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 17,
+    "ageAtElection": 46,
+    "occupationOfficial": "organizátorka multižánrových podujatí",
+    "displayNameOfficial": "Jana Ovesná, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-richard-scepko-city-council-2026",
+    "candidateId": "tsk-richard-scepko",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 18,
+    "ageAtElection": 42,
+    "occupationOfficial": "projektový manažér",
+    "displayNameOfficial": "Richard Ščepko, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-1"
+  },
+  {
+    "id": "tsk-marian-betak-city-council-2026",
+    "candidateId": "tsk-marian-betak",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 1,
+    "ageAtElection": 63,
+    "occupationOfficial": "architekt",
+    "displayNameOfficial": "Marián Beták, Ing. arch.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-lubomir-bobak-city-council-2026",
+    "candidateId": "tsk-lubomir-bobak",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 2,
+    "ageAtElection": 34,
+    "occupationOfficial": "odborný referent pre styk s verejnosťou",
+    "displayNameOfficial": "Ľubomír  Bobák, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-marian-bohus-city-council-2026",
+    "candidateId": "tsk-marian-bohus",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 3,
+    "ageAtElection": 50,
+    "occupationOfficial": "školník",
+    "displayNameOfficial": "Marián Bohuš, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-marian-cvecka-city-council-2026",
+    "candidateId": "tsk-marian-cvecka",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 4,
+    "ageAtElection": 51,
+    "occupationOfficial": "rušňovodič",
+    "displayNameOfficial": "Marián Cvečka",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-martina-gabrhelova-city-council-2026",
+    "candidateId": "tsk-martina-gabrhelova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 5,
+    "ageAtElection": 46,
+    "occupationOfficial": "odborná referentka - špecialistka",
+    "displayNameOfficial": "Martina Gabrhelová, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-dominik-gabriel-city-council-2026",
+    "candidateId": "tsk-dominik-gabriel",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 6,
+    "ageAtElection": 32,
+    "occupationOfficial": "špecialista stavebného inžinieringu",
+    "displayNameOfficial": "Dominik Gabriel, Bc.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-juraj-hajso-city-council-2026",
+    "candidateId": "tsk-juraj-hajso",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 7,
+    "ageAtElection": 40,
+    "occupationOfficial": "riaditeľ inšpektorátu práce",
+    "displayNameOfficial": "Juraj Hajšo, JUDr. Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-jakub-halgos-city-council-2026",
+    "candidateId": "tsk-jakub-halgos",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 8,
+    "ageAtElection": 35,
+    "occupationOfficial": "živnostník, športový tréner",
+    "displayNameOfficial": "Jakub Halgoš",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-veronika-hluchanova-city-council-2026",
+    "candidateId": "tsk-veronika-hluchanova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 9,
+    "ageAtElection": 40,
+    "occupationOfficial": "stredoškolská pedagogička",
+    "displayNameOfficial": "Veronika Hlucháňová, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-peter-hostak-city-council-2026",
+    "candidateId": "tsk-peter-hostak",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 10,
+    "ageAtElection": 52,
+    "occupationOfficial": "manažment výskumných projektov",
+    "displayNameOfficial": "Peter Hošták, PhD.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-mario-markech-city-council-2026",
+    "candidateId": "tsk-mario-markech",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 11,
+    "ageAtElection": 37,
+    "occupationOfficial": "predseda predstavenstva, podnikateľ",
+    "displayNameOfficial": "Mário Markech",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-adriana-martosova-city-council-2026",
+    "candidateId": "tsk-adriana-martosova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 12,
+    "ageAtElection": 34,
+    "occupationOfficial": "štátna radkyňa",
+    "displayNameOfficial": "Adriana Martošová, Ing., PhD.",
+    "affiliations": [
+      "Smer - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-peter-mikulas-city-council-2026",
+    "candidateId": "tsk-peter-mikulas",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 13,
+    "ageAtElection": 37,
+    "occupationOfficial": "projektový manažér v stavebníctve",
+    "displayNameOfficial": "Peter Mikuláš",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-lucia-nemesova-city-council-2026",
+    "candidateId": "tsk-lucia-nemesova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 14,
+    "ageAtElection": 39,
+    "occupationOfficial": "učiteľka",
+    "displayNameOfficial": "Lucia Nemešová, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-ervin-olesnan-city-council-2026",
+    "candidateId": "tsk-ervin-olesnan",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 15,
+    "ageAtElection": 50,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Ervín Olešňan, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-richard-zimanyi-city-council-2026",
+    "candidateId": "tsk-richard-zimanyi",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 16,
+    "ageAtElection": 63,
+    "occupationOfficial": "generálny štátny radca",
+    "displayNameOfficial": "Richard Zimányi, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-patrik-zak-city-council-2026",
+    "candidateId": "tsk-patrik-zak",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 17,
+    "ageAtElection": 35,
+    "occupationOfficial": "zástupca primátora",
+    "displayNameOfficial": "Patrik Žák, B.S.B.A.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-2"
+  },
+  {
+    "id": "tsk-miloslav-baco-city-council-2026",
+    "candidateId": "tsk-miloslav-baco",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 1,
+    "ageAtElection": 52,
+    "occupationOfficial": "ekonóm",
+    "displayNameOfficial": "Miloslav Baco, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-juraj-bakos-city-council-2026",
+    "candidateId": "tsk-juraj-bakos",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 2,
+    "ageAtElection": 49,
+    "occupationOfficial": "prekladateľ",
+    "displayNameOfficial": "Juraj Bakoš, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-peter-bohunicky-city-council-2026",
+    "candidateId": "tsk-peter-bohunicky",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 3,
+    "ageAtElection": 71,
+    "occupationOfficial": "dôchodca",
+    "displayNameOfficial": "Peter Bohunický",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-kamil-bystricky-city-council-2026",
+    "candidateId": "tsk-kamil-bystricky",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 4,
+    "ageAtElection": 50,
+    "occupationOfficial": "kultúrny organizátor",
+    "displayNameOfficial": "Kamil Bystrický, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-jan-culy-city-council-2026",
+    "candidateId": "tsk-jan-culy",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 5,
+    "ageAtElection": 52,
+    "occupationOfficial": "koordinátor aktivačných činností",
+    "displayNameOfficial": "Ján Čulý, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-jan-delincak-city-council-2026",
+    "candidateId": "tsk-jan-delincak",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 6,
+    "ageAtElection": 68,
+    "occupationOfficial": "dôchodca",
+    "displayNameOfficial": "Ján Delinčák, PhDr.",
+    "affiliations": [
+      "Republika"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-martin-diweg-pukanec-city-council-2026",
+    "candidateId": "tsk-martin-diweg-pukanec",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 7,
+    "ageAtElection": 46,
+    "occupationOfficial": "výskumný manažér",
+    "displayNameOfficial": "Martin Diweg-Pukanec, prof. Mgr., PhD.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-marcel-frano-city-council-2026",
+    "candidateId": "tsk-marcel-frano",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 8,
+    "ageAtElection": 48,
+    "occupationOfficial": "opatrovateľ",
+    "displayNameOfficial": "Marcel Fraňo, PhDr., MBA",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-andrej-gavenda-city-council-2026",
+    "candidateId": "tsk-andrej-gavenda",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 9,
+    "ageAtElection": 26,
+    "occupationOfficial": "referent",
+    "displayNameOfficial": "Andrej Gavenda, Bc.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-elena-gogolakova-city-council-2026",
+    "candidateId": "tsk-elena-gogolakova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 10,
+    "ageAtElection": 49,
+    "occupationOfficial": "štátna zamestnankyňa",
+    "displayNameOfficial": "Elena Gogoláková, Mgr., PhD.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-lubomir-horny-city-council-2026",
+    "candidateId": "tsk-lubomir-horny",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 11,
+    "ageAtElection": 51,
+    "occupationOfficial": "riaditeľ",
+    "displayNameOfficial": "Ľubomír  Horný",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-lubos-chorvat-city-council-2026",
+    "candidateId": "tsk-lubos-chorvat",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 12,
+    "ageAtElection": 54,
+    "occupationOfficial": "štátny zamestnanec",
+    "displayNameOfficial": "Ľuboš Chorvát, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-bohumil-kern-city-council-2026",
+    "candidateId": "tsk-bohumil-kern",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 13,
+    "ageAtElection": 53,
+    "occupationOfficial": "stredoškolský učiteľ",
+    "displayNameOfficial": "Bohumil Kern, PhDr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-ivan-kubica-city-council-2026",
+    "candidateId": "tsk-ivan-kubica",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 14,
+    "ageAtElection": 49,
+    "occupationOfficial": "IT špecialista",
+    "displayNameOfficial": "Ivan Kubica, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-zdenko-marousek-city-council-2026",
+    "candidateId": "tsk-zdenko-marousek",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 15,
+    "ageAtElection": 56,
+    "occupationOfficial": "vodný záchranár",
+    "displayNameOfficial": "Zdenko Marousek, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-ladislav-matejka-city-council-2026",
+    "candidateId": "tsk-ladislav-matejka",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 16,
+    "ageAtElection": 44,
+    "occupationOfficial": "stavebný manažér",
+    "displayNameOfficial": "Ladislav Matejka, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-milos-micega-city-council-2026",
+    "candidateId": "tsk-milos-micega",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 17,
+    "ageAtElection": 56,
+    "occupationOfficial": "riaditeľ regionálneho úradu",
+    "displayNameOfficial": "Miloš Mičega, Ing., MBA, LL.M.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-tomas-michalik-city-council-2026",
+    "candidateId": "tsk-tomas-michalik",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 18,
+    "ageAtElection": 43,
+    "occupationOfficial": "právnik, archeológ",
+    "displayNameOfficial": "Tomáš Michalík, JUDr. Mgr., PhD.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-zuzana-misakova-city-council-2026",
+    "candidateId": "tsk-zuzana-misakova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 19,
+    "ageAtElection": 49,
+    "occupationOfficial": "riaditeľka divadla, pedagogička",
+    "displayNameOfficial": "Zuzana Mišáková, Mgr., DiS. art.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-martin-petrik-city-council-2026",
+    "candidateId": "tsk-martin-petrik",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 20,
+    "ageAtElection": 43,
+    "occupationOfficial": "riaditeľ občianskeho združenia",
+    "displayNameOfficial": "Martin Petrík, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-jan-plasil-city-council-2026",
+    "candidateId": "tsk-jan-plasil",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 21,
+    "ageAtElection": 45,
+    "occupationOfficial": "vodič",
+    "displayNameOfficial": "Ján Plášil",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-ivan-slany-city-council-2026",
+    "candidateId": "tsk-ivan-slany",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 22,
+    "ageAtElection": 61,
+    "occupationOfficial": "riaditeľ spoločnosti",
+    "displayNameOfficial": "Ivan Slaný, Ing.",
+    "affiliations": [
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-martin-smolka-city-council-2026",
+    "candidateId": "tsk-martin-smolka",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 23,
+    "ageAtElection": 53,
+    "occupationOfficial": "štátny zamestnanec",
+    "displayNameOfficial": "Martin Smolka, JUDr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-dusan-struhacka-city-council-2026",
+    "candidateId": "tsk-dusan-struhacka",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 24,
+    "ageAtElection": 48,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Dušan Struhačka, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-martin-stefanik-city-council-2026",
+    "candidateId": "tsk-martin-stefanik",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 25,
+    "ageAtElection": 44,
+    "occupationOfficial": "vedúci výskumný pracovník",
+    "displayNameOfficial": "Martin Štefánik, Ing., MBA",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-martin-trepac-city-council-2026",
+    "candidateId": "tsk-martin-trepac",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 26,
+    "ageAtElection": 28,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Martin Trepáč, Bc.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-simona-zacharova-city-council-2026",
+    "candidateId": "tsk-simona-zacharova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 27,
+    "ageAtElection": 38,
+    "occupationOfficial": "splnomocnenkyňa vlády",
+    "displayNameOfficial": "Simona Zacharová, PhDr., MBA",
+    "affiliations": [
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-3"
+  },
+  {
+    "id": "tsk-martin-barcak-city-council-2026",
+    "candidateId": "tsk-martin-barcak",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 1,
+    "ageAtElection": 66,
+    "occupationOfficial": "kultúrny pracovník",
+    "displayNameOfficial": "Martin Barčák",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-rastislav-harakal-city-council-2026",
+    "candidateId": "tsk-rastislav-harakal",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 2,
+    "ageAtElection": 32,
+    "occupationOfficial": "hlavný štátny radca, krajský koordinátor",
+    "displayNameOfficial": "Rastislav Harakaľ, Mgr.",
+    "affiliations": [
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-ivan-hudcovsky-city-council-2026",
+    "candidateId": "tsk-ivan-hudcovsky",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 3,
+    "ageAtElection": 47,
+    "occupationOfficial": "key account manager",
+    "displayNameOfficial": "Ivan Hudcovský",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-josef-kolar-city-council-2026",
+    "candidateId": "tsk-josef-kolar",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 4,
+    "ageAtElection": 59,
+    "occupationOfficial": "technik",
+    "displayNameOfficial": "Josef Kolář, Mgr. Ing., MBA",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-branislav-liska-city-council-2026",
+    "candidateId": "tsk-branislav-liska",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 5,
+    "ageAtElection": 27,
+    "occupationOfficial": "pracovník súkromnej bezpečnosti",
+    "displayNameOfficial": "Branislav Líška, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-nada-lorencova-city-council-2026",
+    "candidateId": "tsk-nada-lorencova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 6,
+    "ageAtElection": 49,
+    "occupationOfficial": "právnička",
+    "displayNameOfficial": "Naďa Lorencová, Bc. Mgr. JUDr.",
+    "affiliations": [
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-juraj-machunka-city-council-2026",
+    "candidateId": "tsk-juraj-machunka",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 7,
+    "ageAtElection": 36,
+    "occupationOfficial": "podnikateľ, občiansky aktivista",
+    "displayNameOfficial": "Juraj Machunka, Ing.",
+    "affiliations": [
+      "Demokratická strana - občianski demokrati Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-marcel-meravy-city-council-2026",
+    "candidateId": "tsk-marcel-meravy",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 8,
+    "ageAtElection": 44,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Marcel Meravý",
+    "affiliations": [
+      "Hlas - sociálna demokracia"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-ladislav-paska-city-council-2026",
+    "candidateId": "tsk-ladislav-paska",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 9,
+    "ageAtElection": 48,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Ladislav Paška, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-peter-pilathy-city-council-2026",
+    "candidateId": "tsk-peter-pilathy",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 10,
+    "ageAtElection": 43,
+    "occupationOfficial": "validačný inžinier",
+    "displayNameOfficial": "Peter Piláthy, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-vladimir-poruban-city-council-2026",
+    "candidateId": "tsk-vladimir-poruban",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 11,
+    "ageAtElection": 44,
+    "occupationOfficial": "riaditeľ pre integráciu",
+    "displayNameOfficial": "Vladimír Poruban, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-jana-stefanekova-city-council-2026",
+    "candidateId": "tsk-jana-stefanekova",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 12,
+    "ageAtElection": 46,
+    "occupationOfficial": "advokátka",
+    "displayNameOfficial": "Jana Štefáneková, JUDr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-juraj-stilicha-city-council-2026",
+    "candidateId": "tsk-juraj-stilicha",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 13,
+    "ageAtElection": 47,
+    "occupationOfficial": "riaditeľ charity",
+    "displayNameOfficial": "Juraj Štilicha, Mgr. Ing., LL.M.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Občianska konzervatívna strana",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-robert-svehla-city-council-2026",
+    "candidateId": "tsk-robert-svehla",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 14,
+    "ageAtElection": 31,
+    "occupationOfficial": "asistent primátora",
+    "displayNameOfficial": "Róbert Švehla, B.A.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-tomas-vano-city-council-2026",
+    "candidateId": "tsk-tomas-vano",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 15,
+    "ageAtElection": 46,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Tomáš Vaňo, Ing., MBA",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-lubomir-vavrus-city-council-2026",
+    "candidateId": "tsk-lubomir-vavrus",
+    "electionId": "city-council",
+    "contestId": "tn-city-council-2026",
+    "ballotNumber": 16,
+    "ageAtElection": 52,
+    "occupationOfficial": "výsluhový dôchodca",
+    "displayNameOfficial": "Ľubomír Vavruš, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "districtId": "tn-city-4"
+  },
+  {
+    "id": "tsk-jaroslav-baska-region-chair-2026",
+    "candidateId": "tsk-jaroslav-baska",
+    "electionId": "region-chair",
+    "contestId": "tsk-region-chair-2026",
+    "ballotNumber": 1,
+    "ageAtElection": 51,
+    "occupationOfficial": "predseda samosprávneho kraja",
+    "displayNameOfficial": "Jaroslav Baška, Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-daniel-galas-region-chair-2026",
+    "candidateId": "tsk-daniel-galas",
+    "electionId": "region-chair",
+    "contestId": "tsk-region-chair-2026",
+    "ballotNumber": 2,
+    "ageAtElection": 52,
+    "occupationOfficial": "výsluhový dôchodca",
+    "displayNameOfficial": "Daniel Galas, Ing.",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-lubomir-choleva-region-chair-2026",
+    "candidateId": "tsk-lubomir-choleva",
+    "electionId": "region-chair",
+    "contestId": "tsk-region-chair-2026",
+    "ballotNumber": 3,
+    "ageAtElection": 60,
+    "occupationOfficial": "dôchodca",
+    "displayNameOfficial": "Lubomír Choleva",
+    "affiliations": [
+      "Vlastenecký blok"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-natalia-svitkova-region-chair-2026",
+    "candidateId": "tsk-natalia-svitkova",
+    "electionId": "region-chair",
+    "contestId": "tsk-region-chair-2026",
+    "ballotNumber": 4,
+    "ageAtElection": 39,
+    "occupationOfficial": "manažérka partnerských vzťahov a spoluprác",
+    "displayNameOfficial": "Natália Svítková, Ing.",
+    "affiliations": [
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Občianska konzervatívna strana",
+      "Progresívne Slovensko",
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-miloslav-baco-region-council-2026",
+    "candidateId": "tsk-miloslav-baco",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 1,
+    "ageAtElection": 52,
+    "occupationOfficial": "ekonóm",
+    "displayNameOfficial": "Miloslav Baco, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-martin-barcak-region-council-2026",
+    "candidateId": "tsk-martin-barcak",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 2,
+    "ageAtElection": 66,
+    "occupationOfficial": "kultúrny pracovník",
+    "displayNameOfficial": "Martin Barčák",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-martina-benovicova-region-council-2026",
+    "candidateId": "tsk-martina-benovicova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 3,
+    "ageAtElection": 43,
+    "occupationOfficial": "knihovníčka - špecialistka pre deti a mládež",
+    "displayNameOfficial": "Martina Beňovičová",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-marek-brozek-region-council-2026",
+    "candidateId": "tsk-marek-brozek",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 4,
+    "ageAtElection": 36,
+    "occupationOfficial": "starosta obce",
+    "displayNameOfficial": "Marek Brožek, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-kamil-bystricky-region-council-2026",
+    "candidateId": "tsk-kamil-bystricky",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 5,
+    "ageAtElection": 50,
+    "occupationOfficial": "kultúrny organizátor",
+    "displayNameOfficial": "Kamil Bystrický, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-peter-dano-region-council-2026",
+    "candidateId": "tsk-peter-dano",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 6,
+    "ageAtElection": 66,
+    "occupationOfficial": "lekár",
+    "displayNameOfficial": "Peter Daňo, MUDr.",
+    "affiliations": [
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Občianska konzervatívna strana",
+      "Progresívne Slovensko",
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-drahomir-drozd-region-council-2026",
+    "candidateId": "tsk-drahomir-drozd",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 7,
+    "ageAtElection": 64,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Drahomír Drozd, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-eduard-filo-region-council-2026",
+    "candidateId": "tsk-eduard-filo",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 8,
+    "ageAtElection": 40,
+    "occupationOfficial": "riaditeľ organizácie",
+    "displayNameOfficial": "Eduard Filo, Bc., MBA",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-zuzana-frajkova-durmekova-region-council-2026",
+    "candidateId": "tsk-zuzana-frajkova-durmekova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 9,
+    "ageAtElection": 56,
+    "occupationOfficial": "primátorka mesta",
+    "displayNameOfficial": "Zuzana Frajková Ďurmeková, PhDr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-pavol-golan-region-council-2026",
+    "candidateId": "tsk-pavol-golan",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 10,
+    "ageAtElection": 42,
+    "occupationOfficial": "vodič, predseda odborovej organizácie",
+    "displayNameOfficial": "Pavol Goláň",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-jozef-habanik-region-council-2026",
+    "candidateId": "tsk-jozef-habanik",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 11,
+    "ageAtElection": 50,
+    "occupationOfficial": "rektor univerzity",
+    "displayNameOfficial": "Jozef Habánik, doc. Ing., PhD.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-juraj-hajso-region-council-2026",
+    "candidateId": "tsk-juraj-hajso",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 12,
+    "ageAtElection": 40,
+    "occupationOfficial": "riaditeľ inšpektorátu práce",
+    "displayNameOfficial": "Juraj Hajšo, JUDr. Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-lubomir-horny-region-council-2026",
+    "candidateId": "tsk-lubomir-horny",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 13,
+    "ageAtElection": 51,
+    "occupationOfficial": "riaditeľ, SZČO",
+    "displayNameOfficial": "Ľubomír Horný",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-jozef-hrdlicka-region-council-2026",
+    "candidateId": "tsk-jozef-hrdlicka",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 14,
+    "ageAtElection": 49,
+    "occupationOfficial": "historik",
+    "displayNameOfficial": "Jozef Hrdlička, Ing. PhDr., PhD.",
+    "affiliations": [
+      "Komunistická strana Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-juraj-huserka-region-council-2026",
+    "candidateId": "tsk-juraj-huserka",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 15,
+    "ageAtElection": 45,
+    "occupationOfficial": "starosta",
+    "displayNameOfficial": "Juraj Húserka, PhDr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-adriana-kovacova-region-council-2026",
+    "candidateId": "tsk-adriana-kovacova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 16,
+    "ageAtElection": 56,
+    "occupationOfficial": "radkyňa",
+    "displayNameOfficial": "Adriana Kováčová, Mgr., MBA, LL.M.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-jan-kvasnica-region-council-2026",
+    "candidateId": "tsk-jan-kvasnica",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 17,
+    "ageAtElection": 48,
+    "occupationOfficial": "konateľ spoločnosti",
+    "displayNameOfficial": "Ján Kvasnica",
+    "affiliations": [
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Občianska konzervatívna strana",
+      "Progresívne Slovensko",
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-martin-kvasnica-region-council-2026",
+    "candidateId": "tsk-martin-kvasnica",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 18,
+    "ageAtElection": 45,
+    "occupationOfficial": "konateľ s.r.o.",
+    "displayNameOfficial": "Martin Kvasnica, Mgr.",
+    "affiliations": [
+      "Sme rodina"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-anton-kysel-region-council-2026",
+    "candidateId": "tsk-anton-kysel",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 19,
+    "ageAtElection": 68,
+    "occupationOfficial": "inšpektor pre školenie",
+    "displayNameOfficial": "Anton Kysel, Mgr.",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-roman-lackovic-region-council-2026",
+    "candidateId": "tsk-roman-lackovic",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 20,
+    "ageAtElection": 48,
+    "occupationOfficial": "riaditeľ dopravy",
+    "displayNameOfficial": "Roman Lackovič, Ing. ",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-nada-lorencova-region-council-2026",
+    "candidateId": "tsk-nada-lorencova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 21,
+    "ageAtElection": 49,
+    "occupationOfficial": "právnička",
+    "displayNameOfficial": "Naďa Lorencová, Bc. Mgr. JUDr.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-maria-machova-region-council-2026",
+    "candidateId": "tsk-maria-machova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 22,
+    "ageAtElection": 39,
+    "occupationOfficial": "ekonomická pracovníčka",
+    "displayNameOfficial": "Mária Machová, Bc.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-juraj-machunka-region-council-2026",
+    "candidateId": "tsk-juraj-machunka",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 23,
+    "ageAtElection": 36,
+    "occupationOfficial": "podnikateľ, občiansky aktivista",
+    "displayNameOfficial": "Juraj Machunka, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-juraj-malan-region-council-2026",
+    "candidateId": "tsk-juraj-malan",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 24,
+    "ageAtElection": 49,
+    "occupationOfficial": "stavebný manažér",
+    "displayNameOfficial": "Juraj Maláň, Ing.",
+    "affiliations": [
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Občianska konzervatívna strana",
+      "Progresívne Slovensko",
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-ladislav-matejka-region-council-2026",
+    "candidateId": "tsk-ladislav-matejka",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 25,
+    "ageAtElection": 44,
+    "occupationOfficial": "stavebný manažér",
+    "displayNameOfficial": "Ladislav Matejka, Ing.",
+    "affiliations": [
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Občianska konzervatívna strana",
+      "Progresívne Slovensko",
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-jaroslav-mego-region-council-2026",
+    "candidateId": "tsk-jaroslav-mego",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 26,
+    "ageAtElection": 62,
+    "occupationOfficial": "starosta obce",
+    "displayNameOfficial": "Jaroslav Mego",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-valeria-merava-region-council-2026",
+    "candidateId": "tsk-valeria-merava",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 27,
+    "ageAtElection": 71,
+    "occupationOfficial": "profesionálny rodič",
+    "displayNameOfficial": "Valéria Meravá",
+    "affiliations": [
+      "Komunistická strana Slovenska"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-milos-micega-region-council-2026",
+    "candidateId": "tsk-milos-micega",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 28,
+    "ageAtElection": 56,
+    "occupationOfficial": "riaditeľ regionálneho úradu",
+    "displayNameOfficial": "Miloš Mičega, Ing., MBA, LL.M.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-erik-mician-region-council-2026",
+    "candidateId": "tsk-erik-mician",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 29,
+    "ageAtElection": 35,
+    "occupationOfficial": "špecialista verejného obstarávania",
+    "displayNameOfficial": "Erik Mičian, Mgr.",
+    "affiliations": [
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Občianska konzervatívna strana",
+      "Progresívne Slovensko",
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-peter-mikulas-region-council-2026",
+    "candidateId": "tsk-peter-mikulas",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 30,
+    "ageAtElection": 37,
+    "occupationOfficial": "projektový manažér",
+    "displayNameOfficial": "Peter Mikuláš",
+    "affiliations": [
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Občianska konzervatívna strana",
+      "Progresívne Slovensko",
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-zuzana-misakova-region-council-2026",
+    "candidateId": "tsk-zuzana-misakova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 31,
+    "ageAtElection": 49,
+    "occupationOfficial": "riaditeľka divadla, pedagogička",
+    "displayNameOfficial": "Zuzana Mišáková, Mgr., DiS.art.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-marek-mizenko-region-council-2026",
+    "candidateId": "tsk-marek-mizenko",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 32,
+    "ageAtElection": 53,
+    "occupationOfficial": "nezamestnaný",
+    "displayNameOfficial": "Marek Miženko, Ing.",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-eva-pastorkova-region-council-2026",
+    "candidateId": "tsk-eva-pastorkova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 33,
+    "ageAtElection": 70,
+    "occupationOfficial": "živnostníčka",
+    "displayNameOfficial": "Eva Pastorková",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-ladislav-paska-region-council-2026",
+    "candidateId": "tsk-ladislav-paska",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 34,
+    "ageAtElection": 48,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Ladislav Paška, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-karina-penzesova-region-council-2026",
+    "candidateId": "tsk-karina-penzesova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 35,
+    "ageAtElection": 36,
+    "occupationOfficial": "projektová manažérka",
+    "displayNameOfficial": "Karina Pénzešová, Mgr. et. Mgr.",
+    "affiliations": [
+      "Život - národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-vladimir-poruban-region-council-2026",
+    "candidateId": "tsk-vladimir-poruban",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 36,
+    "ageAtElection": 44,
+    "occupationOfficial": "riaditeľ pre integráciu",
+    "displayNameOfficial": "Vladimír Poruban, Ing.",
+    "affiliations": [
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Občianska konzervatívna strana",
+      "Progresívne Slovensko",
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-tomas-prno-region-council-2026",
+    "candidateId": "tsk-tomas-prno",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 37,
+    "ageAtElection": 39,
+    "occupationOfficial": "technik infraštruktúry",
+    "displayNameOfficial": "Tomáš Prno, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-slavomira-propperova-region-council-2026",
+    "candidateId": "tsk-slavomira-propperova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 38,
+    "ageAtElection": 45,
+    "occupationOfficial": "advokátka",
+    "displayNameOfficial": "Slavomíra Propperová, JUDr., Mgr.",
+    "affiliations": [
+      "Za ľudí"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-jan-sivak-region-council-2026",
+    "candidateId": "tsk-jan-sivak",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 39,
+    "ageAtElection": 53,
+    "occupationOfficial": "majster odborného výcviku",
+    "displayNameOfficial": "Ján Sivák, Mgr.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-martin-smolka-region-council-2026",
+    "candidateId": "tsk-martin-smolka",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 40,
+    "ageAtElection": 53,
+    "occupationOfficial": "štátny zamestnanec",
+    "displayNameOfficial": "Martin Smolka, JUDr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-stanislav-svatik-region-council-2026",
+    "candidateId": "tsk-stanislav-svatik",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 41,
+    "ageAtElection": 64,
+    "occupationOfficial": "starosta obce",
+    "displayNameOfficial": "Stanislav Svatik, MVDr.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-richard-scepko-region-council-2026",
+    "candidateId": "tsk-richard-scepko",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 42,
+    "ageAtElection": 42,
+    "occupationOfficial": "projektový manažér",
+    "displayNameOfficial": "Richard Ščepko, Ing.",
+    "affiliations": [
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Občianska konzervatívna strana",
+      "Progresívne Slovensko",
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-jana-stefanekova-region-council-2026",
+    "candidateId": "tsk-jana-stefanekova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 43,
+    "ageAtElection": 46,
+    "occupationOfficial": "advokátka",
+    "displayNameOfficial": "Jana Štefáneková, JUDr.",
+    "affiliations": [
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Občianska konzervatívna strana",
+      "Progresívne Slovensko",
+      "Sloboda a solidarita"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-martin-stefanik-region-council-2026",
+    "candidateId": "tsk-martin-stefanik",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 44,
+    "ageAtElection": 44,
+    "occupationOfficial": "vedúci výskumný pracovník",
+    "displayNameOfficial": "Martin Štefánik, Ing., MBA",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-pavol-sulovsky-region-council-2026",
+    "candidateId": "tsk-pavol-sulovsky",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 45,
+    "ageAtElection": 37,
+    "occupationOfficial": "zdravotnícky záchranár",
+    "displayNameOfficial": "Pavol Šulovský, Bc. et Bc.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-robert-svehla-region-council-2026",
+    "candidateId": "tsk-robert-svehla",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 46,
+    "ageAtElection": 31,
+    "occupationOfficial": "asistent primátora",
+    "displayNameOfficial": "Róbert Švehla, BA.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-martin-trepac-region-council-2026",
+    "candidateId": "tsk-martin-trepac",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 47,
+    "ageAtElection": 28,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Martin Trepáč, Bc.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-tomas-vano-region-council-2026",
+    "candidateId": "tsk-tomas-vano",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 48,
+    "ageAtElection": 46,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Tomáš Vaňo, Ing., MBA",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-monika-velackova-region-council-2026",
+    "candidateId": "tsk-monika-velackova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 49,
+    "ageAtElection": 36,
+    "occupationOfficial": "učiteľka",
+    "displayNameOfficial": "Monika Velacková, Mgr., LL.M.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-simona-zacharova-region-council-2026",
+    "candidateId": "tsk-simona-zacharova",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 50,
+    "ageAtElection": 38,
+    "occupationOfficial": "splnomocnenkyňa vlády",
+    "displayNameOfficial": "Simona Zacharová, PhDr., MBA",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Republika",
+      "Slovenská národná strana"
+    ],
+    "independent": false,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-patrik-zak-region-council-2026",
+    "candidateId": "tsk-patrik-zak",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 51,
+    "ageAtElection": 35,
+    "occupationOfficial": "zástupca primátora",
+    "displayNameOfficial": "Patrik Žák, B.S.B.A.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  },
+  {
+    "id": "tsk-simon-zdarsky-region-council-2026",
+    "candidateId": "tsk-simon-zdarsky",
+    "electionId": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "ballotNumber": 52,
+    "ageAtElection": 33,
+    "occupationOfficial": "rehabilitačný lekár",
+    "displayNameOfficial": "Šimon Žďárský, MUDr.",
+    "affiliations": [],
+    "independent": true,
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "districtId": "tsk-region-9"
+  }
+]

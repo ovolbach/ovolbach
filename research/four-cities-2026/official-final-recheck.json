@@ -1,0 +1,717 @@
+{
+  "checkedAt": "2026-10-15",
+  "rows": [
+    {
+      "key": "additional-bb-districts-seats-2026",
+      "url": "https://cdn.banskabystrica.sk/2026/07/Volebne-obvody-a-urcenie-poctu-poslancov-do-Mestskeho-zastupitelstva-v-Banskej-Bystrici-Volby-2026.pdf",
+      "finalUrl": "https://cdn.banskabystrica.sk/2026/07/Volebne-obvody-a-urcenie-poctu-poslancov-do-Mestskeho-zastupitelstva-v-Banskej-Bystrici-Volby-2026.pdf",
+      "checkedAt": "2026-10-15T14:48:01.767026+00:00",
+      "status": 200,
+      "sha256": "0e00fd2e4bbfdd21d3320b13ea1369c56d52a5b627adf7779730a7ee90193494",
+      "pages": 3,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/municipal-attachment-09.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-bb-regional-district-decision-tls-unverified",
+      "url": "https://www.bbsk.sk/storage/app/media/dokumenty/volby-2026/volebn-obvody-oznamenie-s-obcami.pdf",
+      "finalUrl": "https://www.bbsk.sk/storage/app/media/dokumenty/volby-2026/volebn-obvody-oznamenie-s-obcami.pdf",
+      "checkedAt": "2026-10-15T14:48:01.861441+00:00",
+      "status": 200,
+      "sha256": "649fc782a142eefc93d9a202d41eaf97016fb0cce2a53c4a302b41dd0b10117d",
+      "pages": 8,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/regional-district-decision-tls-unverified.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-bb-regional-index-tls-unverified",
+      "url": "https://www.bbsk.sk/volby-2026",
+      "finalUrl": "https://www.bbsk.sk/volby-2026",
+      "checkedAt": "2026-10-15T14:48:01.823289+00:00",
+      "status": 200,
+      "sha256": "64860554ece633f7b0dad673c87c26dd18e2a3178e4d6a00de710ac8c9dfa07e",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/regional-index-tls-unverified.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-bb-roster-city-council-2026",
+      "url": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "finalUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "checkedAt": "2026-10-15T14:48:01.688333+00:00",
+      "status": 200,
+      "sha256": "b2af59280e0ff0fa70614732d6e3f5b691b9de4f272c691346270f45507a3bab",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/municipal-attachment-02.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-bbsk-roster-region-council-2026",
+      "url": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "finalUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "checkedAt": "2026-10-15T14:48:01.760261+00:00",
+      "status": 200,
+      "sha256": "d884dc14f30a0c180e25273b4c8295096cbaa1d59fa18744992bec2760ef5108",
+      "pages": 3,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/municipal-attachment-04.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-nr-districts-2026",
+      "url": "https://nitra.sk/wp-content/uploads/2026/07/Rozhodnutie-prednostky-OU-Nitra-o-orceni-VO-a-poctu-poslancov-v-nich.pdf",
+      "finalUrl": "https://nitra.sk/wp-content/uploads/2026/07/Rozhodnutie-prednostky-OU-Nitra-o-orceni-VO-a-poctu-poslancov-v-nich.pdf",
+      "checkedAt": "2026-10-15T14:48:01.372341+00:00",
+      "status": 200,
+      "sha256": "fbe1020e87d1d6fc15084bb834267d4ce09dd660587938ec4830a5e5f24570db",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "nitra/official-2.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-nr-districts-amendment-2026",
+      "url": "https://nitra.sk/wp-content/uploads/2026/08/Rozhodnutie-prednostky-OU-Nitra-o-urceni-VO-a-poctu-poslancov-v-nich-14.08.2026.pdf",
+      "finalUrl": "https://nitra.sk/wp-content/uploads/2026/08/Rozhodnutie-prednostky-OU-Nitra-o-urceni-VO-a-poctu-poslancov-v-nich-14.08.2026.pdf",
+      "checkedAt": "2026-10-15T14:48:01.451375+00:00",
+      "status": 200,
+      "sha256": "85db7f061fbe0d99ff22711c4940159ac11f1aff64db88a8f530b14980503ae0",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "nitra/official-3.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-nr-polling-2026",
+      "url": "https://nitra.sk/wp-content/uploads/2026/09/Informacia-o-case-a-mieste-konania-volieb-do-OSO-a-OSK-2026.pdf",
+      "finalUrl": "https://nitra.sk/wp-content/uploads/2026/09/Informacia-o-case-a-mieste-konania-volieb-do-OSO-a-OSK-2026.pdf",
+      "checkedAt": "2026-10-15T14:48:01.535841+00:00",
+      "status": 200,
+      "sha256": "835f05b1d4fe70cf888bcfd9000413a47c87542f715150c67264619823f83a6d",
+      "pages": 22,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "nitra/official-5.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-nr-polling-change-28-29-2026",
+      "url": "https://nitra.sk/wp-content/uploads/2026/10/Oznamenie-o-ozmene-okrskov-28-29-volby-do-OSO-a-OSK-2026.pdf",
+      "finalUrl": "https://nitra.sk/wp-content/uploads/2026/10/Oznamenie-o-ozmene-okrskov-28-29-volby-do-OSO-a-OSK-2026.pdf",
+      "checkedAt": "2026-10-15T14:48:01.680828+00:00",
+      "status": 200,
+      "sha256": "da8e27d912949cb2873f0dd0eb0f24241f6446991fa207310546c9189d29c0a5",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "nitra/official-13.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-nsk-council-district3-roster-2026",
+      "url": "https://nitra.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-poslancov-Nitrianskeho-samospravneho-kraja-2026.pdf",
+      "finalUrl": "https://nitra.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-poslancov-Nitrianskeho-samospravneho-kraja-2026.pdf",
+      "checkedAt": "2026-10-15T14:48:01.572465+00:00",
+      "status": 200,
+      "sha256": "a55a749229daf79b316e1eb5cfe7c707cc3114e9d43220587f88c8d781ab63d3",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "nitra/official-9.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tn-districts-2026",
+      "url": "https://trencin.sk/wp-content/uploads/2026/07/Oznamenie-o-utvoreni-volebnych-obvodov.pdf",
+      "finalUrl": "https://trencin.sk/wp-content/uploads/2026/07/Oznamenie-o-utvoreni-volebnych-obvodov.pdf",
+      "checkedAt": "2026-10-15T14:48:01.152784+00:00",
+      "status": 200,
+      "sha256": "6921e11331fac2a2bf24dad8b453f5d6f7bef6fe066b66d427023231a8c47fe3",
+      "pages": 2,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trencin/districts.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tn-polling-2026",
+      "url": "https://trencin.sk/wp-content/uploads/2026/07/Volebne-okrsky-a-volebne-miestnosti.pdf",
+      "finalUrl": "https://trencin.sk/wp-content/uploads/2026/07/Volebne-okrsky-a-volebne-miestnosti.pdf",
+      "checkedAt": "2026-10-15T14:48:01.239430+00:00",
+      "status": 200,
+      "sha256": "a31aabc9b37d8cdb8c11e5260108c68c441ac85327a70bf202260f8458dbe7eb",
+      "pages": 5,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trencin/polling.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tsk-council-district9-roster-2026",
+      "url": "https://trencin.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-TSK-obvod-c.9.pdf",
+      "finalUrl": "https://trencin.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-TSK-obvod-c.9.pdf",
+      "checkedAt": "2026-10-15T14:48:01.050826+00:00",
+      "status": 200,
+      "sha256": "73858f548eaec979522a034af52db8f1ef9ddd86b0ea00078acfe7f8e241801c",
+      "pages": 2,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trencin/regional-council.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tsk-election-index-2026",
+      "url": "https://www.tsk.sk/trenciansky-samospravny-kraj/zastupitelstvo-trencianskeho-samospravneho-kraja/volby-do-organov-trencianskeho-samospravneho-kraja-2026.html",
+      "finalUrl": "https://www.tsk.sk/trenciansky-samospravny-kraj/zastupitelstvo-trencianskeho-samospravneho-kraja/volby-do-organov-trencianskeho-samospravneho-kraja-2026.html?page_id=1373605",
+      "checkedAt": "2026-10-15T14:48:01.269998+00:00",
+      "status": 200,
+      "sha256": "06c966af7c33794a804ac2c6a59d7817ad34acc581c22375404d02454efa7a01",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trencin/regional-index.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tt-official-0-2026",
+      "url": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/kandidati_vzdanie_sa_kandidatury.pdf",
+      "finalUrl": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/kandidati_vzdanie_sa_kandidatury.pdf",
+      "checkedAt": "2026-10-15T14:48:00.582929+00:00",
+      "status": 200,
+      "sha256": "dfbc0c8f21cf36bd3d06a15acda9060b04da48f4c18a1bf605bb763a08beae08",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trnava/official-0.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tt-official-2-2026",
+      "url": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/kom_volby2026_kandidati_zastupitelstvoVUC.pdf",
+      "finalUrl": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/kom_volby2026_kandidati_zastupitelstvoVUC.pdf",
+      "checkedAt": "2026-10-15T14:48:00.583922+00:00",
+      "status": 200,
+      "sha256": "ae3adfd4514cbf421be25df5381715236d02c252c4884546f1c4dab54f94c66e",
+      "pages": 2,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trnava/official-2.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tt-official-4-2026",
+      "url": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/komunalne_volby2026_zoznam-kandidatov_mz.pdf",
+      "finalUrl": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/komunalne_volby2026_zoznam-kandidatov_mz.pdf",
+      "checkedAt": "2026-10-15T14:48:00.584608+00:00",
+      "status": 200,
+      "sha256": "5692d1cf67bfa2b3c7cea751314197200d3239650efbe7d12f56af70cab7b863",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trnava/official-4.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tt-official-5-2026",
+      "url": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/komunalne_volby2026_volbne_okrsky_podla_obvodov.pdf",
+      "finalUrl": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/komunalne_volby2026_volbne_okrsky_podla_obvodov.pdf",
+      "checkedAt": "2026-10-15T14:48:00.851186+00:00",
+      "status": 200,
+      "sha256": "0873950fe142ed86a30b4e7a49475c6ce36cd564be97fe8b95e98fd0e40fe35f",
+      "pages": 14,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trnava/official-5.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tt-official-7-2026",
+      "url": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/komunalne_volby2026_volebne_obvody_pocet_poslancov.pdf",
+      "finalUrl": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/komunalne_volby2026_volebne_obvody_pocet_poslancov.pdf",
+      "checkedAt": "2026-10-15T14:48:00.853359+00:00",
+      "status": 200,
+      "sha256": "1b382d315995cdafdba8ef88d3adbf10b68f8bffd6b2f092047679ce4edfc872",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trnava/official-7.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tt-regional-district-decision-2026",
+      "url": "https://osam.trnava-vuc.sk/OSamApi/fileDownloadEUT/0bb77b1c-ef04-4389-9592-92284c054c64",
+      "finalUrl": "https://osam.trnava-vuc.sk/OSamApi/fileDownloadEUT/0bb77b1c-ef04-4389-9592-92284c054c64",
+      "checkedAt": "2026-10-15T14:48:01.031542+00:00",
+      "status": 200,
+      "sha256": "bee5c536acfd0e11917094a0953f8a2cfb6d815dc8b533b422533dc448a9d2a1",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trnava/regional-district-decision.receipt.json"
+      ]
+    },
+    {
+      "key": "additional-tt-regional-index-2026",
+      "url": "https://trnava-vuc.sk/volby-2026",
+      "finalUrl": "https://trnava-vuc.sk/volby-2026/",
+      "checkedAt": "2026-10-15T14:48:00.856168+00:00",
+      "status": 200,
+      "sha256": "e9ba35205af665c77cee7d5d45c59d2c7030077483d9365aec35040627d542f4",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "banska-bystrica-index",
+      "url": "https://www.banskabystrica.sk/aktuality/2026/informacie-k-volbam-do-organov-uzemnej-samospravy-2026/",
+      "finalUrl": "https://www.banskabystrica.sk/aktuality/2026/informacie-k-volbam-do-organov-uzemnej-samospravy-2026/",
+      "checkedAt": "2026-10-15T14:40:37.217545+00:00",
+      "status": 200,
+      "sha256": "b2ff6b8422760a91ac19f927b165af89b23e76d1b069481d527c5ad2eeeb84d8",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "bb-media-sobota-withdrawal",
+      "url": "https://spravy.stvr.sk/2026/10/kandidati-na-primatora-banska-bystrica-komunalne-volby-2026/",
+      "finalUrl": "https://spravy.stvr.sk/2026/10/kandidati-na-primatora-banska-bystrica-komunalne-volby-2026/",
+      "checkedAt": "2026-10-15T14:40:37.442445+00:00",
+      "status": 200,
+      "sha256": "6aee35323214263a7f650a14cfbd6e12849f727cd454275edb67c73a088e006b",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "bb-roster-city-council-2026",
+      "url": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "finalUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-Mestskeho-zastupitelstva-mesta-Banska-Bystrica-2026-1.pdf",
+      "checkedAt": "2026-10-15T14:40:37.329242+00:00",
+      "status": 200,
+      "sha256": "b2af59280e0ff0fa70614732d6e3f5b691b9de4f272c691346270f45507a3bab",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/municipal-attachment-02.receipt.json"
+      ]
+    },
+    {
+      "key": "bb-roster-mayor-2026",
+      "url": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Banska-Bystrica-2026.pdf",
+      "finalUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Banska-Bystrica-2026.pdf",
+      "checkedAt": "2026-10-15T14:40:37.239530+00:00",
+      "status": 200,
+      "sha256": "70322ac423b1b497ffc7ed5f73053e2f537fca139effe29f7289066ec01fa623",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/municipal-attachment-01.receipt.json"
+      ]
+    },
+    {
+      "key": "bbsk-roster-region-chair-2026",
+      "url": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6ffd5c54.pdf",
+      "finalUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6ffd5c54.pdf",
+      "checkedAt": "2026-10-15T14:40:37.381167+00:00",
+      "status": 200,
+      "sha256": "89e767000d4a13b573b6ce00d2622b16e3ddcc1266956b343be045db6c77f06c",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/municipal-attachment-03.receipt.json"
+      ]
+    },
+    {
+      "key": "bbsk-roster-region-council-2026",
+      "url": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "finalUrl": "https://cdn.banskabystrica.sk/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-Banskobystrickeho-samospravneho-kraja-2026-volebny-obvod-c.1-Banska-Bystrica-6aace6f4daf29.pdf",
+      "checkedAt": "2026-10-15T14:40:37.419279+00:00",
+      "status": 200,
+      "sha256": "d884dc14f30a0c180e25273b4c8295096cbaa1d59fa18744992bec2760ef5108",
+      "pages": 3,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/municipal-attachment-04.receipt.json"
+      ]
+    },
+    {
+      "key": "finance-national-chairs-2026",
+      "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/140_vuc/VUC26_ZZK-Predseda.xlsx",
+      "finalUrl": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/140_vuc/VUC26_ZZK-Predseda.xlsx",
+      "checkedAt": "2026-10-15T14:40:36.097923+00:00",
+      "status": 200,
+      "sha256": "9f262d60f400ce22b637b33335964c473b3969d9030a2eed3dfce0cebf31cf3e",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/national-chairs.receipt.json",
+        "trnava/finance-national-chairs-2026.receipt.json",
+        "trencin/finance-national-chairs-2026.receipt.json",
+        "national/national-chairs.receipt.json"
+      ]
+    },
+    {
+      "key": "finance-national-councillors-2026",
+      "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/150_oso/OSO26_ZZK-Poslanci.xlsx",
+      "finalUrl": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/150_oso/OSO26_ZZK-Poslanci.xlsx",
+      "checkedAt": "2026-10-15T14:40:36.289053+00:00",
+      "status": 200,
+      "sha256": "b0ccb2832faa540af739a089ee719794beed8a1fbe449e89e5c09c216275b310",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/national-councillors.receipt.json",
+        "trnava/finance-national-councillors-2026.receipt.json",
+        "trencin/finance-national-councillors-2026.receipt.json",
+        "national/national-councillors.receipt.json"
+      ]
+    },
+    {
+      "key": "finance-national-mayors-2026",
+      "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/150_oso/OSO26_ZZK-Starosta.xlsx",
+      "finalUrl": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/150_oso/OSO26_ZZK-Starosta.xlsx",
+      "checkedAt": "2026-10-15T14:40:36.260810+00:00",
+      "status": 200,
+      "sha256": "853f0c704e8e1b13f98809ec8db730972bd67a8f2fe4113be49a0586074836d3",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/national-mayors.receipt.json",
+        "trnava/finance-national-mayors-2026.receipt.json",
+        "trencin/finance-national-mayors-2026.receipt.json",
+        "national/national-mayors.receipt.json"
+      ]
+    },
+    {
+      "key": "finance-national-regional-councillors-2026",
+      "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/140_vuc/VUC26_ZZK-Poslanci.xlsx",
+      "finalUrl": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/140_vuc/VUC26_ZZK-Poslanci.xlsx",
+      "checkedAt": "2026-10-15T14:40:36.165337+00:00",
+      "status": 200,
+      "sha256": "9216341d47d6d1e55a7fdad6464f3fce0f8f8a3be29a27bb076726f71e800bed",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/national-regional-councillors.receipt.json",
+        "trnava/finance-national-regional-councillors-2026.receipt.json",
+        "trencin/finance-national-regional-councillors-2026.receipt.json",
+        "national/national-regional-councillors.receipt.json"
+      ]
+    },
+    {
+      "key": "kaso-nrsr-2023-withdrawal",
+      "url": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/100_nr_sr/nr20_3kandidati/WNR23_Vzdanie.pdf",
+      "finalUrl": "https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/100_nr_sr/nr20_3kandidati/WNR23_Vzdanie.pdf",
+      "checkedAt": "2026-10-15T14:40:37.516980+00:00",
+      "status": 200,
+      "sha256": "8e32fee03260009450e76562b3baefbfb312ff8a4cb8bf8d6de6ea9ba90e7ceb",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/nr2023-withdrawals.receipt.json"
+      ]
+    },
+    {
+      "key": "last-bb-municipal-authority-index",
+      "url": "https://www.banskabystrica.sk/samosprava/volby-2026/",
+      "finalUrl": "https://www.banskabystrica.sk/samosprava/volby-2026/",
+      "checkedAt": "2026-10-15T15:09:42.641761+00:00",
+      "status": 200,
+      "sha256": "51c677a4895b5b72ec3a678889ecea34323a22799c322f61eb7a82da898f1a22",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/municipal-index.receipt.json"
+      ]
+    },
+    {
+      "key": "last-bb-municipal-information-oct14",
+      "url": "https://www.banskabystrica.sk/aktuality/2026/informacie-k-volbam-do-organov-uzemnej-samospravy-2026/",
+      "finalUrl": "https://www.banskabystrica.sk/aktuality/2026/informacie-k-volbam-do-organov-uzemnej-samospravy-2026/",
+      "checkedAt": "2026-10-15T14:44:55.474065+00:00",
+      "status": 200,
+      "sha256": "b2ff6b8422760a91ac19f927b165af89b23e76d1b069481d527c5ad2eeeb84d8",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "last-bb-polling-stations-2026",
+      "url": "https://cdn.banskabystrica.sk/2026/07/Volebne-okrsky-a-volebne-miestnosti-pre-volby-na-uzemi-mesta-Banska-Bystrica-Volby-2026.pdf",
+      "finalUrl": "https://cdn.banskabystrica.sk/2026/07/Volebne-okrsky-a-volebne-miestnosti-pre-volby-na-uzemi-mesta-Banska-Bystrica-Volby-2026.pdf",
+      "checkedAt": "2026-10-15T14:44:55.473161+00:00",
+      "status": 200,
+      "sha256": "d38648e6b86678510dbf9f7f068c0a5ed8ce7212a47953a6a985ec8077facf52",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "banska-bystrica/municipal-attachment-10.receipt.json"
+      ]
+    },
+    {
+      "key": "last-nsk-authority-candidate-index",
+      "url": "https://www.unsk.sk/zobraz/sekciu/zoznamy-zaregistrovanych-kandidatov",
+      "finalUrl": "https://www.unsk.sk/zobraz/sekciu/zoznamy-zaregistrovanych-kandidatov",
+      "checkedAt": "2026-10-15T15:11:24.945597+00:00",
+      "status": 200,
+      "sha256": "f4569fcb88a25c7192181ffbe357e29e8d22bfbe41cb06686a860b509e527e15",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "last-nsk-regional-authority-chair",
+      "url": "https://www.unsk.sk/Files/ShowFile/130743",
+      "finalUrl": "https://www.unsk.sk/Files/ShowFile/130743",
+      "checkedAt": "2026-10-15T15:10:52.914928+00:00",
+      "status": 200,
+      "sha256": "d34160e84fbfdd6ce6a2522660c8f1db4888699fa3f1cd9d7130f990dcb1efdf",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "last-nsk-regional-authority-district3",
+      "url": "https://www.unsk.sk/Files/ShowFile/130746",
+      "finalUrl": "https://www.unsk.sk/Files/ShowFile/130746",
+      "checkedAt": "2026-10-15T15:10:52.917651+00:00",
+      "status": 200,
+      "sha256": "a55a749229daf79b316e1eb5cfe7c707cc3114e9d43220587f88c8d781ab63d3",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "last-nsk-regional-authority-index",
+      "url": "https://www.unsk.sk/zobraz/sekciu/volby-2026",
+      "finalUrl": "https://www.unsk.sk/zobraz/sekciu/volby-2026",
+      "checkedAt": "2026-10-15T15:10:52.914300+00:00",
+      "status": 200,
+      "sha256": "5bb1ea995b4c2cbf250edcc8bef099c8638b2d0f5572f2f1578940c96fbbd0d8",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "nitra-index",
+      "url": "https://nitra.sk/volby/",
+      "finalUrl": "https://nitra.sk/volby/",
+      "checkedAt": "2026-10-15T14:40:36.834846+00:00",
+      "status": 200,
+      "sha256": "efd87ba2b73f64334cdf5214033a77df455077eb77ca5bcee1efccfbda2fc831",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "nr-council-roster-2026",
+      "url": "https://nitra.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-MZ-mesta-Nitra-OSO-2026.pdf",
+      "finalUrl": "https://nitra.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-MZ-mesta-Nitra-OSO-2026.pdf",
+      "checkedAt": "2026-10-15T14:40:36.909021+00:00",
+      "status": 200,
+      "sha256": "4b45ffbeda2894407bf16fe30a2a05f330ce89aee06c5b92f164375f15fcc276",
+      "pages": 5,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "nitra/official-7.receipt.json"
+      ]
+    },
+    {
+      "key": "nr-mayor-roster-2026",
+      "url": "https://nitra.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Nitra-OSO-2026.pdf",
+      "finalUrl": "https://nitra.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Nitra-OSO-2026.pdf",
+      "checkedAt": "2026-10-15T14:40:36.885573+00:00",
+      "status": 200,
+      "sha256": "05ca564c80bf31a1cb8e9322293f19d5526ddc49d8c2ece526c1e6f246fe0ca5",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "nitra/official-6.receipt.json"
+      ]
+    },
+    {
+      "key": "nr-polling-change-28-29-2026",
+      "url": "https://nitra.sk/wp-content/uploads/2026/10/Oznamenie-o-ozmene-okrskov-28-29-volby-do-OSO-a-OSK-2026.pdf",
+      "finalUrl": "https://nitra.sk/wp-content/uploads/2026/10/Oznamenie-o-ozmene-okrskov-28-29-volby-do-OSO-a-OSK-2026.pdf",
+      "checkedAt": "2026-10-15T14:40:37.141342+00:00",
+      "status": 200,
+      "sha256": "da8e27d912949cb2873f0dd0eb0f24241f6446991fa207310546c9189d29c0a5",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "nitra/official-13.receipt.json"
+      ]
+    },
+    {
+      "key": "nsk-chair-roster-2026",
+      "url": "https://nitra.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Nitrianskeho-samospravneho-kraja-2026.pdf",
+      "finalUrl": "https://nitra.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-Nitrianskeho-samospravneho-kraja-2026.pdf",
+      "checkedAt": "2026-10-15T14:40:36.986149+00:00",
+      "status": 200,
+      "sha256": "d34160e84fbfdd6ce6a2522660c8f1db4888699fa3f1cd9d7130f990dcb1efdf",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "nitra/official-8.receipt.json"
+      ]
+    },
+    {
+      "key": "nsk-council-district3-roster-2026",
+      "url": "https://nitra.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-poslancov-Nitrianskeho-samospravneho-kraja-2026.pdf",
+      "finalUrl": "https://nitra.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-poslancov-Nitrianskeho-samospravneho-kraja-2026.pdf",
+      "checkedAt": "2026-10-15T14:40:37.142104+00:00",
+      "status": 200,
+      "sha256": "a55a749229daf79b316e1eb5cfe7c707cc3114e9d43220587f88c8d781ab63d3",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "nitra/official-9.receipt.json"
+      ]
+    },
+    {
+      "key": "president-withdrawal-snina-2024",
+      "url": "https://www.snina.sk/udalosti/volby-prezidenta-slovenskej-republiky-2024-2932sk.html",
+      "finalUrl": "https://www.snina.sk/udalosti/volby-prezidenta-slovenskej-republiky-2024-2932sk.html",
+      "checkedAt": "2026-10-15T14:40:37.144150+00:00",
+      "status": 200,
+      "sha256": "8801f80c08633d3680e85958577be0665432b76514c8e83b7e89b310ea9bcf4c",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "tn-council-roster-2026",
+      "url": "https://trencin.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-do-mestskeho-zastupitelstva.pdf",
+      "finalUrl": "https://trencin.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-do-mestskeho-zastupitelstva.pdf",
+      "checkedAt": "2026-10-15T14:40:36.633168+00:00",
+      "status": 200,
+      "sha256": "50dad9724e448231536c542dd38b834c6f443412a7a461a88e7ad534464b57af",
+      "pages": 3,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trencin/municipal-council.receipt.json"
+      ]
+    },
+    {
+      "key": "tn-mayor-roster-2026",
+      "url": "https://trencin.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Trencin-1.pdf",
+      "finalUrl": "https://trencin.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-primatora-mesta-Trencin-1.pdf",
+      "checkedAt": "2026-10-15T14:40:36.551949+00:00",
+      "status": 200,
+      "sha256": "c8c97b6f4aaec6a0fbd25c874198327eeb881df4b7ec661327beebd20e32a393",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trencin/municipal-mayor.receipt.json"
+      ]
+    },
+    {
+      "key": "trencin-index",
+      "url": "https://trencin.sk/samosprava/volby/spojene-volby-do-organov-uzemnej-samospravy-2026/",
+      "finalUrl": "https://trencin.sk/samosprava/volby/spojene-volby-do-organov-uzemnej-samospravy-2026/",
+      "checkedAt": "2026-10-15T14:40:36.387779+00:00",
+      "status": 200,
+      "sha256": "97b9e2bdf3a6d150a6f3431fc7b1c334cc41ccc09ac55bce8c767a1344a13d9e",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trencin/municipal-index.receipt.json"
+      ]
+    },
+    {
+      "key": "trnava-index",
+      "url": "https://www.trnava.sk/stranka/volby-do-organov-samospravy-a-samospravnych-krajov",
+      "finalUrl": "https://www.trnava.sk/stranka/volby-do-organov-samospravy-a-samospravnych-krajov",
+      "checkedAt": "2026-10-15T14:40:35.822674+00:00",
+      "status": 200,
+      "sha256": "08887a8ae31c7bb7a4559474a5c7fb250044a680b25d11c92e0435f556e6a7d3",
+      "access": "original_downloaded",
+      "matchingPriorReceipts": []
+    },
+    {
+      "key": "tsk-chair-roster-2026",
+      "url": "https://trencin.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-TSK.pdf",
+      "finalUrl": "https://trencin.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-TSK.pdf",
+      "checkedAt": "2026-10-15T14:40:36.729760+00:00",
+      "status": 200,
+      "sha256": "cdfbaf9af2d1fae67da2146b521a74b058fccfbec050fd2579c029e3d0a5d110",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trencin/regional-chair.receipt.json"
+      ]
+    },
+    {
+      "key": "tsk-council-district9-roster-2026",
+      "url": "https://trencin.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-TSK-obvod-c.9.pdf",
+      "finalUrl": "https://trencin.sk/wp-content/uploads/2026/09/Zoznam-zaregistrovanych-kandidatov-pre-volby-do-zastupitelstva-TSK-obvod-c.9.pdf",
+      "checkedAt": "2026-10-15T14:40:36.790666+00:00",
+      "status": 200,
+      "sha256": "73858f548eaec979522a034af52db8f1ef9ddd86b0ea00078acfe7f8e241801c",
+      "pages": 2,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trencin/regional-council.receipt.json"
+      ]
+    },
+    {
+      "key": "tt-official-1-2026",
+      "url": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/kom_volby2026_zoznam_kandidatov_predsedaVUC.pdf",
+      "finalUrl": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/kom_volby2026_zoznam_kandidatov_predsedaVUC.pdf",
+      "checkedAt": "2026-10-15T14:40:35.823173+00:00",
+      "status": 200,
+      "sha256": "07b4353f3a7086d7ddebada6192ef0c374db48b98805b31fc34c406bd636049d",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trnava/official-1.receipt.json"
+      ]
+    },
+    {
+      "key": "tt-official-2-2026",
+      "url": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/kom_volby2026_kandidati_zastupitelstvoVUC.pdf",
+      "finalUrl": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/kom_volby2026_kandidati_zastupitelstvoVUC.pdf",
+      "checkedAt": "2026-10-15T14:40:35.823834+00:00",
+      "status": 200,
+      "sha256": "ae3adfd4514cbf421be25df5381715236d02c252c4884546f1c4dab54f94c66e",
+      "pages": 2,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trnava/official-2.receipt.json"
+      ]
+    },
+    {
+      "key": "tt-official-3-2026",
+      "url": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/komunalne_volby2026_zoznam-kandidatov_prim.pdf",
+      "finalUrl": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/komunalne_volby2026_zoznam-kandidatov_prim.pdf",
+      "checkedAt": "2026-10-15T14:40:35.958126+00:00",
+      "status": 200,
+      "sha256": "83c26262615ecd8bcff385e6d1edaa067976e490c07175eb90cca7c52f6d569a",
+      "pages": 1,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trnava/official-3.receipt.json"
+      ]
+    },
+    {
+      "key": "tt-official-4-2026",
+      "url": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/komunalne_volby2026_zoznam-kandidatov_mz.pdf",
+      "finalUrl": "https://www.trnava.sk/content/files/Volby/komunlne_volby_2026/komunalne_volby2026_zoznam-kandidatov_mz.pdf",
+      "checkedAt": "2026-10-15T14:40:36.096184+00:00",
+      "status": 200,
+      "sha256": "5692d1cf67bfa2b3c7cea751314197200d3239650efbe7d12f56af70cab7b863",
+      "pages": 4,
+      "access": "original_downloaded",
+      "matchingPriorReceipts": [
+        "trnava/official-4.receipt.json"
+      ]
+    }
+  ],
+  "registeredLocalRows": 712,
+  "people": 546,
+  "officialRosterPdfs": 16,
+  "nationalRegisters": 4,
+  "unchangedRosterAndRegisterBodies": true,
+  "finalReview": [
+    "All16local PDFs and4complete national XLSX files byte-identical to originals used for full row reconciliation.",
+    "Responsible municipal and regional indexes reviewed for corrections and withdrawals. Trnava official13October withdrawal retains ĽubicaHorváthová ballot3; BanskáBystrica TomášSobota report remains attributed to TASR/STVR with no invented formal authority confirmation.",
+    "Nitra stations28/29 entrance correction and BanskáBystrica79stations/explicitwardheaders verified.",
+    "BBSK missing intermediate was verified against systemtrustedroot; final recapture used enabled hostname/certificate-chain verification. Initial failed default TLS attempts remain in gate logs."
+  ]
+}

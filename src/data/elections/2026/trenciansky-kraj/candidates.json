@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "tsk-danica-birosova",
+    "slug": "danica-birosova",
+    "displayName": "JUDr. Danica Birošová",
+    "givenName": "Danica",
+    "familyName": "Birošová",
+    "sourceIds": [
+      "tn-mayor-roster-2026"
+    ],
+    "titlesBefore": "JUDr."
+  },
+  {
+    "id": "tsk-michal-bratranec",
+    "slug": "michal-bratranec",
+    "displayName": "Michal Bratranec",
+    "givenName": "Michal",
+    "familyName": "Bratranec",
+    "sourceIds": [
+      "tn-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-jan-forgac",
+    "slug": "jan-forgac",
+    "displayName": "Mgr. Ján Forgáč",
+    "givenName": "Ján",
+    "familyName": "Forgáč",
+    "sourceIds": [
+      "tn-mayor-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-milos-micega",
+    "slug": "milos-micega",
+    "displayName": "Ing. Miloš Mičega, MBA, LL.M.",
+    "givenName": "Miloš",
+    "familyName": "Mičega",
+    "sourceIds": [
+      "tn-mayor-roster-2026",
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "MBA, LL.M."
+  },
+  {
+    "id": "tsk-jozef-bakos",
+    "slug": "jozef-bakos",
+    "displayName": "Mgr. Jozef Bakoš",
+    "givenName": "Jozef",
+    "familyName": "Bakoš",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-zuzana-bednarova",
+    "slug": "zuzana-bednarova",
+    "displayName": "Ing. Zuzana Bednárová",
+    "givenName": "Zuzana",
+    "familyName": "Bednárová",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-alexander-biros",
+    "slug": "alexander-biros",
+    "displayName": "Alexander Biroš",
+    "givenName": "Alexander",
+    "familyName": "Biroš",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-drahoslav-bocak",
+    "slug": "drahoslav-bocak",
+    "displayName": "Ing. Drahoslav Bočák",
+    "givenName": "Drahoslav",
+    "familyName": "Bočák",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-zdenka-brisudova",
+    "slug": "zdenka-brisudova",
+    "displayName": "Mgr. Zdenka Brisudová",
+    "givenName": "Zdenka",
+    "familyName": "Brisudová",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-andrej-docar",
+    "slug": "andrej-docar",
+    "displayName": "Ing. Andrej Dočár",
+    "givenName": "Andrej",
+    "familyName": "Dočár",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-drahomir-drozd",
+    "slug": "drahomir-drozd",
+    "displayName": "Mgr. Drahomír Drozd",
+    "givenName": "Drahomír",
+    "familyName": "Drozd",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-jan-fabicovic",
+    "slug": "jan-fabicovic",
+    "displayName": "Mgr. Ján Fabičovic",
+    "givenName": "Ján",
+    "familyName": "Fabičovic",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-robert-hartmann",
+    "slug": "robert-hartmann",
+    "displayName": "Ing. Róbert Hartmann",
+    "givenName": "Róbert",
+    "familyName": "Hartmann",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-andrea-jakubcova",
+    "slug": "andrea-jakubcova",
+    "displayName": "Mgr. Andrea Jakubcová",
+    "givenName": "Andrea",
+    "familyName": "Jakubcová",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-maria-kebiskova",
+    "slug": "maria-kebiskova",
+    "displayName": "Ing. Mária Kebísková",
+    "givenName": "Mária",
+    "familyName": "Kebísková",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-lukas-kecera",
+    "slug": "lukas-kecera",
+    "displayName": "Lukáš Kecera",
+    "givenName": "Lukáš",
+    "familyName": "Kecera",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-jan-kmet",
+    "slug": "jan-kmet",
+    "displayName": "Mgr. Ján Kmeť, PhD.",
+    "givenName": "Ján",
+    "familyName": "Kmeť",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "tsk-michaela-kobzova",
+    "slug": "michaela-kobzova",
+    "displayName": "PhDr. Michaela Kobzová",
+    "givenName": "Michaela",
+    "familyName": "Kobzová",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "PhDr."
+  },
+  {
+    "id": "tsk-richard-medal",
+    "slug": "richard-medal",
+    "displayName": "Mgr. Richard Medal",
+    "givenName": "Richard",
+    "familyName": "Medal",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-michal-mosko",
+    "slug": "michal-mosko",
+    "displayName": "Mgr. Michal Moško, MBA",
+    "givenName": "Michal",
+    "familyName": "Moško",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr.",
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "tsk-jana-ovesna",
+    "slug": "jana-ovesna",
+    "displayName": "Ing. Jana Ovesná",
+    "givenName": "Jana",
+    "familyName": "Ovesná",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-richard-scepko",
+    "slug": "richard-scepko",
+    "displayName": "Ing. Richard Ščepko",
+    "givenName": "Richard",
+    "familyName": "Ščepko",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-marian-betak",
+    "slug": "marian-betak",
+    "displayName": "Ing. arch. Marián Beták",
+    "givenName": "Marián",
+    "familyName": "Beták",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing. arch."
+  },
+  {
+    "id": "tsk-lubomir-bobak",
+    "slug": "lubomir-bobak",
+    "displayName": "Mgr. Ľubomír  Bobák",
+    "givenName": "Ľubomír ",
+    "familyName": "Bobák",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-marian-bohus",
+    "slug": "marian-bohus",
+    "displayName": "Mgr. Marián Bohuš",
+    "givenName": "Marián",
+    "familyName": "Bohuš",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-marian-cvecka",
+    "slug": "marian-cvecka",
+    "displayName": "Marián Cvečka",
+    "givenName": "Marián",
+    "familyName": "Cvečka",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-martina-gabrhelova",
+    "slug": "martina-gabrhelova",
+    "displayName": "Mgr. Martina Gabrhelová",
+    "givenName": "Martina",
+    "familyName": "Gabrhelová",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-dominik-gabriel",
+    "slug": "dominik-gabriel",
+    "displayName": "Bc. Dominik Gabriel",
+    "givenName": "Dominik",
+    "familyName": "Gabriel",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Bc."
+  },
+  {
+    "id": "tsk-juraj-hajso",
+    "slug": "juraj-hajso",
+    "displayName": "JUDr. Ing. Juraj Hajšo",
+    "givenName": "Juraj",
+    "familyName": "Hajšo",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "JUDr. Ing."
+  },
+  {
+    "id": "tsk-jakub-halgos",
+    "slug": "jakub-halgos",
+    "displayName": "Jakub Halgoš",
+    "givenName": "Jakub",
+    "familyName": "Halgoš",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-veronika-hluchanova",
+    "slug": "veronika-hluchanova",
+    "displayName": "Ing. Veronika Hlucháňová",
+    "givenName": "Veronika",
+    "familyName": "Hlucháňová",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-peter-hostak",
+    "slug": "peter-hostak",
+    "displayName": "Peter Hošták, PhD.",
+    "givenName": "Peter",
+    "familyName": "Hošták",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "tsk-mario-markech",
+    "slug": "mario-markech",
+    "displayName": "Mário Markech",
+    "givenName": "Mário",
+    "familyName": "Markech",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-adriana-martosova",
+    "slug": "adriana-martosova",
+    "displayName": "Ing. Adriana Martošová, PhD.",
+    "givenName": "Adriana",
+    "familyName": "Martošová",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "tsk-peter-mikulas",
+    "slug": "peter-mikulas",
+    "displayName": "Peter Mikuláš",
+    "givenName": "Peter",
+    "familyName": "Mikuláš",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-lucia-nemesova",
+    "slug": "lucia-nemesova",
+    "displayName": "Mgr. Lucia Nemešová",
+    "givenName": "Lucia",
+    "familyName": "Nemešová",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-ervin-olesnan",
+    "slug": "ervin-olesnan",
+    "displayName": "Ing. Ervín Olešňan",
+    "givenName": "Ervín",
+    "familyName": "Olešňan",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-richard-zimanyi",
+    "slug": "richard-zimanyi",
+    "displayName": "Ing. Richard Zimányi",
+    "givenName": "Richard",
+    "familyName": "Zimányi",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-patrik-zak",
+    "slug": "patrik-zak",
+    "displayName": "Patrik Žák, B.S.B.A.",
+    "givenName": "Patrik",
+    "familyName": "Žák",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesAfter": "B.S.B.A."
+  },
+  {
+    "id": "tsk-miloslav-baco",
+    "slug": "miloslav-baco",
+    "displayName": "Mgr. Miloslav Baco",
+    "givenName": "Miloslav",
+    "familyName": "Baco",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-juraj-bakos",
+    "slug": "juraj-bakos",
+    "displayName": "Mgr. Juraj Bakoš",
+    "givenName": "Juraj",
+    "familyName": "Bakoš",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-peter-bohunicky",
+    "slug": "peter-bohunicky",
+    "displayName": "Peter Bohunický",
+    "givenName": "Peter",
+    "familyName": "Bohunický",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-kamil-bystricky",
+    "slug": "kamil-bystricky",
+    "displayName": "Mgr. Kamil Bystrický",
+    "givenName": "Kamil",
+    "familyName": "Bystrický",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-jan-culy",
+    "slug": "jan-culy",
+    "displayName": "Mgr. Ján Čulý",
+    "givenName": "Ján",
+    "familyName": "Čulý",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-jan-delincak",
+    "slug": "jan-delincak",
+    "displayName": "PhDr. Ján Delinčák",
+    "givenName": "Ján",
+    "familyName": "Delinčák",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "PhDr."
+  },
+  {
+    "id": "tsk-martin-diweg-pukanec",
+    "slug": "martin-diweg-pukanec",
+    "displayName": "prof. Mgr. Martin Diweg-Pukanec, PhD.",
+    "givenName": "Martin",
+    "familyName": "Diweg-Pukanec",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "prof. Mgr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "tsk-marcel-frano",
+    "slug": "marcel-frano",
+    "displayName": "PhDr. Marcel Fraňo, MBA",
+    "givenName": "Marcel",
+    "familyName": "Fraňo",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "PhDr.",
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "tsk-andrej-gavenda",
+    "slug": "andrej-gavenda",
+    "displayName": "Bc. Andrej Gavenda",
+    "givenName": "Andrej",
+    "familyName": "Gavenda",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Bc."
+  },
+  {
+    "id": "tsk-elena-gogolakova",
+    "slug": "elena-gogolakova",
+    "displayName": "Mgr. Elena Gogoláková, PhD.",
+    "givenName": "Elena",
+    "familyName": "Gogoláková",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "tsk-lubomir-horny",
+    "slug": "lubomir-horny",
+    "displayName": "Ľubomír  Horný",
+    "givenName": "Ľubomír ",
+    "familyName": "Horný",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-lubos-chorvat",
+    "slug": "lubos-chorvat",
+    "displayName": "Ing. Ľuboš Chorvát",
+    "givenName": "Ľuboš",
+    "familyName": "Chorvát",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-bohumil-kern",
+    "slug": "bohumil-kern",
+    "displayName": "PhDr. Bohumil Kern",
+    "givenName": "Bohumil",
+    "familyName": "Kern",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "PhDr."
+  },
+  {
+    "id": "tsk-ivan-kubica",
+    "slug": "ivan-kubica",
+    "displayName": "Ing. Ivan Kubica",
+    "givenName": "Ivan",
+    "familyName": "Kubica",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-zdenko-marousek",
+    "slug": "zdenko-marousek",
+    "displayName": "Mgr. Zdenko Marousek",
+    "givenName": "Zdenko",
+    "familyName": "Marousek",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-ladislav-matejka",
+    "slug": "ladislav-matejka",
+    "displayName": "Ing. Ladislav Matejka",
+    "givenName": "Ladislav",
+    "familyName": "Matejka",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-tomas-michalik",
+    "slug": "tomas-michalik",
+    "displayName": "JUDr. Mgr. Tomáš Michalík, PhD.",
+    "givenName": "Tomáš",
+    "familyName": "Michalík",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "JUDr. Mgr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "tsk-zuzana-misakova",
+    "slug": "zuzana-misakova",
+    "displayName": "Mgr. Zuzana Mišáková, DiS. art.",
+    "givenName": "Zuzana",
+    "familyName": "Mišáková",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr.",
+    "titlesAfter": "DiS. art."
+  },
+  {
+    "id": "tsk-martin-petrik",
+    "slug": "martin-petrik",
+    "displayName": "Mgr. Martin Petrík",
+    "givenName": "Martin",
+    "familyName": "Petrík",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-jan-plasil",
+    "slug": "jan-plasil",
+    "displayName": "Ján Plášil",
+    "givenName": "Ján",
+    "familyName": "Plášil",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-ivan-slany",
+    "slug": "ivan-slany",
+    "displayName": "Ing. Ivan Slaný",
+    "givenName": "Ivan",
+    "familyName": "Slaný",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-martin-smolka",
+    "slug": "martin-smolka",
+    "displayName": "JUDr. Martin Smolka",
+    "givenName": "Martin",
+    "familyName": "Smolka",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "JUDr."
+  },
+  {
+    "id": "tsk-dusan-struhacka",
+    "slug": "dusan-struhacka",
+    "displayName": "Ing. Dušan Struhačka",
+    "givenName": "Dušan",
+    "familyName": "Struhačka",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-martin-stefanik",
+    "slug": "martin-stefanik",
+    "displayName": "Ing. Martin Štefánik, MBA",
+    "givenName": "Martin",
+    "familyName": "Štefánik",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "tsk-martin-trepac",
+    "slug": "martin-trepac",
+    "displayName": "Bc. Martin Trepáč",
+    "givenName": "Martin",
+    "familyName": "Trepáč",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Bc."
+  },
+  {
+    "id": "tsk-simona-zacharova",
+    "slug": "simona-zacharova",
+    "displayName": "PhDr. Simona Zacharová, MBA",
+    "givenName": "Simona",
+    "familyName": "Zacharová",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "PhDr.",
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "tsk-martin-barcak",
+    "slug": "martin-barcak",
+    "displayName": "Martin Barčák",
+    "givenName": "Martin",
+    "familyName": "Barčák",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-rastislav-harakal",
+    "slug": "rastislav-harakal",
+    "displayName": "Mgr. Rastislav Harakaľ",
+    "givenName": "Rastislav",
+    "familyName": "Harakaľ",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-ivan-hudcovsky",
+    "slug": "ivan-hudcovsky",
+    "displayName": "Ivan Hudcovský",
+    "givenName": "Ivan",
+    "familyName": "Hudcovský",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-josef-kolar",
+    "slug": "josef-kolar",
+    "displayName": "Mgr. Ing. Josef Kolář, MBA",
+    "givenName": "Josef",
+    "familyName": "Kolář",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr. Ing.",
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "tsk-branislav-liska",
+    "slug": "branislav-liska",
+    "displayName": "Ing. Branislav Líška",
+    "givenName": "Branislav",
+    "familyName": "Líška",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-nada-lorencova",
+    "slug": "nada-lorencova",
+    "displayName": "Bc. Mgr. JUDr. Naďa Lorencová",
+    "givenName": "Naďa",
+    "familyName": "Lorencová",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Bc. Mgr. JUDr."
+  },
+  {
+    "id": "tsk-juraj-machunka",
+    "slug": "juraj-machunka",
+    "displayName": "Ing. Juraj Machunka",
+    "givenName": "Juraj",
+    "familyName": "Machunka",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-marcel-meravy",
+    "slug": "marcel-meravy",
+    "displayName": "Marcel Meravý",
+    "givenName": "Marcel",
+    "familyName": "Meravý",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-ladislav-paska",
+    "slug": "ladislav-paska",
+    "displayName": "Ing. Ladislav Paška",
+    "givenName": "Ladislav",
+    "familyName": "Paška",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-peter-pilathy",
+    "slug": "peter-pilathy",
+    "displayName": "Ing. Peter Piláthy",
+    "givenName": "Peter",
+    "familyName": "Piláthy",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-vladimir-poruban",
+    "slug": "vladimir-poruban",
+    "displayName": "Ing. Vladimír Poruban",
+    "givenName": "Vladimír",
+    "familyName": "Poruban",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-jana-stefanekova",
+    "slug": "jana-stefanekova",
+    "displayName": "JUDr. Jana Štefáneková",
+    "givenName": "Jana",
+    "familyName": "Štefáneková",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "JUDr."
+  },
+  {
+    "id": "tsk-juraj-stilicha",
+    "slug": "juraj-stilicha",
+    "displayName": "Mgr. Ing. Juraj Štilicha, LL.M.",
+    "givenName": "Juraj",
+    "familyName": "Štilicha",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr. Ing.",
+    "titlesAfter": "LL.M."
+  },
+  {
+    "id": "tsk-robert-svehla",
+    "slug": "robert-svehla",
+    "displayName": "Róbert Švehla, B.A.",
+    "givenName": "Róbert",
+    "familyName": "Švehla",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesAfter": "B.A."
+  },
+  {
+    "id": "tsk-tomas-vano",
+    "slug": "tomas-vano",
+    "displayName": "Ing. Tomáš Vaňo, MBA",
+    "givenName": "Tomáš",
+    "familyName": "Vaňo",
+    "sourceIds": [
+      "tn-council-roster-2026",
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing.",
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "tsk-lubomir-vavrus",
+    "slug": "lubomir-vavrus",
+    "displayName": "Mgr. Ľubomír Vavruš",
+    "givenName": "Ľubomír",
+    "familyName": "Vavruš",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-jaroslav-baska",
+    "slug": "jaroslav-baska",
+    "displayName": "Ing. Jaroslav Baška",
+    "givenName": "Jaroslav",
+    "familyName": "Baška",
+    "sourceIds": [
+      "tsk-chair-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-daniel-galas",
+    "slug": "daniel-galas",
+    "displayName": "Ing. Daniel Galas",
+    "givenName": "Daniel",
+    "familyName": "Galas",
+    "sourceIds": [
+      "tsk-chair-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-lubomir-choleva",
+    "slug": "lubomir-choleva",
+    "displayName": "Lubomír Choleva",
+    "givenName": "Lubomír",
+    "familyName": "Choleva",
+    "sourceIds": [
+      "tsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-natalia-svitkova",
+    "slug": "natalia-svitkova",
+    "displayName": "Ing. Natália Svítková",
+    "givenName": "Natália",
+    "familyName": "Svítková",
+    "sourceIds": [
+      "tsk-chair-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-martina-benovicova",
+    "slug": "martina-benovicova",
+    "displayName": "Martina Beňovičová",
+    "givenName": "Martina",
+    "familyName": "Beňovičová",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-marek-brozek",
+    "slug": "marek-brozek",
+    "displayName": "Mgr. Marek Brožek",
+    "givenName": "Marek",
+    "familyName": "Brožek",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-peter-dano",
+    "slug": "peter-dano",
+    "displayName": "MUDr. Peter Daňo",
+    "givenName": "Peter",
+    "familyName": "Daňo",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "MUDr."
+  },
+  {
+    "id": "tsk-eduard-filo",
+    "slug": "eduard-filo",
+    "displayName": "Bc. Eduard Filo, MBA",
+    "givenName": "Eduard",
+    "familyName": "Filo",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Bc.",
+    "titlesAfter": "MBA"
+  },
+  {
+    "id": "tsk-zuzana-frajkova-durmekova",
+    "slug": "zuzana-frajkova-durmekova",
+    "displayName": "PhDr. Zuzana Frajková Ďurmeková",
+    "givenName": "Zuzana",
+    "familyName": "Frajková Ďurmeková",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "PhDr."
+  },
+  {
+    "id": "tsk-pavol-golan",
+    "slug": "pavol-golan",
+    "displayName": "Pavol Goláň",
+    "givenName": "Pavol",
+    "familyName": "Goláň",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-jozef-habanik",
+    "slug": "jozef-habanik",
+    "displayName": "doc. Ing. Jozef Habánik, PhD.",
+    "givenName": "Jozef",
+    "familyName": "Habánik",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "doc. Ing.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "tsk-jozef-hrdlicka",
+    "slug": "jozef-hrdlicka",
+    "displayName": "Ing. PhDr. Jozef Hrdlička, PhD.",
+    "givenName": "Jozef",
+    "familyName": "Hrdlička",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing. PhDr.",
+    "titlesAfter": "PhD."
+  },
+  {
+    "id": "tsk-juraj-huserka",
+    "slug": "juraj-huserka",
+    "displayName": "PhDr. Juraj Húserka",
+    "givenName": "Juraj",
+    "familyName": "Húserka",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "PhDr."
+  },
+  {
+    "id": "tsk-adriana-kovacova",
+    "slug": "adriana-kovacova",
+    "displayName": "Mgr. Adriana Kováčová, MBA, LL.M.",
+    "givenName": "Adriana",
+    "familyName": "Kováčová",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr.",
+    "titlesAfter": "MBA, LL.M."
+  },
+  {
+    "id": "tsk-jan-kvasnica",
+    "slug": "jan-kvasnica",
+    "displayName": "Ján Kvasnica",
+    "givenName": "Ján",
+    "familyName": "Kvasnica",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-martin-kvasnica",
+    "slug": "martin-kvasnica",
+    "displayName": "Mgr. Martin Kvasnica",
+    "givenName": "Martin",
+    "familyName": "Kvasnica",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-anton-kysel",
+    "slug": "anton-kysel",
+    "displayName": "Mgr. Anton Kysel",
+    "givenName": "Anton",
+    "familyName": "Kysel",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-roman-lackovic",
+    "slug": "roman-lackovic",
+    "displayName": "Ing.  Roman Lackovič",
+    "givenName": "Roman",
+    "familyName": "Lackovič",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing. "
+  },
+  {
+    "id": "tsk-maria-machova",
+    "slug": "maria-machova",
+    "displayName": "Bc. Mária Machová",
+    "givenName": "Mária",
+    "familyName": "Machová",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Bc."
+  },
+  {
+    "id": "tsk-juraj-malan",
+    "slug": "juraj-malan",
+    "displayName": "Ing. Juraj Maláň",
+    "givenName": "Juraj",
+    "familyName": "Maláň",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-jaroslav-mego",
+    "slug": "jaroslav-mego",
+    "displayName": "Jaroslav Mego",
+    "givenName": "Jaroslav",
+    "familyName": "Mego",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-valeria-merava",
+    "slug": "valeria-merava",
+    "displayName": "Valéria Meravá",
+    "givenName": "Valéria",
+    "familyName": "Meravá",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-erik-mician",
+    "slug": "erik-mician",
+    "displayName": "Mgr. Erik Mičian",
+    "givenName": "Erik",
+    "familyName": "Mičian",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-marek-mizenko",
+    "slug": "marek-mizenko",
+    "displayName": "Ing. Marek Miženko",
+    "givenName": "Marek",
+    "familyName": "Miženko",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-eva-pastorkova",
+    "slug": "eva-pastorkova",
+    "displayName": "Eva Pastorková",
+    "givenName": "Eva",
+    "familyName": "Pastorková",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ]
+  },
+  {
+    "id": "tsk-karina-penzesova",
+    "slug": "karina-penzesova",
+    "displayName": "Mgr. et. Mgr. Karina Pénzešová",
+    "givenName": "Karina",
+    "familyName": "Pénzešová",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr. et. Mgr."
+  },
+  {
+    "id": "tsk-tomas-prno",
+    "slug": "tomas-prno",
+    "displayName": "Ing. Tomáš Prno",
+    "givenName": "Tomáš",
+    "familyName": "Prno",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Ing."
+  },
+  {
+    "id": "tsk-slavomira-propperova",
+    "slug": "slavomira-propperova",
+    "displayName": "JUDr. Slavomíra Propperová, Mgr.",
+    "givenName": "Slavomíra",
+    "familyName": "Propperová",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "JUDr.",
+    "titlesAfter": "Mgr."
+  },
+  {
+    "id": "tsk-jan-sivak",
+    "slug": "jan-sivak",
+    "displayName": "Mgr. Ján Sivák",
+    "givenName": "Ján",
+    "familyName": "Sivák",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr."
+  },
+  {
+    "id": "tsk-stanislav-svatik",
+    "slug": "stanislav-svatik",
+    "displayName": "MVDr. Stanislav Svatik",
+    "givenName": "Stanislav",
+    "familyName": "Svatik",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "MVDr."
+  },
+  {
+    "id": "tsk-pavol-sulovsky",
+    "slug": "pavol-sulovsky",
+    "displayName": "Bc. et Bc. Pavol Šulovský",
+    "givenName": "Pavol",
+    "familyName": "Šulovský",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Bc. et Bc."
+  },
+  {
+    "id": "tsk-monika-velackova",
+    "slug": "monika-velackova",
+    "displayName": "Mgr. Monika Velacková, LL.M.",
+    "givenName": "Monika",
+    "familyName": "Velacková",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "Mgr.",
+    "titlesAfter": "LL.M."
+  },
+  {
+    "id": "tsk-simon-zdarsky",
+    "slug": "simon-zdarsky",
+    "displayName": "MUDr. Šimon Žďárský",
+    "givenName": "Šimon",
+    "familyName": "Žďárský",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ],
+    "titlesBefore": "MUDr."
+  }
+]

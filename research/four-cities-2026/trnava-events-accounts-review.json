@@ -1,0 +1,81 @@
+{
+  "reviewer": "/root",
+  "checkedAt": "2026-10-15",
+  "proposalSha256": "b132635ecf471e473982810f1f4118a14174418f274ef17450465e2f71b97c1a",
+  "controversyClaimIds": [
+    "ttsk-robert-dohal-controversies-1-2026",
+    "ttsk-robert-dohal-controversies-2-2026",
+    "ttsk-jozef-obselka-controversies-1-2026",
+    "ttsk-branislav-baros-controversies-1-2026",
+    "ttsk-martin-uhlik-controversies-1-2026",
+    "ttsk-martin-uhlik-controversies-2-2026",
+    "ttsk-branislav-baros-controversies-2-2026",
+    "ttsk-ivan-kopcik-controversies-1-2026",
+    "ttsk-martin-uhlik-controversies-3-2026",
+    "ttsk-ivan-kopcik-controversies-2-2026",
+    "ttsk-martin-uhlik-controversies-4-2026",
+    "ttsk-jaroslav-cehlarik-controversies-1-2026",
+    "ttsk-jaroslav-cehlarik-controversies-2-2026",
+    "ttsk-ivan-bocko-controversies-1-2026",
+    "ttsk-anton-zeleznik-controversies-1-2026",
+    "ttsk-anton-zeleznik-debt-relief-2020",
+    "ttsk-anton-zeleznik-controversies-2-2026",
+    "ttsk-peter-kitta-controversies-1-2026",
+    "ttsk-peter-kitta-controversies-2-2026",
+    "ttsk-peter-kitta-controversies-3-2026"
+  ],
+  "identityChecks": [
+    {
+      "candidateId": "ttsk-anton-zeleznik",
+      "originalKey": "anton-zeleznik-opening-2020",
+      "ageAtElectionAgrees": true,
+      "personalMunicipalityAgrees": true,
+      "ageAtElection": 52
+    },
+    {
+      "candidateId": "ttsk-peter-kitta",
+      "originalKey": "peter-kitta-opening-2016",
+      "ageAtElectionAgrees": true,
+      "personalMunicipalityAgrees": true,
+      "ageAtElection": 44
+    }
+  ],
+  "originalsRead": [
+    "lead-4521a6e33f452033",
+    "lead-3f35f9bc5e44abfe",
+    "city-decisions-june2025",
+    "lead-c73dbdaf88b861de",
+    "lead-14e022b04b46ecbe",
+    "anton-zeleznik-opening-2020",
+    "anton-zeleznik-closure-2020",
+    "peter-kitta-opening-2016",
+    "peter-kitta-stage-march2019",
+    "peter-kitta-trustee-removal-2019"
+  ],
+  "browserOriginalsReopened": [
+    "https://dennikn.sk/2102834/sef-zvazu-nepocujucich-cehlarik-o-kritike-konkurenti-taketo-vysledky-nemaju-nedari-sa-im-a-tak-sa-ma-chcu-zbavit/",
+    "https://dennikn.sk/3566809/kandidat-kdh-robert-dohal-hrozil-odrezavanim-hlav-po-otazkach-ho-stiahli-z-kandidatky/"
+  ],
+  "eventFindings": [
+    {
+      "finding": "Opening and debt relief were combined for Železník.",
+      "resolution": "Split into two separately sourced official_outcome claims; targeted RED/GREEN recorded."
+    },
+    {
+      "finding": "One Uhlík identity-evidence entry copied Baroš mayor/coalition attributes.",
+      "resolution": "Corrected to Uhlík council/Lepšia Trnava identity; public event wording preserved."
+    }
+  ],
+  "financeOwnershipRead": [
+    "campaign-lancaric",
+    "bank-1",
+    "campaign-cajkova",
+    "campaign-horvathova",
+    "campaign-nemcovska"
+  ],
+  "financeBoundary": "Four exact IBAN publications and candidate site identities checked. Lančarič explicitly labelled campaign debits support ownExpenses=yes; Nemčovská site explicitly declares campaign outlays, not merely inflows. No sole operator inferred. IBAN-only Horváthová account has no invented bank URL.",
+  "historyReview": "root-trnava-history-independent-review.json plus regional-chair-2022-correction-audit.json; missing Viskupič/Berényi rows corrected after RED.",
+  "businessReview": "root-trnava-business-independent-review.json;17 own-person current statutory roles and personal age/municipality bridges independently checked.",
+  "quoteAndPrivacyReview": "No quote-kind claims; neutral attributed paraphrases only. No private DOB, address, personal contact or bank transaction rows exported.",
+  "openSubstantiveFindings": 0
+}

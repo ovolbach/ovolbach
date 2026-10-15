@@ -1,0 +1,19 @@
+{
+  "cityName": "Nitra",
+  "status": "published",
+  "snapshotDate": "2026-10-15",
+  "cityDistrictIds": [
+    "2026-nr-city-1",
+    "2026-nr-city-2",
+    "2026-nr-city-3",
+    "2026-nr-city-4",
+    "2026-nr-city-5",
+    "2026-nr-city-6",
+    "2026-nr-city-7"
+  ],
+  "regionalDistrictId": "2026-nsk-region-3",
+  "contestIds": {
+    "mayor": "2026-nr-mayor",
+    "city-council": "2026-nr-city-council"
+  }
+}

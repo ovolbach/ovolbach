@@ -1,0 +1,287 @@
+{
+  "reviewer": "/root/trnava_research",
+  "reviewedAt": "2026-10-15T14:49:46.949854+00:00",
+  "worktree": "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/four-cities-2026",
+  "base": "07dbcae",
+  "role": "Independent read-only final public data/journal export audit",
+  "scope": {
+    "filesHashed": 51,
+    "externalRequests": 0,
+    "workingTreeMutations": false,
+    "researchClaimsReread": "No full source-research repetition; prior independent source/identity audits remain separate.",
+    "publicationBoundary": "Four new municipal manifests are draft in this reviewed snapshot while root completes official recheck and technical publication gates."
+  },
+  "counts": [
+    {
+      "city": "trnava",
+      "region": "trnavsky-kraj",
+      "people": 135,
+      "rosterRows": 174,
+      "candidacies": 174,
+      "claims": 300,
+      "coverage": 1080,
+      "coverageStatus": {
+        "found": 373,
+        "searched_none": 707
+      },
+      "journalCategories": 1080,
+      "journalUniqueCategoryPairs": 1080,
+      "journalAcceptedIdErrors": 0,
+      "finance": 135,
+      "officialRowsMatch": true,
+      "fixtureRowsMatch": true
+    },
+    {
+      "city": "trencin",
+      "region": "trenciansky-kraj",
+      "people": 114,
+      "rosterRows": 138,
+      "candidacies": 138,
+      "claims": 366,
+      "coverage": 912,
+      "coverageStatus": {
+        "found": 404,
+        "searched_none": 508
+      },
+      "journalCategories": 912,
+      "journalUniqueCategoryPairs": 912,
+      "journalAcceptedIdErrors": 0,
+      "finance": 114,
+      "officialRowsMatch": true,
+      "fixtureRowsMatch": true
+    },
+    {
+      "city": "nitra",
+      "region": "nitriansky-kraj",
+      "people": 166,
+      "rosterRows": 223,
+      "candidacies": 223,
+      "claims": 593,
+      "coverage": 1328,
+      "coverageStatus": {
+        "found": 466,
+        "searched_none": 862
+      },
+      "journalCategories": 1328,
+      "journalUniqueCategoryPairs": 1328,
+      "journalAcceptedIdErrors": 0,
+      "finance": 166,
+      "officialRowsMatch": true,
+      "fixtureRowsMatch": true
+    },
+    {
+      "city": "banska-bystrica",
+      "region": "banskobystricky-kraj",
+      "people": 131,
+      "rosterRows": 177,
+      "candidacies": 177,
+      "claims": 412,
+      "coverage": 1048,
+      "coverageStatus": {
+        "found": 481,
+        "searched_none": 567
+      },
+      "journalCategories": 1048,
+      "journalUniqueCategoryPairs": 1048,
+      "journalAcceptedIdErrors": 0,
+      "finance": 131,
+      "officialRowsMatch": true,
+      "fixtureRowsMatch": true
+    }
+  ],
+  "totals": {
+    "people": 546,
+    "officialCandidacies": 712,
+    "claims": 1671,
+    "coverage": 4368,
+    "found": 1724,
+    "searchedNone": 2644,
+    "pending": 0,
+    "finance": 546,
+    "globalSources": 2621
+  },
+  "integrity": {
+    "officialRosterRowsAndFixtureRows": "All712match data on candidateID,contest,district,ballotnumber,officialname,age,occupation,affiliations,independence. Every candidacy retains its exact official local source.",
+    "categories": "Exactlyeightdistinctcategories per546candidate; journal category/status and exact acceptedclaimIDs agree with data across4368records. No searched_none withacceptedclaim; every non-basicfound hasacceptedclaim.",
+    "sourceReferences": "No missing references among candidate/candidacy/claim/coverage sources;0duplicates in2621globalsources.",
+    "Nitra593": "43historicalnational/EPregistration facts use exactpodčíslomwording, remain neutralregistrationfacts without outcome objects. ThreeBodišselfdeclared employers separate; role/relationship compound-clause scan found none.",
+    "oldDataPreservation": "All27oldnon-sourcecycleJSONfiles byte-identical to07dbcae; all1828oldglobalsourceobjects exactlyunchanged."
+  },
+  "privacy": {
+    "currentPatternMatches": [],
+    "longCopiedJournalStringMatches": [],
+    "journals": [
+      {
+        "file": "research/trnava-2026.json",
+        "SHA256": "31d012926fcd009ac50be6bf865e97f4a212a70982e3dd462b379c7b82bb64e6",
+        "strings": 62770,
+        "maxStringChars": 243,
+        "redactions": 0,
+        "privateJournalSHA256": "27d66112683b4870010039a5f89fa496633fa8aa914d4ea78851d3e6159a9015"
+      },
+      {
+        "file": "research/trencin-2026.json",
+        "SHA256": "050756f1556888ec77ba22a76223d7fb1d605a6168f2bc5dc5ef871eba0a8d3e",
+        "strings": 61221,
+        "maxStringChars": 557,
+        "redactions": 0,
+        "privateJournalSHA256": "af0586a112b03f9794ef56b9e3d459480e02bcfb6713700d3ae0b0bb4347f0b6"
+      },
+      {
+        "file": "research/nitra-2026.json",
+        "SHA256": "32f1ad347c6588e1444870c2907567b3695480fa5b54a491609f9e566287f88b",
+        "strings": 70430,
+        "maxStringChars": 442,
+        "redactions": 0,
+        "privateJournalSHA256": "2ad2038c0304ee051c9c6712ff4dd4923b4a89141bb4ebba7ba4966cfc9d4629"
+      },
+      {
+        "file": "research/banska-bystrica-2026.json",
+        "SHA256": "d6eafbb2783ce1dfd4142c806700958543d7894122da086dcb302af21b05afe8",
+        "strings": 220908,
+        "maxStringChars": 587,
+        "redactions": 19647,
+        "privateJournalSHA256": "967e6bad163a6491183902d7fa7b11e159b94582f573d44bdf7e600e570297e7"
+      }
+    ],
+    "sanitizationAudit": [
+      {
+        "city": "trnava",
+        "exportSHA256": "31d012926fcd009ac50be6bf865e97f4a212a70982e3dd462b379c7b82bb64e6",
+        "privateJournalSHA256": "27d66112683b4870010039a5f89fa496633fa8aa914d4ea78851d3e6159a9015",
+        "declaredRedactions": 0,
+        "actualChangedFields": 0,
+        "onlyDeclaredTitleChanges": true,
+        "errors": []
+      },
+      {
+        "city": "trencin",
+        "exportSHA256": "050756f1556888ec77ba22a76223d7fb1d605a6168f2bc5dc5ef871eba0a8d3e",
+        "privateJournalSHA256": "af0586a112b03f9794ef56b9e3d459480e02bcfb6713700d3ae0b0bb4347f0b6",
+        "declaredRedactions": 0,
+        "actualChangedFields": 22,
+        "onlyDeclaredTitleChanges": null,
+        "errors": [],
+        "canonicalSourceAliases": [
+          {
+            "from": "tn-original-4ac86336fc0edc3d",
+            "to": "statistics-regional-chair-candidates-2022",
+            "occurrences": 22,
+            "proof": "Both source records refer to identical official OSK2022_SK_tab0a.xlsx URL. This semantic-preserving deduplication precedes privacy sanitization."
+          }
+        ],
+        "expectedAliasChanges": 22,
+        "onlyDeclaredRedactionsOrVerifiedAliases": true
+      },
+      {
+        "city": "nitra",
+        "exportSHA256": "32f1ad347c6588e1444870c2907567b3695480fa5b54a491609f9e566287f88b",
+        "privateJournalSHA256": "2ad2038c0304ee051c9c6712ff4dd4923b4a89141bb4ebba7ba4966cfc9d4629",
+        "declaredRedactions": 0,
+        "actualChangedFields": 0,
+        "onlyDeclaredTitleChanges": true,
+        "errors": []
+      },
+      {
+        "city": "banska-bystrica",
+        "exportSHA256": "cb9123753886eae9426660e9a0d8ab3731dfe243feadbc99d86d11fbdc15d40e",
+        "privateJournalSHA256": "ee12c6e7266d212f48bdd675754a3247d0c9103bea928bbe4718bd520c02bce1",
+        "declaredRedactions": 19647,
+        "actualChangedFields": 19647,
+        "onlyDeclaredTitleChanges": true,
+        "errors": []
+      }
+    ],
+    "boundaries": [
+      "Raw originals and underlying private journals remain outside public export. Redacted titles retain only valueSHA/path and privateJournalSHA.",
+      "AllBBdiscoverytitles and unadjudicatedfinancequerytitles withheld; official publicsource titles remain factual metadata.",
+      "No fullbirthdate numeric or Slovakmonth, nationalidentifier, labelledpersonalstreetresidence, email or telephone pattern survives the final51file scan outside URL/path fields.",
+      "Institutionalpollingstationaddresses and explicitly published candidatecampaignIBANs are legitimate structured publicdata and were not treated as private residence or transactions.",
+      "No rawbody/snippet/excerptsource fields copied into journals. Event responsefields are short researcheradjudications, not reconstructedoriginaltexts.",
+      "Finalglobal source titles maximum234characters. Longest journal strings are adjudicationreasoning or URLs, not copiedsourcepassages."
+    ]
+  },
+  "findings": [
+    {
+      "id": "EXPORT-01",
+      "priority": "P1",
+      "status": "resolved",
+      "file": "research/banska-bystrica-2026.json",
+      "path": "$.candidates[67].categories[1].discoveryAdjudication[14].title",
+      "finding": "A discoveryCVtitle retained a fullbirthdate spelled with aSlovakmonth; other discoverytitles copied longsourcepassages and professionalcontacts. Underlyingprivatevalues are intentionally not reproduced.",
+      "resolution": "Rootwithheldall19647BBdiscovery/unadjudicatedfinancetitles. Independentlyverifiedall19647changedfields against rawprivatejournal andalloriginalvalueSHA256digests; no otherBBjournalfields changed. Finalprivacy/longcontent scan0matches.",
+      "initialPathAndDigestArtifact": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trnava/final-export-title-findings.json"
+    },
+    {
+      "id": "EXPORT-02",
+      "priority": "P2",
+      "status": "resolved",
+      "file": "src/data/sources.json",
+      "sourceId": "tt-regional-declarations-2024-json-2026",
+      "finding": "Source title accidentally contained the entire8545characterrawJSONindex instead of descriptive metadata.",
+      "oldValueSHA256": "152b3ccda34021017d5f5429f2b550940a94340f9418a075d0d2ec04e5455288",
+      "resolution": "Rootreplacedwith Oficiálny index majetkových priznaní TTSK za rok2024. URL,sourceIDandboundedindex-presenceclaimsunmodified; finaltitle53characters."
+    }
+  ],
+  "openFindings": [],
+  "hashes": {
+    "src/data/elections/2026/trnavsky-kraj/campaign-finance-parties.json": "1eb5203f35c342469185e8fbda1130660f755ac7e69543d16b67552a22096a87",
+    "src/data/elections/2026/trnavsky-kraj/claims.json": "09eb4d049e0612d06a4a37dbc4f172787ddcea6ca5966e27a5cd87861db60feb",
+    "src/data/elections/2026/trnavsky-kraj/elections.json": "c8010485853d494c477d37f770581eb1e59f2ba78753367d0b98e60e415f164c",
+    "src/data/elections/2026/trnavsky-kraj/candidacies.json": "768b5449ae39eb05f186c93bd302d28ffa9ea76746c51787ae280b86f9fe4db1",
+    "src/data/elections/2026/trnavsky-kraj/campaign-finance.json": "2ed9b9bd6578a9229d4de745ffbecd39ad4a05e0397f01a87c09cc6c9fe09e09",
+    "src/data/elections/2026/trnavsky-kraj/districts.json": "2d93713bf4fd20078405ab9ded0e3119641ce0ec002f0594f8cfe7c4b8c9f3ef",
+    "src/data/elections/2026/trnavsky-kraj/candidates.json": "cdcd94766c4864c52a3fad6c23d47268157301cb6715039aa042eff888921660",
+    "src/data/elections/2026/trnavsky-kraj/research-coverage.json": "0a18bdb80e56678e304b01757096122da6fbe237ea615875c14bd7ec56234bcd",
+    "src/data/elections/2026/trnavsky-kraj/regional/config.json": "bf91a00f57a8a7cc7505a1c9e7dc810e51eef57b37b650c3b0d94617653ba6c1",
+    "src/data/elections/2026/trnavsky-kraj/municipalities/trnava/config.json": "5d44702b1a53861e8deaf9c8316de2e03a8e7c0738b6e430de2f950b43d95c4d",
+    "research/trnava-2026.json": "31d012926fcd009ac50be6bf865e97f4a212a70982e3dd462b379c7b82bb64e6",
+    "research/trnava-2026-roster.json": "5eb02b8fd24fcadd47f2cc3474c8293ddf2626036e42e8ee93efd4dc76901906",
+    "src/data/elections/2026/trenciansky-kraj/campaign-finance-parties.json": "ac360f39201667b1504c799759c21de6c42848b37fde99bda536e00b41baf29c",
+    "src/data/elections/2026/trenciansky-kraj/claims.json": "41d501980dc1ca5d12695171375b6d3b3bda5c4b5fa41f42d50f609b0e43c927",
+    "src/data/elections/2026/trenciansky-kraj/elections.json": "e626e544144c042ea2e7361e53cf8e2b0051106c31510e9b05ef488aa915dc28",
+    "src/data/elections/2026/trenciansky-kraj/candidacies.json": "97f001ca545ba7038f58d17dee77af79a7a10f86a43946b4377fef7feda87301",
+    "src/data/elections/2026/trenciansky-kraj/campaign-finance.json": "5c4e333d0e499f034a981b4be000a5848cf0e61217d0ff4d6ae9a1d1b599d5fa",
+    "src/data/elections/2026/trenciansky-kraj/districts.json": "ed5f4582bc114b01489effafac258f0bda1a63b19e839162eaafff9b8a05963f",
+    "src/data/elections/2026/trenciansky-kraj/candidates.json": "de836dc4a32f4ab5c795ccb2a480db63d054dfabc99059f33c427702311bad3a",
+    "src/data/elections/2026/trenciansky-kraj/research-coverage.json": "a98d3e595a3b005d4949f14aad4f46a0138b10a84966ee058db15df28830be70",
+    "src/data/elections/2026/trenciansky-kraj/regional/config.json": "ac3e06f89f514b2d290d6c84d538026b9764f7ce8f6ba39a7082377d06e0ca52",
+    "src/data/elections/2026/trenciansky-kraj/municipalities/trencin/config.json": "7c4560b217e0a7a4fb8ceec316d3d17e92ddb3eb959477bf879d539d291ebfff",
+    "research/trencin-2026.json": "050756f1556888ec77ba22a76223d7fb1d605a6168f2bc5dc5ef871eba0a8d3e",
+    "research/trencin-2026-roster.json": "e537eee52bfcaa1c6af342949bd2947cd5bf89216fc2e458774ec35ba6b354ad",
+    "src/data/elections/2026/nitriansky-kraj/campaign-finance-parties.json": "528938410b9cfee4036cd8e949ee7e8063cc4df95263808113974f1e8a0fda3c",
+    "src/data/elections/2026/nitriansky-kraj/claims.json": "79653128b73c19e1b7e2dc33cc88b7ebfd08ecdb86aaa234861360ae8336c934",
+    "src/data/elections/2026/nitriansky-kraj/elections.json": "236642d204d8031ee4228a344757701e995c64e333433a33c43a0b8c84261460",
+    "src/data/elections/2026/nitriansky-kraj/candidacies.json": "b00512c90beeff352fd9538d5e4baf38d1017992ca7d79a3730e5668a14aa889",
+    "src/data/elections/2026/nitriansky-kraj/campaign-finance.json": "06198641f2d9651f2dc2bd508af75165135037906ab4248f2092aaf6388a61e2",
+    "src/data/elections/2026/nitriansky-kraj/districts.json": "3394ef62da198cff2179a1a2e2c8a9adbfdfaff7cc8476b1549d9bb118e025ef",
+    "src/data/elections/2026/nitriansky-kraj/candidates.json": "1ab7cee6ef1032c67a1cb8e29ebdfeeaadb5f798afd415ddbdaefdca3dbd4d0f",
+    "src/data/elections/2026/nitriansky-kraj/research-coverage.json": "548cd819466eeaee831af93e2d432acb7e55a08c21dcdb65b0a6d6b16acd69d0",
+    "src/data/elections/2026/nitriansky-kraj/regional/config.json": "45c3761552cc9751b887fe95c0e1f49b59ef7a48298d97baf4324b13e9820e4d",
+    "src/data/elections/2026/nitriansky-kraj/municipalities/nitra/config.json": "9e59b725e7d374daad0ddd763ef49aace312360c92ddb876e6091b4e37359dd0",
+    "research/nitra-2026.json": "32f1ad347c6588e1444870c2907567b3695480fa5b54a491609f9e566287f88b",
+    "research/nitra-2026-roster.json": "fcc5cd757caed9e9f61bf30fddc1724fe11ab1bffc695aef7094b0307c4a93d5",
+    "src/data/elections/2026/banskobystricky-kraj/campaign-finance-parties.json": "4d200eedaf3966e821a0bf1353cb9eeedf31d18a961b562ea8a2d73ee7f09fb0",
+    "src/data/elections/2026/banskobystricky-kraj/claims.json": "70990aef8f0923e0379e8ad63c599a9e5ce320f1ca7d1a3ba871a9ce0ff6fdd4",
+    "src/data/elections/2026/banskobystricky-kraj/elections.json": "e7b765a877de60336de8ddd16020270627188d0edf99dd0a3cf94e752673d23b",
+    "src/data/elections/2026/banskobystricky-kraj/candidacies.json": "6611a65b68a4ef09e9eee047e1887ed141daf16568c893316b0d9b9bf04c7a62",
+    "src/data/elections/2026/banskobystricky-kraj/campaign-finance.json": "8811529af84be2b8a83add473d3cffa4de1bf7b10eadeb0908100a6dd3e8e69d",
+    "src/data/elections/2026/banskobystricky-kraj/districts.json": "4175709ecadfa6bfef417dddb9106f32c3adb59c9ed8010e202dc4c70abeeafd",
+    "src/data/elections/2026/banskobystricky-kraj/candidates.json": "42d221a4f36ca22423c61cfc971a4c040f36856288f16abfcb584c50dc01e171",
+    "src/data/elections/2026/banskobystricky-kraj/research-coverage.json": "1db3746b00641907d5231c23701d01c774c7f32d6b086d3531568efe175950b8",
+    "src/data/elections/2026/banskobystricky-kraj/regional/config.json": "3abde514fb2bfa44c09c3c0baefcdeff9b50aebc18c6200ab4a7cff42c8dab7f",
+    "src/data/elections/2026/banskobystricky-kraj/municipalities/banska-bystrica/config.json": "e421885b1ce057af479607846ec77faa2353c24af1c0df494b75c2a9c5570fe6",
+    "research/banska-bystrica-2026.json": "d6eafbb2783ce1dfd4142c806700958543d7894122da086dcb302af21b05afe8",
+    "research/banska-bystrica-2026-roster.json": "804a2fb97bda812df5927fbbd0360facf6726d4a1047d72edf80fff3dd578843",
+    "src/data/sources.json": "f6e40933f7154445ccdf25786cee81c442ee0e6405871a325c9e91edc278ae45",
+    "tests/fixtures/four-cities-2026-rosters.json": "a621e35336a7307c5db1051df17ba64fb2f9947df8b2d6d152fe24ebf636c4dc",
+    "tests/fixtures/four-cities-2026-preservation.json": "2f36f946bcfbbf04b4fff093f6482ae1881e5e5c75d1e6ff4f36d43265cbd138"
+  },
+  "artifacts": {
+    "integrity": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trnava/final-export-integrity-audit.json",
+    "sanitization": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trnava/final-export-sanitization-audit.json",
+    "initialTitleFindings": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trnava/final-export-title-findings.json",
+    "nonTitleScan": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trnava/final-export-nontitle-scan.json"
+  },
+  "conclusion": "No open substantive export finding in the exact hashed snapshot.712officialrows,546identities,4368categoryrecords and1671acceptedclaims remain intact. Finalofficialrecheck/build/browserpublicationgates are root work."
+}

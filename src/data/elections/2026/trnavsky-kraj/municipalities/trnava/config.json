@@ -1,0 +1,18 @@
+{
+  "cityName": "Trnava",
+  "status": "published",
+  "snapshotDate": "2026-10-15",
+  "cityDistrictIds": [
+    "tt-city-1",
+    "tt-city-2",
+    "tt-city-3",
+    "tt-city-4",
+    "tt-city-5",
+    "tt-city-6"
+  ],
+  "regionalDistrictId": "ttsk-region-7",
+  "contestIds": {
+    "mayor": "2026-trnava-mayor",
+    "city-council": "2026-trnava-city-council"
+  }
+}

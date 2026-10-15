@@ -1,6 +1,6 @@
 # O voľbách
 
-[ovolbach.sk](https://ovolbach.sk) je otvorený, zdrojovaný a politicky neutrálny volebný sprievodca. Dátové sady pokrývajú komunálne a krajské voľby 2026 v Liptovskom Mikuláši, Martine, Ružomberku, Dolnom Kubíne a Žiline. Jeden web môže publikovať ďalšie mestá aj roky; staršie roky zostávajú v archíve.
+[ovolbach.sk](https://ovolbach.sk) je otvorený, zdrojovaný a politicky neutrálny volebný sprievodca. Dátové sady pokrývajú komunálne a krajské voľby 2026 v Banskej Bystrici, Dolnom Kubíne, Liptovskom Mikuláši, Martine, Nitre, Poprade, Prešove, Ružomberku, Trenčíne, Trnave a Žiline. Jeden web môže publikovať ďalšie mestá aj roky; staršie roky zostávajú v archíve.
 
 Web nehodnotí kandidátov a neposkytuje volebné odporúčania. Verejné tvrdenia oddeľuje podľa typu, pripája k nim zdroje a uvádza dátum kontroly. Otázky, opravy a žiadosti o odstránenie údajov posielajte na [info@ovolbach.sk](mailto:info@ovolbach.sk).
 
@@ -60,6 +60,17 @@ Dolný Kubín 2026 obsahuje 59 osôb a 74 zaregistrovaných kandidatúr: 5 na pr
 Martin 2026 obsahuje 124 osôb a 155 zaregistrovaných kandidatúr podľa úradných zoznamov: 9 na primátora, 94 do mestského zastupiteľstva, 45 do krajského zastupiteľstva v obvode č. 6 a 7 na predsedu kraja. Štyri mestské obvody majú 8, 5, 5 a 7 mandátov; krajský obvod má 8 mandátov. Voľby sa konajú 24. 10. 2026, snímok výskumu je k 3. 10. 2026. Pridaných je 117 nových osôb; sedem kandidátov na predsedu kraja je spoločných a Adam Lučanský má v Martine aj krajskú poslaneckú kandidatúru. Výskumné vyhľadávania, identifikačné spojenia, vylúčenia a hranice overenia financovania sú v [`research/martin-2026.json`](research/martin-2026.json), kontroly a obmedzenia v [`research/martin-2026-audit.md`](research/martin-2026-audit.md).
 
 Žilina 2026 obsahuje 135 osôb a 192 zaregistrovaných kandidatúr: 8 na primátora, 94 do mestského zastupiteľstva, 83 do krajského zastupiteľstva v obvode č. 11 a 7 na predsedu kraja. Osem mestských obvodov má spolu 31 mandátov a 80 volebných miestností; krajský obvod má 12 mandátov. Snímok je k 3. 10. 2026 pre voľby 24. 10. 2026. Sedem kandidátov na predsedu kraja používa pôvodné spoločné záznamy. Individuálne vyhľadávania, zdroje, identifikačné spojenia a vylúčenia sú v [`research/zilina-2026.json`](research/zilina-2026.json); kontroly, finančné hranice a nedostupné originály sú v [`research/zilina-2026-audit.md`](research/zilina-2026-audit.md). Dodatočná mediálna kontrola 128 osôb bez siedmich spoločných kandidátov je v [`research/zilina-media-2026.json`](research/zilina-media-2026.json) a [`research/zilina-media-2026-audit.md`](research/zilina-media-2026-audit.md): 110 nových atómových tvrdení, 80 nových zdrojov a 70 časových osí k 3. 10. 2026.
+
+Trnava, Trenčín, Nitra a Banská Bystrica majú samostatné krajské cykly so snímkou k 15. 10. 2026. Zahŕňajú všetky mestské obvody, všetkých kandidátov na predsedu príslušného kraja a úplný krajský obvod mesta vrátane obyvateľov ďalších obcí.
+
+| Mesto | Osoby | Kandidatúry | Tvrdenia | Volebné okrsky |
+| --- | ---: | ---: | ---: | ---: |
+| Trnava | 135 | 174 | 300 | 47 |
+| Trenčín | 114 | 138 | 366 | 52 |
+| Nitra | 166 | 223 | 593 | 74 |
+| Banská Bystrica | 131 | 177 | 412 | 79 |
+
+Spolu ide o 546 osôb, 712 kandidatúr, 1 671 tvrdení a 4 368 záznamov pokrytia bez `pending`. Financie majú 546 samostatných záznamov. [Spoločný audit](research/four-cities-2026-audit.md) obsahuje výsledky kontrol, nezávislé posúdenia a prístupové obmedzenia vrátane starých nedostupných odkazov; individuálne denníky a audity sú v `research/{mesto}-2026.json` a `research/{mesto}-2026-audit.md`. Pôvodné údaje a dátumy snímok zostávajú zachované.
 
 Pri pridaní mesta do existujúceho cyklu doplňte mestské voľby, obvody, kandidátov a kandidatúry do cyklových súborov a vytvorte jeho `config.json`. Pri novom roku vytvorte samostatný cyklus; neupravujte historický snímok. `contestId` a ID obvodov musia byť jedinečné, kým `electionId` označuje jeden zo štyroch druhov volieb. Nepriraďujte záznamy osobám podľa mena samotného.
 

@@ -1,0 +1,134 @@
+{
+  "reviewer": "/root/trnava_research",
+  "checkedAt": "2026-10-15T13:08:31.567125+00:00",
+  "mode": "independent read-only; no Nitra artifacts edited",
+  "proposalSha256": "b505506eb46c84fec1a26370e9edea202815d81aa603e57337aa019641bfab23",
+  "snapshotManifest": "nitra-review-snapshot-manifest.json",
+  "counts": {
+    "candidates": 166,
+    "claims": 240,
+    "finance": 166,
+    "identityEvidence": 124
+  },
+  "scope": "Accepted identity and finance in the frozen 240-claim/166-finance proposal only. Later Nitra events/history additions and unfinished coverage are outside this review. Pending coverage is not a defect in this review.",
+  "verdict": "changes_requested_one_identity_conflict",
+  "findings": [
+    {
+      "id": "nitra-review-identity-1",
+      "severity": "medium",
+      "candidateId": "nsk-zdenko-svoboda",
+      "claimId": "nsk-zdenko-svoboda-parliament-current-2026",
+      "sourceIds": [
+        "nr-parliament-zdenko-svoboda-2026",
+        "nsk-council-district3-roster-2026"
+      ],
+      "evidence": "The current NRSR profile lists residence Nitra, while the 2026 official ballot lists Štitáre. The proposal explicitly acknowledges the difference and joins on exact name, age 44, HLAS affiliation and parliamentary occupation. Those attributes strongly corroborate identity; this review does not allege a wrong-person match. However, the brief requires two additional matching attributes AND no conflicting evidence. A documented municipality mismatch remains unresolved.",
+      "requiredChange": "Obtain dated primary evidence reconciling the residence fields, or hold the added NRSR institutional claim/identity join pending clarification. The official 2026 ballot occupation and finance record need not be removed.",
+      "rule": "research-brief.md item 5: Identity joins require name plus TWO additional matching attributes and no conflicting evidence."
+    }
+  ],
+  "checks": [
+    {
+      "area": "Nationwide finance identity",
+      "result": "pass",
+      "details": {
+        "people": 166,
+        "retained": 250,
+        "excluded": 43
+      },
+      "registerRows": {
+        "mayors": 6560,
+        "chairs": 56,
+        "councillors": 40184,
+        "regional-councillors": 2472
+      },
+      "method": "Independently reopened all four parsed complete official registers. Reproduced exact normalized-name discovery for all 166 people; independently checked retained age+municipality and all excluded rows against the frozen local roster. All 250 retained and 43 excluded matches agree; no missing discovered namesakes.",
+      "artifact": "nitra-snapshot-audit.json"
+    },
+    {
+      "area": "Existing 2022 result identity",
+      "result": "pass",
+      "details": "All 124 result claims in this frozen proposal have independently reproduced name, municipality and 2022/2026 official age progression (3 or 4 years over the election dates), plus matching candidate/vote composite keys. No missing claim or identity mismatch. This checks identity and join keys, not a separate complete numerical election-results audit.",
+      "artifact": "nitra-history-identity-audit.json"
+    },
+    {
+      "area": "Original receipt integrity",
+      "result": "pass",
+      "details": "43 original body SHA256 values across frozen official enrichment, campaign, institution and finance read receipts independently rehashed; every original matches the frozen receipt. Receipt existence alone was not treated as a factual read. Relevant original sections and account links were read.",
+      "artifact": "nitra-snapshot-audit.json"
+    },
+    {
+      "area": "Three candidate_site accounts",
+      "result": "pass",
+      "accounts": [
+        {
+          "candidateId": "nsk-marek-illes",
+          "key": "lead-1419",
+          "url": "https://www.transparentneucty.sk/#/ucet/SK3109000000005250367721",
+          "bridge": "Named own Nitra mayor 2026 programme and named candidate footer."
+        },
+        {
+          "candidateId": "nsk-igor-krsiak",
+          "key": "lead-1161",
+          "url": "https://www.transparentneucty.sk/#/ucet/SK1009000000005189469947",
+          "bridge": "Named own Nitra mayor 2026 programme and named candidate footer."
+        },
+        {
+          "candidateId": "nsk-henrich-varga",
+          "key": "varga-home",
+          "url": "https://ib.fio.sk/ib/transparent?a=2903426140",
+          "bridge": "Named own NSK chair 2026 campaign, Nitra identity and explicitly campaign-labelled account link."
+        }
+      ],
+      "details": "Each exported account URL exactly appears in original link extraction and the candidate identity is established in source context. candidate_site is correctly used; no bank ownership, donor/transaction or sole operator inference is added."
+    },
+    {
+      "area": "Five unknown population head duties",
+      "result": "pass_with_explicit_boundary",
+      "candidateIds": [
+        "nsk-vladislav-borik",
+        "nsk-jozef-jankovic",
+        "nsk-pavol-lehotak",
+        "nsk-ingrid-sabikova",
+        "nsk-patrik-trubini"
+      ],
+      "details": "Known mayor candidacies and parties retained in finance notes; unquantified heads omitted from headCandidacies; otherCandidacies not_exhaustive; candidacySearchNote explicitly names the known mayor locality and missing applicable population. No invented population or automatic exemption. This is the integration boundary explicitly authorized by the parent."
+    },
+    {
+      "area": "Population originals",
+      "result": "pass",
+      "details": "Read original Nitra 78219, Želiezovce 6585 (21 July date explicitly preserved), Veľké Zálužie 4362, Vráble 8088, Dolné Obdokovce 1139, Čeľadice 1123 election notice sections. Čeľadice stale census footer is correctly ignored. No substitution of census population for declaration-date population."
+    },
+    {
+      "area": "Shared campaign footers",
+      "result": "pass",
+      "details": "Hattas site footer identifies Tím Kraj Nitra association and Fio 2803415209; proposal keeps it a party account, with Hattas personal account not_listed. Seven Kršiak team profiles carry Kršiak footer/account; none is assigned as a featured councillor personal account. Becík footer names HLAS as client and Creo advertising as supplier; Varga client footer does not establish a sole operator. Unknown spending and operator fields remain appropriate."
+    },
+    {
+      "area": "Government index limits",
+      "result": "pass",
+      "details": "Index name alone yields Henrich Varga and Erik Blaško. Blaško is unverified, Varga verified separately by own site. Illéš and Kršiak own-site accounts are not incorrectly rejected because absent from the index. The remaining 162 not_listed records describe index absence only; no nonexistence/violation inference or prohibited PSK exception."
+    },
+    {
+      "area": "Namesake exclusions",
+      "result": "pass",
+      "details": "Peter Polák Nitra age50 versus Veľká Dolina age52 remain separate. Team profile age53 is excluded against age52 ballot. University Zuzana Uhríková age42/neonatologist is excluded against age40/economist. Historical MP Peter Oremus age76 excluded against age50/company director. Professor Peter Peciar excluded against worker ballot qualifications/occupation. Kompasová staff-page VUPCH link actually points to Jozef Kučera and is excluded. No exported account uses a same-name index match as a sufficient join."
+    },
+    {
+      "area": "Campaign profiles and jobs",
+      "result": "pass",
+      "details": "Seven Kršiak profiles explicitly match candidate name+age+Nitra ward. Ten Varga team sections match specific professional/current-office context and NSK2026 Nitra candidacy context; original sections read individually. Main Hattas/Illéš/Kršiak/Varga/Becík positions read and kept attributed. Becík text explicitly says complete programme forthcoming and invites public input. FN Nitra lists MUDr. Peter Kišška PhD MPH as primár úrazovej chirurgie; qualifications plus specific profession match ballot. UCM Kompasová profile matches qualifications plus higher-education profession; no workplace-residence inference. Ranuša Koncošová employment remains an attributed own-profile statement."
+    },
+    {
+      "area": "Current office and declaration indices",
+      "result": "pass",
+      "details": "City council named blocks pair with following VMČ fields; accepted ward matches or separately reconciled 2022 results support identity. All 28 city declaration names occur specifically in the 2025 filing / 2024 reporting-year section; all 12 regional names occur specifically in the 2025 section. Regional current list contains ceased Peter Baláž and Juraj Soboňa, neither accepted as current office among these candidates. Asset claims state publication only, with no wealth/income or document-content inference. Three historical parliamentary profiles preserve historical periods; current-office proof uses current official pages, subject to the Svoboda finding."
+    }
+  ],
+  "limitations": [
+    "No independent audit of later, unfrozen Nitra additions.",
+    "No finding is based on known unfinished coverage.",
+    "Existing 2022 result identity and composite keys checked for all 124; full vote/outcome re-tabulation not part of this review.",
+    "Original private bodies remain in research captures; no private addresses, complete birth dates, contacts or bank transaction details reproduced here."
+  ]
+}

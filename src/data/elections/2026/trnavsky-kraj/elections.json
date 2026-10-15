@@ -1,0 +1,58 @@
+[
+  {
+    "id": "mayor",
+    "contestId": "2026-trnava-mayor",
+    "title": {
+      "sk": "Voľby primátora mesta Trnava"
+    },
+    "level": "city",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "tt-municipal-index-2026",
+      "tt-official-3-2026"
+    ]
+  },
+  {
+    "id": "city-council",
+    "contestId": "2026-trnava-city-council",
+    "title": {
+      "sk": "Voľby do Mestského zastupiteľstva mesta Trnava"
+    },
+    "level": "city",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "tt-municipal-index-2026",
+      "tt-official-4-2026"
+    ]
+  },
+  {
+    "id": "region-chair",
+    "contestId": "2026-trnavsky-kraj-region-chair",
+    "title": {
+      "sk": "Voľby predsedu Trnavského samosprávneho kraja"
+    },
+    "level": "region",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "tt-municipal-index-2026",
+      "tt-official-1-2026"
+    ]
+  },
+  {
+    "id": "region-council",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "title": {
+      "sk": "Voľby do Zastupiteľstva Trnavského samosprávneho kraja"
+    },
+    "level": "region",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "tt-municipal-index-2026",
+      "tt-official-2-2026"
+    ]
+  }
+]

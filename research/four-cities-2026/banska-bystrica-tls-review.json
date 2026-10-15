@@ -1,0 +1,212 @@
+{
+  "checkedAt": "2026-10-15",
+  "scope": "Read-only factual dependency audit of seven BBSK sources bearing historical tls-unverified IDs; no proposal, journal or worktree edits.",
+  "proposalsSha256": "f1f8e466009a219b9ce4b768b8612f5d292a8d573def118299f20ea50df30ae1",
+  "result": "resolved",
+  "openAccessIssues": 0,
+  "sources": [
+    {
+      "sourceId": "bb-bbsk-assets-index-tls-unverified",
+      "url": "https://www.bbsk.sk/cinnost-majetok-verejnych-funkcionarov",
+      "originalReceipt": "banska-bystrica/bbsk-assets-index-tls-unverified.receipt.json",
+      "originalSha256": "cd28af9ec583c208b482cd01ed68c682f73845584484de644683114030f37a7d",
+      "trustedRecaptureReceipt": "final-link-trusted-retry/verified-2407.receipt.json",
+      "trustedRecaptureSha256": "cd28af9ec583c208b482cd01ed68c682f73845584484de644683114030f37a7d",
+      "trustedRecaptureStatus": 200,
+      "bodyByteIdentical": true,
+      "extractedTextIdentical": true,
+      "claimIds": [
+        "bbsk-viera-dubacova-regional-declaration-index2025",
+        "bbsk-roman-malatinec-regional-declaration-index2025"
+      ],
+      "substantiveClaimIds": [
+        "bbsk-viera-dubacova-regional-declaration-index2025",
+        "bbsk-roman-malatinec-regional-declaration-index2025"
+      ],
+      "literalSoleSourceClaimIds": [],
+      "review": [
+        "Named Viera Dubačová and Roman Malatinec links are within explicit 2025 announcement section. Publication claim is supported by this primary index; other cited sources support identity only.",
+        "Negative coverage entries referencing this catalogue are bounded searches, not assertions that a declaration does not exist."
+      ],
+      "resolution": "Original assertion retained: trusted HTTPS recapture is byte-identical to the previously read official original."
+    },
+    {
+      "sourceId": "bb-bbsk-current-council-page2-tls-unverified",
+      "url": "https://www.bbsk.sk/poslanci?page=2",
+      "originalReceipt": "banska-bystrica/bbsk-current-council-page2-tls-unverified.receipt.json",
+      "originalSha256": "9b6034f3d2c33af086067f3910a31a4f1ee167fe09cb37d5beb0f8ea938abf5b",
+      "trustedRecaptureReceipt": "final-link-trusted-retry/verified-2408.receipt.json",
+      "trustedRecaptureSha256": "9b6034f3d2c33af086067f3910a31a4f1ee167fe09cb37d5beb0f8ea938abf5b",
+      "trustedRecaptureStatus": 200,
+      "bodyByteIdentical": true,
+      "extractedTextIdentical": true,
+      "claimIds": [
+        "bbsk-viera-dubacova-current-regional-council",
+        "bbsk-viera-dubacova-regional-declaration-index2025",
+        "bbsk-jakub-gajdosik-current-regional-council"
+      ],
+      "substantiveClaimIds": [
+        "bbsk-viera-dubacova-current-regional-council",
+        "bbsk-jakub-gajdosik-current-regional-council"
+      ],
+      "literalSoleSourceClaimIds": [],
+      "review": [
+        "Read named personal entries beneath current official regional-council directory heading with qualifications, clubs and districts. Historical 2022 official rosters support identity, not continuity of service; this current primary directory supports the current role assertion.",
+        "Any declaration claim also citing this page uses it only as an identity/office bridge; it does not independently prove declaration publication."
+      ],
+      "resolution": "Original assertion retained: trusted HTTPS recapture is byte-identical to the previously read official original."
+    },
+    {
+      "sourceId": "bb-bbsk-current-council-page3-tls-unverified",
+      "url": "https://www.bbsk.sk/poslanci?page=3",
+      "originalReceipt": "banska-bystrica/bbsk-current-council-page3-tls-unverified.receipt.json",
+      "originalSha256": "c810464ead1fdfc3793c2e96980a0f9cdfe4e4c772f5aefa0ea93ff6b6e4e7ab",
+      "trustedRecaptureReceipt": "final-link-trusted-retry/verified-2409.receipt.json",
+      "trustedRecaptureSha256": "c810464ead1fdfc3793c2e96980a0f9cdfe4e4c772f5aefa0ea93ff6b6e4e7ab",
+      "trustedRecaptureStatus": 200,
+      "bodyByteIdentical": true,
+      "extractedTextIdentical": true,
+      "claimIds": [
+        "bbsk-david-kapusta-current-regional-council",
+        "bbsk-igor-kasper-current-regional-council",
+        "bbsk-milan-lichy-current-regional-council",
+        "bbsk-roman-malatinec-current-regional-council",
+        "bbsk-roman-malatinec-regional-declaration-index2025",
+        "bbsk-marek-modransky-current-regional-council"
+      ],
+      "substantiveClaimIds": [
+        "bbsk-david-kapusta-current-regional-council",
+        "bbsk-igor-kasper-current-regional-council",
+        "bbsk-milan-lichy-current-regional-council",
+        "bbsk-roman-malatinec-current-regional-council",
+        "bbsk-marek-modransky-current-regional-council"
+      ],
+      "literalSoleSourceClaimIds": [],
+      "review": [
+        "Read named personal entries beneath current official regional-council directory heading with qualifications, clubs and districts. Historical 2022 official rosters support identity, not continuity of service; this current primary directory supports the current role assertion.",
+        "Any declaration claim also citing this page uses it only as an identity/office bridge; it does not independently prove declaration publication."
+      ],
+      "resolution": "Original assertion retained: trusted HTTPS recapture is byte-identical to the previously read official original."
+    },
+    {
+      "sourceId": "bb-bbsk-current-council-page4-tls-unverified",
+      "url": "https://www.bbsk.sk/poslanci?page=4",
+      "originalReceipt": "banska-bystrica/bbsk-current-council-page4-tls-unverified.receipt.json",
+      "originalSha256": "ae4e679484e06b66be9c9922d6778be8c6c591b6aed8c8c5cb4505d0aad8b6b2",
+      "trustedRecaptureReceipt": "final-link-trusted-retry/verified-2410.receipt.json",
+      "trustedRecaptureSha256": "ae4e679484e06b66be9c9922d6778be8c6c591b6aed8c8c5cb4505d0aad8b6b2",
+      "trustedRecaptureStatus": 200,
+      "bodyByteIdentical": true,
+      "extractedTextIdentical": true,
+      "claimIds": [
+        "bbsk-tomas-sobota-current-regional-council",
+        "bbsk-martin-turcan-current-regional-council"
+      ],
+      "substantiveClaimIds": [
+        "bbsk-tomas-sobota-current-regional-council",
+        "bbsk-martin-turcan-current-regional-council"
+      ],
+      "literalSoleSourceClaimIds": [],
+      "review": [
+        "Read named personal entries beneath current official regional-council directory heading with qualifications, clubs and districts. Historical 2022 official rosters support identity, not continuity of service; this current primary directory supports the current role assertion.",
+        "Any declaration claim also citing this page uses it only as an identity/office bridge; it does not independently prove declaration publication."
+      ],
+      "resolution": "Original assertion retained: trusted HTTPS recapture is byte-identical to the previously read official original."
+    },
+    {
+      "sourceId": "bb-bbsk-current-chair-tls-unverified",
+      "url": "https://www.bbsk.sk/predseda",
+      "originalReceipt": "banska-bystrica/bbsk-current-chair-tls-unverified.receipt.json",
+      "originalSha256": "6cc12c95c6a60a8b391c13f79e639cff0dbaf43662bfa976fab7589104ab27ad",
+      "trustedRecaptureReceipt": "final-link-trusted-retry/verified-2411.receipt.json",
+      "trustedRecaptureSha256": "6cc12c95c6a60a8b391c13f79e639cff0dbaf43662bfa976fab7589104ab27ad",
+      "trustedRecaptureStatus": 200,
+      "bodyByteIdentical": true,
+      "extractedTextIdentical": true,
+      "claimIds": [
+        "bbsk-ondrej-lunter-current-regional-chair",
+        "bbsk-ondrej-lunter-alfa-bio2015-2017"
+      ],
+      "substantiveClaimIds": [
+        "bbsk-ondrej-lunter-current-regional-chair",
+        "bbsk-ondrej-lunter-alfa-bio2015-2017"
+      ],
+      "literalSoleSourceClaimIds": [
+        "bbsk-ondrej-lunter-alfa-bio2015-2017"
+      ],
+      "review": [
+        "Official page explicitly states chair from November2022 to present and AlfaBio OperationsManager October2015–January2017. The historical employment claim is the one literal sole-source claim in this set.",
+        "Dated historical AlfaBio role does not infer current employment."
+      ],
+      "resolution": "Original assertion retained: trusted HTTPS recapture is byte-identical to the previously read official original."
+    },
+    {
+      "sourceId": "bb-regional-index-tls-unverified",
+      "url": "https://www.bbsk.sk/volby-2026",
+      "originalReceipt": "banska-bystrica/regional-index-tls-unverified.receipt.json",
+      "originalSha256": "64860554ece633f7b0dad673c87c26dd18e2a3178e4d6a00de710ac8c9dfa07e",
+      "trustedRecaptureReceipt": "final-link-trusted-retry/verified-2418.receipt.json",
+      "trustedRecaptureSha256": "64860554ece633f7b0dad673c87c26dd18e2a3178e4d6a00de710ac8c9dfa07e",
+      "trustedRecaptureStatus": 200,
+      "bodyByteIdentical": true,
+      "extractedTextIdentical": true,
+      "claimIds": [],
+      "substantiveClaimIds": [],
+      "literalSoleSourceClaimIds": [],
+      "review": [
+        "Regional election index is provenance/navigation, with no atomic person claim dependent on it. The 2026 candidate rosters are independently preserved on the municipal official CDN."
+      ],
+      "resolution": "Original assertion retained: trusted HTTPS recapture is byte-identical to the previously read official original."
+    },
+    {
+      "sourceId": "bb-regional-district-decision-tls-unverified",
+      "url": "https://www.bbsk.sk/storage/app/media/dokumenty/volby-2026/volebn-obvody-oznamenie-s-obcami.pdf",
+      "originalReceipt": "banska-bystrica/regional-district-decision-tls-unverified.receipt.json",
+      "originalSha256": "649fc782a142eefc93d9a202d41eaf97016fb0cce2a53c4a302b41dd0b10117d",
+      "trustedRecaptureReceipt": "final-link-trusted-retry/verified-2419.receipt.json",
+      "trustedRecaptureSha256": "649fc782a142eefc93d9a202d41eaf97016fb0cce2a53c4a302b41dd0b10117d",
+      "trustedRecaptureStatus": 200,
+      "bodyByteIdentical": true,
+      "extractedTextIdentical": true,
+      "claimIds": [],
+      "substantiveClaimIds": [],
+      "literalSoleSourceClaimIds": [],
+      "review": [
+        "No atomic person claim depends on this source; district bbsk-1 cites it for regional district definition and seats.",
+        "Official municipal-hosted regional candidate roster municipal-attachment-04 independently states regional district1 and8seats on page1. The42municipality boundary is explicitly enumerated by this decision annex; it is not inferred from candidate residences.",
+        "Metadata quality note: current source title is extraction delimiter --- PAGE1 ---; source URL and body remain correct."
+      ],
+      "resolution": "Original assertion retained: trusted HTTPS recapture is byte-identical to the previously read official original."
+    }
+  ],
+  "uniqueSubstantiveClaims": 13,
+  "substantiveClaimIds": [
+    "bbsk-david-kapusta-current-regional-council",
+    "bbsk-igor-kasper-current-regional-council",
+    "bbsk-jakub-gajdosik-current-regional-council",
+    "bbsk-marek-modransky-current-regional-council",
+    "bbsk-martin-turcan-current-regional-council",
+    "bbsk-milan-lichy-current-regional-council",
+    "bbsk-ondrej-lunter-alfa-bio2015-2017",
+    "bbsk-ondrej-lunter-current-regional-chair",
+    "bbsk-roman-malatinec-current-regional-council",
+    "bbsk-roman-malatinec-regional-declaration-index2025",
+    "bbsk-tomas-sobota-current-regional-council",
+    "bbsk-viera-dubacova-current-regional-council",
+    "bbsk-viera-dubacova-regional-declaration-index2025"
+  ],
+  "transportResolution": {
+    "reportedBy": "parent /root",
+    "report": "Server omitted GeoTrust intermediate. Parent obtained issuer via AIA, verified leaf with intermediate against system trusted roots, then recaptured all seven URLs with certificate-chain and hostname checks enabled using system roots plus verified intermediate.",
+    "evidence": "final-link-trusted-jobs.json.results.json and final-link-trusted-retry/*.receipt.json; tls/verified-bundle.pem",
+    "independentlyCheckedHere": "All seven original and fresh bodies hashed locally; both equal their recorded SHA256, and extracted text is identical. The fresh primary-source content was read for the affected assertions.",
+    "historicalReceipts": "Original transportLimit notes are preserved; tls-unverified source ID suffixes describe historical capture method, not the status of the verified recapture.",
+    "browserCheck": "Not needed after verified primary-source recapture; no claim of browser accessibility is made."
+  },
+  "limits": [
+    "Historical election results and current municipal offices are not substituted for current regional office proof.",
+    "Independent declaration-publication proof is the official2025index, not an inferred conclusion from councillor office.",
+    "Local unaugmented system trust can continue to fail while the server omits the intermediate; the parent supplied a verified chain without disabling certificate or hostname checks."
+  ],
+  "errors": []
+}

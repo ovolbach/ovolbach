@@ -1,0 +1,3408 @@
+[
+  {
+    "candidateId": "ttsk-jozsef-berenyi",
+    "electionId": "region-chair",
+    "ballotNumber": 1,
+    "ageAtElection": 59,
+    "occupationOfficial": "podpredseda samosprávneho kraja",
+    "displayNameOfficial": "József BERÉNYI, Mgr.",
+    "affiliations": [
+      "Magyar szövetség - maďarská aliancia"
+    ],
+    "independent": false,
+    "id": "tt-region-chair-0-1-2026",
+    "contestId": "2026-trnavsky-kraj-region-chair",
+    "sourceIds": [
+      "tt-official-1-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-jaroslav-cehlarik",
+    "electionId": "region-chair",
+    "ballotNumber": 2,
+    "ageAtElection": 43,
+    "occupationOfficial": "riaditeľ",
+    "displayNameOfficial": "Jaroslav CEHLÁRIK, Mgr.",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "id": "tt-region-chair-0-2-2026",
+    "contestId": "2026-trnavsky-kraj-region-chair",
+    "sourceIds": [
+      "tt-official-1-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-robert-dohal",
+    "electionId": "region-chair",
+    "ballotNumber": 3,
+    "ageAtElection": 64,
+    "occupationOfficial": "poľnohospodársky inžinier",
+    "displayNameOfficial": "Róbert DOHÁL, Ing.",
+    "affiliations": [
+      "Alternatíva pre Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-region-chair-0-3-2026",
+    "contestId": "2026-trnavsky-kraj-region-chair",
+    "sourceIds": [
+      "tt-official-1-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-peter-hambalek",
+    "electionId": "region-chair",
+    "ballotNumber": 4,
+    "ageAtElection": 44,
+    "occupationOfficial": "generálny štátny radca",
+    "displayNameOfficial": "Peter HAMBÁLEK, Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-region-chair-0-4-2026",
+    "contestId": "2026-trnavsky-kraj-region-chair",
+    "sourceIds": [
+      "tt-official-1-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-matej-lancaric",
+    "electionId": "region-chair",
+    "ballotNumber": 5,
+    "ageAtElection": 41,
+    "occupationOfficial": "poslanec samosprávneho kraja, projektový manažér",
+    "displayNameOfficial": "Matej LANČARIČ, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-chair-0-5-2026",
+    "contestId": "2026-trnavsky-kraj-region-chair",
+    "sourceIds": [
+      "tt-official-1-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-stefan-pollak",
+    "electionId": "region-chair",
+    "ballotNumber": 6,
+    "ageAtElection": 43,
+    "occupationOfficial": "účtovník",
+    "displayNameOfficial": "Štefan POLLÁK, Mgr.",
+    "affiliations": [
+      "Spoločne občania Slovenska"
+    ],
+    "independent": false,
+    "id": "tt-region-chair-0-6-2026",
+    "contestId": "2026-trnavsky-kraj-region-chair",
+    "sourceIds": [
+      "tt-official-1-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-jozef-viskupic",
+    "electionId": "region-chair",
+    "ballotNumber": 7,
+    "ageAtElection": 50,
+    "occupationOfficial": "predseda samosprávneho kraja",
+    "displayNameOfficial": "Jozef VISKUPIČ, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "id": "tt-region-chair-0-7-2026",
+    "contestId": "2026-trnavsky-kraj-region-chair",
+    "sourceIds": [
+      "tt-official-1-2026",
+      "finance-national-chairs-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-juraj-badura",
+    "electionId": "region-council",
+    "ballotNumber": 1,
+    "ageAtElection": 44,
+    "occupationOfficial": "grafik",
+    "displayNameOfficial": "Juraj BAĎURA",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-1-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-branislav-baros",
+    "electionId": "region-council",
+    "ballotNumber": 2,
+    "ageAtElection": 53,
+    "occupationOfficial": "riaditeľ strojárenskej spoločnosti",
+    "displayNameOfficial": "Branislav BAROŠ, Ing.",
+    "affiliations": [
+      "Trnava pre každého"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-2-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-maria-benova",
+    "electionId": "region-council",
+    "ballotNumber": 3,
+    "ageAtElection": 50,
+    "occupationOfficial": "SZČO, psychológ",
+    "displayNameOfficial": "Mária BENOVÁ, PhDr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-3-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-ivan-bocko",
+    "electionId": "region-council",
+    "ballotNumber": 4,
+    "ageAtElection": 41,
+    "occupationOfficial": "starosta obce",
+    "displayNameOfficial": "Ivan BOČKO",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-4-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-kristina-bolemanova",
+    "electionId": "region-council",
+    "ballotNumber": 5,
+    "ageAtElection": 39,
+    "occupationOfficial": "diplomatka a expertka na európske a zahraničné politiky",
+    "displayNameOfficial": "Kristína BOLEMANOVÁ, Ing., PhD.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-5-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-zuzana-bosnakova",
+    "electionId": "region-council",
+    "ballotNumber": 6,
+    "ageAtElection": 40,
+    "occupationOfficial": "riaditeľka zariadenia pre seniorov a špecializovaného zariadenia",
+    "displayNameOfficial": "Zuzana BOŠNÁKOVÁ, JUDr. Bc.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-6-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-maria-bullova",
+    "electionId": "region-council",
+    "ballotNumber": 7,
+    "ageAtElection": 39,
+    "occupationOfficial": "podnikateľka",
+    "displayNameOfficial": "Mária BULLOVÁ, Ing.",
+    "affiliations": [
+      "Trnava pre každého"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-7-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-kashif-butt",
+    "electionId": "region-council",
+    "ballotNumber": 8,
+    "ageAtElection": 57,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Kashif BUTT, Ing.",
+    "affiliations": [
+      "Trnava pre každého"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-8-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-gabriela-cabanova",
+    "electionId": "region-council",
+    "ballotNumber": 9,
+    "ageAtElection": 61,
+    "occupationOfficial": "riaditeľka školy, učiteľka",
+    "displayNameOfficial": "Gabriela CABANOVÁ, RNDr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-9-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-jaroslav-cehlarik",
+    "electionId": "region-council",
+    "ballotNumber": 10,
+    "ageAtElection": 43,
+    "occupationOfficial": "riaditeľ",
+    "displayNameOfficial": "Jaroslav CEHLÁRIK, Mgr.",
+    "affiliations": [
+      "Právo na pravdu"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-10-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-andrea-cajkova",
+    "electionId": "region-council",
+    "ballotNumber": 11,
+    "ageAtElection": 48,
+    "occupationOfficial": "docentka verejnej politiky a verejnej správy - vysokoškolská pedagogička",
+    "displayNameOfficial": "Andrea ČAJKOVÁ, doc. PhDr., PhD.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-11-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-tomas-drobny",
+    "electionId": "region-council",
+    "ballotNumber": 12,
+    "ageAtElection": 20,
+    "occupationOfficial": "spisovateľ, študent",
+    "displayNameOfficial": "Tomáš DROBNÝ",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-12-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-katarina-durkova",
+    "electionId": "region-council",
+    "ballotNumber": 13,
+    "ageAtElection": 48,
+    "occupationOfficial": "vysokoškolská učiteľka",
+    "displayNameOfficial": "Katarína ĎURKOVÁ, PhDr., PhD.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-13-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-magdalena-eliasova",
+    "electionId": "region-council",
+    "ballotNumber": 14,
+    "ageAtElection": 44,
+    "occupationOfficial": "riaditeľka školy",
+    "displayNameOfficial": "Magdaléna ELIÁŠOVÁ, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-14-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-jana-fridrichova",
+    "electionId": "region-council",
+    "ballotNumber": 15,
+    "ageAtElection": 60,
+    "occupationOfficial": "lekárka",
+    "displayNameOfficial": "Jana FRIDRICHOVÁ, MUDr.",
+    "affiliations": [
+      "Trnava pre každého"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-15-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-marian-galbavy",
+    "electionId": "region-council",
+    "ballotNumber": 16,
+    "ageAtElection": 54,
+    "occupationOfficial": "advokát",
+    "displayNameOfficial": "Marián GALBAVÝ, Mgr. Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-16-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-marta-gubricka",
+    "electionId": "region-council",
+    "ballotNumber": 17,
+    "ageAtElection": 67,
+    "occupationOfficial": "riaditeľka",
+    "displayNameOfficial": "Marta GUBRICKÁ, PaedDr.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-17-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-martin-halaksa",
+    "electionId": "region-council",
+    "ballotNumber": 18,
+    "ageAtElection": 52,
+    "occupationOfficial": "starosta obce",
+    "displayNameOfficial": "Martin HALAKSA, PhDr., PhD.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-18-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-peter-hambalek",
+    "electionId": "region-council",
+    "ballotNumber": 19,
+    "ageAtElection": 44,
+    "occupationOfficial": "generálny štátny radca",
+    "displayNameOfficial": "Peter HAMBÁLEK, Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-19-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-milan-hejduk",
+    "electionId": "region-council",
+    "ballotNumber": 20,
+    "ageAtElection": 59,
+    "occupationOfficial": "zubný lekár",
+    "displayNameOfficial": "Milan HEJDUK, MUDr.",
+    "affiliations": [
+      "Trnava pre každého"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-20-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-petra-helt",
+    "electionId": "region-council",
+    "ballotNumber": 21,
+    "ageAtElection": 35,
+    "occupationOfficial": "právnička, viceprednostka miestneho úradu",
+    "displayNameOfficial": "Petra HELT, Mgr., PhD.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-21-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-juraj-horvath",
+    "electionId": "region-council",
+    "ballotNumber": 22,
+    "ageAtElection": 43,
+    "occupationOfficial": "programátor technik údržby",
+    "displayNameOfficial": "Juraj HORVÁTH",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-22-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-lubica-horvathova",
+    "electionId": "region-council",
+    "ballotNumber": 23,
+    "ageAtElection": 41,
+    "occupationOfficial": "špecialistka na energetické projekty",
+    "displayNameOfficial": "Ľubica HORVÁTHOVÁ, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-23-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-stanislav-hric",
+    "electionId": "region-council",
+    "ballotNumber": 24,
+    "ageAtElection": 43,
+    "occupationOfficial": "riaditeľ materskej školy",
+    "displayNameOfficial": "Stanislav HRIC, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-24-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-jan-chalama",
+    "electionId": "region-council",
+    "ballotNumber": 25,
+    "ageAtElection": 51,
+    "occupationOfficial": "obchodný zástupca",
+    "displayNameOfficial": "Ján CHALAMA",
+    "affiliations": [
+      "Kotlebovci - ľudová strana naše Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-25-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-jan-jobb",
+    "electionId": "region-council",
+    "ballotNumber": 26,
+    "ageAtElection": 63,
+    "occupationOfficial": "environmentálny a športový manažér",
+    "displayNameOfficial": "Ján JOBB, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-26-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-josef-filip-kozon",
+    "electionId": "region-council",
+    "ballotNumber": 27,
+    "ageAtElection": 71,
+    "occupationOfficial": "poslanec",
+    "displayNameOfficial": "Josef Filip KOZOŇ",
+    "affiliations": [
+      "Nova"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-27-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-marcel-krajco",
+    "electionId": "region-council",
+    "ballotNumber": 28,
+    "ageAtElection": 38,
+    "occupationOfficial": "zástupca primátora",
+    "displayNameOfficial": "Marcel KRAJČO, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-28-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-branislav-kramar",
+    "electionId": "region-council",
+    "ballotNumber": 29,
+    "ageAtElection": 53,
+    "occupationOfficial": "lekár - chirurg",
+    "displayNameOfficial": "Branislav KRAMÁR, MUDr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-29-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-milos-kristofik",
+    "electionId": "region-council",
+    "ballotNumber": 30,
+    "ageAtElection": 60,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Miloš KRIŠTOFÍK, PhDr.",
+    "affiliations": [
+      "Trnava pre každého"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-30-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-stefan-kristofik",
+    "electionId": "region-council",
+    "ballotNumber": 31,
+    "ageAtElection": 64,
+    "occupationOfficial": "všeobecný lekár",
+    "displayNameOfficial": "Štefan KRIŠTOFÍK, MUDr., MPH",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-31-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-peter-kvasnicak",
+    "electionId": "region-council",
+    "ballotNumber": 32,
+    "ageAtElection": 41,
+    "occupationOfficial": "global network service manager",
+    "displayNameOfficial": "Peter KVASNIČÁK, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-32-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-matej-lancaric",
+    "electionId": "region-council",
+    "ballotNumber": 33,
+    "ageAtElection": 41,
+    "occupationOfficial": "poslanec samosprávneho kraja, projektový manažér",
+    "displayNameOfficial": "Matej LANČARIČ, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-33-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-peter-markovic",
+    "electionId": "region-council",
+    "ballotNumber": 34,
+    "ageAtElection": 56,
+    "occupationOfficial": "silnoprúdový energetik",
+    "displayNameOfficial": "Peter MARKOVIČ, Ing.",
+    "affiliations": [
+      "Trnava pre každého"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-34-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-david-matula",
+    "electionId": "region-council",
+    "ballotNumber": 35,
+    "ageAtElection": 40,
+    "occupationOfficial": "starosta",
+    "displayNameOfficial": "David MATULA, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-35-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-peter-morvay",
+    "electionId": "region-council",
+    "ballotNumber": 36,
+    "ageAtElection": 65,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Peter MORVAY",
+    "affiliations": [
+      "Trnava pre každého"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-36-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-rastislav-mraz",
+    "electionId": "region-council",
+    "ballotNumber": 37,
+    "ageAtElection": 48,
+    "occupationOfficial": "právnik, podpredseda samosprávneho kraja",
+    "displayNameOfficial": "Rastislav MRÁZ, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-37-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-marek-nesticky",
+    "electionId": "region-council",
+    "ballotNumber": 38,
+    "ageAtElection": 48,
+    "occupationOfficial": "vedúci zimného štadióna",
+    "displayNameOfficial": "Marek NEŠTICKÝ, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-38-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-vladimir-ondrejicka",
+    "electionId": "region-council",
+    "ballotNumber": 39,
+    "ageAtElection": 61,
+    "occupationOfficial": "revízny technik elektrických zariadení",
+    "displayNameOfficial": "Vladimír ONDREJIČKA, Ing.",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-39-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-tibor-pekarcik",
+    "electionId": "region-council",
+    "ballotNumber": 40,
+    "ageAtElection": 48,
+    "occupationOfficial": "podnikateľ v cestovnom ruchu, poslanec mestského zastupiteľstva",
+    "displayNameOfficial": "Tibor PEKARČÍK, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-40-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-martin-pullmann",
+    "electionId": "region-council",
+    "ballotNumber": 41,
+    "ageAtElection": 53,
+    "occupationOfficial": "vedúci štátny zamestnanec",
+    "displayNameOfficial": "Martin PULLMANN, Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-41-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-jozef-remenar",
+    "electionId": "region-council",
+    "ballotNumber": 42,
+    "ageAtElection": 50,
+    "occupationOfficial": "technik - špecialista",
+    "displayNameOfficial": "Jozef REMENÁR",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-42-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-robert-smak",
+    "electionId": "region-council",
+    "ballotNumber": 43,
+    "ageAtElection": 44,
+    "occupationOfficial": "hlavný kuchár",
+    "displayNameOfficial": "Róbert SMÁK",
+    "affiliations": [
+      "Slovexit"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-43-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-martina-sarvaicova",
+    "electionId": "region-council",
+    "ballotNumber": 44,
+    "ageAtElection": 47,
+    "occupationOfficial": "ekonómka, konateľka",
+    "displayNameOfficial": "Martina ŠARVAICOVÁ",
+    "affiliations": [
+      "Trnava pre každého"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-44-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-marcel-skorec",
+    "electionId": "region-council",
+    "ballotNumber": 45,
+    "ageAtElection": 53,
+    "occupationOfficial": "starosta obce",
+    "displayNameOfficial": "Marcel ŠKOREC, Mgr.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-45-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-ondrej-stefanik",
+    "electionId": "region-council",
+    "ballotNumber": 46,
+    "ageAtElection": 45,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Ondrej ŠTEFÁNIK, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-region-council-7-46-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-marian-viskupic",
+    "electionId": "region-council",
+    "ballotNumber": 47,
+    "ageAtElection": 49,
+    "occupationOfficial": "poslanec národnej rady",
+    "displayNameOfficial": "Marián VISKUPIČ, RNDr. Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Kdh - kresťanskodemokratické hnutie",
+      "Demokrati",
+      "Hnutie Slovensko",
+      "Maďarské fórum",
+      "Občianska konzervatívna strana"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-47-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-livia-volekova",
+    "electionId": "region-council",
+    "ballotNumber": 48,
+    "ageAtElection": 50,
+    "occupationOfficial": "zdravotná sestra",
+    "displayNameOfficial": "Lívia VOLEKOVÁ, PhDr., MPH",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-48-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-ludovit-zambokrethy",
+    "electionId": "region-council",
+    "ballotNumber": 49,
+    "ageAtElection": 59,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Ľudovít ŽAMBOKRÉTHY, Mgr.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-49-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-anton-zeleznik",
+    "electionId": "region-council",
+    "ballotNumber": 50,
+    "ageAtElection": 52,
+    "occupationOfficial": "riaditeľ investičných projektov",
+    "displayNameOfficial": "Anton ŽELEZNÍK, Ing.",
+    "affiliations": [
+      "Alternatíva pre Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-region-council-7-50-2026",
+    "contestId": "2026-trnavsky-kraj-region-council",
+    "sourceIds": [
+      "tt-official-2-2026",
+      "finance-national-regional-councillors-2026"
+    ],
+    "districtId": "ttsk-region-7"
+  },
+  {
+    "candidateId": "ttsk-branislav-baros",
+    "electionId": "mayor",
+    "ballotNumber": 1,
+    "ageAtElection": 53,
+    "occupationOfficial": "riaditeľ strojárskej spoločnosti",
+    "displayNameOfficial": "Branislav BAROŠ, Ing.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-mayor-0-1-2026",
+    "contestId": "2026-trnava-mayor",
+    "sourceIds": [
+      "tt-official-3-2026",
+      "finance-national-mayors-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-andrea-cajkova",
+    "electionId": "mayor",
+    "ballotNumber": 2,
+    "ageAtElection": 48,
+    "occupationOfficial": "docentka verejnej politiky a verejnej správy, vysokoškolská pedagogička",
+    "displayNameOfficial": "Andrea ČAJKOVÁ, doc. PhDr., PhD.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-mayor-0-2-2026",
+    "contestId": "2026-trnava-mayor",
+    "sourceIds": [
+      "tt-official-3-2026",
+      "finance-national-mayors-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-lubica-horvathova",
+    "electionId": "mayor",
+    "ballotNumber": 3,
+    "ageAtElection": 41,
+    "occupationOfficial": "špecialistka na energetické projekty",
+    "displayNameOfficial": "Ľubica HORVÁTHOVÁ, Mgr.",
+    "affiliations": [
+      "Demokrati"
+    ],
+    "independent": false,
+    "id": "tt-mayor-0-3-2026",
+    "contestId": "2026-trnava-mayor",
+    "sourceIds": [
+      "tt-official-3-2026",
+      "finance-national-mayors-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-eva-nemcovska",
+    "electionId": "mayor",
+    "ballotNumber": 4,
+    "ageAtElection": 43,
+    "occupationOfficial": "zástupkyňa primátora",
+    "displayNameOfficial": "Eva NEMČOVSKÁ, PhDr., PhD., MPH",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-mayor-0-4-2026",
+    "contestId": "2026-trnava-mayor",
+    "sourceIds": [
+      "tt-official-3-2026",
+      "finance-national-mayors-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-jozef-obselka",
+    "electionId": "mayor",
+    "ballotNumber": 5,
+    "ageAtElection": 48,
+    "occupationOfficial": "vedúci spoločnosti",
+    "displayNameOfficial": "Jozef OBSELKA, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-mayor-0-5-2026",
+    "contestId": "2026-trnava-mayor",
+    "sourceIds": [
+      "tt-official-3-2026",
+      "finance-national-mayors-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-martin-pullmann",
+    "electionId": "mayor",
+    "ballotNumber": 6,
+    "ageAtElection": 53,
+    "occupationOfficial": "vedúci štátny zamestnanec",
+    "displayNameOfficial": "Martin PULLMANN, Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-mayor-0-6-2026",
+    "contestId": "2026-trnava-mayor",
+    "sourceIds": [
+      "tt-official-3-2026",
+      "finance-national-mayors-2026"
+    ]
+  },
+  {
+    "candidateId": "ttsk-frantisek-drgon",
+    "electionId": "city-council",
+    "ballotNumber": 1,
+    "ageAtElection": 66,
+    "occupationOfficial": "senior",
+    "displayNameOfficial": "František DRGOŇ, Ing.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-1-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-katarina-durkova",
+    "electionId": "city-council",
+    "ballotNumber": 2,
+    "ageAtElection": 48,
+    "occupationOfficial": "vysokoškolská učiteľka",
+    "displayNameOfficial": "Katarína ĎURKOVÁ, PhDr., PhD.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-1-2-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-lucia-francescato",
+    "electionId": "city-council",
+    "ballotNumber": 3,
+    "ageAtElection": 44,
+    "occupationOfficial": "poradkyňa pre európske politiky",
+    "displayNameOfficial": "Lucia FRANCESCATO, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-3-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-jana-fridrichova",
+    "electionId": "city-council",
+    "ballotNumber": 4,
+    "ageAtElection": 60,
+    "occupationOfficial": "lekárka",
+    "displayNameOfficial": "Jana FRIDRICHOVÁ, MUDr.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-4-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-milan-hejduk",
+    "electionId": "city-council",
+    "ballotNumber": 5,
+    "ageAtElection": 59,
+    "occupationOfficial": "zubný lekár",
+    "displayNameOfficial": "Milan HEJDUK, MUDr.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-5-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-silvia-jakabova",
+    "electionId": "city-council",
+    "ballotNumber": 6,
+    "ageAtElection": 42,
+    "occupationOfficial": "riaditeľka strednej školy",
+    "displayNameOfficial": "Silvia JAKABOVÁ, PaedDr., Mgr., PhD.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-6-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-peter-kitta",
+    "electionId": "city-council",
+    "ballotNumber": 7,
+    "ageAtElection": 44,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Peter KITTA, Bc.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-7-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-adrian-kobetic",
+    "electionId": "city-council",
+    "ballotNumber": 8,
+    "ageAtElection": 31,
+    "occupationOfficial": "riaditeľ galérie, vysokoškolský pedagóg",
+    "displayNameOfficial": "Adrián KOBETIČ, Mgr., PhD.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-8-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-marcel-krajco",
+    "electionId": "city-council",
+    "ballotNumber": 9,
+    "ageAtElection": 38,
+    "occupationOfficial": "zástupca primátora",
+    "displayNameOfficial": "Marcel KRAJČO, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-1-9-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-viktor-krizan",
+    "electionId": "city-council",
+    "ballotNumber": 10,
+    "ageAtElection": 44,
+    "occupationOfficial": "vysokoškolský učiteľ, právnik",
+    "displayNameOfficial": "Viktor KRIŽAN, doc. JUDr., PhD.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-10-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-peter-kvasnicak",
+    "electionId": "city-council",
+    "ballotNumber": 11,
+    "ageAtElection": 41,
+    "occupationOfficial": "IT manažér kritickej infraštruktúry",
+    "displayNameOfficial": "Peter KVASNIČÁK, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-1-11-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-ina-mruskovicova",
+    "electionId": "city-council",
+    "ballotNumber": 12,
+    "ageAtElection": 40,
+    "occupationOfficial": "špecialistka na komunikáciu a riadenie",
+    "displayNameOfficial": "Ina MRUŠKOVIČOVÁ, Mgr., PhD.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-1-12-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-marek-polonec",
+    "electionId": "city-council",
+    "ballotNumber": 13,
+    "ageAtElection": 51,
+    "occupationOfficial": "riaditeľ hotela",
+    "displayNameOfficial": "Marek POLONEC, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-13-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-martin-pullmann",
+    "electionId": "city-council",
+    "ballotNumber": 14,
+    "ageAtElection": 53,
+    "occupationOfficial": "vedúci štátny zamestnanec",
+    "displayNameOfficial": "Martin PULLMANN, Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-14-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-milan-sokolovsky",
+    "electionId": "city-council",
+    "ballotNumber": 15,
+    "ageAtElection": 36,
+    "occupationOfficial": "chirurg",
+    "displayNameOfficial": "Milan SOKOLOVSKÝ, MUDr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-1-15-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-andrea-svata",
+    "electionId": "city-council",
+    "ballotNumber": 16,
+    "ageAtElection": 54,
+    "occupationOfficial": "prevádzkovateľka biliardového klubu",
+    "displayNameOfficial": "Andrea SVATÁ, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-1-16-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-gabriela-sykorova",
+    "electionId": "city-council",
+    "ballotNumber": 17,
+    "ageAtElection": 70,
+    "occupationOfficial": "dôchodkyňa",
+    "displayNameOfficial": "Gabriela SÝKOROVÁ, Ing. Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-1-17-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-stanislav-surin",
+    "electionId": "city-council",
+    "ballotNumber": 18,
+    "ageAtElection": 55,
+    "occupationOfficial": "vysokoškolský učiteľ, hudobný skladateľ",
+    "displayNameOfficial": "Stanislav ŠURIN, Mgr.art, PhD.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-18-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-jan-uhnavy",
+    "electionId": "city-council",
+    "ballotNumber": 19,
+    "ageAtElection": 66,
+    "occupationOfficial": "dôchodca",
+    "displayNameOfficial": "Ján UHNAVÝ, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-1-19-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-1"
+  },
+  {
+    "candidateId": "ttsk-boris-aresta",
+    "electionId": "city-council",
+    "ballotNumber": 1,
+    "ageAtElection": 45,
+    "occupationOfficial": "projektant dopravných stavieb",
+    "displayNameOfficial": "Boris ARESTA, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-1-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-richard-bohunicky",
+    "electionId": "city-council",
+    "ballotNumber": 2,
+    "ageAtElection": 55,
+    "occupationOfficial": "ekonóm",
+    "displayNameOfficial": "Richard BOHUNICKÝ, Ing.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-2-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-maria-bullova",
+    "electionId": "city-council",
+    "ballotNumber": 3,
+    "ageAtElection": 39,
+    "occupationOfficial": "podnikateľka",
+    "displayNameOfficial": "Mária BULLOVÁ, Ing.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-3-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-kashif-butt",
+    "electionId": "city-council",
+    "ballotNumber": 4,
+    "ageAtElection": 57,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Kashif BUTT, Ing.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-4-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-gabriela-cabanova",
+    "electionId": "city-council",
+    "ballotNumber": 5,
+    "ageAtElection": 61,
+    "occupationOfficial": "riaditeľka školy,učiteľka",
+    "displayNameOfficial": "Gabriela CABANOVÁ, RNDr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-5-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-tomas-foltin",
+    "electionId": "city-council",
+    "ballotNumber": 6,
+    "ageAtElection": 39,
+    "occupationOfficial": "konateľ",
+    "displayNameOfficial": "Tomáš FOLTÍN, PhDr., MBA",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-6-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-martin-hanak",
+    "electionId": "city-council",
+    "ballotNumber": 7,
+    "ageAtElection": 51,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Martin HANÁK",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-7-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-petra-helt",
+    "electionId": "city-council",
+    "ballotNumber": 8,
+    "ageAtElection": 35,
+    "occupationOfficial": "právnička, viceprednostka",
+    "displayNameOfficial": "Petra HELT, Mgr., PhD.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-8-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-jan-chalama",
+    "electionId": "city-council",
+    "ballotNumber": 9,
+    "ageAtElection": 51,
+    "occupationOfficial": "obchodný zástupca",
+    "displayNameOfficial": "Ján CHALAMA",
+    "affiliations": [
+      "Kotlebovci - ľudová strana naše Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-9-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-jan-jobb",
+    "electionId": "city-council",
+    "ballotNumber": 10,
+    "ageAtElection": 63,
+    "occupationOfficial": "environmentálny a športový manažér",
+    "displayNameOfficial": "Ján JOBB, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-10-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-ivan-kopcik",
+    "electionId": "city-council",
+    "ballotNumber": 11,
+    "ageAtElection": 38,
+    "occupationOfficial": "digitálny inovátor, podnikateľ",
+    "displayNameOfficial": "Ivan KOPČÍK, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-11-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-matej-lancaric",
+    "electionId": "city-council",
+    "ballotNumber": 12,
+    "ageAtElection": 41,
+    "occupationOfficial": "projektový manažér, občiansky aktivista",
+    "displayNameOfficial": "Matej LANČARIČ, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-12-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-peter-markovic",
+    "electionId": "city-council",
+    "ballotNumber": 13,
+    "ageAtElection": 56,
+    "occupationOfficial": "silnoprúdový energetik",
+    "displayNameOfficial": "Peter MARKOVIČ, Ing.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-13-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-erik-matovic",
+    "electionId": "city-council",
+    "ballotNumber": 14,
+    "ageAtElection": 28,
+    "occupationOfficial": "dátový vedec",
+    "displayNameOfficial": "Erik MATOVIČ, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-14-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-peter-neslusan",
+    "electionId": "city-council",
+    "ballotNumber": 15,
+    "ageAtElection": 60,
+    "occupationOfficial": "futbalový tréner mládeže",
+    "displayNameOfficial": "Peter NESLUŠAN",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-15-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-marek-nesticky",
+    "electionId": "city-council",
+    "ballotNumber": 16,
+    "ageAtElection": 48,
+    "occupationOfficial": "vedúci zimného štadióna",
+    "displayNameOfficial": "Marek NEŠTICKÝ, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-16-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-marek-nic",
+    "electionId": "city-council",
+    "ballotNumber": 17,
+    "ageAtElection": 18,
+    "occupationOfficial": "študent",
+    "displayNameOfficial": "Marek NIČ",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-17-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-jozef-obselka",
+    "electionId": "city-council",
+    "ballotNumber": 18,
+    "ageAtElection": 48,
+    "occupationOfficial": "vedúci spoločnosti",
+    "displayNameOfficial": "Jozef OBSELKA, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-18-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-tibor-pekarcik",
+    "electionId": "city-council",
+    "ballotNumber": 19,
+    "ageAtElection": 48,
+    "occupationOfficial": "manažér v cestovnom ruchu",
+    "displayNameOfficial": "Tibor PEKARČÍK, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-19-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-marian-schwarz",
+    "electionId": "city-council",
+    "ballotNumber": 20,
+    "ageAtElection": 43,
+    "occupationOfficial": "odborník na efektívne riadenie",
+    "displayNameOfficial": "Marián SCHWARZ, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-20-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-jaroslav-skoda",
+    "electionId": "city-council",
+    "ballotNumber": 21,
+    "ageAtElection": 40,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Jaroslav ŠKODA, PhDr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-21-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-martin-uhlik",
+    "electionId": "city-council",
+    "ballotNumber": 22,
+    "ageAtElection": 47,
+    "occupationOfficial": "manažér výroby",
+    "displayNameOfficial": "Martin UHLÍK, Mgr., PhD.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-2-22-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-tomas-vahalik",
+    "electionId": "city-council",
+    "ballotNumber": 23,
+    "ageAtElection": 40,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Tomáš VAHÁLIK",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-23-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-igor-valek",
+    "electionId": "city-council",
+    "ballotNumber": 24,
+    "ageAtElection": 48,
+    "occupationOfficial": "poslanec",
+    "displayNameOfficial": "Igor VÁLEK, Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-24-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-viera-vancova",
+    "electionId": "city-council",
+    "ballotNumber": 25,
+    "ageAtElection": 55,
+    "occupationOfficial": "expertka na eurofondy",
+    "displayNameOfficial": "Viera VANČOVÁ, Ing., PhD.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-25-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-ivana-varga-babelova",
+    "electionId": "city-council",
+    "ballotNumber": 26,
+    "ageAtElection": 46,
+    "occupationOfficial": "riaditeľka",
+    "displayNameOfficial": "Ivana VARGA BABEĽOVÁ, Ing. Mgr., PhD.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-26-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-jan-vlasko",
+    "electionId": "city-council",
+    "ballotNumber": 27,
+    "ageAtElection": 36,
+    "occupationOfficial": "futbalista",
+    "displayNameOfficial": "Ján VLASKO",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-27-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-ludovit-zambokrethy",
+    "electionId": "city-council",
+    "ballotNumber": 28,
+    "ageAtElection": 59,
+    "occupationOfficial": "podnikateľ, tréner",
+    "displayNameOfficial": "Ľudovít ŽAMBOKRÉTHY, Mgr.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-2-28-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-2"
+  },
+  {
+    "candidateId": "ttsk-juraj-badura",
+    "electionId": "city-council",
+    "ballotNumber": 1,
+    "ageAtElection": 44,
+    "occupationOfficial": "grafik",
+    "displayNameOfficial": "Juraj BAĎURA, DiS.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-3-1-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-andrea-banova",
+    "electionId": "city-council",
+    "ballotNumber": 2,
+    "ageAtElection": 60,
+    "occupationOfficial": "riaditeľka gymnázia",
+    "displayNameOfficial": "Andrea BÁNOVÁ, RNDr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-2-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-lukas-bednar",
+    "electionId": "city-council",
+    "ballotNumber": 3,
+    "ageAtElection": 35,
+    "occupationOfficial": "riaditeľ spoločnosti",
+    "displayNameOfficial": "Lukáš BEDNÁR, MBA,MSc.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-3-3-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-andrea-cajkova",
+    "electionId": "city-council",
+    "ballotNumber": 4,
+    "ageAtElection": 48,
+    "occupationOfficial": "docentka verejnej politiky a verejnej správy, vysokoškolská pedagogička",
+    "displayNameOfficial": "Andrea ČAJKOVÁ, doc. PhDr., PhD.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-3-4-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-marek-domes",
+    "electionId": "city-council",
+    "ballotNumber": 5,
+    "ageAtElection": 46,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Marek DOMES",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-5-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-tomas-drobny",
+    "electionId": "city-council",
+    "ballotNumber": 6,
+    "ageAtElection": 20,
+    "occupationOfficial": "spisovateľ, študent",
+    "displayNameOfficial": "Tomáš DROBNÝ",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-3-6-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-vladimir-ekhardt",
+    "electionId": "city-council",
+    "ballotNumber": 7,
+    "ageAtElection": 43,
+    "occupationOfficial": "programátor",
+    "displayNameOfficial": "Vladimír EKHARDT, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-3-7-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-erik-elias",
+    "electionId": "city-council",
+    "ballotNumber": 8,
+    "ageAtElection": 43,
+    "occupationOfficial": "lektor finančnej gramotnosti",
+    "displayNameOfficial": "Erik ELIÁŠ",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-8-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-marian-gabris",
+    "electionId": "city-council",
+    "ballotNumber": 9,
+    "ageAtElection": 41,
+    "occupationOfficial": "stolár",
+    "displayNameOfficial": "Marián GÁBRIŠ",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-9-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-matej-gasparovic",
+    "electionId": "city-council",
+    "ballotNumber": 10,
+    "ageAtElection": 20,
+    "occupationOfficial": "študent",
+    "displayNameOfficial": "Matej GAŠPAROVIČ",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-10-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-peter-halada",
+    "electionId": "city-council",
+    "ballotNumber": 11,
+    "ageAtElection": 45,
+    "occupationOfficial": "expert na eurofondy",
+    "displayNameOfficial": "Peter HALADA, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-11-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-pavol-hluchy",
+    "electionId": "city-council",
+    "ballotNumber": 12,
+    "ageAtElection": 43,
+    "occupationOfficial": "inžinier v energetike",
+    "displayNameOfficial": "Pavol HLUCHÝ, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-3-12-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-martin-kleiman",
+    "electionId": "city-council",
+    "ballotNumber": 13,
+    "ageAtElection": 36,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Martin KLEIMAN, PhDr.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-13-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-kristian-kolev",
+    "electionId": "city-council",
+    "ballotNumber": 14,
+    "ageAtElection": 46,
+    "occupationOfficial": "inžinierska činnosť v stavebnom konaní",
+    "displayNameOfficial": "Kristián KOLEV , Bc.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-14-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-tomas-koppl",
+    "electionId": "city-council",
+    "ballotNumber": 15,
+    "ageAtElection": 55,
+    "occupationOfficial": "grafik, fotograf",
+    "displayNameOfficial": "Tomáš KÖPPL, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-15-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-branislav-kramar",
+    "electionId": "city-council",
+    "ballotNumber": 16,
+    "ageAtElection": 53,
+    "occupationOfficial": "chirurg",
+    "displayNameOfficial": "Branislav KRAMÁR, MUDr.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-16-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-marek-meciar",
+    "electionId": "city-council",
+    "ballotNumber": 17,
+    "ageAtElection": 52,
+    "occupationOfficial": "projektový manažér",
+    "displayNameOfficial": "Marek MEČIAR, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-3-17-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-robert-mucuta",
+    "electionId": "city-council",
+    "ballotNumber": 18,
+    "ageAtElection": 35,
+    "occupationOfficial": "bezpečnostný operátor v energetike",
+    "displayNameOfficial": "Róbert MUCUTA",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-18-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-martin-nano",
+    "electionId": "city-council",
+    "ballotNumber": 19,
+    "ageAtElection": 49,
+    "occupationOfficial": "projektový manažér",
+    "displayNameOfficial": "Martin NAŇO, Dipl.-Ing. (Univ.)",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-19-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-marcel-odumorek",
+    "electionId": "city-council",
+    "ballotNumber": 20,
+    "ageAtElection": 25,
+    "occupationOfficial": "IT konzultant",
+    "displayNameOfficial": "Marcel ODUMOREK",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-20-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-matej-pivoluska",
+    "electionId": "city-council",
+    "ballotNumber": 21,
+    "ageAtElection": 44,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Matej PIVOLUSKA, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-3-21-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-ladislav-rolnik",
+    "electionId": "city-council",
+    "ballotNumber": 22,
+    "ageAtElection": 38,
+    "occupationOfficial": "vysokoškolský pedagóg",
+    "displayNameOfficial": "Ladislav ROLNÍK, Ing., PhD.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-22-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-richard-sladek",
+    "electionId": "city-council",
+    "ballotNumber": 23,
+    "ageAtElection": 47,
+    "occupationOfficial": "interný auditor",
+    "displayNameOfficial": "Richard SLÁDEK, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-3-23-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-jozef-studenc",
+    "electionId": "city-council",
+    "ballotNumber": 24,
+    "ageAtElection": 47,
+    "occupationOfficial": "elektroinžinier, špecialista v automobilovom priemysle",
+    "displayNameOfficial": "Jozef ŠTUDENC, Ing.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-3-24-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-3"
+  },
+  {
+    "candidateId": "ttsk-milan-balaz",
+    "electionId": "city-council",
+    "ballotNumber": 1,
+    "ageAtElection": 48,
+    "occupationOfficial": "metrológ",
+    "displayNameOfficial": "Milan BALÁŽ",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-1-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-andrej-brnik",
+    "electionId": "city-council",
+    "ballotNumber": 2,
+    "ageAtElection": 39,
+    "occupationOfficial": "prorektor na univerzite",
+    "displayNameOfficial": "Andrej BRNÍK, doc. Mgr. , PhD.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-4-2-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-milos-cmarada",
+    "electionId": "city-council",
+    "ballotNumber": 3,
+    "ageAtElection": 58,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Miloš ČMARADA",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-3-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-robert-frimmel",
+    "electionId": "city-council",
+    "ballotNumber": 4,
+    "ageAtElection": 35,
+    "occupationOfficial": "analytik verejných politík",
+    "displayNameOfficial": "Róbert FRIMMEL, PhDr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-4-4-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-marian-galbavy",
+    "electionId": "city-council",
+    "ballotNumber": 5,
+    "ageAtElection": 54,
+    "occupationOfficial": "advokát",
+    "displayNameOfficial": "Marián GALBAVÝ, Mgr. Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-5-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-lubica-gergelyova",
+    "electionId": "city-council",
+    "ballotNumber": 6,
+    "ageAtElection": 53,
+    "occupationOfficial": "stredoškolská učiteľka",
+    "displayNameOfficial": "Ľubica GERGELYOVÁ, Ing.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-6-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-lukas-gressak",
+    "electionId": "city-council",
+    "ballotNumber": 7,
+    "ageAtElection": 37,
+    "occupationOfficial": "futbalista",
+    "displayNameOfficial": "Lukáš GREŠŠÁK",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-7-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-peter-hambalek",
+    "electionId": "city-council",
+    "ballotNumber": 8,
+    "ageAtElection": 44,
+    "occupationOfficial": "generálny štátny radca",
+    "displayNameOfficial": "Peter HAMBÁLEK, Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-8-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-lubica-horvathova",
+    "electionId": "city-council",
+    "ballotNumber": 9,
+    "ageAtElection": 41,
+    "occupationOfficial": "špecialistka na energetické projekty",
+    "displayNameOfficial": "Ľubica HORVÁTHOVÁ, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-9-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-lukas-ihnat",
+    "electionId": "city-council",
+    "ballotNumber": 10,
+    "ageAtElection": 40,
+    "occupationOfficial": "IT konzultant",
+    "displayNameOfficial": "Lukáš IHNÁT",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-10-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-daniel-kravec",
+    "electionId": "city-council",
+    "ballotNumber": 11,
+    "ageAtElection": 35,
+    "occupationOfficial": "advokát",
+    "displayNameOfficial": "Daniel KRAVEC, Mgr., LL.M.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-11-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-milos-kysel",
+    "electionId": "city-council",
+    "ballotNumber": 12,
+    "ageAtElection": 38,
+    "occupationOfficial": "architekt",
+    "displayNameOfficial": "Miloš KYSEĽ, Ing.arch.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-12-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-michal-lipovsky",
+    "electionId": "city-council",
+    "ballotNumber": 13,
+    "ageAtElection": 39,
+    "occupationOfficial": "riaditeľ kultúrnej inštitúcie, manažér sociálnych služieb",
+    "displayNameOfficial": "Michal LIPOVSKÝ, PhDr., MBA",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-13-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-stefan-liptak",
+    "electionId": "city-council",
+    "ballotNumber": 14,
+    "ageAtElection": 73,
+    "occupationOfficial": "dôchodca",
+    "displayNameOfficial": "Štefan LIPTÁK",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-4-14-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-ivan-matusek",
+    "electionId": "city-council",
+    "ballotNumber": 15,
+    "ageAtElection": 66,
+    "occupationOfficial": "jadrový chemik - environmentalista",
+    "displayNameOfficial": "Ivan MATUŠEK, RNDr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-15-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-jozef-mitosinka",
+    "electionId": "city-council",
+    "ballotNumber": 16,
+    "ageAtElection": 52,
+    "occupationOfficial": "servisný technik",
+    "displayNameOfficial": "Jozef MITOŠINKA",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-4-16-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-eva-nemcovska",
+    "electionId": "city-council",
+    "ballotNumber": 17,
+    "ageAtElection": 43,
+    "occupationOfficial": "zástupkyňa primátora",
+    "displayNameOfficial": "Eva NEMČOVSKÁ, PhDr., PhD., MPH",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-4-17-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-patrik-ondrejech",
+    "electionId": "city-council",
+    "ballotNumber": 18,
+    "ageAtElection": 28,
+    "occupationOfficial": "projektový manažér",
+    "displayNameOfficial": "Patrik ONDREJECH, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-4-18-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-tana-polackova",
+    "electionId": "city-council",
+    "ballotNumber": 19,
+    "ageAtElection": 39,
+    "occupationOfficial": "podnikateľka vo financiách",
+    "displayNameOfficial": "Táňa POLÁČKOVÁ, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-4-19-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-kristina-rysava",
+    "electionId": "city-council",
+    "ballotNumber": 20,
+    "ageAtElection": 40,
+    "occupationOfficial": "administratívna pracovníčka",
+    "displayNameOfficial": "Kristína RYŠAVÁ, Mgr., PhD.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-4-20-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-ondrej-stefanik",
+    "electionId": "city-council",
+    "ballotNumber": 21,
+    "ageAtElection": 45,
+    "occupationOfficial": "manažér",
+    "displayNameOfficial": "Ondrej ŠTEFÁNIK, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-4-21-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-simon-stefunko",
+    "electionId": "city-council",
+    "ballotNumber": 22,
+    "ageAtElection": 35,
+    "occupationOfficial": "investičný manažér",
+    "displayNameOfficial": "Šimon ŠTEFUNKO, PhDr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-4-22-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-jozef-sust",
+    "electionId": "city-council",
+    "ballotNumber": 23,
+    "ageAtElection": 38,
+    "occupationOfficial": "programátor",
+    "displayNameOfficial": "Jozef ŠÚST, Ing.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-4-23-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-4"
+  },
+  {
+    "candidateId": "ttsk-martin-bachraty",
+    "electionId": "city-council",
+    "ballotNumber": 1,
+    "ageAtElection": 47,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Martin BACHRATÝ, Ing.",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-5-1-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-matej-cagala",
+    "electionId": "city-council",
+    "ballotNumber": 2,
+    "ageAtElection": 32,
+    "occupationOfficial": "referent participácie",
+    "displayNameOfficial": "Matej CAGALA, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-5-2-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-ivo-didov",
+    "electionId": "city-council",
+    "ballotNumber": 3,
+    "ageAtElection": 66,
+    "occupationOfficial": "akademický sochár, dizajnér",
+    "displayNameOfficial": "Ivo DIDOV , akad. soch.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-5-3-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-patrik-holic",
+    "electionId": "city-council",
+    "ballotNumber": 4,
+    "ageAtElection": 28,
+    "occupationOfficial": "koordinátor vzdelávacích projektov",
+    "displayNameOfficial": "Patrik HOLIČ, Mgr.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-5-4-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-stanislav-hric",
+    "electionId": "city-council",
+    "ballotNumber": 5,
+    "ageAtElection": 43,
+    "occupationOfficial": "riaditeľ materskej školy",
+    "displayNameOfficial": "Stanislav HRIC, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-5-5-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-erik-hrnciarik",
+    "electionId": "city-council",
+    "ballotNumber": 6,
+    "ageAtElection": 47,
+    "occupationOfficial": "archeológ, vysokoškolský pedagóg",
+    "displayNameOfficial": "Erik HRNČIARIK, doc. Dr. Phil.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-5-6-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-michal-kossi",
+    "electionId": "city-council",
+    "ballotNumber": 7,
+    "ageAtElection": 41,
+    "occupationOfficial": "manažér servisných služieb",
+    "displayNameOfficial": "Michal KÓSSI, Ing.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-5-7-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-milos-kristofik",
+    "electionId": "city-council",
+    "ballotNumber": 8,
+    "ageAtElection": 60,
+    "occupationOfficial": "podnikateľ, predseda politického hnutia",
+    "displayNameOfficial": "Miloš KRIŠTOFÍK, PhDr.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-5-8-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-marian-kubal",
+    "electionId": "city-council",
+    "ballotNumber": 9,
+    "ageAtElection": 38,
+    "occupationOfficial": "projektový vedúci",
+    "displayNameOfficial": "Marián KUBÁL, Ing.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-5-9-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-peter-morvay",
+    "electionId": "city-council",
+    "ballotNumber": 10,
+    "ageAtElection": 65,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Peter MORVAY",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-5-10-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-rastislav-mraz",
+    "electionId": "city-council",
+    "ballotNumber": 11,
+    "ageAtElection": 48,
+    "occupationOfficial": "právnik, podpredseda samosprávneho kraja",
+    "displayNameOfficial": "Rastislav MRÁZ, Mgr.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-5-11-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-marian-prazenka",
+    "electionId": "city-council",
+    "ballotNumber": 12,
+    "ageAtElection": 44,
+    "occupationOfficial": "manažér predaja",
+    "displayNameOfficial": "Marián PRAŽENKA",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-5-12-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-tatiana-vavrova",
+    "electionId": "city-council",
+    "ballotNumber": 13,
+    "ageAtElection": 39,
+    "occupationOfficial": "referentka výroby",
+    "displayNameOfficial": "Tatiana VAVROVÁ, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-5-13-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-5"
+  },
+  {
+    "candidateId": "ttsk-kristina-bolemanova",
+    "electionId": "city-council",
+    "ballotNumber": 1,
+    "ageAtElection": 39,
+    "occupationOfficial": "diplomatka a expertka na európske a zahraničné politiky",
+    "displayNameOfficial": "Kristína BOLEMANOVÁ, Ing., PhD.",
+    "affiliations": [
+      "Progresívne Slovensko",
+      "Sloboda a solidarita",
+      "Demokrati",
+      "Hnutie Slovensko"
+    ],
+    "independent": false,
+    "id": "tt-city-council-6-1-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-6"
+  },
+  {
+    "candidateId": "ttsk-peter-karol",
+    "electionId": "city-council",
+    "ballotNumber": 2,
+    "ageAtElection": 47,
+    "occupationOfficial": "samostatne zárobkovo činná osoba",
+    "displayNameOfficial": "Peter KAROL, Mgr.",
+    "affiliations": [],
+    "independent": true,
+    "id": "tt-city-council-6-2-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-6"
+  },
+  {
+    "candidateId": "ttsk-daniela-prosmanova",
+    "electionId": "city-council",
+    "ballotNumber": 3,
+    "ageAtElection": 51,
+    "occupationOfficial": "pedagogička, právnička",
+    "displayNameOfficial": "Daniela PROSMANOVÁ, Mgr.",
+    "affiliations": [
+      "Trnava pre každého",
+      "Kdh - kresťanskodemokratické hnutie"
+    ],
+    "independent": false,
+    "id": "tt-city-council-6-3-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-6"
+  },
+  {
+    "candidateId": "ttsk-juraj-rezbarik",
+    "electionId": "city-council",
+    "ballotNumber": 4,
+    "ageAtElection": 48,
+    "occupationOfficial": "podnikateľ",
+    "displayNameOfficial": "Juraj REZBÁRIK",
+    "affiliations": [
+      "Smer - sociálna demokracia",
+      "Hlas - sociálna demokracia",
+      "Slovenská národná strana",
+      "Republika"
+    ],
+    "independent": false,
+    "id": "tt-city-council-6-4-2026",
+    "contestId": "2026-trnava-city-council",
+    "sourceIds": [
+      "tt-official-4-2026",
+      "finance-national-councillors-2026"
+    ],
+    "districtId": "tt-city-6"
+  }
+]

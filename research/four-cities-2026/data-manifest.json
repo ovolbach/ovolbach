@@ -1,0 +1,170 @@
+{
+  "checkedAt": "2026-10-15",
+  "boundary": "Frozen published data; original cohort records preserved by regression fixture; research originals retained privately.",
+  "files": [
+    {
+      "file": "src/data/elections/2026/banskobystricky-kraj/campaign-finance-parties.json",
+      "sha256": "4d200eedaf3966e821a0bf1353cb9eeedf31d18a961b562ea8a2d73ee7f09fb0"
+    },
+    {
+      "file": "src/data/elections/2026/banskobystricky-kraj/campaign-finance.json",
+      "sha256": "8811529af84be2b8a83add473d3cffa4de1bf7b10eadeb0908100a6dd3e8e69d"
+    },
+    {
+      "file": "src/data/elections/2026/banskobystricky-kraj/candidacies.json",
+      "sha256": "6611a65b68a4ef09e9eee047e1887ed141daf16568c893316b0d9b9bf04c7a62"
+    },
+    {
+      "file": "src/data/elections/2026/banskobystricky-kraj/candidates.json",
+      "sha256": "42d221a4f36ca22423c61cfc971a4c040f36856288f16abfcb584c50dc01e171"
+    },
+    {
+      "file": "src/data/elections/2026/banskobystricky-kraj/claims.json",
+      "sha256": "70990aef8f0923e0379e8ad63c599a9e5ce320f1ca7d1a3ba871a9ce0ff6fdd4"
+    },
+    {
+      "file": "src/data/elections/2026/banskobystricky-kraj/districts.json",
+      "sha256": "f352278ff80dcdd42dd8f71fbe766af9b9f8785306c4d1c80e905fec69d5a170"
+    },
+    {
+      "file": "src/data/elections/2026/banskobystricky-kraj/elections.json",
+      "sha256": "e7b765a877de60336de8ddd16020270627188d0edf99dd0a3cf94e752673d23b"
+    },
+    {
+      "file": "src/data/elections/2026/banskobystricky-kraj/municipalities/banska-bystrica/config.json",
+      "sha256": "64af7495c616e6e6c9562bfc49fd53f602fa1bffbabefeedb8baaee15b69a21a"
+    },
+    {
+      "file": "src/data/elections/2026/banskobystricky-kraj/regional/config.json",
+      "sha256": "3abde514fb2bfa44c09c3c0baefcdeff9b50aebc18c6200ab4a7cff42c8dab7f"
+    },
+    {
+      "file": "src/data/elections/2026/banskobystricky-kraj/research-coverage.json",
+      "sha256": "1db3746b00641907d5231c23701d01c774c7f32d6b086d3531568efe175950b8"
+    },
+    {
+      "file": "src/data/elections/2026/nitriansky-kraj/campaign-finance-parties.json",
+      "sha256": "528938410b9cfee4036cd8e949ee7e8063cc4df95263808113974f1e8a0fda3c"
+    },
+    {
+      "file": "src/data/elections/2026/nitriansky-kraj/campaign-finance.json",
+      "sha256": "06198641f2d9651f2dc2bd508af75165135037906ab4248f2092aaf6388a61e2"
+    },
+    {
+      "file": "src/data/elections/2026/nitriansky-kraj/candidacies.json",
+      "sha256": "b00512c90beeff352fd9538d5e4baf38d1017992ca7d79a3730e5668a14aa889"
+    },
+    {
+      "file": "src/data/elections/2026/nitriansky-kraj/candidates.json",
+      "sha256": "1ab7cee6ef1032c67a1cb8e29ebdfeeaadb5f798afd415ddbdaefdca3dbd4d0f"
+    },
+    {
+      "file": "src/data/elections/2026/nitriansky-kraj/claims.json",
+      "sha256": "79653128b73c19e1b7e2dc33cc88b7ebfd08ecdb86aaa234861360ae8336c934"
+    },
+    {
+      "file": "src/data/elections/2026/nitriansky-kraj/districts.json",
+      "sha256": "3394ef62da198cff2179a1a2e2c8a9adbfdfaff7cc8476b1549d9bb118e025ef"
+    },
+    {
+      "file": "src/data/elections/2026/nitriansky-kraj/elections.json",
+      "sha256": "236642d204d8031ee4228a344757701e995c64e333433a33c43a0b8c84261460"
+    },
+    {
+      "file": "src/data/elections/2026/nitriansky-kraj/municipalities/nitra/config.json",
+      "sha256": "c1aa89eff84a2dc48d02f85e42b8fd022f4a2764d4ad36c4e54fdd627ba02bc1"
+    },
+    {
+      "file": "src/data/elections/2026/nitriansky-kraj/regional/config.json",
+      "sha256": "45c3761552cc9751b887fe95c0e1f49b59ef7a48298d97baf4324b13e9820e4d"
+    },
+    {
+      "file": "src/data/elections/2026/nitriansky-kraj/research-coverage.json",
+      "sha256": "548cd819466eeaee831af93e2d432acb7e55a08c21dcdb65b0a6d6b16acd69d0"
+    },
+    {
+      "file": "src/data/elections/2026/trenciansky-kraj/campaign-finance-parties.json",
+      "sha256": "8080bf616be1a260f7d85f9038cfddf991f6fb29bd794c915cca47c3d5c87667"
+    },
+    {
+      "file": "src/data/elections/2026/trenciansky-kraj/campaign-finance.json",
+      "sha256": "5c4e333d0e499f034a981b4be000a5848cf0e61217d0ff4d6ae9a1d1b599d5fa"
+    },
+    {
+      "file": "src/data/elections/2026/trenciansky-kraj/candidacies.json",
+      "sha256": "97f001ca545ba7038f58d17dee77af79a7a10f86a43946b4377fef7feda87301"
+    },
+    {
+      "file": "src/data/elections/2026/trenciansky-kraj/candidates.json",
+      "sha256": "de836dc4a32f4ab5c795ccb2a480db63d054dfabc99059f33c427702311bad3a"
+    },
+    {
+      "file": "src/data/elections/2026/trenciansky-kraj/claims.json",
+      "sha256": "41d501980dc1ca5d12695171375b6d3b3bda5c4b5fa41f42d50f609b0e43c927"
+    },
+    {
+      "file": "src/data/elections/2026/trenciansky-kraj/districts.json",
+      "sha256": "ed5f4582bc114b01489effafac258f0bda1a63b19e839162eaafff9b8a05963f"
+    },
+    {
+      "file": "src/data/elections/2026/trenciansky-kraj/elections.json",
+      "sha256": "e626e544144c042ea2e7361e53cf8e2b0051106c31510e9b05ef488aa915dc28"
+    },
+    {
+      "file": "src/data/elections/2026/trenciansky-kraj/municipalities/trencin/config.json",
+      "sha256": "b9a1a242982c26b50dcee0a51a255e334b6da36485b89bf1ef4a90b77d1c4b3a"
+    },
+    {
+      "file": "src/data/elections/2026/trenciansky-kraj/regional/config.json",
+      "sha256": "ac3e06f89f514b2d290d6c84d538026b9764f7ce8f6ba39a7082377d06e0ca52"
+    },
+    {
+      "file": "src/data/elections/2026/trenciansky-kraj/research-coverage.json",
+      "sha256": "a98d3e595a3b005d4949f14aad4f46a0138b10a84966ee058db15df28830be70"
+    },
+    {
+      "file": "src/data/elections/2026/trnavsky-kraj/campaign-finance-parties.json",
+      "sha256": "1eb5203f35c342469185e8fbda1130660f755ac7e69543d16b67552a22096a87"
+    },
+    {
+      "file": "src/data/elections/2026/trnavsky-kraj/campaign-finance.json",
+      "sha256": "2ed9b9bd6578a9229d4de745ffbecd39ad4a05e0397f01a87c09cc6c9fe09e09"
+    },
+    {
+      "file": "src/data/elections/2026/trnavsky-kraj/candidacies.json",
+      "sha256": "768b5449ae39eb05f186c93bd302d28ffa9ea76746c51787ae280b86f9fe4db1"
+    },
+    {
+      "file": "src/data/elections/2026/trnavsky-kraj/candidates.json",
+      "sha256": "cdcd94766c4864c52a3fad6c23d47268157301cb6715039aa042eff888921660"
+    },
+    {
+      "file": "src/data/elections/2026/trnavsky-kraj/claims.json",
+      "sha256": "09eb4d049e0612d06a4a37dbc4f172787ddcea6ca5966e27a5cd87861db60feb"
+    },
+    {
+      "file": "src/data/elections/2026/trnavsky-kraj/districts.json",
+      "sha256": "2d93713bf4fd20078405ab9ded0e3119641ce0ec002f0594f8cfe7c4b8c9f3ef"
+    },
+    {
+      "file": "src/data/elections/2026/trnavsky-kraj/elections.json",
+      "sha256": "c8010485853d494c477d37f770581eb1e59f2ba78753367d0b98e60e415f164c"
+    },
+    {
+      "file": "src/data/elections/2026/trnavsky-kraj/municipalities/trnava/config.json",
+      "sha256": "855e66be3f3344a88fc6520a9b94ac223c1b0dbedf690a71e9c5bcfb6527b013"
+    },
+    {
+      "file": "src/data/elections/2026/trnavsky-kraj/regional/config.json",
+      "sha256": "bf91a00f57a8a7cc7505a1c9e7dc810e51eef57b37b650c3b0d94617653ba6c1"
+    },
+    {
+      "file": "src/data/elections/2026/trnavsky-kraj/research-coverage.json",
+      "sha256": "0a18bdb80e56678e304b01757096122da6fbe237ea615875c14bd7ec56234bcd"
+    },
+    {
+      "file": "src/data/sources.json",
+      "sha256": "f6e40933f7154445ccdf25786cee81c442ee0e6405871a325c9e91edc278ae45"
+    }
+  ]
+}

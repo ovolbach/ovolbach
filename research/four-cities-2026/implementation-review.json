@@ -1,0 +1,161 @@
+{
+  "reviewer": "/root/trnava_research",
+  "reviewedAt": "2026-10-15T14:23:10.587044+00:00",
+  "role": "Independent read-only implementation reviewer; requesting-code-review workflow",
+  "base": "07dbcae",
+  "worktree": "/home/sergey/codex/ovolbach/ovolbach/.internal/worktrees/four-cities-2026",
+  "scope": [
+    "Unicode label-boundary change and regression tests",
+    "Four-city unit/e2e tests and preservation fixtures",
+    "Six-region / eleven-city homepage expectation",
+    "New municipal and regional manifests",
+    "Existing API, regional profile deduplication and full candidacy retention",
+    "Old-data preservation and public-export privacy boundaries"
+  ],
+  "reviewBoundary": {
+    "trackedEditsMade": false,
+    "workerProposalsEdited": false,
+    "fullResearchClaimsReread": false,
+    "newMunicipalStatuses": "draft in reviewed snapshot, intentionally pending final independent reviews",
+    "browserAndFullBuild": "Not run by this reviewer; root is responsible for fresh final build, publication-mode unit checks and isolated-port desktop/mobile e2e gates.",
+    "snapshotHashes": {
+      "src/lib/static-site-gates.ts": "1b81f5cfd51b28000a23abb074457e5615d783842be19a0c822404d68fcacf41",
+      "tests/unit/static-site-gates.test.ts": "b5a2db56dd0118b73334337f977b6cf1777b9fa793e7d1ede4cf15aa4653d0e0",
+      "tests/e2e/four-cities-2026.spec.ts": "b690cafca92fd4fb4d9ba71ec735c4006f604a4b9a2a1bc86e7cb36fa3fb2ce8",
+      "tests/e2e/presov-poprad.spec.ts": "b037bd694de9584892c4a58557962c029dbba29c40b058d630e30eca04e4d5e4",
+      "tests/unit/four-cities-2026.test.ts": "6b06ea84f6ed07a8083d7c2bace7ced23f5bd9181b667e96362f4df055c1d14a",
+      "tests/fixtures/four-cities-2026-preservation.json": "2f36f946bcfbbf04b4fff093f6482ae1881e5e5c75d1e6ff4f36d43265cbd138",
+      "tests/fixtures/four-cities-2026-rosters.json": "a621e35336a7307c5db1051df17ba64fb2f9947df8b2d6d152fe24ebf636c4dc",
+      "src/data/sources.json": "dfa771d54145f641476d2f1b9f8216411f4b4ff6c820694e0888c987f3e70b84"
+    },
+    "completeFileHashes": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trnava/implementation-independent-audit.json"
+  },
+  "findings": [
+    {
+      "id": "implementation-01",
+      "priority": "P2",
+      "title": "Remove the bank URL derived from an IBAN-only candidate publication",
+      "file": "src/data/elections/2026/trenciansky-kraj/campaign-finance.json",
+      "line": 186,
+      "recordId": "tsk-milos-micega-finance-2026",
+      "status": "resolved after initial finding",
+      "explanation": "The established candidate site micega.sk publishes the exact campaign IBAN but no literal transparentneucty.sk bank-page URL. The current account.url was assembled from that IBAN. CampaignFinance renders it as a verified external account link. AGENTS.md line135 explicitly requires retaining an IBAN-only publication without inventing a bank-page URL. Candidate-site ownership and the IBAN remain verified.",
+      "evidence": [
+        "Prior independent read of tn-original-8be1a1dc6460a486: exact IBAN present, literal bank-page href absent.",
+        "Current data record has verificationMethod candidate_site and the derived transparentneucty.sk URL.",
+        "CampaignFinance.astro lines36–37 render any verified account.url as a public external link."
+      ],
+      "requestedChange": "Remove only account.url, retain verified status, candidate_site method, IBAN and proof. Add a regression similar to the existing Hagyari IBAN-only test.",
+      "privateData": "No bank transaction details, private contact information, full birth dates or street residence reproduced.",
+      "resolutionVerification": {
+        "result": "Verified current record now omits account.url and retains verified candidate_site, exact IBAN and proof.",
+        "fileSHA256": "5c4e333d0e499f034a981b4be000a5848cf0e61217d0ff4d6ae9a1d1b599d5fa"
+      }
+    }
+  ],
+  "checks": {
+    "productionDiff": "Only runtime code change is the prohibitedLabel regex. Loader, regional assembly, selectors, route API, components, layout and UI strings remain unchanged from base. All new implementation content otherwise consists of data/manifests and tests.",
+    "unicodeBoundary": {
+      "result": "No substantive defect found",
+      "reason": "Unicode letter/number/underscore word boundaries prevent score/rank stems inside Skorec, Modranka and oneskorenom while retaining full-token/prefix editorial label rejection. NFKC normalization and existing attribution exemptions remain intact.",
+      "freshTest": "npm test -- tests/unit/static-site-gates.test.ts",
+      "passed": 63,
+      "failed": 0
+    },
+    "fourCityTests": {
+      "freshTest": "npm test -- tests/unit/four-cities-2026.test.ts -t 'registers|keeps a full|preserves every|Nitra-district|distinct Nitra|polling correction|Trnava bankruptcy|2022 Trnava|government appointment|Bodis employment|previously approved'",
+      "passed": 20,
+      "skipped": 5,
+      "failed": 0,
+      "scopeNote": "Only selected data/regression/preservation tests run. Publication gates deliberately deferred while manifests are draft."
+    },
+    "manifests": {
+      "result": "All four new municipal and regional configurations load through existing strict schemas. No status field added to regional config. All four contest IDs are distinct per context; configured districts resolve; dates stay in2026; finance checkedAt does not exceed snapshot.",
+      "pendingCoverage": 0
+    },
+    "routesAndIsolation": {
+      "method": "Read-only production imports; draft municipality copies published only in memory to inspect final routes. No manifest or tracked edits.",
+      "uniqueProfileRoutes": 1326,
+      "uniquePaths": 1326,
+      "errors": [],
+      "result": "Every chair occurrence maps to exactly one profile per region/year. Every such profile retains every relevant municipal/regional candidacy from published contexts. Candidate-bound claims, finance and coverage remain scoped; all direct candidate/claim/candidacy/coverage source references resolve.",
+      "newRegionChairCounts": {
+        "banskobystricky-kraj": 7,
+        "nitriansky-kraj": 7,
+        "trenciansky-kraj": 4,
+        "trnavsky-kraj": 7
+      }
+    },
+    "homepage": {
+      "groups": [
+        {
+          "region": "banskobystricky-kraj",
+          "year": 2026,
+          "cities": [
+            "banska-bystrica"
+          ]
+        },
+        {
+          "region": "nitriansky-kraj",
+          "year": 2026,
+          "cities": [
+            "nitra"
+          ]
+        },
+        {
+          "region": "presovsky-kraj",
+          "year": 2026,
+          "cities": [
+            "poprad",
+            "presov"
+          ]
+        },
+        {
+          "region": "trenciansky-kraj",
+          "year": 2026,
+          "cities": [
+            "trencin"
+          ]
+        },
+        {
+          "region": "trnavsky-kraj",
+          "year": 2026,
+          "cities": [
+            "trnava"
+          ]
+        },
+        {
+          "region": "zilinsky-kraj",
+          "year": 2026,
+          "cities": [
+            "dolny-kubin",
+            "liptovsky-mikulas",
+            "martin",
+            "ruzomberok",
+            "zilina"
+          ]
+        }
+      ],
+      "result": "Six Slovak-sorted region/year groups and eleven cities match the revised homepage test. Five Žilina cities and Poprad/Prešov remain correctly grouped. No homepage production change necessary."
+    },
+    "e2eStaticInspection": {
+      "result": "No substantive test defect found. All fixture-first chair rows match ballot-order-first chairs; all city district fixtures have contiguous ballot numbers as asserted. Tests run on both configured desktop/mobile projects and a separate JavaScript-disabled context with baseURL preserved.",
+      "limitation": "The new browser tests sample one shared chair per city; the independent production-import audit checked every chair and candidacy. Browser execution is still a final root gate."
+    },
+    "preservation": {
+      "base": "07dbcae",
+      "oldNonSourceDataFilesByteIdentical": 27,
+      "oldSourceRecordsObjectEqual": 1828,
+      "changedOrMissingOldData": [],
+      "changedOrMissingOldSources": [],
+      "duplicateSourceIds": 0,
+      "preservationFixtureMismatchWithBase": [],
+      "newSourceRecords": 782
+    },
+    "privacy": {
+      "result": "No newly introduced raw-original files are in the working-tree changes. New public data use strict record shapes. Targeted full-birthdate/residential-address marker searches in new data and research exports found descriptions of private matching methodology, without the underlying private identity values. Public campaign IBANs are intentionally retained.",
+      "scope": "This implementation review did not repeat the independently completed source-by-source claim/identity research audits."
+    }
+  },
+  "conclusion": "One actionable data-link finding was fixed by root and independently rechecked. No open substantive finding in Unicode fix, scoped APIs, new tests/manifests or preservation. Final publication and browser gates remain root work."
+}

@@ -1,0 +1,78 @@
+{
+  "reviewedAt": "2026-10-15T15:04:01.962574+00:00",
+  "scope": "Only the two named party-account URLs; captured official published hrefs and proposal tokens read. No broader research or mutations.",
+  "status": "confirmed_safe_to_strip_only_outer_whitespace",
+  "officialSource": {
+    "url": "https://www.minv.sk/?adresy-webovych-sidiel-osobitnych-platobnych-uctov-politicke-strany",
+    "captureReceipt": ".research-captures/four-cities-2026/trencin/campaign-accounts-parties-2026.receipt.json",
+    "body": ".research-captures/four-cities-2026/trencin/campaign-accounts-parties-2026.body",
+    "sha256": "4dbc28a6ed48988ff124b01f8ead3e0bbd5353b1e45ba2375afc386da715ece2",
+    "bodyHashMatchesReceipt": true,
+    "captureCheckedAt": "2026-10-15T12:03:50.860229+00:00"
+  },
+  "reviews": [
+    {
+      "partyId": "tn-party-kdh-krestanskodemokraticke-hnutie",
+      "partyName": "Kdh - kresťanskodemokratické hnutie",
+      "officialParagraphHtml": "<p><strong>KDH - Kresťanskodemokratické hnutie:</strong>&nbsp;<a href=\"https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150 \" target=\"_blank\">https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150&nbsp;</a></p>",
+      "officialHrefLiteral": "https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150 ",
+      "officialHrefOuterWhitespace": [
+        {
+          "codePoint": "U+0020",
+          "name": "SPACE"
+        }
+      ],
+      "storedUrlLiteral": "https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150 ",
+      "storedUrlOuterWhitespace": [
+        {
+          "codePoint": "U+00A0",
+          "name": "NO-BREAK SPACE"
+        }
+      ],
+      "confirmedCanonicalUrl": "https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150",
+      "method": "Strip only Unicode whitespace at outer token boundaries (equivalent to String.trim / str.strip). Do not decode/re-encode, parse/rebuild, lowercase or modify the interior URL.",
+      "checks": {
+        "officialHrefTrimEqualsStoredUrlTrim": true,
+        "exactInteriorPreserved": true,
+        "exactIbanPreserved": true,
+        "literalHashAndFragmentPreserved": true,
+        "queryPresent": false,
+        "queryAndBlankOrSignatureParameters": "Neither of these two published hrefs has a query string or blank/signature parameter. Strip-only trimming leaves any interior ?, &, =, %, # and parameter text untouched; no query parser/rebuilder used."
+      },
+      "decision": "confirmed_incidental_outer_whitespace_only"
+    },
+    {
+      "partyId": "tn-party-smer-socialna-demokracia",
+      "partyName": "Smer - sociálna demokracia",
+      "officialParagraphHtml": "<p><strong>SMER - sociálna demokracia:&nbsp;</strong><a href=\"https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360 \" target=\"_blank\">https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360</a>&nbsp;</p>",
+      "officialHrefLiteral": "https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360 ",
+      "officialHrefOuterWhitespace": [
+        {
+          "codePoint": "U+0020",
+          "name": "SPACE"
+        }
+      ],
+      "storedUrlLiteral": "https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360 ",
+      "storedUrlOuterWhitespace": [
+        {
+          "codePoint": "U+00A0",
+          "name": "NO-BREAK SPACE"
+        }
+      ],
+      "confirmedCanonicalUrl": "https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360",
+      "method": "Strip only Unicode whitespace at outer token boundaries (equivalent to String.trim / str.strip). Do not decode/re-encode, parse/rebuild, lowercase or modify the interior URL.",
+      "checks": {
+        "officialHrefTrimEqualsStoredUrlTrim": true,
+        "exactInteriorPreserved": true,
+        "exactIbanPreserved": true,
+        "literalHashAndFragmentPreserved": true,
+        "queryPresent": false,
+        "queryAndBlankOrSignatureParameters": "Neither of these two published hrefs has a query string or blank/signature parameter. Strip-only trimming leaves any interior ?, &, =, %, # and parameter text untouched; no query parser/rebuilder used."
+      },
+      "decision": "confirmed_incidental_outer_whitespace_only"
+    }
+  ],
+  "changesMade": "Only this review artifact created; proposals and worktree unchanged.",
+  "proposalSha256Before": "7b584adcda12857614b2c50a7045714beffad7bba91798457174115c5bcb784a",
+  "proposalSha256After": "7b584adcda12857614b2c50a7045714beffad7bba91798457174115c5bcb784a"
+}

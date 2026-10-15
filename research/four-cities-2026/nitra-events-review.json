@@ -1,0 +1,881 @@
+{
+  "reviewer": "independent Trenčín researcher; no Nitra/tracked-file edits",
+  "reviewedAt": "2026-10-15T14:30:40.899240+00:00",
+  "result": "supported_with_stated_boundaries",
+  "blockingFindings": [],
+  "findings": [],
+  "scope": {
+    "frozenTotalClaims": 592,
+    "acceptedControversyClaims": 29,
+    "people": 10,
+    "uniqueSupportingSources": 17,
+    "otherClaimsReviewed": false,
+    "allNegativeEventCategoriesExhaustivelyReviewed": false
+  },
+  "snapshot": {
+    "proposals": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/nitra-review-snapshot-proposals.json",
+    "sha256": "60134343aaa8912774ad4e866e348c6dd23aac949e72d8a2a319ee4198056878",
+    "journal": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/nitra-review-snapshot-journal.json",
+    "journalSha256": "d8610043e796d91de595f299b61dce658caf6fc26887429d769fd3e552900a07",
+    "liveProposalStillSame": true
+  },
+  "claimReviews": [
+    {
+      "claimId": "nsk-stefan-stefek-charge-report-2018",
+      "candidateId": "nsk-stefan-stefek",
+      "sourceIds": [
+        "nsk-stefek-charge-response-2019"
+      ],
+      "decision": "supported",
+      "reason": "SITA full article supports September2018 charge, attributed December2018 quashing confirmed by police spokesman, and January2019 compensation/election-context reply. Quashing is media_report, not an independently inspected official decision. No conviction or current-case inference."
+    },
+    {
+      "claimId": "nsk-stefan-stefek-charge-quashed-report-2018",
+      "candidateId": "nsk-stefan-stefek",
+      "sourceIds": [
+        "nsk-stefek-charge-response-2019"
+      ],
+      "decision": "supported",
+      "reason": "SITA full article supports September2018 charge, attributed December2018 quashing confirmed by police spokesman, and January2019 compensation/election-context reply. Quashing is media_report, not an independently inspected official decision. No conviction or current-case inference."
+    },
+    {
+      "claimId": "nsk-stefan-stefek-charge-response-2019",
+      "candidateId": "nsk-stefan-stefek",
+      "sourceIds": [
+        "nsk-stefek-charge-response-2019"
+      ],
+      "decision": "supported",
+      "reason": "SITA full article supports September2018 charge, attributed December2018 quashing confirmed by police spokesman, and January2019 compensation/election-context reply. Quashing is media_report, not an independently inspected official decision. No conviction or current-case inference."
+    },
+    {
+      "claimId": "nsk-tibor-gaspar-privacy-charge-quashed-2024",
+      "candidateId": "nsk-tibor-gaspar",
+      "sourceIds": [
+        "nsk-gaspar-separate-charge-2024"
+      ],
+      "decision": "supported",
+      "reason": "Separate July2024 privacy-charge quashing/remand is distinguished from Očistec. Full July2026 Očistec report supports charge-stage context and denial. October12 TASR confirms continued hearing, not judgment. October14 Pravda/SITA reports separate Majerský civil suit, excused absence and relief sought, not a ruling. HTML datePublished independently confirms 2026-10-14T11:19:18+02:00."
+    },
+    {
+      "claimId": "nsk-tibor-gaspar-ocistec-hearing-2026",
+      "candidateId": "nsk-tibor-gaspar",
+      "sourceIds": [
+        "nsk-gaspar-ocistec-hearing-2026"
+      ],
+      "decision": "supported",
+      "reason": "Separate July2024 privacy-charge quashing/remand is distinguished from Očistec. Full July2026 Očistec report supports charge-stage context and denial. October12 TASR confirms continued hearing, not judgment. October14 Pravda/SITA reports separate Majerský civil suit, excused absence and relief sought, not a ruling. HTML datePublished independently confirms 2026-10-14T11:19:18+02:00."
+    },
+    {
+      "claimId": "nsk-tibor-gaspar-ocistec-response-2026",
+      "candidateId": "nsk-tibor-gaspar",
+      "sourceIds": [
+        "nsk-gaspar-ocistec-hearing-2026"
+      ],
+      "decision": "supported",
+      "reason": "Separate July2024 privacy-charge quashing/remand is distinguished from Očistec. Full July2026 Očistec report supports charge-stage context and denial. October12 TASR confirms continued hearing, not judgment. October14 Pravda/SITA reports separate Majerský civil suit, excused absence and relief sought, not a ruling. HTML datePublished independently confirms 2026-10-14T11:19:18+02:00."
+    },
+    {
+      "claimId": "nsk-tibor-gaspar-ocistec-latest-stage-2026",
+      "candidateId": "nsk-tibor-gaspar",
+      "sourceIds": [
+        "nsk-ocistec-latest-hearing-2026"
+      ],
+      "decision": "supported",
+      "reason": "Separate July2024 privacy-charge quashing/remand is distinguished from Očistec. Full July2026 Očistec report supports charge-stage context and denial. October12 TASR confirms continued hearing, not judgment. October14 Pravda/SITA reports separate Majerský civil suit, excused absence and relief sought, not a ruling. HTML datePublished independently confirms 2026-10-14T11:19:18+02:00."
+    },
+    {
+      "claimId": "nsk-tibor-gaspar-majersky-civil-suit-2026",
+      "candidateId": "nsk-tibor-gaspar",
+      "sourceIds": [
+        "nsk-gaspar-majersky-suit-2026"
+      ],
+      "decision": "supported",
+      "reason": "Separate July2024 privacy-charge quashing/remand is distinguished from Očistec. Full July2026 Očistec report supports charge-stage context and denial. October12 TASR confirms continued hearing, not judgment. October14 Pravda/SITA reports separate Majerský civil suit, excused absence and relief sought, not a ruling. HTML datePublished independently confirms 2026-10-14T11:19:18+02:00."
+    },
+    {
+      "claimId": "nsk-igor-krsiak-lojko-claim-2026",
+      "candidateId": "nsk-igor-krsiak",
+      "sourceIds": [
+        "nsk-krsiak-lojko-report-2026"
+      ],
+      "decision": "supported",
+      "reason": "Signed original attributes the130000-euro allegation to Kršiak and records Lojko denial/explanation that it concerned the whole campaign budget. Neither allegation nor personal payment is asserted as independently established spending."
+    },
+    {
+      "claimId": "nsk-igor-krsiak-lojko-response-2026",
+      "candidateId": "nsk-igor-krsiak",
+      "sourceIds": [
+        "nsk-krsiak-lojko-report-2026"
+      ],
+      "decision": "supported",
+      "reason": "Signed original attributes the130000-euro allegation to Kršiak and records Lojko denial/explanation that it concerned the whole campaign budget. Neither allegation nor personal payment is asserted as independently established spending."
+    },
+    {
+      "claimId": "nsk-erik-blasko-bankruptcy-opening-2019",
+      "candidateId": "nsk-erik-blasko",
+      "sourceIds": [
+        "nsk-blasko-bankruptcy-order-2019"
+      ],
+      "decision": "supported",
+      "reason": "Individual official order32OdK/10/2019 supports February20 order/publicationFebruary27. ParagraphV supports the limited stated debt relief. Statutory boilerplate about possible later annulment is not an individual annulment finding. No current insolvency or later-case assertion."
+    },
+    {
+      "claimId": "nsk-erik-blasko-debt-relief-order-2019",
+      "candidateId": "nsk-erik-blasko",
+      "sourceIds": [
+        "nsk-blasko-bankruptcy-order-2019"
+      ],
+      "decision": "supported",
+      "reason": "Individual official order32OdK/10/2019 supports February20 order/publicationFebruary27. ParagraphV supports the limited stated debt relief. Statutory boilerplate about possible later annulment is not an individual annulment finding. No current insolvency or later-case assertion."
+    },
+    {
+      "claimId": "nsk-milos-macho-bankruptcy-closure-2020",
+      "candidateId": "nsk-milos-macho",
+      "sourceIds": [
+        "nsk-macho-bankruptcy-closure-2020"
+      ],
+      "decision": "supported",
+      "reason": "Individual trustee notice28OdK/49/2018 publishedMay28,2020 explicitly ends/cancels bankruptcy because assets do not cover costs. Claim states that dated stage, not current debt or present insolvency."
+    },
+    {
+      "claimId": "nsk-slavomir-papp-enforcement-service-2020",
+      "candidateId": "nsk-slavomir-papp",
+      "sourceIds": [
+        "nsk-papp-enforcement-notice-2020"
+      ],
+      "decision": "supported",
+      "reason": "Each individual official notice355EX669/19 and355EX590/22 is service of a commencement notice at the stated publication date. Claims explicitly avoid presenting these as current proceedings/debt. Namesake and age/municipality checks reviewed."
+    },
+    {
+      "claimId": "nsk-slavomir-papp-enforcement-service-2022",
+      "candidateId": "nsk-slavomir-papp",
+      "sourceIds": [
+        "nsk-papp-enforcement-notice-2022"
+      ],
+      "decision": "supported",
+      "reason": "Each individual official notice355EX669/19 and355EX590/22 is service of a commencement notice at the stated publication date. Claims explicitly avoid presenting these as current proceedings/debt. Namesake and age/municipality checks reviewed."
+    },
+    {
+      "claimId": "nsk-henrich-varga-severance-council-report-2026",
+      "candidateId": "nsk-henrich-varga",
+      "sourceIds": [
+        "nr-varga-severance-2026"
+      ],
+      "decision": "supported",
+      "reason": "Full TASR article records council criticism and both Hattas and Varga replies as attributed statements. Independent OCR of primary municipal report confirms mayor decisionFebruary12/effectMarch1/reportMarch19 and adviser-for-communication post abolition. Primary report does not name Varga or prove personal payment; no such inference is made from it."
+    },
+    {
+      "claimId": "nsk-henrich-varga-severance-hattas-response-2026",
+      "candidateId": "nsk-henrich-varga",
+      "sourceIds": [
+        "nr-varga-severance-2026"
+      ],
+      "decision": "supported",
+      "reason": "Full TASR article records council criticism and both Hattas and Varga replies as attributed statements. Independent OCR of primary municipal report confirms mayor decisionFebruary12/effectMarch1/reportMarch19 and adviser-for-communication post abolition. Primary report does not name Varga or prove personal payment; no such inference is made from it."
+    },
+    {
+      "claimId": "nsk-henrich-varga-severance-varga-response-2026",
+      "candidateId": "nsk-henrich-varga",
+      "sourceIds": [
+        "nr-varga-severance-2026"
+      ],
+      "decision": "supported",
+      "reason": "Full TASR article records council criticism and both Hattas and Varga replies as attributed statements. Independent OCR of primary municipal report confirms mayor decisionFebruary12/effectMarch1/reportMarch19 and adviser-for-communication post abolition. Primary report does not name Varga or prove personal payment; no such inference is made from it."
+    },
+    {
+      "claimId": "nsk-marek-hattas-severance-council-report-2026",
+      "candidateId": "nsk-marek-hattas",
+      "sourceIds": [
+        "nr-varga-severance-2026"
+      ],
+      "decision": "supported",
+      "reason": "TASR council allegation and both replies are attributed. Primary organisational report independently OCR-confirmed, with no unsupported personal payment inference. Music-project statement is expressly Kršiak allegation relayed by signed media, not a police/controller finding; targeted response/outcome search found no readable later confirmed stage."
+    },
+    {
+      "claimId": "nsk-marek-hattas-severance-hattas-response-2026",
+      "candidateId": "nsk-marek-hattas",
+      "sourceIds": [
+        "nr-varga-severance-2026"
+      ],
+      "decision": "supported",
+      "reason": "TASR council allegation and both replies are attributed. Primary organisational report independently OCR-confirmed, with no unsupported personal payment inference. Music-project statement is expressly Kršiak allegation relayed by signed media, not a police/controller finding; targeted response/outcome search found no readable later confirmed stage."
+    },
+    {
+      "claimId": "nsk-marek-hattas-severance-varga-response-2026",
+      "candidateId": "nsk-marek-hattas",
+      "sourceIds": [
+        "nr-varga-severance-2026"
+      ],
+      "decision": "supported",
+      "reason": "TASR council allegation and both replies are attributed. Primary organisational report independently OCR-confirmed, with no unsupported personal payment inference. Music-project statement is expressly Kršiak allegation relayed by signed media, not a police/controller finding; targeted response/outcome search found no readable later confirmed stage."
+    },
+    {
+      "claimId": "nsk-robert-svec-presidential-nomination-court-2024",
+      "candidateId": "nsk-robert-svec",
+      "sourceIds": [
+        "nsk-svec-nss-nomination-2024"
+      ],
+      "decision": "supported",
+      "reason": "Full official NSS communiqué records unanimous/final February16,2024 acceptance of presidential nomination, publishedFebruary19. Claim does not adopt disputed-signature allegations. Full February6 RTVS article supports predecision15k-signature assertion and threatened suit; chronology preserved."
+    },
+    {
+      "claimId": "nsk-robert-svec-presidential-nomination-response-2024",
+      "candidateId": "nsk-robert-svec",
+      "sourceIds": [
+        "nsk-svec-nomination-response-2024"
+      ],
+      "decision": "supported",
+      "reason": "Full official NSS communiqué records unanimous/final February16,2024 acceptance of presidential nomination, publishedFebruary19. Claim does not adopt disputed-signature allegations. Full February6 RTVS article supports predecision15k-signature assertion and threatened suit; chronology preserved."
+    },
+    {
+      "claimId": "nsk-henrich-varga-adviser-position-abolition-primary-2026",
+      "candidateId": "nsk-henrich-varga",
+      "sourceIds": [
+        "nr-organisational-change-2026"
+      ],
+      "decision": "supported",
+      "reason": "Full TASR article records council criticism and both Hattas and Varga replies as attributed statements. Independent OCR of primary municipal report confirms mayor decisionFebruary12/effectMarch1/reportMarch19 and adviser-for-communication post abolition. Primary report does not name Varga or prove personal payment; no such inference is made from it."
+    },
+    {
+      "claimId": "nsk-marek-hattas-adviser-position-abolition-primary-2026",
+      "candidateId": "nsk-marek-hattas",
+      "sourceIds": [
+        "nr-organisational-change-2026"
+      ],
+      "decision": "supported",
+      "reason": "TASR council allegation and both replies are attributed. Primary organisational report independently OCR-confirmed, with no unsupported personal payment inference. Music-project statement is expressly Kršiak allegation relayed by signed media, not a police/controller finding; targeted response/outcome search found no readable later confirmed stage."
+    },
+    {
+      "claimId": "nsk-marek-hattas-music-project-opponent-allegation-2026",
+      "candidateId": "nsk-marek-hattas",
+      "sourceIds": [
+        "nr-music-project-opponent-report-2026"
+      ],
+      "decision": "supported",
+      "reason": "TASR council allegation and both replies are attributed. Primary organisational report independently OCR-confirmed, with no unsupported personal payment inference. Music-project statement is expressly Kršiak allegation relayed by signed media, not a police/controller finding; targeted response/outcome search found no readable later confirmed stage."
+    },
+    {
+      "claimId": "nsk-jozef-dvonc-regiojet-complaint-report-2016",
+      "candidateId": "nsk-jozef-dvonc",
+      "sourceIds": [
+        "nr-dvonc-regiojet-report-2016",
+        "nr-dvonc-identity-rpvs-2018"
+      ],
+      "decision": "supported",
+      "reason": "Full October25,2016 TASR article supports Junecomplaint, police refusal to initiate prosecution, late prosecutor complaint rejection, and mayor reply on licensing competence. This is not a court acquittal. Independent14page RPVS OCR and visual page4 confirm historical mayor/qualification/age bridge; no present residence or office inferred."
+    },
+    {
+      "claimId": "nsk-jozef-dvonc-regiojet-police-prosecutor-report-2016",
+      "candidateId": "nsk-jozef-dvonc",
+      "sourceIds": [
+        "nr-dvonc-regiojet-report-2016"
+      ],
+      "decision": "supported",
+      "reason": "Full October25,2016 TASR article supports Junecomplaint, police refusal to initiate prosecution, late prosecutor complaint rejection, and mayor reply on licensing competence. This is not a court acquittal. Independent14page RPVS OCR and visual page4 confirm historical mayor/qualification/age bridge; no present residence or office inferred."
+    },
+    {
+      "claimId": "nsk-jozef-dvonc-regiojet-response-2016",
+      "candidateId": "nsk-jozef-dvonc",
+      "sourceIds": [
+        "nr-dvonc-regiojet-report-2016"
+      ],
+      "decision": "supported",
+      "reason": "Full October25,2016 TASR article supports Junecomplaint, police refusal to initiate prosecution, late prosecutor complaint rejection, and mayor reply on licensing competence. This is not a court acquittal. Independent14page RPVS OCR and visual page4 confirm historical mayor/qualification/age bridge; no present residence or office inferred."
+    }
+  ],
+  "originals": [
+    {
+      "sourceId": "nr-dvonc-identity-rpvs-2018",
+      "key": "dvonc-historical-role-identity-primary",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/dvonc-historical-role-identity-primary.body",
+      "sha256": "9242e31013d9d6d60e98c65e4619081b4f17a08062a6ea0b1edceaced0ce8955",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/dvonc-historical-role-identity-primary.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nr-dvonc-regiojet-report-2016",
+      "key": "event-2b93ca35b559f1",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/event-2b93ca35b559f1.body",
+      "sha256": "6f3aa74cd8861e28c3485c58e0d48c325eb45cffd4e696185c1c03b5b7ce1aae",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/event-2b93ca35b559f1.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nr-music-project-opponent-report-2026",
+      "key": "hattas-varga-campaign-dispute",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/hattas-varga-campaign-dispute.body",
+      "sha256": "2023d4a6f2bbaea158b5de2a06e3b7a6eecd7397dd3a05c8876d669359390bdd",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/hattas-varga-campaign-dispute.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nr-organisational-change-2026",
+      "key": "varga-organisational-change-primary",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/varga-organisational-change-primary.body",
+      "sha256": "35f57acd6cc561fdcfb48dcaaad9fc81427ad1102b4a36c0359c3d2e91b0eb73",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/varga-organisational-change-primary.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nr-varga-severance-2026",
+      "key": "varga-severance-tasr",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/varga-severance-tasr.body",
+      "sha256": "65c6be29e5ee51a4c5f79d1067231d81c45bc76c2e42e4bc6e010d4fec908219",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/varga-severance-tasr.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-blasko-bankruptcy-order-2019",
+      "key": "official-lead-da7592d18eeac8",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/official-lead-da7592d18eeac8.body",
+      "sha256": "52752ee9ba6687f936f2f9d97aeca752dc019e866ff266b4bbeaf579b9e7c044",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/official-lead-da7592d18eeac8.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-gaspar-majersky-suit-2026",
+      "key": "lead-1740",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-1740.body",
+      "sha256": "b1c9a71921806174c846be523860919a130bc06bd6ff3f788e1392f80f9d7f1d",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-1740.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-gaspar-ocistec-hearing-2026",
+      "key": "lead-1728",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-1728.body",
+      "sha256": "5b3557c5b10677d2ee17ca345ef1d8e22e53abe44e8e44e07a6e5f8c8247d7a6",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-1728.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-gaspar-separate-charge-2024",
+      "key": "lead-1726",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-1726.body",
+      "sha256": "3b0a5cb7a5ebd7e126e4f7a40ba4703daa864743a06ddf60d3c6f43adf686557",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-1726.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-krsiak-lojko-report-2026",
+      "key": "lead-1180",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-1180.body",
+      "sha256": "bbd7220b9c39dff36252c61dbaf0c719d6c515a2b9f415f4e1294a4fa48f1558",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-1180.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-macho-bankruptcy-closure-2020",
+      "key": "official-lead-26d75750ccf9f0",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/official-lead-26d75750ccf9f0.body",
+      "sha256": "edd0e7377214406ba8249ff98ee19ec45abb628992af2f64f0e45b19adefc05e",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/official-lead-26d75750ccf9f0.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-ocistec-latest-hearing-2026",
+      "key": "event-2c3ea803d87936",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/event-2c3ea803d87936.body",
+      "sha256": "9c3e710a8f7fb1af1a9bc0ca1ccd12376fad04ed9c8a32f454dd2ceb422bde9c",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/event-2c3ea803d87936.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-papp-enforcement-notice-2020",
+      "key": "official-lead-6ee72d80b7ea88",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/official-lead-6ee72d80b7ea88.body",
+      "sha256": "10b8ba781882a13c8fd74ea6c2fb6d79815f2f930b8329f5b368635491239e5e",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/official-lead-6ee72d80b7ea88.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-papp-enforcement-notice-2022",
+      "key": "official-lead-37342eed34d06a",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/official-lead-37342eed34d06a.body",
+      "sha256": "baf327d9df0abcef198053e04ace5f8264bca716a45caecc87d7bd2bc9dbd27a",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/official-lead-37342eed34d06a.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-stefek-charge-response-2019",
+      "key": "lead-0247",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-0247.body",
+      "sha256": "1226826a3bf975fe84df97abc2e56fdf128c9aa04662c375dcac70d11c3b6597",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-0247.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-svec-nomination-response-2024",
+      "key": "lead-2520",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-2520.body",
+      "sha256": "63d3859eadb434ca0415f5002d8d2d403755ddc8767b9d0f906cdeb3b81aa7ca",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/lead-2520.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    },
+    {
+      "sourceId": "nsk-svec-nss-nomination-2024",
+      "key": "event-e9d97c92a266d3",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/event-e9d97c92a266d3.body",
+      "sha256": "a80366bff3c273c10afce7780f882d5fb42836961206d2eeedf8db2d0c940ec1",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/event-e9d97c92a266d3.receipt.json",
+      "bodyHashVerified": true,
+      "readScope": "Independently read relevant complete article or individual notice; scanned PDF independently OCR-read where recorded. No snippet used as final support."
+    }
+  ],
+  "identityReview": {
+    "nsk-stefan-stefek": {
+      "attributes": [
+        "Nitra",
+        "specific investment-director occupation",
+        "official2022 age55 progresses to2026 age59"
+      ],
+      "proof": [
+        "lead-0247",
+        "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/history/statistics-mayor-candidates-2022.rows.json",
+        "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/history/statistics-regional-candidates-2022.rows.json"
+      ]
+    },
+    "nsk-tibor-gaspar": {
+      "attributes": [
+        "parliamentary office",
+        "SMER affiliation",
+        "Nitra/age64 corroboration in institutional profile"
+      ],
+      "proof": [
+        "nr-parliament-tibor-gaspar-2026",
+        "nsk-council-district3-roster-2026"
+      ],
+      "boundary": "October12 article abbreviates surname; full July28 Očistec article and the same distinctive public office/former PolicePresident2012–2018 bridge the public figure, rather than identifying an unknown private party."
+    },
+    "nsk-igor-krsiak": {
+      "attributes": [
+        "Nitra",
+        "2026 mayor candidacy"
+      ],
+      "proof": [
+        "lead-1180",
+        "nr-mayor-roster-2026"
+      ]
+    },
+    "nsk-erik-blasko": {
+      "attributes": [
+        "age53 at2026 election",
+        "personal municipality Nitra"
+      ],
+      "proof": [
+        "official-lead-da7592d18eeac8",
+        "nsk-chair-roster-2026"
+      ]
+    },
+    "nsk-milos-macho": {
+      "attributes": [
+        "age66 at2026 election",
+        "personal municipality Nitra"
+      ],
+      "proof": [
+        "official-lead-26d75750ccf9f0",
+        "nsk-council-district3-roster-2026"
+      ]
+    },
+    "nsk-slavomir-papp": {
+      "attributes": [
+        "age50 at2026 election",
+        "personal municipality Čeľadice"
+      ],
+      "proof": [
+        "official-lead-6ee72d80b7ea88",
+        "official-lead-37342eed34d06a",
+        "nsk-council-district3-roster-2026"
+      ]
+    },
+    "nsk-henrich-varga": {
+      "attributes": [
+        "specific Nitra communication-adviser role",
+        "2026 regional-chair candidacy/party",
+        "current regional-council office with age46 corroboration"
+      ],
+      "proof": [
+        "varga-severance-tasr",
+        "varga-departure-response",
+        "nsk-current-council-2026",
+        "nsk-chair-roster-2026"
+      ]
+    },
+    "nsk-marek-hattas": {
+      "attributes": [
+        "Nitra",
+        "incumbent mayor office"
+      ],
+      "proof": [
+        "varga-severance-tasr",
+        "hattas-varga-campaign-dispute",
+        "nr-mayor-roster-2026"
+      ]
+    },
+    "nsk-robert-svec": {
+      "attributes": [
+        "exact Mgr qualification and specific politológ occupation",
+        "Nitra",
+        "official2024 presidential identity, age47 atMarch2024 compatible with age50 atOctober2026",
+        "SHO identity"
+      ],
+      "proof": [
+        "event-e9d97c92a266d3",
+        "lead-2520",
+        "president-roster-2024",
+        "nsk-chair-roster-2026"
+      ],
+      "boundary": "Official presidential candidate PDF page2 supplies distinct occupation/qualification and personal municipality; no same-name-only join."
+    },
+    "nsk-jozef-dvonc": {
+      "attributes": [
+        "age72 at2026 election from private birthdate comparison",
+        "exact doc.Ing.,CSc. qualification",
+        "historical mayor of Nitra"
+      ],
+      "proof": [
+        "dvonc-historical-role-identity-primary",
+        "event-2b93ca35b559f1",
+        "nsk-council-district3-roster-2026"
+      ],
+      "boundary": "2018 primary establishes historical identity, not present residence or current mayor office. Private date and street omitted."
+    }
+  },
+  "baseQueryReceiptChecks": [
+    {
+      "candidateId": "nsk-erik-blasko",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/searches/batch-185.json",
+      "sha256": "433cc239e8e430914c9781f936533cc2dec0ce90441d1626bd9f6cfd2c5de5e2",
+      "query": "\"Erik Blaško\" (súd OR obvinenie OR kauza OR pokuta OR konkurz OR exekúcia OR rozsudok OR oslobodenie)",
+      "nonemptyNoErrorResponse": true
+    },
+    {
+      "candidateId": "nsk-henrich-varga",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/searches/batch-007.json",
+      "sha256": "ba6f58e2c753411a7dec035c98010312fcabaff44e420df5d29bc59741a42964",
+      "query": "\"Henrich Varga\" (súd OR obvinenie OR kauza OR pokuta OR konkurz OR exekúcia OR rozsudok OR oslobodenie)",
+      "nonemptyNoErrorResponse": true
+    },
+    {
+      "candidateId": "nsk-igor-krsiak",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/searches/batch-081.json",
+      "sha256": "72833f36a1ca7f69e795d331dc76c5e70f392db7e957263f83302cd0eb06e63d",
+      "query": "\"Igor Kršiak\" (súd OR obvinenie OR kauza OR pokuta OR konkurz OR exekúcia OR rozsudok OR oslobodenie)",
+      "nonemptyNoErrorResponse": true
+    },
+    {
+      "candidateId": "nsk-jozef-dvonc",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/searches/batch-121.json",
+      "sha256": "1b533e4a4c0c2a091262218c72210b80b13fdd0940275348ac04a9a35d482419",
+      "query": "\"Jozef Dvonč\" (súd OR obvinenie OR kauza OR pokuta OR konkurz OR exekúcia OR rozsudok OR oslobodenie)",
+      "nonemptyNoErrorResponse": true
+    },
+    {
+      "candidateId": "nsk-marek-hattas",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/searches/batch-109.json",
+      "sha256": "7980673770511e7b8618b627a1bde5e2c0b2ff752680519c16d176ca8d9b1954",
+      "query": "\"Marek Hattas\" (súd OR obvinenie OR kauza OR pokuta OR konkurz OR exekúcia OR rozsudok OR oslobodenie)",
+      "nonemptyNoErrorResponse": true
+    },
+    {
+      "candidateId": "nsk-milos-macho",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/searches/batch-071.json",
+      "sha256": "f4136849dd501db4a7667fa56cde9532a40836d15adbb7dc8702a9dff7bb671b",
+      "query": "\"Miloš Macho\" (súd OR obvinenie OR kauza OR pokuta OR konkurz OR exekúcia OR rozsudok OR oslobodenie)",
+      "nonemptyNoErrorResponse": true
+    },
+    {
+      "candidateId": "nsk-robert-svec",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/searches/batch-179.json",
+      "sha256": "877ed5f9424422c0398f0f2b2bdd1a69f777a5b53c7f001656a42fc5d69f1f9b",
+      "query": "\"Róbert Švec\" (súd OR obvinenie OR kauza OR pokuta OR konkurz OR exekúcia OR rozsudok OR oslobodenie)",
+      "nonemptyNoErrorResponse": true
+    },
+    {
+      "candidateId": "nsk-slavomir-papp",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/searches/batch-055.json",
+      "sha256": "477c61918e5b77c9eaed1b4177ed5a3c3fcbe397ee2e35d2c1ea25938ce6e68c",
+      "query": "\"Slavomír Papp\" (súd OR obvinenie OR kauza OR pokuta OR konkurz OR exekúcia OR rozsudok OR oslobodenie)",
+      "nonemptyNoErrorResponse": true
+    },
+    {
+      "candidateId": "nsk-stefan-stefek",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/searches/batch-019.json",
+      "sha256": "c7188c554bdb6a2fedf026ddfc1119a3ae09d2e26a4ecd2a011effa90702b76e",
+      "query": "\"Štefan Štefek\" (súd OR obvinenie OR kauza OR pokuta OR konkurz OR exekúcia OR rozsudok OR oslobodenie)",
+      "nonemptyNoErrorResponse": true
+    },
+    {
+      "candidateId": "nsk-tibor-gaspar",
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/searches/batch-117.json",
+      "sha256": "7da1f015402801f4ca0c286d60c9d62e31da7ba03e2a1e071e901e7ed4652f50",
+      "query": "\"Tibor Gašpar\" (súd OR obvinenie OR kauza OR pokuta OR konkurz OR exekúcia OR rozsudok OR oslobodenie)",
+      "nonemptyNoErrorResponse": true
+    }
+  ],
+  "lifecycleQueryReceiptChecks": [
+    {
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/events-followup-0.json",
+      "sha256": "ea85dca600683fccff2e37b155e674ff1305a25298a5ce7c73ed31fc115da4bc",
+      "executedAt": "2026-10-15",
+      "nonemptyResponse": true,
+      "method": "actual web search; inspected response rather than constructed URL",
+      "relevantQueries": [
+        {
+          "candidateId": "nsk-stefan-stefek",
+          "q": "\"Štefan Štefek\" obvinenie 2018 zrušenie odškodnenie výsledok súd",
+          "requestIndex": 0
+        },
+        {
+          "candidateId": "nsk-stefan-stefek",
+          "q": "\"Štefan Štefek\" \"odškodnenie\" 2026",
+          "requestIndex": 1
+        },
+        {
+          "candidateId": "nsk-tibor-gaspar",
+          "q": "\"Tibor Gašpar\" Očistec október 2026 súd výsledok vyjadrenie",
+          "requestIndex": 2
+        },
+        {
+          "candidateId": "nsk-tibor-gaspar",
+          "q": "\"Tibor Gašpar\" \"Majerský\" žaloba 2026 výsledok",
+          "requestIndex": 3
+        }
+      ],
+      "relevantRequestCount": 4
+    },
+    {
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/events-followup-4.json",
+      "sha256": "4a8ebc17d85b6399f7129a6ed47cba7a6a177384e1655e17e34b98d7a1de9534",
+      "executedAt": "2026-10-15",
+      "nonemptyResponse": true,
+      "method": "actual web search; inspected response rather than constructed URL",
+      "relevantQueries": [
+        {
+          "candidateId": "nsk-jozef-dvonc",
+          "q": "\"Jozef Dvonč\" RegioJet trestné oznámenie výsledok reakcia",
+          "requestIndex": 0
+        },
+        {
+          "candidateId": "nsk-robert-svec",
+          "q": "\"Róbert Švec\" prezidentská kandidatúra súd rozhodnutie 2024",
+          "requestIndex": 2
+        },
+        {
+          "candidateId": "nsk-tibor-gaspar",
+          "q": "\"Tibor Gašpar\" \"decembra 2023\" \"zrušili\" reakcia",
+          "requestIndex": 3
+        }
+      ],
+      "relevantRequestCount": 3
+    },
+    {
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/case-followups.json",
+      "sha256": "56e75097da8d22ba317d38a6874d5833b23da8a98bed92d9c10c47684d27ea92",
+      "executedAt": "2026-10-15",
+      "nonemptyResponse": true,
+      "method": "actual web search; inspected response rather than constructed URL",
+      "relevantQueries": [
+        {
+          "candidateId": "nsk-erik-blasko",
+          "q": "\"Erik Blaško\" \"32OdK/10/2019\"",
+          "requestIndex": 0
+        },
+        {
+          "candidateId": "nsk-erik-blasko",
+          "q": "\"Erik Blaško\" konkurz oddlženie ukončenie vyjadrenie",
+          "requestIndex": 1
+        },
+        {
+          "candidateId": "nsk-slavomir-papp",
+          "q": "\"Slavomír Papp\" exekúcia ukončenie vyjadrenie Nitra",
+          "requestIndex": 2
+        },
+        {
+          "candidateId": "nsk-milos-macho",
+          "q": "\"Miloš Macho\" konkurz oddlženie ukončenie vyjadrenie",
+          "requestIndex": 3
+        }
+      ],
+      "relevantRequestCount": 4
+    },
+    {
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/case-final-followups.json",
+      "sha256": "675ce32d6f0e1dd82b8d33ee454d48adbf8303bb37b375bc0c2f4cfec309ffac",
+      "executedAt": "2026-10-15",
+      "nonemptyResponse": true,
+      "method": "actual web search; inspected response rather than constructed URL",
+      "relevantQueries": [
+        {
+          "candidateId": "nsk-erik-blasko",
+          "q": "\"Erik Blaško\" \"32OdK\" konkurz",
+          "requestIndex": 0
+        },
+        {
+          "candidateId": "nsk-milos-macho",
+          "q": "\"Miloš Macho\" \"28OdK/49/2018\"",
+          "requestIndex": 1
+        },
+        {
+          "candidateId": "nsk-slavomir-papp",
+          "q": "\"Slavomír Papp\" \"355EX\"",
+          "requestIndex": 2
+        },
+        {
+          "candidateId": "nsk-robert-svec",
+          "q": "site.minv.sk 2024 \"Švec\" \"vzdal\"",
+          "requestIndex": 3
+        }
+      ],
+      "relevantRequestCount": 4
+    },
+    {
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/case-stage-followups.json",
+      "sha256": "f6428cef403e6db6336ca7970764125000f7d7356c3c6f7f02366b0358ba8b64",
+      "executedAt": "2026-10-15",
+      "nonemptyResponse": true,
+      "method": "actual web search; inspected response rather than constructed URL",
+      "relevantQueries": [
+        {
+          "candidateId": "nsk-erik-blasko",
+          "q": "\"32OdK/10/2019\" zrušení",
+          "requestIndex": 0
+        },
+        {
+          "candidateId": "nsk-milos-macho",
+          "q": "site:obchodnyvestnik.justice.gov.sk \"28OdK/49/2018\" \"21.8.2018\"",
+          "requestIndex": 1
+        },
+        {
+          "candidateId": "nsk-marek-hattas",
+          "q": "\"Hattas\" \"Varga\" \"finančná\" \"Kršiak\" vyjadrenie",
+          "requestIndex": 3
+        }
+      ],
+      "relevantRequestCount": 3
+    },
+    {
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/identity-and-severance-followups.json",
+      "sha256": "21036440442c87f40ae3879a03af3671e8447265dba10dc5fa9768553170a06e",
+      "executedAt": "2026-10-15",
+      "nonemptyResponse": true,
+      "method": "actual web search; inspected response rather than constructed URL",
+      "relevantQueries": [
+        {
+          "candidateId": "nsk-jozef-dvonc",
+          "q": "site:nitra.sk \"Jozef Dvonč\" \"1954\"",
+          "requestIndex": 0
+        },
+        {
+          "candidateId": "nsk-henrich-varga",
+          "q": "\"Henrich Varga\" poradca zrušenie funkcie vyjadrenie Hattas",
+          "requestIndex": 2
+        },
+        {
+          "candidateId": "nsk-marek-hattas",
+          "q": "\"Hattas\" \"vyplatení\" \"Vargovi\" vyjadrenie",
+          "requestIndex": 3
+        }
+      ],
+      "relevantRequestCount": 3
+    },
+    {
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/root-followups/events-lifecycle-final.json",
+      "sha256": "39a8dab6c98d2e2c42b1f9b07f3fb41b4fda77a1b1079b3d4ffae596424fe8b2",
+      "executedAt": "2026-10-15",
+      "nonemptyResponse": true,
+      "method": "actual web search; inspected response rather than constructed URL",
+      "relevantQueries": [
+        {
+          "candidateId": "nsk-tibor-gaspar",
+          "q": "\"Gašpar\" \"Majerský\" \"žaloba\" reakcia vyjadrenie 2026",
+          "requestIndex": 2
+        },
+        {
+          "candidateId": "nsk-tibor-gaspar",
+          "q": "\"Očistec\" \"október 2026\" Gašpar súd",
+          "requestIndex": 3
+        }
+      ],
+      "relevantRequestCount": 2
+    },
+    {
+      "receipt": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/nitra-review-music-lifecycle-search.json",
+      "sha256": "b53c0013857d0e7d008f04bb49c151fafac259ece41b8f09d42c020405ced1af",
+      "executedAt": "2026-10-15T14:28:29.328Z",
+      "nonemptyResponse": true,
+      "method": "actual web search; inspected response rather than constructed URL",
+      "relevantQueries": [
+        {
+          "q": "\"Hattas\" \"hudobno-vzdelávací\" vyjadrenie polícia kontrolór 2026",
+          "requestIndex": 0
+        },
+        {
+          "q": "\"Kršiak\" \"hudobno-vzdelávací\" Hattas reakcia výsledok",
+          "requestIndex": 1
+        },
+        {
+          "q": "\"Nitra\" \"hudobno-vzdelávací\" \"kontrolór\" 2026",
+          "requestIndex": 2
+        },
+        {
+          "q": "\"Hattas\" \"hudobno-vzdelávacom\" vyšetrovanie",
+          "requestIndex": 3
+        }
+      ],
+      "relevantRequestCount": 4
+    }
+  ],
+  "additionalOriginalReads": [
+    {
+      "key": "varga-severance-demagog",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/varga-severance-demagog.body",
+      "sha256": "38c1f31cfb99234cc3001ccdabcf1c6035df83aaf5c64f0eaccf1423fab8fa33",
+      "reason": "Read later factcheck/dated departure-response context; consistent with bounded accepted severance facts. No new allegation, salary figure or present legal finding added."
+    },
+    {
+      "key": "varga-departure-response",
+      "body": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/nitra/varga-departure-response.body",
+      "sha256": "ef85a06990da3246c99094de36a144f147fb1d8d1362d1c7b1086adc41d73f66",
+      "reason": "Read later factcheck/dated departure-response context; consistent with bounded accepted severance facts. No new allegation, salary figure or present legal finding added."
+    }
+  ],
+  "independentOcr": [
+    {
+      "sourceKey": "varga-organisational-change-primary",
+      "pages": 4,
+      "directory": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/nitra-review-ocr-organisational",
+      "review": "FullOCR read; decision/effect/report dates and abolished post clear; no Varga personal name in report."
+    },
+    {
+      "sourceKey": "dvonc-historical-role-identity-primary",
+      "pages": 14,
+      "directory": "/home/sergey/codex/ovolbach/.research-captures/four-cities-2026/trencin/nitra-review-ocr-dvonc",
+      "visualPageReviewed": 4,
+      "review": "Historical public-function table visually checked against OCR; exact qualification and age progression confirmed. Private birthdate/address omitted from review export."
+    }
+  ],
+  "resolvedArtifactBoundary": "Initial event-read receipt Dvonč hold is explicitly superseded by journal.limits and the later2018 primary identity read; not an unresolved lead.",
+  "limitations": [
+    "Review covers29 accepted controversy claims in the592claim frozen proposal, not all592 facts or all166 persons negative categories.",
+    "Dated last proved stages remain dated; no nonexistence, current-debt, conviction or final-outcome inference.",
+    "No new public facts added by this reviewer. Supplementary4 music-response queries are separate actual executions, not repetitions counted as base coverage.",
+    "Raw source captures/OCR contain private source fields; review exports only nonprivate identity attributes."
+  ]
+}

@@ -1,0 +1,4239 @@
+[
+  {
+    "id": "finance-bbsk-diana-javorcikova",
+    "candidateId": "bbsk-diana-javorcikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Banská Bystrica",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "bb-population-2026",
+          "bb-roster-mayor-2026"
+        ],
+        "population": 72215
+      }
+    ],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "bb-javorcikova-programme",
+        "campaign-accounts-parties-2026",
+        "campaign-accounts-candidates-2026"
+      ],
+      "reason": "Stránka kampane zverejňuje účet, ktorý MV SR eviduje pri Progresívnom Slovensku. Z toho nevyplýva osobný účet kandidátky."
+    }
+  },
+  {
+    "id": "finance-bbsk-marian-kotleba",
+    "candidateId": "bbsk-marian-kotleba",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-chairs-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Banská Bystrica",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "bb-population-2026",
+          "bb-roster-mayor-2026"
+        ],
+        "population": 72215
+      },
+      {
+        "office": "region-chair",
+        "locality": "Banskobystrický samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "bbsk-roster-region-chair-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "kotlebovci-ludova-strana-nase-slovensko"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-matus-molitoris",
+    "candidateId": "bbsk-matus-molitoris",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Banská Bystrica",
+        "independent": true,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "bb-population-2026",
+          "bb-roster-mayor-2026"
+        ],
+        "population": 72215
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "verified",
+      "url": "https://ib.fio.sk/ib/transparent?a=2503499252",
+      "iban": "SK6183300000002503499252",
+      "sourceIds": [
+        "bb-molitoris-site",
+        "campaign-accounts-candidates-2026",
+        "bb-molitoris-bank"
+      ],
+      "verificationMethod": "candidate_site",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica",
+          "sourceIds": [
+            "bb-molitoris-site",
+            "bb-roster-mayor-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "Nezávislý kandidát na primátora mesta v roku 2026",
+          "sourceIds": [
+            "bb-molitoris-site",
+            "bb-roster-mayor-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jan-nosko",
+    "candidateId": "bbsk-jan-nosko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Banská Bystrica",
+        "independent": true,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "bb-population-2026",
+          "bb-roster-mayor-2026"
+        ],
+        "population": 72215
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "verified",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK5609000000005251324467",
+      "iban": "SK5609000000005251324467",
+      "sourceIds": [
+        "bb-nosko-campaign-site",
+        "bb-nosko-bank",
+        "bb-current-mayor"
+      ],
+      "verificationMethod": "candidate_site",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica",
+          "sourceIds": [
+            "bb-nosko-campaign-site",
+            "bb-current-mayor"
+          ]
+        },
+        {
+          "attribute": "office",
+          "value": "Primátor mesta Banská Bystrica, kandidát vo voľbách 2026",
+          "sourceIds": [
+            "bb-nosko-campaign-site",
+            "bb-current-mayor",
+            "bb-roster-mayor-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-tomas-sobota",
+    "candidateId": "bbsk-tomas-sobota",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Banská Bystrica",
+        "independent": true,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "bb-population-2026",
+          "bb-roster-mayor-2026"
+        ],
+        "population": 72215
+      }
+    ],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ],
+      "reason": "Zhodné meno v registri MV SR; atribúcia účtu vyžaduje ďalšie dve zhodné charakteristiky alebo publikáciu na overenej stránke kandidáta."
+    }
+  },
+  {
+    "id": "finance-bbsk-ondrej-veres",
+    "candidateId": "bbsk-ondrej-veres",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Banská Bystrica",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "bb-population-2026",
+          "bb-roster-mayor-2026"
+        ],
+        "population": 72215
+      }
+    ],
+    "partyIds": [
+      "strana-vidieka"
+    ],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ],
+      "reason": "Zhodné meno v registri MV SR; atribúcia účtu vyžaduje ďalšie dve zhodné charakteristiky alebo publikáciu na overenej stránke kandidáta."
+    }
+  },
+  {
+    "id": "finance-bbsk-atila-beres",
+    "candidateId": "bbsk-atila-beres",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokraticka-strana-obcianski-demokrati-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-branislav-bosak",
+    "candidateId": "bbsk-branislav-bosak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-peter-brozman",
+    "candidateId": "bbsk-peter-brozman",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-lucia-fabriciusova",
+    "candidateId": "bbsk-lucia-fabriciusova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-ivana-figuli",
+    "candidateId": "bbsk-ivana-figuli",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-tibor-fuchs",
+    "candidateId": "bbsk-tibor-fuchs",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-patricia-holikova",
+    "candidateId": "bbsk-patricia-holikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-pavol-katreniak",
+    "candidateId": "bbsk-pavol-katreniak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-adrian-kostur",
+    "candidateId": "bbsk-adrian-kostur",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-magdalena-kovac-mergova",
+    "candidateId": "bbsk-magdalena-kovac-mergova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-radovan-lapunik",
+    "candidateId": "bbsk-radovan-lapunik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-miriam-lapunikova",
+    "candidateId": "bbsk-miriam-lapunikova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jozef-lovas",
+    "candidateId": "bbsk-jozef-lovas",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jozef-mak",
+    "candidateId": "bbsk-jozef-mak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-martin-repasky",
+    "candidateId": "bbsk-martin-repasky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-martin-tistan",
+    "candidateId": "bbsk-martin-tistan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-silvia-cochova",
+    "candidateId": "bbsk-silvia-cochova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-martin-kubik",
+    "candidateId": "bbsk-martin-kubik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-marcel-pecnik",
+    "candidateId": "bbsk-marcel-pecnik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovenska-narodna-strana"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-martin-pechovsky",
+    "candidateId": "bbsk-martin-pechovsky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-dusan-strelec",
+    "candidateId": "bbsk-dusan-strelec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sme-rodina"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-ivan-uhrik",
+    "candidateId": "bbsk-ivan-uhrik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jana-ziarova",
+    "candidateId": "bbsk-jana-ziarova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-pavel-bartosik",
+    "candidateId": "bbsk-pavel-bartosik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-milan-belko",
+    "candidateId": "bbsk-milan-belko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-juraj-bencik",
+    "candidateId": "bbsk-juraj-bencik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "strana-vidieka"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-lukas-berec",
+    "candidateId": "bbsk-lukas-berec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-olga-betkova",
+    "candidateId": "bbsk-olga-betkova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-maria-detvaj-sedlarova",
+    "candidateId": "bbsk-maria-detvaj-sedlarova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-csilla-droppova",
+    "candidateId": "bbsk-csilla-droppova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-pavel-filo",
+    "candidateId": "bbsk-pavel-filo",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jakub-gajdosik",
+    "candidateId": "bbsk-jakub-gajdosik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-milan-hroncek",
+    "candidateId": "bbsk-milan-hroncek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-eva-hupkova",
+    "candidateId": "bbsk-eva-hupkova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "strana-vidieka"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-peter-kadasi",
+    "candidateId": "bbsk-peter-kadasi",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-marek-kliment",
+    "candidateId": "bbsk-marek-kliment",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "sme-rodina"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-veronika-koskova",
+    "candidateId": "bbsk-veronika-koskova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-milan-lichy",
+    "candidateId": "bbsk-milan-lichy",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-tobias-longauer",
+    "candidateId": "bbsk-tobias-longauer",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovenska-narodna-strana",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-marian-lunter",
+    "candidateId": "bbsk-marian-lunter",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-miroslav-luptak",
+    "candidateId": "bbsk-miroslav-luptak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-peter-luptak",
+    "candidateId": "bbsk-peter-luptak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-martin-majling",
+    "candidateId": "bbsk-martin-majling",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-anna-maruskova",
+    "candidateId": "bbsk-anna-maruskova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jana-mesarkinova",
+    "candidateId": "bbsk-jana-mesarkinova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-anton-minarik",
+    "candidateId": "bbsk-anton-minarik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jana-nekyova",
+    "candidateId": "bbsk-jana-nekyova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-ivan-paricka",
+    "candidateId": "bbsk-ivan-paricka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-matej-rudnicky",
+    "candidateId": "bbsk-matej-rudnicky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovenska-narodna-strana",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-andrej-saxon",
+    "candidateId": "bbsk-andrej-saxon",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "bratia-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-michal-skantar",
+    "candidateId": "bbsk-michal-skantar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-sarah-sonkol",
+    "candidateId": "bbsk-sarah-sonkol",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jana-tolicova",
+    "candidateId": "bbsk-jana-tolicova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-tomas-tornyos",
+    "candidateId": "bbsk-tomas-tornyos",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-martin-turcan",
+    "candidateId": "bbsk-martin-turcan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-miroslava-vranovska",
+    "candidateId": "bbsk-miroslava-vranovska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-lubos-vrbicky",
+    "candidateId": "bbsk-lubos-vrbicky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-martin-zudel",
+    "candidateId": "bbsk-martin-zudel",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jozef-balaz",
+    "candidateId": "bbsk-jozef-balaz",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-katarina-cizmarova",
+    "candidateId": "bbsk-katarina-cizmarova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-marek-odalos",
+    "candidateId": "bbsk-marek-odalos",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-juraj-oravec",
+    "candidateId": "bbsk-juraj-oravec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-matej-ruttkay",
+    "candidateId": "bbsk-matej-ruttkay",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-martin-vrabel",
+    "candidateId": "bbsk-martin-vrabel",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-roman-bencik",
+    "candidateId": "bbsk-roman-bencik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-matej-bucko",
+    "candidateId": "bbsk-matej-bucko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jan-cimerman",
+    "candidateId": "bbsk-jan-cimerman",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokraticka-strana-obcianski-demokrati-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-zuzana-galatova",
+    "candidateId": "bbsk-zuzana-galatova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-peter-gogola",
+    "candidateId": "bbsk-peter-gogola",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokraticka-strana-obcianski-demokrati-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-martin-hanes",
+    "candidateId": "bbsk-martin-hanes",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-klaudia-hruskova",
+    "candidateId": "bbsk-klaudia-hruskova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kotlebovci-ludova-strana-nase-slovensko"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-stanislav-hupian",
+    "candidateId": "bbsk-stanislav-hupian",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokraticka-strana-obcianski-demokrati-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-vladimir-ivan",
+    "candidateId": "bbsk-vladimir-ivan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-daniel-karas",
+    "candidateId": "bbsk-daniel-karas",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovenska-narodna-strana",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-hana-kasova",
+    "candidateId": "bbsk-hana-kasova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-ivan-kosa",
+    "candidateId": "bbsk-ivan-kosa",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-branislav-kovacik",
+    "candidateId": "bbsk-branislav-kovacik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-marian-michael-mackovic",
+    "candidateId": "bbsk-marian-michael-mackovic",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-ruzena-mataseje",
+    "candidateId": "bbsk-ruzena-mataseje",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-marta-medzihradska",
+    "candidateId": "bbsk-marta-medzihradska",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-marek-modransky",
+    "candidateId": "bbsk-marek-modransky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-alzbeta-pazakova",
+    "candidateId": "bbsk-alzbeta-pazakova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-roman-psenak",
+    "candidateId": "bbsk-roman-psenak",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-pavol-puskeiler",
+    "candidateId": "bbsk-pavol-puskeiler",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jakub-sedlacek",
+    "candidateId": "bbsk-jakub-sedlacek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-ivan-simko",
+    "candidateId": "bbsk-ivan-simko",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-matus-zazrivec",
+    "candidateId": "bbsk-matus-zazrivec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-katarina-albertova",
+    "candidateId": "bbsk-katarina-albertova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "kdh-krestanskodemokraticke-hnutie"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-erika-karova",
+    "candidateId": "bbsk-erika-karova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-roman-miskar",
+    "candidateId": "bbsk-roman-miskar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-marek-ondras",
+    "candidateId": "bbsk-marek-ondras",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-ludmila-priehodova",
+    "candidateId": "bbsk-ludmila-priehodova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jozef-sedilek",
+    "candidateId": "bbsk-jozef-sedilek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-patrik-trnka",
+    "candidateId": "bbsk-patrik-trnka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-peter-vida",
+    "candidateId": "bbsk-peter-vida",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jaroslav-brada",
+    "candidateId": "bbsk-jaroslav-brada",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-maria-debnarova",
+    "candidateId": "bbsk-maria-debnarova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "obcianska-konzervativna-strana",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-eduard-genserek",
+    "candidateId": "bbsk-eduard-genserek",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-igor-kasper",
+    "candidateId": "bbsk-igor-kasper",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-milan-smado",
+    "candidateId": "bbsk-milan-smado",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-hubert-stoksa",
+    "candidateId": "bbsk-hubert-stoksa",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-michal-albert",
+    "candidateId": "bbsk-michal-albert",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-chairs-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Banskobystrický samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "bbsk-roster-region-chair-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "bratia-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-ondrej-lunter",
+    "candidateId": "bbsk-ondrej-lunter",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-chairs-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Banskobystrický samosprávny kraj",
+        "independent": true,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "bbsk-roster-region-chair-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "verified",
+      "url": "https://www.transparentneucty.sk/#/ucet/SK2309000000005247265417",
+      "iban": "SK2309000000005247265417",
+      "sourceIds": [
+        "bb-closure-lunter-programme",
+        "bb-bbsk-current-chair-tls-unverified",
+        "bbsk-roster-region-chair-2026"
+      ],
+      "verificationMethod": "candidate_site",
+      "identity": [
+        {
+          "attribute": "municipality",
+          "value": "Banská Bystrica",
+          "sourceIds": [
+            "bb-closure-lunter-programme",
+            "bbsk-roster-region-chair-2026"
+          ]
+        },
+        {
+          "attribute": "election",
+          "value": "Kandidát na predsedu BBSK2026",
+          "sourceIds": [
+            "bb-closure-lunter-programme",
+            "bbsk-roster-region-chair-2026"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-roman-malatinec",
+    "candidateId": "bbsk-roman-malatinec",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-chairs-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Banskobystrický samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "bbsk-roster-region-chair-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "strana-vidieka"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-peter-plancik",
+    "candidateId": "bbsk-peter-plancik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "finance-national-chairs-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Brusno",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "bb-finance-population-brusno"
+        ],
+        "population": 2084
+      },
+      {
+        "office": "region-chair",
+        "locality": "Banskobystrický samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "bbsk-roster-region-chair-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "komunisticka-strana-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jaroslav-rusina",
+    "candidateId": "bbsk-jaroslav-rusina",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-chairs-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Banskobystrický samosprávny kraj",
+        "independent": true,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "bbsk-roster-region-chair-2026"
+        ]
+      }
+    ],
+    "partyIds": [],
+    "account": {
+      "status": "unverified",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ],
+      "reason": "Zhodné meno v registri MV SR; atribúcia účtu vyžaduje ďalšie dve zhodné charakteristiky alebo publikáciu na overenej stránke kandidáta."
+    }
+  },
+  {
+    "id": "finance-bbsk-miroslav-suja",
+    "candidateId": "bbsk-miroslav-suja",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-chairs-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "region-chair",
+        "locality": "Banskobystrický samosprávny kraj",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-chairs-2026",
+          "bbsk-roster-region-chair-2026"
+        ]
+      }
+    ],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-miroslav-cellar",
+    "candidateId": "bbsk-miroslav-cellar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-lubomir-debnar",
+    "candidateId": "bbsk-lubomir-debnar",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Overená ďalšia kandidatúra na starostu: Môlča. Chýba zodpovedajúce oficiálne oznámenie počtu obyvateľov; finančné povinnosti ostávajú podmienené.",
+    "headCandidacies": [],
+    "partyIds": [
+      "strana-vidieka"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-viera-dubacova",
+    "candidateId": "bbsk-viera-dubacova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-juraj-dzmura",
+    "candidateId": "bbsk-juraj-dzmura",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "hlas-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-martin-halas",
+    "candidateId": "bbsk-martin-halas",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Donovaly",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "bb-finance-population-donovaly-pdf"
+        ],
+        "population": 267
+      }
+    ],
+    "partyIds": [
+      "pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-zuzana-hujova",
+    "candidateId": "bbsk-zuzana-hujova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "not_exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Overená ďalšia kandidatúra na starostu: Badín. Chýba zodpovedajúce oficiálne oznámenie počtu obyvateľov; finančné povinnosti ostávajú podmienené.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-tomas-huta",
+    "candidateId": "bbsk-tomas-huta",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "komunisticka-strana-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-miroslava-jancova",
+    "candidateId": "bbsk-miroslava-jancova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-radoslav-kabac",
+    "candidateId": "bbsk-radoslav-kabac",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-miroslav-kamensky",
+    "candidateId": "bbsk-miroslav-kamensky",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "pravo-na-pravdu"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-david-kapusta",
+    "candidateId": "bbsk-david-kapusta",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-marta-klacanova",
+    "candidateId": "bbsk-marta-klacanova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "demokrati",
+      "hnutie-slovensko",
+      "kdh-krestanskodemokraticke-hnutie",
+      "progresivne-slovensko",
+      "sloboda-a-solidarita"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-ivan-kostur",
+    "candidateId": "bbsk-ivan-kostur",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "komunisticka-strana-slovenska"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jakub-mestan",
+    "candidateId": "bbsk-jakub-mestan",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-mayors-2026",
+      "finance-national-councillors-2026",
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [
+      {
+        "office": "mayor",
+        "locality": "Donovaly",
+        "independent": false,
+        "sourceIds": [
+          "finance-national-mayors-2026",
+          "bb-finance-population-donovaly-pdf"
+        ],
+        "population": 267
+      }
+    ],
+    "partyIds": [
+      "slovenska-narodna-strana",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-iveta-noskova",
+    "candidateId": "bbsk-iveta-noskova",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-juraj-sipula",
+    "candidateId": "bbsk-juraj-sipula",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-jozef-tomanik",
+    "candidateId": "bbsk-jozef-tomanik",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "republika"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  },
+  {
+    "id": "finance-bbsk-marek-vyhnicka",
+    "candidateId": "bbsk-marek-vyhnicka",
+    "electionDate": "2026-10-24",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "finance-national-regional-councillors-2026",
+      "campaign-accounts-candidates-2026"
+    ],
+    "legalSourceIds": [
+      "campaign-faq-candidates-2026",
+      "campaign-faq-parties-2026"
+    ],
+    "ownExpenses": "unknown",
+    "expenseSourceIds": [],
+    "campaignOperator": "unknown",
+    "operatorSourceIds": [],
+    "otherCandidacies": "exhaustive",
+    "candidacySearchNote": "Porovnané všetky štyri celoštátne zoznamy MV SR; identita spojená len pri mene, zhodnom veku a obci. Zistené a vylúčené menné zhody sú zaznamenané v samostatnom overovacom denníku.",
+    "headCandidacies": [],
+    "partyIds": [
+      "slovenska-narodna-strana",
+      "smer-socialna-demokracia"
+    ],
+    "account": {
+      "status": "not_listed",
+      "sourceIds": [
+        "campaign-accounts-candidates-2026"
+      ]
+    }
+  }
+]

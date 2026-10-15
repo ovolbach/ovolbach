@@ -1,0 +1,54 @@
+[
+  {
+    "id": "mayor",
+    "contestId": "tn-mayor-2026",
+    "title": {
+      "sk": "Voľby primátora mesta Trenčín"
+    },
+    "level": "city",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "tn-mayor-roster-2026"
+    ]
+  },
+  {
+    "id": "city-council",
+    "contestId": "tn-city-council-2026",
+    "title": {
+      "sk": "Voľby do Mestského zastupiteľstva v Trenčíne"
+    },
+    "level": "city",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "tn-council-roster-2026"
+    ]
+  },
+  {
+    "id": "region-chair",
+    "contestId": "tsk-region-chair-2026",
+    "title": {
+      "sk": "Voľby predsedu Trenčianskeho samosprávneho kraja"
+    },
+    "level": "region",
+    "maxSelections": 1,
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "tsk-chair-roster-2026"
+    ]
+  },
+  {
+    "id": "region-council",
+    "contestId": "tsk-region-council-2026",
+    "title": {
+      "sk": "Voľby do Zastupiteľstva Trenčianskeho samosprávneho kraja"
+    },
+    "level": "region",
+    "maxSelections": "district_seats",
+    "electionDate": "2026-10-24",
+    "sourceIds": [
+      "tsk-council-district9-roster-2026"
+    ]
+  }
+]

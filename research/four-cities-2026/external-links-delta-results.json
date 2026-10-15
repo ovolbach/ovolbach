@@ -1,0 +1,53 @@
+{
+  "command": "npx tsx .internal/four-cities-link-delta.ts",
+  "results": [
+    {
+      "url": "https://oks.sk/tvare-oks/",
+      "finalUrl": "https://oks.sk/tvare-oks/",
+      "sourceIds": [
+        "tn-final-bakos-party-leadership-profile"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://oks.sk/kandidati-oks-pre-volby-do-organov-samosprav-2026/",
+      "finalUrl": "https://oks.sk/kandidati-oks-pre-volby-do-organov-samosprav-2026/",
+      "sourceIds": [
+        "tn-followup-1256196433e0ece1"
+      ],
+      "status": 200,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150",
+      "finalUrl": "https://www.transparentneucty.sk/",
+      "sourceIds": [
+        "tn-party-kdh-krestanskodemokraticke-hnutie"
+      ],
+      "status": 206,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360",
+      "finalUrl": "https://www.transparentneucty.sk/",
+      "sourceIds": [
+        "tn-party-smer-socialna-demokracia"
+      ],
+      "status": 206,
+      "reachable": true,
+      "needsManualReview": false,
+      "timedOut": false,
+      "attempts": 1
+    }
+  ]
+}

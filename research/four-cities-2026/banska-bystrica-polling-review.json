@@ -1,0 +1,578 @@
+{
+  "checkedAt": "2026-10-15",
+  "method": "Manual transcription and visual review of all four rendered original PDF pages; full document has 79 numbered rows and explicit yellow ward headers.",
+  "sourceId": "bb-polling-stations-2026",
+  "originalReceipt": {
+    "url": "https://cdn.banskabystrica.sk/2026/07/Volebne-okrsky-a-volebne-miestnosti-pre-volby-na-uzemi-mesta-Banska-Bystrica-Volby-2026.pdf",
+    "checkedAt": "2026-10-15T12:02:45.572692+00:00",
+    "key": "municipal-attachment-10",
+    "method": "Original downloaded/extracted; extraction is not factual or identity approval.",
+    "status": 200,
+    "finalUrl": "https://cdn.banskabystrica.sk/2026/07/Volebne-okrsky-a-volebne-miestnosti-pre-volby-na-uzemi-mesta-Banska-Bystrica-Volby-2026.pdf",
+    "contentType": "application/pdf",
+    "sha256": "d38648e6b86678510dbf9f7f068c0a5ed8ce7212a47953a6a985ec8077facf52",
+    "bytes": 419930,
+    "pages": 4,
+    "textLength": 8094,
+    "access": "original_downloaded"
+  },
+  "stationCount": 79,
+  "stationNumbersComplete": true,
+  "visualPages": [
+    {
+      "file": "polling-stations-page-1.png",
+      "sha256": "8b83d1c43467607b3d9ec7ccf0e0925170c6c31ae132bdd635afa3017413bcf9"
+    },
+    {
+      "file": "polling-stations-page-2.png",
+      "sha256": "f88222955d571b55631472bff584bd717f043a5102e0ee76cbbc0fe15ced76f1"
+    },
+    {
+      "file": "polling-stations-page-3.png",
+      "sha256": "3328b79b2bd9b62d5a5c4c09b52445d73bd77f93c6a8d4087f29539c902696cb"
+    },
+    {
+      "file": "polling-stations-page-4.png",
+      "sha256": "f96468a344628ecf0ac664f5fad9a37984b919e59f7f214e21747c93c5dbd41c"
+    }
+  ],
+  "wardMapping": [
+    {
+      "wardNumber": 1,
+      "firstStation": 1,
+      "lastStation": 12,
+      "evidence": "Explicit official PDF ward header; not inferred from geography."
+    },
+    {
+      "wardNumber": 2,
+      "firstStation": 13,
+      "lastStation": 18,
+      "evidence": "Explicit official PDF ward header; not inferred from geography."
+    },
+    {
+      "wardNumber": 3,
+      "firstStation": 19,
+      "lastStation": 41,
+      "evidence": "Explicit official PDF ward header; not inferred from geography."
+    },
+    {
+      "wardNumber": 4,
+      "firstStation": 42,
+      "lastStation": 47,
+      "evidence": "Explicit official PDF ward header; not inferred from geography."
+    },
+    {
+      "wardNumber": 5,
+      "firstStation": 48,
+      "lastStation": 64,
+      "evidence": "Explicit official PDF ward header; not inferred from geography."
+    },
+    {
+      "wardNumber": 6,
+      "firstStation": 65,
+      "lastStation": 72,
+      "evidence": "Explicit official PDF ward header; not inferred from geography."
+    },
+    {
+      "wardNumber": 7,
+      "firstStation": 73,
+      "lastStation": 79,
+      "evidence": "Explicit official PDF ward header; not inferred from geography."
+    }
+  ],
+  "october14Notice": {
+    "receipt": "municipal-information-oct14.receipt.json",
+    "disposition": "Notice confirms ZUŠ Jána Cikkera relocation to ZŠ Slobodného slovenského vysielača, Skuteckého8, without naming station numbers. July28 official PDF already explicitly lists stations5,6,7 there. No extrapolated address changes applied."
+  },
+  "transcriptionNotes": [
+    "Ranges, spacing and line wrapping normalized; no house-number range inferred.",
+    "Station21 address preserved as printed: Základná škola, Ďumbier17; neighbouring rows print Ďumbierska17. No silent correction.",
+    "Coverage token13936 in station8 and Podlavice10775 retained exactly as printed.",
+    "Station59 has only Bagarova,Havranské,Prvosienková,Slnečná,Tichá,Zelená; OCR text before it belongs to station65.",
+    "Station21 coverage, station41 number, station47 coverage, station55 Durhamská and station79 Vŕbová restored from visible original."
+  ],
+  "errors": [],
+  "mapping": [
+    {
+      "districtId": "bb-1",
+      "number": 1,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 2,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 3,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 4,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 5,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 6,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 7,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 8,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 9,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 10,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 11,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 1
+    },
+    {
+      "districtId": "bb-1",
+      "number": 12,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-2",
+      "number": 13,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-2",
+      "number": 14,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-2",
+      "number": 15,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-2",
+      "number": 16,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-2",
+      "number": 17,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-2",
+      "number": 18,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 19,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 20,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 21,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 22,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 23,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 24,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 25,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 26,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 27,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 28,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 29,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 30,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 31,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 32,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 2
+    },
+    {
+      "districtId": "bb-3",
+      "number": 33,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-3",
+      "number": 34,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-3",
+      "number": 35,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-3",
+      "number": 36,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-3",
+      "number": 37,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-3",
+      "number": 38,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-3",
+      "number": 39,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-3",
+      "number": 40,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-3",
+      "number": 41,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-4",
+      "number": 42,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-4",
+      "number": 43,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-4",
+      "number": 44,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-4",
+      "number": 45,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-4",
+      "number": 46,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-4",
+      "number": 47,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 48,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 49,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 50,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 51,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 52,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 53,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 54,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 55,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 56,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 57,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 58,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 3
+    },
+    {
+      "districtId": "bb-5",
+      "number": 59,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-5",
+      "number": 60,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-5",
+      "number": 61,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-5",
+      "number": 62,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-5",
+      "number": 63,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-5",
+      "number": 64,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-6",
+      "number": 65,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-6",
+      "number": 66,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-6",
+      "number": 67,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-6",
+      "number": 68,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-6",
+      "number": 69,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-6",
+      "number": 70,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-6",
+      "number": 71,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-6",
+      "number": 72,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-7",
+      "number": 73,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-7",
+      "number": 74,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-7",
+      "number": 75,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-7",
+      "number": 76,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-7",
+      "number": 77,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-7",
+      "number": 78,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    },
+    {
+      "districtId": "bb-7",
+      "number": 79,
+      "sourceId": "bb-polling-stations-2026",
+      "page": 4
+    }
+  ],
+  "pollingStationsFile": "polling-stations.json",
+  "pollingStationsSha256": "80841ffdacdf95265acd136481f2d85861ec2c36cd3f4aae52bc3be6d2b6650e",
+  "row17Zoom": {
+    "file": "polling-stations-row17-zoom.png",
+    "sha256": "b2ffab4bfbad30e9013d6c4bfb238716f39fc54b2375f0c91efda87b7ade115e",
+    "finding": "Printed row17 has Boženy Němcovej (Czech caron ě), not OCR Némcovej. Corrected to exact original."
+  }
+}

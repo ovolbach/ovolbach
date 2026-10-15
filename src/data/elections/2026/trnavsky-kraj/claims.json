@@ -1,0 +1,5833 @@
+[
+  {
+    "id": "ttsk-lubica-horvathova-basic-1-2026",
+    "candidateId": "ttsk-lubica-horvathova",
+    "category": "basic",
+    "kind": "fact",
+    "label": {
+      "sk": "Vzdanie sa kandidatúry"
+    },
+    "text": {
+      "sk": "Mesto Trnava zverejnilo Ľubicu Horváthovú pod číslom 3 v zozname kandidátov, ktorí sa vzdali kandidatúry na primátora."
+    },
+    "period": "protokol vystavený 2026-10-13 o 09:09",
+    "sourceIds": [
+      "tt-official-0-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ivan-bocko-previous_elections-1-2026",
+    "candidateId": "ttsk-ivan-bocko",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Bohdanovce nad Trnavou vo volebnom obvode 1 získal kandidát Ivan Bočko 371 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506796-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-david-matula-previous_elections-1-2026",
+    "candidateId": "ttsk-david-matula",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Boleráz vo volebnom obvode 1 získal kandidát David Matula 571 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506818-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-jozef-remenar-previous_elections-1-2026",
+    "candidateId": "ttsk-jozef-remenar",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Bučany vo volebnom obvode 1 získal kandidát Jozef Remenár 171 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506851-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-juraj-horvath-previous_elections-1-2026",
+    "candidateId": "ttsk-juraj-horvath",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Cífer vo volebnom obvode 1 získal kandidát Juraj Horváth 126 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506877-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-jaroslav-cehlarik-previous_elections-1-2026",
+    "candidateId": "ttsk-jaroslav-cehlarik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Opoj vo volebnom obvode 1 získal kandidát Jaroslav Cehlárik 166 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-556491-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-marian-viskupic-previous_elections-1-2026",
+    "candidateId": "ttsk-marian-viskupic",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Šúrovce vo volebnom obvode 1 získal kandidát Marián Viskupič 522 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-507636-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-branislav-baros-previous_elections-1-2026",
+    "candidateId": "ttsk-branislav-baros",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 1 získal kandidát Branislav Baroš 1062 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-katarina-durkova-previous_elections-1-2026",
+    "candidateId": "ttsk-katarina-durkova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 1 získal kandidát Katarína Ďurková 1025 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-lucia-francescato-previous_elections-1-2026",
+    "candidateId": "ttsk-lucia-francescato",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 1 získal kandidát Lucia Francescato 379 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-jana-fridrichova-previous_elections-1-2026",
+    "candidateId": "ttsk-jana-fridrichova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 1 získal kandidát Jana Fridrichová 537 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-marcel-krajco-previous_elections-1-2026",
+    "candidateId": "ttsk-marcel-krajco",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 1 získal kandidát Marcel Krajčo 888 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-viktor-krizan-previous_elections-1-2026",
+    "candidateId": "ttsk-viktor-krizan",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 1 získal kandidát Viktor Križan 486 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-peter-kvasnicak-previous_elections-1-2026",
+    "candidateId": "ttsk-peter-kvasnicak",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 1 získal kandidát Peter Kvasničák 377 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-milan-sokolovsky-previous_elections-1-2026",
+    "candidateId": "ttsk-milan-sokolovsky",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 1 získal kandidát Milan Sokolovský 912 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-tomas-vahalik-previous_elections-1-2026",
+    "candidateId": "ttsk-tomas-vahalik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 1 získal kandidát Tomáš Vahálik 194 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-richard-bohunicky-previous_elections-1-2026",
+    "candidateId": "ttsk-richard-bohunicky",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Richard Bohunický 502 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-zuzana-bosnakova-previous_elections-1-2026",
+    "candidateId": "ttsk-zuzana-bosnakova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Zuzana Bošnáková 913 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-maria-bullova-previous_elections-1-2026",
+    "candidateId": "ttsk-maria-bullova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Mária Bullová 655 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-kashif-butt-previous_elections-1-2026",
+    "candidateId": "ttsk-kashif-butt",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Kashif Butt 435 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-gabriela-cabanova-previous_elections-1-2026",
+    "candidateId": "ttsk-gabriela-cabanova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Gabriela Cabanová 1301 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-martin-hanak-previous_elections-1-2026",
+    "candidateId": "ttsk-martin-hanak",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Martin Hanák 525 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-jan-chalama-previous_elections-1-2026",
+    "candidateId": "ttsk-jan-chalama",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Ján Chalama 215 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-jan-jobb-previous_elections-1-2026",
+    "candidateId": "ttsk-jan-jobb",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Ján Jobb 721 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-ivan-kopcik-previous_elections-1-2026",
+    "candidateId": "ttsk-ivan-kopcik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Ivan Kopčík 1042 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-matej-lancaric-previous_elections-1-2026",
+    "candidateId": "ttsk-matej-lancaric",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Matej Lančarič 1870 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-tibor-pekarcik-previous_elections-1-2026",
+    "candidateId": "ttsk-tibor-pekarcik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Tibor Pekarčík 1318 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-marian-schwarz-previous_elections-1-2026",
+    "candidateId": "ttsk-marian-schwarz",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Marián Schwarz 999 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-martin-uhlik-previous_elections-1-2026",
+    "candidateId": "ttsk-martin-uhlik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Martin Uhlík 1157 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-igor-valek-previous_elections-1-2026",
+    "candidateId": "ttsk-igor-valek",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 2 získal kandidát Igor Válek 558 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-juraj-badura-previous_elections-1-2026",
+    "candidateId": "ttsk-juraj-badura",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Juraj Baďura 1172 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-maria-benova-previous_elections-1-2026",
+    "candidateId": "ttsk-maria-benova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Mária Benová 574 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-marek-domes-previous_elections-1-2026",
+    "candidateId": "ttsk-marek-domes",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Marek Domes 805 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-vladimir-ekhardt-previous_elections-1-2026",
+    "candidateId": "ttsk-vladimir-ekhardt",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Vladimír Ekhardt 1563 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-milan-hejduk-previous_elections-1-2026",
+    "candidateId": "ttsk-milan-hejduk",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Milan Hejduk 966 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-pavol-hluchy-previous_elections-1-2026",
+    "candidateId": "ttsk-pavol-hluchy",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Pavol Hluchý 970 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-lubica-horvathova-previous_elections-1-2026",
+    "candidateId": "ttsk-lubica-horvathova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Ľubica Horváthová 1268 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-kristian-kolev-previous_elections-1-2026",
+    "candidateId": "ttsk-kristian-kolev",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Kristián Kolev 445 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-tomas-koppl-previous_elections-1-2026",
+    "candidateId": "ttsk-tomas-koppl",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Tomáš Köppl 824 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-branislav-kramar-previous_elections-1-2026",
+    "candidateId": "ttsk-branislav-kramar",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Branislav Kramár 1529 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-martin-nano-previous_elections-1-2026",
+    "candidateId": "ttsk-martin-nano",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Martin Naňo 616 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-marek-nesticky-previous_elections-1-2026",
+    "candidateId": "ttsk-marek-nesticky",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Marek Neštický 1551 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-marek-polonec-previous_elections-1-2026",
+    "candidateId": "ttsk-marek-polonec",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Marek Polonec 574 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-richard-sladek-previous_elections-1-2026",
+    "candidateId": "ttsk-richard-sladek",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Richard Sládek 996 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-jozef-studenc-previous_elections-1-2026",
+    "candidateId": "ttsk-jozef-studenc",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 3 získal kandidát Jozef Študenc 679 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-marian-galbavy-previous_elections-1-2026",
+    "candidateId": "ttsk-marian-galbavy",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Marián Galbavý 1032 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-marta-gubricka-previous_elections-1-2026",
+    "candidateId": "ttsk-marta-gubricka",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Marta Gubrická 656 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-peter-halada-previous_elections-1-2026",
+    "candidateId": "ttsk-peter-halada",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Peter Halada 515 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-peter-hambalek-previous_elections-1-2026",
+    "candidateId": "ttsk-peter-hambalek",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Peter Hambálek 723 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-daniel-kravec-previous_elections-1-2026",
+    "candidateId": "ttsk-daniel-kravec",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Daniel Kravec 510 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-michal-lipovsky-previous_elections-1-2026",
+    "candidateId": "ttsk-michal-lipovsky",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Michal Lipovský 568 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-stefan-liptak-previous_elections-1-2026",
+    "candidateId": "ttsk-stefan-liptak",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Štefan Lipták 531 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-erik-matovic-previous_elections-1-2026",
+    "candidateId": "ttsk-erik-matovic",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Erik Matovič 743 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-eva-nemcovska-previous_elections-1-2026",
+    "candidateId": "ttsk-eva-nemcovska",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Eva Nemčovská 1279 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-ondrej-stefanik-previous_elections-1-2026",
+    "candidateId": "ttsk-ondrej-stefanik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Ondrej Štefánik 853 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-simon-stefunko-previous_elections-1-2026",
+    "candidateId": "ttsk-simon-stefunko",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Šimon Štefunko 1078 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-jozef-sust-previous_elections-1-2026",
+    "candidateId": "ttsk-jozef-sust",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 4 získal kandidát Jozef Šúst 808 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-stanislav-hric-previous_elections-1-2026",
+    "candidateId": "ttsk-stanislav-hric",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 5 získal kandidát Stanislav Hric 896 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-milos-kristofik-previous_elections-1-2026",
+    "candidateId": "ttsk-milos-kristofik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 5 získal kandidát Miloš Krištofík 838 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-rastislav-mraz-previous_elections-1-2026",
+    "candidateId": "ttsk-rastislav-mraz",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 5 získal kandidát Rastislav Mráz 929 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-tatiana-vavrova-previous_elections-1-2026",
+    "candidateId": "ttsk-tatiana-vavrova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 5 získal kandidát Tatiana Vavrová 1000 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-kristina-bolemanova-previous_elections-1-2026",
+    "candidateId": "ttsk-kristina-bolemanova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 6 získal kandidát Kristína Bolemanová 206 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-juraj-rezbarik-previous_elections-1-2026",
+    "candidateId": "ttsk-juraj-rezbarik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 6 získal kandidát Juraj Rezbárik 165 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-martina-sarvaicova-previous_elections-1-2026",
+    "candidateId": "ttsk-martina-sarvaicova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca obecného alebo mestského zastupiteľstva v území Trnava vo volebnom obvode 6 získal kandidát Martina Šarvaicová 247 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-council-votes-2022",
+      "statistics-council-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-ivan-bocko-previous_elections-2-2026",
+    "candidateId": "ttsk-ivan-bocko",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu starostu obce alebo primátora mesta v území Bohdanovce nad Trnavou získal kandidát Ivan Bočko 211 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506796-mayor",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-david-matula-previous_elections-2-2026",
+    "candidateId": "ttsk-david-matula",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu starostu obce alebo primátora mesta v území Boleráz získal kandidát David Matula 623 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506818-mayor",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-jozef-remenar-previous_elections-2-2026",
+    "candidateId": "ttsk-jozef-remenar",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu starostu obce alebo primátora mesta v území Bučany získal kandidát Jozef Remenár 27 hlasov; oficiálny výsledok: nezvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506851-mayor",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-marcel-skorec-previous_elections-1-2026",
+    "candidateId": "ttsk-marcel-skorec",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu starostu obce alebo primátora mesta v území Hrnčiarovce nad Parnou získal kandidát Marcel Škorec 581 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-581020-mayor",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-martin-halaksa-previous_elections-1-2026",
+    "candidateId": "ttsk-martin-halaksa",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu starostu obce alebo primátora mesta v území Košolná získal kandidát Martin Halaksa 222 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-507211-mayor",
+      "office": "mayor",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-jaroslav-cehlarik-previous_elections-2-2026",
+    "candidateId": "ttsk-jaroslav-cehlarik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu starostu obce alebo primátora mesta v území Opoj získal kandidát Jaroslav Cehlárik 89 hlasov; oficiálny výsledok: nezvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-556491-mayor",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-branislav-baros-previous_elections-2-2026",
+    "candidateId": "ttsk-branislav-baros",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu starostu obce alebo primátora mesta v území Trnava získal kandidát Branislav Baroš 7269 hlasov; oficiálny výsledok: nezvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-mayor",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-zuzana-bosnakova-previous_elections-2-2026",
+    "candidateId": "ttsk-zuzana-bosnakova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu starostu obce alebo primátora mesta v území Trnava získal kandidát Zuzana Bošnáková 91 hlasov; oficiálny výsledok: X."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-mayor",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-marian-galbavy-previous_elections-2-2026",
+    "candidateId": "ttsk-marian-galbavy",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu starostu obce alebo primátora mesta v území Trnava získal kandidát Marián Galbavý 1741 hlasov; oficiálny výsledok: nezvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-mayor",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-matej-lancaric-previous_elections-2-2026",
+    "candidateId": "ttsk-matej-lancaric",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu starostu obce alebo primátora mesta v území Trnava získal kandidát Matej Lančarič 2609 hlasov; oficiálny výsledok: nezvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-mayor-votes-2022",
+      "statistics-mayor-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-506745-mayor",
+      "office": "mayor",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-jozsef-berenyi-previous_elections-1-2026",
+    "candidateId": "ttsk-jozsef-berenyi",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 2 získal kandidát József Berényi 10896 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-maria-benova-previous_elections-2-2026",
+    "candidateId": "ttsk-maria-benova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Mária Benová 5019 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-kristina-bolemanova-previous_elections-2-2026",
+    "candidateId": "ttsk-kristina-bolemanova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Kristína Bolemanová 3961 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-zuzana-bosnakova-previous_elections-3-2026",
+    "candidateId": "ttsk-zuzana-bosnakova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Zuzana Bošnáková 8496 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-kashif-butt-previous_elections-2-2026",
+    "candidateId": "ttsk-kashif-butt",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Kashif Butt 1751 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-magdalena-eliasova-previous_elections-1-2026",
+    "candidateId": "ttsk-magdalena-eliasova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Magdaléna Eliášová 4636 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-jana-fridrichova-previous_elections-2-2026",
+    "candidateId": "ttsk-jana-fridrichova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Jana Fridrichová 4392 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-marian-galbavy-previous_elections-3-2026",
+    "candidateId": "ttsk-marian-galbavy",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Marián Galbavý 8176 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-marta-gubricka-previous_elections-2-2026",
+    "candidateId": "ttsk-marta-gubricka",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Marta Gubrická 3053 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-martin-halaksa-previous_elections-2-2026",
+    "candidateId": "ttsk-martin-halaksa",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Martin Halaksa 3997 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-peter-hambalek-previous_elections-2-2026",
+    "candidateId": "ttsk-peter-hambalek",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Peter Hambálek 4649 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-martin-hanak-previous_elections-2-2026",
+    "candidateId": "ttsk-martin-hanak",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Martin Hanák 1761 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-juraj-horvath-previous_elections-2-2026",
+    "candidateId": "ttsk-juraj-horvath",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Juraj Horváth 1660 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-lubica-horvathova-previous_elections-2-2026",
+    "candidateId": "ttsk-lubica-horvathova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Ľubica Horváthová 3736 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-stanislav-hric-previous_elections-2-2026",
+    "candidateId": "ttsk-stanislav-hric",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Stanislav Hric 3456 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-jan-jobb-previous_elections-2-2026",
+    "candidateId": "ttsk-jan-jobb",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Ján Jobb 1872 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-marcel-krajco-previous_elections-2-2026",
+    "candidateId": "ttsk-marcel-krajco",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Marcel Krajčo 3709 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-branislav-kramar-previous_elections-2-2026",
+    "candidateId": "ttsk-branislav-kramar",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Branislav Kramár 8994 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-stefan-kristofik-previous_elections-1-2026",
+    "candidateId": "ttsk-stefan-kristofik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Štefan Krištofík 6055 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-peter-kvasnicak-previous_elections-2-2026",
+    "candidateId": "ttsk-peter-kvasnicak",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Peter Kvasničák 1734 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-matej-lancaric-previous_elections-3-2026",
+    "candidateId": "ttsk-matej-lancaric",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Matej Lančarič 7490 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-rastislav-mraz-previous_elections-2-2026",
+    "candidateId": "ttsk-rastislav-mraz",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Rastislav Mráz 6936 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-eva-nemcovska-previous_elections-2-2026",
+    "candidateId": "ttsk-eva-nemcovska",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Eva Nemčovská 4310 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-marek-nesticky-previous_elections-2-2026",
+    "candidateId": "ttsk-marek-nesticky",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Marek Neštický 5927 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-tibor-pekarcik-previous_elections-2-2026",
+    "candidateId": "ttsk-tibor-pekarcik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Tibor Pekarčík 4988 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-marek-polonec-previous_elections-2-2026",
+    "candidateId": "ttsk-marek-polonec",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Marek Polonec 3129 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-jozef-remenar-previous_elections-3-2026",
+    "candidateId": "ttsk-jozef-remenar",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Jozef Remenár 4075 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-juraj-rezbarik-previous_elections-2-2026",
+    "candidateId": "ttsk-juraj-rezbarik",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Juraj Rezbárik 1682 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-simon-stefunko-previous_elections-2-2026",
+    "candidateId": "ttsk-simon-stefunko",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Šimon Štefunko 4123 hlasov; oficiálny výsledok: náhradník."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "substitute"
+    }
+  },
+  {
+    "id": "ttsk-marian-viskupic-previous_elections-2-2026",
+    "candidateId": "ttsk-marian-viskupic",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "Vo voľbách na funkciu poslanca zastupiteľstva Trnavského samosprávneho kraja v území Trnavský kraj vo volebnom obvode Volebný obvod č. 7 získal kandidát Marián Viskupič 10082 hlasov; oficiálny výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "statistics-regional-outcomes-2022",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-council",
+      "office": "regional_council",
+      "outcome": "elected"
+    }
+  },
+  {
+    "id": "ttsk-matej-lancaric-public_office-1-2026",
+    "candidateId": "ttsk-matej-lancaric",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-juraj-badura-public_office-1-2026",
+    "candidateId": "ttsk-juraj-badura",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-baros-public_office-1-2026",
+    "candidateId": "ttsk-branislav-baros",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-gabriela-cabanova-public_office-1-2026",
+    "candidateId": "ttsk-gabriela-cabanova",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-katarina-durkova-public_office-1-2026",
+    "candidateId": "ttsk-katarina-durkova",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-galbavy-public_office-1-2026",
+    "candidateId": "ttsk-marian-galbavy",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-lubica-horvathova-public_office-1-2026",
+    "candidateId": "ttsk-lubica-horvathova",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-stanislav-hric-public_office-1-2026",
+    "candidateId": "ttsk-stanislav-hric",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marcel-krajco-public_office-1-2026",
+    "candidateId": "ttsk-marcel-krajco",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-kramar-public_office-1-2026",
+    "candidateId": "ttsk-branislav-kramar",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-milos-kristofik-public_office-1-2026",
+    "candidateId": "ttsk-milos-kristofik",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-rastislav-mraz-public_office-1-2026",
+    "candidateId": "ttsk-rastislav-mraz",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-tibor-pekarcik-public_office-1-2026",
+    "candidateId": "ttsk-tibor-pekarcik",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ondrej-stefanik-public_office-1-2026",
+    "candidateId": "ttsk-ondrej-stefanik",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-eva-nemcovska-public_office-1-2026",
+    "candidateId": "ttsk-eva-nemcovska",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-milan-sokolovsky-public_office-1-2026",
+    "candidateId": "ttsk-milan-sokolovsky",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ivan-kopcik-public_office-1-2026",
+    "candidateId": "ttsk-ivan-kopcik",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-schwarz-public_office-1-2026",
+    "candidateId": "ttsk-marian-schwarz",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martin-uhlik-public_office-1-2026",
+    "candidateId": "ttsk-martin-uhlik",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-vladimir-ekhardt-public_office-1-2026",
+    "candidateId": "ttsk-vladimir-ekhardt",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-pavol-hluchy-public_office-1-2026",
+    "candidateId": "ttsk-pavol-hluchy",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-richard-sladek-public_office-1-2026",
+    "candidateId": "ttsk-richard-sladek",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-simon-stefunko-public_office-1-2026",
+    "candidateId": "ttsk-simon-stefunko",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-sust-public_office-1-2026",
+    "candidateId": "ttsk-jozef-sust",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-tatiana-vavrova-public_office-1-2026",
+    "candidateId": "ttsk-tatiana-vavrova",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta v aktuálnom zozname poslancov mestského zastupiteľstva."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marcel-krajco-public_office-2-2026",
+    "candidateId": "ttsk-marcel-krajco",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta ako prvého zástupcu primátora."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-mayor-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-eva-nemcovska-public_office-2-2026",
+    "candidateId": "ttsk-eva-nemcovska",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálna stránka mesta Trnava uvádza kandidáta ako druhú zástupkyňu primátora."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-current-city-mayor-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-matej-lancaric-asset_declarations-1-2026",
+    "candidateId": "ttsk-matej-lancaric",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-juraj-badura-asset_declarations-1-2026",
+    "candidateId": "ttsk-juraj-badura",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-baros-asset_declarations-1-2026",
+    "candidateId": "ttsk-branislav-baros",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-gabriela-cabanova-asset_declarations-1-2026",
+    "candidateId": "ttsk-gabriela-cabanova",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-katarina-durkova-asset_declarations-1-2026",
+    "candidateId": "ttsk-katarina-durkova",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-galbavy-asset_declarations-1-2026",
+    "candidateId": "ttsk-marian-galbavy",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-lubica-horvathova-asset_declarations-1-2026",
+    "candidateId": "ttsk-lubica-horvathova",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-stanislav-hric-asset_declarations-1-2026",
+    "candidateId": "ttsk-stanislav-hric",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marcel-krajco-asset_declarations-1-2026",
+    "candidateId": "ttsk-marcel-krajco",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-kramar-asset_declarations-1-2026",
+    "candidateId": "ttsk-branislav-kramar",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-milos-kristofik-asset_declarations-1-2026",
+    "candidateId": "ttsk-milos-kristofik",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-rastislav-mraz-asset_declarations-1-2026",
+    "candidateId": "ttsk-rastislav-mraz",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-tibor-pekarcik-asset_declarations-1-2026",
+    "candidateId": "ttsk-tibor-pekarcik",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ondrej-stefanik-asset_declarations-1-2026",
+    "candidateId": "ttsk-ondrej-stefanik",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-eva-nemcovska-asset_declarations-1-2026",
+    "candidateId": "ttsk-eva-nemcovska",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-milan-sokolovsky-asset_declarations-1-2026",
+    "candidateId": "ttsk-milan-sokolovsky",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ivan-kopcik-asset_declarations-1-2026",
+    "candidateId": "ttsk-ivan-kopcik",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-schwarz-asset_declarations-1-2026",
+    "candidateId": "ttsk-marian-schwarz",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martin-uhlik-asset_declarations-1-2026",
+    "candidateId": "ttsk-martin-uhlik",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-pavol-hluchy-asset_declarations-1-2026",
+    "candidateId": "ttsk-pavol-hluchy",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-richard-sladek-asset_declarations-1-2026",
+    "candidateId": "ttsk-richard-sladek",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-simon-stefunko-asset_declarations-1-2026",
+    "candidateId": "ttsk-simon-stefunko",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-sust-asset_declarations-1-2026",
+    "candidateId": "ttsk-jozef-sust",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-tatiana-vavrova-asset_declarations-1-2026",
+    "candidateId": "ttsk-tatiana-vavrova",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Mesto Trnava v oficiálnom zozname majetkových priznaní uvádza jeho/jej oznámenie za rok 2025."
+    },
+    "period": "oznámenie za rok 2025; index overený 2026-10-15",
+    "sourceIds": [
+      "tt-city-declaration-index-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jaroslav-cehlarik-programme_statements-1-2026",
+    "candidateId": "ttsk-jaroslav-cehlarik",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR uviedol, že chce lepšie prepájať študijné a učebné odbory s praxou."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-47646e86df6f0cd0-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jaroslav-cehlarik-media-1-2026",
+    "candidateId": "ttsk-jaroslav-cehlarik",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-47646e86df6f0cd0-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-peter-hambalek-programme_statements-1-2026",
+    "candidateId": "ttsk-peter-hambalek",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR uviedol, že kraj podľa neho potrebuje lepšiu koordináciu a jasné priority."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-db68c1d7196d3b1b-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-peter-hambalek-media-1-2026",
+    "candidateId": "ttsk-peter-hambalek",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-db68c1d7196d3b1b-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-robert-dohal-programme_statements-1-2026",
+    "candidateId": "ttsk-robert-dohal",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR uviedol, že jeho prvým krokom by bolo prerokovanie koncepcie Novej vodnej paradigmy Trnavského kraja."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-2a34cf3129f5e70a-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-robert-dohal-media-1-2026",
+    "candidateId": "ttsk-robert-dohal",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-2a34cf3129f5e70a-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-stefan-pollak-programme_statements-1-2026",
+    "candidateId": "ttsk-stefan-pollak",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR uviedol, že chce presadzovať lepšie nadväzovanie autobusov na vlaky."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-f89c24816b7cb968-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-stefan-pollak-media-1-2026",
+    "candidateId": "ttsk-stefan-pollak",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-f89c24816b7cb968-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozsef-berenyi-programme_statements-1-2026",
+    "candidateId": "ttsk-jozsef-berenyi",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR v roku 2022 označil dopravu za najväčší problém Trnavského kraja."
+    },
+    "period": "2022-10-18",
+    "sourceIds": [
+      "tt-lead-85b0d701d6012547-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozsef-berenyi-media-1-2026",
+    "candidateId": "ttsk-jozsef-berenyi",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2022-10-18",
+    "sourceIds": [
+      "tt-lead-85b0d701d6012547-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-viskupic-programme_statements-1-2026",
+    "candidateId": "ttsk-jozef-viskupic",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR uviedol ako tri hlavné priority zdravotníctvo, školstvo a sociálne služby."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-e3b7be74f6519c4c-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-viskupic-media-1-2026",
+    "candidateId": "ttsk-jozef-viskupic",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-e3b7be74f6519c4c-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-baros-programme_statements-1-2026",
+    "candidateId": "ttsk-branislav-baros",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR navrhol presunúť parkovaciu administratívu vo väčšej miere z mestskej polície na mestský úrad."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-00a857360ec4aeb3-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-baros-media-1-2026",
+    "candidateId": "ttsk-branislav-baros",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-00a857360ec4aeb3-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-andrea-cajkova-programme_statements-1-2026",
+    "candidateId": "ttsk-andrea-cajkova",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR označila kvalitu každodenného života Trnavčanov za svoju hlavnú prioritu."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-f1f5bb643b8ffacf-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-andrea-cajkova-media-1-2026",
+    "candidateId": "ttsk-andrea-cajkova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-f1f5bb643b8ffacf-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martin-pullmann-programme_statements-1-2026",
+    "candidateId": "ttsk-martin-pullmann",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR uviedol zámer presadzovať riešenie obchvatu Trnavy v spolupráci so štátom."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-71f85702111e7010-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martin-pullmann-media-1-2026",
+    "candidateId": "ttsk-martin-pullmann",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-71f85702111e7010-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-obselka-programme_statements-1-2026",
+    "candidateId": "ttsk-jozef-obselka",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR uviedol zámer budovať záchytné parkoviská a parkovacie domy."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-dcd423cd997dc52f-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-obselka-media-1-2026",
+    "candidateId": "ttsk-jozef-obselka",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-dcd423cd997dc52f-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-eva-nemcovska-programme_statements-1-2026",
+    "candidateId": "ttsk-eva-nemcovska",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pre TASR uviedla zámer rozšíriť kapacity parkovania o tisíc miest."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-6173fddae2a5cabd-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-eva-nemcovska-media-1-2026",
+    "candidateId": "ttsk-eva-nemcovska",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TASR uverejnila s kandidátom rozhovor o jeho/jej kandidatúre a programe."
+    },
+    "period": "2026-10-13",
+    "sourceIds": [
+      "tt-lead-6173fddae2a5cabd-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-matej-lancaric-programme_statements-1-2026",
+    "candidateId": "ttsk-matej-lancaric",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Na svojom volebnom webe uvádza zámer vytvoriť verejnú mapu investícií župy."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-lancaric-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-lubica-horvathova-programme_statements-1-2026",
+    "candidateId": "ttsk-lubica-horvathova",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Na svojom volebnom webe uvádza zámer pripraviť procesný audit mestského úradu."
+    },
+    "period": "volebný program 2026, dostupný 2026-10-15; kandidatúry na primátorku sa vzdala 2026-10-13",
+    "sourceIds": [
+      "tt-campaign-horvathova-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozsef-berenyi-public_office-1-2026",
+    "candidateId": "ttsk-jozsef-berenyi",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálny kontaktný zoznam TTSK ho uvádza ako podpredsedu TTSK."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-lead-1d5322b51d009cf2-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-viskupic-public_office-1-2026",
+    "candidateId": "ttsk-jozef-viskupic",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálny kontaktný zoznam TTSK ho uvádza ako predsedu TTSK."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-lead-5ac6fea45a5de483-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-rastislav-mraz-public_office-2-2026",
+    "candidateId": "ttsk-rastislav-mraz",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálny kontaktný zoznam TTSK ho uvádza ako podpredsedu TTSK."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-lead-c01c455f0d3b8219-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-katarina-durkova-employment_business-1-2026",
+    "candidateId": "ttsk-katarina-durkova",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Univerzita sv. Cyrila a Metoda v Trnave v jej zamestnaneckom profile uvádza pracovné zaradenie odborná asistentka na FMK od roku 2005."
+    },
+    "period": "2005 – doteraz podľa profilu overeného 2026-10-15",
+    "sourceIds": [
+      "tt-lead-aa45a704866cdb17-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marek-nesticky-employment_business-1-2026",
+    "candidateId": "ttsk-marek-nesticky",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Mesto Trnava 19. októbra 2023 oznámilo jeho odchod na pozíciu vedúceho Mestského zimného štadióna v Trnave."
+    },
+    "period": "2023-10-19",
+    "sourceIds": [
+      "tt-lead-3ce07fb4494d713e-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-robert-dohal-employment_business-1-2026",
+    "candidateId": "ttsk-robert-dohal",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "ORSR ho v aktuálnom výpise Poľnohospodárskeho družstva Krakovany - Stráže, IČO 00654451, uvádza ako predsedu predstavenstva so vznikom funkcie 17. decembra 2022."
+    },
+    "period": "stav overený 2026-10-15; dátum vzniku funkcie je uvedený osobitne",
+    "sourceIds": [
+      "tt-orsr-entity-1ec823d5e58cd607-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-galbavy-employment_business-1-2026",
+    "candidateId": "ttsk-marian-galbavy",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "ORSR ho v aktuálnom výpise spoločnosti Marián Galbavý, advokátska kancelária s.r.o., IČO 51436108, uvádza ako konateľa so vznikom funkcie 14. februára 2018."
+    },
+    "period": "stav overený 2026-10-15; dátum vzniku funkcie je uvedený osobitne",
+    "sourceIds": [
+      "tt-orsr-entity-9d1fb3622d1f1bb5-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-baros-employment_business-1-2026",
+    "candidateId": "ttsk-branislav-baros",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "ORSR ho v aktuálnom výpise spoločnosti LEIMA, s.r.o., IČO 51668301, uvádza ako konateľa so vznikom funkcie 15. júna 2018."
+    },
+    "period": "stav overený 2026-10-15; dátum vzniku funkcie je uvedený osobitne",
+    "sourceIds": [
+      "tt-orsr-entity-d7771e3f53c44df0-2026",
+      "tt-lead-5eb6a424943da1ca-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-milos-kristofik-employment_business-1-2026",
+    "candidateId": "ttsk-milos-kristofik",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "ORSR ho v aktuálnom výpise spoločnosti SIOPA 22, s. r. o., IČO 54626668, uvádza ako konateľa so vznikom funkcie 11. februára 2025."
+    },
+    "period": "stav overený 2026-10-15; dátum vzniku funkcie je uvedený osobitne",
+    "sourceIds": [
+      "tt-orsr-entity-5e390ad5c54c0d46-2026",
+      "tt-lead-0456fa9e8bbbf348-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-tibor-pekarcik-employment_business-1-2026",
+    "candidateId": "ttsk-tibor-pekarcik",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "ORSR ho v aktuálnom výpise spoločnosti FCC Trnava, s.r.o., IČO 31449697, uvádza ako konateľa so vznikom funkcie 12. januára 2016."
+    },
+    "period": "stav overený 2026-10-15; dátum vzniku funkcie je uvedený osobitne",
+    "sourceIds": [
+      "tt-orsr-entity-db7fbb16aff0253e-2026",
+      "tt-lead-35fd889d6aff0a96-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marcel-krajco-employment_business-1-2026",
+    "candidateId": "ttsk-marcel-krajco",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "ORSR ho v aktuálnom výpise spoločnosti Mestské stavby Trnava s. r. o., IČO 45887675, uvádza ako konateľa so vznikom funkcie 16. apríla 2024."
+    },
+    "period": "stav overený 2026-10-15; dátum vzniku funkcie je uvedený osobitne",
+    "sourceIds": [
+      "tt-orsr-entity-d4e4d8e8aeb5cfc1-2026",
+      "tt-lead-ec84a4d49bbf910d-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-andrej-brnik-employment_business-1-2026",
+    "candidateId": "ttsk-andrej-brnik",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "ORSR ho v aktuálnom výpise spoločnosti EJ, s.r.o., IČO 52561593, uvádza ako konateľa so vznikom funkcie 23. augusta 2019."
+    },
+    "period": "stav overený 2026-10-15; dátum vzniku funkcie je uvedený osobitne",
+    "sourceIds": [
+      "tt-orsr-entity-a1272aa079e1f190-2026",
+      "tt-lead-e2c4cf0bc58beb2e-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-andrej-brnik-employment_business-2-2026",
+    "candidateId": "ttsk-andrej-brnik",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "UCM v jeho zamestnaneckom profile uvádza funkciu prorektora pre rozvoj a vzťahy s verejnosťou od 1. júna 2022."
+    },
+    "period": "stav overený 2026-10-15; dátum vzniku funkcie je uvedený osobitne",
+    "sourceIds": [
+      "tt-lead-9aba3ba32edeb879-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-erik-hrnciarik-employment_business-1-2026",
+    "candidateId": "ttsk-erik-hrnciarik",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Oficiálny profil Filozofickej fakulty Trnavskej univerzity ho uvádza ako dekana fakulty."
+    },
+    "period": "stav overený 2026-10-15; dátum vzniku funkcie je uvedený osobitne",
+    "sourceIds": [
+      "tt-lead-aa0e13c640b0bfa2-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-robert-dohal-controversies-1-2026",
+    "candidateId": "ttsk-robert-dohal",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Denník N 13. septembra 2023 informoval o správach, ktoré podľa článku Róbert Dohál posielal študentke a ktoré obsahovali vyjadrenia o odrezávaní hláv."
+    },
+    "period": "2023-09-13, aktualizované v ten deň o 23:30",
+    "sourceIds": [
+      "tt-lead-c8774901a38f9426-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-robert-dohal-controversies-2-2026",
+    "candidateId": "ttsk-robert-dohal",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie kandidáta"
+    },
+    "text": {
+      "sk": "V aktualizácii článku Denníka N Dohál uviedol, že o vyškrtnutie z kandidátky KDH požiadal sám; expresívne vyjadrenia podľa neho zazneli v emotívnom rozhovore a neskôr sa za ne ospravedlnil."
+    },
+    "period": "2023-09-13, doplnené stanovisko o 23:30",
+    "sourceIds": [
+      "tt-lead-c8774901a38f9426-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-obselka-controversies-1-2026",
+    "candidateId": "ttsk-jozef-obselka",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Peter Michalko v TRNAVA REPORT uviedol, že sponzorovaný príspevok Jozefa Obselku podľa neho porušoval pravidlá platformy Meta pre politickú reklamu. Článok výslovne odlišuje pravidlá platformy od slovenského volebného zákona."
+    },
+    "period": "článok aktualizovaný 2026-10-04 o 09:10",
+    "sourceIds": [
+      "tt-lead-4521a6e33f452033-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-baros-controversies-1-2026",
+    "candidateId": "ttsk-branislav-baros",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Patrik Pokorný na trnava-live.sk informoval, že Branislav Baroš žiadal od poslanca Martina Uhlíka verejné ospravedlnenie za komentár na sociálnej sieti a zvažoval trestné oznámenie."
+    },
+    "period": "2022-06-30, článok aktualizovaný o 13:24",
+    "sourceIds": [
+      "tt-lead-3f35f9bc5e44abfe-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martin-uhlik-controversies-1-2026",
+    "candidateId": "ttsk-martin-uhlik",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie kandidáta"
+    },
+    "text": {
+      "sk": "V reakcii pre trnava-live.sk Martin Uhlík uviedol, že sa ospravedlní, ak sa preukáže, že jeho tvrdenia o Branislavovi Barošovi neboli pravdivé."
+    },
+    "period": "2022-06-30, aktualizované o 13:24",
+    "sourceIds": [
+      "tt-lead-3f35f9bc5e44abfe-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martin-uhlik-controversies-2-2026",
+    "candidateId": "ttsk-martin-uhlik",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Patrik Pokorný na trnava-live.sk informoval, že Branislav Baroš žiadal od poslanca Martina Uhlíka verejné ospravedlnenie za komentár na sociálnej sieti a zvažoval trestné oznámenie."
+    },
+    "period": "2022-06-30, článok aktualizovaný o 13:24",
+    "sourceIds": [
+      "tt-lead-3f35f9bc5e44abfe-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-baros-controversies-2-2026",
+    "candidateId": "ttsk-branislav-baros",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie kandidáta"
+    },
+    "text": {
+      "sk": "Branislav Baroš v článku trnava-live.sk odmietol sporné tvrdenia vo verejnom komentári a označil ich za klamlivé."
+    },
+    "period": "2022-06-30, článok aktualizovaný o 13:24",
+    "sourceIds": [
+      "tt-lead-3f35f9bc5e44abfe-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-igor-valek-public_office-1-2026",
+    "candidateId": "ttsk-igor-valek",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálny profil Národnej rady SR ho uvádza medzi poslancami v deviatom volebnom období."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-lead-d228060c432802bc-2026",
+      "tt-current-national-mps-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-viskupic-public_office-1-2026",
+    "candidateId": "ttsk-marian-viskupic",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Oficiálny profil Národnej rady SR ho uvádza medzi poslancami v deviatom volebnom období."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-national-mp-marian-viskupic-2026",
+      "tt-current-national-mps-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-zuzana-bosnakova-public_office-1-2026",
+    "candidateId": "ttsk-zuzana-bosnakova",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "TTSK pri ustanovujúcom zasadnutí 16. novembra 2022 uviedol kandidáta medzi zvolenými poslancami volebného obvodu Trnava."
+    },
+    "period": "2022-11-16",
+    "sourceIds": [
+      "tt-regional-inauguration-2022-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-galbavy-public_office-2-2026",
+    "candidateId": "ttsk-marian-galbavy",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "TTSK pri ustanovujúcom zasadnutí 16. novembra 2022 uviedol kandidáta medzi zvolenými poslancami volebného obvodu Trnava."
+    },
+    "period": "2022-11-16",
+    "sourceIds": [
+      "tt-regional-inauguration-2022-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-kramar-public_office-2-2026",
+    "candidateId": "ttsk-branislav-kramar",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "TTSK pri ustanovujúcom zasadnutí 16. novembra 2022 uviedol kandidáta medzi zvolenými poslancami volebného obvodu Trnava."
+    },
+    "period": "2022-11-16",
+    "sourceIds": [
+      "tt-regional-inauguration-2022-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-matej-lancaric-public_office-2-2026",
+    "candidateId": "ttsk-matej-lancaric",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "TTSK pri ustanovujúcom zasadnutí 16. novembra 2022 uviedol kandidáta medzi zvolenými poslancami volebného obvodu Trnava."
+    },
+    "period": "2022-11-16",
+    "sourceIds": [
+      "tt-regional-inauguration-2022-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-rastislav-mraz-public_office-3-2026",
+    "candidateId": "ttsk-rastislav-mraz",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "TTSK pri ustanovujúcom zasadnutí 16. novembra 2022 uviedol kandidáta medzi zvolenými poslancami volebného obvodu Trnava."
+    },
+    "period": "2022-11-16",
+    "sourceIds": [
+      "tt-regional-inauguration-2022-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marek-nesticky-public_office-1-2026",
+    "candidateId": "ttsk-marek-nesticky",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "TTSK pri ustanovujúcom zasadnutí 16. novembra 2022 uviedol kandidáta medzi zvolenými poslancami volebného obvodu Trnava."
+    },
+    "period": "2022-11-16",
+    "sourceIds": [
+      "tt-regional-inauguration-2022-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-viskupic-public_office-2-2026",
+    "candidateId": "ttsk-marian-viskupic",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "TTSK pri ustanovujúcom zasadnutí 16. novembra 2022 uviedol kandidáta medzi zvolenými poslancami volebného obvodu Trnava."
+    },
+    "period": "2022-11-16",
+    "sourceIds": [
+      "tt-regional-inauguration-2022-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozsef-berenyi-asset_declarations-1-2026",
+    "candidateId": "ttsk-jozsef-berenyi",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Oficiálny index TTSK pre rok 2024 uvádza jeho/jej majetkové priznanie. Obsah prílohy nie je predmetom tohto tvrdenia."
+    },
+    "period": "index za rok 2024, overený 2026-10-15",
+    "sourceIds": [
+      "tt-regional-declarations-2024-json-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-zuzana-bosnakova-asset_declarations-1-2026",
+    "candidateId": "ttsk-zuzana-bosnakova",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Oficiálny index TTSK pre rok 2024 uvádza jeho/jej majetkové priznanie. Obsah prílohy nie je predmetom tohto tvrdenia."
+    },
+    "period": "index za rok 2024, overený 2026-10-15",
+    "sourceIds": [
+      "tt-regional-declarations-2024-json-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-galbavy-asset_declarations-2-2026",
+    "candidateId": "ttsk-marian-galbavy",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Oficiálny index TTSK pre rok 2024 uvádza jeho/jej majetkové priznanie. Obsah prílohy nie je predmetom tohto tvrdenia."
+    },
+    "period": "index za rok 2024, overený 2026-10-15",
+    "sourceIds": [
+      "tt-regional-declarations-2024-json-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-kramar-asset_declarations-2-2026",
+    "candidateId": "ttsk-branislav-kramar",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Oficiálny index TTSK pre rok 2024 uvádza jeho/jej majetkové priznanie. Obsah prílohy nie je predmetom tohto tvrdenia."
+    },
+    "period": "index za rok 2024, overený 2026-10-15",
+    "sourceIds": [
+      "tt-regional-declarations-2024-json-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-stefan-kristofik-asset_declarations-1-2026",
+    "candidateId": "ttsk-stefan-kristofik",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Oficiálny index TTSK pre rok 2024 uvádza jeho/jej majetkové priznanie. Obsah prílohy nie je predmetom tohto tvrdenia."
+    },
+    "period": "index za rok 2024, overený 2026-10-15",
+    "sourceIds": [
+      "tt-regional-declarations-2024-json-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-matej-lancaric-asset_declarations-2-2026",
+    "candidateId": "ttsk-matej-lancaric",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Oficiálny index TTSK pre rok 2024 uvádza jeho/jej majetkové priznanie. Obsah prílohy nie je predmetom tohto tvrdenia."
+    },
+    "period": "index za rok 2024, overený 2026-10-15",
+    "sourceIds": [
+      "tt-regional-declarations-2024-json-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-rastislav-mraz-asset_declarations-2-2026",
+    "candidateId": "ttsk-rastislav-mraz",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Oficiálny index TTSK pre rok 2024 uvádza jeho/jej majetkové priznanie. Obsah prílohy nie je predmetom tohto tvrdenia."
+    },
+    "period": "index za rok 2024, overený 2026-10-15",
+    "sourceIds": [
+      "tt-regional-declarations-2024-json-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marek-nesticky-asset_declarations-1-2026",
+    "candidateId": "ttsk-marek-nesticky",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Oficiálny index TTSK pre rok 2024 uvádza jeho/jej majetkové priznanie. Obsah prílohy nie je predmetom tohto tvrdenia."
+    },
+    "period": "index za rok 2024, overený 2026-10-15",
+    "sourceIds": [
+      "tt-regional-declarations-2024-json-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-viskupic-asset_declarations-1-2026",
+    "candidateId": "ttsk-marian-viskupic",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "Oficiálny index TTSK pre rok 2024 uvádza jeho/jej majetkové priznanie. Obsah prílohy nie je predmetom tohto tvrdenia."
+    },
+    "period": "index za rok 2024, overený 2026-10-15",
+    "sourceIds": [
+      "tt-regional-declarations-2024-json-2026",
+      "statistics-regional-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-viskupic-asset_declarations-1-2026",
+    "candidateId": "ttsk-jozef-viskupic",
+    "category": "asset_declarations",
+    "kind": "declaration",
+    "label": {
+      "sk": "Zverejnenie oznámenia"
+    },
+    "text": {
+      "sk": "TTSK zverejňuje oznámenie Jozefa Viskupiča za rok 2021; dokument uvádza funkciu predsedu vyššieho územného celku."
+    },
+    "period": "oznámenie za rok 2021",
+    "sourceIds": [
+      "tt-regional-chair-declaration-2021-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-petra-helt-programme_statements-1-2026",
+    "candidateId": "ttsk-petra-helt",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Na vlastnom kampaňovom webe uvádza medzi prioritami zadržiavanie dažďovej vody a ochranu verejných parkov."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-lead-369e789a5f4c31c1-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marek-polonec-programme_statements-1-2026",
+    "candidateId": "ttsk-marek-polonec",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Na vlastnom webe v programe výslovne určenom pre roky 2022 – 2026 uvádzal zámer zmeniť pravidlá rezidenčného parkovania."
+    },
+    "period": "historický program pre obdobie 2022 – 2026",
+    "sourceIds": [
+      "tt-lead-9a50418e83bfdbe0-2026",
+      "tt-lead-8b67a16b6febafc4-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marek-polonec-employment_business-1-2026",
+    "candidateId": "ttsk-marek-polonec",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza Mareka Polonca ako konateľa spoločnosti POLONEC s.r.o., IČO 44369514, so vznikom funkcie 28. októbra 2015."
+    },
+    "period": "vznik funkcie 2015-10-28; aktuálny výpis 2026-10-15",
+    "sourceIds": [
+      "tt-orsr-entity-4a5ff5a2210048d2-2026",
+      "tt-lead-8b67a16b6febafc4-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-kristina-bolemanova-media-1-2026",
+    "candidateId": "ttsk-kristina-bolemanova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "Redakcia Žien v meste uverejnila rozhovor s Kristínou Bolemanovou o jej kandidatúre do zastupiteľstva Trnavského kraja."
+    },
+    "period": "2022-10-19",
+    "sourceIds": [
+      "tt-lead-c39329cac0fd5c3a-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-kristina-bolemanova-programme_statements-1-2026",
+    "candidateId": "ttsk-kristina-bolemanova",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "V rozhovore pred voľbami 2022 uviedla ako priority dopravu, sociálnu starostlivosť a vzdelávanie."
+    },
+    "period": "2022-10-19",
+    "sourceIds": [
+      "tt-lead-c39329cac0fd5c3a-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ivan-kopcik-controversies-1-2026",
+    "candidateId": "ttsk-ivan-kopcik",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Mestské zastupiteľstvo Trnavy v uznesení č. 759 z 24. júna 2025 schválilo rozhodnutie o oneskorenom predložení majetkového oznámenia a uložení pokuty 412,56 eura tomuto poslancovi."
+    },
+    "period": "2025-06-24",
+    "sourceIds": [
+      "tt-city-decisions-june2025-2026",
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martin-uhlik-controversies-3-2026",
+    "candidateId": "ttsk-martin-uhlik",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Mestské zastupiteľstvo Trnavy v uznesení č. 759 z 24. júna 2025 schválilo rozhodnutie o oneskorenom predložení majetkového oznámenia a uložení pokuty 412,56 eura tomuto poslancovi."
+    },
+    "period": "2025-06-24",
+    "sourceIds": [
+      "tt-city-decisions-june2025-2026",
+      "tt-current-city-council-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ivan-kopcik-controversies-2-2026",
+    "candidateId": "ttsk-ivan-kopcik",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie kandidáta"
+    },
+    "text": {
+      "sk": "Podľa zápisnice Mestského zastupiteľstva sa Ivan Kopčík za omeškanie ospravedlnil a chýbajúce oznámenie doplnil 16. mája 2025. Na zasadnutí uviedol, že sankciu prijíma a pokutu zaplatí."
+    },
+    "period": "vyjadrenia 2025-05-16 a 2025-06-24",
+    "sourceIds": [
+      "tt-lead-c73dbdaf88b861de-2026",
+      "tt-city-decisions-june2025-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martin-uhlik-controversies-4-2026",
+    "candidateId": "ttsk-martin-uhlik",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie kandidáta"
+    },
+    "text": {
+      "sk": "Podľa zápisnice Mestského zastupiteľstva sa Martin Uhlík k veci vyjadril listom z 30. mája 2025 a chýbajúce oznámenie doplnil 10. júna 2025."
+    },
+    "period": "vyjadrenie 2025-05-30; doplnenie 2025-06-10",
+    "sourceIds": [
+      "tt-lead-c73dbdaf88b861de-2026",
+      "tt-city-decisions-june2025-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jaroslav-cehlarik-controversies-1-2026",
+    "candidateId": "ttsk-jaroslav-cehlarik",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "V rozhovore Denníka N z 26. októbra 2020 sa Karol Sudor pýtal Jaroslava Cehlárika na kritiku účtovania tlmočníckych služieb a údajné fiktívne výkazy pre trnavskú župu. Otázky redaktora nepredstavujú úradný záver o pochybení."
+    },
+    "period": "2020-10-26",
+    "sourceIds": [
+      "tt-lead-4a1fe35abf3642bd-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jaroslav-cehlarik-controversies-2-2026",
+    "candidateId": "ttsk-jaroslav-cehlarik",
+    "category": "controversies",
+    "kind": "response",
+    "label": {
+      "sk": "Vyjadrenie kandidáta"
+    },
+    "text": {
+      "sk": "Cehlárik v tom istom rozhovore odmietal tvrdenia o umelom navyšovaní hodín a uviedol, že tlmočníci vykazujú reálne hodiny. Kritiku označil za útoky na svoju osobu a organizáciu."
+    },
+    "period": "2020-10-26",
+    "sourceIds": [
+      "tt-lead-4a1fe35abf3642bd-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ivan-bocko-controversies-1-2026",
+    "candidateId": "ttsk-ivan-bocko",
+    "category": "controversies",
+    "kind": "media_report",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "SITA 12. januára 2023 informovala, že Najvyšší správny súd odmietol volebnú žalobu neúspešného kandidáta v Bohdanovciach nad Trnavou; podľa správy sa tým výsledok zvolenia Ivana Bočka nezmenil."
+    },
+    "period": "2023-01-12",
+    "sourceIds": [
+      "tt-lead-14e022b04b46ecbe-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-peter-kitta-employment_business-1-2026",
+    "candidateId": "ttsk-peter-kitta",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti Golden touch s. r. o., IČO 56730446; vznik funkcie 17.01.2025."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 17.01.2025",
+    "sourceIds": [
+      "tt-orsr-entity-490c6de6c1f25a01-2026",
+      "tt-lead-c8ff0fa7a0a87afa-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-simon-stefunko-employment_business-1-2026",
+    "candidateId": "ttsk-simon-stefunko",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti Hviezdoslavova, s. r. o., IČO 53524268; vznik funkcie 20.01.2021."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 20.01.2021",
+    "sourceIds": [
+      "tt-orsr-entity-cf20bce684d71396-2026",
+      "tt-lead-d5d0322675df94b9-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-kristian-kolev-employment_business-1-2026",
+    "candidateId": "ttsk-kristian-kolev",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti F.S.P. s.r.o., IČO 44720343; vznik funkcie 10.04.2009."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 10.04.2009",
+    "sourceIds": [
+      "tt-orsr-entity-3be484f6ae99af1b-2026",
+      "tt-lead-d3d1a58e14505a08-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-boris-aresta-employment_business-1-2026",
+    "candidateId": "ttsk-boris-aresta",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti Viaproject s.r.o., IČO 48064483; vznik funkcie 13.03.2015."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 13.03.2015",
+    "sourceIds": [
+      "tt-orsr-entity-27a7813ecaedfe95-2026",
+      "tt-lead-5bceb05778c99320-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martin-nano-employment_business-1-2026",
+    "candidateId": "ttsk-martin-nano",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti Axis Consult s. r. o., IČO 56121679; vznik funkcie 15.03.2024."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 15.03.2024",
+    "sourceIds": [
+      "tt-orsr-entity-75ef59412cc384f6-2026",
+      "tt-lead-bc69b8cd2ff5f2c1-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-vladimir-ondrejicka-employment_business-1-2026",
+    "candidateId": "ttsk-vladimir-ondrejicka",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti FOTOELEKTRIKA s. r. o., IČO 52894801; vznik funkcie 04.03.2026."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 04.03.2026",
+    "sourceIds": [
+      "tt-orsr-entity-943cafe5ed1956dc-2026",
+      "tt-lead-c805dda187a12df4-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-lukas-ihnat-employment_business-1-2026",
+    "candidateId": "ttsk-lukas-ihnat",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti IN IDEAS, s.r.o., IČO 46283226; vznik funkcie 02.08.2011."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 02.08.2011",
+    "sourceIds": [
+      "tt-orsr-entity-16a966ad992507a2-2026",
+      "tt-lead-da9974238a0982e6-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ina-mruskovicova-employment_business-1-2026",
+    "candidateId": "ttsk-ina-mruskovicova",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti M - INSURANCE GROUP s.r.o., IČO 36248681; vznik funkcie 21.06.2016."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 21.06.2016",
+    "sourceIds": [
+      "tt-orsr-entity-3d478d95eda89b2a-2026",
+      "tt-lead-e0cb7fe1f33e2ee2-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-tomas-vahalik-employment_business-1-2026",
+    "candidateId": "ttsk-tomas-vahalik",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti VAHOreal realitná kancelária 1, s. r. o., IČO 56562101; vznik funkcie 15.10.2024."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 15.10.2024",
+    "sourceIds": [
+      "tt-orsr-entity-6c629f795a91de12-2026",
+      "tt-lead-7521a2287a4af02c-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-erik-elias-employment_business-1-2026",
+    "candidateId": "ttsk-erik-elias",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti FinPlay, s. r. o., IČO 50549561; vznik funkcie 18.10.2016."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 18.10.2016",
+    "sourceIds": [
+      "tt-orsr-entity-77cc8170758e42f9-2026",
+      "tt-lead-4d2eefe0523a8b20-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-branislav-kramar-employment_business-1-2026",
+    "candidateId": "ttsk-branislav-kramar",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti HAIR DOCTOR SLOVAKIA s. r. o., IČO 52796621; vznik funkcie 12.12.2019."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 12.12.2019",
+    "sourceIds": [
+      "tt-orsr-entity-f989376d00f67984-2026",
+      "tt-lead-289cf1470b9493ea-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ondrej-stefanik-employment_business-1-2026",
+    "candidateId": "ttsk-ondrej-stefanik",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti Kuglof Distribution s. r. o., IČO 52768538; vznik funkcie 09.01.2020."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 09.01.2020",
+    "sourceIds": [
+      "tt-orsr-entity-736104daf0b7113f-2026",
+      "tt-lead-78fcd0eb898e0f2f-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-milan-hejduk-employment_business-1-2026",
+    "candidateId": "ttsk-milan-hejduk",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti Hejduk Dent, s.r.o., IČO 36291242; vznik funkcie 14.08.2021."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 14.08.2021",
+    "sourceIds": [
+      "tt-orsr-entity-aa8fc1a880829e00-2026",
+      "tt-lead-bb0c187ce8924e81-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-obselka-employment_business-1-2026",
+    "candidateId": "ttsk-jozef-obselka",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii predseda predstavenstva spoločnosti STSZ, a.s., IČO 34130250; vznik funkcie 08.06.2022."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 08.06.2022",
+    "sourceIds": [
+      "tt-orsr-entity-13a9598e3eb4d3e8-2026",
+      "tt-lead-174d462e10a94f3b-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-silvia-jakabova-employment_business-1-2026",
+    "candidateId": "ttsk-silvia-jakabova",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti MedEdu s. r. o., IČO 57459860; vznik funkcie 11.02.2026."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 11.02.2026",
+    "sourceIds": [
+      "tt-orsr-entity-9df0594bbed303f8-2026",
+      "tt-lead-03d2b117dcce48fe-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martina-sarvaicova-employment_business-1-2026",
+    "candidateId": "ttsk-martina-sarvaicova",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Aktuálny výpis ORSR uvádza kandidáta vo funkcii konateľ spoločnosti Aerea International, s. r. o., IČO 56838832; vznik funkcie 22.03.2025."
+    },
+    "period": "aktuálny výpis 2026-10-15; uvedený vznik funkcie 22.03.2025",
+    "sourceIds": [
+      "tt-orsr-entity-20b1273d7355aff0-2026",
+      "tt-lead-6de6ceb631af5127-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-matej-lancaric-media-1-2026",
+    "candidateId": "ttsk-matej-lancaric",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "SITA uverejnila správu Pavla Machoviča o ohlásení kandidatúry Mateja Lančariča na predsedu TTSK."
+    },
+    "period": "2026-06-22",
+    "sourceIds": [
+      "tt-lead-2d700a71b8ca063e-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-lubica-horvathova-media-1-2026",
+    "candidateId": "ttsk-lubica-horvathova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "Portál trnava-live.sk uverejnil správu Patrika Pokorného o ohlásení kandidatúry Ľubice Horváthovej na primátorku."
+    },
+    "period": "2026-02-15",
+    "sourceIds": [
+      "tt-lead-134b6a67aaa8e507-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-anton-zeleznik-controversies-1-2026",
+    "candidateId": "ttsk-anton-zeleznik",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Okresný súd Trnava uznesením z 20. mája 2020 v konaní 25OdK/163/2020 vyhlásil konkurz na majetok Antona Železníka."
+    },
+    "period": "uznesenie 2020-05-20; zverejnenie 2020-05-27",
+    "sourceIds": [
+      "tt-anton-zeleznik-opening-2020-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-anton-zeleznik-debt-relief-2020",
+    "candidateId": "ttsk-anton-zeleznik",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Okresný súd Trnava v samostatnom výroku uznesenia z 20. mája 2020 v konaní 25OdK/163/2020 rozhodol o oddlžení Antona Železníka: zbavil ho dlhov uspokojiteľných iba v tomto konkurze v rozsahu, v akom v konkurze nebudú uspokojené, a dlhov vylúčených z uspokojenia. Rozhodnutie sa nevzťahuje na pohľadávky oddlžením nedotknuté; nepreukazuje bezdlžnosť ani aktuálny majetkový stav."
+    },
+    "period": "uznesenie 2020-05-20; zverejnenie 2020-05-27",
+    "sourceIds": [
+      "tt-anton-zeleznik-opening-2020-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-anton-zeleznik-controversies-2-2026",
+    "candidateId": "ttsk-anton-zeleznik",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Správca v oznámení z 30. júla 2020 zverejnenom 4. augusta 2020 uviedol, že konkurz 25OdK/163/2020 sa končí zrušením, pretože podstata nepokryje náklady konkurzu. Oznámenie samo nepreukazuje aktuálnu výšku dlhov ani súčasný majetkový stav."
+    },
+    "period": "oznámenie 2020-07-30; zverejnenie 2020-08-04",
+    "sourceIds": [
+      "tt-anton-zeleznik-closure-2020-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-peter-kitta-controversies-1-2026",
+    "candidateId": "ttsk-peter-kitta",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Okresný súd Trnava v oznámení z 21. marca 2019 uviedol, že konkurz 25K/40/2016 zrušil po splnení konečného rozvrhu výťažku uznesením z 18. februára 2019; podľa oznámenia toto uznesenie nadobudlo právoplatnosť 14. marca 2019."
+    },
+    "period": "uznesenie 2019-02-18; právoplatnosť podľa oznámenia 2019-03-14; oznámenie 2019-03-21, zverejnenie 2019-03-28",
+    "sourceIds": [
+      "tt-peter-kitta-stage-march2019-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-peter-kitta-controversies-2-2026",
+    "candidateId": "ttsk-peter-kitta",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Okresný súd Trnava uznesením z 8. apríla 2019 po zrušení konkurzu 25K/40/2016 odvolal správkyňu z funkcie. Dokument nepreukazuje dnešný stav dlhov alebo majetku."
+    },
+    "period": "uznesenie 2019-04-08; zverejnenie 2019-04-12",
+    "sourceIds": [
+      "tt-peter-kitta-trustee-removal-2019-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-peter-kitta-controversies-3-2026",
+    "candidateId": "ttsk-peter-kitta",
+    "category": "controversies",
+    "kind": "official_outcome",
+    "label": {
+      "sk": "Verejne doložená udalosť"
+    },
+    "text": {
+      "sk": "Okresný súd Trnava uznesením z 8. novembra 2016 vyhlásil konkurz na majetok Petra Kittu v konaní 25K/40/2016. Následné zrušenie konkurzu a odvolanie správkyne sú doložené samostatnými oznámeniami z roku 2019."
+    },
+    "period": "uznesenie 2016-11-08; zverejnenie 2016-11-15",
+    "sourceIds": [
+      "tt-peter-kitta-opening-2016-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-matej-cagala-employment_business-1-2026",
+    "candidateId": "ttsk-matej-cagala",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Oficiálny kontaktný profil mesta Trnava uvádza Mateja Cagalu na referáte participácie mestského úradu."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-lead-fa88e388395eb2d0-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marek-nesticky-employment_business-2-2026",
+    "candidateId": "ttsk-marek-nesticky",
+    "category": "employment_business",
+    "kind": "fact",
+    "label": {
+      "sk": "Doložená profesijná činnosť"
+    },
+    "text": {
+      "sk": "Oficiálny kontaktný profil mesta Trnava uvádza Mareka Neštického ako vedúceho Mestského zimného štadióna."
+    },
+    "period": "stav overený 2026-10-15",
+    "sourceIds": [
+      "tt-lead-cd6debf4843471eb-2026",
+      "tt-lead-3ce07fb4494d713e-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-david-matula-public_office-1-2026",
+    "candidateId": "ttsk-david-matula",
+    "category": "public_office",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejná funkcia"
+    },
+    "text": {
+      "sk": "Zápisnica obecného zastupiteľstva Boleráza z 22. januára 2026 uvádza Davida Matulu ako starostu obce, ktorý zasadnutie otvoril."
+    },
+    "period": "2026-01-22",
+    "sourceIds": [
+      "tt-lead-9cd5b7156f3cca9b-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-peter-kvasnicak-programme_statements-1-2026",
+    "candidateId": "ttsk-peter-kvasnicak",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Trnava+ ho/ju uvádza medzi deviatimi kandidátmi, pre ktorých zverejňuje spoločný mestský a obvodový program na voľby 2026."
+    },
+    "period": "volebná kampaň2026; overené2026-10-15",
+    "sourceIds": [
+      "tt-campaign-trnavaplus-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jan-jobb-programme_statements-1-2026",
+    "candidateId": "ttsk-jan-jobb",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Trnava+ ho/ju uvádza medzi deviatimi kandidátmi, pre ktorých zverejňuje spoločný mestský a obvodový program na voľby 2026."
+    },
+    "period": "volebná kampaň2026; overené2026-10-15",
+    "sourceIds": [
+      "tt-campaign-trnavaplus-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-boris-aresta-programme_statements-1-2026",
+    "candidateId": "ttsk-boris-aresta",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Trnava+ ho/ju uvádza medzi deviatimi kandidátmi, pre ktorých zverejňuje spoločný mestský a obvodový program na voľby 2026."
+    },
+    "period": "volebná kampaň2026; overené2026-10-15",
+    "sourceIds": [
+      "tt-campaign-trnavaplus-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-tomas-drobny-programme_statements-1-2026",
+    "candidateId": "ttsk-tomas-drobny",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Trnava+ ho/ju uvádza medzi deviatimi kandidátmi, pre ktorých zverejňuje spoločný mestský a obvodový program na voľby 2026."
+    },
+    "period": "volebná kampaň2026; overené2026-10-15",
+    "sourceIds": [
+      "tt-campaign-trnavaplus-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-patrik-ondrejech-programme_statements-1-2026",
+    "candidateId": "ttsk-patrik-ondrejech",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Trnava+ ho/ju uvádza medzi deviatimi kandidátmi, pre ktorých zverejňuje spoločný mestský a obvodový program na voľby 2026."
+    },
+    "period": "volebná kampaň2026; overené2026-10-15",
+    "sourceIds": [
+      "tt-campaign-trnavaplus-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-robert-frimmel-programme_statements-1-2026",
+    "candidateId": "ttsk-robert-frimmel",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Trnava+ ho/ju uvádza medzi deviatimi kandidátmi, pre ktorých zverejňuje spoločný mestský a obvodový program na voľby 2026."
+    },
+    "period": "volebná kampaň2026; overené2026-10-15",
+    "sourceIds": [
+      "tt-campaign-trnavaplus-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-kristina-rysava-programme_statements-1-2026",
+    "candidateId": "ttsk-kristina-rysava",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Trnava+ ho/ju uvádza medzi deviatimi kandidátmi, pre ktorých zverejňuje spoločný mestský a obvodový program na voľby 2026."
+    },
+    "period": "volebná kampaň2026; overené2026-10-15",
+    "sourceIds": [
+      "tt-campaign-trnavaplus-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-prazenka-programme_statements-1-2026",
+    "candidateId": "ttsk-marian-prazenka",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Trnava+ ho/ju uvádza medzi deviatimi kandidátmi, pre ktorých zverejňuje spoločný mestský a obvodový program na voľby 2026."
+    },
+    "period": "volebná kampaň2026; overené2026-10-15",
+    "sourceIds": [
+      "tt-campaign-trnavaplus-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ivana-varga-babelova-previous_elections-1-2026",
+    "candidateId": "ttsk-ivana-varga-babelova",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "V oficiálnej výsledkovej tabuľke volieb 2018 v Trnave, obvod2, má Ivana Varga Babeľová 446 hlasov. Tabuľka ho/ju neoznačuje ako zvoleného kandidáta."
+    },
+    "period": "2018-11-10",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "tt-lead-8a62017cff27ea59-2026",
+      "tt-statistics-results-legend-2018-2026"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2018-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-marian-kubal-previous_elections-1-2026",
+    "candidateId": "ttsk-marian-kubal",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "V oficiálnej výsledkovej tabuľke volieb 2018 v Trnave, obvod5, má Marián Kubál 374 hlasov. Tabuľka ho/ju neoznačuje ako zvoleného kandidáta."
+    },
+    "period": "2018-11-10",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "tt-lead-8a62017cff27ea59-2026",
+      "tt-statistics-results-legend-2018-2026"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2018-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-kristina-rysava-previous_elections-1-2026",
+    "candidateId": "ttsk-kristina-rysava",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "V oficiálnej výsledkovej tabuľke volieb 2018 v Trnave, obvod4, má Kristína Ryšavá 581 hlasov. Tabuľka ho/ju neoznačuje ako zvoleného kandidáta."
+    },
+    "period": "2018-11-10",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "tt-lead-8a62017cff27ea59-2026",
+      "tt-statistics-results-legend-2018-2026"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2018-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-stanislav-surin-previous_elections-1-2026",
+    "candidateId": "ttsk-stanislav-surin",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb 2022"
+    },
+    "text": {
+      "sk": "V oficiálnej výsledkovej tabuľke volieb 2018 v Trnave, obvod1, získal Stanislav Šurin 389 hlasov; tabuľka ho neoznačuje ako zvoleného kandidáta."
+    },
+    "period": "2018-11-10",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "tt-lead-8a62017cff27ea59-2026",
+      "tt-statistics-results-legend-2018-2026"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2018-506745-city-council",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-stanislav-surin-media-1-2026",
+    "candidateId": "ttsk-stanislav-surin",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "Portál trnava-live.sk uverejnil pozvánku Simonne Jurčovej zo Západoslovenského múzea na prehliadku kostola s plánovaným organovým vystúpením Stanislava Šurina 10. júla 2020."
+    },
+    "period": "zverejnenie2020-07-06; plánované podujatie2020-07-10",
+    "sourceIds": [
+      "tt-lead-553c63da0d4d8b31-2026",
+      "tt-lead-8a62017cff27ea59-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-andrea-banova-media-1-2026",
+    "candidateId": "ttsk-andrea-banova",
+    "category": "media",
+    "kind": "media_report",
+    "label": {
+      "sk": "Rozhovor pre TASR"
+    },
+    "text": {
+      "sk": "TRNAVSKÝ HLAS v správe podpísanej iniciálami (pm) informoval o vymenovaní Andrey Bánovej za riaditeľku Gymnázia Jána Hollého od 1.novembra 2024."
+    },
+    "period": "zverejnenie2024-11-06; vymenovanie od2024-11-01",
+    "sourceIds": [
+      "tt-lead-e78c280a4be57d49-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-juraj-badura-programme_statements-1-2026",
+    "candidateId": "ttsk-juraj-badura",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-gabriela-cabanova-programme_statements-1-2026",
+    "candidateId": "ttsk-gabriela-cabanova",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-katarina-durkova-programme_statements-1-2026",
+    "candidateId": "ttsk-katarina-durkova",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-stanislav-hric-programme_statements-1-2026",
+    "candidateId": "ttsk-stanislav-hric",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marcel-krajco-programme_statements-1-2026",
+    "candidateId": "ttsk-marcel-krajco",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marek-nesticky-programme_statements-1-2026",
+    "candidateId": "ttsk-marek-nesticky",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-tibor-pekarcik-programme_statements-1-2026",
+    "candidateId": "ttsk-tibor-pekarcik",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ondrej-stefanik-programme_statements-1-2026",
+    "candidateId": "ttsk-ondrej-stefanik",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ina-mruskovicova-programme_statements-1-2026",
+    "candidateId": "ttsk-ina-mruskovicova",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-milan-sokolovsky-programme_statements-1-2026",
+    "candidateId": "ttsk-milan-sokolovsky",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-andrea-svata-programme_statements-1-2026",
+    "candidateId": "ttsk-andrea-svata",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-ivan-kopcik-programme_statements-1-2026",
+    "candidateId": "ttsk-ivan-kopcik",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marian-schwarz-programme_statements-1-2026",
+    "candidateId": "ttsk-marian-schwarz",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-martin-uhlik-programme_statements-1-2026",
+    "candidateId": "ttsk-martin-uhlik",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-lukas-bednar-programme_statements-1-2026",
+    "candidateId": "ttsk-lukas-bednar",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-vladimir-ekhardt-programme_statements-1-2026",
+    "candidateId": "ttsk-vladimir-ekhardt",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-pavol-hluchy-programme_statements-1-2026",
+    "candidateId": "ttsk-pavol-hluchy",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-marek-meciar-programme_statements-1-2026",
+    "candidateId": "ttsk-marek-meciar",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-richard-sladek-programme_statements-1-2026",
+    "candidateId": "ttsk-richard-sladek",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-andrej-brnik-programme_statements-1-2026",
+    "candidateId": "ttsk-andrej-brnik",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-tana-polackova-programme_statements-1-2026",
+    "candidateId": "ttsk-tana-polackova",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-simon-stefunko-programme_statements-1-2026",
+    "candidateId": "ttsk-simon-stefunko",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozef-sust-programme_statements-1-2026",
+    "candidateId": "ttsk-jozef-sust",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-matej-cagala-programme_statements-1-2026",
+    "candidateId": "ttsk-matej-cagala",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-erik-hrnciarik-programme_statements-1-2026",
+    "candidateId": "ttsk-erik-hrnciarik",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-tatiana-vavrova-programme_statements-1-2026",
+    "candidateId": "ttsk-tatiana-vavrova",
+    "category": "programme_statements",
+    "kind": "fact",
+    "label": {
+      "sk": "Verejne uvedený programový zámer"
+    },
+    "text": {
+      "sk": "Kampaň Evy Nemčovskej ho/ju uvádza medzi členmi tímu, s ktorými zdieľa zverejnený volebný program."
+    },
+    "period": "volebná kampaň 2026, overené 2026-10-15",
+    "sourceIds": [
+      "tt-campaign-nemcovska-team-2026",
+      "tt-campaign-nemcovska-programme-2026"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  {
+    "id": "ttsk-jozsef-berenyi-regional-chair-result-2022",
+    "candidateId": "ttsk-jozsef-berenyi",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb2022"
+    },
+    "text": {
+      "sk": "Vo voľbách predsedu Trnavského samosprávneho kraja 29. októbra 2022 získal József Berényi 38 056 hlasov (21,04 %); výsledok: nezvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "regional2022-chair-votes-table",
+      "statistics-regional-chair-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-chair",
+      "office": "regional_chair",
+      "outcome": "not_elected"
+    }
+  },
+  {
+    "id": "ttsk-jozef-viskupic-regional-chair-result-2022",
+    "candidateId": "ttsk-jozef-viskupic",
+    "category": "previous_elections",
+    "kind": "election_result",
+    "label": {
+      "sk": "Výsledok volieb2022"
+    },
+    "text": {
+      "sk": "Vo voľbách predsedu Trnavského samosprávneho kraja 29. októbra 2022 získal Jozef Viskupič 69 743 hlasov (38,56 %); výsledok: zvolený."
+    },
+    "period": "2022-10-29",
+    "sourceIds": [
+      "regional2022-chair-votes-table",
+      "statistics-regional-chair-candidates-2022"
+    ],
+    "checkedAt": "2026-10-15",
+    "election": {
+      "contestId": "2022-trnavsky-kraj-region-chair",
+      "office": "regional_chair",
+      "outcome": "elected"
+    }
+  }
+]

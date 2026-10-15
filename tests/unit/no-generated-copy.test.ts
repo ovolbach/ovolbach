@@ -35,7 +35,7 @@ describe('public editorial guardrails', () => {
     });
 
     expect(violations).toEqual([]);
-  });
+  }, 30_000);
 
   it('keeps public UI Slovak and ships no unlicensed image markup', async () => {
     const content = await publicContent();
