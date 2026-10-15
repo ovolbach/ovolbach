@@ -10,7 +10,7 @@ const loadCity = () => loadElectionContext({ citySlug: 'zilina', year: 2026 });
 describe('Žilina official 2026 election guide', () => {
   it('makes the Žilina city and its regional district 11 available as a separate context', async () => {
     expect((await listElectionContextConfigs()).find((row) => row.citySlug === 'zilina')).toMatchObject({
-      cityName: 'Žilina', year: 2026, snapshotDate: '2026-10-04', regionalDistrictId: '2026-zsk-region-11',
+      cityName: 'Žilina', year: 2026, snapshotDate: '2026-10-15', regionalDistrictId: '2026-zsk-region-11',
       contestIds: { mayor: '2026-za-mayor', 'city-council': '2026-za-city-council' },
     });
   });

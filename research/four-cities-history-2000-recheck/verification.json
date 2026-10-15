@@ -1,0 +1,187 @@
+{
+  "checkedAt": "2026-10-15T21:07:29.913007+00:00",
+  "status": "verified_with_global_link_failures_and_archive_limits",
+  "gates": [
+    {
+      "command": "NGINX_BIN=/tmp/ovolbach-nginx/extracted/usr/sbin/nginx npm test -- --maxWorkers=2",
+      "exitCode": 0,
+      "summary": "68 files;588 tests passed;0 skipped. Lower concurrency avoids previously observed CLI-test contention timeout.",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/unit-complete.log",
+        "sha256": "d3f66f8441730582123f685416b0ccd97c900a316081034abd18fd44b466ac54",
+        "bytes": 486
+      }
+    },
+    {
+      "command": "npm run validate:data",
+      "exitCode": 0,
+      "execution": "Invoked by the final npm run build",
+      "summary": "6 cycles,11 contexts,11 published,6 regional contexts;0 issues",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/build-final-verified.log",
+        "sha256": "24e529f21e3a55b15edc9826e6cefe9d39f79a7407919bafec2e962bbaaa3711",
+        "bytes": 107858
+      }
+    },
+    {
+      "command": "npm run validate:release",
+      "exitCode": 0,
+      "summary": "6 cycles,11 contexts,11 published,6 regional contexts;0 issues",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/release-final.log",
+        "sha256": "20ce58bb5e0f13fce0445c5a173424c1039ebabfeffffc1f8fc013b727ce3bd0",
+        "bytes": 121
+      }
+    },
+    {
+      "command": "npm run report:coverage",
+      "exitCode": 0,
+      "summary": "releaseReady=true;pending=0. Selected union independently checked:496 people,624 current candidacies,3968 coverage rows.",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/coverage-final.log",
+        "sha256": "ca356b18bcb933666f9f25973d2257dbfb8943c728ee64248dac709450e77d1d",
+        "bytes": 214336
+      }
+    },
+    {
+      "command": "npm run build",
+      "exitCode": 0,
+      "summary": "Final static build, strict check and Pagefind complete;1379 indexed pages.",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/build-final-verified.log",
+        "sha256": "24e529f21e3a55b15edc9826e6cefe9d39f79a7407919bafec2e962bbaaa3711",
+        "bytes": 107858
+      }
+    },
+    {
+      "command": "npm run check",
+      "exitCode": 0,
+      "summary": "180 files;0 TypeScript errors, warnings or hints.",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/types-complete.log",
+        "sha256": "58d70113f61a3b7c281bac545b1b9923bd91573b25318dab70025cf50ec28153",
+        "bytes": 253
+      }
+    },
+    {
+      "command": "npm run check:seo",
+      "exitCode": 0,
+      "summary": "1379 canonical indexable pages;17 noindex comparison tools;1 noindex404.",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/seo-final.log",
+        "sha256": "8f8a82b6de0ec99327c76be812744a860b82047b7fe3888b38f6de58a5ef6ed5",
+        "bytes": 148
+      }
+    },
+    {
+      "command": "npm run check:html",
+      "exitCode": 0,
+      "summary": "W3C Nu Checker26.10.12;1397 HTML files;0 errors;0 warnings. Initial GNU tar ZIP extraction failed; the same official archive was extracted using Python zipfile.",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/html-recovery.log",
+        "sha256": "7cb161909c9fc0a6a7256c918e94bc90cb9797a175a8a375b1df86ba287fd5b9",
+        "bytes": 242
+      },
+      "previousAttempt": {
+        "exitCode": 1,
+        "log": {
+          "localLog": ".internal/history-recheck/logs/html-final.log",
+          "sha256": "f915d9f77fc9ae02855f419c3642cb7e36b65a2141c6c98de5a36a92dd035733",
+          "bytes": 542
+        }
+      }
+    },
+    {
+      "command": "npm run check:storage",
+      "exitCode": 0,
+      "summary": "No prohibited browser storage, service-worker or cross-origin application pattern detected.",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/storage-final.log",
+        "sha256": "b86f6f5ffbb9bb28f598900aef45367ba5b7dcac2ac9dead84f882358c56b9bd",
+        "bytes": 57
+      }
+    },
+    {
+      "command": "npm run check:links",
+      "exitCode": 1,
+      "summary": "2976 URLs;73 unreachable,51 manual-review responses. All57 new sources reachable:10 HTTP200,47 HTTP206. The final URL set exactly equals the checked set.",
+      "details": "external-links.json",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/links.log",
+        "sha256": "401bac7e9039c83d24026d4574093a666218fa0cabcf266b9d6dca4613878c1c",
+        "bytes": 2540980
+      }
+    },
+    {
+      "command": "LD_LIBRARY_PATH=/tmp/ovolbach-browser-libs/extracted/usr/lib/x86_64-linux-gnu PLAYWRIGHT_BROWSERS_PATH=/tmp/ovolbach-browser npm run test:e2e -- --config=.internal/history-recheck/playwright.config.ts --workers=2 --timeout=60000",
+      "exitCode": 1,
+      "summary": "290 passed;2 failed on the old snapshot expectation;2 intentional desktop skips for mobile-only assertions. Corrected exact expected snapshot15Oct; both affected desktop/mobile cases passed in targeted rerun. Thus292 applicable cases verified;2 intentional skips.",
+      "status": "passed_after_targeted_rerun",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/e2e-recovery.log",
+        "sha256": "169ba59d18d08947e87d6af7df50a0bddfd99b3dc24d5f61135353a956c533c2",
+        "bytes": 51348
+      },
+      "rerun": {
+        "command": "same command with --grep=\"every page exposes snapshot\"",
+        "exitCode": 0,
+        "passed": 2,
+        "log": {
+          "localLog": ".internal/history-recheck/logs/e2e-snapshot-recovery.log",
+          "sha256": "ce16cad5cc2969f6a8662964f781a5b1fcbf4ca02304d3121f36a3a8f7aa6cb4",
+          "bytes": 1186
+        }
+      },
+      "runtimeRecovery": {
+        "initialRun": "Stopped after132 browser-launch failures,2 passing nonbrowser cases and160 unrun cases: missing libnspr4.so.",
+        "action": "Reused the installed browser and shared-library directory. The repaired run served this checkout’s fresh build on isolated port43963.",
+        "log": {
+          "localLog": ".internal/history-recheck/logs/e2e-final.log",
+          "sha256": "604f577b43a9753cd869b2ff342d0f5379ef3a649a23cc3b7b6ea7ce2f6115d4",
+          "bytes": 715839
+        }
+      }
+    },
+    {
+      "command": "NGINX_BIN=/tmp/ovolbach-nginx/extracted/usr/sbin/nginx npm run check:redirects",
+      "exitCode": 0,
+      "summary": "Real nginx:294 redirects checked (49 old routes),43 final profiles HTTP200, unknown routes HTTP404.",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/redirects-final.log",
+        "sha256": "2bca4fa8685528df3e6719bdfcec2b8af17f659f458f86d8bea5115f4798c3ff",
+        "bytes": 164
+      }
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "summary": "No whitespace errors."
+    },
+    {
+      "command": "npx tsx .internal/history-recheck/verify-totals.ts",
+      "exitCode": 0,
+      "summary": "All496 existing public participation/win counters equal independently aggregated audit totals. Four reviewed offices:819 participations,365 wins,4 withdrawals.",
+      "log": {
+        "localLog": ".internal/history-recheck/logs/counters-final.log",
+        "sha256": "aa0f2b4aa15320ca7471d488fb7d8b3357830a0d92a34690f8733b203f8664b0",
+        "bytes": 84
+      }
+    }
+  ],
+  "acceptance": {
+    "people": 496,
+    "currentCandidacies": 624,
+    "coverageRows": 3968,
+    "regularPersonOfficeCycles": 11904,
+    "supplementaryPersonOfficeCycles": 28768,
+    "acceptedJoins": 822,
+    "retainedPriorResult": 1,
+    "addedResults": 333,
+    "correctedOutcomes": 29,
+    "sourceOriginalHashesChecked": 261,
+    "newSourceUrlsReachable": 57
+  },
+  "preservation": "1375 exact record before/after images and7 exact manifest before/after images checked. Previous audit and fixture files unchanged. No data outside the selected previous_elections rows, source additions and documented shared snapshots altered.",
+  "independentReview": "independent-review.json",
+  "publication": "No deployment, push or external publication performed."
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "candidateId": "candidate-87",
+    "claimId": "claim-candidate-87-city-result-2018",
+    "election": {
+      "contestId": "oso-council-2018",
+      "office": "municipal_council",
+      "outcome": "not_elected"
+    },
+    "period": "2018",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018"
+    ],
+    "boundary": "Prior approved result retained; not counted as a fresh identity reconciliation in this audit."
+  }
+]

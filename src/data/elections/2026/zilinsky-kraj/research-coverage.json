@@ -6441,12 +6441,12 @@
     "candidateId": "candidate-85",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
+      "statistics-regional-results-2022",
       "statistics-municipal-candidates-2018",
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-regional-results-2022",
       "statistics-nrsr-candidates-2006",
       "statistics-nrsr-results-2006",
       "statistics-osk-elected-2009",
@@ -6534,7 +6534,7 @@
     "candidateId": "candidate-86",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -6607,14 +6607,17 @@
     "candidateId": "candidate-87",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
+      "statistics-zsk-chair-results-2022",
       "statistics-municipal-candidates-2018",
-      "statistics-council-candidates-2022",
-      "statistics-council-votes-2022",
       "statistics-regional-candidates-2017",
       "statistics-regional-results-2017",
-      "statistics-zsk-chair-results-2022",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-council-candidates-2022",
+      "statistics-council-votes-2022",
       "statistics-osk-not-elected-2001",
       "statistics-nrsr-candidates-2002",
       "statistics-nrsr-results-2002",
@@ -6718,7 +6721,7 @@
     "candidateId": "candidate-88",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-zsk-chair-results-2017",
       "statistics-zsk-chair-results-2022",
@@ -6815,14 +6818,14 @@
     "candidateId": "candidate-89",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
+      "statistics-regional-results-2017",
+      "statistics-regional-results-2022",
       "statistics-municipal-2018-tables",
       "statistics-municipal-candidates-2018",
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
-      "statistics-regional-results-2017",
-      "statistics-regional-results-2022",
       "statistics-nrsr-candidates-2010",
       "statistics-nrsr-results-2010",
       "statistics-osk-candidates-2013",
@@ -6916,14 +6919,16 @@
     "candidateId": "candidate-90",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
+      "statistics-nrsr-preference-2023",
+      "nrsr-lucansky-substitute-2023",
       "statistics-council-candidates-2022",
       "statistics-council-votes-2022",
       "statistics-regional-candidates-2022",
       "statistics-regional-results-2022",
-      "statistics-nrsr-preference-2023",
-      "nrsr-lucansky-substitute-2023",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
       "statistics-ep-candidates-2024",
       "statistics-ep-results-2024"
     ]
@@ -7008,12 +7013,13 @@
     "candidateId": "candidate-91",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-09-18",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-regional-results-2022",
-      "statistics-nrsr-preference-2023",
-      "minv-kss-eu-candidates-2024",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
       "statistics-nrsr-candidates-2023",
+      "statistics-nrsr-preference-2023",
       "statistics-ep-candidates-2024",
       "statistics-ep-results-2024"
     ]
@@ -12638,14 +12644,31 @@
     "candidateId": "mt-marek-belak",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd",
+      "history-four-cities-2000-7769fde385f281d3",
+      "statistics-mayor-results-2014",
+      "history-four-cities-2000-5523c42315cb434d",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452",
+      "history-four-cities-2000-6cb792be18039958"
     ]
   },
   {
@@ -12719,7 +12742,7 @@
     "candidateId": "mt-renata-habrunova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -12789,7 +12812,7 @@
     "candidateId": "mt-matej-turzo",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -12861,10 +12884,20 @@
     "candidateId": "mt-matej-borik",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
-      "mt-oso2022-sk-tab08e"
+      "mt-oso2022-sk-tab08e",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-57e7b2de0da20791",
+      "history-four-cities-2000-6cb792be18039958"
     ]
   },
   {
@@ -12936,12 +12969,29 @@
     "candidateId": "mt-tatiana-cervenova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "statistics-mayor-results-2014",
+      "history-four-cities-2000-5523c42315cb434d",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -13019,12 +13069,20 @@
     "candidateId": "mt-marina-gallova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -13098,10 +13156,17 @@
     "candidateId": "mt-dusan-hasko",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
-      "mt-oso2022-sk-tab08e"
+      "mt-oso2022-sk-tab08e",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452",
+      "history-four-cities-2000-6cb792be18039958"
     ]
   },
   {
@@ -13169,12 +13234,17 @@
     "candidateId": "mt-ivan-jancko",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb"
     ]
   },
   {
@@ -13244,10 +13314,18 @@
     "candidateId": "mt-michal-kral",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
-      "mt-oso2022-sk-tab08e"
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452",
+      "history-four-cities-2000-6cb792be18039958",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -13317,7 +13395,7 @@
     "candidateId": "mt-juraj-marcek",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -13392,9 +13470,12 @@
     "id": "mt-alena-matejova-previous_elections-coverage",
     "candidateId": "mt-alena-matejova",
     "category": "previous_elections",
-    "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "status": "found",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
+    ]
   },
   {
     "id": "mt-alena-matejova-programme_statements-coverage",
@@ -13463,7 +13544,7 @@
     "candidateId": "mt-marian-polacek",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -13532,7 +13613,7 @@
     "candidateId": "mt-andrej-sobcak",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -13604,7 +13685,7 @@
     "candidateId": "mt-vladimir-zaborsky",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -13674,10 +13755,15 @@
     "candidateId": "mt-zuzana-badova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
-      "mt-oso2022-sk-tab08e"
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-eea8b31347b43bba",
+      "history-four-cities-2000-6cb792be18039958"
     ]
   },
   {
@@ -13750,12 +13836,14 @@
     "candidateId": "mt-veronika-gajdosova-ladnakova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -13826,7 +13914,7 @@
     "candidateId": "mt-robert-janu",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -13899,12 +13987,21 @@
     "candidateId": "mt-jozef-kristoffy",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f"
     ]
   },
   {
@@ -13980,10 +14077,16 @@
     "candidateId": "mt-michal-matejicka",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
-      "mt-oso2022-sk-tab08e"
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-e9a48247c423a59f",
+      "history-four-cities-2000-6cb792be18039958"
     ]
   },
   {
@@ -14056,7 +14159,7 @@
     "candidateId": "mt-marek-pacalaj",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -14128,7 +14231,7 @@
     "candidateId": "mt-martin-sutiak",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -14196,7 +14299,7 @@
     "candidateId": "mt-mario-becak",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -14269,12 +14372,25 @@
     "candidateId": "mt-martin-hudec",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-57e7b2de0da20791",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -14348,7 +14464,7 @@
     "candidateId": "mt-matej-kralik",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -14419,14 +14535,33 @@
     "candidateId": "mt-stanislav-thomka",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "history-recheck-793fc88e4d3cc931",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-57e7b2de0da20791",
+      "history-recheck-9318c97839502e72",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -14506,12 +14641,17 @@
     "candidateId": "mt-adam-zilak",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb"
     ]
   },
   {
@@ -14587,12 +14727,14 @@
     "candidateId": "mt-marcela-balosakova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -14663,10 +14805,13 @@
     "candidateId": "mt-livia-gergisakova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-smer-obcasnik-martin-2018",
-      "mt-martin-council-roster-archive-62323"
+      "mt-martin-council-roster-archive-62323",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb"
     ]
   },
   {
@@ -14737,7 +14882,7 @@
     "candidateId": "mt-branislav-hubacek",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -14805,7 +14950,7 @@
     "candidateId": "mt-viera-kmetova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -14873,7 +15018,7 @@
     "candidateId": "mt-julius-krivus",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -14943,10 +15088,15 @@
     "candidateId": "mt-peter-torok",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
-      "mt-oso2022-sk-tab08e"
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -15019,14 +15169,30 @@
     "candidateId": "mt-tomas-zanovit",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
       "statistics-regional-results-2022",
       "mt-tomas-zanovit-nr2023-ballot",
-      "statistics-nrsr-preference-2023"
+      "statistics-nrsr-preference-2023",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-1077dd23df7cccef",
+      "history-recheck-9318c97839502e72",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -15102,12 +15268,14 @@
     "candidateId": "mt-dana-cervanova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -15177,10 +15345,15 @@
     "candidateId": "mt-juraj-diabelko",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
-      "mt-oso2022-sk-tab08e"
+      "mt-oso2022-sk-tab08e",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-57e7b2de0da20791",
+      "history-four-cities-2000-6cb792be18039958",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -15254,10 +15427,24 @@
     "candidateId": "mt-miroslav-herak",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb"
     ]
   },
   {
@@ -15325,7 +15512,7 @@
     "candidateId": "mt-tomas-kalnicky",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
@@ -15400,7 +15587,7 @@
     "candidateId": "mt-roman-kubala",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d"
@@ -15478,12 +15665,14 @@
     "candidateId": "mt-lucia-omamikova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -15554,7 +15743,7 @@
     "candidateId": "mt-jan-danko",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d"
@@ -15636,7 +15825,7 @@
     "candidateId": "mt-igor-hubacek",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -15711,14 +15900,22 @@
     "candidateId": "mt-michal-uhercik",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d",
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-1077dd23df7cccef",
+      "history-four-cities-2000-6cb792be18039958",
+      "history-recheck-9318c97839502e72",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -15793,7 +15990,7 @@
     "candidateId": "mt-martina-brem-knorova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -15867,7 +16064,7 @@
     "candidateId": "mt-martin-dudik",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -15935,7 +16132,7 @@
     "candidateId": "mt-peter-grom",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -16003,7 +16200,7 @@
     "candidateId": "mt-andrej-hasta",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -16072,7 +16269,7 @@
     "candidateId": "mt-matej-jenigar",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -16140,7 +16337,7 @@
     "candidateId": "mt-zdenka-lackova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -16214,7 +16411,7 @@
     "candidateId": "mt-jaroslav-markovic",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -16284,9 +16481,16 @@
     "id": "mt-stanislav-ondrus-coverage-previous_elections",
     "candidateId": "mt-stanislav-ondrus",
     "category": "previous_elections",
-    "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "status": "found",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd",
+      "history-four-cities-2000-7769fde385f281d3"
+    ]
   },
   {
     "id": "mt-stanislav-ondrus-coverage-programme_statements",
@@ -16353,7 +16557,7 @@
     "candidateId": "mt-zdenka-racayova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -16425,12 +16629,19 @@
     "candidateId": "mt-juraj-stahl",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-84e1f6af1959c5ad",
+      "history-four-cities-2000-6cb792be18039958",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -16504,7 +16715,7 @@
     "candidateId": "mt-dana-zigova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -16577,7 +16788,7 @@
     "candidateId": "mt-jan-drahos",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
@@ -16649,7 +16860,7 @@
     "candidateId": "mt-katarina-hrinova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -16719,7 +16930,7 @@
     "candidateId": "mt-tomas-kalina",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -16789,7 +17000,7 @@
     "candidateId": "mt-martin-lepej",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -16864,9 +17075,16 @@
     "id": "mt-peter-mestan-coverage-previous_elections",
     "candidateId": "mt-peter-mestan",
     "category": "previous_elections",
-    "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "status": "found",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-57e7b2de0da20791",
+      "history-four-cities-2000-6cb792be18039958"
+    ]
   },
   {
     "id": "mt-peter-mestan-coverage-programme_statements",
@@ -16933,7 +17151,7 @@
     "candidateId": "mt-jan-richter",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -17001,7 +17219,7 @@
     "candidateId": "mt-tomas-tomka",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -17069,12 +17287,20 @@
     "candidateId": "mt-daniel-diskanec",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "history-four-cities-2000-dab9ac6f780a24a9",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-57e7b2de0da20791",
+      "history-four-cities-2000-6cb792be18039958",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -17146,12 +17372,32 @@
     "candidateId": "mt-peter-kasuba",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "history-recheck-793fc88e4d3cc931",
+      "history-four-cities-2000-d0c0c6558ff464c9",
+      "history-recheck-34f0f074f87a0b0f",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-57e7b2de0da20791",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -17220,9 +17466,22 @@
     "id": "mt-viliam-majda-coverage-previous_elections",
     "candidateId": "mt-viliam-majda",
     "category": "previous_elections",
-    "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "status": "found",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "history-recheck-793fc88e4d3cc931",
+      "history-four-cities-2000-d0c0c6558ff464c9",
+      "history-recheck-34f0f074f87a0b0f",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-four-cities-2000-83548aa42a5aef21",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-57e7b2de0da20791",
+      "history-four-cities-2000-6cb792be18039958",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
+    ]
   },
   {
     "id": "mt-viliam-majda-coverage-programme_statements",
@@ -17295,12 +17554,24 @@
     "candidateId": "mt-lubomir-vanko",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-57e7b2de0da20791",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -17372,7 +17643,7 @@
     "candidateId": "mt-daniel-babka",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -17442,12 +17713,31 @@
     "candidateId": "mt-marian-fedor",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-6c1e8ca411a6c6d4",
+      "history-four-cities-2000-6cb792be18039958",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -17517,7 +17807,7 @@
     "candidateId": "mt-filip-horansky",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -17590,10 +17880,12 @@
     "candidateId": "mt-tomas-ignacak",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
-      "mt-oso2022-sk-tab08e"
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f"
     ]
   },
   {
@@ -17661,7 +17953,7 @@
     "candidateId": "mt-ivana-kovacikova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -17729,7 +18021,7 @@
     "candidateId": "mt-martin-litv-aj",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -17798,12 +18090,17 @@
     "candidateId": "mt-dusan-zachar",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-1077dd23df7cccef",
+      "history-four-cities-2000-6cb792be18039958"
     ]
   },
   {
@@ -17871,7 +18168,7 @@
     "candidateId": "mt-peter-belica",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -17944,7 +18241,7 @@
     "candidateId": "mt-vladimir-cambor",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d",
@@ -18019,7 +18316,7 @@
     "candidateId": "mt-ivan-doskocil",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -18090,7 +18387,7 @@
     "candidateId": "mt-milos-hlavaty",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -18160,7 +18457,7 @@
     "candidateId": "mt-elena-krajcova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d",
@@ -18242,12 +18539,28 @@
     "candidateId": "mt-marcel-matovcik",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd",
+      "history-four-cities-2000-7769fde385f281d3",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -18321,7 +18634,7 @@
     "candidateId": "mt-lenka-sluchova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -18396,14 +18709,17 @@
     "candidateId": "mt-milan-ftorek",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d",
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb"
     ]
   },
   {
@@ -18490,14 +18806,25 @@
     "candidateId": "mt-jozef-petras",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d",
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd",
+      "history-four-cities-2000-7769fde385f281d3",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-1077dd23df7cccef",
+      "history-four-cities-2000-6cb792be18039958"
     ]
   },
   {
@@ -18574,9 +18901,19 @@
     "candidateId": "mt-pavol-zemko",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
-      "mt-martin-council-roster-archive-62323"
+      "mt-martin-council-roster-archive-62323",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -18647,7 +18984,7 @@
     "candidateId": "mt-jozef-ciller",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -18720,7 +19057,7 @@
     "candidateId": "mt-katarina-duchovna",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -18788,9 +19125,20 @@
     "candidateId": "mt-peter-hascik",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
-      "mt-martin-council-roster-archive-62323"
+      "mt-martin-council-roster-archive-62323",
+      "history-recheck-793fc88e4d3cc931",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-84e1f6af1959c5ad",
+      "history-four-cities-2000-6cb792be18039958",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -18858,7 +19206,7 @@
     "candidateId": "mt-pavol-hustava",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -18937,12 +19285,22 @@
     "candidateId": "mt-viliam-komora",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452",
+      "history-four-cities-2000-6cb792be18039958",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -19012,10 +19370,16 @@
     "candidateId": "mt-martin-lechan",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
-      "mt-oso2022-sk-tab08e"
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -19085,7 +19449,7 @@
     "candidateId": "mt-alzbeta-martinicka",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -19159,12 +19523,14 @@
     "candidateId": "mt-bibiana-panisova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -19234,7 +19600,7 @@
     "candidateId": "mt-juraj-slastan",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -19307,7 +19673,7 @@
     "candidateId": "mt-tomas-turcan",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -19382,12 +19748,24 @@
     "candidateId": "mt-tibor-adamko",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-e9a48247c423a59f",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -19459,7 +19837,7 @@
     "candidateId": "mt-zuzana-durkovic-zubercova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -19529,7 +19907,7 @@
     "candidateId": "mt-marek-hromadko",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -19597,7 +19975,7 @@
     "candidateId": "mt-adrian-kosa",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -19664,9 +20042,13 @@
     "id": "mt-richard-liska-previous_elections",
     "candidateId": "mt-richard-liska",
     "category": "previous_elections",
-    "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "status": "found",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-e9a48247c423a59f",
+      "history-four-cities-2000-6cb792be18039958"
+    ]
   },
   {
     "id": "mt-richard-liska-programme_statements",
@@ -19733,7 +20115,7 @@
     "candidateId": "mt-marcela-mihalikova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -19801,7 +20183,7 @@
     "candidateId": "mt-filip-subrt",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -19873,7 +20255,7 @@
     "candidateId": "mt-andrea-baceova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -19947,7 +20329,7 @@
     "candidateId": "mt-kristina-ftorekova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -20017,7 +20399,7 @@
     "candidateId": "mt-robert-kollar",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -20084,9 +20466,12 @@
     "id": "mt-stanislav-sturik-previous_elections",
     "candidateId": "mt-stanislav-sturik",
     "category": "previous_elections",
-    "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "status": "found",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
+    ]
   },
   {
     "id": "mt-stanislav-sturik-programme_statements",
@@ -20157,12 +20542,37 @@
     "candidateId": "mt-peter-vons",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-recheck-3b963f246d9836bf",
+      "history-recheck-c8618568c5cba9cd",
+      "history-four-cities-2000-7769fde385f281d3",
+      "history-four-cities-2000-dab9ac6f780a24a9",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "statistics-mayor-results-2014",
+      "history-four-cities-2000-5523c42315cb434d",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-57e7b2de0da20791",
+      "history-recheck-49db4186d12c1bef",
+      "history-four-cities-2000-e1c341af4b3ce0b6",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -20236,10 +20646,21 @@
     "candidateId": "mt-stefan-balosak",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
     ]
   },
   {
@@ -20309,7 +20730,7 @@
     "candidateId": "mt-marian-ferenc",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -20378,7 +20799,7 @@
     "candidateId": "mt-veronika-hrklova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -20446,7 +20867,7 @@
     "candidateId": "mt-peter-junas",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -20516,12 +20937,32 @@
     "candidateId": "mt-zdenko-kozak",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "history-recheck-793fc88e4d3cc931",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "statistics-mayor-results-2014",
+      "history-four-cities-2000-5523c42315cb434d",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-6c1e8ca411a6c6d4"
     ]
   },
   {
@@ -20593,10 +21034,17 @@
     "candidateId": "mt-peter-matejka",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
-      "mt-oso2022-sk-tab08e"
+      "mt-oso2022-sk-tab08e",
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb",
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-1077dd23df7cccef",
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
     ]
   },
   {
@@ -20666,7 +21114,7 @@
     "candidateId": "mt-marian-zajasensky",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e"
@@ -20737,7 +21185,7 @@
     "candidateId": "mt-vladimir-boka",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -20807,7 +21255,7 @@
     "candidateId": "mt-karol-cicmanec",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d"
@@ -20883,12 +21331,14 @@
     "candidateId": "mt-lubos-gottwald",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0bd",
       "mt-oso2022-sk-tab08e",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -20960,7 +21410,7 @@
     "candidateId": "mt-martina-jesenska",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -21028,7 +21478,7 @@
     "candidateId": "mt-pavol-kubala",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -21098,7 +21548,7 @@
     "candidateId": "mt-jan-mlynar",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d"
@@ -21176,12 +21626,17 @@
     "candidateId": "mt-branislav-zacharides",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "mt-oso2022-sk-tab0ad",
       "mt-oso2022-sk-tab05d",
       "mt-osk2022-sk-tab0b",
-      "statistics-regional-results-2022"
+      "statistics-regional-results-2022",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b"
     ]
   },
   {
@@ -31882,7 +32337,7 @@
     "candidateId": "dk-jan-briestensky",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "dk-city-candidate-roster-2022",
@@ -31968,7 +32423,7 @@
     "candidateId": "dk-katarina-brunckova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -32057,17 +32512,11 @@
     "candidateId": "dk-emilia-jurcikova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
+      "statistics-municipal-2018-tables"
     ]
   },
   {
@@ -32145,7 +32594,7 @@
     "candidateId": "dk-jan-marsinsky",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -32221,7 +32670,7 @@
     "candidateId": "dk-jan-prilepok",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-municipal-2018-tables",
       "statistics-regional-results-2022",
@@ -32309,18 +32758,8 @@
     "candidateId": "dk-pavol-adamec",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": [
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
-    ]
+    "checkedAt": "2026-10-15",
+    "sourceIds": []
   },
   {
     "id": "dk-pavol-adamec-coverage-c3-programme_statements",
@@ -32391,7 +32830,7 @@
     "candidateId": "dk-adriana-alleramova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -32460,7 +32899,7 @@
     "candidateId": "dk-stefan-belvoncik",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -32536,17 +32975,10 @@
     "candidateId": "dk-juraj-facko",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
+      "statistics-council-candidates-2022"
     ]
   },
   {
@@ -32617,7 +33049,7 @@
     "candidateId": "dk-martina-flajsova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -32687,7 +33119,7 @@
     "candidateId": "dk-peter-janotik",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
@@ -32761,18 +33193,8 @@
     "candidateId": "dk-martin-joppa",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": [
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
-    ]
+    "checkedAt": "2026-10-15",
+    "sourceIds": []
   },
   {
     "id": "dk-martin-joppa-coverage-c3-programme_statements",
@@ -32849,7 +33271,7 @@
     "candidateId": "dk-maria-kovacikova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -32919,7 +33341,7 @@
     "candidateId": "dk-jan-raclavsky",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
@@ -33004,18 +33426,8 @@
     "candidateId": "dk-martin-stanovsky-30",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": [
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
-    ]
+    "checkedAt": "2026-10-15",
+    "sourceIds": []
   },
   {
     "id": "dk-martin-stanovsky-30-coverage-c3-programme_statements",
@@ -33096,7 +33508,7 @@
     "candidateId": "dk-dagmara-sudova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -33170,7 +33582,7 @@
     "candidateId": "dk-leonard-vajdulak",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
@@ -33251,17 +33663,11 @@
     "candidateId": "dk-pavol-baca",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
+      "statistics-municipal-2018-tables"
     ]
   },
   {
@@ -33338,7 +33744,7 @@
     "candidateId": "dk-roman-benus",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -33412,7 +33818,7 @@
     "candidateId": "dk-jozef-david",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
@@ -33494,18 +33900,24 @@
     "candidateId": "dk-miroslav-drab",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
       "statistics-regional-results-2022",
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
       "dk-regional-roster2022-c3",
+      "dk-zsk-commission2022-c3",
       "dk-national-results2020-c3",
       "statistics-nrsr-preference-2023",
       "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
+      "za-a-nrsr-2023-tab06",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-elected-2014",
+      "finance-national-councillors-2026",
+      "history-recheck-9318c97839502e72"
     ]
   },
   {
@@ -33585,7 +33997,7 @@
     "candidateId": "dk-stefan-fecko",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -33656,14 +34068,16 @@
     "candidateId": "dk-juliana-gregova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
       "statistics-municipal-2018-tables",
       "statistics-nrsr-preference-2023",
       "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
+      "za-a-nrsr-2023-tab06",
+      "statistics-municipal-elected-2014",
+      "finance-national-councillors-2026"
     ]
   },
   {
@@ -33740,18 +34154,8 @@
     "candidateId": "dk-jana-gressova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": [
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
-    ]
+    "checkedAt": "2026-10-15",
+    "sourceIds": []
   },
   {
     "id": "dk-jana-gressova-coverage-c3-programme_statements",
@@ -33820,7 +34224,7 @@
     "candidateId": "dk-vladimira-grisova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "dk-city-candidate-roster-2022"
@@ -33897,15 +34301,14 @@
     "candidateId": "dk-peter-jonak",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
       "statistics-regional-results-2022",
       "dk-zsk-commission2022-c3",
       "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "dkm2-jonak-zsk-tasr-2022"
+      "dk-statistics-regional-tables-2017"
     ]
   },
   {
@@ -33981,17 +34384,17 @@
     "candidateId": "dk-matus-lakostik",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
       "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-regional-results-2022",
       "dk-national-results2020-c3",
       "statistics-nrsr-preference-2023",
       "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
+      "za-a-nrsr-2023-tab06",
+      "statistics-municipal-elected-2014",
+      "finance-national-councillors-2026"
     ]
   },
   {
@@ -34075,14 +34478,20 @@
     "candidateId": "dk-michal-lavrik",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-municipal-2018-tables",
       "dk-city-candidate-roster-2022",
       "dk-statistics-regional-tables-2017",
       "dk-city-repeated-election-results-2023",
       "dk-lavrik-city-oath-2025",
-      "statistics-council-votes-2022"
+      "statistics-council-votes-2022",
+      "history-recheck-9318c97839502e72",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b"
     ]
   },
   {
@@ -34159,9 +34568,14 @@
     "id": "dk-pavol-lorko-previous_elections-coverage",
     "candidateId": "dk-pavol-lorko",
     "category": "previous_elections",
-    "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": []
+    "status": "found",
+    "checkedAt": "2026-10-15",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
   },
   {
     "id": "dk-pavol-lorko-programme_statements-coverage",
@@ -34230,18 +34644,13 @@
     "candidateId": "dk-roman-markulcek",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
       "statistics-regional-results-2022",
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
       "dk-regional-roster2022-c3",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
+      "dk-zsk-commission2022-c3"
     ]
   },
   {
@@ -34315,7 +34724,7 @@
     "candidateId": "dk-martin-stanovsky-53",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "dk-city-candidate-roster-2022"
@@ -34400,7 +34809,7 @@
     "candidateId": "dk-peter-strezo",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-municipal-2018-tables"
     ]
@@ -34481,18 +34890,13 @@
     "candidateId": "dk-elena-sunalova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
       "statistics-regional-results-2022",
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
       "dk-regional-roster2022-c3",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
+      "dk-zsk-commission2022-c3"
     ]
   },
   {
@@ -34562,7 +34966,7 @@
     "candidateId": "dk-radoslava-bencurova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -34631,7 +35035,7 @@
     "candidateId": "dk-renata-brodnanska",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -34703,17 +35107,10 @@
     "candidateId": "dk-ondrej-bukna",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
+      "statistics-council-candidates-2022"
     ]
   },
   {
@@ -34795,9 +35192,11 @@
     "candidateId": "dk-tomas-gajdos",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
-      "dk-city-repeated-election-results-2023"
+      "dk-city-repeated-election-results-2023",
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
     ]
   },
   {
@@ -34867,7 +35266,7 @@
     "candidateId": "dk-jan-havko",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
@@ -34942,18 +35341,8 @@
     "candidateId": "dk-radoslav-kovacik",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": [
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
-    ]
+    "checkedAt": "2026-10-15",
+    "sourceIds": []
   },
   {
     "id": "dk-radoslav-kovacik-coverage-c3-programme_statements",
@@ -35024,7 +35413,7 @@
     "candidateId": "dk-matus-kubas",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -35094,7 +35483,7 @@
     "candidateId": "dk-jozef-maslan",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -35165,18 +35554,8 @@
     "candidateId": "dk-sona-mihalikova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
-    "sourceIds": [
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
-    ]
+    "checkedAt": "2026-10-15",
+    "sourceIds": []
   },
   {
     "id": "dk-sona-mihalikova-coverage-c3-programme_statements",
@@ -35248,10 +35627,14 @@
     "candidateId": "dk-peter-toman",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
-      "dk-city-candidate-roster-2022"
+      "dk-city-candidate-roster-2022",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
     ]
   },
   {
@@ -35325,7 +35708,7 @@
     "candidateId": "dk-peter-kajan",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022"
@@ -35401,17 +35784,10 @@
     "candidateId": "dk-peter-benus",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-regional-results-2022",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06"
+      "statistics-council-candidates-2022"
     ]
   },
   {
@@ -35483,12 +35859,22 @@
     "candidateId": "dk-jozef-brtos",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
       "statistics-municipal-2018-tables",
-      "dk-brtos-current-bziny-profile"
+      "dk-brtos-current-bziny-profile",
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "statistics-municipal-elected-2014",
+      "finance-national-regional-councillors-2026"
     ]
   },
   {
@@ -35558,7 +35944,7 @@
     "candidateId": "dk-tatiana-cervenova",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-council-votes-2022",
       "statistics-council-candidates-2022",
@@ -35648,18 +36034,11 @@
     "candidateId": "dk-michal-hareznik",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-regional-results-2022",
-      "statistics-municipal-2018-tables",
-      "dk-statistics-regional-tables-2017",
-      "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
       "dk-regional-roster2022-c3",
-      "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06",
+      "dk-zsk-commission2022-c3",
       "statistics-mayor-votes-2022",
       "statistics-mayor-candidates-2022"
     ]
@@ -35731,7 +36110,7 @@
     "candidateId": "dk-zuzana-katreniakova",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {
@@ -35801,12 +36180,20 @@
     "candidateId": "dk-zdenko-kuban",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-municipal-2018-tables",
       "statistics-regional-results-2022",
       "dk-zsk-commission2022-c3",
-      "dk-statistics-regional-tables-2017"
+      "dk-statistics-regional-tables-2017",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "history-four-cities-2000-83548aa42a5aef21",
+      "history-four-cities-2000-4d9727c3c7ef3cc1",
+      "history-four-cities-2000-dab9ac6f780a24a9",
+      "statistics-mayor-results-2014"
     ]
   },
   {
@@ -35891,20 +36278,27 @@
     "candidateId": "dk-matus-mnich",
     "category": "previous_elections",
     "status": "found",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": [
       "statistics-municipal-2018-tables",
       "statistics-regional-results-2022",
-      "dk-statistics-regional-tables-2017",
-      "statistics-council-votes-2022",
-      "statistics-council-candidates-2022",
       "dk-regional-roster2022-c3",
+      "dk-zsk-commission2022-c3",
+      "dk-statistics-regional-tables-2017",
       "dk-national-results2020-c3",
-      "statistics-nrsr-preference-2023",
-      "statistics-nrsr-candidates-2023",
-      "za-a-nrsr-2023-tab06",
       "statistics-mayor-votes-2022",
-      "statistics-mayor-candidates-2022"
+      "statistics-mayor-candidates-2022",
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8",
+      "history-four-cities-2000-dab9ac6f780a24a9",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b",
+      "statistics-mayor-results-2014"
     ]
   },
   {
@@ -35979,7 +36373,7 @@
     "candidateId": "dk-adam-molnar",
     "category": "previous_elections",
     "status": "searched_none",
-    "checkedAt": "2026-10-03",
+    "checkedAt": "2026-10-15",
     "sourceIds": []
   },
   {

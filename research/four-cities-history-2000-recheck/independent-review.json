@@ -1,0 +1,62 @@
+{
+  "reviewer": "Independent read-only automated reviewer, fresh context",
+  "reviewSnapshot": {
+    "acceptedJoins": 812,
+    "sourceReceipts": 261,
+    "outcomeCorrections": 29
+  },
+  "findings": [
+    {
+      "severity": "important",
+      "finding": "Martin2010 OCR extraction omitted corroborated council rows.",
+      "resolution": "Deduplicate same-page/same-vote/same-row OCR fragments; read omitted cells and ages visually. Ten omitted results accepted; age-conflicting Lacková and Panisová rows excluded. Kozák is a mayor-only nomination, not an established omitted council result.",
+      "tests": "history-four-cities-2000-recheck.test.ts: ten full literal result phrases; exclusions; RED12 failures / GREEN19 passes in targeted file."
+    },
+    {
+      "severity": "important",
+      "finding": "Török2014 and2018 age evidence passes pairwise current-age tests but has no common interval under the stated election dates.",
+      "resolution": "Withhold new2014 result because the age reference date is unresolved, documenting declaration8.10.2014/election15.11.2014. Keep consistent2010/2018/2022/current rows. Add cumulative birth-interval regression across all accepted age joins."
+    },
+    {
+      "severity": "minor",
+      "finding": "One new CSV source title had cp1250 replacement characters.",
+      "resolution": "Read the authentic original archive link labels, normalize its path backslashes for title lookup, and use the original elected-table title. No corrupted new title remains."
+    }
+  ],
+  "reviewerChecks": [
+    "All29 corrected outcomes match exact full-name/district substitute rows;2022 vote totals agree.",
+    "All261 used receipt hashes match captured originals.",
+    "Before/after values match Git baseline and current arrays.",
+    "No duplicate accepted historical identities.",
+    "Original Tomič withdrawal, Kubáň office-history bridge, Choma office bridge and2005 Kašuba elected row reviewed.",
+    "Martin2010 vote cells are distinct from party codes and substitute ranks."
+  ],
+  "coordinatorAdditionalChecks": [
+    "Diabelko2010/2014 uses age and the exact full SMER-SD party, linked to the separately age-and-municipality-verified2022 Vrútky nomination. Earlier Martin residence is recorded, not replaced with current Vrútky.",
+    "Original OCR pages are not published; Török2010 nomination page corrected to6.",
+    "Targeted review fixes passed; the complete suite then passed588/588 with real nginx and maxWorkers2."
+  ],
+  "declinedToJudge": [
+    {
+      "item": "Post-review corrections",
+      "disposition": "Coordinator applied RED→GREEN tests and full suite; no claim of a second independent review."
+    },
+    {
+      "item": "Exhaustiveness of unavailable historical archives",
+      "disposition": "Explicit limits per city and dataset; no absence inference."
+    },
+    {
+      "item": "Choma2018 exact nonwinner subtype",
+      "disposition": "Retained prior result separately disclosed; not a freshly complete outcome reconciliation."
+    },
+    {
+      "item": "Final release gates/report",
+      "disposition": "Coordinator records actual commands and exits in verification.json."
+    },
+    {
+      "item": "Human editorial/legal approval",
+      "disposition": "Automated read-only review is not a human opinion."
+    }
+  ],
+  "deferredMinorFindings": []
+}

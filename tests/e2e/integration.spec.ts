@@ -138,7 +138,7 @@ test('every page exposes snapshot and document type beside source links', async 
   for (const path of ['/', BASE, `${BASE}kandidati/`, `${BASE}porovnat/`, `${BASE}ako-volit/`, '/metodika/', '/zdroje/', `${BASE}kandidat/jan-blchac/`]) {
     await page.goto(path);
     await expect(page.locator('[data-snapshot-date]'))
-      .toContainText(path.startsWith(BASE) ? '2026-10-04' : '2026-10-15');
+      .toContainText('2026-10-15');
   }
   await expect(page.locator('[data-source-attribution]').first()).toContainText('Oficiálny dokument');
 });

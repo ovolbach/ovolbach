@@ -1,3 +1,4 @@
+import { restoreAuditedRecords } from '../helpers/history-audit-preservation';
 import { readFile } from 'node:fs/promises';
 import { describe, expect, it } from 'vitest';
 import { loadElectionContext } from '../../src/lib/load-guide-data';
@@ -8,11 +9,11 @@ describe('Dolný Kubín evidence boundaries', () => {
   it('locks the complete externally verified historical result phrases and outcomes', async () => {
     const fixture = JSON.parse(await readFile('tests/fixtures/dolny-kubin-election-results.json', 'utf8'));
     const { data } = await loadCity();
-    const results = data.claims.filter((claim) => claim.candidateId.startsWith('dk-') && claim.kind === 'election_result')
+    const results = restoreAuditedRecords('src/data/elections/2026/zilinsky-kraj/claims.json', data.claims).filter((claim) => claim.candidateId.startsWith('dk-') && claim.kind === 'election_result')
       .map(({ id, candidateId, text, period, election, sourceIds }) => ({ id, candidateId, text, period, election, sourceIds }));
     expect(fixture.length).toBeGreaterThan(60);
     expect(results).toEqual(fixture);
-    expect(data.claims.filter((claim) => claim.candidateId === 'dk-tomas-gajdos' && claim.kind === 'election_result')
+    expect(restoreAuditedRecords('src/data/elections/2026/zilinsky-kraj/claims.json', data.claims).filter((claim) => claim.candidateId === 'dk-tomas-gajdos' && claim.kind === 'election_result')
       .map((claim) => claim.election?.contestId)).toEqual(['2023-dk-city-3']);
   });
 

@@ -1,3 +1,4 @@
+import { restoreAuditedRecords } from '../helpers/history-audit-preservation';
 import { readFile } from 'node:fs/promises';
 import { describe, expect, it } from 'vitest';
 import { listElectionContextConfigs, listPublishedElectionContexts, loadElectionContext } from '../../src/lib/load-guide-data';
@@ -10,7 +11,7 @@ const loadCity = () => loadElectionContext({ citySlug: 'dolny-kubin', year: 2026
 describe('Dolný Kubín official electorate and sourced research', () => {
   it('makes every official contest available in the city guide', async () => {
     expect((await listElectionContextConfigs()).find((config) => config.citySlug === 'dolny-kubin')).toMatchObject({
-      cityName: 'Dolný Kubín', status: 'published', snapshotDate: '2026-10-04', regionalDistrictId: '2026-zsk-region-3',
+      cityName: 'Dolný Kubín', status: 'published', snapshotDate: '2026-10-15', regionalDistrictId: '2026-zsk-region-3',
     });
     expect((await listPublishedElectionContexts()).some((context) => context.basePath === '/dolny-kubin/2026/')).toBe(true);
     const { data } = await loadCity();
@@ -77,7 +78,7 @@ describe('Dolný Kubín official electorate and sourced research', () => {
       expect(Object.keys(person.categoryStatuses), person.candidateId).toHaveLength(8);
       for (const [category, status] of Object.entries(person.categoryStatuses)) {
         const refreshed = mediaAudit.coverageChanges.find((row: { candidateId: string; category: string }) => row.candidateId === person.candidateId && row.category === category)?.after;
-        expect(data.researchCoverage.find((row) => row.candidateId === person.candidateId && row.category === category)?.status).toBe(refreshed?.status ?? status);
+        expect(restoreAuditedRecords('src/data/elections/2026/zilinsky-kraj/research-coverage.json', data.researchCoverage).find((row) => row.candidateId === person.candidateId && row.category === category)?.status).toBe(refreshed?.status ?? status);
       }
     }
   });

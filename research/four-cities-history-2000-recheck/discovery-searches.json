@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-10-15",
+  "method": "Actual supplementary discovery queries; shared city queries are not claimed as496 individual person searches. The exhaustive person-by-dataset operation is documented separately in journal.json.",
+  "queries": [
+    "site.zilina.sk \"2018\" \"zápisnica\" \"volebnej komisie\" výsledku",
+    "site.poprad.sk \"2018\" \"náhradníci\" voľby",
+    "site.martin.sk \"2006\" \"voľby\" výsledky",
+    "site.dolnykubin.sk \"2014\" \"Prílepok\"",
+    "site:zilina.sk \"2018\" \"náhradníci\" \"Choma\"",
+    "site:poprad.sk \"2018\" \"Zápisnica\" \"volieb\"",
+    "\"Prešov\" \"2014\" \"Náhradníci\" voľby",
+    "\"Poprad\" \"2018\" \"volebnej komisie\" zápisnica výsledku",
+    "\"Žilina\" \"2018\" \"Choma\" \"844\""
+  ],
+  "accessLimits": [
+    "Initial guessed ministry URL ?volby-vuc returned404; correct official index ?volby_vuc reopened.",
+    "Ministry year links ?2000-1 etc are Gazette archives, not electoral result records, and are excluded from election coverage.",
+    "Prešov2002 HTML character mapping was unreadable; the signed readable156-page official chronicle PDF was reopened instead."
+  ]
+}

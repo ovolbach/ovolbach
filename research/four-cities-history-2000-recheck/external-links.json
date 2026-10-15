@@ -1,0 +1,1131 @@
+{
+  "command": "npm run check:links",
+  "exitCode": 1,
+  "checkedAt": "2026-10-15",
+  "urlsChecked": 2976,
+  "unreachableCount": 73,
+  "manualReviewCount": 51,
+  "newSourceUrlsChecked": 57,
+  "newSourceFailures": [],
+  "failures": [
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=1",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=1",
+      "sourceIds": "lm-city-declarations-2024"
+    },
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_rozvoj_podnikania__cestovneho_ruchu_a_medzinarodnej_spoluprace/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_rozvoj_podnikania__cestovneho_ruchu_a_medzinarodnej_spoluprace/",
+      "sourceIds": "lm-commission-business-tourism-2022-2026"
+    },
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie-mestskeho-zastupitelstva/komisia-kultury/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie-mestskeho-zastupitelstva/komisia-kultury/",
+      "sourceIds": "lm-commission-culture-2015-2018"
+    },
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_uzemneho_rozvoja_a_vystavby/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_uzemneho_rozvoja_a_vystavby/",
+      "sourceIds": "lm-commission-spatial-development-2022-2026"
+    },
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_bezpecnost_a_ochranu_verejneho_poriadku/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_pre_bezpecnost_a_ochranu_verejneho_poriadku/",
+      "sourceIds": "lm-commission-public-order-2022-2026"
+    },
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_dopravy_a_zivotneho_prostredia/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_dopravy_a_zivotneho_prostredia/",
+      "sourceIds": "lm-commission-transport-environment-2022-2026"
+    },
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_socialnych_veci__zdravotnictva_a_rozvoja_byvania/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_socialnych_veci__zdravotnictva_a_rozvoja_byvania/",
+      "sourceIds": "lm-commission-social-health-housing-2022-2026"
+    },
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_sportu_a_rozvoja_verejneho_zdravia/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/komisie_mestskeho_zastupitelstva_2022_-_2026/komisia_sportu_a_rozvoja_verejneho_zdravia/",
+      "sourceIds": "lm-commission-sport-public-health-2022-2026"
+    },
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=2",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2024/?stranka=2",
+      "sourceIds": "lm-declarations-2024-page-2"
+    },
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/",
+      "sourceIds": "lm-jancusova-declaration-2021"
+    },
+    {
+      "status": "500",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/?stranka=1",
+      "finalUrl": "https://www.mikulas.sk/samosprava/zastupitelstvo/oznamenie_funkcii__zamestnani__cinnosti_a_majetkovych_pomerov_verejnych_funkcionarov/zverejnovanie_oznameni/za_rok_2021/?stranka=1",
+      "sourceIds": "lm-lunicek-declaration-2021"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=5&PoslanecID=86&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=5&PoslanecID=86&sid=poslanci%2Fposlanec",
+      "sourceIds": "nrsr-belousovova-term5"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=JuriErik&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=JuriErik&sid=vnf%2Foznamenie",
+      "sourceIds": "nrsr-jurinova-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=9&PoslanecID=1199&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=9&PoslanecID=1199&sid=poslanci%2Fposlanec",
+      "sourceIds": "nrsr-lucansky-term9"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Adam.Lucansky&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Adam.Lucansky&sid=vnf%2Foznamenie",
+      "sourceIds": "nrsr-lucansky-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=557895",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=557895",
+      "sourceIds": "nrsr-lucansky-substitute-2023"
+    },
+    {
+      "status": "503",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.lubokuban.sk/robert-dubravec/",
+      "finalUrl": "https://www.lubokuban.sk/robert-dubravec/",
+      "sourceIds": "rk-kuban-dubravec-profile-2022"
+    },
+    {
+      "status": "503",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.lubokuban.sk/program/",
+      "finalUrl": "https://www.lubokuban.sk/program/",
+      "sourceIds": "rk-kuban-programme-2022"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Marian.Pales&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Marian.Pales&sid=vnf%2Foznamenie",
+      "sourceIds": "rk-pales-asset-declaration-2024"
+    },
+    {
+      "status": "503",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.lubokuban.sk/marian-pales/",
+      "finalUrl": "https://www.lubokuban.sk/marian-pales/",
+      "sourceIds": "rk-pales-campaign-statement"
+    },
+    {
+      "status": "503",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.lubokuban.sk/peter-stupak/",
+      "finalUrl": "https://www.lubokuban.sk/peter-stupak/",
+      "sourceIds": "rk-stupak-campaign-statement"
+    },
+    {
+      "status": "503",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.lubokuban.sk/ludovit-betko/",
+      "finalUrl": "https://www.lubokuban.sk/ludovit-betko/",
+      "sourceIds": "rk-kuban-betko-profile-2022"
+    },
+    {
+      "status": "404",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+      "finalUrl": "https://www.martin.sk/assets/File.ashx?id_dokumenty=109474&id_org=700031",
+      "sourceIds": "mt-city-polling-2026"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Tatiana.Cervenova&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Tatiana.Cervenova&sid=vnf/oznamenie",
+      "sourceIds": "mt-tatiana-cervenova-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=590370",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=590370",
+      "sourceIds": "mt-sp-accounts-2025"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Tomas.Zanovit&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Tomas.Zanovit&sid=vnf/oznamenie",
+      "sourceIds": "mt-tomas-zanovit-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=J%C3%A1n.Danko&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=J%C3%A1n.Danko&sid=vnf/oznamenie",
+      "sourceIds": "mt-danko-nrsr-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Marcel.Matovcik&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Marcel.Matovcik&sid=vnf/oznamenie",
+      "sourceIds": "mt-matovcik-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Branislav.Zacharides&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Branislav.Zacharides&sid=vnf%2Foznamenie",
+      "sourceIds": "mt-c3-zacharides-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=1079&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=1079&sid=poslanci%2Fposlanec",
+      "sourceIds": "mt-c3-vons-parliament8"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/default.aspx?id=140523&sid=foz%2Fdetails",
+      "finalUrl": "https://www.nrsr.sk/web/default.aspx?id=140523&sid=foz%2Fdetails",
+      "sourceIds": "za-a-brath-assistant-invoice-2026"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=8&PoslanecID=1020&sid=poslanci/poslanec",
+      "finalUrl": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=8&PoslanecID=1020&sid=poslanci/poslanec",
+      "sourceIds": "za-c-kavecka-nrsr"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=7&PoslanecID=913&sid=poslanci/poslanec",
+      "finalUrl": "https://www.nrsr.sk/web/Page.aspx?CisObdobia=7&PoslanecID=913&sid=poslanci/poslanec",
+      "sourceIds": "za-c-veresova-nrsr"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=12031&WFTID=NRRoz",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=12031&WFTID=NRRoz",
+      "sourceIds": "za-c-slysko-club-decision"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=847&sid=poslanci/poslanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=847&sid=poslanci/poslanec",
+      "sourceIds": "za-c-laurencik-nrsr"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=9&PoslanecID=1197&sid=poslanci/poslanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=9&PoslanecID=1197&sid=poslanci/poslanec",
+      "sourceIds": "za-c-slysko-nrsr"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://slysko.sk/",
+      "finalUrl": "https://slysko.sk/",
+      "sourceIds": "za-c-slysko-programme"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/zoznam_abc",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/zoznam_abc",
+      "sourceIds": "za-c-current-nrsr"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=316258&WFTID=NRDK",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=316258&WFTID=NRDK",
+      "sourceIds": "rk-alusic-nrsr-submissions-2025"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Jan.Prilepok&sid=vnf/oznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Jan.Prilepok&sid=vnf/oznamenie",
+      "sourceIds": "dk-prilepok-nrsr-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=306169&WFTID=NRDK",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?MasterID=306169&WFTID=NRDK",
+      "sourceIds": "dk-nrsr-declarations-received-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.zuspmb.sk/content/rada-skoly",
+      "finalUrl": "https://www.zuspmb.sk/content/rada-skoly",
+      "sourceIds": "dk-zus-schoolboard-c3"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=DankAnto&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=DankAnto&sid=vnf%2Foznamenie",
+      "sourceIds": "poprad-review-aa5838d590e16c33"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Patrik.Frantiska&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Patrik.Frantiska&sid=vnf%2Foznamenie",
+      "sourceIds": "poprad-review-ca6c3efcf0088c28"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?PoslanecID=1134&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?PoslanecID=1134&sid=poslanci%2Fposlanec",
+      "sourceIds": "poprad-review-primary-30"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Darina.Luscikova&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Darina.Luscikova&sid=vnf%2Foznamenie",
+      "sourceIds": "poprad-review-primary-31"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Viktor.Nemeth&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Viktor.Nemeth&sid=vnf%2Foznamenie",
+      "sourceIds": "nsk-viktor-nemeth-nrsr-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Marek.Hattas&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Marek.Hattas&sid=vnf%2Foznamenie",
+      "sourceIds": "nsk-marek-hattas-nrsr-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Marcela.Cavojova&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Marcela.Cavojova&sid=vnf%2Foznamenie",
+      "sourceIds": "nsk-marcela-cavojova-nrsr-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Branislav.Becik&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Branislav.Becik&sid=vnf%2Foznamenie",
+      "sourceIds": "nsk-branislav-becik-nrsr-declaration-2024"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.bbsk.sk/cinnost-majetok-verejnych-funkcionarov",
+      "finalUrl": "https://www.bbsk.sk/cinnost-majetok-verejnych-funkcionarov",
+      "sourceIds": "bb-bbsk-assets-index-tls-unverified"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.bbsk.sk/poslanci?page=2",
+      "finalUrl": "https://www.bbsk.sk/poslanci?page=2",
+      "sourceIds": "bb-bbsk-current-council-page2-tls-unverified"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.bbsk.sk/poslanci?page=3",
+      "finalUrl": "https://www.bbsk.sk/poslanci?page=3",
+      "sourceIds": "bb-bbsk-current-council-page3-tls-unverified"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.bbsk.sk/poslanci?page=4",
+      "finalUrl": "https://www.bbsk.sk/poslanci?page=4",
+      "sourceIds": "bb-bbsk-current-council-page4-tls-unverified"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.bbsk.sk/predseda",
+      "finalUrl": "https://www.bbsk.sk/predseda",
+      "sourceIds": "bb-bbsk-current-chair-tls-unverified"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1203&CisObdobia=9",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1203&CisObdobia=9",
+      "sourceIds": "bb-current-cellar-nrsr-profile"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1173&CisObdobia=9",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1173&CisObdobia=9",
+      "sourceIds": "bb-current-malatinec-nrsr-profile"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=7&PoslanecID=944&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=7&PoslanecID=944&sid=poslanci%2Fposlanec",
+      "sourceIds": "bb-closure-kotleba-nrsr-former"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.bbsk.sk/volby-2026",
+      "finalUrl": "https://www.bbsk.sk/volby-2026",
+      "sourceIds": "bb-regional-index-tls-unverified"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": false,
+      "url": "https://www.bbsk.sk/storage/app/media/dokumenty/volby-2026/volebn-obvody-oznamenie-s-obcami.pdf",
+      "finalUrl": "https://www.bbsk.sk/storage/app/media/dokumenty/volby-2026/volebn-obvody-oznamenie-s-obcami.pdf",
+      "sourceIds": "bb-regional-district-decision-tls-unverified"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=1083&sid=poslanci%2Fposlanec",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?CisObdobia=8&PoslanecID=1083&sid=poslanci%2Fposlanec",
+      "sourceIds": "bb-official-suja-term8"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Page.aspx?sid=poslanci/poslanec&PoslanecID=1158&CisObdobia=9",
+      "finalUrl": "https://www.nrsr.sk/web/Page.aspx?sid=poslanci/poslanec&PoslanecID=1158&CisObdobia=9",
+      "sourceIds": "bb-official-karas-alternate"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Tibor.Gaspar&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Tibor.Gaspar&sid=vnf%2Foznamenie",
+      "sourceIds": "nr-last-assets-gaspar"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Ondrej.Sedivy&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Ondrej.Sedivy&sid=vnf%2Foznamenie",
+      "sourceIds": "nr-last-assets-sedivy"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Jan.Kmet&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Jan.Kmet&sid=vnf%2Foznamenie",
+      "sourceIds": "tn-body-declarations-49b607093797cdd7"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Juraj.Hajso&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Juraj.Hajso&sid=vnf%2Foznamenie",
+      "sourceIds": "tn-body-declarations-53816dbe85abedb9"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Jozef.Hab%C3%A1nik&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Jozef.Hab%C3%A1nik&sid=vnf%2Foznamenie",
+      "sourceIds": "tn-body-declarations-da671605eaed9c4c"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Zuzana.Frajkov%C3%A1+%C4%8Eurmekov%C3%A1&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Zuzana.Frajkov%C3%A1+%C4%8Eurmekov%C3%A1&sid=vnf%2Foznamenie",
+      "sourceIds": "tn-body-declarations-f574d6c2cfb2bb17"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Default.aspx?UserId=Jaroslav.Mego&sid=vnf%2Foznamenie",
+      "finalUrl": "https://www.nrsr.sk/web/Default.aspx?UserId=Jaroslav.Mego&sid=vnf%2Foznamenie",
+      "sourceIds": "tn-body-declarations-f0ab4450af12750d"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/default.aspx?id=144021&sid=foz%2Fdetails",
+      "finalUrl": "https://www.nrsr.sk/web/default.aspx?id=144021&sid=foz%2Fdetails",
+      "sourceIds": "bb-employment-institution-tobias-longauer"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=537701",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=537701",
+      "sourceIds": "bb-event-kotleba-nrsr-annual2022"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=585833",
+      "finalUrl": "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=585833",
+      "sourceIds": "recheck-events-stage-5025f20a5351e980"
+    },
+    {
+      "status": "transport error",
+      "reachable": false,
+      "manualReview": false,
+      "timedOut": true,
+      "url": "https://www.nrsr.sk/web/Page.aspx?sid=schodze/hlasovanie/hlasklub&ID=57615",
+      "finalUrl": "https://www.nrsr.sk/web/Page.aspx?sid=schodze/hlasovanie/hlasklub&ID=57615",
+      "sourceIds": "recheck-events-gaspar-motion1208-program-result"
+    }
+  ],
+  "manualReview": [
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/blog/5566516/suboj-o-liptovsky-mikulas/",
+      "finalUrl": "https://dennikn.sk/blog/5566516/suboj-o-liptovsky-mikulas/",
+      "sourceIds": "droppa-mayor-interview-2026"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://snn.sk/marek-nemec-snazim-sa-sustredit-na-svoju-pracu-nie-na-chyby-inych/",
+      "finalUrl": "https://snn.sk/marek-nemec-snazim-sa-sustredit-na-svoju-pracu-nie-na-chyby-inych/",
+      "sourceIds": "snn-nemec-interview-2026"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://e.dennikn.sk/513541/choma-uz-nechcel-mercedes-po-slotovi-kupil-audi-a-potom-zmluvu-zrusil/",
+      "finalUrl": "https://e.dennikn.sk/513541/choma-uz-nechcel-mercedes-po-slotovi-kupil-audi-a-potom-zmluvu-zrusil/",
+      "sourceIds": "dennike-choma-audi-first-2016"
+    },
+    {
+      "status": "429",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://zenskyweb.sk/anna-belousovova-o-tragedii-v-staskove-politickej-krize-aj-buducnosti-zilinskeho-kraja/",
+      "finalUrl": "https://zenskyweb.sk/anna-belousovova-o-tragedii-v-staskove-politickej-krize-aj-buducnosti-zilinskeho-kraja/",
+      "sourceIds": "zenskyweb-belousovova-interview-2026-09-30"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.drmax.sk/lekarne/turany-komenskeho-1120",
+      "finalUrl": "https://www.drmax.sk/lekarne/turany-komenskeho-1120",
+      "sourceIds": "mt-lucia-omamikova-pharmacy"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://my.sme.sk/turiec/c/o-primatorsku-stolicku-v-martine-chce-zabojovat-aj-zena-pole-uchadzacov-sa-rozsiruje",
+      "finalUrl": "https://my.sme.sk/turiec/c/o-primatorsku-stolicku-v-martine-chce-zabojovat-aj-zena-pole-uchadzacov-sa-rozsiruje",
+      "sourceIds": "mt-c3-petras-campaign-sme"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://snn.sk/viliam-komora-narodnostna-nevrazivost-ohrozuje-rodinne-spolunazivanie/",
+      "finalUrl": "https://snn.sk/viliam-komora-narodnostna-nevrazivost-ohrozuje-rodinne-spolunazivanie/",
+      "sourceIds": "mt-c3-komora-interview-snn"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/1274149/kandidat-na-primatora-sa-tesil-z-vitazstva-kotlebu-a-klamal-o-tom-remisova-stiahla-podporne-video/",
+      "finalUrl": "https://dennikn.sk/1274149/kandidat-na-primatora-sa-tesil-z-vitazstva-kotlebu-a-klamal-o-tom-remisova-stiahla-podporne-video/",
+      "sourceIds": "mt-c3-vons-status-dennikn"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://myturiec.sme.sk/c/22451804/personalne-rosady-v-smere-sa-dotkli-aj-turca.html",
+      "finalUrl": "https://myturiec.sme.sk/c/22451804/personalne-rosady-v-smere-sa-dotkli-aj-turca.html",
+      "sourceIds": "mt-c3-panisova-sme"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/982684/veril-hoaxom-ked-na-moje-nazory-agresivne-utocili-sebej-ci-havran-len-som-sa-v-nich-utvrdzoval/",
+      "finalUrl": "https://dennikn.sk/982684/veril-hoaxom-ked-na-moje-nazory-agresivne-utocili-sebej-ci-havran-len-som-sa-v-nich-utvrdzoval/",
+      "sourceIds": "mt-c3-ftorek-interview-dennikn"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.mzv.sk/web/en/slovakia/blog/the-slovak-film-set-maker-that-hollywood-productions-choose",
+      "finalUrl": "https://www.mzv.sk/web/en/slovakia/blog/the-slovak-film-set-maker-that-hollywood-productions-choose",
+      "sourceIds": "za-c-mico-film-sets"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://my.sme.sk/zilina/c/johanes-uz-nie-je-primarom-v-ziline-do-prace-prisiel-opity",
+      "finalUrl": "https://my.sme.sk/zilina/c/johanes-uz-nie-je-primarom-v-ziline-do-prace-prisiel-opity",
+      "sourceIds": "za-media-root-johanes-sme-2013"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://my.sme.sk/zilina/c/na-slovensku-sa-v-gastronomii-siri-novy-fenomen-lekarom-sa-to-nepaci",
+      "finalUrl": "https://my.sme.sk/zilina/c/na-slovensku-sa-v-gastronomii-siri-novy-fenomen-lekarom-sa-to-nepaci",
+      "sourceIds": "za-media-c-striezenec-gastronomy-2026"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://my.sme.sk/orava/c/jan-marsinsky-prioritou-je-parkovacia-politika-a-nastartovanie-bytovej-vystavby",
+      "finalUrl": "https://my.sme.sk/orava/c/jan-marsinsky-prioritou-je-parkovacia-politika-a-nastartovanie-bytovej-vystavby",
+      "sourceIds": "dk-marsinsky-programme-political-advert-2026"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/3779924/organizator-obcianskych-protestov-bukna-clovek-sa-nesmie-nechat-porazit-frustraciou/",
+      "finalUrl": "https://dennikn.sk/3779924/organizator-obcianskych-protestov-bukna-clovek-sa-nesmie-nechat-porazit-frustraciou/",
+      "sourceIds": "dk-bukna-dennikn-c3"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://my.sme.sk/orava/c/hovori-sa-o-tichej-dohode-kandidatov-kto-ma-zaujem-viest-najvacsie-mesto-v-regione",
+      "finalUrl": "https://my.sme.sk/orava/c/hovori-sa-o-tichej-dohode-kandidatov-kto-ma-zaujem-viest-najvacsie-mesto-v-regione",
+      "sourceIds": "dk-jurcikova-my2026-c3"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/autor/drabm/",
+      "finalUrl": "https://dennikn.sk/autor/drabm/",
+      "sourceIds": "dk-drab-own-blog-c3"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://my.sme.sk/orava/c/cervenovci-idu-do-volieb-v-malatinej-spolocne-ak-starostku-odsudia-obec-moze-viest-jej-manzel",
+      "finalUrl": "https://my.sme.sk/orava/c/cervenovci-idu-do-volieb-v-malatinej-spolocne-ak-starostku-odsudia-obec-moze-viest-jej-manzel",
+      "sourceIds": "dkm1-cervenova-traffic-september-2026"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/4211943/nove-ozvucenie-nevideli-hotovu-stavbu-nemozu-vyuzivat-kde-skoncili-milionove-vladne-dotacie-pre-vodny-slalom-v-liptovskom-mikulasi/",
+      "finalUrl": "https://dennikn.sk/4211943/nove-ozvucenie-nevideli-hotovu-stavbu-nemozu-vyuzivat-kde-skoncili-milionove-vladne-dotacie-pre-vodny-slalom-v-liptovskom-mikulasi/",
+      "sourceIds": "dkm1-stanovsky-investments-followup-20240927"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/4178280/zena-na-ulici-mi-povedala-ze-ma-zvaz-nechce-na-olympiade-vravi-kajakar-grigar-o-co-ide-v-spore-medzi-vedenim-zvazu-a-sportovcami/",
+      "finalUrl": "https://dennikn.sk/4178280/zena-na-ulici-mi-povedala-ze-ma-zvaz-nechce-na-olympiade-vravi-kajakar-grigar-o-co-ide-v-spore-medzi-vedenim-zvazu-a-sportovcami/",
+      "sourceIds": "dkm2-younger-stanovsky-dennikn-20240910"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/4191707/treneri-odhaluju-chobotnicu-podavaju-zaloby-a-boja-sa-ze-cunovo-ovladne-jedna-rodina-zvaz-tvrdi-ze-je-vsetko-v-poriadku/",
+      "finalUrl": "https://dennikn.sk/4191707/treneri-odhaluju-chobotnicu-podavaju-zaloby-a-boja-sa-ze-cunovo-ovladne-jedna-rodina-zvaz-tvrdi-ze-je-vsetko-v-poriadku/",
+      "sourceIds": "dkm2-younger-stanovsky-dennikn-20240913"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/4333301/slovensku-kanoistiku-cakaju-volby-na-ktore-vsetci-cakali-a-takmer-nikto-o-nich-nevie-vedenie-spravilo-len-bizarnu-tlacovku-a-vinia-ho-z-obstrukcii/",
+      "finalUrl": "https://dennikn.sk/4333301/slovensku-kanoistiku-cakaju-volby-na-ktore-vsetci-cakali-a-takmer-nikto-o-nich-nevie-vedenie-spravilo-len-bizarnu-tlacovku-a-vinia-ho-z-obstrukcii/",
+      "sourceIds": "dkm2-younger-stanovsky-dennikn-20241129"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.topky.sk/cl/10/779326/Belousovej-facku-presetri-parlamentny-vybor",
+      "finalUrl": "https://www.topky.sk/cl/10/779326/Belousovej-facku-presetri-parlamentny-vybor",
+      "sourceIds": "dkm0-belousovova-disciplinary-motion-2010"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/5554923/zupanka-jurinova-vyzera-to-akoby-nas-vszp-chcela-vyhladovat-aby-sme-nemocnice-odovzdali-sukromnikom/",
+      "finalUrl": "https://dennikn.sk/5554923/zupanka-jurinova-vyzera-to-akoby-nas-vszp-chcela-vyhladovat-aby-sme-nemocnice-odovzdali-sukromnikom/",
+      "sourceIds": "dkm0-jurinova-interview-september11-2026"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/4717868/riaditel-letiska-sa-chvali-ze-colnici-nezistili-cierny-predaj-alkoholu-na-kontrolu-prisli-ked-uz-tyzden-vedel-o-zisteniach-dennika-n/",
+      "finalUrl": "https://dennikn.sk/4717868/riaditel-letiska-sa-chvali-ze-colnici-nezistili-cierny-predaj-alkoholu-na-kontrolu-prisli-ked-uz-tyzden-vedel-o-zisteniach-dennika-n/",
+      "sourceIds": "poprad-review-dennikn-4717868"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.hagyari.sk/program",
+      "finalUrl": "https://www.hagyari.sk/program",
+      "sourceIds": "presov-review-web-hagyari-program-2026-10-14"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://blog.sme.sk/martinestocak/spolocnost/plan-pre-fungujuci-presov-srdcom-pre-kazdu-generaciu-martin-estocak-a-tim-nezavislych-2026",
+      "finalUrl": "https://blog.sme.sk/martinestocak/spolocnost/plan-pre-fungujuci-presov-srdcom-pre-kazdu-generaciu-martin-estocak-a-tim-nezavislych-2026",
+      "sourceIds": "presov-review-web-estocak-blog-program-2026-10-14"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.hagyari.sk/kandidati/daniel-skurka",
+      "finalUrl": "https://www.hagyari.sk/kandidati/daniel-skurka",
+      "sourceIds": "presov-review-web-hagyari-daniel-skurka-2026-10-14"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.hagyari.sk/kandidati/martina-rohrbock",
+      "finalUrl": "https://www.hagyari.sk/kandidati/martina-rohrbock",
+      "sourceIds": "presov-review-web-hagyari-martina-rohrbock-2026-10-14"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.hagyari.sk/kandidati/lubos-petra",
+      "finalUrl": "https://www.hagyari.sk/kandidati/lubos-petra",
+      "sourceIds": "presov-review-web-hagyari-lubos-petra-2026-10-14"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.hagyari.sk/kandidati/katarina-krizickova",
+      "finalUrl": "https://www.hagyari.sk/kandidati/katarina-krizickova",
+      "sourceIds": "presov-review-web-hagyari-katarina-krizickova-2026-10-14"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.hagyari.sk/kandidati/lenka-magdoskova-dzurickova",
+      "finalUrl": "https://www.hagyari.sk/kandidati/lenka-magdoskova-dzurickova",
+      "sourceIds": "presov-review-web-hagyari-lenka-magdoskova-dzurickova-2026-10-14"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.hagyari.sk/kandidati/patrik-kalafut",
+      "finalUrl": "https://www.hagyari.sk/kandidati/patrik-kalafut",
+      "sourceIds": "presov-review-web-hagyari-patrik-kalafut-2026-10-14"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.hagyari.sk/",
+      "finalUrl": "https://www.hagyari.sk/",
+      "sourceIds": "psk-finance-web-hagyari-home"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/4702907/popradske-letisko-pod-vedenim-dankovho-cloveka-nacierno-predava-alkohol-video/",
+      "finalUrl": "https://dennikn.sk/4702907/popradske-letisko-pod-vedenim-dankovho-cloveka-nacierno-predava-alkohol-video/",
+      "sourceIds": "events-a-frantiska-origin-2025"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/5527683/mesto-poprad-vyuctovalo-opozicnemu-poslancovi-4997-eur-za-navrh-ktory-schvalili-vsetci-poslanci/",
+      "finalUrl": "https://dennikn.sk/5527683/mesto-poprad-vyuctovalo-opozicnemu-poslancovi-4997-eur-za-navrh-ktory-schvalili-vsetci-poslanci/",
+      "sourceIds": "events-a-baloga-fee-followup"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/4173973/michel-a-sestak-zaplatili-pokuty-za-vyhrazky-manazerovi-integrity-aj-ked-ich-popieraju-ako-sa-uzavrela-kauza-ktora-mala-ohlas-v-zahranici/",
+      "finalUrl": "https://dennikn.sk/4173973/michel-a-sestak-zaplatili-pokuty-za-vyhrazky-manazerovi-integrity-aj-ked-ich-popieraju-ako-sa-uzavrela-kauza-ktora-mala-ohlas-v-zahranici/",
+      "sourceIds": "recheck-michel-sestak-paid-dennikn"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/3566809/kandidat-kdh-robert-dohal-hrozil-odrezavanim-hlav-po-otazkach-ho-stiahli-z-kandidatky/",
+      "finalUrl": "https://dennikn.sk/3566809/kandidat-kdh-robert-dohal-hrozil-odrezavanim-hlav-po-otazkach-ho-stiahli-z-kandidatky/",
+      "sourceIds": "tt-lead-c8774901a38f9426-2026"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://dennikn.sk/2102834/sef-zvazu-nepocujucich-cehlarik-o-kritike-konkurenti-taketo-vysledky-nemaju-nedari-sa-im-a-tak-sa-ma-chcu-zbavit/",
+      "finalUrl": "https://dennikn.sk/2102834/sef-zvazu-nepocujucich-cehlarik-o-kritike-konkurenti-taketo-vysledky-nemaju-nedari-sa-im-a-tak-sa-ma-chcu-zbavit/",
+      "sourceIds": "tt-lead-4a1fe35abf3642bd-2026"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.sme.sk/domov/c/poslanec-za-smer-menil-okna-v-ilavskej-vaznici-odmieta-ze-by-vyuzil-politicke-kontakty",
+      "finalUrl": "https://www.sme.sk/domov/c/poslanec-za-smer-menil-okna-v-ilavskej-vaznici-odmieta-ze-by-vyuzil-politicke-kontakty",
+      "sourceIds": "tn-reader-mego"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219",
+      "sourceIds": "progresivne-slovensko, nr-party-progresivne-slovensko, psk-party-progresivne-slovensko, tn-party-progresivne-slovensko, ttsk-party-progresivne-slovensko-2026, progresivne-slovensko"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5511000000002974103031",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5511000000002974103031",
+      "sourceIds": "finance-psk-samuel-migal"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002978098057",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002978098057",
+      "sourceIds": "finance-psk-ingrida-gorcovska"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6311000000002942304832",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6311000000002942304832",
+      "sourceIds": "psk-party-volt-slovensko, volt-slovensko"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1311000000002971142668",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1311000000002971142668",
+      "sourceIds": "tsk-michal-bratranec-finance-2026"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6511000000002975088953",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6511000000002975088953",
+      "sourceIds": "ttsk-jozef-viskupic-finance-2026"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6211000000002975097737",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6211000000002975097737",
+      "sourceIds": "finance-candidate-89"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7911000000002976122236",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7911000000002976122236",
+      "sourceIds": "finance-mt-milan-ftorek"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7211000000002975126366",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7211000000002975126366",
+      "sourceIds": "finance-mt-igor-hubacek"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679",
+      "sourceIds": "finance-za-miroslav-sokol"
+    },
+    {
+      "status": "403",
+      "reachable": true,
+      "manualReview": true,
+      "timedOut": false,
+      "url": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5611000000002979115779",
+      "finalUrl": "https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5611000000002979115779",
+      "sourceIds": "finance-dk-katarina-brunckova"
+    }
+  ],
+  "boundary": "Global failure retained. No reachability rules were weakened and no unrelated historical source records were rewritten. Earlier original-read SHA256 receipts establish the documented research access, separately from this later range-request gate."
+}

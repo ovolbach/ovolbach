@@ -32,7 +32,7 @@ describe('one regional profile per chair candidate', () => {
     expect(region.data.candidates).toHaveLength(7);
     expect(region.data.candidacies).toHaveLength(10);
     expect(region.data.researchCoverage).toHaveLength(56);
-    expect(region.snapshotDate).toBe('2026-10-04');
+    expect(region.snapshotDate).toBe('2026-10-15');
     expect(region.citySlugs).toEqual(['dolny-kubin', 'liptovsky-mikulas', 'martin', 'ruzomberok', 'zilina']);
     expect(validateDataset(region.data, 'release')).toEqual([]);
     expect(getOfficialCandidacies(region.data, 'candidate-89').map((row) => row.election))
@@ -52,8 +52,8 @@ describe('one regional profile per chair candidate', () => {
     expect(published.citySlugs).not.toContain('zilina');
     expect(() => assembleRegionalContext([])).toThrow();
     expect(() => assembleRegionalContext([cities[0]!, { ...cities[1]!, year: 2030 }])).toThrow();
-    expect(assembleRegionalContext(cities.map((city, index) => index === 0 ? { ...city, snapshotDate: '2026-10-05' } : city)).snapshotDate)
-      .toBe('2026-10-05');
+    expect(assembleRegionalContext(cities.map((city, index) => index === 0 ? { ...city, snapshotDate: '2026-10-16' } : city)).snapshotDate)
+      .toBe('2026-10-16');
   });
 
   it('rejects contradictory shared identities and finance verified after the snapshot', () => {
@@ -64,7 +64,7 @@ describe('one regional profile per chair candidate', () => {
     expect(() => assembleRegionalContext(contradictory)).toThrow('Conflicting candidates record: candidate-85');
     const futureFinance = cities.map((city) => ({
       ...city, data: { ...city.data, campaignFinance: city.data.campaignFinance.map((record) => record.candidateId === 'candidate-85'
-        ? { ...record, checkedAt: '2026-10-05' } : record) },
+        ? { ...record, checkedAt: '2026-10-16' } : record) },
     }));
     expect(() => assembleRegionalContext(futureFinance)).toThrow('Finance verification exceeds snapshot');
   });

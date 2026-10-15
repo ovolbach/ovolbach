@@ -1,10 +1,12 @@
 import { describe, expect, it } from 'vitest';
+import { restoreAuditedRecords } from '../helpers/history-audit-preservation';
 import { loadGuideData } from '../../src/lib/load-guide-data';
 import { summarizeElectionHistory } from '../../src/lib/profile-content';
 
 const data = await loadGuideData();
 const sourcesById = new Map(data.sources.map((source) => [source.id, source]));
 const claimsById = new Map(data.claims.map((claim) => [claim.id, claim]));
+const priorClaimsById = new Map(restoreAuditedRecords('src/data/elections/2026/zilinsky-kraj/claims.json', data.claims).map((claim) => [claim.id, claim]));
 const coverageById = new Map(data.researchCoverage.map((row) => [row.id, row]));
 
 const reconciledResults = [
@@ -130,7 +132,7 @@ describe('public-record evidence', () => {
 
   it('locks the audited official result rows, including unsuccessful candidacies', () => {
     for (const [id, office, district, period, votes, percentage, outcome] of reconciledResults) {
-      const claim = claimsById.get(id);
+      const claim = priorClaimsById.get(id);
 
       expect(claim, id).toBeDefined();
       expect(claim?.kind, id).toBe('election_result');

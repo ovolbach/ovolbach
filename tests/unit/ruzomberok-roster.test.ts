@@ -11,7 +11,7 @@ const loadCity = () => loadElectionContext({ citySlug: 'ruzomberok', year: 2026 
 describe('Ružomberok official 2026 roster', () => {
   it('registers the city with its own municipal contests and regional district 8', async () => {
     expect((await listElectionContextConfigs()).find((city) => city.citySlug === 'ruzomberok')).toMatchObject({
-      cityName: 'Ružomberok', year: 2026, snapshotDate: '2026-10-04',
+      cityName: 'Ružomberok', year: 2026, snapshotDate: '2026-10-15',
       regionalDistrictId: '2026-zsk-region-8',
       contestIds: { mayor: '2026-rk-mayor', 'city-council': '2026-rk-city-council' },
     });

@@ -1,3 +1,4 @@
+import { restoreAuditedRecords } from '../helpers/history-audit-preservation';
 import { readFile } from 'node:fs/promises';
 import { preservesApprovedRecord } from '../helpers/approved-record-preservation';
 import { describe, expect, it } from 'vitest';
@@ -31,7 +32,7 @@ describe('Martin official 2026 electorate and research', () => {
   it('publishes all four contests from the official 2026 city and regional lists', async () => {
     const configs = await listElectionContextConfigs();
     expect(configs.find((config) => config.citySlug === 'martin')).toMatchObject({
-      cityName: 'Martin', status: 'published', snapshotDate: '2026-10-04', regionalDistrictId: '2026-zsk-region-6',
+      cityName: 'Martin', status: 'published', snapshotDate: '2026-10-15', regionalDistrictId: '2026-zsk-region-6',
     });
     expect((await listPublishedElectionContexts()).some((context) => context.basePath === '/martin/2026/')).toBe(true);
     const { data } = await loadCity();
@@ -93,7 +94,7 @@ describe('Martin official 2026 electorate and research', () => {
       for (const [category, status] of Object.entries(receipt.categoryStatuses)) {
         const change = changes.find((row) => row.before.candidateId === receipt.candidateId && row.before.category === category);
         if (change) expect(change.before.status).toBe(status);
-        expect(data.researchCoverage.find((row) => row.candidateId === receipt.candidateId && row.category === category)?.status)
+        expect(restoreAuditedRecords('src/data/elections/2026/zilinsky-kraj/research-coverage.json', data.researchCoverage).find((row) => row.candidateId === receipt.candidateId && row.category === category)?.status)
           .toBe(change?.after.status ?? status);
       }
     }

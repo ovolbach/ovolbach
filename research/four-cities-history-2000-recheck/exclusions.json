@@ -1,0 +1,5161 @@
+[
+  {
+    "candidateId": "psk-peter-sulik",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Šulík",
+      "age": 32,
+      "municipality": "Važec",
+      "locality": "Važec",
+      "localityCode": "511129",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 319,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 16262,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 16191,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-sulik",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Šulik",
+      "age": 56,
+      "municipality": "Hôrka",
+      "locality": "Hôrka",
+      "localityCode": "523488",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 98,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29518,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29423,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-ulicny",
+    "record": {
+      "datasetId": "2013-regional_council",
+      "date": "2013-11-09",
+      "office": "regional_council",
+      "name": "Peter Uličný",
+      "age": 43,
+      "municipality": "Prešov",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "7",
+      "outcome": "not_elected",
+      "votes": 717,
+      "candidateKey": "osk2013-PO-poslanec",
+      "candidateRow": {
+        "page": 23,
+        "ballot": 96,
+        "district": "7"
+      },
+      "resultKey": "open-osk-2013-1.kolo-OSK_2013_1kolo_tab08",
+      "resultRow": 2001,
+      "statusKeys": [
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab04",
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab09"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "presov-review-original-e6a87d741d0898a8",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
+    ]
+  },
+  {
+    "candidateId": "psk-martin-dolinsky",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Martin Dolinský",
+      "age": 40,
+      "municipality": "Dolné Kočkovce",
+      "locality": "Dolné Kočkovce",
+      "localityCode": "557439",
+      "district": null,
+      "outcome": "elected",
+      "votes": 361,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 1121,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 1121,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-lukac",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Peter Lukáč",
+      "age": 45,
+      "municipality": "Komárno",
+      "locality": "Nitriansky kraj",
+      "localityCode": "4",
+      "district": "401",
+      "outcome": "substitute",
+      "votes": 2038,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 941,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 943,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Lukáč",
+      "age": 45,
+      "municipality": "Komárno",
+      "locality": "Komárno",
+      "localityCode": "501026",
+      "district": "3",
+      "outcome": "substitute",
+      "votes": 507,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 10038,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 10013,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Lukáč",
+      "age": 51,
+      "municipality": "Hronské Kosihy",
+      "locality": "Hronské Kosihy",
+      "localityCode": "502341",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 98,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 10636,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 10607,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Lukáč",
+      "age": 45,
+      "municipality": "Skýcov",
+      "locality": "Skýcov",
+      "localityCode": "500721",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 93,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 12621,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 12581,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Lukáč",
+      "age": 61,
+      "municipality": "Vysoké Tatry",
+      "locality": "Vysoké Tatry",
+      "localityCode": "560103",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 31,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29986,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29887,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Lukáč",
+      "age": 46,
+      "municipality": "Chminianske Jakubovany",
+      "locality": "Chminianske Jakubovany",
+      "localityCode": "524531",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 68,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 30434,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 30333,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Lukáč",
+      "age": 45,
+      "municipality": "Pozdišovce",
+      "locality": "Pozdišovce",
+      "localityCode": "522961",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 366,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 37661,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 37523,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Lukáč",
+      "age": 42,
+      "municipality": "Gelnica",
+      "locality": "Gelnica",
+      "localityCode": "526509",
+      "district": "5",
+      "outcome": "elected",
+      "votes": 262,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 39459,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 39317,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-robert-stasko",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Róbert Staško",
+      "age": 73,
+      "municipality": "Prešov",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "707",
+      "outcome": "substitute",
+      "votes": 665,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 2431,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 2433,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "psk-robert-stasko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Róbert Staško",
+      "age": 73,
+      "municipality": "Prešov",
+      "locality": "Prešov",
+      "localityCode": "524140",
+      "district": "6",
+      "outcome": "substitute",
+      "votes": 103,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 30955,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 30851,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-kurilla",
+    "record": {
+      "datasetId": "2005-regional_council",
+      "date": "2005-11-26",
+      "office": "regional_council",
+      "name": "Jozef Kurilla",
+      "age": 47,
+      "municipality": "Vikartovce",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "6",
+      "outcome": "not_elected",
+      "votes": 588,
+      "candidateKey": "osk2005-roster-706",
+      "candidateRow": {
+        "ballot": 23,
+        "district": "6"
+      },
+      "resultKey": "open-osk-2005-1.kolo-OSK_2005_1kolo_tab07",
+      "resultRow": 1730,
+      "statusKeys": [
+        "open-osk-2005-1.kolo-OSK_2005_1kolo_tab08"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-16fab7b8d64b3055",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a"
+    ]
+  },
+  {
+    "candidateId": "psk-matej-pavlik",
+    "record": {
+      "datasetId": "2023-03-25-supplementary-municipal_council",
+      "date": "2023-03-25",
+      "office": "municipal_council",
+      "name": "Matej Pavlík",
+      "age": 33,
+      "municipality": "Pastuchov",
+      "locality": "Pastuchov",
+      "localityCode": "507415",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 52,
+      "candidateKey": "additional-OSO202303",
+      "candidateRow": 29,
+      "resultKey": "additional-OSO202303",
+      "resultRow": 28,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-d5c04350538e2127"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-varga",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Jozef Varga",
+      "age": 59,
+      "municipality": "Chrastince",
+      "locality": "Chrastince",
+      "localityCode": "516058",
+      "district": null,
+      "outcome": "elected",
+      "votes": 47,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 3780,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 3775,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Varga",
+      "age": 59,
+      "municipality": "Domadice",
+      "locality": "Domadice",
+      "localityCode": "502201",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 57,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 10481,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 10447,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Varga",
+      "age": 66,
+      "municipality": "Donovaly",
+      "locality": "Donovaly",
+      "localityCode": "508560",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 89,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 19887,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 19805,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Varga",
+      "age": 55,
+      "municipality": "Poprad",
+      "locality": "Poprad",
+      "localityCode": "523381",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 278,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29684,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29585,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Varga",
+      "age": 46,
+      "municipality": "Proč",
+      "locality": "Proč",
+      "localityCode": "525057",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 76,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 31006,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 30898,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Varga",
+      "age": 44,
+      "municipality": "Hanušovce nad Topľou",
+      "locality": "Hanušovce nad Topľou",
+      "localityCode": "544213",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 457,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 33953,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 33805,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Varga",
+      "age": 52,
+      "municipality": "Malá Ida",
+      "locality": "Malá Ida",
+      "localityCode": "521655",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 239,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 35952,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 35821,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Varga",
+      "age": 38,
+      "municipality": "Sokoľany",
+      "locality": "Sokoľany",
+      "localityCode": "559865",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 81,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 36470,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 36346,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Varga",
+      "age": 35,
+      "municipality": "Krásnovce",
+      "locality": "Krásnovce",
+      "localityCode": "522651",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 158,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 37121,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 36988,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Varga",
+      "age": 44,
+      "municipality": "Sečovce",
+      "locality": "Sečovce",
+      "localityCode": "528722",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 388,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 41158,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 40980,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-martin-kovalcik",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Martin Kovalčík",
+      "age": 38,
+      "municipality": "Kláštor pod Znievom",
+      "locality": "Kláštor pod Znievom",
+      "localityCode": "512354",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 141,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 16452,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 16392,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-martin-kovalcik",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Martin Kovalčík",
+      "age": 42,
+      "municipality": "Novoť",
+      "locality": "Novoť",
+      "localityCode": "509884",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 277,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 17345,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 17291,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-martin-kovalcik",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Martin Kovalčík",
+      "age": 46,
+      "municipality": "Beňuš",
+      "locality": "Beňuš",
+      "localityCode": "508462",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 275,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 20281,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 20208,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-michaela-molnarova",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Michaela Molnárová",
+      "age": 35,
+      "municipality": "Slovenské Kľačany",
+      "locality": "Slovenské Kľačany",
+      "localityCode": "516392",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 30,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 23899,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 23815,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-miroslav-novak",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Miroslav Novák",
+      "age": 47,
+      "municipality": "Koválovec",
+      "locality": "Koválovec",
+      "localityCode": "504483",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 49,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 4573,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 4561,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-miroslav-novak",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Miroslav Novák",
+      "age": 52,
+      "municipality": "Podhájska",
+      "locality": "Podhájska",
+      "localityCode": "503479",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 239,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 13513,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 13450,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-marek-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Marek Varga",
+      "age": 48,
+      "municipality": "Krnča",
+      "locality": "Krnča",
+      "localityCode": "543101",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 100,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 14290,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 14248,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-marek-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Marek Varga",
+      "age": 43,
+      "municipality": "Mašková",
+      "locality": "Mašková",
+      "localityCode": "511609",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 48,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 21105,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 21025,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-marek-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Marek Varga",
+      "age": 45,
+      "municipality": "Košické Oľšany",
+      "locality": "Košické Oľšany",
+      "localityCode": "521591",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 216,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 35893,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 35757,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-marek-varga",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Marek Varga",
+      "age": 47,
+      "municipality": "Tušická Nová Ves",
+      "locality": "Tušická Nová Ves",
+      "localityCode": "523216",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 131,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 37913,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 37762,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-vladimir-felbaba",
+    "record": {
+      "datasetId": "2013-regional_council",
+      "date": "2013-11-09",
+      "office": "regional_council",
+      "name": "Vladimír Feľbaba",
+      "age": 23,
+      "municipality": "Prešov",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "7",
+      "outcome": "not_elected",
+      "votes": 1417,
+      "candidateKey": "osk2013-PO-poslanec",
+      "candidateRow": {
+        "page": 18,
+        "ballot": 32,
+        "district": "7"
+      },
+      "resultKey": "open-osk-2013-1.kolo-OSK_2013_1kolo_tab08",
+      "resultRow": 1937,
+      "statusKeys": [
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab04",
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab09"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "presov-review-original-e6a87d741d0898a8",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
+    ]
+  },
+  {
+    "candidateId": "psk-stanislav-lukac",
+    "record": {
+      "datasetId": "2005-regional_council",
+      "date": "2005-11-26",
+      "office": "regional_council",
+      "name": "Stanislav Lukáč",
+      "age": 60,
+      "municipality": "Kolárovo",
+      "locality": "Nitriansky kraj",
+      "localityCode": "4",
+      "district": "1",
+      "outcome": "not_elected",
+      "votes": 1221,
+      "candidateKey": "osk2005-roster-401",
+      "candidateRow": {
+        "ballot": 23,
+        "district": "1"
+      },
+      "resultKey": "open-osk-2005-1.kolo-OSK_2005_1kolo_tab07",
+      "resultRow": 790,
+      "statusKeys": [
+        "open-osk-2005-1.kolo-OSK_2005_1kolo_tab08"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-bed5856553efe0dc",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a"
+    ]
+  },
+  {
+    "candidateId": "psk-pavol-sabol",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Pavol Sabol",
+      "age": 49,
+      "municipality": "Čelovce",
+      "locality": "Čelovce",
+      "localityCode": "524271",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 76,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 30132,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 30034,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-andrejko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Andrejko",
+      "age": 59,
+      "municipality": "Šamudovce",
+      "locality": "Šamudovce",
+      "localityCode": "523151",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 84,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 37825,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 37695,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-dalibor-caban",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Dalibor Caban",
+      "age": 49,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "512036",
+      "district": "6",
+      "outcome": "substitute",
+      "votes": 285,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 16595,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 16540,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-michal-hudak",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Michal Hudák",
+      "age": 36,
+      "municipality": "Valaliky",
+      "locality": "Valaliky",
+      "localityCode": "522139",
+      "district": "2",
+      "outcome": "substitute",
+      "votes": 104,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 36590,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 36464,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-michal-hudak",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Michal Hudák",
+      "age": 31,
+      "municipality": "Brehov",
+      "locality": "Brehov",
+      "localityCode": "528200",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 87,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 40552,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 40415,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-martin-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Martin Lukáč",
+      "age": 27,
+      "municipality": "Šenkvice",
+      "locality": "Šenkvice",
+      "localityCode": "508250",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 642,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 1589,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 1576,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-martin-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Martin Lukáč",
+      "age": 29,
+      "municipality": "Veselé",
+      "locality": "Veselé",
+      "localityCode": "507725",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 51,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 3988,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 3981,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-martin-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Martin Lukáč",
+      "age": 32,
+      "municipality": "Vernár",
+      "locality": "Vernár",
+      "localityCode": "524026",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 121,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29932,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29837,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-martin-lukac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Martin Lukáč",
+      "age": 33,
+      "municipality": "Koceľovce",
+      "locality": "Koceľovce",
+      "localityCode": "525847",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 47,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 39020,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 38884,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-daniel-rusin",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Daniel Rušin",
+      "age": 56,
+      "municipality": "Reľov",
+      "locality": "Reľov",
+      "localityCode": "523801",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 69,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 28759,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 28661,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-stanko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Stanko",
+      "age": 25,
+      "municipality": "Parihuzovce",
+      "locality": "Parihuzovce",
+      "localityCode": "520632",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 13,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 28110,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 28011,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-stanko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Stanko",
+      "age": 58,
+      "municipality": "Pavlovce nad Uhom",
+      "locality": "Pavlovce nad Uhom",
+      "localityCode": "522872",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 122,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 37617,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 37471,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-baca",
+    "record": {
+      "datasetId": "2017-regional_council",
+      "date": "2017-11-04",
+      "office": "regional_council",
+      "name": "Jozef Bača",
+      "age": 63,
+      "municipality": "Spišské Podhradie",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "704",
+      "outcome": "elected",
+      "votes": 1652,
+      "candidateKey": "open-osk-2017-OSK_2017_tab0bc",
+      "candidateRow": 2057,
+      "resultKey": "open-osk-2017-OSK_2017_tab09c",
+      "resultRow": 2059,
+      "statusKeys": [
+        "open-osk-2017-OSK_2017_tab04b",
+        "open-osk-2017-OSK_2017_tab04c",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-baca",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Jozef Bača",
+      "age": 68,
+      "municipality": "Spišské Podhradie",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "704",
+      "outcome": "substitute",
+      "votes": 1777,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 2226,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 2228,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-baca",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Jozef Bača",
+      "age": 57,
+      "municipality": "Bratislava - Staré Mesto",
+      "locality": "Bratislava - Staré Mesto",
+      "localityCode": "528595",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 121,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 5,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 12,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-baca",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Bača",
+      "age": 57,
+      "municipality": "Bratislava - Staré Mesto",
+      "locality": "Bratislava - Staré Mesto",
+      "localityCode": "528595",
+      "district": "3",
+      "outcome": "substitute",
+      "votes": 51,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 35,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 50,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-baca",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Bača",
+      "age": 68,
+      "municipality": "Spišské Podhradie",
+      "locality": "Spišské Podhradie",
+      "localityCode": "543578",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 546,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29342,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29249,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-baca",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Bača",
+      "age": 42,
+      "municipality": "Kapušany",
+      "locality": "Kapušany",
+      "localityCode": "524620",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 346,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 30455,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 30360,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-baca",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Bača",
+      "age": 39,
+      "municipality": "Vysoká",
+      "locality": "Vysoká",
+      "localityCode": "525421",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 51,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 32036,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 31928,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-baca",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Bača",
+      "age": 53,
+      "municipality": "Parchovany",
+      "locality": "Parchovany",
+      "localityCode": "528676",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 92,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 41019,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 40889,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-baca",
+    "record": {
+      "datasetId": "2005-regional_council",
+      "date": "2005-11-26",
+      "office": "regional_council",
+      "name": "Jozef Bača",
+      "age": 50,
+      "municipality": "Šarišské Čierne",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "1",
+      "outcome": null,
+      "votes": null,
+      "candidateKey": "osk2005-roster-701",
+      "candidateRow": {
+        "ballot": 1,
+        "district": "1"
+      },
+      "resultKey": "open-osk-2005-1.kolo-OSK_2005_1kolo_tab07",
+      "resultRow": null,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-26b3d6079d64f722",
+      "history-recheck-34f0f074f87a0b0f"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-baca",
+    "record": {
+      "datasetId": "2005-regional_council",
+      "date": "2005-11-26",
+      "office": "regional_council",
+      "name": "Jozef Bača",
+      "age": 51,
+      "municipality": "Spišské Podhradie",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "4",
+      "outcome": null,
+      "votes": null,
+      "candidateKey": "osk2005-roster-704",
+      "candidateRow": {
+        "ballot": 1,
+        "district": "4"
+      },
+      "resultKey": "open-osk-2005-1.kolo-OSK_2005_1kolo_tab07",
+      "resultRow": null,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-fbd0a26b530eea84",
+      "history-recheck-34f0f074f87a0b0f"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-cvengros",
+    "record": {
+      "datasetId": "2014-municipal_council",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "name": "Peter Cvengroš",
+      "age": 67,
+      "municipality": "Prešov",
+      "locality": "Prešov",
+      "localityCode": "524140",
+      "district": "5",
+      "outcome": null,
+      "votes": 165,
+      "candidateKey": "oso2014-selected-council-votes",
+      "candidateRow": [
+        31907,
+        31928,
+        31949,
+        31970,
+        31991,
+        32012,
+        32033,
+        32054,
+        32075,
+        32096
+      ],
+      "resultKey": "oso2014-selected-council-votes",
+      "resultRow": [
+        31907,
+        31928,
+        31949,
+        31970,
+        31991,
+        32012,
+        32033,
+        32054,
+        32075,
+        32096
+      ],
+      "statusKeys": [
+        "local/presov2014-chronicle17",
+        "open-osk-2017-OSK_2017_tab0bc",
+        "open-osk-2017-OSK_2017_tab09c",
+        "open-osk-2017-OSK_2017_tab04b",
+        "open-osk-2017-OSK_2017_tab04c",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-4d4c3be489eb8b35",
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b"
+    ]
+  },
+  {
+    "candidateId": "psk-vladimir-cech",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Vladimír Čech",
+      "age": 58,
+      "municipality": "Hnilec",
+      "locality": "Hnilec",
+      "localityCode": "526584",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 134,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 39922,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 39785,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-vladimir-cech",
+    "record": {
+      "datasetId": "2013-regional_council",
+      "date": "2013-11-09",
+      "office": "regional_council",
+      "name": "Vladimír Čech",
+      "age": 35,
+      "municipality": "Repište",
+      "locality": "Banskobystrický kraj",
+      "localityCode": "6",
+      "district": "13",
+      "outcome": "not_elected",
+      "votes": 677,
+      "candidateKey": "osk2013-BB-poslanec",
+      "candidateRow": {
+        "page": 29,
+        "ballot": 4,
+        "district": "13"
+      },
+      "resultKey": "open-osk-2013-1.kolo-OSK_2013_1kolo_tab08",
+      "resultRow": 1695,
+      "statusKeys": [
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab04",
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab09"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-db9dddc32262374e",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
+    ]
+  },
+  {
+    "candidateId": "psk-richard-elias",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Richard Eliáš",
+      "age": 28,
+      "municipality": "Baldovce",
+      "locality": "Baldovce",
+      "localityCode": "526371",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 25,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 4647,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 4643,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "psk-richard-elias",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Richard Eliáš",
+      "age": 28,
+      "municipality": "Baldovce",
+      "locality": "Baldovce",
+      "localityCode": "526371",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 45,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29077,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 28983,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-anton-hrabko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Anton Hrabko",
+      "age": 38,
+      "municipality": "Stropkov",
+      "locality": "Stropkov",
+      "localityCode": "527840",
+      "district": "8",
+      "outcome": "substitute",
+      "votes": 14,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 32916,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 32809,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-katica",
+    "record": {
+      "datasetId": "2013-regional_council",
+      "date": "2013-11-09",
+      "office": "regional_council",
+      "name": "Ján Katica",
+      "age": 23,
+      "municipality": "Lada",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "7",
+      "outcome": "not_elected",
+      "votes": 813,
+      "candidateKey": "osk2013-PO-poslanec",
+      "candidateRow": {
+        "page": 20,
+        "ballot": 53,
+        "district": "7"
+      },
+      "resultKey": "open-osk-2013-1.kolo-OSK_2013_1kolo_tab08",
+      "resultRow": 1958,
+      "statusKeys": [
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab04",
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab09"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "presov-review-original-e6a87d741d0898a8",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
+    ]
+  },
+  {
+    "candidateId": "psk-radovan-kmec",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Radovan Kmec",
+      "age": 35,
+      "municipality": "Červenica pri Sabinove",
+      "locality": "Červenica pri Sabinove",
+      "localityCode": "524298",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 207,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 31475,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 31368,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-kohut",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Kohút",
+      "age": 36,
+      "municipality": "Nižný Tvarožec",
+      "locality": "Nižný Tvarožec",
+      "localityCode": "519669",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 93,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 26571,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 26472,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-lukac-52",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Lukáč",
+      "age": 44,
+      "municipality": "Smilno",
+      "locality": "Smilno",
+      "localityCode": "519782",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 220,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 26687,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 26593,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-lukac-52",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Lukáč",
+      "age": 64,
+      "municipality": "Chminianske Jakubovany",
+      "locality": "Chminianske Jakubovany",
+      "localityCode": "524531",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 98,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 30433,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 30324,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-lukac-52",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Lukáč",
+      "age": 52,
+      "municipality": "Kojatice",
+      "locality": "Kojatice",
+      "localityCode": "524654",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 239,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 30501,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 30396,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-lukac-35",
+    "record": {
+      "datasetId": "2017-regional_council",
+      "date": "2017-11-04",
+      "office": "regional_council",
+      "name": "Jozef Lukáč",
+      "age": 43,
+      "municipality": "Záborské",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "707",
+      "outcome": "elected",
+      "votes": 7482,
+      "candidateKey": "open-osk-2017-OSK_2017_tab0bc",
+      "candidateRow": 2231,
+      "resultKey": "open-osk-2017-OSK_2017_tab09c",
+      "resultRow": 2173,
+      "statusKeys": [
+        "open-osk-2017-OSK_2017_tab04b",
+        "open-osk-2017-OSK_2017_tab04c",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-lukac-35",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Jozef Lukáč",
+      "age": 48,
+      "municipality": "Záborské",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "707",
+      "outcome": "substitute",
+      "votes": 5091,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 2409,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 2411,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-lukac-35",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Lukáč",
+      "age": 49,
+      "municipality": "Pruské",
+      "locality": "Pruské",
+      "localityCode": "513598",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 243,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 9073,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 9046,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-lukac-35",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Lukáč",
+      "age": 44,
+      "municipality": "Smilno",
+      "locality": "Smilno",
+      "localityCode": "519782",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 220,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 26687,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 26593,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-lukac-35",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Lukáč",
+      "age": 64,
+      "municipality": "Chminianske Jakubovany",
+      "locality": "Chminianske Jakubovany",
+      "localityCode": "524531",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 98,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 30433,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 30324,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-lukac-35",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Lukáč",
+      "age": 52,
+      "municipality": "Kojatice",
+      "locality": "Kojatice",
+      "localityCode": "524654",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 239,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 30501,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 30396,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-olah",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Oláh",
+      "age": 50,
+      "municipality": "Krišovská Liesková",
+      "locality": "Krišovská Liesková",
+      "localityCode": "528463",
+      "district": "2",
+      "outcome": "elected",
+      "votes": 111,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 37133,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 37001,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-pavuk-69",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Ján Pavuk",
+      "age": 55,
+      "municipality": "Proč",
+      "locality": "Proč",
+      "localityCode": "525057",
+      "district": null,
+      "outcome": "elected",
+      "votes": 171,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 4994,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 4988,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-pavuk-69",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Ján Pavúk",
+      "age": 54,
+      "municipality": "Košice - Sídlisko Ťahanovce",
+      "locality": "Košice - Sídlisko Ťahanovce",
+      "localityCode": "599875",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 327,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 5595,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 5590,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-pavuk-69",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Pavúk",
+      "age": 51,
+      "municipality": "Porúbka",
+      "locality": "Porúbka",
+      "localityCode": "519731",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 78,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 26630,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 26535,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-pavuk-69",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Pavúk",
+      "age": 54,
+      "municipality": "Košice - Sídlisko Ťahanovce",
+      "locality": "Košice - Sídlisko Ťahanovce",
+      "localityCode": "599875",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 1048,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 34799,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 34672,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-pavuk-69",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Pavúk",
+      "age": 54,
+      "municipality": "Košice",
+      "locality": "Košice",
+      "localityCode": "599981",
+      "district": "2",
+      "outcome": "substitute",
+      "votes": 753,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bx",
+      "candidateRow": 379,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08ex",
+      "resultRow": 370,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-c350f1ed2690b67b",
+      "history-recheck-330c4a9b5b12c0bb"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-pavuk-59",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Ján Pavúk",
+      "age": 54,
+      "municipality": "Košice - Sídlisko Ťahanovce",
+      "locality": "Košice - Sídlisko Ťahanovce",
+      "localityCode": "599875",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 327,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 5595,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 5590,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-pavuk-59",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Pavúk",
+      "age": 51,
+      "municipality": "Porúbka",
+      "locality": "Porúbka",
+      "localityCode": "519731",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 78,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 26630,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 26535,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-pavuk-59",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Pavúk",
+      "age": 54,
+      "municipality": "Košice - Sídlisko Ťahanovce",
+      "locality": "Košice - Sídlisko Ťahanovce",
+      "localityCode": "599875",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 1048,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 34799,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 34672,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-pavuk-59",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Pavúk",
+      "age": 54,
+      "municipality": "Košice",
+      "locality": "Košice",
+      "localityCode": "599981",
+      "district": "2",
+      "outcome": "substitute",
+      "votes": 753,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bx",
+      "candidateRow": 379,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08ex",
+      "resultRow": 370,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-c350f1ed2690b67b",
+      "history-recheck-330c4a9b5b12c0bb"
+    ]
+  },
+  {
+    "candidateId": "psk-ludovit-petik",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ľudovít Petík",
+      "age": 66,
+      "municipality": "Ražňany",
+      "locality": "Ražňany",
+      "localityCode": "525090",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 122,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 31841,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 31739,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-pavol-timko",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Pavol Timko",
+      "age": 45,
+      "municipality": "Kolta",
+      "locality": "Nitriansky kraj",
+      "localityCode": "4",
+      "district": "404",
+      "outcome": "substitute",
+      "votes": 662,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 1207,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 1209,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "psk-pavol-timko",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Pavol Timko",
+      "age": 45,
+      "municipality": "Kolta",
+      "locality": "Kolta",
+      "localityCode": "503274",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 85,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 2053,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 2053,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "psk-pavol-timko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Pavol Timko",
+      "age": 45,
+      "municipality": "Kolta",
+      "locality": "Kolta",
+      "localityCode": "503274",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 171,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 13209,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 13158,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-pavol-timko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Pavol Timko",
+      "age": 41,
+      "municipality": "Kvačany",
+      "locality": "Kvačany",
+      "localityCode": "524701",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 135,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 30537,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 30431,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-kralik",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Králik",
+      "age": 53,
+      "municipality": "Nitrianska Blatnica",
+      "locality": "Nitrianska Blatnica",
+      "localityCode": "505234",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 232,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 14383,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 14324,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-juraj-husar",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Juraj Husár",
+      "age": 35,
+      "municipality": "Malý Lapáš",
+      "locality": "Malý Lapáš",
+      "localityCode": "555851",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 237,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 11808,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 11766,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-marek-michalko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Marek Michalko",
+      "age": 48,
+      "municipality": "Čeľovce",
+      "locality": "Čeľovce",
+      "localityCode": "528242",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 96,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 40595,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 40453,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-siska",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Šiška",
+      "age": 64,
+      "municipality": "Hlohovec",
+      "locality": "Hlohovec",
+      "localityCode": "507032",
+      "district": "2",
+      "outcome": "substitute",
+      "votes": 367,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 4842,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 4825,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-siska",
+    "record": {
+      "datasetId": "2013-regional_council",
+      "date": "2013-11-09",
+      "office": "regional_council",
+      "name": "Peter Šiška",
+      "age": 49,
+      "municipality": "Veľký Krtíš",
+      "locality": "Banskobystrický kraj",
+      "localityCode": "6",
+      "district": "10",
+      "outcome": "not_elected",
+      "votes": 583,
+      "candidateKey": "osk2013-BB-poslanec",
+      "candidateRow": {
+        "page": 24,
+        "ballot": 15,
+        "district": "10"
+      },
+      "resultKey": "open-osk-2013-1.kolo-OSK_2013_1kolo_tab08",
+      "resultRow": 1647,
+      "statusKeys": [
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab04",
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab09"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-db9dddc32262374e",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-siska",
+    "record": {
+      "datasetId": "2005-regional_council",
+      "date": "2005-11-26",
+      "office": "regional_council",
+      "name": "Peter Šiška",
+      "age": 41,
+      "municipality": "Veľký Krtíš",
+      "locality": "Banskobystrický kraj",
+      "localityCode": "6",
+      "district": "10",
+      "outcome": "not_elected",
+      "votes": 199,
+      "candidateKey": "osk2005-roster-610",
+      "candidateRow": {
+        "ballot": 17,
+        "district": "10"
+      },
+      "resultKey": "open-osk-2005-1.kolo-OSK_2005_1kolo_tab07",
+      "resultRow": 1519,
+      "statusKeys": [
+        "open-osk-2005-1.kolo-OSK_2005_1kolo_tab08"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-727bb5da35e5124a",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-svagerko",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Jozef Švagerko",
+      "age": 34,
+      "municipality": "Vikartovce",
+      "locality": "Vikartovce",
+      "localityCode": "524034",
+      "district": null,
+      "outcome": "elected",
+      "votes": 368,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 4810,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 4800,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-svagerko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Švagerko",
+      "age": 47,
+      "municipality": "Vikartovce",
+      "locality": "Vikartovce",
+      "localityCode": "524034",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 471,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29956,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29840,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jozef-svagerko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Švagerko",
+      "age": 34,
+      "municipality": "Vikartovce",
+      "locality": "Vikartovce",
+      "localityCode": "524034",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 463,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29957,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29842,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-bacik",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Bačík",
+      "age": 45,
+      "municipality": "Predmier",
+      "locality": "Predmier",
+      "localityCode": "517895",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 34,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 18383,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 18342,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-michal-baran",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Michal Baran",
+      "age": 41,
+      "municipality": "Medzianky",
+      "locality": "Medzianky",
+      "localityCode": "528862",
+      "district": null,
+      "outcome": "elected",
+      "votes": 98,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 5508,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 5503,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "psk-michal-baran",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Michal Baran",
+      "age": 67,
+      "municipality": "Bystré",
+      "locality": "Bystré",
+      "localityCode": "544094",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 104,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 33743,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 33654,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-michal-baran",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Michal Baran",
+      "age": 41,
+      "municipality": "Medzianky",
+      "locality": "Medzianky",
+      "localityCode": "528862",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 60,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 34148,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 34034,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-kandrac",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Peter Kandráč",
+      "age": 41,
+      "municipality": "Lipany",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "708",
+      "outcome": "elected",
+      "votes": 4242,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 2456,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 2458,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-kandrac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Kandráč",
+      "age": 54,
+      "municipality": "Krásna Lúka",
+      "locality": "Krásna Lúka",
+      "localityCode": "524671",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 152,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 31634,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 31526,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-kandrac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Kandráč",
+      "age": 41,
+      "municipality": "Lipany",
+      "locality": "Lipany",
+      "localityCode": "524778",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 988,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 31668,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 31556,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-peter-kandrac",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Kandráč",
+      "age": 44,
+      "municipality": "Moravany",
+      "locality": "Moravany",
+      "localityCode": "522791",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 49,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 37494,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 37375,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-jan-pitonak",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Pitoňák",
+      "age": 53,
+      "municipality": "Svit",
+      "locality": "Svit",
+      "localityCode": "523925",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 343,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29819,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29725,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-milan-jambor",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Milan Jámbor",
+      "age": 53,
+      "municipality": "Ždaňa",
+      "locality": "Ždaňa",
+      "localityCode": "522261",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 167,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 36783,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 36658,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-martin-lavko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Martin Lavko",
+      "age": 57,
+      "municipality": "Spišské Bystré",
+      "locality": "Spišské Bystré",
+      "localityCode": "523852",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 521,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29763,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29655,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-martin-lavko",
+    "record": {
+      "datasetId": "2005-regional_council",
+      "date": "2005-11-26",
+      "office": "regional_council",
+      "name": "Martin Lavko",
+      "age": 40,
+      "municipality": "Spišské Bystré",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "6",
+      "outcome": "not_elected",
+      "votes": 1720,
+      "candidateKey": "osk2005-roster-706",
+      "candidateRow": {
+        "ballot": 24,
+        "district": "6"
+      },
+      "resultKey": "open-osk-2005-1.kolo-OSK_2005_1kolo_tab07",
+      "resultRow": 1699,
+      "statusKeys": [
+        "open-osk-2005-1.kolo-OSK_2005_1kolo_tab08"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-16fab7b8d64b3055",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a"
+    ]
+  },
+  {
+    "candidateId": "psk-jaroslav-vajda",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jaroslav Vajda",
+      "age": 31,
+      "municipality": "Poprad",
+      "locality": "Poprad",
+      "localityCode": "523381",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 503,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29683,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29570,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "psk-ivan-zaborsky",
+    "record": {
+      "datasetId": "2018-municipal_council",
+      "date": "2018-11-10",
+      "office": "municipal_council",
+      "name": "Ivan Záborský",
+      "age": 46,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "512036",
+      "district": "6",
+      "outcome": "substitute",
+      "votes": 241,
+      "candidateKey": "oso2018-download-links-OSO_2018_okrsky-xlsx",
+      "candidateRow": 5868,
+      "resultKey": "oso2018-download-links-OSO_2018_okrsky-xlsx",
+      "resultRow": 5843,
+      "statusKeys": [
+        "local/martin2018-d9c57bf619",
+        "local/martin2018-e1d5cf0ee8"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f",
+      "history-four-cities-2000-e1d5cf0ee8158eeb"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-danko",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Ján Danko",
+      "age": 49,
+      "municipality": "Revúca",
+      "locality": "Banskobystrický kraj",
+      "localityCode": "6",
+      "district": "608",
+      "outcome": "substitute",
+      "votes": 598,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 1947,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 1949,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-danko",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Ján Danko",
+      "age": 59,
+      "municipality": "Fiľakovské Kováče",
+      "locality": "Fiľakovské Kováče",
+      "localityCode": "511404",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 41,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 3279,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 3276,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-danko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Danko",
+      "age": 47,
+      "municipality": "Jabloň",
+      "locality": "Jabloň",
+      "localityCode": "520276",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 40,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 27164,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 27079,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-danko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Danko",
+      "age": 56,
+      "municipality": "Markovce",
+      "locality": "Markovce",
+      "localityCode": "522783",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 77,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 37319,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 37193,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-jozef-petras",
+    "record": {
+      "datasetId": "2017-regional_council",
+      "date": "2017-11-04",
+      "office": "regional_council",
+      "name": "Jozef Petráš",
+      "age": 67,
+      "municipality": "Sučany",
+      "locality": "Žilinský kraj",
+      "localityCode": "5",
+      "district": "506",
+      "outcome": "substitute",
+      "votes": 1999,
+      "candidateKey": "open-osk-2017-OSK_2017_tab0bc",
+      "candidateRow": 1355,
+      "resultKey": "open-osk-2017-OSK_2017_tab09c",
+      "resultRow": 1352,
+      "statusKeys": [
+        "open-osk-2017-OSK_2017_tab04b",
+        "open-osk-2017-OSK_2017_tab04c",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b"
+    ]
+  },
+  {
+    "candidateId": "mt-jozef-petras",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef Petraš",
+      "age": 58,
+      "municipality": "Vislava",
+      "locality": "Vislava",
+      "localityCode": "527998",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 27,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 32998,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 32887,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-jozef-petras",
+    "record": {
+      "datasetId": "2013-regional_council",
+      "date": "2013-11-09",
+      "office": "regional_council",
+      "name": "Jozef Petráš",
+      "age": 64,
+      "municipality": "Komárno",
+      "locality": "Nitriansky kraj",
+      "localityCode": "4",
+      "district": "1",
+      "outcome": "not_elected",
+      "votes": 448,
+      "candidateKey": "osk2013-NR-poslanec",
+      "candidateRow": {
+        "page": 2,
+        "ballot": 24,
+        "district": "1"
+      },
+      "resultKey": "open-osk-2013-1.kolo-OSK_2013_1kolo_tab08",
+      "resultRow": 807,
+      "statusKeys": [
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab04",
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab09"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-c14c9caa1e35ea3b",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
+    ]
+  },
+  {
+    "candidateId": "mt-pavol-zemko",
+    "record": {
+      "datasetId": "2014-mayor",
+      "date": "2014-11-15",
+      "office": "mayor",
+      "name": "Pavol Zemko",
+      "age": 49,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "martin",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 3088,
+      "candidateKey": "open-oso-2014-OSO_2014_tab11",
+      "candidateRow": 3234,
+      "resultKey": "open-oso-2014-OSO_2014_tab11",
+      "resultRow": 3234,
+      "statusKeys": [
+        "local/martin2014-3cc9a551f7"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "statistics-mayor-results-2014",
+      "history-four-cities-2000-5523c42315cb434d"
+    ]
+  },
+  {
+    "candidateId": "mt-tatiana-cervenova",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Tatiana Červeňová",
+      "age": 38,
+      "municipality": "Malatiná",
+      "locality": "Žilinský kraj",
+      "localityCode": "5",
+      "district": "503",
+      "outcome": "substitute",
+      "votes": 966,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 1384,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 1386,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "mt-tatiana-cervenova",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Tatiana Červeňová",
+      "age": 38,
+      "municipality": "Malatiná",
+      "locality": "Malatiná",
+      "localityCode": "509825",
+      "district": null,
+      "outcome": "elected",
+      "votes": 135,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 2390,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 2385,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "mt-tatiana-cervenova",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Tatiana Červeňová",
+      "age": 38,
+      "municipality": "Malatiná",
+      "locality": "Malatiná",
+      "localityCode": "509825",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 173,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 15508,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 15454,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-martin-dudik",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Martin Dudík",
+      "age": 25,
+      "municipality": "Handlová",
+      "locality": "Handlová",
+      "localityCode": "513997",
+      "district": "2",
+      "outcome": "substitute",
+      "votes": 115,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 8189,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 8191,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-peter-grom",
+    "record": {
+      "datasetId": "2005-regional_council",
+      "date": "2005-11-26",
+      "office": "regional_council",
+      "name": "Peter Grom",
+      "age": 31,
+      "municipality": "Bratislava - Lamač",
+      "locality": "Bratislavský kraj",
+      "localityCode": "1",
+      "district": "4",
+      "outcome": "not_elected",
+      "votes": 636,
+      "candidateKey": "osk2005-roster-104",
+      "candidateRow": {
+        "ballot": 19,
+        "district": "4"
+      },
+      "resultKey": "open-osk-2005-1.kolo-OSK_2005_1kolo_tab07",
+      "resultRow": 171,
+      "statusKeys": [
+        "open-osk-2005-1.kolo-OSK_2005_1kolo_tab08"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-b9215f63fccd52c4",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a"
+    ]
+  },
+  {
+    "candidateId": "mt-peter-hascik",
+    "record": {
+      "datasetId": "2017-regional_council",
+      "date": "2017-11-04",
+      "office": "regional_council",
+      "name": "Peter Haščík",
+      "age": 33,
+      "municipality": "Trnava",
+      "locality": "Trnavský kraj",
+      "localityCode": "2",
+      "district": "207",
+      "outcome": "substitute",
+      "votes": 1995,
+      "candidateKey": "open-osk-2017-OSK_2017_tab0bc",
+      "candidateRow": 565,
+      "resultKey": "open-osk-2017-OSK_2017_tab09c",
+      "resultRow": 582,
+      "statusKeys": [
+        "open-osk-2017-OSK_2017_tab04b",
+        "open-osk-2017-OSK_2017_tab04c",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b"
+    ]
+  },
+  {
+    "candidateId": "mt-zdenka-lackova",
+    "record": {
+      "datasetId": "2005-regional_council",
+      "date": "2005-11-26",
+      "office": "regional_council",
+      "name": "Zdenka Lacková",
+      "age": 54,
+      "municipality": "Martin",
+      "locality": "Žilinský kraj",
+      "localityCode": "5",
+      "district": "6",
+      "outcome": "not_elected",
+      "votes": 822,
+      "candidateKey": "osk2005-roster-506",
+      "candidateRow": {
+        "ballot": 28,
+        "district": "6"
+      },
+      "resultKey": "open-osk-2005-1.kolo-OSK_2005_1kolo_tab07",
+      "resultRow": 1137,
+      "statusKeys": [
+        "open-osk-2005-1.kolo-OSK_2005_1kolo_tab08"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-793fc88e4d3cc931",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a"
+    ]
+  },
+  {
+    "candidateId": "mt-zdenka-lackova",
+    "record": {
+      "datasetId": "2014-municipal_council",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "name": "Zdeňka Lacková",
+      "age": 64,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "512036",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 576,
+      "candidateKey": "oso2014-selected-council-votes",
+      "candidateRow": [
+        21069,
+        21101,
+        21133,
+        21165,
+        21197,
+        21229,
+        21261,
+        21293,
+        21325,
+        21357,
+        21389,
+        21421
+      ],
+      "resultKey": "oso2014-selected-council-votes",
+      "resultRow": [
+        21069,
+        21101,
+        21133,
+        21165,
+        21197,
+        21229,
+        21261,
+        21293,
+        21325,
+        21357,
+        21389,
+        21421
+      ],
+      "statusKeys": [
+        "local/martin2014-c6f7d67b0a",
+        "local/martin2014-a439cc6153"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452",
+      "history-four-cities-2000-6cb792be18039958"
+    ]
+  },
+  {
+    "candidateId": "mt-zdenka-lackova",
+    "record": {
+      "datasetId": "2010-municipal_council",
+      "date": "2010-11-27",
+      "office": "municipal_council",
+      "name": "Zdenka Lacková",
+      "age": 60,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "martin",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 538,
+      "candidateKey": "local/martin2010-28826",
+      "candidateRow": {
+        "page": 1,
+        "district": "1",
+        "method": "Unique exact full-name age clause in original registered candidate list."
+      },
+      "resultKey": "local/martin2010-28828",
+      "resultRow": {
+        "page": 4,
+        "votes": 538,
+        "outcome": "substitute",
+        "nameBoxes": [
+          {
+            "left": "231",
+            "top": "448",
+            "width": "76",
+            "height": "18",
+            "text": "Zdenka"
+          },
+          {
+            "left": "329",
+            "top": "449",
+            "width": "85",
+            "height": "18",
+            "text": "Lacková"
+          },
+          {
+            "left": "220",
+            "top": "491",
+            "width": "4",
+            "height": "3",
+            "text": "."
+          }
+        ],
+        "voteBoxes": [
+          {
+            "left": "1206",
+            "top": "450",
+            "width": "40",
+            "height": "19",
+            "text": "538"
+          }
+        ]
+      },
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
+    ]
+  },
+  {
+    "candidateId": "mt-bibiana-panisova",
+    "record": {
+      "datasetId": "2014-municipal_council",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "name": "Bibiana Pánisová",
+      "age": 42,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "512036",
+      "district": "1",
+      "outcome": null,
+      "votes": 515,
+      "candidateKey": "oso2014-selected-council-votes",
+      "candidateRow": [
+        21073,
+        21105,
+        21137,
+        21169,
+        21201,
+        21233,
+        21265,
+        21297,
+        21329,
+        21361,
+        21393,
+        21425
+      ],
+      "resultKey": "oso2014-selected-council-votes",
+      "resultRow": [
+        21073,
+        21105,
+        21137,
+        21169,
+        21201,
+        21233,
+        21265,
+        21297,
+        21329,
+        21361,
+        21393,
+        21425
+      ],
+      "statusKeys": [
+        "local/martin2014-c6f7d67b0a"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452"
+    ]
+  },
+  {
+    "candidateId": "mt-bibiana-panisova",
+    "record": {
+      "datasetId": "2010-municipal_council",
+      "date": "2010-11-27",
+      "office": "municipal_council",
+      "name": "Bibiana Panisová",
+      "age": 38,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "martin",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 423,
+      "candidateKey": "local/martin2010-28826",
+      "candidateRow": {
+        "page": 1,
+        "district": "1",
+        "method": "Independent visual original-page check of exact full name, age and electoral district; coordinator copied only reviewed fields."
+      },
+      "resultKey": "local/martin2010-28828",
+      "resultRow": {
+        "page": 4,
+        "district": "1",
+        "votes": 423,
+        "method": "Independent visual original-page check of exact name, district, vote cell and elected/substitute section."
+      },
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-richter",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Richter",
+      "age": 34,
+      "municipality": "Jelenec",
+      "locality": "Jelenec",
+      "localityCode": "500372",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 114,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 11662,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 11629,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-robert-kollar",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Róbert Kollár",
+      "age": 56,
+      "municipality": "Majcichov",
+      "locality": "Majcichov",
+      "localityCode": "507296",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 204,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 805,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 805,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "mt-robert-kollar",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Róbert Kollár",
+      "age": 56,
+      "municipality": "Majcichov",
+      "locality": "Majcichov",
+      "localityCode": "507296",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 391,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 5472,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 5454,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-lubomir-vanko",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ľubomír Vanko",
+      "age": 59,
+      "municipality": "Štvrtok",
+      "locality": "Štvrtok",
+      "localityCode": "506541",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 67,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 9479,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 9449,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-peter-vons",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Vons",
+      "age": 42,
+      "municipality": "Rabčice",
+      "locality": "Rabčice",
+      "localityCode": "510033",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 376,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 17474,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 17394,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-marian-fedor",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Marián Fedor",
+      "age": 37,
+      "municipality": "Fekišovce",
+      "locality": "Fekišovce",
+      "localityCode": "522422",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 26,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 38251,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 38119,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-marian-ferenc",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Marián Ferenc",
+      "age": 33,
+      "municipality": "Šoporňa",
+      "locality": "Šoporňa",
+      "localityCode": "504050",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 440,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 3476,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 3475,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-peter-torok",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Török",
+      "age": 35,
+      "municipality": "Jelka",
+      "locality": "Jelka",
+      "localityCode": "503835",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 954,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 3280,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 3255,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-dusan-zachar",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Dušan Zachar",
+      "age": 75,
+      "municipality": "Lednické Rovne",
+      "locality": "Lednické Rovne",
+      "localityCode": "513326",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 99,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 7484,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 7463,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-peter-belica",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Belica",
+      "age": 42,
+      "municipality": "Hostie",
+      "locality": "Hostie",
+      "localityCode": "500283",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 147,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 12439,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 12411,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-peter-belica",
+    "record": {
+      "datasetId": "2013-regional_council",
+      "date": "2013-11-09",
+      "office": "regional_council",
+      "name": "Peter Belica",
+      "age": 61,
+      "municipality": "Sučany",
+      "locality": "Žilinský kraj",
+      "localityCode": "5",
+      "district": "6",
+      "outcome": "not_elected",
+      "votes": 1368,
+      "candidateKey": "osk2013-ZA-poslanec",
+      "candidateRow": {
+        "page": 13,
+        "ballot": 4,
+        "district": "6"
+      },
+      "resultKey": "open-osk-2013-1.kolo-OSK_2013_1kolo_tab08",
+      "resultRow": 1169,
+      "statusKeys": [
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab04",
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab09"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
+    ]
+  },
+  {
+    "candidateId": "mt-peter-belica",
+    "record": {
+      "datasetId": "2005-regional_council",
+      "date": "2005-11-26",
+      "office": "regional_council",
+      "name": "Peter Belica",
+      "age": 53,
+      "municipality": "Sučany",
+      "locality": "Žilinský kraj",
+      "localityCode": "5",
+      "district": "6",
+      "outcome": "elected",
+      "votes": 1893,
+      "candidateKey": "osk2005-roster-506",
+      "candidateRow": {
+        "ballot": 3,
+        "district": "6"
+      },
+      "resultKey": "open-osk-2005-1.kolo-OSK_2005_1kolo_tab04",
+      "resultRow": 214,
+      "statusKeys": [
+        "open-osk-2005-1.kolo-OSK_2005_1kolo_tab07"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-793fc88e4d3cc931",
+      "history-four-cities-2000-d0c0c6558ff464c9",
+      "history-recheck-34f0f074f87a0b0f"
+    ]
+  },
+  {
+    "candidateId": "mt-pavol-kubala",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Pavol Kubala",
+      "age": 55,
+      "municipality": "Lisková",
+      "locality": "Lisková",
+      "localityCode": "510785",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 232,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 2828,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 2824,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "mt-roman-kubala",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Roman Kubala",
+      "age": 45,
+      "municipality": "Lisková",
+      "locality": "Lisková",
+      "localityCode": "510785",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 317,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 18044,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 17975,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-mlynar",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Ján Mlynár",
+      "age": 69,
+      "municipality": "Práznovce",
+      "locality": "Nitriansky kraj",
+      "localityCode": "4",
+      "district": "407",
+      "outcome": "substitute",
+      "votes": 536,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 1280,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 1282,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-mlynar",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Ján Mlynár",
+      "age": 62,
+      "municipality": "Švábovce",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "706",
+      "outcome": "substitute",
+      "votes": 2153,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 2304,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 2306,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-mlynar",
+    "record": {
+      "datasetId": "2022-mayor",
+      "date": "2022-10-29",
+      "office": "mayor",
+      "name": "Ján Mlynár",
+      "age": 69,
+      "municipality": "Práznovce",
+      "locality": "Práznovce",
+      "localityCode": "581658",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 39,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0ad",
+      "candidateRow": 2255,
+      "resultKey": "oso2022-mayor-votes",
+      "resultRow": 2250,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0ad",
+      "mt-oso2022-sk-tab05d"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-mlynar",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Mlynár",
+      "age": 69,
+      "municipality": "Práznovce",
+      "locality": "Práznovce",
+      "localityCode": "581658",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 132,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 14481,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 14417,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-mlynar",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Ján Mlynár",
+      "age": 68,
+      "municipality": "Gerlachov",
+      "locality": "Gerlachov",
+      "localityCode": "523445",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 147,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29488,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29385,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "mt-jan-mlynar",
+    "record": {
+      "datasetId": "2005-regional_council",
+      "date": "2005-11-26",
+      "office": "regional_council",
+      "name": "Ján Mlynár",
+      "age": 45,
+      "municipality": "Švábovce",
+      "locality": "Prešovský kraj",
+      "localityCode": "7",
+      "district": "6",
+      "outcome": "not_elected",
+      "votes": 1284,
+      "candidateKey": "osk2005-roster-706",
+      "candidateRow": {
+        "ballot": 29,
+        "district": "6"
+      },
+      "resultKey": "open-osk-2005-1.kolo-OSK_2005_1kolo_tab07",
+      "resultRow": 1708,
+      "statusKeys": [
+        "open-osk-2005-1.kolo-OSK_2005_1kolo_tab08"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-16fab7b8d64b3055",
+      "history-recheck-34f0f074f87a0b0f",
+      "history-recheck-d49da57c3f130a3a"
+    ]
+  },
+  {
+    "candidateId": "dk-pavol-adamec",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Pavol Adamec",
+      "age": 70,
+      "municipality": "Rybany",
+      "locality": "Rybany",
+      "localityCode": "505455",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 147,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 6196,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 6193,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "dk-maria-kovacikova",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Mária Kovačiková",
+      "age": 56,
+      "municipality": "Vysoká nad Kysucou",
+      "locality": "Vysoká nad Kysucou",
+      "localityCode": "509515",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 109,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 15314,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 15256,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "dk-martin-stanovsky-30",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Martin Stanovský",
+      "age": 49,
+      "municipality": "Dolný Kubín",
+      "locality": "Dolný Kubín",
+      "localityCode": "509540",
+      "district": "5",
+      "outcome": "substitute",
+      "votes": 334,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 15430,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 15370,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "dk-jozef-david",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Jozef David",
+      "age": 45,
+      "municipality": "Jánovce",
+      "locality": "Jánovce",
+      "localityCode": "523542",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 184,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 29539,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 29441,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "dk-tomas-gajdos",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Tomáš Gajdoš",
+      "age": 32,
+      "municipality": "Bratislava - Nové Mesto",
+      "locality": "Bratislava - Nové Mesto",
+      "localityCode": "529346",
+      "district": "2",
+      "outcome": "elected",
+      "votes": 2046,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 380,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 376,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "dk-tomas-gajdos",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Tomáš Gajdoš",
+      "age": 34,
+      "municipality": "Východná",
+      "locality": "Východná",
+      "localityCode": "511170",
+      "district": "1",
+      "outcome": "substitute",
+      "votes": 144,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 16297,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 16247,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "dk-sona-mihalikova",
+    "record": {
+      "datasetId": "2013-regional_council",
+      "date": "2013-11-09",
+      "office": "regional_council",
+      "name": "Soňa Miháliková",
+      "age": 58,
+      "municipality": "Teplička nad Váhom",
+      "locality": "Žilinský kraj",
+      "localityCode": "5",
+      "district": "11",
+      "outcome": "not_elected",
+      "votes": 2664,
+      "candidateKey": "osk2013-ZA-poslanec",
+      "candidateRow": {
+        "page": 26,
+        "ballot": 36,
+        "district": "11"
+      },
+      "resultKey": "open-osk-2013-1.kolo-OSK_2013_1kolo_tab08",
+      "resultRow": 1334,
+      "statusKeys": [
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab04",
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab09"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
+    ]
+  },
+  {
+    "candidateId": "dk-peter-toman",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Peter Tomáň",
+      "age": 42,
+      "municipality": "Stankovany",
+      "locality": "Stankovany",
+      "localityCode": "511030",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 277,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 18198,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 18128,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "dk-tatiana-cervenova",
+    "record": {
+      "datasetId": "2017-regional_council",
+      "date": "2017-11-04",
+      "office": "regional_council",
+      "name": "Tatiana Červeňová",
+      "age": 49,
+      "municipality": "Martin",
+      "locality": "Žilinský kraj",
+      "localityCode": "5",
+      "district": "506",
+      "outcome": "elected",
+      "votes": 5064,
+      "candidateKey": "open-osk-2017-OSK_2017_tab0bc",
+      "candidateRow": 1332,
+      "resultKey": "open-osk-2017-OSK_2017_tab09c",
+      "resultRow": 1327,
+      "statusKeys": [
+        "open-osk-2017-OSK_2017_tab04b",
+        "open-osk-2017-OSK_2017_tab04c",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend",
+        "osk2017-candidate-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "za-a-osk-2017-tab0bc",
+      "za-a-osk-2017-tab09c",
+      "za-a-osk-2017-tab04b",
+      "za-a-osk-2017-tab04c",
+      "history-recheck-a7f2bc3578124b1b"
+    ]
+  },
+  {
+    "candidateId": "dk-tatiana-cervenova",
+    "record": {
+      "datasetId": "2022-regional_council",
+      "date": "2022-10-29",
+      "office": "regional_council",
+      "name": "Tatiana Červeňová",
+      "age": 54,
+      "municipality": "Martin",
+      "locality": "Žilinský kraj",
+      "localityCode": "5",
+      "district": "506",
+      "outcome": "elected",
+      "votes": 5386,
+      "candidateKey": "open-osk-2022-OSK2022_SK_tab0b",
+      "candidateRow": 1487,
+      "resultKey": "open-osk-2022-OSK2022_SK_tab09b",
+      "resultRow": 1489,
+      "statusKeys": [
+        "open-osk-2022-OSK2022_SK_tab04b",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend",
+        "osk2022-legend"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-osk2022-sk-tab0b",
+      "statistics-regional-results-2022",
+      "history-recheck-597f8871a2d868ab",
+      "history-recheck-6e89c294180dc15c"
+    ]
+  },
+  {
+    "candidateId": "dk-tatiana-cervenova",
+    "record": {
+      "datasetId": "2022-municipal_council",
+      "date": "2022-10-29",
+      "office": "municipal_council",
+      "name": "Tatiana Červeňová",
+      "age": 54,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "512036",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 1007,
+      "candidateKey": "open-oso-2022-OSO2022_SK_tab0bd",
+      "candidateRow": 16515,
+      "resultKey": "open-oso-2022-OSO2022_SK_tab08e",
+      "resultRow": 16450,
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "mt-oso2022-sk-tab0bd",
+      "mt-oso2022-sk-tab08e"
+    ]
+  },
+  {
+    "candidateId": "dk-tatiana-cervenova",
+    "record": {
+      "datasetId": "2013-regional_council",
+      "date": "2013-11-09",
+      "office": "regional_council",
+      "name": "Tatiana Červeňová",
+      "age": 45,
+      "municipality": "Martin",
+      "locality": "Žilinský kraj",
+      "localityCode": "5",
+      "district": "6",
+      "outcome": "elected",
+      "votes": 3649,
+      "candidateKey": "osk2013-ZA-poslanec",
+      "candidateRow": {
+        "page": 13,
+        "ballot": 7,
+        "district": "6"
+      },
+      "resultKey": "open-osk-2013-1.kolo-OSK_2013_1kolo_tab08",
+      "resultRow": 1172,
+      "statusKeys": [
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab04",
+        "open-osk-2013-1.kolo-OSK_2013_1kolo_tab09"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "statistics-osk-candidates-2013",
+      "statistics-osk-results-2013",
+      "statistics-osk-elected-2013",
+      "history-recheck-8a6110b233eaf5f8"
+    ]
+  },
+  {
+    "candidateId": "dk-tatiana-cervenova",
+    "record": {
+      "datasetId": "2018-municipal_council",
+      "date": "2018-11-10",
+      "office": "municipal_council",
+      "name": "Tatiana Červeňová",
+      "age": 50,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "512036",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 1805,
+      "candidateKey": "oso2018-download-links-OSO_2018_okrsky-xlsx",
+      "candidateRow": 5784,
+      "resultKey": "oso2018-download-links-OSO_2018_okrsky-xlsx",
+      "resultRow": 5761,
+      "statusKeys": [
+        "local/martin2018-d9c57bf619"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "statistics-municipal-candidates-2018",
+      "history-four-cities-2000-d9c57bf619e5777f"
+    ]
+  },
+  {
+    "candidateId": "dk-tatiana-cervenova",
+    "record": {
+      "datasetId": "2014-mayor",
+      "date": "2014-11-15",
+      "office": "mayor",
+      "name": "Tatiana Červeňová",
+      "age": 46,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "martin",
+      "district": null,
+      "outcome": "not_elected",
+      "votes": 2009,
+      "candidateKey": "open-oso-2014-OSO_2014_tab11",
+      "candidateRow": 3235,
+      "resultKey": "open-oso-2014-OSO_2014_tab11",
+      "resultRow": 3235,
+      "statusKeys": [
+        "local/martin2014-3cc9a551f7"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "statistics-mayor-results-2014",
+      "history-four-cities-2000-5523c42315cb434d"
+    ]
+  },
+  {
+    "candidateId": "dk-tatiana-cervenova",
+    "record": {
+      "datasetId": "2014-municipal_council",
+      "date": "2014-11-15",
+      "office": "municipal_council",
+      "name": "Tatiana Červeňová",
+      "age": 46,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "512036",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 1407,
+      "candidateKey": "oso2014-selected-council-votes",
+      "candidateRow": [
+        21052,
+        21084,
+        21116,
+        21148,
+        21180,
+        21212,
+        21244,
+        21276,
+        21308,
+        21340,
+        21372,
+        21404
+      ],
+      "resultKey": "oso2014-selected-council-votes",
+      "resultRow": [
+        21052,
+        21084,
+        21116,
+        21148,
+        21180,
+        21212,
+        21244,
+        21276,
+        21308,
+        21340,
+        21372,
+        21404
+      ],
+      "statusKeys": [
+        "local/martin2014-c6f7d67b0a"
+      ]
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-recheck-13ccc60700ad185a",
+      "history-four-cities-2000-80eff1491a3d0452"
+    ]
+  },
+  {
+    "candidateId": "dk-tatiana-cervenova",
+    "record": {
+      "datasetId": "2010-municipal_council",
+      "date": "2010-11-27",
+      "office": "municipal_council",
+      "name": "Tatiana Červeňová",
+      "age": 42,
+      "municipality": "Martin",
+      "locality": "Martin",
+      "localityCode": "martin",
+      "district": "1",
+      "outcome": "elected",
+      "votes": 876,
+      "candidateKey": "local/martin2010-28826",
+      "candidateRow": {
+        "page": 1,
+        "district": "1",
+        "method": "Unique exact full-name age clause in original registered candidate list."
+      },
+      "resultKey": "local/martin2010-28828",
+      "resultRow": {
+        "page": 2,
+        "votes": 876,
+        "outcome": "elected",
+        "nameBoxes": [
+          {
+            "left": "259",
+            "top": "549",
+            "width": "88",
+            "height": "19",
+            "text": "„Tatiana"
+          },
+          {
+            "left": "369",
+            "top": "546",
+            "width": "111",
+            "height": "22",
+            "text": "Červeňová"
+          }
+        ],
+        "voteBoxes": [
+          {
+            "left": "1206",
+            "top": "554",
+            "width": "37",
+            "height": "18",
+            "text": "876"
+          }
+        ]
+      },
+      "statusKeys": []
+    },
+    "reason": "Historical and current published age intervals conflict.",
+    "sourceIds": [
+      "history-four-cities-2000-3e81ec72ec39157e",
+      "history-four-cities-2000-872db98803a123c6"
+    ]
+  }
+]

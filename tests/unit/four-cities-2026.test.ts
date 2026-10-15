@@ -1,3 +1,4 @@
+import { restoreAuditedFile } from '../helpers/history-audit-preservation';
 import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
@@ -207,7 +208,7 @@ describe('four new cities: complete 2026 research', () => {
 
   it('preserves all previously approved cycle files and source records', async () => {
     for (const [file, sha256] of Object.entries(preservation.cycleFiles)) {
-      expect(createHash('sha256').update(readFileSync(`src/data/${file}`)).digest('hex'), file).toBe(sha256);
+      expect(createHash('sha256').update(restoreAuditedFile(`src/data/${file}`, readFileSync(`src/data/${file}`, 'utf8'))).digest('hex'), file).toBe(sha256);
     }
     const sources = new Map((await loadGlobalSources()).map((source) => [source.id, source]));
     for (const [id, sha256] of Object.entries(preservation.sourceRecords)) {

@@ -1,0 +1,2040 @@
+{
+  "presov": {
+    "city": "Prešov",
+    "people": 217,
+    "currentCandidacies": 269,
+    "coverageRecords": 1736,
+    "acceptedResults": 348,
+    "addedClaimIds": [
+      "psk-andrea-turcanova-history-2009-11-14-regional_council-7",
+      "psk-andrea-turcanova-history-2013-11-09-regional_council-7",
+      "psk-andrea-turcanova-history-2018-11-10-mayor-524140",
+      "psk-daniela-mrouahova-history-2014-11-15-municipal_council-524140",
+      "psk-daniela-mrouahova-history-2018-11-10-municipal_council-524140",
+      "psk-david-richard-obrocnik-history-2022-10-29-municipal_council-524140",
+      "psk-emil-chlapecek-history-2009-11-14-regional_council-7",
+      "psk-emil-chlapecek-history-2013-11-09-regional_council-7",
+      "psk-emil-chlapecek-history-2018-11-10-municipal_council-524140",
+      "psk-emil-kicura-history-2014-11-15-municipal_council-petrovany",
+      "psk-emil-kicura-history-2018-11-10-municipal_council-525014",
+      "psk-eva-harsaghy-history-2014-11-15-mayor-malysaris",
+      "psk-eva-harsaghy-history-2018-11-10-mayor-524841",
+      "psk-frantisek-olha-history-2017-11-04-regional_chair-7",
+      "psk-frantisek-olha-history-2018-11-10-mayor-524140",
+      "psk-frantisek-olha-history-2018-11-10-municipal_council-524140",
+      "psk-gabriela-viazankova-history-2014-11-15-mayor-radatice",
+      "psk-gabriela-viazankova-history-2018-11-10-mayor-525073",
+      "psk-igor-kivader-history-2018-11-10-municipal_council-524140",
+      "psk-igor-tkac-history-2018-11-10-municipal_council-524140",
+      "psk-ingrid-dolezalova-history-2024-10-05-mayor-524727",
+      "psk-jan-ahlers-history-2013-11-09-regional_council-7",
+      "psk-jan-ahlers-history-2014-11-15-municipal_council-524140",
+      "psk-jan-andrejko-history-2013-11-09-regional_council-7",
+      "psk-jan-benko-history-2018-11-10-municipal_council-524140",
+      "psk-jan-luteran-history-2018-11-10-municipal_council-524140",
+      "psk-jan-stanko-history-2005-11-26-regional_council-7",
+      "psk-janette-langova-history-2013-11-09-regional_council-7",
+      "psk-janette-langova-history-2014-11-15-municipal_council-524140",
+      "psk-janette-langova-history-2018-11-10-municipal_council-524140",
+      "psk-jaroslava-kutajova-history-2014-11-15-municipal_council-524140",
+      "psk-jaroslava-kutajova-history-2018-11-10-municipal_council-524140",
+      "psk-jiri-ballarin-history-2013-11-09-regional_council-7",
+      "psk-jozef-demcak-history-2018-11-10-municipal_council-524140",
+      "psk-jozef-dusenka-history-2018-11-10-municipal_council-524140",
+      "psk-juraj-hudac-history-2014-11-15-municipal_council-524140",
+      "psk-juraj-hudac-history-2018-11-10-municipal_council-524140",
+      "psk-lenka-kohaniova-history-2018-11-10-municipal_council-524140",
+      "psk-lubomir-cervenak-history-2005-11-26-regional_council-7",
+      "psk-lubomir-cervenak-history-2017-11-04-regional_council-7",
+      "psk-lubomir-cervenak-history-2022-10-29-municipal_council-524140",
+      "psk-lubomir-cervenak-history-2022-10-29-regional_council-7",
+      "psk-ludovit-malaga-history-2013-11-09-regional_council-7",
+      "psk-ludovit-malaga-history-2014-11-15-municipal_council-524140",
+      "psk-ludovit-malaga-history-2018-11-10-municipal_council-524140",
+      "psk-lukas-anderko-history-2018-11-10-municipal_council-524140",
+      "psk-marcela-antolova-history-2018-11-10-municipal_council-524140",
+      "psk-marek-ciz-history-2018-11-10-municipal_council-524140",
+      "psk-marek-kosc-history-2018-11-10-municipal_council-524140",
+      "psk-maria-halatova-history-2018-11-10-mayor-524221",
+      "psk-marian-damankos-history-2013-11-09-regional_council-7",
+      "psk-marian-zelenak-history-2014-11-15-municipal_council-cervenica",
+      "psk-marta-fertalova-history-2018-11-10-municipal_council-524140",
+      "psk-marta-kollarova-history-2005-11-26-regional_council-7",
+      "psk-marta-kollarova-history-2010-11-27-mayor-presov",
+      "psk-marta-kollarova-history-2010-11-27-municipal_council-presov",
+      "psk-marta-kollarova-history-2014-11-15-municipal_council-524140",
+      "psk-marta-kollarova-history-2018-11-10-municipal_council-524140",
+      "psk-martin-angelovic-history-2018-11-10-municipal_council-524140",
+      "psk-martin-dolinsky-history-2018-11-10-municipal_council-524140",
+      "psk-martin-durisin-history-2014-11-15-municipal_council-524140",
+      "psk-martin-durisin-history-2018-11-10-municipal_council-524140",
+      "psk-martin-estocak-history-2018-11-10-municipal_council-524140",
+      "psk-martin-kovalcik-history-2018-11-10-municipal_council-524140",
+      "psk-martin-lukac-history-2018-11-10-municipal_council-524140",
+      "psk-martina-copakova-history-2018-11-10-municipal_council-524140",
+      "psk-michael-miklosko-history-2018-11-10-municipal_council-524140",
+      "psk-michal-mamrilla-history-2009-11-14-regional_council-7",
+      "psk-michal-mamrilla-history-2018-11-10-municipal_council-524140",
+      "psk-mikulas-komanicky-history-2009-11-14-regional_council-7",
+      "psk-mikulas-komanicky-history-2010-11-27-municipal_council-presov",
+      "psk-mikulas-komanicky-history-2013-11-09-regional_council-7",
+      "psk-mikulas-komanicky-history-2014-11-15-municipal_council-524140",
+      "psk-mikulas-komanicky-history-2018-11-10-municipal_council-524140",
+      "psk-milan-majersky-history-2009-11-14-regional_council-7",
+      "psk-milan-majersky-history-2013-11-09-regional_council-7",
+      "psk-milan-majersky-history-2017-11-04-regional_chair-7",
+      "psk-miroslav-barna-history-2018-11-10-municipal_council-524140",
+      "psk-miroslav-benko-history-2009-11-14-regional_council-7",
+      "psk-miroslav-benko-history-2010-11-27-municipal_council-presov",
+      "psk-miroslav-benko-history-2013-11-09-regional_council-7",
+      "psk-miroslav-benko-history-2014-11-15-municipal_council-524140",
+      "psk-miroslav-benko-history-2018-11-10-mayor-524140",
+      "psk-miroslav-benko-history-2018-11-10-municipal_council-524140",
+      "psk-miroslav-novak-history-2018-11-10-municipal_council-524140",
+      "psk-patrik-bencik-history-2018-11-10-municipal_council-524140",
+      "psk-patrik-tomic-history-2010-11-27-mayor-presov",
+      "psk-patrik-tomic-history-2013-11-09-regional_council-7",
+      "psk-patrik-tomic-history-2018-11-10-municipal_council-524140",
+      "psk-pavel-hagyari-history-2006-12-02-mayor-presov",
+      "psk-pavel-hagyari-history-2009-11-14-regional_chair-7",
+      "psk-pavel-hagyari-history-2010-11-27-mayor-presov",
+      "psk-pavel-hagyari-history-2013-11-09-regional_council-7",
+      "psk-pavel-hagyari-history-2018-11-10-mayor-524140",
+      "psk-pavol-kleban-history-2013-11-09-regional_council-7",
+      "psk-pavol-neupauer-history-2018-11-10-municipal_council-524140",
+      "psk-pavol-sabol-history-2018-11-10-municipal_council-524140",
+      "psk-peter-cvengros-history-2014-11-15-municipal_council-524140",
+      "psk-peter-cvengros-history-2017-11-04-regional_council-7",
+      "psk-peter-krajnak-history-2009-11-14-regional_council-7",
+      "psk-peter-krajnak-history-2013-11-09-regional_council-7",
+      "psk-peter-krajnak-history-2018-11-10-municipal_council-524140",
+      "psk-peter-sulik-history-2018-11-10-municipal_council-524140",
+      "psk-peter-visnovsky-history-2022-10-29-municipal_council-524395",
+      "psk-peter-visnovsky-history-2022-10-29-regional_council-7",
+      "psk-rastislav-mochnacky-history-2018-11-10-municipal_council-524140",
+      "psk-renata-fedorcikova-history-2014-11-15-municipal_council-524140",
+      "psk-renata-fedorcikova-history-2018-11-10-municipal_council-524140",
+      "psk-richard-drutarovsky-history-2006-12-02-mayor-presov",
+      "psk-richard-drutarovsky-history-2013-11-09-regional_council-7",
+      "psk-richard-drutarovsky-history-2014-11-15-municipal_council-524140",
+      "psk-richard-drutarovsky-history-2018-11-10-mayor-524140",
+      "psk-richard-drutarovsky-history-2018-11-10-municipal_council-524140",
+      "psk-richard-dubovicky-history-2018-11-10-municipal_council-524140",
+      "psk-robert-tkac-history-2014-11-15-mayor-zahradne",
+      "psk-rudolf-voit-history-2013-11-09-regional_council-7",
+      "psk-slavka-corejova-history-2018-11-10-municipal_council-524140",
+      "psk-stanislav-lukac-history-2018-11-10-municipal_council-524140",
+      "psk-stanislav-mathia-history-2005-11-26-regional_council-7",
+      "psk-stanislav-mathia-history-2010-11-27-mayor-malysaris",
+      "psk-stanislav-mathia-history-2013-11-09-regional_council-7",
+      "psk-stanislav-svaby-history-2013-11-09-regional_council-7",
+      "psk-stefan-simocko-history-2018-11-10-municipal_council-524140",
+      "psk-stefania-andrascikova-history-2005-11-26-regional_council-7",
+      "psk-stefania-andrascikova-history-2014-11-15-municipal_council-524140",
+      "psk-stefania-andrascikova-history-2018-11-10-municipal_council-524140",
+      "psk-svetlana-pavlovicova-history-2010-11-27-municipal_council-presov",
+      "psk-svetlana-pavlovicova-history-2018-11-10-municipal_council-524140",
+      "psk-viera-lescakova-history-2013-11-09-regional_council-7",
+      "psk-vladimir-felbaba-history-2018-11-10-municipal_council-524140",
+      "psk-zuzana-ondrejcakova-history-2018-11-10-municipal_council-524140",
+      "psk-zuzana-tkacova-history-2014-11-15-municipal_council-524140",
+      "psk-zuzana-tkacova-history-2018-11-10-municipal_council-524140"
+    ],
+    "outcomeCorrections": [],
+    "excludedMatchCount": 93,
+    "withheldMatchCount": 265,
+    "archiveLimits": [
+      "Úplné celoštátne zoznamy neúspešných a stiahnutých komunálnych kandidatúr z rokov2002/2006/2010 sa v otvorenom centrálnom archíve nenašli. Kroniky dopĺňajú iba výslovne uvedené výsledky; kronika2002 neobsahuje úplný menný výsledok poslancov.",
+      "Časť výsledkov poslancov2014 zostáva zadržaná, pretože v otvorených podkladoch nebol potvrdený presný osobitný status."
+    ],
+    "boundary": "City views overlap through shared regional chair candidates; these columns must not be summed as unique-person totals."
+  },
+  "poprad": {
+    "city": "Poprad",
+    "people": 114,
+    "currentCandidacies": 144,
+    "coverageRecords": 912,
+    "acceptedResults": 143,
+    "addedClaimIds": [
+      "psk-alena-madzinova-history-2013-11-09-regional_council-7",
+      "psk-alena-madzinova-history-2014-11-15-municipal_council-poprad",
+      "psk-alena-madzinova-history-2018-11-10-municipal_council-523381",
+      "psk-anna-ondrusekova-history-2013-11-09-regional_council-7",
+      "psk-anna-ondrusekova-history-2018-11-10-municipal_council-523381",
+      "psk-anton-danko-history-2009-11-14-regional_council-7",
+      "psk-anton-danko-history-2014-11-15-mayor-poprad",
+      "psk-anton-danko-history-2018-11-10-mayor-523381",
+      "psk-arne-krotak-history-2013-11-09-regional_council-7",
+      "psk-arne-krotak-history-2014-11-15-municipal_council-poprad",
+      "psk-frantisek-majersky-history-2018-11-10-municipal_council-523381",
+      "psk-helena-mezenska-history-2005-11-26-regional_council-7",
+      "psk-helena-mezenska-history-2018-11-10-municipal_council-523381",
+      "psk-igor-wzos-history-2013-11-09-regional_council-7",
+      "psk-igor-wzos-history-2014-11-15-municipal_council-poprad",
+      "psk-igor-wzos-history-2018-11-10-mayor-523381",
+      "psk-igor-wzos-history-2018-11-10-municipal_council-523381",
+      "psk-ivan-solovic-history-2005-11-26-regional_council-7",
+      "psk-jan-mokos-history-2005-11-26-regional_council-7",
+      "psk-jan-stanko-history-2005-11-26-regional_council-7",
+      "psk-jozef-dubasak-history-2018-11-10-municipal_council-523381",
+      "psk-jozef-janiga-history-2013-11-09-regional_council-7",
+      "psk-jozef-svagerko-history-2013-11-09-regional_council-7",
+      "psk-jozef-svagerko-history-2014-11-15-mayor-poprad",
+      "psk-jozef-svagerko-history-2014-11-15-municipal_council-poprad",
+      "psk-jozef-svagerko-history-2018-11-10-mayor-523381",
+      "psk-marian-barilla-history-2018-11-10-municipal_council-523381",
+      "psk-marian-saraka-history-2018-11-10-municipal_council-523381",
+      "psk-milan-majersky-history-2009-11-14-regional_council-7",
+      "psk-milan-majersky-history-2013-11-09-regional_council-7",
+      "psk-milan-majersky-history-2017-11-04-regional_chair-7",
+      "psk-ondrej-kavka-history-2014-11-15-municipal_council-poprad",
+      "psk-ondrej-kavka-history-2018-11-10-mayor-523381",
+      "psk-ondrej-kavka-history-2018-11-10-municipal_council-523381",
+      "psk-patrik-frantiska-history-2014-11-15-municipal_council-batizovce",
+      "psk-patrik-frantiska-history-2022-10-29-municipal_council-523402",
+      "psk-peter-brenisin-history-2013-11-09-regional_council-7",
+      "psk-peter-brenisin-history-2014-11-15-municipal_council-poprad",
+      "psk-peter-brenisin-history-2018-11-10-municipal_council-523381",
+      "psk-slavomir-bozon-history-2013-11-09-regional_council-7",
+      "psk-slavomir-bozon-history-2014-11-15-municipal_council-poprad",
+      "psk-stefan-pcola-history-2014-11-15-municipal_council-poprad",
+      "psk-stefan-pcola-history-2018-11-10-municipal_council-523381",
+      "psk-stefan-vartovnik-history-2018-11-10-mayor-523925",
+      "psk-tatiana-husarova-history-2018-11-10-municipal_council-523381"
+    ],
+    "outcomeCorrections": [],
+    "excludedMatchCount": 25,
+    "withheldMatchCount": 110,
+    "archiveLimits": [
+      "Staré mestské a centrálne archívy neposkytujú úplné kandidátne zoznamy a výsledky poslancov2002/2006/2010.",
+      "Zoznamy kandidátov2018 a uverejnenie zvolených boli otvorené; pri niektorých nezvolených chýba potvrdený zoznam náhradníkov. Samotný príznak nezvolenia sa nemení na náhradníka."
+    ],
+    "boundary": "City views overlap through shared regional chair candidates; these columns must not be summed as unique-person totals."
+  },
+  "martin": {
+    "city": "Martin",
+    "people": 124,
+    "currentCandidacies": 155,
+    "coverageRecords": 992,
+    "acceptedResults": 266,
+    "addedClaimIds": [
+      "mt-adam-zilak-history-2018-11-10-municipal_council-512036",
+      "mt-alena-matejova-history-2010-11-27-municipal_council-martin",
+      "mt-branislav-zacharides-history-2017-11-04-regional_council-5",
+      "mt-daniel-diskanec-history-2010-11-27-mayor-martin",
+      "mt-daniel-diskanec-history-2010-11-27-municipal_council-martin",
+      "mt-daniel-diskanec-history-2014-11-15-municipal_council-512036",
+      "mt-dusan-hasko-history-2013-11-09-regional_council-5",
+      "mt-dusan-hasko-history-2014-11-15-municipal_council-512036",
+      "mt-dusan-zachar-history-2014-11-15-municipal_council-512036",
+      "mt-ivan-jancko-history-2018-11-10-municipal_council-512036",
+      "mt-jozef-kristoffy-history-2017-11-04-regional_council-5",
+      "mt-jozef-kristoffy-history-2018-11-10-municipal_council-512036",
+      "mt-jozef-petras-history-2014-11-15-municipal_council-512036",
+      "mt-jozef-petras-history-2018-11-10-mayor-512036",
+      "mt-jozef-petras-history-2018-11-10-municipal_council-512036",
+      "mt-juraj-diabelko-history-2010-11-27-municipal_council-martin",
+      "mt-juraj-diabelko-history-2014-11-15-municipal_council-512036",
+      "mt-juraj-stahl-history-2010-11-27-municipal_council-martin",
+      "mt-juraj-stahl-history-2014-11-15-municipal_council-512036",
+      "mt-livia-gergisakova-history-2018-11-10-municipal_council-512036",
+      "mt-lubomir-vanko-history-2010-11-27-municipal_council-martin",
+      "mt-lubomir-vanko-history-2013-11-09-regional_council-5",
+      "mt-lubomir-vanko-history-2014-11-15-municipal_council-512036",
+      "mt-lubomir-vanko-history-2018-11-10-municipal_council-512036",
+      "mt-marcel-matovcik-history-2010-11-27-municipal_council-martin",
+      "mt-marcel-matovcik-history-2014-11-15-municipal_council-512036",
+      "mt-marcel-matovcik-history-2017-11-04-regional_council-5",
+      "mt-marcel-matovcik-history-2018-11-10-mayor-512036",
+      "mt-marcel-matovcik-history-2018-11-10-municipal_council-512036",
+      "mt-marek-belak-history-2014-11-15-mayor-martin",
+      "mt-marek-belak-history-2014-11-15-municipal_council-512036",
+      "mt-marek-belak-history-2017-11-04-regional_council-5",
+      "mt-marek-belak-history-2018-11-10-mayor-512036",
+      "mt-marek-belak-history-2018-11-10-municipal_council-512036",
+      "mt-marian-fedor-history-2010-11-27-municipal_council-martin",
+      "mt-marian-fedor-history-2013-11-09-regional_council-5",
+      "mt-marian-fedor-history-2014-11-15-municipal_council-512036",
+      "mt-marian-fedor-history-2017-11-04-regional_council-5",
+      "mt-marian-fedor-history-2018-11-10-municipal_council-512036",
+      "mt-marina-gallova-history-2010-11-27-municipal_council-martin",
+      "mt-marina-gallova-history-2014-11-15-municipal_council-512036",
+      "mt-marina-gallova-history-2018-11-10-municipal_council-512036",
+      "mt-martin-hudec-history-2010-11-27-municipal_council-martin",
+      "mt-martin-hudec-history-2014-11-15-municipal_council-512036",
+      "mt-martin-hudec-history-2017-11-04-regional_council-5",
+      "mt-martin-hudec-history-2018-11-10-municipal_council-512036",
+      "mt-martin-lechan-history-2010-11-27-municipal_council-martin",
+      "mt-martin-lechan-history-2014-11-15-municipal_council-512036",
+      "mt-martin-lechan-history-2018-11-10-municipal_council-512036",
+      "mt-matej-borik-history-2013-11-09-regional_council-5",
+      "mt-matej-borik-history-2014-11-15-municipal_council-512036",
+      "mt-matej-borik-history-2018-11-10-municipal_council-512036",
+      "mt-michal-kral-history-2010-11-27-municipal_council-martin",
+      "mt-michal-kral-history-2014-11-15-municipal_council-512036",
+      "mt-michal-kral-history-2018-11-10-municipal_council-512036",
+      "mt-michal-matejicka-history-2014-11-15-municipal_council-512036",
+      "mt-michal-matejicka-history-2018-11-10-municipal_council-512036",
+      "mt-michal-uhercik-history-2009-11-14-regional_council-5",
+      "mt-michal-uhercik-history-2010-11-27-municipal_council-martin",
+      "mt-michal-uhercik-history-2014-11-15-municipal_council-512036",
+      "mt-michal-uhercik-history-2018-11-10-municipal_council-512036",
+      "mt-milan-ftorek-history-2018-11-10-municipal_council-512036",
+      "mt-miroslav-herak-history-2013-11-09-regional_council-5",
+      "mt-miroslav-herak-history-2017-11-04-regional_council-5",
+      "mt-miroslav-herak-history-2018-11-10-municipal_council-512036",
+      "mt-pavol-zemko-history-2010-11-27-municipal_council-martin",
+      "mt-pavol-zemko-history-2017-11-04-regional_council-5",
+      "mt-pavol-zemko-history-2018-11-10-municipal_council-512036",
+      "mt-peter-hascik-history-2005-11-26-regional_council-5",
+      "mt-peter-hascik-history-2010-11-27-municipal_council-martin",
+      "mt-peter-hascik-history-2014-11-15-municipal_council-512036",
+      "mt-peter-hascik-history-2018-11-10-municipal_council-512036",
+      "mt-peter-kasuba-history-2005-11-26-regional_council-5",
+      "mt-peter-kasuba-history-2010-11-27-municipal_council-martin",
+      "mt-peter-kasuba-history-2013-11-09-regional_council-5",
+      "mt-peter-kasuba-history-2014-11-15-municipal_council-512036",
+      "mt-peter-kasuba-history-2017-11-04-regional_council-5",
+      "mt-peter-kasuba-history-2018-11-10-municipal_council-512036",
+      "mt-peter-matejka-history-2010-11-27-municipal_council-martin",
+      "mt-peter-matejka-history-2014-11-15-municipal_council-512036",
+      "mt-peter-matejka-history-2018-11-10-municipal_council-512036",
+      "mt-peter-mestan-history-2014-11-15-municipal_council-512036",
+      "mt-peter-mestan-history-2018-11-10-municipal_council-512036",
+      "mt-peter-torok-history-2010-11-27-municipal_council-martin",
+      "mt-peter-torok-history-2018-11-10-municipal_council-512036",
+      "mt-peter-vons-history-2009-11-14-regional_council-5",
+      "mt-peter-vons-history-2010-11-27-mayor-martin",
+      "mt-peter-vons-history-2010-11-27-municipal_council-martin",
+      "mt-peter-vons-history-2013-11-09-regional_council-5",
+      "mt-peter-vons-history-2014-11-15-mayor-martin",
+      "mt-peter-vons-history-2014-11-15-municipal_council-512036",
+      "mt-peter-vons-history-2017-11-04-regional_council-5",
+      "mt-peter-vons-history-2018-11-10-mayor-512036",
+      "mt-peter-vons-history-2018-11-10-municipal_council-512036",
+      "mt-richard-liska-history-2014-11-15-municipal_council-512036",
+      "mt-stanislav-ondrus-history-2018-11-10-mayor-512036",
+      "mt-stanislav-ondrus-history-2018-11-10-municipal_council-512036",
+      "mt-stanislav-sturik-history-2010-11-27-municipal_council-martin",
+      "mt-stanislav-thomka-history-2005-11-26-regional_council-5",
+      "mt-stanislav-thomka-history-2009-11-14-regional_council-5",
+      "mt-stanislav-thomka-history-2010-11-27-municipal_council-martin",
+      "mt-stanislav-thomka-history-2013-11-09-regional_council-5",
+      "mt-stanislav-thomka-history-2014-11-15-municipal_council-512036",
+      "mt-stanislav-thomka-history-2017-11-04-regional_council-5",
+      "mt-stanislav-thomka-history-2018-11-10-municipal_council-512036",
+      "mt-stefan-balosak-history-2013-11-09-regional_council-5",
+      "mt-stefan-balosak-history-2017-11-04-regional_council-5",
+      "mt-tatiana-cervenova-history-2010-11-27-municipal_council-martin",
+      "mt-tatiana-cervenova-history-2013-11-09-regional_council-5",
+      "mt-tatiana-cervenova-history-2014-11-15-mayor-martin",
+      "mt-tatiana-cervenova-history-2014-11-15-municipal_council-512036",
+      "mt-tatiana-cervenova-history-2017-11-04-regional_council-5",
+      "mt-tatiana-cervenova-history-2018-11-10-municipal_council-512036",
+      "mt-tibor-adamko-history-2010-11-27-municipal_council-martin",
+      "mt-tibor-adamko-history-2013-11-09-regional_council-5",
+      "mt-tibor-adamko-history-2014-11-15-municipal_council-512036",
+      "mt-tibor-adamko-history-2018-11-10-municipal_council-512036",
+      "mt-tomas-ignacak-history-2018-11-10-municipal_council-512036",
+      "mt-tomas-zanovit-history-2009-11-14-regional_council-5",
+      "mt-tomas-zanovit-history-2010-11-27-municipal_council-martin",
+      "mt-tomas-zanovit-history-2013-11-09-regional_council-5",
+      "mt-tomas-zanovit-history-2014-11-15-municipal_council-512036",
+      "mt-tomas-zanovit-history-2017-11-04-regional_council-5",
+      "mt-tomas-zanovit-history-2018-11-10-municipal_council-512036",
+      "mt-viliam-komora-history-2010-11-27-municipal_council-martin",
+      "mt-viliam-komora-history-2014-11-15-municipal_council-512036",
+      "mt-viliam-komora-history-2018-11-10-municipal_council-512036",
+      "mt-viliam-majda-history-2005-11-26-regional_council-5",
+      "mt-viliam-majda-history-2006-12-02-mayor-martin",
+      "mt-viliam-majda-history-2010-11-27-municipal_council-martin",
+      "mt-viliam-majda-history-2014-11-15-municipal_council-512036",
+      "mt-viliam-majda-history-2018-11-10-municipal_council-512036",
+      "mt-zdenko-kozak-history-2005-11-26-regional_council-5",
+      "mt-zdenko-kozak-history-2013-11-09-regional_council-5",
+      "mt-zdenko-kozak-history-2014-11-15-mayor-martin",
+      "mt-zdenko-kozak-history-2014-11-15-municipal_council-512036",
+      "mt-zdenko-kozak-history-2017-11-04-regional_council-5",
+      "mt-zdenko-kozak-history-2018-11-10-municipal_council-512036",
+      "mt-zuzana-badova-history-2014-11-15-municipal_council-512036",
+      "mt-zuzana-badova-history-2018-11-10-municipal_council-512036"
+    ],
+    "outcomeCorrections": [
+      {
+        "claimId": "claim-candidate-87-regional-result-2017",
+        "before": {
+          "id": "claim-candidate-87-regional-result-2017",
+          "candidateId": "candidate-87",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Krajské voľby 2017"
+          },
+          "text": {
+            "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 11 so 6 064 hlasmi (1,84 %); výsledok: nezvolený."
+          },
+          "period": "2017",
+          "sourceIds": [
+            "statistics-regional-candidates-2017",
+            "statistics-regional-results-2017"
+          ],
+          "checkedAt": "2026-09-18",
+          "election": {
+            "contestId": "osk-council-2017",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "claim-candidate-87-regional-result-2017",
+          "candidateId": "candidate-87",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Krajské voľby 2017"
+          },
+          "text": {
+            "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 11 so 6 064 hlasmi (1,84 %); výsledok: nezvolený; náhradník."
+          },
+          "period": "2017",
+          "sourceIds": [
+            "statistics-regional-candidates-2017",
+            "statistics-regional-results-2017",
+            "za-a-osk-2017-tab04b",
+            "za-a-osk-2017-tab04c",
+            "history-recheck-a7f2bc3578124b1b"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "osk-council-2017",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "claim-candidate-90-regional-result-2022",
+        "before": {
+          "id": "claim-candidate-90-regional-result-2022",
+          "candidateId": "candidate-90",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Krajské voľby 2022"
+          },
+          "text": {
+            "sk": "Oficiálne výsledky uvádzajú Adama Lučanského vo volebnom obvode č. 6 s 2 966 hlasmi (1,76 %); výsledok: nezvolený."
+          },
+          "period": "2022",
+          "sourceIds": [
+            "statistics-regional-candidates-2022",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-09-18",
+          "election": {
+            "contestId": "osk-council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "claim-candidate-90-regional-result-2022",
+          "candidateId": "candidate-90",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Krajské voľby 2022"
+          },
+          "text": {
+            "sk": "Oficiálne výsledky uvádzajú Adama Lučanského vo volebnom obvode č. 6 s 2 966 hlasmi (1,76 %); výsledok: nezvolený; náhradník."
+          },
+          "period": "2022",
+          "sourceIds": [
+            "statistics-regional-candidates-2022",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "osk-council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "claim-candidate-91-zsk-council-2022",
+        "before": {
+          "id": "claim-candidate-91-zsk-council-2022",
+          "candidateId": "candidate-91",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Voľby do zastupiteľstva ŽSK 2022"
+          },
+          "text": {
+            "sk": "Milan Pova získal vo volebnom obvode Ružomberok 281 platných hlasov (0,35 %) a nebol zvolený."
+          },
+          "period": "2022-10-29",
+          "sourceIds": [
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-09-18",
+          "election": {
+            "contestId": "osk-council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "claim-candidate-91-zsk-council-2022",
+          "candidateId": "candidate-91",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Voľby do zastupiteľstva ŽSK 2022"
+          },
+          "text": {
+            "sk": "Milan Pova získal vo volebnom obvode Ružomberok 281 platných hlasov (0,35 %) a nebol zvolený; náhradník."
+          },
+          "period": "2022-10-29",
+          "sourceIds": [
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "osk-council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "mt-adam-zilak-region-council-result-2022",
+        "before": {
+          "id": "mt-adam-zilak-region-council-result-2022",
+          "candidateId": "mt-adam-zilak",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 2661 hlasov (1,58 %); nezvolený."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-adam-zilak-region-council-result-2022",
+          "candidateId": "mt-adam-zilak",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 2661 hlasov (1,58 %); nezvolený; náhradník."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-bibiana-panisova-2022-regional_council",
+        "before": {
+          "id": "mt-bibiana-panisova-2022-regional_council",
+          "candidateId": "mt-bibiana-panisova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získala 1 883 hlasov (1,12 %) a nebola zvolená."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-bibiana-panisova-2022-regional_council",
+          "candidateId": "mt-bibiana-panisova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získala 1 883 hlasov (1,12 %) a nebola zvolená; náhradníčka."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-dana-cervanova-region-council-result-2022",
+        "before": {
+          "id": "mt-dana-cervanova-region-council-result-2022",
+          "candidateId": "mt-dana-cervanova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získala 1639 hlasov (0,97 %); nezvolená."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-dana-cervanova-region-council-result-2022",
+          "candidateId": "mt-dana-cervanova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získala 1639 hlasov (0,97 %); nezvolená; náhradníčka."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-daniel-diskanec-previous_elections-2",
+        "before": {
+          "id": "mt-daniel-diskanec-previous_elections-2",
+          "candidateId": "mt-daniel-diskanec",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 1763 platných hlasov (1,04 %); nebol zvolený."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "mt-daniel-diskanec-previous_elections-2",
+          "candidateId": "mt-daniel-diskanec",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 1763 platných hlasov (1,04 %); nebol zvolený; náhradník."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "mt-dusan-zachar-previous_elections-2",
+        "before": {
+          "id": "mt-dusan-zachar-previous_elections-2",
+          "candidateId": "mt-dusan-zachar",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 1170 platných hlasov (0,69 %); nebol zvolený."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "mt-dusan-zachar-previous_elections-2",
+          "candidateId": "mt-dusan-zachar",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 1170 platných hlasov (0,69 %); nebol zvolený; náhradník."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "mt-ivan-jancko-region-council-result-2022",
+        "before": {
+          "id": "mt-ivan-jancko-region-council-result-2022",
+          "candidateId": "mt-ivan-jancko",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 1274 hlasov (0,75 %); nezvolený."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-ivan-jancko-region-council-result-2022",
+          "candidateId": "mt-ivan-jancko",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 1274 hlasov (0,75 %); nezvolený; náhradník."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-jozef-kristoffy-region-council-result-2022",
+        "before": {
+          "id": "mt-jozef-kristoffy-region-council-result-2022",
+          "candidateId": "mt-jozef-kristoffy",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 3176 hlasov (1,89 %); nezvolený."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-jozef-kristoffy-region-council-result-2022",
+          "candidateId": "mt-jozef-kristoffy",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 3176 hlasov (1,89 %); nezvolený; náhradník."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-jozef-petras-2022-regional_council",
+        "before": {
+          "id": "mt-jozef-petras-2022-regional_council",
+          "candidateId": "mt-jozef-petras",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 3 327 hlasov (1,98 %) a nebol zvolený."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-jozef-petras-2022-regional_council",
+          "candidateId": "mt-jozef-petras",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 3 327 hlasov (1,98 %) a nebol zvolený; náhradník."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-juraj-stahl-previous_elections-2",
+        "before": {
+          "id": "mt-juraj-stahl-previous_elections-2",
+          "candidateId": "mt-juraj-stahl",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 2715 platných hlasov (1,61 %); nebol zvolený."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "mt-juraj-stahl-previous_elections-2",
+          "candidateId": "mt-juraj-stahl",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 2715 platných hlasov (1,61 %); nebol zvolený; náhradník."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "mt-lubomir-vanko-previous_elections-2",
+        "before": {
+          "id": "mt-lubomir-vanko-previous_elections-2",
+          "candidateId": "mt-lubomir-vanko",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 2476 platných hlasov (1,47 %); nebol zvolený."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "mt-lubomir-vanko-previous_elections-2",
+          "candidateId": "mt-lubomir-vanko",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 2476 platných hlasov (1,47 %); nebol zvolený; náhradník."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "mt-lubos-gottwald-2022-regional_council",
+        "before": {
+          "id": "mt-lubos-gottwald-2022-regional_council",
+          "candidateId": "mt-lubos-gottwald",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 3 097 hlasov (1,84 %) a nebol zvolený."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-lubos-gottwald-2022-regional_council",
+          "candidateId": "mt-lubos-gottwald",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 3 097 hlasov (1,84 %) a nebol zvolený; náhradník."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-lucia-omamikova-region-council-result-2022",
+        "before": {
+          "id": "mt-lucia-omamikova-region-council-result-2022",
+          "candidateId": "mt-lucia-omamikova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získala 1690 hlasov (1,00 %); nezvolená."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-lucia-omamikova-region-council-result-2022",
+          "candidateId": "mt-lucia-omamikova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získala 1690 hlasov (1,00 %); nezvolená; náhradníčka."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-marcel-matovcik-previous_elections-2",
+        "before": {
+          "id": "mt-marcel-matovcik-previous_elections-2",
+          "candidateId": "mt-marcel-matovcik",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 3095 platných hlasov (1,84 %); nebol zvolený."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "mt-marcel-matovcik-previous_elections-2",
+          "candidateId": "mt-marcel-matovcik",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 3095 platných hlasov (1,84 %); nebol zvolený; náhradník."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "mt-marcela-balosakova-region-council-result-2022",
+        "before": {
+          "id": "mt-marcela-balosakova-region-council-result-2022",
+          "candidateId": "mt-marcela-balosakova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získala 2339 hlasov (1,39 %); nezvolená."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-marcela-balosakova-region-council-result-2022",
+          "candidateId": "mt-marcela-balosakova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získala 2339 hlasov (1,39 %); nezvolená; náhradníčka."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-marek-belak-region-council-result-2022",
+        "before": {
+          "id": "mt-marek-belak-region-council-result-2022",
+          "candidateId": "mt-marek-belak",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 3240 hlasov (1,92 %); nezvolený."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-marek-belak-region-council-result-2022",
+          "candidateId": "mt-marek-belak",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 3240 hlasov (1,92 %); nezvolený; náhradník."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-marian-fedor-previous_elections-2",
+        "before": {
+          "id": "mt-marian-fedor-previous_elections-2",
+          "candidateId": "mt-marian-fedor",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 2522 platných hlasov (1,50 %); nebol zvolený."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "mt-marian-fedor-previous_elections-2",
+          "candidateId": "mt-marian-fedor",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 2522 platných hlasov (1,50 %); nebol zvolený; náhradník."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "mt-marina-gallova-region-council-result-2022",
+        "before": {
+          "id": "mt-marina-gallova-region-council-result-2022",
+          "candidateId": "mt-marina-gallova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získala 4904 hlasov (2,92 %); nezvolená."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-marina-gallova-region-council-result-2022",
+          "candidateId": "mt-marina-gallova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získala 4904 hlasov (2,92 %); nezvolená; náhradníčka."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-martin-hudec-region-council-result-2022",
+        "before": {
+          "id": "mt-martin-hudec-region-council-result-2022",
+          "candidateId": "mt-martin-hudec",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 3863 hlasov (2,30 %); nezvolený."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-martin-hudec-region-council-result-2022",
+          "candidateId": "mt-martin-hudec",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 3863 hlasov (2,30 %); nezvolený; náhradník."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-miroslav-herak-region-council-result-2022",
+        "before": {
+          "id": "mt-miroslav-herak-region-council-result-2022",
+          "candidateId": "mt-miroslav-herak",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 830 hlasov (0,49 %); nezvolený."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-miroslav-herak-region-council-result-2022",
+          "candidateId": "mt-miroslav-herak",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získal 830 hlasov (0,49 %); nezvolený; náhradník."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-peter-kasuba-previous_elections-2",
+        "before": {
+          "id": "mt-peter-kasuba-previous_elections-2",
+          "candidateId": "mt-peter-kasuba",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 2882 platných hlasov (1,71 %); nebol zvolený."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "mt-peter-kasuba-previous_elections-2",
+          "candidateId": "mt-peter-kasuba",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 získal v súťaži o funkciu poslanca zastupiteľstva Žilinského samosprávneho kraja vo volebnom obvode č. 6 2882 platných hlasov (1,71 %); nebol zvolený; náhradník."
+          },
+          "period": "29.10.2022",
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "zsk-regional_council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "mt-peter-vons-2022-regional_council",
+        "before": {
+          "id": "mt-peter-vons-2022-regional_council",
+          "candidateId": "mt-peter-vons",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 3 394 hlasov (2,02 %) a nebol zvolený."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-peter-vons-2022-regional_council",
+          "candidateId": "mt-peter-vons",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 3 394 hlasov (2,02 %) a nebol zvolený; náhradník."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-stefan-balosak-2022-regional_council",
+        "before": {
+          "id": "mt-stefan-balosak-2022-regional_council",
+          "candidateId": "mt-stefan-balosak",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 2 299 hlasov (1,36 %) a nebol zvolený."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-stefan-balosak-2022-regional_council",
+          "candidateId": "mt-stefan-balosak",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 2 299 hlasov (1,36 %) a nebol zvolený; náhradník."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-tibor-adamko-2022-regional_council",
+        "before": {
+          "id": "mt-tibor-adamko-2022-regional_council",
+          "candidateId": "mt-tibor-adamko",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 2 963 hlasov (1,76 %) a nebol zvolený."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-tibor-adamko-2022-regional_council",
+          "candidateId": "mt-tibor-adamko",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 2 963 hlasov (1,76 %) a nebol zvolený; náhradník."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-veronika-gajdosova-ladnakova-region-council-result-2022",
+        "before": {
+          "id": "mt-veronika-gajdosova-ladnakova-region-council-result-2022",
+          "candidateId": "mt-veronika-gajdosova-ladnakova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získala 2069 hlasov (1,23 %); nezvolená."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-veronika-gajdosova-ladnakova-region-council-result-2022",
+          "candidateId": "mt-veronika-gajdosova-ladnakova",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách 29. októbra 2022 do Zastupiteľstva Žilinského samosprávneho kraja, obvod č. 6 (Martin) získala 2069 hlasov (1,23 %); nezvolená; náhradníčka."
+          },
+          "period": "29. októbra 2022",
+          "election": {
+            "contestId": "2022-zsk-region-council",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-viliam-komora-2022-regional_council",
+        "before": {
+          "id": "mt-viliam-komora-2022-regional_council",
+          "candidateId": "mt-viliam-komora",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 1 178 hlasov (0,70 %) a nebol zvolený."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-viliam-komora-2022-regional_council",
+          "candidateId": "mt-viliam-komora",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 1 178 hlasov (0,70 %) a nebol zvolený; náhradník."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      },
+      {
+        "claimId": "mt-zdenko-kozak-2022-regional_council",
+        "before": {
+          "id": "mt-zdenko-kozak-2022-regional_council",
+          "candidateId": "mt-zdenko-kozak",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 2 831 hlasov (1,68 %) a nebol zvolený."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-10-03"
+        },
+        "after": {
+          "id": "mt-zdenko-kozak-2022-regional_council",
+          "candidateId": "mt-zdenko-kozak",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Výsledok volieb 2022"
+          },
+          "text": {
+            "sk": "Vo voľbách Zastupiteľstva Žilinského samosprávneho kraja 29. 10. 2022 vo volebnom obvode č. 6 získal 2 831 hlasov (1,68 %) a nebol zvolený; náhradník."
+          },
+          "period": "voľby 29. 10. 2022",
+          "election": {
+            "contestId": "zsk-regional-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          },
+          "sourceIds": [
+            "mt-osk2022-sk-tab0b",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15"
+        }
+      }
+    ],
+    "excludedMatchCount": 39,
+    "withheldMatchCount": 104,
+    "archiveLimits": [
+      "Zápisnica a vyhlásenie kandidatúry2010 boli porovnané vrátane obrazových strán. Plné komunálne podklady2002/2006 a niektoré historické kandidátne listiny iných obcí chýbajú.",
+      "Peter Török2014: vyhlásenie z8.10.2014 uvádza46 rokov,2018 uvádza51. Pri predpoklade veku ku dňu volieb sú intervaly nezlučiteľné; nie je potvrdené, ku ktorému dňu sa vek2014 vzťahuje. Nový výsledok2014 sa nezverejňuje; nejde o dôkaz menovca.",
+      "Zdenka Lacková2010 vek60 a Bibiana Panisová2010 vek38 sú vylúčené pre nesúlad s aktuálnym vekom59/55. Juraj Diabelko2010/2014: zmenu obce Martin→Vrútky nenahrádza domnienka o trvalom pobyte; spojenie používa vek a úplnú konkrétnu stranu SMER-SD, overenú aj v riadku2022 spojenom cez vek a obec."
+    ],
+    "boundary": "City views overlap through shared regional chair candidates; these columns must not be summed as unique-person totals."
+  },
+  "dolny-kubin": {
+    "city": "Dolný Kubín",
+    "people": 59,
+    "currentCandidacies": 74,
+    "coverageRecords": 472,
+    "acceptedResults": 104,
+    "addedClaimIds": [
+      "dk-jozef-brtos-history-2013-11-09-regional_council-5",
+      "dk-jozef-brtos-history-2014-11-15-municipal_council-bziny",
+      "dk-jozef-brtos-history-2022-10-29-regional_council-5",
+      "dk-juliana-gregova-history-2014-11-15-municipal_council-dolnykubin",
+      "dk-matus-lakostik-history-2014-11-15-municipal_council-dolnykubin",
+      "dk-matus-mnich-history-2010-11-27-mayor-zazriva",
+      "dk-matus-mnich-history-2013-11-09-regional_council-5",
+      "dk-matus-mnich-history-2014-11-15-mayor-zazriva",
+      "dk-michal-lavrik-history-2009-11-14-regional_council-5",
+      "dk-miroslav-drab-history-2009-11-14-regional_council-5",
+      "dk-miroslav-drab-history-2013-11-09-regional_council-5",
+      "dk-miroslav-drab-history-2014-11-15-municipal_council-dolnykubin",
+      "dk-pavol-lorko-history-2022-10-29-regional_council-5",
+      "dk-peter-toman-history-2022-10-29-regional_council-5",
+      "dk-tomas-gajdos-history-2022-10-29-municipal_council-509540",
+      "dk-zdenko-kuban-history-2006-12-02-mayor-malatina",
+      "dk-zdenko-kuban-history-2010-11-27-mayor-malatina",
+      "dk-zdenko-kuban-history-2013-11-09-regional_council-5",
+      "dk-zdenko-kuban-history-2014-11-15-mayor-malatina"
+    ],
+    "outcomeCorrections": [
+      {
+        "claimId": "claim-candidate-87-regional-result-2017",
+        "before": {
+          "id": "claim-candidate-87-regional-result-2017",
+          "candidateId": "candidate-87",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Krajské voľby 2017"
+          },
+          "text": {
+            "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 11 so 6 064 hlasmi (1,84 %); výsledok: nezvolený."
+          },
+          "period": "2017",
+          "sourceIds": [
+            "statistics-regional-candidates-2017",
+            "statistics-regional-results-2017"
+          ],
+          "checkedAt": "2026-09-18",
+          "election": {
+            "contestId": "osk-council-2017",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "claim-candidate-87-regional-result-2017",
+          "candidateId": "candidate-87",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Krajské voľby 2017"
+          },
+          "text": {
+            "sk": "Oficiálne výsledky uvádzajú Igora Chomu vo volebnom obvode č. 11 so 6 064 hlasmi (1,84 %); výsledok: nezvolený; náhradník."
+          },
+          "period": "2017",
+          "sourceIds": [
+            "statistics-regional-candidates-2017",
+            "statistics-regional-results-2017",
+            "za-a-osk-2017-tab04b",
+            "za-a-osk-2017-tab04c",
+            "history-recheck-a7f2bc3578124b1b"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "osk-council-2017",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "claim-candidate-90-regional-result-2022",
+        "before": {
+          "id": "claim-candidate-90-regional-result-2022",
+          "candidateId": "candidate-90",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Krajské voľby 2022"
+          },
+          "text": {
+            "sk": "Oficiálne výsledky uvádzajú Adama Lučanského vo volebnom obvode č. 6 s 2 966 hlasmi (1,76 %); výsledok: nezvolený."
+          },
+          "period": "2022",
+          "sourceIds": [
+            "statistics-regional-candidates-2022",
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-09-18",
+          "election": {
+            "contestId": "osk-council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "claim-candidate-90-regional-result-2022",
+          "candidateId": "candidate-90",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Krajské voľby 2022"
+          },
+          "text": {
+            "sk": "Oficiálne výsledky uvádzajú Adama Lučanského vo volebnom obvode č. 6 s 2 966 hlasmi (1,76 %); výsledok: nezvolený; náhradník."
+          },
+          "period": "2022",
+          "sourceIds": [
+            "statistics-regional-candidates-2022",
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "osk-council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      },
+      {
+        "claimId": "claim-candidate-91-zsk-council-2022",
+        "before": {
+          "id": "claim-candidate-91-zsk-council-2022",
+          "candidateId": "candidate-91",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Voľby do zastupiteľstva ŽSK 2022"
+          },
+          "text": {
+            "sk": "Milan Pova získal vo volebnom obvode Ružomberok 281 platných hlasov (0,35 %) a nebol zvolený."
+          },
+          "period": "2022-10-29",
+          "sourceIds": [
+            "statistics-regional-results-2022"
+          ],
+          "checkedAt": "2026-09-18",
+          "election": {
+            "contestId": "osk-council-2022",
+            "office": "regional_council",
+            "outcome": "not_elected"
+          }
+        },
+        "after": {
+          "id": "claim-candidate-91-zsk-council-2022",
+          "candidateId": "candidate-91",
+          "category": "previous_elections",
+          "kind": "election_result",
+          "label": {
+            "sk": "Voľby do zastupiteľstva ŽSK 2022"
+          },
+          "text": {
+            "sk": "Milan Pova získal vo volebnom obvode Ružomberok 281 platných hlasov (0,35 %) a nebol zvolený; náhradník."
+          },
+          "period": "2022-10-29",
+          "sourceIds": [
+            "statistics-regional-results-2022",
+            "history-recheck-597f8871a2d868ab",
+            "history-recheck-6e89c294180dc15c"
+          ],
+          "checkedAt": "2026-10-15",
+          "election": {
+            "contestId": "osk-council-2022",
+            "office": "regional_council",
+            "outcome": "substitute"
+          }
+        }
+      }
+    ],
+    "excludedMatchCount": 16,
+    "withheldMatchCount": 24,
+    "archiveLimits": [
+      "Pri komunálnych cykloch2002/2006/2010 chýbajú úplné zoznamy všetkých kandidátov s overiteľnými identifikačnými znakmi. Priezviská v starých zápisniciach samy nestačia na spojenie.",
+      "Oficiálna história Malatinej uvádza pre rok2014 dátum24.11.; výsledok používa dátum celoštátneho volebného zdroja15.11.2014. Nevyvodzuje sa nepretržitý výkon funkcie."
+    ],
+    "boundary": "City views overlap through shared regional chair candidates; these columns must not be summed as unique-person totals."
+  }
+}

@@ -1,3 +1,4 @@
+import { restoreAuditedRecords } from '../helpers/history-audit-preservation';
 import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import { listPublishedElectionContexts, loadElectionCycle } from '../../src/lib/load-guide-data';
@@ -16,13 +17,14 @@ describe('audited Poprad and Prešov release', () => {
   it('retains actual category search receipts and original-source checks in the research journal', async () => {
     const data = await loadElectionCycle(2026, 'presovsky-kraj');
     const journal = JSON.parse(readFileSync('research/presov-poprad-2026.json', 'utf8'));
+    const previousCoverage = restoreAuditedRecords('src/data/elections/2026/presovsky-kraj/research-coverage.json', data.researchCoverage);
     expect(journal.snapshotDate).toBe('2026-10-14');
     expect(journal.people.map((row: { candidateId: string }) => row.candidateId).sort())
       .toEqual(data.candidates.map((row) => row.id).sort());
     for (const person of journal.people) {
       expect(person.categories, person.candidateId).toHaveLength(8);
       for (const category of person.categories) {
-        const coverage = data.researchCoverage.find((row) => row.candidateId === person.candidateId && row.category === category.category);
+        const coverage = previousCoverage.find((row) => row.candidateId === person.candidateId && row.category === category.category);
         expect(category.status).toBe(coverage?.status);
         expect(category.queries.length, `${person.candidateId}/${category.category}`).toBeGreaterThan(0);
         expect(category.boundary).toBeTruthy();

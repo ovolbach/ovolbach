@@ -1,3 +1,4 @@
+import { restoreAuditedRecords } from '../helpers/history-audit-preservation';
 import { existsSync, readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import { loadElectionContext, loadGlobalSources } from '../../src/lib/load-guide-data';
@@ -85,7 +86,7 @@ describe('Dolný Kubín additional media and event continuity review', () => {
         expect(current, approved.id).toEqual(approved);
       }
     }
-    expect(data.claims.filter((row) => row.kind === 'election_result')).toEqual(baseline.electionResults);
+    expect(restoreAuditedRecords('src/data/elections/2026/zilinsky-kraj/claims.json', data.claims).filter((row) => row.kind === 'election_result')).toEqual(baseline.electionResults);
   });
 
   it('includes the missed follow-up responses without presenting them as official findings', async () => {

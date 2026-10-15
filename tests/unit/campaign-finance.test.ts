@@ -82,7 +82,7 @@ describe('finance release data', () => {
     const row = data.campaignFinance[0]!;
     expect(validateDataset({ ...data, campaignFinance: [{ ...row, partyIds: [] }, ...data.campaignFinance.slice(1)] }, 'release').map((issue) => issue.code)).toContain('missing_finance_nomination');
     const context = await loadElectionContext({ citySlug: 'liptovsky-mikulas', year: 2026 });
-    expect(() => assembleElectionContext({ ...data, campaignFinance: [{ ...row, checkedAt: '2026-10-05' }, ...data.campaignFinance.slice(1)] }, context)).toThrow('Finance verification exceeds snapshot');
+    expect(() => assembleElectionContext({ ...data, campaignFinance: [{ ...row, checkedAt: '2026-10-16' }, ...data.campaignFinance.slice(1)] }, context)).toThrow('Finance verification exceeds snapshot');
   });
   it('keeps account evidence and legal exemption independent, allowing voluntary council accounts', () => {
     const data = makeGuideData();

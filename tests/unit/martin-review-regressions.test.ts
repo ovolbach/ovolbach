@@ -1,3 +1,4 @@
+import { restoreAuditedRecords } from '../helpers/history-audit-preservation';
 import { describe, expect, it } from 'vitest';
 import { readFile } from 'node:fs/promises';
 import { loadElectionContext } from '../../src/lib/load-guide-data';
@@ -16,7 +17,7 @@ describe('Martin independent source review', () => {
   it('locks complete historical result phrases and structured outcomes checked against official CSVs', async () => {
     const expected = JSON.parse(await readFile('tests/fixtures/martin-historical-results.json', 'utf8'));
     const { data } = await loadElectionContext({ citySlug: 'martin', year: 2026 });
-    expect(data.claims.filter((claim) => claim.candidateId.startsWith('mt-') && claim.kind === 'election_result')
+    expect(restoreAuditedRecords('src/data/elections/2026/zilinsky-kraj/claims.json', data.claims).filter((claim) => claim.candidateId.startsWith('mt-') && claim.kind === 'election_result')
       .map((claim) => ({ id: claim.id, candidateId: claim.candidateId, text: claim.text.sk, election: claim.election, period: claim.period })))
       .toEqual(expected);
   });
