@@ -1,6 +1,5 @@
 ---
 import type { RelatedCandidateGroup } from '../lib/related-candidates';
-import SourceLink from './SourceLink.astro';
 
 interface Props {
   groups: RelatedCandidateGroup[];
@@ -28,9 +27,6 @@ const { groups } = Astro.props;
             </li>
           ))}
         </ul>
-        <p class="related-candidates__sources">
-          <SourceLink recordId={group.id} sourceIds={group.sources.map((source) => source.id)} sources={group.sources} />
-        </p>
       </section>
     ))}
   </section>

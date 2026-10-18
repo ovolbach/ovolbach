@@ -1,8 +1,32 @@
 import AxeBuilder from '@axe-core/playwright';
-import { expect, test } from '@playwright/test';
+import { expect, test, type Locator } from '@playwright/test';
 
 const MUNICIPAL = '/liptovsky-mikulas/2026/kandidat/jan-blchac/';
 const REGIONAL = '/zilinsky-kraj/2026/kandidat/martin-kapitulik/';
+
+async function expectCandidateColumns(list: Locator, count: number) {
+  const rows = await list.locator('[data-related-candidate]').evaluateAll((items) => items.map((item, index) => {
+    const box = item.getBoundingClientRect();
+    const range = document.createRange();
+    range.selectNodeContents(item.querySelector('a')!);
+    return {
+      index, left: Math.round(box.left), top: box.top,
+      fragments: item.getClientRects().length,
+      textFits: Array.from(range.getClientRects()).every((rect) => rect.left >= box.left - 1 && rect.right <= box.right + 1),
+    };
+  }));
+  const columns = [...new Set(rows.map((row) => row.left))].sort((a, b) => a - b);
+  expect(columns).toHaveLength(count);
+  expect(columns.flatMap((left) => rows.filter((row) => row.left === left).map((row) => row.index)))
+    .toEqual(rows.map((row) => row.index));
+  for (const left of columns) {
+    const column = rows.filter((row) => row.left === left);
+    for (let index = 1; index < column.length; index += 1) {
+      expect(column[index]!.top).toBeGreaterThan(column[index - 1]!.top);
+    }
+  }
+  expect(rows.every((row) => row.fragments === 1 && row.textFits)).toBe(true);
+}
 
 for (const [path, counts] of [[MUNICIPAL, [2, 13, 29]], [REGIONAL, [6, 12, 82]]] as const) {
   test(`${path} ends with complete compact lists for each election`, async ({ page }) => {
@@ -19,8 +43,9 @@ for (const [path, counts] of [[MUNICIPAL, [2, 13, 29]], [REGIONAL, [6, 12, 82]]]
       await expect(group.locator('[data-related-candidate]')).toHaveCount(counts[index]!);
       const numbers = await group.locator('[data-related-candidate]').evaluateAll((rows) => rows.map((row) => Number(row.getAttribute('data-ballot-number'))));
       expect(numbers).toEqual([...numbers].sort((a, b) => a - b));
-      await expect(group.locator('[data-source-attribution] a').first()).toBeVisible();
-      await expect(group.locator('[data-source-attribution]').first()).toContainText('overené');
+      await expect(group.getByRole('link')).toHaveCount(counts[index]!);
+      await expect(group.locator('[data-source-attribution]')).toHaveCount(0);
+      await expectCandidateColumns(group.locator('.related-candidates__list'), page.viewportSize()!.width > 672 ? 2 : 1);
     }
     const ownId = await page.locator('[data-candidate-profile]').getAttribute('data-candidate-id');
     await expect(block.locator(`[data-related-candidate="${ownId}"]`)).toHaveCount(0);
@@ -29,6 +54,28 @@ for (const [path, counts] of [[MUNICIPAL, [2, 13, 29]], [REGIONAL, [6, 12, 82]]]
     expect(results.violations.filter((violation) => ['serious', 'critical'].includes(violation.impact ?? ''))).toEqual([]);
   });
 }
+
+test('candidate columns switch at 672/673 px and keep long names inside their column', async ({ page }) => {
+  await page.goto(MUNICIPAL);
+  const list = page.locator('[data-related-election="region-council"] .related-candidates__list');
+  for (const [width, count] of [[672, 1], [673, 2], [320, 1]] as const) {
+    await page.setViewportSize({ width, height: 900 });
+    await expectCandidateColumns(list, count);
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+  }
+});
+
+test('Tab follows candidates down the first column before entering the second', async ({ page }) => {
+  await page.goto(MUNICIPAL);
+  const list = page.locator('[data-related-election="city-council"] .related-candidates__list');
+  await expectCandidateColumns(list, page.viewportSize()!.width > 672 ? 2 : 1);
+  const links = list.getByRole('link');
+  await links.first().focus();
+  for (let index = 1; index < await links.count(); index += 1) {
+    await page.keyboard.press('Tab');
+    await expect(links.nth(index)).toBeFocused();
+  }
+});
 
 test('keyboard navigation between municipal profiles retains comparison selection', async ({ page }) => {
   await page.goto(`${MUNICIPAL}?kandidat=candidate-1&kandidat=candidate-2`);

@@ -320,9 +320,13 @@ body:has([data-district]:target) [data-district]:not(:target) {
   margin: 0;
   padding: 0;
   list-style: none;
+  column-count: 2;
+  column-gap: var(--space-3);
+  column-fill: balance;
 }
 
 .related-candidates__list li {
+  break-inside: avoid;
   display: grid;
   grid-template-columns: max-content minmax(0, 1fr);
   column-gap: var(--space-1);
@@ -338,10 +342,6 @@ body:has([data-district]:target) [data-district]:not(:target) {
 .related-candidates__number {
   color: var(--color-muted);
   font-variant-numeric: tabular-nums;
-}
-
-.related-candidates__sources {
-  margin-block: var(--space-1);
 }
 
 .candidacy,
@@ -468,6 +468,10 @@ body:has([data-district]:target) [data-district]:not(:target) {
   h1 { font-size: 2.125rem; }
   h2 { font-size: 1.75rem; }
   h3 { font-size: 1.375rem; }
+
+  .related-candidates__list {
+    column-count: 1;
+  }
 
   .comparison-table {
     display: none;
