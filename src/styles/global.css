@@ -312,6 +312,38 @@ body:has([data-district]:target) [data-district]:not(:target) {
   margin-block: var(--space-4);
 }
 
+.related-candidates__group {
+  margin-block: var(--space-3);
+}
+
+.related-candidates__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.related-candidates__list li {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  column-gap: var(--space-1);
+  align-items: baseline;
+}
+
+.related-candidates__list a {
+  min-height: 2.75rem;
+  padding-block: 0.375rem;
+  overflow-wrap: anywhere;
+}
+
+.related-candidates__number {
+  color: var(--color-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.related-candidates__sources {
+  margin-block: var(--space-1);
+}
+
 .candidacy,
 .claim,
 .source-register article {

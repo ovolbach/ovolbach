@@ -6,17 +6,23 @@ import CandidacyFacts from '../../../../components/CandidacyFacts.astro';
 import ComparisonSelection from '../../../../components/ComparisonSelection.astro';
 import ElectionHistoryTotals from '../../../../components/ElectionHistoryTotals.astro';
 import CampaignFinance from '../../../../components/CampaignFinance.astro';
+import RelatedCandidates from '../../../../components/RelatedCandidates.astro';
 import { getOfficialCandidacies } from '../../../../lib/official-facts';
 import { listPublishedElectionContexts } from '../../../../lib/load-guide-data';
 import { isRegionalContext, publishedProfileRoutes, candidateProfilePath, type ProfilePageContext } from '../../../../lib/regional-context';
 import { getCandidateProfile } from '../../../../lib/selectors';
 import { PROFILE_CATEGORIES, summarizeElectionHistory } from '../../../../lib/profile-content';
 import { candidateSeoMetadata } from '../../../../lib/seo-metadata';
+import { getRelatedCandidateGroups } from '../../../../lib/related-candidates';
 
 export async function getStaticPaths() {
-  return publishedProfileRoutes(await listPublishedElectionContexts()).map((route) => ({
+  const contexts = await listPublishedElectionContexts();
+  return publishedProfileRoutes(contexts).map((route) => ({
     params: { city: route.routeSlug, year: String(route.context.year), slug: route.slug },
-    props: { context: route.context, candidateId: route.candidateId },
+    props: {
+      context: route.context, candidateId: route.candidateId,
+      relatedCandidateGroups: getRelatedCandidateGroups(route.context, route.candidateId, contexts),
+    },
   }));
 }
 
@@ -76,5 +82,6 @@ const hasIndependentCandidacy = profile.candidacies.some((candidacy) => candidac
         sources={data.sources}
       />
     ))}
+    <RelatedCandidates groups={Astro.props.relatedCandidateGroups} />
   </article>
 </BaseLayout>

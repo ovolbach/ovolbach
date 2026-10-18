@@ -1,0 +1,37 @@
+---
+import type { RelatedCandidateGroup } from '../lib/related-candidates';
+import SourceLink from './SourceLink.astro';
+
+interface Props {
+  groups: RelatedCandidateGroup[];
+}
+
+const { groups } = Astro.props;
+---
+
+{groups.length > 0 && (
+  <section class="related-candidates" aria-labelledby="related-candidates-title" data-related-candidates data-pagefind-ignore>
+    <h2 id="related-candidates-title">Ďalší kandidáti v rovnakých voľbách</h2>
+    {groups.map((group) => (
+      <section class="related-candidates__group" aria-labelledby={`related-election-${group.id}`}
+        data-related-election={group.electionId} data-contest-id={group.contestId} data-district-id={group.districtId}>
+        <h3 id={`related-election-${group.id}`}>
+          {group.title}{group.districtName && <> — {group.districtName}</>}
+        </h3>
+        <ul class="related-candidates__list">
+          {group.candidates.map((candidate) => (
+            <li data-related-candidate={candidate.candidateId} data-ballot-number={candidate.ballotNumber}>
+              <span class="related-candidates__number" aria-hidden="true">{candidate.ballotNumber}.</span>
+              <a href={candidate.href} aria-label={`${candidate.displayName}, číslo na hlasovacom lístku ${candidate.ballotNumber}`}>
+                {candidate.displayName}
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p class="related-candidates__sources">
+          <SourceLink recordId={group.id} sourceIds={group.sources.map((source) => source.id)} sources={group.sources} />
+        </p>
+      </section>
+    ))}
+  </section>
+)}
